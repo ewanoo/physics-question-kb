@@ -10,7 +10,7 @@ build/
 # Data (exclude from git - too large, sensitive)
 data/questions/
 data/*.db
-data/coverage_report.json
+# data/coverage_report.json  # tracked to show completion status
 data/raw/
 logs/
 
