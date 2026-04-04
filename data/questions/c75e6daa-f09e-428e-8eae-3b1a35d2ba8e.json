@@ -1,0 +1,25 @@
+{
+  "id": "c75e6daa-f09e-428e-8eae-3b1a35d2ba8e",
+  "question_text": "Name two advantages of using renewable energy resources instead of non-renewable ones.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "non-renewable energy",
+    "environmental impact",
+    "sustainability"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: they don't run out/are sustainable; they produce little or no pollution/greenhouse gases; they don't damage the environment; they are available locally in many places; they don't contribute to climate change",
+  "explanation": "Renewable energy resources like solar, wind, and hydroelectric power naturally replenish themselves, so they won't run out like fossil fuels will. They also produce little to no pollution or greenhouse gases when generating electricity, making them much better for the environment and helping to reduce climate change.",
+  "source_url": "generate://energy.resources/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:22.394954",
+  "classified_at": "2026-04-04T19:55:22.394881",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

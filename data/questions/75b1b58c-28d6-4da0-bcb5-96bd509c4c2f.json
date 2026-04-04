@@ -1,0 +1,47 @@
+{
+  "id": "75b1b58c-28d6-4da0-bcb5-96bd509c4c2f",
+  "question_text": "Which statement best explains why skydivers fall faster when they point their body downwards rather than in a spread-eagle position?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "air resistance",
+    "streamlining",
+    "net force",
+    "acceleration",
+    "real-world application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Their mass increases when they point downwards",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravity pulls harder on a streamlined shape",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A streamlined shape reduces air resistance, allowing a greater net downward force and faster acceleration",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The air is thinner lower down, so there is less resistance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A streamlined shape reduces air resistance, allowing a greater net downward force and faster acceleration",
+  "explanation": "When a skydiver points downwards, they reduce their cross-sectional area (the area facing the air). This smaller area means less air resistance pushes upwards against them. Since gravity pulls downwards with the same force, but air resistance is now smaller, the net downward force increases. A larger net force causes faster acceleration, so the skydiver moves faster. Spreading out like an eagle increases the cross-sectional area, which increases air resistance and reduces the net downward force.",
+  "source_url": "oak://forces.friction/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:05:01.801820",
+  "classified_at": "2026-04-04T20:05:01.801717",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

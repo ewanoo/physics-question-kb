@@ -1,0 +1,46 @@
+{
+  "id": "c145dedb-3e69-4ab8-9eab-1ebd2766708e",
+  "question_text": "What does it mean when the forces on an object are balanced?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "definition",
+    "balanced forces",
+    "net force",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The forces are all equal in size",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces cancel each other out and there is no net force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There is only one force acting on the object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object must be stationary",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The forces cancel each other out and there is no net force",
+  "explanation": "When forces on an object are balanced, they have equal size but act in opposite directions. This means they cancel each other out, resulting in zero net force. The object will either remain stationary or continue moving at constant velocity.",
+  "source_url": "oak://forces.balanced/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:05:28.326612",
+  "classified_at": "2026-04-04T20:05:28.326542",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "34570b6d-a717-42e5-9ecc-0734462cc40b",
+  "question_text": "A book slides across a table and gradually slows down due to friction. When the book finally stops, identify all the forces acting upon it and classify each as either contact or non-contact. Explain why the book does not accelerate despite forces acting on it.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "equilibrium",
+    "Newton's First Law",
+    "friction"
+  ],
+  "options": null,
+  "correct_answer": "Forces acting: (1) Weight/gravitational force (non-contact, downwards), (2) Normal reaction force (contact, upwards), (3) Friction force (contact, horizontal, opposing motion). The book does not accelerate because all forces are balanced, resulting in zero net force. The vertical forces (weight and normal reaction) cancel each other, and there are no horizontal forces acting on the stationary book, demonstrating Newton's First Law of Motion.",
+  "explanation": "When the book comes to rest, it reaches equilibrium. Three forces act on it: gravity pulls down, the table pushes up with equal force (so these cancel), and friction was the horizontal force that slowed it down. Once stopped, there is no net force, so the book remains at rest. This shows Newton's First Law: objects at rest stay at rest unless a force acts on them.",
+  "source_url": "ks3textbook://forces.types/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:03:01.620024",
+  "classified_at": "2026-04-04T20:03:01.619928",
+  "classification_confidence": 0.92,
+  "quality_score": 4.3,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

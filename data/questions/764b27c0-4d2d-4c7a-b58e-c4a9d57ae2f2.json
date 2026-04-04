@@ -1,0 +1,46 @@
+{
+  "id": "764b27c0-4d2d-4c7a-b58e-c4a9d57ae2f2",
+  "question_text": "Which of the following food types is the primary source of chemical energy stored in the human body?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "chemical energy",
+    "food molecules",
+    "energy stores",
+    "macronutrients"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Vitamins and minerals",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Carbohydrates, fats, and proteins",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Water and fiber",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Oxygen and carbon dioxide",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Carbohydrates, fats, and proteins",
+  "explanation": "Carbohydrates, fats, and proteins are macronutrients that contain chemical energy stored in their molecular bonds. When your body digests these foods, it releases this energy for cells to use for movement, growth, and warmth. Vitamins and minerals are important for health but don't provide energy, water has no chemical energy, and oxygen and carbon dioxide are gases involved in respiration, not food sources.",
+  "source_url": "ks3textbook://energy.food/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:50.728131",
+  "classified_at": "2026-04-04T19:57:50.728038",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

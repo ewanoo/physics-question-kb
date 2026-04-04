@@ -1,0 +1,26 @@
+{
+  "id": "dd69bc42-fd62-4040-ab32-285d63268135",
+  "question_text": "In a pendulum, what two forms of energy constantly interchange as it swings?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "pendulum",
+    "kinetic energy",
+    "potential energy",
+    "conservation of energy"
+  ],
+  "options": null,
+  "correct_answer": "Kinetic energy and potential energy (or gravitational potential energy)",
+  "explanation": "As a pendulum swings, energy constantly transforms between two forms. At the highest points of the swing, the pendulum momentarily stops, so it has maximum gravitational potential energy and minimum kinetic energy. At the lowest point, the pendulum moves fastest, so it has maximum kinetic energy and minimum potential energy. The total energy stays the same because energy is conserved—it just changes from one form to the other.",
+  "source_url": "generate://energy.conservation/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:24.331765",
+  "classified_at": "2026-04-04T19:54:24.331680",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

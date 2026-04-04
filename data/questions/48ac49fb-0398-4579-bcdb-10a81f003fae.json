@@ -1,0 +1,25 @@
+{
+  "id": "48ac49fb-0398-4579-bcdb-10a81f003fae",
+  "question_text": "A household appliance consumes 2000 joules of electrical energy in 4 seconds. Calculate the power rating of this appliance.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "energy transfer",
+    "formula application",
+    "practical appliance"
+  ],
+  "options": null,
+  "correct_answer": "500 watts (or 500 W)",
+  "explanation": "Power measures how quickly energy is used. We calculate it using P = E ÷ t, where E is energy in joules and t is time in seconds. Here, the appliance uses 2000 joules in 4 seconds, so P = 2000 ÷ 4 = 500 W. This means the appliance transfers 500 joules of energy every second.",
+  "source_url": "ks3textbook://energy.power/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:56:46.567929",
+  "classified_at": "2026-04-04T19:56:46.567875",
+  "classification_confidence": 0.98,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

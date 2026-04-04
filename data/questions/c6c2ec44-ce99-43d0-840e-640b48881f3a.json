@@ -1,0 +1,26 @@
+{
+  "id": "c6c2ec44-ce99-43d0-840e-640b48881f3a",
+  "question_text": "A runner with a mass of 60 kg sprints up a flight of stairs of height 10 m in 5 seconds. Calculate the gravitational potential energy gained and evaluate whether the chemical energy from food alone would be sufficient to account for this energy change.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "gravitational potential energy",
+    "chemical energy",
+    "efficiency",
+    "energy conversion",
+    "human body"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy gained = 6000 J (or 6 kJ). Yes, food provides sufficient chemical energy, but the body's limited efficiency (approximately 25%) means about 24,000 J (24 kJ) of chemical energy must be consumed to produce 6 kJ of mechanical work.",
+  "explanation": "First, calculate the gravitational potential energy using E = mgh. The 6 kJ gained by moving up the stairs seems small compared to a meal's energy content (thousands of kilojoules), so food appears sufficient. However, the human body is only about 25% efficient at converting chemical energy from food into useful mechanical work. The remaining 75% is lost as heat. Therefore, to produce 6 kJ of mechanical energy, the body must consume roughly 4 times more chemical energy (about 24 kJ).",
+  "source_url": "ks3textbook://energy.food/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:01:59.733020",
+  "classified_at": "2026-04-04T20:01:59.732918",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

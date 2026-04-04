@@ -1,0 +1,47 @@
+{
+  "id": "841d374e-285d-4644-b2dd-bf6e4c32b60a",
+  "question_text": "When considering the running costs of household appliances, energy companies charge customers based on the amount of electrical energy consumed. Which of the following factors would increase the total energy cost of running an appliance?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "energy cost",
+    "power rating",
+    "time",
+    "electrical energy",
+    "household appliances"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Reducing the time the appliance is switched on",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increasing the power rating of the appliance and using it for longer periods",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Using the appliance during cooler months only",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Decreasing the voltage supplied to the appliance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Increasing the power rating of the appliance and using it for longer periods",
+  "explanation": "Energy cost is calculated using the formula: Energy = Power × Time. To increase the total energy cost, you need to increase either the power rating (how much energy the appliance uses per second) or the time it runs for, or both. A higher power rating and longer usage time both mean more electrical energy is consumed, resulting in higher costs.",
+  "source_url": "ks3textbook://energy.power/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:56:37.899533",
+  "classified_at": "2026-04-04T19:56:37.899444",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

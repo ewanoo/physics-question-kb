@@ -1,0 +1,26 @@
+{
+  "id": "ec6782da-c125-45ae-b562-ea6f39cf24e0",
+  "question_text": "Evaluate the claim that 'a 100 W light bulb always uses more energy than a 60 W light bulb.' Use scientific reasoning and consider different scenarios to support your evaluation.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "evaluation",
+    "critical thinking",
+    "E=Pt"
+  ],
+  "options": null,
+  "correct_answer": "The claim is not always true. While a 100 W bulb has a higher power rating, total energy consumed depends on both power and time of operation. A 100 W bulb used for 1 hour consumes 360,000 J, but a 60 W bulb used for 2 hours consumes 432,000 J, so the lower-power bulb uses more total energy.",
+  "explanation": "Energy is calculated using E = P × t. A higher power rating doesn't automatically mean more total energy is used—it depends on how long the device runs. A 60 W bulb running for longer can use more total energy than a 100 W bulb running for a shorter time. This question requires students to think beyond just power ratings and consider the full picture.",
+  "source_url": "ks3textbook://energy.power/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:23.945965",
+  "classified_at": "2026-04-04T19:57:23.945874",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "27af99be-aea8-4b2b-bcd3-25ec42fc0b23",
+  "question_text": "The graph shows the energy output of a wind farm over 24 hours. During the night (hours 18-06), the wind farm produces very little electricity. Explain why a country with many wind farms should also have other energy sources.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable_energy",
+    "wind_power",
+    "energy_reliability",
+    "energy_security",
+    "intermittency"
+  ],
+  "options": null,
+  "correct_answer": "Wind farms cannot generate electricity reliably at all times because wind speed varies throughout the day and night. Wind is an intermittent energy source, so countries need other energy sources (such as fossil fuels, hydroelectric, or nuclear power) to provide a reliable, continuous electricity supply when wind speeds are low.",
+  "explanation": "Wind farms depend on wind to generate electricity, but wind speed is unpredictable and often weak at night. This means wind farms alone cannot meet a country's constant electricity demand. Other energy sources must be available to fill the gaps and ensure people always have electricity. This is called energy security.",
+  "source_url": "generate://energy.resources/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:55.675173",
+  "classified_at": "2026-04-04T19:55:55.675080",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

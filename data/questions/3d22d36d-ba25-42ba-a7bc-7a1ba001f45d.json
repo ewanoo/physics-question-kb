@@ -1,0 +1,46 @@
+{
+  "id": "3d22d36d-ba25-42ba-a7bc-7a1ba001f45d",
+  "question_text": "Which statement correctly identifies a key difference between mass and weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "gravitational_field",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mass is measured in Newtons and weight is measured in kilograms",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mass is constant everywhere, but weight changes depending on gravitational field strength",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Weight remains the same on Earth and the Moon, but mass varies",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mass is a force, while weight is an amount of matter",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Mass is constant everywhere, but weight changes depending on gravitational field strength",
+  "explanation": "Mass is the amount of matter in an object and stays the same no matter where it is. Weight is a force caused by gravity pulling on that mass, so it changes depending on how strong the gravitational field is. For example, you would weigh less on the Moon than on Earth because the Moon's gravity is weaker, but your mass would be exactly the same.",
+  "source_url": "ks3textbook://forces.gravity/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:04:09.963019",
+  "classified_at": "2026-04-04T20:04:09.962928",
+  "classification_confidence": 0.98,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

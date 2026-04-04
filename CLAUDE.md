@@ -42,6 +42,10 @@ The `.env` file is gitignored — never commit it.
 7. **Commit and push**: `git add -A && git commit -m "Descriptive message" && git push`
 8. If a phase is fully complete, advance `Current Phase` in STATUS.md
 
+**Important**: Question JSON files in `data/questions/` are now tracked in git. After generating
+questions, always commit and push the `data/questions/` directory so the owner can rebuild
+their local DB without API credits using `python scripts/rebuild_db.py`.
+
 **Rule**: Commit and push frequently — after every meaningful unit of work, not just at the end.
 This gives the project owner visibility that the agent is making progress. Good commit points:
 - After environment setup completes

@@ -1,0 +1,26 @@
+{
+  "id": "c9a3e914-86a8-446c-ba84-6974284d42e9",
+  "question_text": "A block is dragged across a wooden table. What two factors affect the amount of friction between the block and the table?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "forces",
+    "factors affecting friction",
+    "normal force",
+    "surface roughness"
+  ],
+  "options": null,
+  "correct_answer": "The normal force (weight/mass of the block) and the type of surfaces in contact (roughness of the block and table).",
+  "explanation": "Friction is a force that opposes motion between surfaces. It depends on two main factors: how hard the surfaces are pressed together (the normal force, which is related to the weight of the object) and how rough or smooth the surfaces are. A heavier block presses harder on the table, creating more friction. Rougher surfaces also create more friction than smooth surfaces.",
+  "source_url": "oak://forces.friction/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:42.550468",
+  "classified_at": "2026-04-04T20:04:42.550376",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

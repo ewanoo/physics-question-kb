@@ -1,0 +1,25 @@
+{
+  "id": "bf31aad5-1527-46f6-9703-ebb5ba6b0e34",
+  "question_text": "A student consumes a chocolate bar containing 2000 joules of chemical energy. If the student's body converts 40% of this energy into useful work (movement and other bodily functions), calculate the energy lost as heat.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy efficiency",
+    "human body",
+    "percentage calculation",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "1200 joules (or 1200 J)",
+  "explanation": "When energy is transferred in the human body, not all of it becomes useful work - some is always lost as heat. If 40% is converted to useful work, then the remaining 60% is lost as heat. To find 60% of 2000 J: 0.60 × 2000 = 1200 J. This shows that the human body is not 100% efficient at converting chemical energy from food into movement and other functions.",
+  "source_url": "ks3textbook://energy.food/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:52.618583",
+  "classified_at": "2026-04-04T19:57:52.618486",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

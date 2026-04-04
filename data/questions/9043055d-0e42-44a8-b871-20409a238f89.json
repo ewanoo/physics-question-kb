@@ -1,0 +1,25 @@
+{
+  "id": "9043055d-0e42-44a8-b871-20409a238f89",
+  "question_text": "Why does a parachute help a skydiver slow down?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "air resistance",
+    "friction",
+    "parachute",
+    "real-world application"
+  ],
+  "options": null,
+  "correct_answer": "A parachute increases air resistance, which creates a larger friction force to slow the skydiver down.",
+  "explanation": "When a parachute opens, its large surface area catches much more air than the skydiver's body alone. This increased air resistance (a type of friction force) opposes the skydiver's motion and slows them down significantly, allowing them to land safely.",
+  "source_url": "oak://forces.friction/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:25.864272",
+  "classified_at": "2026-04-04T20:04:25.864161",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "c252fef4-3976-4e3c-bc49-a019f5b07b95",
+  "question_text": "A book rests on a horizontal desk. Which of the following pairs of forces are in contact with the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "contact_forces",
+    "non_contact_forces",
+    "force_classification",
+    "normal_reaction",
+    "friction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational force and magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Normal reaction force from the desk and friction force from the desk",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational force and normal reaction force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Magnetic force and friction force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Normal reaction force from the desk and friction force from the desk",
+  "explanation": "Contact forces are forces that act when two surfaces physically touch each other. The normal reaction force (pushing up from the desk) and friction force (acting on the book's surface) both occur at the point of contact between the book and desk. Gravitational force is a non-contact force (it acts at a distance), and magnetic force only applies if magnetic materials are involved.",
+  "source_url": "ks3textbook://forces.types/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:36.799579",
+  "classified_at": "2026-04-04T20:02:36.799477",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "698c9d7c-9bea-4f39-b52e-4d1ebdd6c5d0",
+  "question_text": "Which of the following correctly describes the energy transformation that occurs when the human body uses chemical energy from food for muscle contraction?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy transformation",
+    "respiration",
+    "chemical energy",
+    "kinetic energy",
+    "thermal energy",
+    "muscle contraction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy in food is directly converted to kinetic energy with no energy loss",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Chemical energy from food is converted to kinetic energy and heat energy through respiration in muscle cells",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy is stored as gravitational potential energy before being used for movement",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Kinetic energy from food is converted to chemical energy in muscle tissue",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Chemical energy from food is converted to kinetic energy and heat energy through respiration in muscle cells",
+  "explanation": "When you eat food, your body breaks down the chemical energy stored in food molecules (like glucose) through respiration. This process releases energy that is used in two main ways: to create movement (kinetic energy) through muscle contraction, and to produce heat that keeps your body warm. Some energy is always lost as heat, so option A is incorrect because it claims no energy loss occurs.",
+  "source_url": "ks3textbook://energy.food/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:01.676141",
+  "classified_at": "2026-04-04T20:02:01.676056",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

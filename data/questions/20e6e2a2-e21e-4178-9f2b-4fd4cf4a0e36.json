@@ -1,0 +1,25 @@
+{
+  "id": "20e6e2a2-e21e-4178-9f2b-4fd4cf4a0e36",
+  "question_text": "A nutritionist states that 'eating more food always results in greater energy availability for physical activity.' Evaluate this statement using your knowledge of energy transfer in the human body.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "human body",
+    "efficiency",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "This statement is not entirely accurate. Whilst eating more food provides more chemical energy, the human body can only convert a limited proportion of this energy into useful work (mechanical energy). Energy is lost as heat during respiration, and surplus energy is stored as fat, not immediately utilised for activity.",
+  "explanation": "The human body is not 100% efficient. When we eat food, chemical energy is released during respiration, but much of this energy is lost as heat to keep our body warm. Only some energy is converted into mechanical energy for movement. Extra food energy beyond what we need is stored as body fat rather than made available for immediate physical activity. So eating more food doesn't automatically mean more energy for exercise.",
+  "source_url": "ks3textbook://energy.food/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:04.013809",
+  "classified_at": "2026-04-04T20:02:04.013714",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

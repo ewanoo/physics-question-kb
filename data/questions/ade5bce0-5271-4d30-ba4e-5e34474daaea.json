@@ -1,0 +1,45 @@
+{
+  "id": "ade5bce0-5271-4d30-ba4e-5e34474daaea",
+  "question_text": "Which surface would create the most friction with a sliding block: sandpaper, ice, or polished wood?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "surface_roughness",
+    "comparing_surfaces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Polished wood",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Sandpaper",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "All surfaces have equal friction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Sandpaper",
+  "explanation": "Sandpaper has a rough and uneven surface with many microscopic bumps and crevices. These irregularities increase friction because they create more resistance when a block slides across it. In contrast, ice and polished wood are smooth surfaces, so they produce less friction. Smoother surfaces mean fewer obstructions to the sliding block's movement.",
+  "source_url": "oak://forces.friction/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:22.061901",
+  "classified_at": "2026-04-04T20:04:22.061810",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

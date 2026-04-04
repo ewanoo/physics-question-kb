@@ -1,0 +1,46 @@
+{
+  "id": "357ffbc6-6cdf-4f5a-acaa-fbd8015d1367",
+  "question_text": "What happens to an object when balanced forces act on it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "Newton's first law",
+    "net force",
+    "motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It always speeds up",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It remains at rest or moves at constant velocity",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It always slows down",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It changes direction randomly",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It remains at rest or moves at constant velocity",
+  "explanation": "When forces acting on an object are balanced, the net force is zero. This means there is no overall force to change the object's motion. If the object is at rest, it stays at rest. If it is moving, it continues moving at the same speed in the same direction. This is an example of Newton's first law of motion.",
+  "source_url": "oak://forces.balanced/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:05:09.551130",
+  "classified_at": "2026-04-04T20:05:09.551036",
+  "classification_confidence": 0.98,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

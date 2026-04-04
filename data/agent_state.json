@@ -1,18 +1,20 @@
 {
   "status": "complete",
-  "iterations": 12,
-  "questions_total": 525,
+  "iterations": 25,
+  "questions_total": 644,
   "started_at": "2026-04-04T19:05:25.119731",
   "last_action": {
     "scraper": "oak_national",
     "topic_hints": [
-      "matter.states",
-      "electricity.circuits",
-      "energy.stores"
+      "forces.speed",
+      "forces.pressure",
+      "forces.moments",
+      "forces.springs",
+      "waves.properties"
     ],
-    "reason": "'matter.states' has 9 questions (need 5+)"
+    "reason": "'forces.speed' has 0 questions (need 5+) | Need more medium questions (25/50)"
   },
-  "last_iteration_at": "2026-04-04T19:40:13.919252",
-  "final_total": 539,
-  "is_complete": true
+  "last_iteration_at": "2026-04-04T20:05:44.402259",
+  "final_total": 119,
+  "is_complete": false
 }

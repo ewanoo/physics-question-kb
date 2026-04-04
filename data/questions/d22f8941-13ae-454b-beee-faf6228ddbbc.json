@@ -1,0 +1,25 @@
+{
+  "id": "d22f8941-13ae-454b-beee-faf6228ddbbc",
+  "question_text": "Define what is meant by the term 'gravitational field'.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "definition",
+    "gravitational field",
+    "gravity",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "A region of space surrounding a mass where a gravitational force is exerted on any object placed within it.",
+  "explanation": "A gravitational field is the invisible area of space around any massive object (like Earth) where gravity works. Any object placed in this field experiences a pull towards the massive object. Earth's gravitational field is why objects fall downwards and why we have weight.",
+  "source_url": "ks3textbook://forces.gravity/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:04:08.079584",
+  "classified_at": "2026-04-04T20:04:08.079515",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

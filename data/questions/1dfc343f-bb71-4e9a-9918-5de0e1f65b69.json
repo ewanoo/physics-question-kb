@@ -1,0 +1,47 @@
+{
+  "id": "1dfc343f-bb71-4e9a-9918-5de0e1f65b69",
+  "question_text": "What is air resistance?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "air_resistance",
+    "drag",
+    "definition",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A type of gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The friction force that acts on objects moving through air",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A force that only affects aeroplanes",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure of the atmosphere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The friction force that acts on objects moving through air",
+  "explanation": "Air resistance is a type of friction force that opposes motion when objects move through air. It acts in the opposite direction to the object's movement and is also known as drag. The faster an object moves through air, the greater the air resistance it experiences.",
+  "source_url": "oak://forces.friction/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:23.780521",
+  "classified_at": "2026-04-04T20:04:23.780452",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

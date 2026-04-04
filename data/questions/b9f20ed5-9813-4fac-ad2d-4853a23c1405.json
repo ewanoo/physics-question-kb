@@ -1,0 +1,25 @@
+{
+  "id": "b9f20ed5-9813-4fac-ad2d-4853a23c1405",
+  "question_text": "Two electrical devices are connected to the same power supply. Device X has a power rating of 500 W and Device Y has a power rating of 100 W. Which device will transfer energy more quickly, and why?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "energy transfer",
+    "rate of energy transfer",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Device X will transfer energy more quickly because it has a higher power rating (500 W compared to 100 W). Power is the rate of energy transfer, so a higher power rating means more joules of energy are transferred per second.",
+  "explanation": "Power tells us how quickly energy is being transferred. Device X has a power rating of 500 W, which means it transfers 500 joules of energy every second. Device Y only transfers 100 joules per second. Therefore, Device X transfers energy 5 times faster than Device Y.",
+  "source_url": "ks3textbook://energy.power/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:56:35.817067",
+  "classified_at": "2026-04-04T19:56:35.816973",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

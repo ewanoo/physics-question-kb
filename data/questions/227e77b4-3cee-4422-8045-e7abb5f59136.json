@@ -1,0 +1,46 @@
+{
+  "id": "227e77b4-3cee-4422-8045-e7abb5f59136",
+  "question_text": "Which energy resource uses the movement of water to generate electricity?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "hydroelectric",
+    "energy generation",
+    "water power"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Geothermal energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Hydroelectric energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Biomass energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Natural gas",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Hydroelectric energy",
+  "explanation": "Hydroelectric energy uses the movement of flowing or falling water to turn turbines connected to generators, which produce electricity. It is a renewable energy resource because water continuously cycles through the environment. Dams and water power stations harness this energy.",
+  "source_url": "generate://energy.resources/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:16.864174",
+  "classified_at": "2026-04-04T19:55:16.864079",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

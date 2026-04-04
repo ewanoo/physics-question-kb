@@ -1,0 +1,46 @@
+{
+  "id": "78c5a4b0-3788-4f5c-af31-8cb99d333780",
+  "question_text": "Which of the following is a non-renewable energy resource?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "non-renewable",
+    "fossil fuels",
+    "energy sources",
+    "classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solar energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wind energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Coal",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Hydroelectric energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Coal",
+  "explanation": "Coal is a non-renewable energy resource because it formed from dead plants and animals millions of years ago, and we use it much faster than nature can create new supplies. Solar, wind, and hydroelectric energy are renewable because they come from natural processes that continuously replace themselves.",
+  "source_url": "generate://energy.resources/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:13.382369",
+  "classified_at": "2026-04-04T19:55:13.382279",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "93dfee27-225c-432c-9957-274dcb6570eb",
+  "question_text": "Name two ways you can reduce energy waste in your home.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy waste",
+    "home energy",
+    "practical applications",
+    "sustainable living"
+  ],
+  "options": null,
+  "correct_answer": "Any two from: turning off lights when not in use, using LED bulbs, turning off appliances on standby, insulating walls/lofts, using less hot water, using a dishwasher efficiently, closing doors to unused rooms",
+  "explanation": "Reducing energy waste at home saves energy and money. Simple actions like switching off lights and avoiding standby mode reduce energy consumption. Insulation prevents heat loss, and using efficient appliances like LEDs or dishwashers use less energy overall.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:56:15.943244",
+  "classified_at": "2026-04-04T19:56:15.943147",
+  "classification_confidence": 0.95,
+  "quality_score": 4.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "f505add1-edb6-49a3-b6ff-032510f22de2",
+  "question_text": "Which of the following forces acts between objects that are not in physical contact?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "magnetic force",
+    "contact forces",
+    "force classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air resistance acting on a moving car",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The magnetic force between a magnet and an iron nail held nearby",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The tension in a rope being pulled",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force exerted by a person pushing a shopping trolley",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The magnetic force between a magnet and an iron nail held nearby",
+  "explanation": "Non-contact forces act between objects without them touching. Magnetic force is a non-contact force that can attract or repel objects across a distance. Air resistance, rope tension, and pushing forces all require direct physical contact.",
+  "source_url": "ks3textbook://forces.types/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:20.110453",
+  "classified_at": "2026-04-04T20:02:20.110367",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c40150fd-3439-4204-8d00-f24823b92616",
+  "question_text": "A household appliance is rated at 2400 W. If the appliance operates for 3 hours per day, calculate the total energy consumed in joules over a period of 7 days.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "time",
+    "multi-step calculation",
+    "unit conversion"
+  ],
+  "options": null,
+  "correct_answer": "181,440,000 J (or 1.81 × 10⁸ J or 181.44 MJ)",
+  "explanation": "To find energy consumed, use Energy = Power × Time. First, calculate total time: 3 hours/day × 7 days = 21 hours = 75,600 seconds. Then multiply power by time: 2400 W × 75,600 s = 181,440,000 J. This is a hard question because it requires multiple steps and unit conversion from hours to seconds.",
+  "source_url": "ks3textbook://energy.power/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:12.169690",
+  "classified_at": "2026-04-04T19:57:12.169571",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

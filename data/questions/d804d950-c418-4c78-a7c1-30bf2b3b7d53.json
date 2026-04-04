@@ -1,0 +1,49 @@
+{
+  "id": "d804d950-c418-4c78-a7c1-30bf2b3b7d53",
+  "question_text": "A country is considering three energy options: natural gas power stations, solar panels, and hydroelectric dams. Which combination would be most effective for providing reliable electricity throughout the year, and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "non-renewable energy",
+    "energy reliability",
+    "grid management",
+    "solar power",
+    "natural gas",
+    "hydroelectric power"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Only natural gas because it is the cheapest option",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Solar panels and hydroelectric dams because they are both renewable",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Natural gas with solar panels, because solar provides energy during the day and gas provides it at night",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Natural gas with hydroelectric dams to have both renewable and non-renewable sources",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Natural gas with solar panels, because solar provides energy during the day and gas provides it at night",
+  "explanation": "Solar panels generate electricity efficiently during daylight hours but cannot produce energy at night or on cloudy days. Natural gas power stations can be turned on quickly to provide reliable backup power when solar is unavailable. This combination ensures continuous electricity supply throughout the year. While hydroelectric dams are renewable, they depend on water availability which varies seasonally, making them less reliable as a sole backup. Using only natural gas ignores the benefits of renewable energy.",
+  "source_url": "generate://energy.resources/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:53.319946",
+  "classified_at": "2026-04-04T19:55:53.319858",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

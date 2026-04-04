@@ -1,0 +1,46 @@
+{
+  "id": "51c7d9d5-1872-4e30-8c94-8d278ef1e2a2",
+  "question_text": "Which of the following is an example of a non-contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "gravitational force",
+    "contact forces",
+    "force classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The force exerted by a person pushing a trolley",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gravitational force between the Earth and the Moon",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The friction force between a car tyre and the road surface",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The normal reaction force between a book and a table",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The gravitational force between the Earth and the Moon",
+  "explanation": "Non-contact forces act over a distance without objects needing to touch each other. Gravitational force is a non-contact force that pulls all masses towards each other. The other options are all contact forces because they require direct physical contact between objects: pushing a trolley, friction between tyre and road, and the normal reaction force between book and table all need the objects to be touching.",
+  "source_url": "ks3textbook://forces.types/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:29.634070",
+  "classified_at": "2026-04-04T20:02:29.633977",
+  "classification_confidence": 0.98,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

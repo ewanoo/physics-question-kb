@@ -1,0 +1,45 @@
+{
+  "id": "b62b3ace-55ea-4771-943b-1776e2d79f1e",
+  "question_text": "Which of the following is an example of a fossil fuel?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil_fuels",
+    "non_renewable_energy",
+    "energy_sources"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wind",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Oil",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Tidal energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Biofuel",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Oil",
+  "explanation": "Oil is a fossil fuel formed from dead organisms that lived millions of years ago. Fossil fuels (oil, coal, and natural gas) are non-renewable energy resources that release carbon dioxide when burned. Wind and tidal energy are renewable sources, and biofuel comes from recently grown plants, not ancient organic matter.",
+  "source_url": "generate://energy.resources/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:19.832977",
+  "classified_at": "2026-04-04T19:55:19.832883",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

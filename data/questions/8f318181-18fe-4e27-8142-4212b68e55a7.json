@@ -1,0 +1,46 @@
+{
+  "id": "8f318181-18fe-4e27-8142-4212b68e55a7",
+  "question_text": "Which of the following is an example of a contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "friction",
+    "force types"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The gravitational force between the Earth and the Moon",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The magnetic force between two bar magnets",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The friction force between a sliding book and a table surface",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The electrostatic force between a charged balloon and a wall",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The friction force between a sliding book and a table surface",
+  "explanation": "Contact forces only occur when two objects are touching each other. Friction between the book and table is a contact force because the surfaces are in direct physical contact. Gravitational, magnetic, and electrostatic forces are non-contact forces because they can act at a distance without the objects touching.",
+  "source_url": "ks3textbook://forces.types/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:12.636155",
+  "classified_at": "2026-04-04T20:02:12.636062",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ebc0bc51-3abb-4d65-b95c-f939a8642183",
+  "question_text": "Two identical balls are dropped from the same height. Ball A lands on a hard concrete floor and bounces back up to half its original height. Ball B lands on soft mud and does not bounce at all. Which statement best explains the difference?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transfer",
+    "gravitational potential energy",
+    "kinetic energy",
+    "thermal energy",
+    "energy conservation",
+    "comparative analysis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ball A has more gravitational potential energy than Ball B",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ball B transfers more energy to thermal energy and sound than Ball A does",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ball A loses all its kinetic energy on impact",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ball B has stored more elastic potential energy in the mud",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Ball B transfers more energy to thermal energy and sound than Ball A does",
+  "explanation": "Both balls start with the same gravitational potential energy. When Ball A bounces, some of its kinetic energy is converted back into gravitational potential energy as it rises again. Ball B doesn't bounce, so all its kinetic energy is transferred into other forms—mainly thermal energy (heat in the mud and ball) and sound energy. Ball B loses more mechanical energy because it doesn't return to a higher position, demonstrating that energy is conserved but converted into less useful forms.",
+  "source_url": "generate://energy.stores/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:06.429949",
+  "classified_at": "2026-04-04T19:54:06.429867",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

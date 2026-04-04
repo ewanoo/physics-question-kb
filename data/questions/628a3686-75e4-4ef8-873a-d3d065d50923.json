@@ -1,0 +1,47 @@
+{
+  "id": "628a3686-75e4-4ef8-873a-d3d065d50923",
+  "question_text": "A country wants to reduce its use of fossil fuels. Which energy resource would be the best alternative for generating electricity in a sunny desert region?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "solar energy",
+    "energy generation",
+    "climate suitability",
+    "fossil fuel alternatives"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal power station",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Solar panels",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Nuclear power plant",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Oil refinery",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Solar panels",
+  "explanation": "Solar panels are the best choice for a sunny desert region because deserts receive abundant sunlight throughout the year. Solar energy is a renewable energy resource that produces no emissions, making it ideal for reducing fossil fuel dependence. Other options (coal, oil, nuclear) are either fossil fuels or non-renewable, and less suitable for desert climates.",
+  "source_url": "generate://energy.resources/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:36.218333",
+  "classified_at": "2026-04-04T19:55:36.218235",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

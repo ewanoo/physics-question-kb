@@ -1,0 +1,24 @@
+{
+  "id": "5ce6411b-84e4-4f9b-9ae4-599ba82bdb11",
+  "question_text": "State what would happen to an object's weight if it were moved from Earth to a location where the gravitational field is weaker.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravitational field",
+    "mass vs weight"
+  ],
+  "options": null,
+  "correct_answer": "The object's weight would decrease because there is a weaker gravitational force acting on it.",
+  "explanation": "Weight is the force of gravity pulling on an object and depends on the strength of the gravitational field. When an object moves to a location with a weaker gravitational field (like the Moon compared to Earth), the gravitational force pulling it down is smaller, so its weight decreases. However, the object's mass stays the same.",
+  "source_url": "ks3textbook://forces.gravity/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:04:11.732861",
+  "classified_at": "2026-04-04T20:04:11.732760",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

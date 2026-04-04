@@ -1,0 +1,46 @@
+{
+  "id": "76052fee-390c-45e4-a1db-663645e0b56b",
+  "question_text": "Which statement about air resistance is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "air_resistance",
+    "friction",
+    "motion",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air resistance increases as speed decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Air resistance acts in the same direction as motion",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Air resistance increases as an object moves faster",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Air resistance only affects heavy objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Air resistance increases as an object moves faster",
+  "explanation": "Air resistance is a type of friction that opposes motion through air. As an object moves faster, it pushes against more air particles per second, causing the air resistance force to increase. This is why it's harder to move fast through air than slowly.",
+  "source_url": "oak://forces.friction/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:37.229120",
+  "classified_at": "2026-04-04T20:04:37.229053",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

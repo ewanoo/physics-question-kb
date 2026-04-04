@@ -1,0 +1,26 @@
+{
+  "id": "2f5caf7e-09c1-41f3-a863-7dca3daf6802",
+  "question_text": "Describe the energy transfers that occur when you light a Bunsen burner and use it to heat water in a beaker.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transfer",
+    "thermal energy",
+    "chemical energy",
+    "combustion",
+    "practical application"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy in the gas is transferred to thermal energy in the flame. The thermal energy is then transferred to the water, increasing its thermal energy store and making it hotter.",
+  "explanation": "When a Bunsen burner is lit, the fuel gas undergoes combustion, which releases the chemical energy stored in the gas as thermal energy (heat). This thermal energy spreads out and is absorbed by the water in the beaker, causing the water's temperature to increase. This is an example of energy being transferred from one store (chemical) to another store (thermal) through heating.",
+  "source_url": "generate://energy.stores/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:47.794092",
+  "classified_at": "2026-04-04T19:53:47.794017",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

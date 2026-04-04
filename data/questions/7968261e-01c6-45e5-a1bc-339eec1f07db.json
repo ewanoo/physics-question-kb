@@ -1,0 +1,47 @@
+{
+  "id": "7968261e-01c6-45e5-a1bc-339eec1f07db",
+  "question_text": "A magnetic force pulls a steel ball towards a magnet held above it. Compare this force with the gravitational force acting on the ball. Which statement is most accurate?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "magnetic force",
+    "gravitational force",
+    "fields",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both are contact forces; the magnet must touch the ball to exert a force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both are non-contact forces, but magnetic force acts through a magnetic field whilst gravitational force acts through a gravitational field",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Magnetic force is non-contact but gravitational force is contact because the Earth is in contact with objects",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravitational force is non-contact, but magnetic force is contact because it requires magnetism to be present",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Both are non-contact forces, but magnetic force acts through a magnetic field whilst gravitational force acts through a gravitational field",
+  "explanation": "Both magnetic and gravitational forces are non-contact forces because they can act over a distance without the objects touching. Magnetic force is produced by a magnetic field around a magnet, while gravitational force is produced by a gravitational field around any mass. This question tests understanding that forces can be exerted through invisible fields rather than by direct contact.",
+  "source_url": "ks3textbook://forces.types/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:51.854941",
+  "classified_at": "2026-04-04T20:02:51.854855",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

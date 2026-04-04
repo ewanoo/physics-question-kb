@@ -1,0 +1,47 @@
+{
+  "id": "d14bb767-30d2-40e4-9825-d817abbde64b",
+  "question_text": "Two electric heaters, X and Y, both raise the temperature of water by 10°C in different containers. Heater X has a power output of 1500 W and takes 8 minutes, whilst heater Y has a power output of 1200 W and takes 10 minutes. Which statement correctly compares the energy transferred by each heater?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "calculations",
+    "time",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Heater X transfers 720,000 J and heater Y transfers 720,000 J, so both transfer the same amount of energy",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Heater X transfers 720,000 J and heater Y transfers 600,000 J, so heater X is more efficient",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Heater Y transfers more energy because it takes longer to heat the water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Heater X transfers 12,000 J and heater Y transfers 12,000 J because power is constant",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Heater X transfers 720,000 J and heater Y transfers 720,000 J, so both transfer the same amount of energy",
+  "explanation": "To find energy transferred, use Energy = Power × Time. For heater X: E = 1500 W × 480 s (8 minutes converted to seconds) = 720,000 J. For heater Y: E = 1200 W × 600 s (10 minutes converted to seconds) = 720,000 J. Although heater X has higher power (faster rate), both transfer the same total energy because the lower-powered heater runs for longer. This shows that power and time are inversely related when energy is the same.",
+  "source_url": "ks3textbook://energy.power/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:15.446244",
+  "classified_at": "2026-04-04T19:57:15.446159",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

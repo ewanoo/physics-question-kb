@@ -1,0 +1,26 @@
+{
+  "id": "3b963247-6b03-463a-9775-be820b301c44",
+  "question_text": "A skateboarder rides down a frictionless ramp. At the top, the skateboarder has gravitational potential energy of 500 J and kinetic energy of 0 J. What is the kinetic energy at the bottom of the ramp?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy transformation",
+    "frictionless motion"
+  ],
+  "options": null,
+  "correct_answer": "500 J",
+  "explanation": "Energy is conserved, meaning the total energy in a closed system stays the same. At the top of the ramp, the skateboarder has 500 J of gravitational potential energy and 0 J of kinetic energy (total = 500 J). As the skateboarder slides down without friction, the gravitational potential energy is converted into kinetic energy. At the bottom, all the potential energy has been transformed into kinetic energy, so the kinetic energy = 500 J.",
+  "source_url": "generate://energy.conservation/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:39.282687",
+  "classified_at": "2026-04-04T19:54:39.282587",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

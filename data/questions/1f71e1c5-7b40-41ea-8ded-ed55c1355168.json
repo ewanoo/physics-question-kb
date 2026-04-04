@@ -1,0 +1,47 @@
+{
+  "id": "1f71e1c5-7b40-41ea-8ded-ed55c1355168",
+  "question_text": "A coal power station burns 1000 tonnes of coal per day to generate electricity. A wind farm produces the same amount of electricity using wind turbines. Which statement best explains why the wind farm is considered more sustainable?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable_energy",
+    "non-renewable_energy",
+    "sustainability",
+    "energy_resources",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wind turbines produce electricity without using up a natural resource",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Wind turbines are cheaper to build than coal power stations",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Wind turbines produce more electricity per day than coal power stations",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Wind turbines do not require any maintenance during their lifetime",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Wind turbines produce electricity without using up a natural resource",
+  "explanation": "Wind is a renewable energy resource that is naturally replenished continuously, so it never runs out. Coal is a non-renewable resource that gets used up and cannot be replaced. This makes wind energy more sustainable because it does not deplete finite natural resources like fossil fuels do.",
+  "source_url": "generate://energy.resources/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:50.755033",
+  "classified_at": "2026-04-04T19:55:50.754953",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

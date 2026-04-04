@@ -1,0 +1,46 @@
+{
+  "id": "5325d4c7-ceec-43d5-b8fa-fa396d37f5fc",
+  "question_text": "A power station uses natural gas to generate electricity. What type of energy resource is natural gas?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil_fuels",
+    "non-renewable",
+    "natural_gas",
+    "energy_resources"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Renewable and clean",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Non-renewable fossil fuel",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Renewable fossil fuel",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Nuclear energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Non-renewable fossil fuel",
+  "explanation": "Natural gas is a fossil fuel that formed from the remains of organisms that died millions of years ago. It is non-renewable because it cannot be replaced naturally in a timescale useful to humans - we use it much faster than nature can create it.",
+  "source_url": "generate://energy.resources/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:32.433782",
+  "classified_at": "2026-04-04T19:55:32.433655",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

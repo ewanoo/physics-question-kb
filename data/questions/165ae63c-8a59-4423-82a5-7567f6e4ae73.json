@@ -1,0 +1,26 @@
+{
+  "id": "165ae63c-8a59-4423-82a5-7567f6e4ae73",
+  "question_text": "A student consumes a chocolate bar containing 2000 kJ of chemical energy. During the day, the student uses 1500 kJ for various activities and metabolic processes. The remaining energy is stored as fat in the body. Calculate how much energy is stored and identify what form this energy takes.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy conservation",
+    "energy stores",
+    "chemical energy",
+    "metabolism",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "500 kJ of energy is stored as chemical energy in fat molecules. This is chemical potential energy stored in chemical bonds within adipose tissue.",
+  "explanation": "Energy is conserved in the body. The energy consumed (2000 kJ) is either used for activities and metabolism (1500 kJ) or stored for later use. The difference (2000 - 1500 = 500 kJ) is stored as chemical potential energy in fat molecules. When the body needs this energy later, it can be released through respiration.",
+  "source_url": "ks3textbook://energy.food/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:01:54.406625",
+  "classified_at": "2026-04-04T20:01:54.406530",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

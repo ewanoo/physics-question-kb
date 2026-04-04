@@ -1,0 +1,47 @@
+{
+  "id": "d97ba5e9-1359-424e-b8dc-aa2cbf601b24",
+  "question_text": "Why do cyclists lean forward when cycling?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "air resistance",
+    "friction",
+    "streamlining",
+    "real-world application",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "To increase their weight and go faster",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "To increase the surface area facing the air",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "To decrease the surface area facing the air and reduce air resistance",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "To create more friction with the ground",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "To decrease the surface area facing the air and reduce air resistance",
+  "explanation": "When cyclists lean forward, they reduce the cross-sectional area of their body that faces the oncoming air. This smaller area means less air resistance acts against them, allowing them to cycle faster with less effort. Air resistance is a type of friction force that opposes motion through a fluid.",
+  "source_url": "oak://forces.friction/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:40.608034",
+  "classified_at": "2026-04-04T20:04:40.607955",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bd7d9e50-b59c-4bea-aea3-8305a24c4f9a",
+  "question_text": "State what is meant by the term 'chemical energy' in the context of food.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "chemical energy",
+    "food",
+    "energy stores",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy is the energy stored in the chemical bonds of food molecules, which can be released when these bonds are broken during digestion and respiration in cells.",
+  "explanation": "Chemical energy is a type of stored energy (potential energy) that exists in the bonds between atoms and molecules in food. When you eat food, your body breaks down these molecules through digestion and respiration, and the energy stored in the bonds is released so your body can use it for movement, warmth, and growth.",
+  "source_url": "ks3textbook://energy.food/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:34.698008",
+  "classified_at": "2026-04-04T19:57:34.697926",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "86e67503-b1e7-471f-864a-3c9fa271534b",
+  "question_text": "Which of the following statements correctly distinguishes between contact and non-contact forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "force definitions",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Contact forces are always stronger than non-contact forces",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Contact forces require objects to touch, whilst non-contact forces act over a distance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Non-contact forces only occur in space, whilst contact forces occur on Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Contact forces cause motion, whilst non-contact forces cause stationary objects to remain still",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Contact forces require objects to touch, whilst non-contact forces act over a distance",
+  "explanation": "Contact forces like friction and normal reaction only work when two surfaces are touching each other. Non-contact forces like gravity and magnetism can act across empty space without objects needing to touch. This is the key difference between the two types of forces.",
+  "source_url": "ks3textbook://forces.types/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:33.114703",
+  "classified_at": "2026-04-04T20:02:33.114630",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

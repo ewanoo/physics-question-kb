@@ -1,0 +1,26 @@
+{
+  "id": "504b425b-1076-4335-b71f-4f8e3f33250f",
+  "question_text": "What is meant by 'energy waste' in a device?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy waste",
+    "useful energy",
+    "wasted forms",
+    "efficiency",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Energy that is converted into forms that are not useful for the device's intended purpose, such as heat, sound, or light (when not needed).",
+  "explanation": "Energy waste happens when a device converts energy into forms we don't want or need. For example, an old light bulb wastes lots of energy as heat when we only want light. This wasted energy is lost and cannot be used for the device's main job, making the device less efficient.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:56:19.944283",
+  "classified_at": "2026-04-04T19:56:19.944184",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

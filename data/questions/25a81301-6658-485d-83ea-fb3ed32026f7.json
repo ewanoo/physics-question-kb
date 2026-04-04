@@ -1,0 +1,47 @@
+{
+  "id": "25a81301-6658-485d-83ea-fb3ed32026f7",
+  "question_text": "Why do electric motors get hot during use?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy transfer",
+    "heat loss",
+    "motors",
+    "everyday examples"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because all the electrical energy is converted to motion",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because some electrical energy is converted to heat due to friction and resistance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because motors are designed to produce heat",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because the power supply is too strong",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Because some electrical energy is converted to heat due to friction and resistance",
+  "explanation": "Electric motors are not 100% efficient. When electrical energy passes through the motor's coils, some is lost as heat energy due to electrical resistance in the wires. Additionally, friction between the moving parts of the motor produces more heat. This is why motors get warm during use - it's wasted energy that isn't being converted into useful motion.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:56:17.896488",
+  "classified_at": "2026-04-04T19:56:17.896397",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

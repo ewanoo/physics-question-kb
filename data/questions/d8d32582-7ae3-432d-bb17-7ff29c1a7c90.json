@@ -1,0 +1,24 @@
+{
+  "id": "d8d32582-7ae3-432d-bb17-7ff29c1a7c90",
+  "question_text": "Name three different energy stores.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "energy stores",
+    "recall",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Any three of: gravitational potential energy, kinetic energy, chemical energy, elastic potential energy, thermal energy, nuclear energy, magnetic energy, or electrostatic energy",
+  "explanation": "Energy can be stored in different ways. Gravitational potential energy is stored when something is lifted up, kinetic energy is stored in moving objects, chemical energy is stored in fuel and food, elastic potential energy is stored in stretched or compressed springs, and thermal energy is stored as heat.",
+  "source_url": "generate://energy.stores/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:28.131835",
+  "classified_at": "2026-04-04T19:53:28.131745",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

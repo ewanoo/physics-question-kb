@@ -1,0 +1,25 @@
+{
+  "id": "6e46d2c3-68c4-40d8-9233-2315c92d8ce6",
+  "question_text": "A household appliance is labelled with a power rating of 2000 W. What does this power rating tell you about the appliance?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "energy transfer",
+    "joules per second",
+    "appliances"
+  ],
+  "options": null,
+  "correct_answer": "The power rating of 2000 W indicates that the appliance transfers or uses 2000 joules of energy every second when it is operating at full capacity.",
+  "explanation": "Power is measured in watts (W), and it tells us how much energy an appliance uses per second. A 2000 W appliance uses 2000 joules of energy every second. Higher power ratings mean appliances use energy faster.",
+  "source_url": "ks3textbook://energy.power/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:56:31.106028",
+  "classified_at": "2026-04-04T19:56:31.105948",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

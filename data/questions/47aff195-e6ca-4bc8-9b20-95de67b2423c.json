@@ -1,0 +1,47 @@
+{
+  "id": "47aff195-e6ca-4bc8-9b20-95de67b2423c",
+  "question_text": "What is the name of the force that acts on objects moving through air or water?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "air resistance",
+    "drag",
+    "forces",
+    "motion",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Air resistance or drag",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Weight",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Tension",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Air resistance or drag",
+  "explanation": "Air resistance (also called drag) is a friction force that opposes the motion of objects moving through air or water. It always acts in the opposite direction to the direction of motion.",
+  "source_url": "oak://forces.balanced/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:05:12.798965",
+  "classified_at": "2026-04-04T20:05:12.798863",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

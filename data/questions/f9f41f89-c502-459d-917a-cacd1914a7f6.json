@@ -1,0 +1,26 @@
+{
+  "id": "f9f41f89-c502-459d-917a-cacd1914a7f6",
+  "question_text": "A student observes that when a ball is dropped, it accelerates towards the ground. Identify the non-contact force responsible for this acceleration and state the direction in which it acts.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "non-contact forces",
+    "gravitational force",
+    "weight",
+    "direction",
+    "acceleration"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational force (or weight) is responsible for the acceleration. It acts vertically downwards towards the centre of the Earth.",
+  "explanation": "Gravitational force is a non-contact force that pulls all objects with mass towards the Earth. It doesn't need the objects to be touching—it works from a distance. This is why dropped balls fall downwards; gravity is pulling them towards the centre of the Earth.",
+  "source_url": "ks3textbook://forces.types/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:35.059770",
+  "classified_at": "2026-04-04T20:02:35.059644",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

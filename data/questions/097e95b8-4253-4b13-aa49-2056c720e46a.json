@@ -1,0 +1,26 @@
+{
+  "id": "097e95b8-4253-4b13-aa49-2056c720e46a",
+  "question_text": "A 50 kg student runs up a flight of stairs, gaining 10 meters of height in 5 seconds. The chemical energy required for this activity comes from food. Explain why the student requires more chemical energy from food than the gravitational potential energy gained by their body.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "efficiency",
+    "human body",
+    "chemical energy",
+    "gravitational potential energy"
+  ],
+  "options": null,
+  "correct_answer": "The human body is not 100% efficient. Much of the chemical energy from food is lost as heat during muscle contractions and metabolic processes. Only a fraction of the chemical energy is converted into useful gravitational potential energy. Human metabolism is approximately 20-25% efficient, meaning most energy is wasted as heat rather than used for work.",
+  "explanation": "When your muscles contract to move you up the stairs, they convert chemical energy from food into motion and gravitational potential energy. However, muscles are not perfectly efficient machines. A lot of the chemical energy is wasted as heat through friction in the muscles and other biological processes. This is why you feel warm when exercising. Only about 20-25% of the chemical energy actually does useful work; the rest becomes heat.",
+  "source_url": "ks3textbook://energy.food/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:57.226780",
+  "classified_at": "2026-04-04T19:57:57.226682",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

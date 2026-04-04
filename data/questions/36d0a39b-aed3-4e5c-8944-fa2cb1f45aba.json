@@ -1,0 +1,47 @@
+{
+  "id": "36d0a39b-aed3-4e5c-8944-fa2cb1f45aba",
+  "question_text": "When a person eats food and their body converts it into energy for movement, what type of energy transformation occurs?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "energy transformation",
+    "food energy",
+    "respiration",
+    "kinetic energy",
+    "thermal energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy is transformed into kinetic energy and thermal energy",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy is transformed into chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy is transformed into potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravitational potential energy is transformed into chemical energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Chemical energy is transformed into kinetic energy and thermal energy",
+  "explanation": "Food contains chemical energy in its molecules. When your body digests food, respiration in your cells releases this chemical energy. Your body uses this energy in two main ways: to power muscle contractions for movement (kinetic energy) and to keep your body warm (thermal energy).",
+  "source_url": "ks3textbook://energy.food/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:36.439482",
+  "classified_at": "2026-04-04T19:57:36.439394",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

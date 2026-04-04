@@ -1,0 +1,24 @@
+{
+  "id": "5f14d096-490c-4d93-a56a-2b77a1cc229b",
+  "question_text": "A magnetic force acts between a magnet and a piece of iron even when they are not touching. Classify this force and explain why it is classified in this way.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "magnetic forces",
+    "force classification"
+  ],
+  "options": null,
+  "correct_answer": "This is a non-contact force because the magnetic force acts over a distance without the objects being in physical contact with one another.",
+  "explanation": "Non-contact forces are forces that can act between objects even when they are not touching. Magnetic forces, gravitational forces, and electrostatic forces are all non-contact forces. This is different from contact forces like friction, which require surfaces to be in direct physical contact.",
+  "source_url": "ks3textbook://forces.types/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:31.374954",
+  "classified_at": "2026-04-04T20:02:31.374856",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

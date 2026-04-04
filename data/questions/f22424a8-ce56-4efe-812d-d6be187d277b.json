@@ -1,0 +1,47 @@
+{
+  "id": "f22424a8-ce56-4efe-812d-d6be187d277b",
+  "question_text": "Which of the following best describes a non-contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "force definitions",
+    "gravity",
+    "magnetism",
+    "electrostatic forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that only acts when two surfaces are pressed together",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A force that can act between objects separated by a distance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A force that is always weaker than contact forces",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A force that only occurs in liquids and gases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A force that can act between objects separated by a distance",
+  "explanation": "Non-contact forces are forces that can act on objects without them touching. Examples include gravity (which pulls objects together), magnetic forces (which can push or pull without contact), and electrostatic forces (between charged objects). These forces work across a distance, unlike contact forces like friction or normal forces that require surfaces to touch.",
+  "source_url": "ks3textbook://forces.types/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:16.312026",
+  "classified_at": "2026-04-04T20:02:16.311939",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

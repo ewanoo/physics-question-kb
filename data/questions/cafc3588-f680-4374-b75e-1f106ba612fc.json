@@ -1,0 +1,26 @@
+{
+  "id": "cafc3588-f680-4374-b75e-1f106ba612fc",
+  "question_text": "Two identical balls are dropped from the same height. Ball A falls freely with no air resistance. Ball B falls through air and experiences significant air resistance. Predict which ball will have greater kinetic energy when it hits the ground and explain your reasoning using the principle of conservation of energy.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "air resistance",
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy dissipation"
+  ],
+  "options": null,
+  "correct_answer": "Ball A will have greater kinetic energy when it hits the ground because it converts all its gravitational potential energy into kinetic energy, while Ball B loses some energy to air resistance which is converted into thermal energy.",
+  "explanation": "Both balls start with the same gravitational potential energy. Ball A falls freely, so all of its potential energy converts to kinetic energy. Ball B experiences air resistance, which does negative work on it. This energy is not lost - it's transferred to the surroundings as heat and sound. Therefore, Ball B has less kinetic energy at impact because some of its original potential energy was converted to thermal energy rather than kinetic energy. This shows that total energy is always conserved, but mechanical energy can be dissipated by non-conservative forces like air resistance.",
+  "source_url": "generate://energy.conservation/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:06.713201",
+  "classified_at": "2026-04-04T19:55:06.713120",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d65ce108-d19c-4d8a-80f4-f806e0548f44",
+  "question_text": "A car travelling at 20 m/s brakes suddenly. Why does air resistance become more significant in stopping the car compared to when it was travelling at 5 m/s?",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "air_resistance",
+    "velocity",
+    "forces",
+    "comparison",
+    "quadratic_relationship"
+  ],
+  "options": null,
+  "correct_answer": "Air resistance increases with the square of velocity (speed). At higher speeds, the car pushes through more air molecules per second, creating a much larger opposing force.",
+  "explanation": "Air resistance depends on velocity squared, meaning if you double your speed, air resistance increases by four times (2² = 4). At 20 m/s, the car experiences much more air resistance than at 5 m/s, so air resistance becomes a more significant force in stopping the car at higher speeds.",
+  "source_url": "oak://forces.friction/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:52.588696",
+  "classified_at": "2026-04-04T20:04:52.588628",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

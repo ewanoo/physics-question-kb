@@ -1,0 +1,46 @@
+{
+  "id": "0f9d4731-3ac7-497f-8763-13a8a57db590",
+  "question_text": "What does the law of conservation of energy state?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "definition",
+    "fundamental_principle",
+    "energy_transfer",
+    "energy_transformation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy can be created and destroyed freely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy cannot be created or destroyed, only transferred or transformed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Energy always stays in the same form",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy only exists as heat",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Energy cannot be created or destroyed, only transferred or transformed",
+  "explanation": "The law of conservation of energy states that the total amount of energy in a closed system always stays the same. Energy cannot be created from nothing or destroyed completely—it can only change from one form to another (such as from chemical energy to heat energy) or move from one place to another (transfer).",
+  "source_url": "generate://energy.conservation/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:20.440934",
+  "classified_at": "2026-04-04T19:54:20.440863",
+  "classification_confidence": 0.99,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

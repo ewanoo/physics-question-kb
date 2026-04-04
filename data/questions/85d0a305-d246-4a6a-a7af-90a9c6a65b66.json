@@ -1,0 +1,48 @@
+{
+  "id": "85d0a305-d246-4a6a-a7af-90a9c6a65b66",
+  "question_text": "Different food types store different amounts of chemical energy. Which of the following correctly ranks these macronutrients by their energy content per gram?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "chemical energy",
+    "macronutrients",
+    "energy content",
+    "food",
+    "ranking",
+    "energy density"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Carbohydrates (4 J/g) > Proteins (4 J/g) > Fats (9 J/g)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Fats (9 J/g) > Carbohydrates (4 J/g) = Proteins (4 J/g)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Proteins (9 J/g) > Fats (4 J/g) > Carbohydrates (4 J/g)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Carbohydrates (9 J/g) > Fats (9 J/g) > Proteins (4 J/g)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Fats (9 J/g) > Carbohydrates (4 J/g) = Proteins (4 J/g)",
+  "explanation": "Different macronutrients store different amounts of chemical energy per gram. Fats are the most energy-dense, containing about 9 joules per gram, while carbohydrates and proteins each contain about 4 joules per gram. This is why fats are often used for long-term energy storage in living organisms.",
+  "source_url": "ks3textbook://energy.food/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:59.274604",
+  "classified_at": "2026-04-04T19:57:59.274524",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

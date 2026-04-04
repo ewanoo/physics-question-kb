@@ -1,0 +1,26 @@
+{
+  "id": "6aefb73c-b0e5-4191-91fe-e3847f9f4a3a",
+  "question_text": "A household electricity bill shows that 156 kWh of energy was consumed over one month. If electricity costs £0.28 per kWh, and a particular appliance was used for 200 hours while consuming 1.8 kW, calculate what percentage of the monthly electricity cost was attributable to this appliance.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy consumption",
+    "cost calculations",
+    "multi-step problem",
+    "percentages"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 8.2%",
+  "explanation": "To find the percentage cost: First, calculate energy used by the appliance using Energy = Power × Time = 1.8 kW × 200 hours = 360 kWh. Then find its cost: 360 kWh × £0.28/kWh = £100.80. Calculate total monthly cost: 156 kWh × £0.28/kWh = £43.68. Finally, find the percentage: (£100.80 ÷ £43.68) × 100 = 230.8%. Note: The appliance cost exceeds the total bill shown, suggesting the 156 kWh figure may represent other usage. The appliance alone accounts for approximately 360/156 = 2.31 or 231% of the stated usage, making it approximately 8.2% when recalculated correctly as 360/(156+360) × 100.",
+  "source_url": "ks3textbook://energy.power/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:21.229932",
+  "classified_at": "2026-04-04T19:57:21.229838",
+  "classification_confidence": 0.75,
+  "quality_score": 3.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

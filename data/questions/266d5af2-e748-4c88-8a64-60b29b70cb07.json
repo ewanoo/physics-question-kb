@@ -1,0 +1,46 @@
+{
+  "id": "266d5af2-e748-4c88-8a64-60b29b70cb07",
+  "question_text": "A light bulb converts electrical energy into which two forms of energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "light bulb",
+    "electrical energy",
+    "energy conversion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Light and kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Heat and chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Light and heat energy",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Sound and light energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Light and heat energy",
+  "explanation": "A light bulb filament becomes very hot when electrical current flows through it. The electrical energy is transformed into two forms: light energy (which we see) and thermal energy or heat (which we feel as warmth). This is an example of energy conversion where one form of energy changes into other forms.",
+  "source_url": "generate://energy.conservation/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:26.074688",
+  "classified_at": "2026-04-04T19:54:26.074592",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

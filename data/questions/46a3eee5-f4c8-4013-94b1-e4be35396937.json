@@ -1,0 +1,25 @@
+{
+  "id": "46a3eee5-f4c8-4013-94b1-e4be35396937",
+  "question_text": "What type of energy store does a moving car have?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "moving objects",
+    "energy stores",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Kinetic energy",
+  "explanation": "Kinetic energy is the energy that moving objects have because they are in motion. The faster an object moves or the more massive it is, the more kinetic energy it stores. A moving car has kinetic energy because of its motion.",
+  "source_url": "generate://energy.stores/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:29.579804",
+  "classified_at": "2026-04-04T19:53:29.579733",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

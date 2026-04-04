@@ -1,0 +1,48 @@
+{
+  "id": "15678f33-ac4d-4137-b476-2803ee60747c",
+  "question_text": "A roller coaster at the top of a hill has a large gravitational potential energy store. As it descends the hill, what happens to this energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transfer",
+    "gravitational potential energy",
+    "kinetic energy",
+    "thermal energy",
+    "conservation of energy",
+    "friction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It is destroyed and disappears",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It is transferred to kinetic energy and thermal energy stores",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It is converted to chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It remains in the gravitational potential energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It is transferred to kinetic energy and thermal energy stores",
+  "explanation": "As the roller coaster descends the hill, gravitational potential energy is converted into kinetic energy (which makes the roller coaster move faster) and thermal energy (produced by friction between the track and the coaster, and air resistance). Energy is not destroyed; it is transferred from one store to another.",
+  "source_url": "generate://energy.stores/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:45.639210",
+  "classified_at": "2026-04-04T19:53:45.639153",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

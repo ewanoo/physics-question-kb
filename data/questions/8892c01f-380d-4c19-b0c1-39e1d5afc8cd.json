@@ -1,0 +1,46 @@
+{
+  "id": "8892c01f-380d-4c19-b0c1-39e1d5afc8cd",
+  "question_text": "A student drops a ball from a height of 10 metres. Just before it hits the ground, which energy store has increased the most?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transfer",
+    "gravitational potential energy",
+    "kinetic energy",
+    "conservation of energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy store",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Elastic potential energy store",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thermal energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Kinetic energy store",
+  "explanation": "When a ball falls, gravitational potential energy is converted into kinetic energy. Just before impact, nearly all the original potential energy has been transferred to kinetic energy, making the kinetic energy store the largest. Some energy may be lost to air resistance (thermal energy), but kinetic energy is the main store that has increased.",
+  "source_url": "generate://energy.stores/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:01.310145",
+  "classified_at": "2026-04-04T19:54:01.310062",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

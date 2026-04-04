@@ -1,0 +1,46 @@
+{
+  "id": "f28bc7c5-2443-4ca7-92eb-f47b937c0019",
+  "question_text": "What does efficiency mean in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "definition",
+    "energy_transfer",
+    "efficiency",
+    "useful_energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How fast something moves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How much useful energy output you get compared to the total energy input",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The total amount of energy used",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How hot something becomes",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "How much useful energy output you get compared to the total energy input",
+  "explanation": "Efficiency in physics is a measure of how well a device or process converts the energy we put into it into useful energy output. For example, a light bulb with high efficiency converts most of the electrical energy into light, while one with low efficiency wastes more energy as heat. Efficiency is always expressed as a ratio or percentage.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:56:12.366442",
+  "classified_at": "2026-04-04T19:56:12.366360",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

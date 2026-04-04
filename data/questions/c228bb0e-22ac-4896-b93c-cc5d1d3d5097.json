@@ -1,0 +1,25 @@
+{
+  "id": "c228bb0e-22ac-4896-b93c-cc5d1d3d5097",
+  "question_text": "Describe what happens when unbalanced forces act on an object.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "unbalanced forces",
+    "acceleration",
+    "Newton's Second Law",
+    "velocity change"
+  ],
+  "options": null,
+  "correct_answer": "The object accelerates (speeds up, slows down, or changes direction).",
+  "explanation": "When forces on an object are unbalanced, there is a net force acting on it. This net force causes the object to accelerate, meaning its velocity changes. The object can speed up, slow down, or change direction depending on the direction of the unbalanced force.",
+  "source_url": "oak://forces.balanced/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:05:14.503596",
+  "classified_at": "2026-04-04T20:05:14.503525",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

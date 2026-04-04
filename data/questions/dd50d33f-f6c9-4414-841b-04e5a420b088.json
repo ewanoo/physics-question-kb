@@ -1,0 +1,47 @@
+{
+  "id": "dd50d33f-f6c9-4414-841b-04e5a420b088",
+  "question_text": "What is the name of the force that pulls objects towards the Earth's surface?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "gravitational force",
+    "definition",
+    "Earth",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gravitational force",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Elastic force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gravitational force",
+  "explanation": "Gravitational force is the attractive force that acts between all objects due to their mass. On Earth, this force pulls objects towards the surface, which is why things fall downwards and why we have weight.",
+  "source_url": "ks3textbook://forces.gravity/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:04:06.230557",
+  "classified_at": "2026-04-04T20:04:06.230483",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "8bcf6583-f142-420f-a61f-e84a3929e559",
+  "question_text": "A pendulum swings back and forth. Explain why, in reality, a pendulum eventually comes to rest, even though the law of conservation of energy states that energy cannot be created or destroyed.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "friction",
+    "air resistance",
+    "energy transfer",
+    "misconceptions"
+  ],
+  "options": null,
+  "correct_answer": "The pendulum comes to rest because friction and air resistance convert the mechanical energy (kinetic and potential energy) into heat energy. Energy is not lost from the universe—it is transferred to the surroundings. The law of conservation of energy still applies because the total energy of the system (including heat) remains constant.",
+  "explanation": "This question addresses a common misconception about energy conservation. While it seems like energy disappears when a pendulum stops, it actually doesn't. Friction at the pivot point and air resistance acting on the pendulum bob convert the ordered mechanical energy (the swinging motion) into disordered thermal energy (heat). This heat warms the pivot, the air, and the pendulum itself. The total energy in the universe stays the same—it's just been transferred from useful mechanical energy into less useful thermal energy. This is why energy conservation is still true.",
+  "source_url": "generate://energy.conservation/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:03.963634",
+  "classified_at": "2026-04-04T19:55:03.963528",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a7c0217e-bd39-4a28-88bd-c71facdbc950",
+  "question_text": "Two electric heaters are switched on simultaneously. Heater A has a power rating of 1500 W and Heater B has a power rating of 2500 W. Which heater transfers energy more rapidly, and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy transfer",
+    "rate",
+    "comparison",
+    "appliances"
+  ],
+  "options": null,
+  "correct_answer": "Heater B transfers energy more rapidly because it has a higher power rating of 2500 W compared to Heater A's 1500 W. Power is the rate of energy transfer, so the higher the power, the faster the energy is transferred.",
+  "explanation": "Power tells us how quickly energy is being transferred. Think of it like pouring water: a wider tap (higher power) pours water faster than a narrower tap (lower power). Heater B with 2500 W transfers energy 1000 W faster than Heater A, meaning it delivers more energy every second.",
+  "source_url": "ks3textbook://energy.power/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:56:53.553971",
+  "classified_at": "2026-04-04T19:56:53.553896",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

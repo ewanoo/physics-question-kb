@@ -1,0 +1,48 @@
+{
+  "id": "85aa3256-fc2d-48b0-8f8e-c4d61443becf",
+  "question_text": "Two students of identical mass consume identical meals containing the same amount of chemical energy. Student A spends the afternoon playing football, whilst Student B spends the afternoon sitting and studying. Which statement correctly explains the energy transfers in both cases?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "energy from food",
+    "heat energy",
+    "kinetic energy",
+    "work",
+    "comparative reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both students release the same amount of energy as heat because they consumed identical meals",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Student A transfers more of the chemical energy into kinetic energy and work, with less transferred as heat, whilst Student B transfers more as heat",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Student A stores more chemical energy as fat because physical activity requires more energy storage",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The energy transfers are identical because both students have the same mass and consumed the same meal",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Student A transfers more of the chemical energy into kinetic energy and work, with less transferred as heat, whilst Student B transfers more as heat",
+  "explanation": "Energy from food (chemical energy) is transferred in three main ways: kinetic energy (movement), work (e.g., against gravity and friction), and heat (maintaining body temperature). Student A doing physical activity uses more energy for movement and work, so less is released as heat. Student B, being sedentary, dissipates more of the chemical energy as heat since less is used for physical activity. Both consume the same energy, but how it is transferred depends on their activity level.",
+  "source_url": "ks3textbook://energy.food/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:01:56.660867",
+  "classified_at": "2026-04-04T20:01:56.660768",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

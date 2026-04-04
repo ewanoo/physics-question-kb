@@ -1,0 +1,47 @@
+{
+  "id": "32b66ffd-fc3f-43e1-b2d6-58728d23c3f5",
+  "question_text": "A student throws a tennis ball upwards with a velocity of 10 m/s. At the highest point of its trajectory, what has happened to the kinetic energy that the ball possessed when it was thrown?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "kinetic energy",
+    "gravitational potential energy",
+    "conservation of energy",
+    "projectile motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It has been lost from the system",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It has been converted into gravitational potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It has been converted into heat energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It remains as kinetic energy but in a different direction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It has been converted into gravitational potential energy",
+  "explanation": "When a ball is thrown upwards, it has kinetic energy due to its motion. As it rises, it slows down because gravity pulls it back. At the highest point, the ball momentarily stops (velocity = 0), so all its kinetic energy has been converted into gravitational potential energy. The total mechanical energy stays the same throughout - this is conservation of energy.",
+  "source_url": "generate://energy.conservation/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:59.148982",
+  "classified_at": "2026-04-04T19:54:59.148897",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

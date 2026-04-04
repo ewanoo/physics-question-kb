@@ -1,0 +1,46 @@
+{
+  "id": "8cbd53c3-779f-4852-8648-ab7d3e622378",
+  "question_text": "A ball is dropped from a height and falls towards the ground. Which energy transformation occurs?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy transformation",
+    "falling objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy transforms to potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Potential energy transforms to kinetic energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Thermal energy transforms to kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Chemical energy transforms to potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Potential energy transforms to kinetic energy",
+  "explanation": "When a ball is dropped, it starts with gravitational potential energy (due to its height). As it falls, this potential energy decreases while kinetic energy increases. The total mechanical energy stays the same because energy is conserved - it just changes from one form to another.",
+  "source_url": "generate://energy.conservation/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:22.385971",
+  "classified_at": "2026-04-04T19:54:22.385874",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

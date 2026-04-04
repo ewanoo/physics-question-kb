@@ -1,0 +1,27 @@
+{
+  "id": "4de5c3a8-7632-4c5f-95c8-ce1bb743953d",
+  "question_text": "A stretched rubber band stores 50 J of elastic potential energy. When released, it flies away with 40 J of kinetic energy. How much energy has been transferred to the thermal energy store due to friction and air resistance?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "energy stores",
+    "elastic potential energy",
+    "kinetic energy",
+    "thermal energy",
+    "energy transfer",
+    "conservation of energy"
+  ],
+  "options": null,
+  "correct_answer": "10 J",
+  "explanation": "When the rubber band is released, the elastic potential energy is converted into kinetic energy and thermal energy. Using conservation of energy: total energy in = total energy out. The 50 J of elastic potential energy equals 40 J of kinetic energy plus the energy lost to heat through friction and air resistance. Therefore, 50 J - 40 J = 10 J transferred to the thermal energy store.",
+  "source_url": "generate://energy.stores/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:41.546345",
+  "classified_at": "2026-04-04T19:53:41.546238",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

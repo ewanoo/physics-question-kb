@@ -1,0 +1,26 @@
+{
+  "id": "434ff0af-a3d1-488c-9d31-77ea276a35fa",
+  "question_text": "A mobile phone battery has a capacity of 15,000 mAh at 3.7 V. The phone's processor consumes 2.4 W during active use. Calculate the maximum operating time available from a full charge.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "energy calculation",
+    "power",
+    "electrical energy",
+    "battery capacity",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 23 hours",
+  "explanation": "To find operating time, we need to calculate the total energy stored in the battery, then divide by the power consumption. Energy = Voltage × Charge. First, convert 15,000 mAh to coulombs: 15 Ah × 3600 s/h = 54,000 C. Then calculate energy: 3.7 V × 54,000 C = 199,800 J. Finally, divide energy by power: 199,800 J ÷ 2.4 W = 83,250 seconds ≈ 23.1 hours. Note: The marked answer of '23 seconds' appears to be an error in the answer key.",
+  "source_url": "ks3textbook://energy.power/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:18.006361",
+  "classified_at": "2026-04-04T19:57:18.006288",
+  "classification_confidence": 0.95,
+  "quality_score": 2.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

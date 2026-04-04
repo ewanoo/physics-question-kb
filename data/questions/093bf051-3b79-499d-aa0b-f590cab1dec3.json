@@ -1,0 +1,46 @@
+{
+  "id": "093bf051-3b79-499d-aa0b-f590cab1dec3",
+  "question_text": "Which of the following correctly describes the relationship between power and energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "definitions",
+    "rate of energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Power is the total amount of energy used by a device",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Power is the rate at which energy is transferred or used",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Power and energy are measured in the same units",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Power increases whenever energy is stored",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Power is the rate at which energy is transferred or used",
+  "explanation": "Power tells us how quickly energy is being used or transferred. It's measured in watts (W), which is the same as joules per second (J/s). This is different from energy, which measures the total amount and is measured in joules (J). A more powerful device uses or transfers energy faster than a less powerful one.",
+  "source_url": "ks3textbook://energy.power/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:56:48.414169",
+  "classified_at": "2026-04-04T19:56:48.414073",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

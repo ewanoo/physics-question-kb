@@ -1,0 +1,47 @@
+{
+  "id": "e91f6c4b-f944-41dd-842f-aa24602bce85",
+  "question_text": "A ball is dropped from a height of 10 metres. What happens to its energy as it falls?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy transfer",
+    "falling objects",
+    "mechanical energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy decreases and kinetic energy increases",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy increases and kinetic energy decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both gravitational potential energy and kinetic energy decrease",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both gravitational potential energy and kinetic energy stay the same",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gravitational potential energy decreases and kinetic energy increases",
+  "explanation": "When a ball falls, it loses height so its gravitational potential energy decreases. As it falls, it speeds up so its kinetic energy increases. The total mechanical energy stays constant because the gravitational potential energy lost is converted into kinetic energy gained (ignoring air resistance).",
+  "source_url": "generate://energy.conservation/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:37.132672",
+  "classified_at": "2026-04-04T19:54:37.132574",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

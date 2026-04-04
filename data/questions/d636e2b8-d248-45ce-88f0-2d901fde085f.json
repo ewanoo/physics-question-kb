@@ -1,0 +1,25 @@
+{
+  "id": "d636e2b8-d248-45ce-88f0-2d901fde085f",
+  "question_text": "A cyclist applies the brakes, causing friction between the brake pads and wheel rims. Evaluate whether friction in this scenario should be classified as a contact force. Justify your answer using scientific reasoning.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "friction",
+    "contact forces",
+    "braking",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Yes, friction is a contact force because it acts between surfaces in direct physical contact. The brake pads must touch the wheel rim for friction to arise, and without this contact, no friction force would be generated.",
+  "explanation": "Friction is classified as a contact force because it only occurs when two surfaces are touching each other. In the braking scenario, the brake pads press directly against the wheel rim. This direct physical contact is essential for friction to occur. This distinguishes friction from non-contact forces like gravity or magnetism, which can act at a distance without surfaces touching.",
+  "source_url": "ks3textbook://forces.types/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:56.682497",
+  "classified_at": "2026-04-04T20:02:56.682403",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

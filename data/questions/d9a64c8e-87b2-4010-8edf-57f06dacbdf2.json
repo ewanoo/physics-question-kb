@@ -1,0 +1,26 @@
+{
+  "id": "d9a64c8e-87b2-4010-8edf-57f06dacbdf2",
+  "question_text": "Biofuel is a fuel made from plant material such as corn or sugarcane. Explain why biofuel is classified as a renewable resource, but also explain why it may not always be more sustainable than fossil fuels.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable_resources",
+    "sustainability",
+    "biofuels",
+    "environmental_impact",
+    "critical_thinking"
+  ],
+  "options": null,
+  "correct_answer": "Biofuel is renewable because plants can be regrown relatively quickly (within years) to replace those used for fuel, whereas fossil fuels take millions of years to form and are therefore non-renewable. However, biofuel may not always be more sustainable than fossil fuels because growing biofuel crops requires significant land, water, and energy inputs (for farming, processing, and transport). This can lead to deforestation, water depletion, soil degradation, and may even produce more carbon emissions overall than using fossil fuels, depending on farming practices and production methods.",
+  "explanation": "This question tests whether students understand that 'renewable' (can be replaced) is different from 'sustainable' (environmentally responsible in the long term). Biofuels are renewable because we can grow more plants, but they may not be sustainable if their production harms the environment more than fossil fuels do.",
+  "source_url": "generate://energy.resources/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:56:03.252974",
+  "classified_at": "2026-04-04T19:56:03.252876",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

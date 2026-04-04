@@ -1,0 +1,46 @@
+{
+  "id": "649bf7e6-55c3-4c73-8c7f-f1fd89ae7681",
+  "question_text": "How does friction affect the forces on a bicycle moving at constant speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "friction",
+    "constant velocity",
+    "Newton's first law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction is the only force acting on the bicycle",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction must be balanced by the driving force to maintain constant speed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Friction makes the forces unbalanced",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Friction has no effect on the forces",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Friction must be balanced by the driving force to maintain constant speed",
+  "explanation": "When a bicycle moves at constant speed, it is not accelerating. This means the forces acting on it must be balanced. The driving force from pedalling must equal the friction forces (air resistance and rolling resistance) opposing the motion. Balanced forces result in no acceleration, allowing constant velocity motion.",
+  "source_url": "oak://forces.balanced/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:05:17.574018",
+  "classified_at": "2026-04-04T20:05:17.573944",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

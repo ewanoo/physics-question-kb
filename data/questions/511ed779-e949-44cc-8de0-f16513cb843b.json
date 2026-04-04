@@ -1,0 +1,48 @@
+{
+  "id": "511ed779-e949-44cc-8de0-f16513cb843b",
+  "question_text": "The diagram shows the energy transformations that occur during human digestion and metabolism. Which statement correctly describes the primary energy transformation?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy transformation",
+    "chemical energy",
+    "metabolism",
+    "human body",
+    "kinetic energy",
+    "heat energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy in food is transformed into kinetic energy and heat energy",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy in food is transformed into gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Elastic potential energy in food is transformed into electrical energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Nuclear energy in food is transformed into sound energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Chemical energy in food is transformed into kinetic energy and heat energy",
+  "explanation": "When we eat food, the chemical energy stored in the bonds between atoms and molecules is released during digestion and metabolism. Our bodies use this energy in two main ways: for movement and activities (kinetic energy) and to keep our body warm (heat energy). This is why we need to eat food to have energy for exercise and to maintain our body temperature.",
+  "source_url": "ks3textbook://energy.food/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:54.564163",
+  "classified_at": "2026-04-04T19:57:54.564090",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

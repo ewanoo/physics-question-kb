@@ -1,0 +1,26 @@
+{
+  "id": "22b7acce-6271-4dde-b234-c6673d368531",
+  "question_text": "Explain why energy is described as 'wasted' as heat in machines, and how this relates to the conservation of energy.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "efficiency",
+    "friction",
+    "heat energy",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "Energy is not truly wasted; it is converted to heat through friction. This follows conservation of energy because the total energy input equals the useful energy output plus the heat energy produced.",
+  "explanation": "Machines are not 100% efficient because friction converts some useful energy into thermal energy. The law of conservation of energy still applies—no energy is lost, only transformed into less useful forms.",
+  "source_url": "generate://energy.conservation/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:27.803727",
+  "classified_at": "2026-04-04T19:54:27.803629",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

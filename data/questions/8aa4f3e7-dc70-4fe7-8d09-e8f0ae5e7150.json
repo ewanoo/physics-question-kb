@@ -1,0 +1,46 @@
+{
+  "id": "8aa4f3e7-dc70-4fe7-8d09-e8f0ae5e7150",
+  "question_text": "A compressed spring stores which type of energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "energy stores",
+    "elastic potential energy",
+    "springs",
+    "definition recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Thermal energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Nuclear energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Elastic potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Sound energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Elastic potential energy",
+  "explanation": "When a spring is compressed or stretched, it stores elastic potential energy. This is a form of potential energy that is released when the spring returns to its original shape, often converting into kinetic energy or other forms of energy.",
+  "source_url": "generate://energy.stores/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:26.390229",
+  "classified_at": "2026-04-04T19:53:26.390145",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

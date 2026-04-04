@@ -1,0 +1,48 @@
+{
+  "id": "f4f247fd-583f-45d4-84e1-409160fcb444",
+  "question_text": "A water slide has friction. A child slides down from rest at the top (height 5 metres) and reaches the bottom with a speed of 8 m/s. Which of the following correctly explains what happened to the energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "friction",
+    "energy transfer",
+    "gravitational potential energy",
+    "kinetic energy",
+    "heat energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All gravitational potential energy was converted into kinetic energy with no energy lost",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy was converted into kinetic energy and heat energy due to friction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy was created from nothing and some potential energy disappeared",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The child gained energy from the friction force as they slid down",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gravitational potential energy was converted into kinetic energy and heat energy due to friction",
+  "explanation": "When the child slides down, gravitational potential energy is converted into two forms: kinetic energy (which gives the child speed) and heat energy (produced by friction between the child and the slide). The total energy is conserved, but not all of it becomes useful kinetic energy—some is wasted as heat. This is why the child doesn't reach the bottom as fast as they would without friction.",
+  "source_url": "generate://energy.conservation/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:01.196797",
+  "classified_at": "2026-04-04T19:55:01.196703",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

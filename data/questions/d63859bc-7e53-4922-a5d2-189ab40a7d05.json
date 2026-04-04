@@ -1,0 +1,47 @@
+{
+  "id": "d63859bc-7e53-4922-a5d2-189ab40a7d05",
+  "question_text": "The unit of power in the SI system is the watt (W). Which of the following correctly defines one watt?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "definition",
+    "SI units",
+    "power",
+    "watt",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "One joule of energy transferred in one hour",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "One joule of energy transferred in one second",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "One kilogram of energy transferred per second",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "One joule of energy stored in a system",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "One joule of energy transferred in one second",
+  "explanation": "Power is the rate at which energy is transferred or used. One watt is defined as one joule of energy being transferred in one second (1 W = 1 J/s). This is the standard SI unit for measuring power.",
+  "source_url": "ks3textbook://energy.power/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:56:33.973391",
+  "classified_at": "2026-04-04T19:56:33.973313",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

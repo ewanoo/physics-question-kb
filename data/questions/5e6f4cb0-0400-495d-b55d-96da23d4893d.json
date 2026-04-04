@@ -1,0 +1,47 @@
+{
+  "id": "5e6f4cb0-0400-495d-b55d-96da23d4893d",
+  "question_text": "A ball is dropped from a height of 20 metres. Ignoring air resistance, which statement best describes the energy changes as it falls?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy conversion",
+    "conservation of energy",
+    "falling objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy decreases and kinetic energy decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy decreases and kinetic energy increases by the same amount",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational potential energy increases and kinetic energy increases",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Kinetic energy stays constant and potential energy decreases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gravitational potential energy decreases and kinetic energy increases by the same amount",
+  "explanation": "When a ball falls without air resistance, gravitational potential energy is converted into kinetic energy. As the ball loses height, its potential energy decreases. At the same time, the ball accelerates and gains kinetic energy. The total mechanical energy stays constant because no energy is lost to air resistance—the decrease in potential energy equals the increase in kinetic energy.",
+  "source_url": "generate://energy.conservation/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:57.305803",
+  "classified_at": "2026-04-04T19:54:57.305715",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

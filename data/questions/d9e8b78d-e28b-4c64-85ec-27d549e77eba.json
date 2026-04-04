@@ -1,0 +1,26 @@
+{
+  "id": "d9e8b78d-e28b-4c64-85ec-27d549e77eba",
+  "question_text": "A stretched spring stores 50 J of elastic potential energy. When released, the spring pushes a 2 kg block across a rough table. The block slides 8 metres before stopping. Explain why the block does not travel further, even though the spring had 50 J of energy.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "friction",
+    "elastic potential energy",
+    "thermal energy",
+    "energy dissipation"
+  ],
+  "options": null,
+  "correct_answer": "Friction between the block and the table converts the kinetic energy into thermal energy (heat). Energy is dissipated as the block slides, so it eventually stops when all the kinetic energy has been transferred to heat. The 50 J of elastic potential energy is conserved but becomes less useful energy.",
+  "explanation": "This question tests understanding of energy conservation and energy transfer. The spring's 50 J of elastic potential energy is transferred to kinetic energy as the block moves. However, friction forces act against the motion, constantly converting kinetic energy into thermal energy (heat). This heat energy spreads into the block, table, and surroundings, making it unavailable for further motion. The total energy is conserved (50 J becomes heat), but it's no longer in a useful form for doing work. This is why the block stops before travelling indefinitely.",
+  "source_url": "generate://energy.stores/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:04.074968",
+  "classified_at": "2026-04-04T19:54:04.074862",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

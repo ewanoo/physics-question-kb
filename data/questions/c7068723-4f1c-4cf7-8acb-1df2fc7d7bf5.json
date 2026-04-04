@@ -1,0 +1,49 @@
+{
+  "id": "c7068723-4f1c-4cf7-8acb-1df2fc7d7bf5",
+  "question_text": "Burning fossil fuels releases carbon dioxide into the atmosphere, contributing to climate change. Nuclear power stations produce electricity without releasing carbon dioxide, but create radioactive waste that remains dangerous for thousands of years. Based on this information, which is the better long-term energy source?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "energy sources",
+    "environmental impact",
+    "renewable energy",
+    "fossil fuels",
+    "nuclear power",
+    "evaluation",
+    "sustainability"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Fossil fuels because they don't create radioactive waste",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Nuclear power because it doesn't release carbon dioxide",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Neither is ideal; renewable sources like wind and solar are better because they produce no waste or carbon dioxide",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Fossil fuels because they are cheaper than nuclear power",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Neither is ideal; renewable sources like wind and solar are better because they produce no waste or carbon dioxide",
+  "explanation": "Fossil fuels release carbon dioxide which contributes to climate change, while nuclear power produces radioactive waste that is dangerous for thousands of years. Both have serious environmental drawbacks. Renewable energy sources like wind and solar are better long-term choices because they generate electricity without producing carbon dioxide emissions or radioactive waste, making them more sustainable for the future.",
+  "source_url": "generate://energy.resources/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:58.028869",
+  "classified_at": "2026-04-04T19:55:58.028807",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

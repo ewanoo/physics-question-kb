@@ -1,0 +1,26 @@
+{
+  "id": "4dad276d-e115-4f20-8870-f43992a7b05f",
+  "question_text": "Explain what the law of conservation of energy states. Give an example using a swinging pendulum.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "energy transfer",
+    "pendulum",
+    "gravitational potential energy",
+    "kinetic energy"
+  ],
+  "options": null,
+  "correct_answer": "The law of conservation of energy states that energy cannot be created or destroyed, only transferred from one form to another. In a pendulum: at the highest point, all energy is gravitational potential energy (GPE); as it swings down, GPE converts to kinetic energy (KE); at the lowest point, all energy is kinetic energy; as it swings up the other side, KE converts back to GPE. The total mechanical energy remains constant (ignoring friction and air resistance).",
+  "explanation": "This is a fundamental physics principle. Energy changes form but the total amount stays the same. A pendulum is an excellent example because you can clearly see the energy transformation between gravitational potential energy and kinetic energy as it swings back and forth.",
+  "source_url": "generate://energy.conservation/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:43.172077",
+  "classified_at": "2026-04-04T19:54:43.172042",
+  "classification_confidence": 0.95,
+  "quality_score": 4.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

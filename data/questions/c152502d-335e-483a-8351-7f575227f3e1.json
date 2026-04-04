@@ -1,0 +1,25 @@
+{
+  "id": "c152502d-335e-483a-8351-7f575227f3e1",
+  "question_text": "Why is wind energy considered a renewable energy resource?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "wind energy",
+    "energy resources",
+    "sustainability"
+  ],
+  "options": null,
+  "correct_answer": "Wind energy is renewable because wind is continuously produced by the sun heating the Earth's atmosphere, so it will not run out.",
+  "explanation": "Renewable energy resources are naturally replenished and won't run out. Wind is created by the sun's energy heating the atmosphere unevenly, which causes air to move. This process happens continuously, so we can use wind energy indefinitely without depleting it, unlike fossil fuels which are finite.",
+  "source_url": "generate://energy.resources/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:34.170295",
+  "classified_at": "2026-04-04T19:55:34.170214",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

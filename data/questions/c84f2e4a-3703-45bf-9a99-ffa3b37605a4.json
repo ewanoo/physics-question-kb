@@ -1,0 +1,25 @@
+{
+  "id": "c84f2e4a-3703-45bf-9a99-ffa3b37605a4",
+  "question_text": "State the key difference between contact forces and non-contact forces.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "definitions",
+    "fundamental concepts"
+  ],
+  "options": null,
+  "correct_answer": "Contact forces act only when two objects are touching, whilst non-contact forces can act between objects that are separated by a distance.",
+  "explanation": "Contact forces need objects to be in physical contact (like friction or pushing). Non-contact forces work at a distance without touching, such as gravity pulling objects down, magnets attracting iron, or static electricity pushing objects apart.",
+  "source_url": "ks3textbook://forces.types/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:14.477607",
+  "classified_at": "2026-04-04T20:02:14.477503",
+  "classification_confidence": 0.98,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

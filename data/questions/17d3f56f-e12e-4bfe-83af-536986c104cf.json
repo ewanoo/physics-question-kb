@@ -1,0 +1,46 @@
+{
+  "id": "17d3f56f-e12e-4bfe-83af-536986c104cf",
+  "question_text": "Which factor would NOT increase the friction force between a book sliding across a table?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "factors affecting friction",
+    "misconceptions",
+    "kinetic friction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Placing another book on top",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Making the table surface rougher",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Pushing the book faster across the table",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Using a table made of a different material",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Pushing the book faster across the table",
+  "explanation": "Friction force depends on the normal force (weight pressing down) and the roughness of the surfaces in contact. It does NOT depend on how fast an object is moving. Placing another book on top increases weight, making the surface rougher increases friction, and using different materials changes the friction coefficient—all increase friction. But speed has no effect on the friction force itself.",
+  "source_url": "oak://forces.friction/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:54.533834",
+  "classified_at": "2026-04-04T20:04:54.533753",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

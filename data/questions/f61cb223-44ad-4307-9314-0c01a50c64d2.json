@@ -1,0 +1,25 @@
+{
+  "id": "f61cb223-44ad-4307-9314-0c01a50c64d2",
+  "question_text": "How does the surface texture affect friction between two objects?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "surface properties",
+    "material properties",
+    "contact forces"
+  ],
+  "options": null,
+  "correct_answer": "Rougher surfaces produce more friction; smoother surfaces produce less friction.",
+  "explanation": "Rough surfaces have microscopic irregularities and bumps that catch and grip each other, creating more friction and resistance to sliding. Smooth surfaces have fewer irregularities, so objects can slide past each other more easily with less friction.",
+  "source_url": "oak://forces.friction/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:38.874338",
+  "classified_at": "2026-04-04T20:04:38.874243",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

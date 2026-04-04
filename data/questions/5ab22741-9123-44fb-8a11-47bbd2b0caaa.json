@@ -1,0 +1,25 @@
+{
+  "id": "5ab22741-9123-44fb-8a11-47bbd2b0caaa",
+  "question_text": "Two identical magnets are positioned with their north poles facing each other. The repulsive force between them acts over a distance of 5 cm without the magnets touching. A student claims this is a contact force because the magnetic fields are 'touching'. Explain why this claim is incorrect and identify the correct classification of this force.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "magnetic forces",
+    "force classification",
+    "misconception"
+  ],
+  "options": null,
+  "correct_answer": "This is incorrect because a contact force requires direct physical contact between material objects, not between fields. The repulsive force is a non-contact force that acts through the magnetic field.",
+  "explanation": "Contact forces need the surfaces of two objects to actually touch each other. Magnetic forces work through invisible magnetic fields that spread out around magnets and can push or pull from a distance. Even though the magnetic fields are present in the space between the magnets, the magnets themselves are not touching, so this is a non-contact force, not a contact force.",
+  "source_url": "ks3textbook://forces.types/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:58.816487",
+  "classified_at": "2026-04-04T20:02:58.816399",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

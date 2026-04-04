@@ -1,0 +1,45 @@
+{
+  "id": "fc949a4c-9044-4c48-8942-9d082aaf3f74",
+  "question_text": "Which of the following is an example of gravitational potential energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "energy stores",
+    "definition recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A ball rolling along the ground",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A book sitting on a shelf above the ground",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A stretched rubber band",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A light bulb that is switched on",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A book sitting on a shelf above the ground",
+  "explanation": "Gravitational potential energy is the energy stored in an object because of its height above the ground. The higher an object is positioned, the more gravitational potential energy it has. A book on a shelf has gravitational potential energy because it is above ground level and could fall, releasing that energy.",
+  "source_url": "generate://energy.stores/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:23.319745",
+  "classified_at": "2026-04-04T19:53:23.319662",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

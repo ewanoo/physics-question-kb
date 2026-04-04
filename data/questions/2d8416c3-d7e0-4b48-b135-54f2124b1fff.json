@@ -1,0 +1,46 @@
+{
+  "id": "2d8416c3-d7e0-4b48-b135-54f2124b1fff",
+  "question_text": "A mobile phone battery stores energy in which energy store?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "energy stores",
+    "chemical energy",
+    "batteries",
+    "everyday application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Elastic potential energy store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy store",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy store",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Gravitational potential energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Chemical energy store",
+  "explanation": "Batteries store energy in the form of chemical energy. When a battery is connected to a device like a mobile phone, a chemical reaction occurs inside the battery, which transfers this chemical energy into electrical energy that powers the phone.",
+  "source_url": "generate://energy.stores/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:39.599303",
+  "classified_at": "2026-04-04T19:53:39.599233",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "b2e607f8-170b-47d4-b80c-905892e0c54d",
+  "question_text": "What is friction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "contact forces",
+    "definition",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that helps objects move faster",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A force that opposes motion between two surfaces in contact",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A type of magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The energy needed to push an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A force that opposes motion between two surfaces in contact",
+  "explanation": "Friction is a contact force that acts in the opposite direction to motion. It occurs when two surfaces rub against each other and slows objects down or prevents them from moving. Examples include sliding a book across a table or the grip of shoes on the ground.",
+  "source_url": "oak://forces.friction/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:20.063003",
+  "classified_at": "2026-04-04T20:04:20.062984",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

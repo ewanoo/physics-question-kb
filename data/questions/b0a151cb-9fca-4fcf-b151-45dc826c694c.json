@@ -1,0 +1,46 @@
+{
+  "id": "b0a151cb-9fca-4fcf-b151-45dc826c694c",
+  "question_text": "Which of the following best describes the relationship between mass and weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "gravitational force",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mass and weight are identical quantities measured in the same units",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Weight is the gravitational force acting on an object's mass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Mass depends on location, but weight remains constant",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Weight is a measure of the amount of matter in an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Weight is the gravitational force acting on an object's mass",
+  "explanation": "Weight is the force that gravity exerts on an object because of its mass. It is measured in newtons (N), while mass is measured in kilograms (kg) and stays the same everywhere. Weight changes depending on the gravitational field strength of different locations.",
+  "source_url": "ks3textbook://forces.gravity/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:04:04.715965",
+  "classified_at": "2026-04-04T20:04:04.715888",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

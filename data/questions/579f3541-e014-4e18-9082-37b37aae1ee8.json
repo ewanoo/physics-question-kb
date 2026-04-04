@@ -1,0 +1,46 @@
+{
+  "id": "579f3541-e014-4e18-9082-37b37aae1ee8",
+  "question_text": "What is the main energy store in a battery?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "energy stores",
+    "batteries",
+    "chemical energy",
+    "energy conversion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Chemical energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Thermal energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Elastic potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Chemical energy",
+  "explanation": "Batteries contain chemicals that store energy. When a battery is connected to a circuit, this chemical energy is converted into electrical energy to power devices like torches or mobile phones.",
+  "source_url": "generate://energy.stores/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:53:24.854958",
+  "classified_at": "2026-04-04T19:53:24.854841",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

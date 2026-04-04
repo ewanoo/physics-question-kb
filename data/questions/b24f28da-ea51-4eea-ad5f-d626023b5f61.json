@@ -1,0 +1,46 @@
+{
+  "id": "b24f28da-ea51-4eea-ad5f-d626023b5f61",
+  "question_text": "How does increasing the weight of an object affect the friction force acting on it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "normal force",
+    "weight",
+    "contact forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It decreases the friction force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It increases the friction force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It has no effect on friction",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It stops friction from acting completely",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It increases the friction force",
+  "explanation": "When an object becomes heavier, it presses down harder on the surface beneath it. This increases the normal force (the pushing force between the object and surface). Since friction depends on the normal force, a greater normal force means greater friction force.",
+  "source_url": "oak://forces.friction/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:27.798773",
+  "classified_at": "2026-04-04T20:04:27.798700",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

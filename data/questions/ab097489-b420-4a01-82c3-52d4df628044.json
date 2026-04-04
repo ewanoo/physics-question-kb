@@ -1,0 +1,26 @@
+{
+  "id": "ab097489-b420-4a01-82c3-52d4df628044",
+  "question_text": "A light bulb operates at a power rating of 60 watts and is switched on for 5 seconds. Calculate the total energy consumed by the light bulb during this time.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "calculation",
+    "E=Pt",
+    "direct_substitution"
+  ],
+  "options": null,
+  "correct_answer": "300 joules",
+  "explanation": "To find the total energy consumed, we use the formula E = P × t, where E is energy in joules, P is power in watts, and t is time in seconds. Substituting the values: E = 60 W × 5 s = 300 J. This means the light bulb transfers 300 joules of electrical energy (mostly as light and heat) during the 5 seconds it is switched on.",
+  "source_url": "ks3textbook://energy.power/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:56:51.381591",
+  "classified_at": "2026-04-04T19:56:51.381502",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ccbe3339-a4d6-40b9-8028-855a599432bf",
+  "question_text": "A child on a swing is lifted to a height where they have 400 J of gravitational potential energy. When they swing down, some energy is lost to friction and air resistance. At the bottom of the swing, their kinetic energy is only 320 J. How much energy was lost to friction and air resistance?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "energy transfer",
+    "gravitational potential energy",
+    "kinetic energy",
+    "friction",
+    "real-world application"
+  ],
+  "options": null,
+  "correct_answer": "80 J",
+  "explanation": "Energy is always conserved, but in real situations, some mechanical energy is converted to other forms like heat and sound through friction and air resistance. The energy lost equals the difference between the starting potential energy and the final kinetic energy: 400 J - 320 J = 80 J. This energy was transferred to heat and sound rather than disappearing.",
+  "source_url": "generate://energy.conservation/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:45.119067",
+  "classified_at": "2026-04-04T19:54:45.118983",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "56bd475e-45da-4643-9a31-47b1e93283f5",
+  "question_text": "Which of these is an example of balanced forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "Newton's first law",
+    "equilibrium",
+    "normal force",
+    "weight"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A book sliding across a table and slowing down",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A car accelerating from a traffic light",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A book sitting still on a table",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "A ball being kicked across grass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A book sitting still on a table",
+  "explanation": "When a book sits still on a table, the downward force of gravity (weight) is balanced by the upward normal force from the table. Since the forces are balanced, there is no net force, so the book remains at rest. In contrast, options A, B, and D all involve objects that are either slowing down or accelerating, which means unbalanced forces are acting on them.",
+  "source_url": "oak://forces.balanced/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:05:11.429351",
+  "classified_at": "2026-04-04T20:05:11.429275",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

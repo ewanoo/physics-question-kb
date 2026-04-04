@@ -1,0 +1,26 @@
+{
+  "id": "8ecba072-6ad2-4027-94a4-6a4dd4738ccc",
+  "question_text": "Compare how friction affects a car's braking distance on a wet road versus a dry road. Explain your answer.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "braking",
+    "deceleration",
+    "surface_properties",
+    "real-world_application"
+  ],
+  "options": null,
+  "correct_answer": "On a wet road, the braking distance is longer because water reduces friction between the tyres and the road surface. Less friction means a smaller opposing force, so the car decelerates more slowly.",
+  "explanation": "Friction is the force that opposes motion between surfaces in contact. On a dry road, there is high friction between the tyre and road, providing a large opposing force that slows the car quickly. On a wet road, water acts as a lubricant between the tyre and road surface, reducing the friction force. With less friction acting on the car, the deceleration is smaller, so it takes a longer distance to come to a complete stop.",
+  "source_url": "oak://forces.friction/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:58.731062",
+  "classified_at": "2026-04-04T20:04:58.730983",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

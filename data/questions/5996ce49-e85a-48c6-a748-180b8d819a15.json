@@ -1,0 +1,26 @@
+{
+  "id": "5996ce49-e85a-48c6-a748-180b8d819a15",
+  "question_text": "A student investigates energy transfer by lighting a candle. Over 10 minutes, the candle burns and melts slightly. Describe the energy transfers that occur and explain why the thermal energy store of the surroundings increases even though the candle decreases in mass.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transfer",
+    "combustion",
+    "chemical energy",
+    "thermal energy",
+    "conservation of energy"
+  ],
+  "options": null,
+  "correct_answer": "The chemical energy store in the wax is released by burning (combustion). This chemical energy is transferred to thermal energy, which heats the air and surroundings. The candle gets smaller because the wax is consumed in the combustion reaction and some products escape as gases, but the energy released is transferred to the surroundings, increasing their thermal energy store. Energy and mass are different properties—energy can be transferred without requiring mass transfer to the surroundings.",
+  "explanation": "When a candle burns, the chemical energy stored in the wax is released through combustion. This energy is transferred as thermal energy to heat the air and objects around it. Although the candle gets smaller (losing mass), the thermal energy is still transferred to the surroundings because energy and mass are separate properties. The energy doesn't need to stay with the candle—it spreads out to warm the environment instead.",
+  "source_url": "generate://energy.stores/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:09.228431",
+  "classified_at": "2026-04-04T19:54:09.228353",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

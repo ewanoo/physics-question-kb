@@ -1,0 +1,25 @@
+{
+  "id": "9d702f98-b944-4f41-ae82-2066b47c963f",
+  "question_text": "A battery in a torch transfers 200 J of chemical energy. If 150 J is converted to light energy and some is converted to heat energy, how much energy is converted to heat?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "conservation of energy",
+    "torch",
+    "chemical energy"
+  ],
+  "options": null,
+  "correct_answer": "50 J",
+  "explanation": "The law of conservation of energy states that energy cannot be created or destroyed, only transferred between different forms. The total energy input from the battery (200 J) must equal the total energy output. Since 150 J is converted to light energy, the remaining energy must be converted to heat: 200 J - 150 J = 50 J.",
+  "source_url": "generate://energy.conservation/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:41.050251",
+  "classified_at": "2026-04-04T19:54:41.050178",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

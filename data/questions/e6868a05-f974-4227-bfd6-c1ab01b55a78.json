@@ -1,0 +1,46 @@
+{
+  "id": "e6868a05-f974-4227-bfd6-c1ab01b55a78",
+  "question_text": "Which of the following is an example of wasted energy in a traditional light bulb?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "wasted energy",
+    "light bulbs",
+    "heat loss",
+    "efficiency"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Light energy produced",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Heat energy released into the surroundings",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Electrical energy entering the bulb",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy stored in the filament",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Heat energy released into the surroundings",
+  "explanation": "Traditional light bulbs convert electrical energy into both light and heat. While light is useful, the heat released into the surroundings is wasted energy because it doesn't help the bulb do its job of producing light. LED bulbs are more efficient because they produce more light and waste less energy as heat.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:56:14.007593",
+  "classified_at": "2026-04-04T19:56:14.007504",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "3a783a04-8862-4e52-9f75-43eb42f0f072",
+  "question_text": "Which structure in the human body is mainly responsible for breaking down food and releasing its chemical energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "cellular respiration",
+    "energy release",
+    "mitochondria",
+    "human body systems"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The brain",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The heart",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The cells (through the process of respiration)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The skin",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The cells (through the process of respiration)",
+  "explanation": "While the digestive system breaks down food into smaller molecules, cells release the chemical energy stored in food through cellular respiration. This process happens mainly in mitochondria, which are found inside cells. This is why the answer focuses on cells and respiration rather than organs like the stomach or intestines.",
+  "source_url": "ks3textbook://energy.food/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T19:57:38.180318",
+  "classified_at": "2026-04-04T19:57:38.180229",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

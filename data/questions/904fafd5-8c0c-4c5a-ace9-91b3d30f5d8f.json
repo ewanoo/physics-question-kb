@@ -1,0 +1,48 @@
+{
+  "id": "904fafd5-8c0c-4c5a-ace9-91b3d30f5d8f",
+  "question_text": "A student investigates two forces acting on a book resting on a table: the gravitational force acting downwards and the normal reaction force acting upwards. Which of the following statements correctly identifies these forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "normal reaction",
+    "gravitational force",
+    "action-reaction pairs",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both are contact forces because the book is touching the table",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational force is non-contact and normal reaction is contact; they are not an action-reaction pair",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both are non-contact forces acting through the Earth's gravitational field",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Normal reaction is non-contact and gravitational force is contact because the Earth touches the book",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gravitational force is non-contact and normal reaction is contact; they are not an action-reaction pair",
+  "explanation": "Gravitational force acts at a distance without the Earth touching the book directly - it's a non-contact force. The normal reaction force requires direct contact between the book and table surfaces - it's a contact force. These two forces are equal in size and opposite in direction, but they act on the same object (the book), so they are not an action-reaction pair. Action-reaction pairs must act on different objects.",
+  "source_url": "ks3textbook://forces.types/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:02:49.806565",
+  "classified_at": "2026-04-04T20:02:49.806491",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

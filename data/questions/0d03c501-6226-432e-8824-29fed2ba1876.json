@@ -1,0 +1,47 @@
+{
+  "id": "0d03c501-6226-432e-8824-29fed2ba1876",
+  "question_text": "A wind turbine converts wind energy into electrical energy. A student claims that because some energy is lost as sound and heat in the turbine, energy is not conserved. Evaluate this claim using your knowledge of energy stores and transfers.",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "energy transfers",
+    "energy stores",
+    "misconceptions",
+    "evaluation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The claim is correct; energy is lost, so conservation of energy doesn't apply to turbines",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The claim is incorrect; the sound and heat are still forms of energy, so total energy is conserved even though electrical energy output is less than wind energy input",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The claim is correct; you cannot conserve energy in man-made machines",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The claim is incorrect; turbines create more energy than they receive from the wind",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The law of conservation of energy states that energy cannot be created or destroyed, only transferred between different stores. In a wind turbine, kinetic energy from the wind is transferred into three energy stores: electrical energy (useful output), thermal energy (heat from friction), and sound energy. The total amount of energy remains constant, but it is distributed across these different forms. The student's claim misunderstands what 'energy loss' means - energy is not lost from the universe, it is simply transferred to less useful forms.",
+  "source_url": "generate://energy.stores/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:54:11.486482",
+  "classified_at": "2026-04-04T19:54:11.486394",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

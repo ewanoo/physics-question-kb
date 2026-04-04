@@ -1,0 +1,25 @@
+{
+  "id": "0669957d-f06e-429b-81cb-fd3d7b44eaec",
+  "question_text": "What is a renewable energy resource?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "energy sources",
+    "definitions",
+    "sustainability"
+  ],
+  "options": null,
+  "correct_answer": "A renewable energy resource is an energy source that can be naturally replenished or regenerated on a human timescale, such as solar, wind, water, or biomass.",
+  "explanation": "Renewable resources are energy sources that nature can replace relatively quickly. Unlike fossil fuels which take millions of years to form, renewable resources like sunlight, wind, and flowing water are continuously available and can be used again and again without running out.",
+  "source_url": "generate://energy.resources/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T19:55:15.123439",
+  "classified_at": "2026-04-04T19:55:15.123342",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

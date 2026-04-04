@@ -1,0 +1,47 @@
+{
+  "id": "5e77fff2-2a26-4559-9ec8-5fdd7a27cf5b",
+  "question_text": "Why does a parachutist eventually fall at a constant speed rather than continuing to accelerate?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "air_resistance",
+    "terminal_velocity",
+    "balanced_forces",
+    "net_force",
+    "acceleration"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity stops pulling on them",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Air resistance increases until it balances the gravitational force, so the net force becomes zero",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They run out of energy to fall faster",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The parachute uses up all the air around them",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Air resistance increases until it balances the gravitational force, so the net force becomes zero",
+  "explanation": "As a parachutist falls, air resistance increases with speed. Eventually, the upward air resistance force equals the downward gravitational force. When these forces balance, the net force becomes zero, so there is no more acceleration. The parachutist then falls at constant speed, called terminal velocity.",
+  "source_url": "oak://forces.friction/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:04:56.580642",
+  "classified_at": "2026-04-04T20:04:56.580562",
+  "classification_confidence": 0.98,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
