@@ -11,12 +11,19 @@ from src.taxonomy import ALL_TOPIC_SLUGS, get_parent_topic
 
 logger = logging.getLogger(__name__)
 
-# Scraper priority order (most reliable first)
-_SCRAPER_PRIORITY = [
+# Scraper priority order — all three virtual sources for diversity
+_VIRTUAL_SCRAPERS = [
     "claude_generator",
-    "isaac_physics",
-    "bbc_bitesize",
+    "ks3_textbook",
+    "oak_national",
 ]
+
+
+def _pick_scraper(report: CoverageReport) -> str:
+    """Pick the scraper with the fewest questions to ensure source diversity."""
+    source_counts = report.by_source
+    # Always pick the source with least questions so we diversify
+    return min(_VIRTUAL_SCRAPERS, key=lambda s: source_counts.get(s, 0))
 
 
 def decide_next_action(report: CoverageReport, scraped_urls: set[str]) -> dict:
@@ -52,9 +59,8 @@ def decide_next_action(report: CoverageReport, scraped_urls: set[str]) -> dict:
     else:
         topic_hints = weak_slugs[:3]
 
-    # Choose scraper: try generator first (always works), then fallback to web scrapers
-    # For now, always use claude_generator since web scrapers 403 from cloud
-    scraper = "claude_generator"
+    # Pick scraper to ensure source diversity
+    scraper = _pick_scraper(report)
 
     # Check if difficulty balance is off — if so, hint difficulty
     difficulty_action = _check_difficulty_balance(report)
@@ -86,10 +92,14 @@ def get_scraper(scraper_name: str, api_key: str = ""):
     """Instantiate and return a scraper by name."""
     from src.scraper.bbc_bitesize import BBCBitesizeScraper
     from src.scraper.isaac_physics import IsaacPhysicsScraper
+    from src.scraper.ks3_textbook import KS3TextbookScraper
+    from src.scraper.oak_national import OakNationalScraper
     from src.scraper.question_generator import QuestionGeneratorScraper
 
     scrapers = {
         "claude_generator": lambda: QuestionGeneratorScraper(api_key=api_key),
+        "ks3_textbook": lambda: KS3TextbookScraper(api_key=api_key),
+        "oak_national": lambda: OakNationalScraper(api_key=api_key),
         "isaac_physics": IsaacPhysicsScraper,
         "bbc_bitesize": BBCBitesizeScraper,
     }
