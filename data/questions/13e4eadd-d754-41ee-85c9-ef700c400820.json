@@ -1,0 +1,25 @@
+{
+  "question_text": "A food scientist measures that 100 grams of bread releases 1200 kJ of energy when completely burned in a calorimeter. Based on this result, approximately how much energy would 25 grams of the same bread release?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "calorimeter",
+    "energy content",
+    "proportion",
+    "food energy"
+  ],
+  "options": null,
+  "correct_answer": "300 kJ",
+  "explanation": "This is a simple proportion problem: if 100 g releases 1200 kJ, then 25 g (which is one-quarter of 100 g) releases one-quarter of the energy. 1200 kJ \u00f7 4 = 300 kJ. The chemical energy content per gram of bread remains constant.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "13e4eadd-d754-41ee-85c9-ef700c400820",
+  "scraped_at": "2026-04-04T22:26:48.441317",
+  "classified_at": "2026-04-04T22:26:48.441317",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

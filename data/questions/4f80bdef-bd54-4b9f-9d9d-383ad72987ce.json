@@ -1,0 +1,24 @@
+{
+  "question_text": "A solar panel receives 1000 W of solar energy and converts 200 W into electrical energy. The remaining 800 W is reflected or converted to heat. Calculate the efficiency of the solar panel and explain why it is not 100%.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "energy loss mechanisms",
+    "renewable energy"
+  ],
+  "options": null,
+  "correct_answer": "20% efficiency. The panel is not 100% efficient because some light is reflected from the surface, some energy is lost as heat due to the resistance of the semiconductor material, and not all wavelengths of light can be converted to electricity.",
+  "explanation": "Efficiency = (200 / 1000) \u00d7 100 = 20%. Solar panels always lose some energy because light reflects off their surface, the materials absorb some light as heat instead of converting it to electricity, and the semiconductor can only convert certain wavelengths. These energy losses mean real solar panels never achieve 100% efficiency.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4f80bdef-bd54-4b9f-9d9d-383ad72987ce",
+  "scraped_at": "2026-04-04T22:25:15.784941",
+  "classified_at": "2026-04-04T22:25:15.784941",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

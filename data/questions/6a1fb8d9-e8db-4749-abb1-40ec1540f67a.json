@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is an irreversible change?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "irreversible changes",
+    "chemical reactions",
+    "reversible vs irreversible"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Melting an ice cube to form liquid water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Burning wood to form ash and gases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Dissolving sugar in water to make a solution",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Evaporating salt water to separate salt and water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Burning wood to form ash and gases",
+  "explanation": "Burning is an irreversible change because it creates new substances (ash, carbon dioxide, and other gases) through a chemical reaction. The original wood cannot be recovered, unlike melting or dissolving which are reversible physical changes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6a1fb8d9-e8db-4749-abb1-40ec1540f67a",
+  "scraped_at": "2026-04-04T22:26:13.759409",
+  "classified_at": "2026-04-04T22:26:13.759409",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

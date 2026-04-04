@@ -1,0 +1,46 @@
+{
+  "question_text": "The Moon's gravitational field strength is about 1.6 N/kg, compared to Earth's 10 N/kg. An astronaut has a mass of 80 kg. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravitational field strength",
+    "Moon",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The astronaut's weight on the Moon is 80 N",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The astronaut's weight on the Moon is 128 N",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The astronaut's weight on Earth is less than on the Moon",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The astronaut's mass changes when travelling to the Moon",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) 128 N",
+  "explanation": "Weight on the Moon = 80 kg \u00d7 1.6 N/kg = 128 N. Mass stays the same everywhere, but weight changes because gravitational field strength is different.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "91065fa1-f206-4174-90c2-955ca94e609a",
+  "scraped_at": "2026-04-04T22:25:38.834266",
+  "classified_at": "2026-04-04T22:25:38.834266",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

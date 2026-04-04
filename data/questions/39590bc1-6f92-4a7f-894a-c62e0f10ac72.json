@@ -1,0 +1,25 @@
+{
+  "question_text": "A guitar string is plucked and produces a note with a frequency of 440 Hz. The wavelength of this sound wave in air is 0.78 m. Calculate the speed of sound in air using the wave equation v = f \u00d7 \u03bb. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "frequency",
+    "wavelength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "343.2 m/s or approximately 343 m/s",
+  "explanation": "Using v = f \u00d7 \u03bb, we substitute the values: v = 440 Hz \u00d7 0.78 m = 343.2 m/s. This is close to the accepted value of the speed of sound in air at room temperature, which validates the calculation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "39590bc1-6f92-4a7f-894a-c62e0f10ac72",
+  "scraped_at": "2026-04-04T22:26:03.447037",
+  "classified_at": "2026-04-04T22:26:03.447037",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

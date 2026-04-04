@@ -1,0 +1,24 @@
+{
+  "question_text": "A kettle transfers 180 kJ of electrical energy to heat water. Of this energy, 144 kJ is used to heat the water and 36 kJ is lost as heat through the kettle's casing and steam. Calculate the efficiency of the kettle as a percentage.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency formula",
+    "energy transfer",
+    "percentages"
+  ],
+  "options": null,
+  "correct_answer": "80%",
+  "explanation": "Efficiency is calculated using the formula: efficiency = (useful energy output / total energy input) \u00d7 100. Here, useful energy = 144 kJ and total energy = 180 kJ, so efficiency = (144 / 180) \u00d7 100 = 80%. This shows that 80% of the electrical energy is used effectively to heat the water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "aa36653c-d724-4eb3-9683-ebcf6e87e9f5",
+  "scraped_at": "2026-04-04T22:25:15.784941",
+  "classified_at": "2026-04-04T22:25:15.784941",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

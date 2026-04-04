@@ -1,0 +1,45 @@
+{
+  "question_text": "A student dissolves 30 grams of sugar in 100 ml of water at room temperature. If they heat the water to 60\u00b0C, what will happen to the amount of sugar that can dissolve?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "dissolving",
+    "temperature",
+    "solubility"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Less sugar will dissolve because heat breaks down sugar molecules",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "More sugar will dissolve because solubility increases with temperature for most solids",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The same amount of sugar will dissolve because temperature does not affect dissolving",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All the sugar will precipitate out because heating causes crystallisation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) More sugar will dissolve because solubility increases with temperature for most solids",
+  "explanation": "For most solid solutes like sugar, increasing the temperature of the solvent increases how much can dissolve. This is because particles have more energy at higher temperatures, making it easier for solid particles to break apart and mix into the solution.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fcbfc597-a22e-4070-b0b2-9c8f1ad0a790",
+  "scraped_at": "2026-04-04T22:26:13.759409",
+  "classified_at": "2026-04-04T22:26:13.759409",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

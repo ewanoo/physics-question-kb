@@ -1,0 +1,46 @@
+{
+  "question_text": "A graph shows the force-extension relationship for a spring. The line is straight from 0 to 0.2 m extension (elastic region), then curves upward and becomes non-linear beyond 0.2 m. Which statement best explains what is happening at the point where the graph becomes non-linear?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "extension graphs",
+    "deformation",
+    "Hooke's law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The spring is returning to its original shape and the force is decreasing.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The spring has gone beyond its elastic limit and the material is permanently deforming, so additional force produces less additional extension.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The spring constant increases because the spring becomes stiffer as it stretches further.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The spring is obeying Hooke's law more accurately and the relationship becomes stronger.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The spring has gone beyond its elastic limit and the material is permanently deforming, so additional force produces less additional extension.",
+  "explanation": "When a force-extension graph becomes non-linear and curves upward, it shows the spring has exceeded its elastic limit. Beyond this point, the material begins to permanently deform, and Hooke's law no longer applies\u2014the spring requires much more force to produce the same amount of additional extension.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "28fe281f-b0ac-4fca-b321-b98c7096b357",
+  "scraped_at": "2026-04-04T22:26:23.995669",
+  "classified_at": "2026-04-04T22:26:23.995669",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

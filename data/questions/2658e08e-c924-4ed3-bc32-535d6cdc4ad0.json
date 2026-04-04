@@ -1,0 +1,26 @@
+{
+  "question_text": "A scientist observes that when a loudspeaker produces sound at 1000 Hz in water, the wavelength is 1.5 m. When the same loudspeaker produces sound at 500 Hz in water, what will the wavelength be? Explain your reasoning using wave properties.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "frequency",
+    "wavelength",
+    "medium properties",
+    "inverse relationship"
+  ],
+  "options": null,
+  "correct_answer": "The wavelength will be 3 m. First, find the speed of sound in water: v = 1000 Hz \u00d7 1.5 m = 1500 m/s. When frequency halves to 500 Hz, the speed remains 1500 m/s because the medium is unchanged, so \u03bb = 1500 \u00f7 500 = 3 m. Frequency and wavelength are inversely proportional in the same medium.",
+  "explanation": "Since the speed of sound in a medium is constant, when frequency decreases by half, wavelength must increase by double to maintain the same wave speed. This inverse relationship between frequency and wavelength is a fundamental property of waves in any given medium.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2658e08e-c924-4ed3-bc32-535d6cdc4ad0",
+  "scraped_at": "2026-04-04T22:26:03.447037",
+  "classified_at": "2026-04-04T22:26:03.447037",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

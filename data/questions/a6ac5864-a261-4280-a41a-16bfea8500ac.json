@@ -1,0 +1,25 @@
+{
+  "question_text": "A rectangular glass block is placed on a diagram with a light ray drawn entering from air into the glass at point P on the top surface. The angle of incidence at P is 40\u00b0. The light then travels through the glass and hits the bottom surface at point Q. Using a ray diagram, explain why the light ray will emerge from the bottom surface parallel to its original direction but laterally displaced, and state what the angle of refraction at the bottom surface will be.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "ray diagram",
+    "refraction",
+    "lateral displacement",
+    "parallel surfaces"
+  ],
+  "options": null,
+  "correct_answer": "The angle of refraction at the bottom surface will be 40\u00b0. The emergent ray is parallel to the incident ray because both boundaries are parallel, so the angle of incidence at the bottom surface equals the angle of refraction at the top surface. The ray is laterally displaced because it travels at a different angle through the glass between the two surfaces.",
+  "explanation": "When light passes through a parallel-sided glass block, it refracts at the first surface, travels at a smaller angle through the glass, then refracts again at the parallel bottom surface back to the original angle. The two surfaces have the same orientation, so Snell's law applies identically in reverse at the second surface.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a6ac5864-a261-4280-a41a-16bfea8500ac",
+  "scraped_at": "2026-04-04T22:25:51.576387",
+  "classified_at": "2026-04-04T22:25:51.576387",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

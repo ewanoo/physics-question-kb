@@ -1,0 +1,25 @@
+{
+  "question_text": "During a spring tide, the Sun, Earth, and Moon are positioned so that their gravitational effects combine. Approximately how many times per month do spring tides occur on Earth?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tides",
+    "spring tide",
+    "frequency",
+    "lunar cycle"
+  ],
+  "options": null,
+  "correct_answer": "2 times per month (or once every 14-15 days)",
+  "explanation": "Spring tides occur twice during each lunar month\u2014approximately every 14-15 days. This happens when the Sun, Earth, and Moon line up (at new moon and full moon), so their gravitational pulls work together to create the highest high tides and lowest low tides. Between spring tides, neap tides occur when the Sun and Moon pull at right angles.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "74d25fde-ed33-4170-8f96-0f679ef20f01",
+  "scraped_at": "2026-04-04T22:26:40.136062",
+  "classified_at": "2026-04-04T22:26:40.136062",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

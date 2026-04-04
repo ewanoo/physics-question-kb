@@ -1,0 +1,24 @@
+{
+  "question_text": "A student uses the right-hand rule to find the direction of the magnetic field around a wire carrying current. She points her thumb in the direction of the current. What does she do next?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "right-hand rule",
+    "magnetic field direction",
+    "electromagnet"
+  ],
+  "options": null,
+  "correct_answer": "Curl her fingers in the direction of the magnetic field around the wire",
+  "explanation": "The right-hand rule works by pointing your thumb along the current direction, then your curled fingers show the direction the magnetic field circles around the wire. This method helps visualize how the magnetic field wraps around a current-carrying conductor.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9eaf0f70-988e-4bd5-b9db-2f06cd5b0c37",
+  "scraped_at": "2026-04-04T22:26:31.625016",
+  "classified_at": "2026-04-04T22:26:31.625016",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

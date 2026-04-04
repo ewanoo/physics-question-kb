@@ -1,0 +1,25 @@
+{
+  "question_text": "A ball has a weight of 30 N on Earth (g = 10 N/kg). What is the mass of the ball?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "rearranging formula",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "3 kg",
+  "explanation": "Using W = m \u00d7 g, we can rearrange to find m = W \u00f7 g. Therefore, m = 30 N \u00f7 10 N/kg = 3 kg.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4a9962b1-a74f-4776-8088-d42d02b3afa3",
+  "scraped_at": "2026-04-04T22:25:38.834266",
+  "classified_at": "2026-04-04T22:25:38.834266",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

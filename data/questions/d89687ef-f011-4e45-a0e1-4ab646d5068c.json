@@ -1,0 +1,24 @@
+{
+  "question_text": "A student wants to separate a mixture of sand and water using filtering. Explain why this method works for removing the sand from the water.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "filtering",
+    "separating mixtures",
+    "particle size"
+  ],
+  "options": null,
+  "correct_answer": "Filtering works because sand particles are much larger than the holes in the filter paper, so they cannot pass through and get trapped. Water molecules are much smaller than these holes, so the water passes through the filter paper and the sand remains behind.",
+  "explanation": "Filter paper acts like a physical barrier: large particles like sand grains are too big to fit through the tiny pores, while water molecules easily pass through. This is a simple physical separation method that does not require heating or dissolving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d89687ef-f011-4e45-a0e1-4ab646d5068c",
+  "scraped_at": "2026-04-04T22:26:13.759409",
+  "classified_at": "2026-04-04T22:26:13.759409",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

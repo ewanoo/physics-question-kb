@@ -1,0 +1,25 @@
+{
+  "question_text": "A student investigates two springs, Spring A and Spring B. Spring A has a spring constant of 50 N/m and Spring B has a spring constant of 100 N/m. Both springs are stretched until they reach their elastic limit at the same extension of 0.1 m. Calculate the difference in the maximum elastic potential energy that can be stored in each spring before they reach their elastic limit.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "elastic potential energy",
+    "comparison",
+    "Hooke's law"
+  ],
+  "options": null,
+  "correct_answer": "0.25 J (Spring A stores 0.25 J, Spring B stores 0.50 J, difference is 0.25 J)",
+  "explanation": "Using E = 1/2 kx\u00b2, Spring A stores 1/2 \u00d7 50 \u00d7 (0.1)\u00b2 = 0.25 J and Spring B stores 1/2 \u00d7 100 \u00d7 (0.1)\u00b2 = 0.50 J. The stiffer spring (higher k value) stores more energy at the same extension because it requires more force, so the difference is 0.50 - 0.25 = 0.25 J.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5c260555-9c53-4b30-88a7-a8acee92f28b",
+  "scraped_at": "2026-04-04T22:26:23.995669",
+  "classified_at": "2026-04-04T22:26:23.995669",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

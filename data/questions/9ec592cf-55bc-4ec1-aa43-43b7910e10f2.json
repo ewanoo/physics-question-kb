@@ -1,0 +1,45 @@
+{
+  "question_text": "A student makes an electromagnet using a battery, wire coiled around an iron nail, and a switch. Which change would make the electromagnet stronger?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "factors affecting electromagnets",
+    "current"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Use a thinner wire to reduce resistance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Use a battery with a higher voltage",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Use fewer coils of wire around the nail",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Use a plastic rod instead of an iron nail",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Use a battery with a higher voltage",
+  "explanation": "A higher voltage increases the current flowing through the wire, which creates a stronger magnetic field. Using fewer coils or a non-magnetic core would weaken the electromagnet, and thinner wire would actually increase resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9ec592cf-55bc-4ec1-aa43-43b7910e10f2",
+  "scraped_at": "2026-04-04T22:26:31.625016",
+  "classified_at": "2026-04-04T22:26:31.625016",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "Two scenarios involve a box on a horizontal surface. Scenario A: A 50 N force is applied horizontally to the right, friction is 30 N to the left, and the box accelerates. Scenario B: A 50 N force is applied horizontally to the right, friction is 50 N to the left, and the box moves at constant velocity. Which statement correctly compares the net forces and motion in these scenarios?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "net force",
+    "unbalanced forces",
+    "constant velocity",
+    "acceleration"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Scenario A has a net force of 20 N and causes acceleration; Scenario B has a net force of 0 N and the box is in equilibrium.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Both scenarios have equal net forces of 50 N and both result in acceleration.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Scenario A has zero net force because applied force equals friction; Scenario B has a net force of 100 N.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Scenario B has a net force of 20 N and causes greater acceleration than Scenario A.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Scenario A has a net force of 20 N and causes acceleration; Scenario B has a net force of 0 N and the box is in equilibrium.",
+  "explanation": "In Scenario A, the net force is 50 N minus 30 N equals 20 N to the right, causing acceleration. In Scenario B, the applied force and friction are equal at 50 N, so the net force is zero and the box moves at constant velocity (balanced forces). Only unbalanced forces cause acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "47c0afb4-b85a-4136-8605-f199a32b5370",
+  "scraped_at": "2026-04-04T22:25:30.588661",
+  "classified_at": "2026-04-04T22:25:30.588661",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

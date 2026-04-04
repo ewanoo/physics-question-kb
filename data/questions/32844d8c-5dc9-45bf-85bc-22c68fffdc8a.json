@@ -1,0 +1,45 @@
+{
+  "question_text": "A ray of light hits a glass block at an angle of incidence of 30\u00b0. The angle of refraction inside the glass is 20\u00b0. A student then shines the same light ray at the glass from inside the block, so it hits the glass-air boundary at an angle of incidence of 20\u00b0. What will happen to this ray?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "reversibility",
+    "glass-air boundary"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It will refract out of the glass at an angle of refraction of 30\u00b0",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "It will refract out of the glass at an angle of refraction of 20\u00b0",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It will undergo total internal reflection because the angle is too small",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It will refract out of the glass at an angle of refraction of 40\u00b0",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) It will refract out of the glass at an angle of refraction of 30\u00b0",
+  "explanation": "Light paths are reversible, meaning if light bends from 30\u00b0 to 20\u00b0 going into glass, it will bend from 20\u00b0 back to 30\u00b0 going out. The angle of incidence and refraction swap positions when light reverses direction through the same boundary.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "32844d8c-5dc9-45bf-85bc-22c68fffdc8a",
+  "scraped_at": "2026-04-04T22:25:51.576387",
+  "classified_at": "2026-04-04T22:25:51.576387",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

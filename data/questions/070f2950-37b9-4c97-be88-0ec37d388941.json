@@ -1,0 +1,24 @@
+{
+  "question_text": "Salt water can be separated into salt and water using distillation. Why is distillation needed instead of simple filtering?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "distillation",
+    "separating mixtures",
+    "dissolving"
+  ],
+  "options": null,
+  "correct_answer": "Salt dissolves in water to form a solution, so filtering cannot separate it because the salt particles are too small and dispersed throughout the liquid. Distillation works by heating the water until it evaporates and condenses back into a separate container, leaving the dissolved salt behind.",
+  "explanation": "When salt dissolves, it breaks down into particles too small to be caught by filter paper. Distillation uses the different boiling points of water and salt to separate them: water boils and evaporates while salt remains as a solid.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "070f2950-37b9-4c97-be88-0ec37d388941",
+  "scraped_at": "2026-04-04T22:26:13.759409",
+  "classified_at": "2026-04-04T22:26:13.759409",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

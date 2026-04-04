@@ -1,0 +1,24 @@
+{
+  "question_text": "The Moon orbits the Earth approximately once every 28 days. During this orbit, we see different amounts of the Moon's lit surface from Earth. What is the name of the time period it takes for the Moon to go through all its phases from new moon back to new moon again?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar phases",
+    "moon orbit period",
+    "timescale"
+  ],
+  "options": null,
+  "correct_answer": "The lunar month or synodic month (approximately 29.5 days)",
+  "explanation": "The time for the Moon to complete one full cycle of phases is called the lunar month or synodic month, which is about 29.5 days. This is slightly longer than the Moon's actual orbital period around Earth (27.3 days) because Earth is also moving around the Sun during this time.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "201c5139-3794-4583-99f7-541597a63dbd",
+  "scraped_at": "2026-04-04T22:26:40.136062",
+  "classified_at": "2026-04-04T22:26:40.136062",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

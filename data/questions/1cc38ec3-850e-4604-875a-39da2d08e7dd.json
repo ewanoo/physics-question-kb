@@ -1,0 +1,24 @@
+{
+  "question_text": "A power plant burns fuel and produces 800 MW of electrical power. The total chemical energy released from the fuel is 2000 MW. A student claims that by insulating the power station better to prevent heat loss through the walls, the efficiency can be increased to 95%. Evaluate whether this claim is correct.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency evaluation",
+    "realistic limitations",
+    "critical thinking"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect. The current efficiency is 800/2000 = 40%. The energy lost is not primarily through the power station's walls but is wasted during the thermodynamic process of converting heat energy to electrical energy. Better insulation would reduce losses only marginally and cannot achieve 95% efficiency.",
+  "explanation": "The 1200 MW of lost energy occurs because heat must be released to the environment as part of how heat engines work (second law of thermodynamics). Insulating walls only prevents small losses; the fundamental thermodynamic process limits efficiency to around 35-45%. The student confused energy loss mechanisms and underestimated the laws of physics that govern heat-to-electricity conversion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1cc38ec3-850e-4604-875a-39da2d08e7dd",
+  "scraped_at": "2026-04-04T22:25:15.784941",
+  "classified_at": "2026-04-04T22:25:15.784941",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A student compares two electric heaters. Heater A converts 2000 J of input energy with an efficiency of 85%. Heater B converts 2000 J of input energy with an efficiency of 92%. How much more useful heat energy does Heater B produce compared to Heater A?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency comparison",
+    "useful energy",
+    "multi-step problem"
+  ],
+  "options": null,
+  "correct_answer": "140 J",
+  "explanation": "First calculate useful energy for each heater: Heater A = 2000 \u00d7 0.85 = 1700 J; Heater B = 2000 \u00d7 0.92 = 1840 J. The difference is 1840 - 1700 = 140 J. Although both heaters receive the same input energy, Heater B is more efficient and wastes less energy, producing 140 J more useful heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "14fb7293-b501-4547-af5c-afe7c197f527",
+  "scraped_at": "2026-04-04T22:25:15.784941",
+  "classified_at": "2026-04-04T22:25:15.784941",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

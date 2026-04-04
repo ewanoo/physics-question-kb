@@ -1,0 +1,46 @@
+{
+  "question_text": "A teacher shows a wave diagram of a transverse wave on a string. The distance from one peak to the next peak is 2 cm. A student counts 6 complete waves passing a fixed point every 3 seconds. Which calculation correctly finds the wave speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave diagram interpretation",
+    "wavelength",
+    "frequency",
+    "wave speed"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Frequency = 6 waves \u00f7 3 seconds = 2 Hz; wavelength = 2 cm; speed = 2 \u00d7 2 = 4 cm/s",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Frequency = 3 seconds \u00f7 6 waves = 0.5 Hz; wavelength = 4 cm; speed = 0.5 \u00d7 4 = 2 cm/s",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Frequency = 6 waves; wavelength = 2 cm; speed = 6 \u00d7 2 = 12 cm/s",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Frequency = 2 Hz; wavelength = 3 cm; speed = 2 \u00d7 3 = 6 cm/s",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Frequency = 6 waves \u00f7 3 seconds = 2 Hz; wavelength = 2 cm; speed = 2 \u00d7 2 = 4 cm/s",
+  "explanation": "Frequency is calculated as the number of complete waves per unit time: 6 \u00f7 3 = 2 Hz. The wavelength is the distance from peak to peak, which is 2 cm. Then v = f \u00d7 \u03bb = 2 \u00d7 2 = 4 cm/s. This multi-step problem requires correctly identifying wavelength from a diagram and calculating frequency from observation data.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "821436bc-767f-4b66-a275-e410e1469cf8",
+  "scraped_at": "2026-04-04T22:26:03.447037",
+  "classified_at": "2026-04-04T22:26:03.447037",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

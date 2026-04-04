@@ -1,0 +1,45 @@
+{
+  "question_text": "A student observes two different waves: Wave X is a sound wave travelling through air, and Wave Y is a light wave travelling through a vacuum. Which of the following statements correctly compares these two waves?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave types",
+    "transverse vs longitudinal",
+    "wave comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wave X is transverse and requires a medium; Wave Y is longitudinal and does not require a medium",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wave X is longitudinal and requires a medium; Wave Y is transverse and does not require a medium",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both waves are transverse and both require a medium to travel",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both waves are longitudinal and neither requires a medium to travel",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Wave X is longitudinal and requires a medium; Wave Y is transverse and does not require a medium",
+  "explanation": "Sound waves are longitudinal waves that vibrate parallel to the direction of travel and need a medium like air to propagate. Light waves are transverse waves that vibrate perpendicular to their direction of travel and can travel through a vacuum without any medium. Understanding these fundamental differences is crucial for distinguishing between different wave types.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "70bcbf01-67fa-4964-8cf1-e43b331282bc",
+  "scraped_at": "2026-04-04T22:26:03.447037",
+  "classified_at": "2026-04-04T22:26:03.447037",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "Two identical springs are set up in series (connected end-to-end) and then a 10 N force is applied to the free end. Each spring has a spring constant of 200 N/m. Calculate the total extension of the two-spring system and explain why springs in series extend more than a single spring with the same force applied.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "series springs",
+    "Hooke's law",
+    "combined springs"
+  ],
+  "options": null,
+  "correct_answer": "Total extension is 0.1 m. Springs in series extend more because the effective spring constant is smaller (100 N/m), so the same force produces greater extension.",
+  "explanation": "In series, springs share the load but each adds its own extension. Using 1/k_total = 1/200 + 1/200, we get k_total = 100 N/m. Then x = F/k = 10/100 = 0.1 m. A single spring with k = 200 N/m would extend only 0.05 m under the same 10 N force, showing that combining springs in series reduces stiffness and increases extension.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "62b6c993-1687-4037-90cc-3dcb9e51bea8",
+  "scraped_at": "2026-04-04T22:26:23.995669",
+  "classified_at": "2026-04-04T22:26:23.995669",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

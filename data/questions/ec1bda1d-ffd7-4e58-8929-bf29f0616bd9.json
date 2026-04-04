@@ -1,0 +1,25 @@
+{
+  "question_text": "A spring is stretched by 0.05 m and exerts a restoring force of 8 N. The spring is then compressed by 0.08 m. Assuming the spring has not reached its elastic limit in either case, what is the magnitude of the restoring force when compressed?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "compression",
+    "extension"
+  ],
+  "options": null,
+  "correct_answer": "12.8 N",
+  "explanation": "First, find the spring constant using F = kx: k = 8 / 0.05 = 160 N/m. Then calculate the force when compressed by 0.08 m: F = 160 \u00d7 0.08 = 12.8 N. The magnitude is the same whether the spring is stretched or compressed, as long as it remains elastic.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ec1bda1d-ffd7-4e58-8929-bf29f0616bd9",
+  "scraped_at": "2026-04-04T22:26:23.995669",
+  "classified_at": "2026-04-04T22:26:23.995669",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

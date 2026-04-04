@@ -1,0 +1,24 @@
+{
+  "question_text": "A puddle of water gradually disappears on a sunny day even though it does not boil. Name the process that causes this and explain why it is a reversible change.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "reversible changes",
+    "states of matter"
+  ],
+  "options": null,
+  "correct_answer": "The process is evaporation. It is reversible because the water turns into water vapour (gas) but can condense back into liquid water when it cools down, so the water is not destroyed or permanently changed into a new substance.",
+  "explanation": "Evaporation occurs when water gains enough energy from the sun to escape as a gas, even at temperatures below boiling point. This is reversible because the water molecules can change back to liquid if they cool down again\u2014no new substances are created.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fe767fdb-84b5-4661-8366-ed6380a4f87f",
+  "scraped_at": "2026-04-04T22:26:13.759409",
+  "classified_at": "2026-04-04T22:26:13.759409",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

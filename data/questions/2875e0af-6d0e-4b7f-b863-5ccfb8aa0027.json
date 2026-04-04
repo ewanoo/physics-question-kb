@@ -1,0 +1,25 @@
+{
+  "question_text": "A student uses a food calorimeter to measure the energy released when 2 grams of peanuts are burned. The calorimeter heats 100 cm\u00b3 of water from 20\u00b0C to 28\u00b0C. How much energy in joules was released by the peanuts? (Use: 4.2 J needed to raise 1 gram of water by 1\u00b0C)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "calorimeter",
+    "energy measurement",
+    "calculation",
+    "food energy"
+  ],
+  "options": null,
+  "correct_answer": "3360 J",
+  "explanation": "Energy = mass \u00d7 specific heat capacity \u00d7 temperature change. Mass of water = 100 cm\u00b3 = 100 grams. Temperature change = 28\u00b0C - 20\u00b0C = 8\u00b0C. Energy = 100 \u00d7 4.2 \u00d7 8 = 3360 J. This represents the chemical energy stored in the peanuts that was released during burning.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2875e0af-6d0e-4b7f-b863-5ccfb8aa0027",
+  "scraped_at": "2026-04-04T22:26:48.441317",
+  "classified_at": "2026-04-04T22:26:48.441317",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

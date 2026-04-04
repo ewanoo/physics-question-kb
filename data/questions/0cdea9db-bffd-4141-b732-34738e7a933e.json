@@ -1,0 +1,45 @@
+{
+  "question_text": "Two transparent materials have different refractive indices: Material A has a refractive index of 1.5 and Material B has a refractive index of 2.4. A light ray hits the boundary between these two materials at an angle of incidence of 35\u00b0 (measured from the normal). Which statement correctly compares the behaviour of light at this boundary?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "refractive index",
+    "snell's law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The light will refract at the same angle in both materials because the angle of incidence is the same",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "If light enters Material B from Material A, it will bend towards the normal and the angle of refraction will be less than 35\u00b0",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "If light enters Material B from Material A, it will bend away from the normal because Material B is denser",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The angle of refraction will always be exactly half the angle of incidence regardless of which material the light enters",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) If light enters Material B from Material A, it will bend towards the normal and the angle of refraction will be less than 35\u00b0",
+  "explanation": "Material B has a higher refractive index than Material A, meaning it is optically denser. When light enters a denser material, it always bends towards the normal, so the refracted angle will be smaller than the incident angle of 35\u00b0.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0cdea9db-bffd-4141-b732-34738e7a933e",
+  "scraped_at": "2026-04-04T22:25:51.576387",
+  "classified_at": "2026-04-04T22:25:51.576387",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

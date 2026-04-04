@@ -1,0 +1,24 @@
+{
+  "question_text": "A 4 kg box is pushed across a rough floor. Four forces act on it: a pushing force of 25 N to the right, friction of 15 N to the left, its weight of 40 N downwards, and a normal reaction force from the floor. Calculate the magnitude of the normal reaction force and the net horizontal force. Then state whether the box will accelerate or remain at rest.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "net force calculation",
+    "vertical equilibrium",
+    "horizontal motion"
+  ],
+  "options": null,
+  "correct_answer": "Normal reaction force is 40 N upwards. Net horizontal force is 10 N to the right. The box will accelerate to the right because there is an unbalanced horizontal force.",
+  "explanation": "Vertically, the weight (40 N down) must be balanced by the normal reaction (40 N up) for vertical equilibrium. Horizontally, the pushing force (25 N right) minus friction (15 N left) gives a net force of 10 N to the right, which is unbalanced, so the box accelerates in that direction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5bb3a3d8-4768-49f5-9eff-491189db7509",
+  "scraped_at": "2026-04-04T22:25:30.588661",
+  "classified_at": "2026-04-04T22:25:30.588661",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

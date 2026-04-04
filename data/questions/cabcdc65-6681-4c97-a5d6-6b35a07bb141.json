@@ -1,0 +1,24 @@
+{
+  "question_text": "A student uses a converging lens with a focal length of 10 cm to magnify a small object. The object is placed 15 cm from the lens. Calculate the image distance and describe whether the image will be real or virtual, upright or inverted, and larger or smaller than the object.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "converging lens",
+    "lens formula",
+    "image properties"
+  ],
+  "options": null,
+  "correct_answer": "Image distance = 30 cm. The image is real, inverted, and magnified (larger than the object).",
+  "explanation": "Using the lens formula 1/f = 1/u + 1/v: 1/10 = 1/15 + 1/v, so 1/v = 1/10 - 1/15 = 1/30, giving v = 30 cm. Since the object distance (15 cm) is between the focal length (10 cm) and twice the focal length (20 cm), a real, inverted, magnified image forms beyond 2f.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cabcdc65-6681-4c97-a5d6-6b35a07bb141",
+  "scraped_at": "2026-04-04T22:25:51.576387",
+  "classified_at": "2026-04-04T22:25:51.576387",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

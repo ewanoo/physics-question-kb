@@ -1,0 +1,24 @@
+{
+  "question_text": "Two identical 5 kg boxes are being pulled across different surfaces. Box X experiences an applied force of 35 N and friction of 20 N, both horizontal. Box Y experiences the same applied force of 35 N but friction of 35 N. Compare the net force, acceleration status, and equilibrium state of both boxes. Which box, if any, could come to rest while still experiencing the applied force, and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "comparing scenarios",
+    "equilibrium vs acceleration",
+    "net force analysis"
+  ],
+  "options": null,
+  "correct_answer": "Box X: net force is 15 N, accelerates, not in equilibrium. Box Y: net force is 0 N, moves at constant velocity (or remains at rest if already stationary), is in equilibrium. Box Y could come to rest while experiencing the applied force because the friction force exactly balances the applied force, resulting in zero net force and equilibrium.",
+  "explanation": "Box X has unbalanced forces (35 N minus 20 N equals 15 N net), so it accelerates. Box Y has balanced forces (35 N minus 35 N equals 0 N net), so it is in equilibrium and will not accelerate. Even though a force is being applied to Box Y, if it starts at rest or moves at constant velocity, the equal and opposite friction keeps it in equilibrium.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "be49e31d-dddd-4a70-b7c7-140e62ec6682",
+  "scraped_at": "2026-04-04T22:25:30.588661",
+  "classified_at": "2026-04-04T22:25:30.588661",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

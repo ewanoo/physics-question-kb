@@ -1,0 +1,46 @@
+{
+  "question_text": "During respiration in your body, glucose is broken down to release energy. Which of the following best describes what happens to the chemical energy stored in glucose?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "respiration",
+    "metabolism",
+    "energy transfer",
+    "glucose"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It is destroyed and disappears completely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It is transferred to ATP and heat energy that your body uses",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It is converted to light energy for seeing",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It stays stored in the glucose until you exercise",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) It is transferred to ATP and heat energy that your body uses",
+  "explanation": "Respiration releases the chemical energy from glucose, which cells use to make ATP (the body's energy currency) and heat to keep you warm. Energy is never destroyed\u2014it is only transferred or transformed into different forms.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7bd2dfff-698f-4431-9262-69ce784afe12",
+  "scraped_at": "2026-04-04T22:26:48.441317",
+  "classified_at": "2026-04-04T22:26:48.441317",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

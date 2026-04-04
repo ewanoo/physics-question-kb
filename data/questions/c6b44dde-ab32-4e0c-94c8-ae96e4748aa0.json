@@ -1,0 +1,24 @@
+{
+  "question_text": "An electromagnet is used in a scrapyard to lift metal cars. Explain why an electromagnet is more useful than a permanent magnet for this job.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "uses of electromagnets",
+    "electromagnet advantages",
+    "practical applications"
+  ],
+  "options": null,
+  "correct_answer": "An electromagnet can be switched on and off by controlling the electric current, so the metal can be picked up and released when needed",
+  "explanation": "A permanent magnet cannot be turned off, so the metal would stick to it permanently. An electromagnet's magnetic field only exists when current flows through it, making it ideal for jobs where objects need to be released on demand.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c6b44dde-ab32-4e0c-94c8-ae96e4748aa0",
+  "scraped_at": "2026-04-04T22:26:31.625016",
+  "classified_at": "2026-04-04T22:26:31.625016",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

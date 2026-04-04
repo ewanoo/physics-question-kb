@@ -1,0 +1,25 @@
+{
+  "question_text": "Two waves, A and B, are travelling through the same medium. Wave A has a frequency of 50 Hz and a wavelength of 4 m. Wave B has a frequency of 100 Hz and a wavelength of 2 m. Calculate the speed of both waves and then explain why the speeds are equal or different.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "frequency",
+    "wavelength",
+    "medium properties"
+  ],
+  "options": null,
+  "correct_answer": "Wave A: v = 50 \u00d7 4 = 200 m/s. Wave B: v = 100 \u00d7 2 = 200 m/s. Both waves have the same speed because they travel through the same medium. The speed of a wave depends only on the properties of the medium it travels through, not on its frequency or wavelength.",
+  "explanation": "When two waves travel through the same medium, they must have the same speed regardless of their frequency and wavelength. This is because the medium's properties (such as density and elasticity) determine wave speed. Different frequencies and wavelengths can occur in the same medium, but the speed remains constant.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0aa52af3-33c1-4a35-9c2c-581da664adc0",
+  "scraped_at": "2026-04-04T22:26:03.447037",
+  "classified_at": "2026-04-04T22:26:03.447037",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

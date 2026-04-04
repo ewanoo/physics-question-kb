@@ -1,0 +1,46 @@
+{
+  "question_text": "A lunar eclipse occurs when the Moon passes through Earth's shadow. At what phase of the Moon does a lunar eclipse happen?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "eclipses",
+    "lunar eclipse",
+    "moon phases",
+    "Earth's shadow"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "New moon, when the Moon is between Earth and the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Full moon, when the Moon is on the opposite side of Earth from the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Quarter moon, when the Moon is at a right angle to Earth and Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Crescent moon, when only a thin sliver of the Moon is lit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Full moon, when the Moon is on the opposite side of Earth from the Sun",
+  "explanation": "A lunar eclipse happens during a full moon because that is when the Moon is directly opposite the Sun, with Earth between them. This allows Earth's shadow to fall on the Moon, causing the Moon to darken. The full moon passes through Earth's shadow cone, which can partially or completely block the Sun's light from reaching the Moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c76065b6-9886-4d49-990b-c85348dabee3",
+  "scraped_at": "2026-04-04T22:26:40.136062",
+  "classified_at": "2026-04-04T22:26:40.136062",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

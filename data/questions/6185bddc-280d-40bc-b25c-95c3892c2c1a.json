@@ -1,0 +1,25 @@
+{
+  "question_text": "A student has a mass of 50 kg. What is their weight on Earth, where the gravitational field strength is 10 N/kg?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "calculation",
+    "Earth"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "Weight is calculated using the formula W = m \u00d7 g. Here, W = 50 kg \u00d7 10 N/kg = 500 N. This is the gravitational force pulling the student downward.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6185bddc-280d-40bc-b25c-95c3892c2c1a",
+  "scraped_at": "2026-04-04T22:25:38.834266",
+  "classified_at": "2026-04-04T22:25:38.834266",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

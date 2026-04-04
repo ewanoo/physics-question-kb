@@ -1,0 +1,46 @@
+{
+  "question_text": "We always see the same face of the Moon from Earth. Which of the following best explains why this happens?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "near side",
+    "far side",
+    "tidal locking",
+    "moon rotation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate at all as it orbits Earth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon's rotation period is the same as its orbital period, so the same side always faces Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth's gravity is so strong it prevents the Moon from rotating",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon orbits Earth much faster than it rotates",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The Moon's rotation period is the same as its orbital period, so the same side always faces Earth",
+  "explanation": "The Moon rotates once on its axis in approximately the same time it takes to orbit Earth (about 27.3 days). This is called tidal locking and is why we only ever see one hemisphere of the Moon from Earth\u2014the near side. The far side of the Moon remains hidden from us.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "eaa678d4-d53a-407e-9c76-1a8326376608",
+  "scraped_at": "2026-04-04T22:26:40.136062",
+  "classified_at": "2026-04-04T22:26:40.136062",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

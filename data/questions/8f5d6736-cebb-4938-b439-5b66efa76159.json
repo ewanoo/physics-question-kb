@@ -1,0 +1,25 @@
+{
+  "question_text": "A book of mass 2 kg rests on a table. The gravitational force acting on the book is 20 N downwards. A student draws a free body diagram and identifies four forces: weight (20 N down), normal force (20 N up), air resistance (0.5 N), and friction (0.5 N). Is the book in equilibrium? Explain your reasoning by calculating the net force in both the vertical and horizontal directions.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "free body diagrams",
+    "net force",
+    "equilibrium",
+    "vertical and horizontal components"
+  ],
+  "options": null,
+  "correct_answer": "Yes, the book is in equilibrium. Vertical: 20 N up minus 20 N down equals 0 N net force. Horizontal: 0.5 N friction minus 0.5 N air resistance equals 0 N net force. Since the net force in both directions is zero, the book is balanced and remains stationary.",
+  "explanation": "For an object to be in equilibrium, the net force must be zero in all directions. Here, the vertical forces (weight and normal reaction) balance perfectly at 20 N each, and the horizontal forces (friction and air resistance) also cancel out at 0.5 N each. Therefore the book experiences no overall force and remains at rest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8f5d6736-cebb-4938-b439-5b66efa76159",
+  "scraped_at": "2026-04-04T22:25:30.588661",
+  "classified_at": "2026-04-04T22:25:30.588661",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

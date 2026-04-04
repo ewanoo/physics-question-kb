@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following foods is the best example of a chemical energy store that your body can use during respiration?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "chemical energy",
+    "food energy",
+    "metabolism",
+    "energy storage"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A glass of cold water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A slice of toast containing carbohydrates",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A piece of ice",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A hot cup of tea",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) A slice of toast containing carbohydrates",
+  "explanation": "Toast contains carbohydrates like starch, which store chemical energy in their molecular bonds. When digested and used in respiration, this chemical energy is released and transferred to ATP for your body to use. Water, ice, and hot tea do not contain significant chemical energy stores that your cells can use through respiration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "af9c128e-c0a1-4ef6-8cc3-184c53383f61",
+  "scraped_at": "2026-04-04T22:26:48.441317",
+  "classified_at": "2026-04-04T22:26:48.441317",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

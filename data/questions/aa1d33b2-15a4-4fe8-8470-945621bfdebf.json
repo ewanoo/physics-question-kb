@@ -1,0 +1,24 @@
+{
+  "question_text": "A rock has a mass of 4 kg and weighs 40 N on Earth. Using this information, calculate the gravitational field strength on Earth.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational field strength",
+    "rearranging",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "10 N/kg",
+  "explanation": "Using the formula W = m \u00d7 g, we rearrange to find g = W \u00f7 m. Therefore, g = 40 N \u00f7 4 kg = 10 N/kg, confirming Earth's gravitational field strength.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "aa1d33b2-15a4-4fe8-8470-945621bfdebf",
+  "scraped_at": "2026-04-04T22:25:38.834266",
+  "classified_at": "2026-04-04T22:25:38.834266",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

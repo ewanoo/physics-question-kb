@@ -1,0 +1,24 @@
+{
+  "question_text": "A light ray travels through water and hits a diamond surface at an angle of incidence of 25\u00b0. The critical angle for the water-diamond boundary is 32\u00b0. Explain whether total internal reflection will occur, and describe what will happen to the light ray.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "total internal reflection",
+    "critical angle",
+    "water-diamond"
+  ],
+  "options": null,
+  "correct_answer": "No, total internal reflection will not occur. The angle of incidence (25\u00b0) is less than the critical angle (32\u00b0), so the light will refract into the diamond and bend away from the normal.",
+  "explanation": "Total internal reflection only happens when the angle of incidence is greater than or equal to the critical angle. Since 25\u00b0 is less than 32\u00b0, the light has enough energy to pass through the boundary and will refract according to Snell's law.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0f8ad80f-a699-47f7-b7e2-95786400e7b1",
+  "scraped_at": "2026-04-04T22:25:51.576387",
+  "classified_at": "2026-04-04T22:25:51.576387",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A 6 kg object hangs from a rope and is pulled sideways by a horizontal rope so that it is in equilibrium at an angle. The vertical rope has a tension of 60 N. A student claims that because the object is stationary, all forces must be equal in magnitude. Is this claim correct? Explain why or why not, and identify what must be true about the forces for the object to be in equilibrium.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "equilibrium",
+    "resultant forces",
+    "multiple forces",
+    "vector addition"
+  ],
+  "options": null,
+  "correct_answer": "No, the claim is incorrect. The forces do not need to be equal in magnitude for equilibrium. What must be true is that the resultant (vector sum) of all forces equals zero, meaning forces must balance in both vertical and horizontal directions separately. In this case, the vertical tension component must equal the weight, and horizontal components must cancel.",
+  "explanation": "Equilibrium requires that the net force is zero, not that individual forces are equal. Three or more forces of different magnitudes can still balance if their vector sum is zero. For this hanging object, the weight acts downward, the vertical rope component acts upward, and the horizontal rope provides a sideways force that must be balanced by a horizontal component from the first rope.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4b541ffe-6dad-4cd7-9d2b-43c6fe5a3f14",
+  "scraped_at": "2026-04-04T22:25:30.588661",
+  "classified_at": "2026-04-04T22:25:30.588661",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

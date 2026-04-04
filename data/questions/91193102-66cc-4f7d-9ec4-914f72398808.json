@@ -1,0 +1,45 @@
+{
+  "question_text": "The Sankey diagram below shows energy flow through an electric motor. The input energy is 500 J. The useful energy output (kinetic energy) is shown as 400 J, and wasted energy is shown as 100 J. Which statement about improving the efficiency of this motor is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "Sankey diagrams",
+    "efficiency improvement",
+    "energy loss"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Reducing the size of the motor will decrease wasted energy and increase efficiency",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Adding oil-based lubrication to reduce friction between moving parts would decrease wasted energy as heat",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Increasing the current flowing through the motor will increase the efficiency to 100%",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The motor is already perfectly efficient because most energy becomes kinetic energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Adding oil-based lubrication to reduce friction between moving parts would decrease wasted energy as heat",
+  "explanation": "The 100 J of wasted energy is primarily due to friction and electrical resistance converting energy to heat. Reducing friction through lubrication directly decreases this waste. Option A is incorrect because motor size does not determine efficiency, C is impossible (efficiency cannot reach 100% due to friction), and D ignores the 100 J loss.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "91193102-66cc-4f7d-9ec4-914f72398808",
+  "scraped_at": "2026-04-04T22:25:15.784941",
+  "classified_at": "2026-04-04T22:25:15.784941",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}
