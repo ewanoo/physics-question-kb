@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>BBC Bitesize - KS3 Physics - Electricity</title></head>
+<body>
+<main>
+  <h1>Electricity quiz</h1>
+
+  <!-- Pattern 1: data-testid quiz blocks -->
+  <div data-testid="question-block-1">
+    <p data-testid="question-prompt">What is the unit of electric current?</p>
+    <ul>
+      <li data-testid="option-a">Volt</li>
+      <li data-testid="option-b" data-correct="true">Ampere</li>
+      <li data-testid="option-c">Ohm</li>
+      <li data-testid="option-d">Watt</li>
+    </ul>
+  </div>
+
+  <div data-testid="question-block-2">
+    <p data-testid="question-prompt">In a series circuit, what happens to the current when you add another bulb?</p>
+    <ul>
+      <li data-testid="option-a">It increases</li>
+      <li data-testid="option-b" data-correct="true">It decreases</li>
+      <li data-testid="option-c">It stays the same</li>
+      <li data-testid="option-d">It doubles</li>
+    </ul>
+  </div>
+
+  <!-- Pattern 2: generic question divs -->
+  <div class="question-container">
+    <div class="question">What component is used to measure voltage in a circuit?</div>
+    <div class="answer">A voltmeter is connected in parallel with the component being measured.</div>
+  </div>
+
+  <div class="question-container">
+    <div class="question">Which type of circuit has all components connected in a single loop?</div>
+    <div class="options">
+      <span class="option correct">Series circuit</span>
+      <span class="option">Parallel circuit</span>
+      <span class="option">Open circuit</span>
+    </div>
+  </div>
+
+  <!-- Pattern 3: list-based -->
+  <ul class="quiz-questions">
+    <li class="question-item">What is the relationship between voltage, current, and resistance in Ohm's Law?</li>
+    <li class="question-item">Describe how a fuse protects an electrical circuit.</li>
+  </ul>
+
+  <p>This is regular page content about electricity that is not a question.</p>
+  <p>Electricity flows through conductors like copper wire.</p>
+</main>
+</body>
+</html>

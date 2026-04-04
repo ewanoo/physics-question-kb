@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "id": "phys_q_electricity_1",
+      "type": "isaacMultiChoiceQuestion",
+      "title": "Current in a circuit",
+      "value": "<p>What is the SI unit of electric current?</p>",
+      "tags": ["electricity", "circuits", "ks3"],
+      "choices": [
+        {"type": "choice", "value": "<p>Volt</p>", "correct": false},
+        {"type": "choice", "value": "<p>Ampere</p>", "correct": true},
+        {"type": "choice", "value": "<p>Ohm</p>", "correct": false},
+        {"type": "choice", "value": "<p>Watt</p>", "correct": false}
+      ],
+      "hints": [
+        {"type": "content", "value": "<p>Think about the scientist after whom this unit is named.</p>"}
+      ]
+    },
+    {
+      "id": "phys_q_electricity_2",
+      "type": "isaacMultiChoiceQuestion",
+      "title": "Series circuits",
+      "value": "<p>In a series circuit with two identical bulbs, what happens to the brightness of each bulb compared to a circuit with only one bulb?</p>",
+      "tags": ["electricity", "circuits", "series", "ks3"],
+      "choices": [
+        {"type": "choice", "value": "<p>Each bulb is brighter</p>", "correct": false},
+        {"type": "choice", "value": "<p>Each bulb is dimmer</p>", "correct": true},
+        {"type": "choice", "value": "<p>Each bulb has the same brightness</p>", "correct": false},
+        {"type": "choice", "value": "<p>One bulb is bright, one is off</p>", "correct": false}
+      ],
+      "hints": [
+        {"type": "content", "value": "<p>Consider how adding more resistance affects the current.</p>"}
+      ]
+    },
+    {
+      "id": "phys_q_forces_1",
+      "type": "isaacMultiChoiceQuestion",
+      "title": "Weight vs Mass",
+      "value": "<p>What is the difference between mass and weight?</p>",
+      "tags": ["forces", "gravity", "ks3"],
+      "choices": [
+        {"type": "choice", "value": "<p>They are the same thing</p>", "correct": false},
+        {"type": "choice", "value": "<p>Mass is the amount of matter; weight is the gravitational force on that mass</p>", "correct": true},
+        {"type": "choice", "value": "<p>Weight is measured in kilograms; mass is measured in Newtons</p>", "correct": false},
+        {"type": "choice", "value": "<p>Mass changes on the Moon; weight does not</p>", "correct": false}
+      ],
+      "hints": [
+        {"type": "content", "value": "<p>Weight is a force, measured in Newtons. Mass is measured in kilograms.</p>"}
+      ]
+    },
+    {
+      "id": "phys_q_energy_1",
+      "type": "isaacQuickQuestion",
+      "title": "Energy conservation",
+      "value": "<p>State the law of conservation of energy.</p>",
+      "tags": ["energy", "conservation", "ks3"],
+      "hints": [
+        {"type": "content", "value": "<p>Energy cannot be created or destroyed, only transferred between stores.</p>"}
+      ]
+    },
+    {
+      "id": "phys_q_waves_1",
+      "type": "isaacMultiChoiceQuestion",
+      "title": "Wave properties",
+      "value": "<p>What is the frequency of a wave?</p>",
+      "tags": ["waves", "properties", "ks3"],
+      "choices": [
+        {"type": "choice", "value": "<p>The height of the wave</p>", "correct": false},
+        {"type": "choice", "value": "<p>The distance between two peaks</p>", "correct": false},
+        {"type": "choice", "value": "<p>The number of complete waves passing a point per second</p>", "correct": true},
+        {"type": "choice", "value": "<p>The speed of the wave</p>", "correct": false}
+      ]
+    }
+  ],
+  "totalResults": 5
+}
