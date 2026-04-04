@@ -12,17 +12,37 @@ criteria in STATUS.md are met.
 
 ---
 
+## Session Setup (run at the very start of every session, before anything else)
+
+Your session prompt contains two secret values. Extract them and configure the environment:
+
+```bash
+# 1. Configure git to push using the GitHub PAT from your prompt
+git config user.email "physics-kb-agent@autonomous.ai"
+git config user.name "Physics KB Agent"
+git remote set-url origin https://GITHUB_PAT@github.com/ewanoo/physics-question-kb.git
+
+# 2. Write the Anthropic API key to .env so Python scripts can use it
+echo "ANTHROPIC_API_KEY=YOUR_API_KEY" > .env
+```
+
+Replace `GITHUB_PAT` and `YOUR_API_KEY` with the values from your session prompt.
+The `.env` file is gitignored — never commit it.
+
+---
+
 ## Session Protocol (follow every run)
 
-1. **Read STATUS.md** — understand the current phase and any blocked items
-2. **Determine next action** — what's the next incomplete step in the current phase?
-3. **Do the work** — implement, test, fix, iterate
-4. **Run tests**: `python -m pytest tests/ -v` — fix failures before moving on
-5. **Update STATUS.md** — record what you did, statistics (questions found, errors), and any new blocked items
-6. **Commit everything**: `git add -A && git commit -m "Descriptive message"`
-7. If a phase is fully complete, advance `Current Phase` in STATUS.md
+1. **Run Session Setup** — configure git remote and write .env (see above)
+2. **Read STATUS.md** — understand the current phase and any blocked items
+3. **Determine next action** — what's the next incomplete step in the current phase?
+4. **Do the work** — implement, test, fix, iterate
+5. **Run tests**: `python -m pytest tests/ -v` — fix failures before moving on
+6. **Update STATUS.md** — record what you did, statistics (questions found, errors), and any new blocked items
+7. **Commit and push**: `git add -A && git commit -m "Descriptive message" && git push`
+8. If a phase is fully complete, advance `Current Phase` in STATUS.md
 
-**Rule**: Always leave the repo in a working, committed state. Never commit broken tests.
+**Rule**: Always push at the end of every session. If push fails, investigate — don't skip it.
 
 ---
 
@@ -100,44 +120,46 @@ class BaseScraper(ABC):
 
 For each scraper: implement → write fixture test → run live scrape → record results in STATUS.md.
 
+**Important**: This agent runs in a cloud environment. Sites like BBC Bitesize and SaveMyExams
+often return 403 from cloud IPs. **Prioritise API-based sources first** — they work reliably
+from cloud. Fall back to HTML scraping sources only if APIs yield insufficient questions.
+
 **Priority order** (skip one if blocked, come back later):
 
-#### 2a. BBC Bitesize
-- File: `src/scraper/bbc_bitesize.py`
-- KS3 Physics hub: `https://www.bbc.co.uk/bitesize/subjects/zh2xsbk`
-- Strategy: fetch the subject page, find all topic/guide links, then fetch each `/test` sub-page for quiz questions
-- Quiz pages have `<div class="sg-o-layout__item">` sections with question text and radio options
-- Correct answers are often revealed in a results section or embedded in data attributes
-- Expected yield: 50–150 questions across all KS3 topics
-
-#### 2b. Isaac Physics
+#### 2a. Isaac Physics (API-based — start here)
 - File: `src/scraper/isaac_physics.py`
 - Base: `https://isaacphysics.org`
 - Try the API first: `https://isaacphysics.org/api/pages/questions?tags=ks3,physics`
-- Also try topic pages: `/topics/physics_skills_1` etc.
+- Also try: `/api/pages?tags=physics_skills_1` and other topic tags
 - Questions are well-structured JSON if using the API
 - Expected yield: 100–300 questions
 
-#### 2c. Oak National Academy
+#### 2b. Oak National Academy
 - File: `src/scraper/oak_national.py`
 - Base: `https://www.thenational.academy/teachers/programmes/physics-secondary-ks3`
 - Lesson quizzes contain MCQ questions
 - Expected yield: 50–100 questions
 
-#### 2d. SaveMyExams
+#### 2c. CK-12 (API-based)
+- File: `src/scraper/ck12.py`
+- Base: `https://www.ck12.org`
+- Explore the public API for practice questions — check `https://api.ck12.org`
+- Map topics to KS3 taxonomy
+- Expected yield: 50–150 questions
+
+#### 2d. BBC Bitesize (may 403 from cloud — try anyway)
+- File: `src/scraper/bbc_bitesize.py`
+- KS3 Physics hub: `https://www.bbc.co.uk/bitesize/subjects/zh2xsbk`
+- Navigate topic pages, find practice questions and test sections
+- If 403 is returned, log it and skip — don't retry
+- Expected yield: 50–150 questions (if accessible)
+
+#### 2e. SaveMyExams (may 403 from cloud — try anyway)
 - File: `src/scraper/savemyexams.py`
 - Base: `https://www.savemyexams.com/ks3/physics/`
 - Focus on freely accessible topic questions (avoid paywalled content)
-- Detect paywalls: if a page has "Sign up" prompts covering content, skip it
+- If 403 or paywall detected, skip gracefully
 - Expected yield: 20–80 questions (free tier only)
-
-#### 2e. Physics & Maths Tutor
-- File: `src/scraper/pmt.py`
-- Base: `https://www.physicsandmathstutor.com/physics-revision/ks3/`
-- Mix of HTML topic notes and linked PDF question sets
-- For HTML pages, extract questions directly
-- For PDFs, download and use Claude to extract questions (if ANTHROPIC_API_KEY available)
-- Expected yield: 30–100 questions
 
 **For each scraper, create a test in `tests/test_scrapers/`**:
 - Load a saved HTML fixture (real page saved as a file) and test parsing
