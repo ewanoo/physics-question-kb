@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+.env
+
+# Data (exclude from git - too large, sensitive)
+data/questions/
+data/*.db
+data/coverage_report.json
+data/raw/
+logs/
+
+# Keep gitkeep files
+!data/.gitkeep
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
