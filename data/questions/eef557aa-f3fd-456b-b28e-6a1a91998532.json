@@ -1,0 +1,46 @@
+{
+  "id": "eef557aa-f3fd-456b-b28e-6a1a91998532",
+  "question_text": "Why does a drawing pin have a sharp point and a flat head?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "force",
+    "area",
+    "practical_application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "To reduce the force needed to push it in",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "To increase the total force applied",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "To spread the pressure over a large area",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "To make it easier to hold",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "To reduce the force needed to push it in",
+  "explanation": "A drawing pin works because pressure = force ÷ area. The sharp point has a very small area, so even a small force creates high pressure, allowing it to pierce surfaces easily. The flat head has a large area to distribute the force when pushing, protecting your finger.",
+  "source_url": "oak://forces.pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:07.285019",
+  "classified_at": "2026-04-04T20:36:07.284980",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

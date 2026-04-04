@@ -1,0 +1,46 @@
+{
+  "id": "7ff0e91f-a2c4-4771-ab69-c87980f76f02",
+  "question_text": "How does the electrostatic force between two charged objects change if the distance between them is doubled?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "inverse square law",
+    "electrostatic force",
+    "coulombs law",
+    "distance relationships"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It doubles",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It halves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It becomes one quarter of its original value",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "It becomes four times stronger",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It becomes one quarter of its original value",
+  "explanation": "Electrostatic force follows an inverse square law. This means the force is inversely proportional to the square of the distance between charges. If you double the distance, the force decreases by a factor of 2² = 4, so it becomes 1/4 of its original strength.",
+  "source_url": "oak://electricity.static/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:01.685208",
+  "classified_at": "2026-04-04T20:44:01.685167",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

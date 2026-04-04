@@ -1,0 +1,47 @@
+{
+  "id": "3018a11a-1df9-440e-9350-9ff026365987",
+  "question_text": "A light ray travels from air into a glass block at an angle of 30° to the normal. The light slows down in the glass. Which statement best explains what happens to the light ray?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light",
+    "dense media",
+    "normal",
+    "optics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The light ray bends away from the normal because it is slowing down",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The light ray bends towards the normal because it is slowing down",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The light ray continues in a straight line because the angle is less than 45°",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The light ray bends away from the normal because glass is denser than air",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The light ray bends towards the normal because it is slowing down",
+  "explanation": "When light travels from a less dense medium (air) into a denser medium (glass), it slows down. This change in speed causes the light to refract (bend) towards the normal. The normal is an imaginary line perpendicular to the surface. Remember: denser medium = slower speed = bends towards the normal.",
+  "source_url": "generate://waves.light/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:22.980731",
+  "classified_at": "2026-04-04T20:40:22.980693",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

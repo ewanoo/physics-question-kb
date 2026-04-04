@@ -1,0 +1,46 @@
+{
+  "id": "b8cd9adc-6a7b-4225-8218-87cec13afd19",
+  "question_text": "What happens when you bring two objects with the same static charge close together?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "charge interaction",
+    "like charges",
+    "repulsion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They attract each other",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They stick together",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Nothing happens",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "They repel each other",
+  "explanation": "Objects with the same type of charge (both positive or both negative) push away from each other. This is because like charges repel. Only opposite charges (positive and negative) attract each other.",
+  "source_url": "oak://electricity.static/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:43:46.626660",
+  "classified_at": "2026-04-04T20:43:46.626621",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

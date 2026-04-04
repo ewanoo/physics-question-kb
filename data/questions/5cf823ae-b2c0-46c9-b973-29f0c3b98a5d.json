@@ -1,0 +1,46 @@
+{
+  "id": "5cf823ae-b2c0-46c9-b973-29f0c3b98a5d",
+  "question_text": "Which statement correctly describes gas pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "particle model",
+    "collisions",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas pressure is caused by particles pushing down due to gravity",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas pressure is caused by particles colliding with the container walls",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gas pressure only exists in hot gases",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gas pressure decreases when particles move faster",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gas pressure is caused by particles colliding with the container walls",
+  "explanation": "Gas pressure is created when gas particles move randomly and constantly bump into the walls of their container. Each collision exerts a small force, and the total effect of millions of these collisions produces the pressure we measure.",
+  "source_url": "oak://matter.gas_pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:51:41.335223",
+  "classified_at": "2026-04-04T20:51:41.335188",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

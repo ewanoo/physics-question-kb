@@ -1,0 +1,47 @@
+{
+  "id": "7908e469-976d-46f5-8b6c-4697d666fa39",
+  "question_text": "A swimmer pushes water backwards with a force of 80 N. The water pushes the swimmer forwards with a force of 80 N. The swimmer moves forwards through the water. How is this possible if the forces are balanced?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's third law",
+    "action-reaction pairs",
+    "balanced forces",
+    "misconception",
+    "swimming"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The forces are not actually balanced because the forward force is greater",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces are balanced on the swimmer, but they act on different objects",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Balanced forces can still produce motion if they act quickly",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The swimmer's muscles create an extra force that makes movement possible",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The forces are balanced on the swimmer, but they act on different objects",
+  "explanation": "This question tests understanding of Newton's third law and a common misconception about balanced forces. The 80 N force the swimmer exerts on the water and the 80 N force the water exerts on the swimmer are action-reaction pairs, but they act on different objects (water and swimmer respectively). Forces on the swimmer alone can still be unbalanced when you consider all forces acting on them, allowing motion. The swimmer moves forward because the propulsive force overcomes water resistance.",
+  "source_url": "generate://forces.balanced/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:44.912670",
+  "classified_at": "2026-04-04T20:55:44.912633",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

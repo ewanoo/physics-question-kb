@@ -1,0 +1,45 @@
+{
+  "id": "d6222906-69ed-47c3-b906-ac60d3c31e58",
+  "question_text": "Which of the following is an example of refraction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light behaviour",
+    "definition recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Light bouncing off a mirror",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A straw appearing bent when placed in a glass of water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A shadow forming behind an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Light travelling in a straight line through air",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A straw appearing bent when placed in a glass of water",
+  "explanation": "Refraction is the bending of light as it passes from one material to another. When light travels from water into air (or vice versa), it changes speed and direction. This makes the straw appear bent at the water's surface, even though it is straight. The other options show reflection (bouncing off a mirror), shadow formation, and light travelling straight through a uniform material.",
+  "source_url": "generate://waves.light/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:50.166767",
+  "classified_at": "2026-04-04T20:39:50.166730",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

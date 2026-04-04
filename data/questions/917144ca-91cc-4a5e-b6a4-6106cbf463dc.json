@@ -1,0 +1,46 @@
+{
+  "id": "917144ca-91cc-4a5e-b6a4-6106cbf463dc",
+  "question_text": "Which hemisphere experiences summer when it is tilted towards the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "seasons",
+    "hemispheres",
+    "solar radiation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Southern Hemisphere",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Eastern Hemisphere",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Northern Hemisphere",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The Western Hemisphere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Northern Hemisphere",
+  "explanation": "When Earth's axis tilts a hemisphere towards the Sun, that hemisphere receives more direct sunlight and experiences longer days, which causes summer. Currently, the Northern Hemisphere experiences summer when tilted towards the Sun (around June), while the Southern Hemisphere experiences winter at the same time.",
+  "source_url": "oak://space.seasons/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:31.147216",
+  "classified_at": "2026-04-04T20:52:31.147181",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

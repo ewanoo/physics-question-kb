@@ -1,0 +1,27 @@
+{
+  "id": "de171c1f-4786-4815-9e39-875999376fff",
+  "question_text": "Why does a seesaw become harder to balance when one person sits further from the pivot point?",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "turning effect",
+    "pivot",
+    "distance",
+    "balance",
+    "seesaw"
+  ],
+  "options": null,
+  "correct_answer": "Because sitting further from the pivot increases the moment (turning effect) of that person's weight. Even the same weight creates a larger moment at a greater distance, so less weight is needed to balance the seesaw.",
+  "explanation": "Moment is calculated using the formula: Moment = Force × Perpendicular Distance from the pivot. When a person sits further from the pivot point, the perpendicular distance increases. This means the same force (their weight) creates a much larger turning effect. To balance a seesaw, the moments on both sides must be equal. If one person moves further away, they create a larger moment, so either the other person must move further away or be heavier to create an equal moment on their side.",
+  "source_url": "oak://forces.moments/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:33.292607",
+  "classified_at": "2026-04-04T20:37:33.292569",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "fa299010-d219-4c9b-aae9-32cbb2519388",
+  "question_text": "How does a lever help you lift a heavy load?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "levers",
+    "simple_machines",
+    "mechanical_advantage",
+    "effort_force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It reduces the amount of effort force you need to apply",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "It increases the weight of the load",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It removes gravity from the load",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It requires more effort than lifting directly",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It reduces the amount of effort force you need to apply",
+  "explanation": "A lever is a simple machine with a pivot point. When you apply force far from the pivot, it creates a larger moment, allowing you to lift heavy loads with less effort than lifting them directly. This is because the lever multiplies your force.",
+  "source_url": "oak://forces.moments/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:18.296914",
+  "classified_at": "2026-04-04T20:37:18.296865",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

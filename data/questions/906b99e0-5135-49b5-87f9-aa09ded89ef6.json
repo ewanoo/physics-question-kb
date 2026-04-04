@@ -1,0 +1,26 @@
+{
+  "id": "906b99e0-5135-49b5-87f9-aa09ded89ef6",
+  "question_text": "A parallel circuit contains four identical resistors, each with a resistance of 8 Ω, connected to a 16 V power supply. A technician removes one resistor from the circuit while it is operating. Analyse how this action affects: (i) the total circuit resistance, and (ii) the current drawn from the power supply. Show your calculations.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel_circuits",
+    "total_resistance",
+    "ohms_law",
+    "current",
+    "multi_step_calculation"
+  ],
+  "options": null,
+  "correct_answer": "(i) Initial total resistance: 2 Ω. Final total resistance: 2.67 Ω (increases). (ii) Initial current: 8 A. Final current: 6 A (decreases).",
+  "explanation": "In parallel circuits, each resistor provides an additional path for current to flow. When you add more paths (more resistors), total resistance decreases. Conversely, removing a resistor removes one path, so total resistance increases. Using the reciprocal formula for parallel resistors (1/R_total = 1/R₁ + 1/R₂ + ...), with 4 identical 8 Ω resistors: 1/R_total = 4/8, giving R_total = 2 Ω. With 3 resistors: 1/R_total = 3/8, giving R_total = 2.67 Ω. Using Ohm's law (I = V/R), initial current = 16/2 = 8 A, and final current = 16/2.67 = 6 A. Since voltage is constant, as resistance increases, current decreases.",
+  "source_url": "ks3textbook://electricity.circuits/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:40.068700",
+  "classified_at": "2026-04-04T20:42:40.068657",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

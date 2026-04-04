@@ -1,0 +1,48 @@
+{
+  "id": "2f0ef285-bf14-4ca3-9937-ec6ca374eff9",
+  "question_text": "Which of the following best describes what happens when sound travels from air into water?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "wave speed",
+    "frequency",
+    "wavelength",
+    "wave equation",
+    "change of medium"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The frequency increases and the wavelength increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The frequency stays the same but the wavelength increases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The frequency stays the same but the wavelength decreases",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Both the frequency and wavelength decrease",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The frequency stays the same but the wavelength decreases",
+  "explanation": "When sound travels from one medium to another, the frequency (determined by the vibrating source) remains constant. However, sound travels faster in water than in air. Using the wave equation v = f × λ, if velocity increases and frequency stays the same, the wavelength must decrease to maintain the relationship.",
+  "source_url": "generate://waves.sound/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:07.970386",
+  "classified_at": "2026-04-04T20:39:07.970339",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

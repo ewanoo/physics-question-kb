@@ -1,0 +1,47 @@
+{
+  "id": "66df8c00-3ffd-4067-9d97-dcdec2a6005c",
+  "question_text": "A solid block of ice is heated and melts into liquid water. What happens to the particles during melting?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "melting",
+    "changes of state",
+    "energy transfer",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The particles stop moving completely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The particles gain energy, vibrate more, and break free from fixed positions",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The particles shrink in size",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "New particles are created inside the ice",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The particles gain energy, vibrate more, and break free from fixed positions",
+  "explanation": "During melting, heat energy is absorbed by the solid. This causes the particles to vibrate more vigorously. When they gain enough energy, they overcome the strong forces holding them in fixed positions in the solid lattice, allowing them to move more freely as a liquid. The total number of particles stays the same, and their size doesn't change.",
+  "source_url": "generate://matter.particles/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:26.611685",
+  "classified_at": "2026-04-04T20:46:26.611650",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

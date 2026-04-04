@@ -1,0 +1,25 @@
+{
+  "id": "03d7d1fc-d39c-4355-8cbb-99af72c95e4c",
+  "question_text": "A power station produces 800 MW of electrical power but consumes 2000 MW of energy from burning fuel. A student claims the power station 'destroys' 1200 MW of energy. Explain why this statement is incorrect and calculate the actual efficiency of the power station.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy conservation",
+    "efficiency calculation",
+    "misconception correction",
+    "power stations"
+  ],
+  "options": null,
+  "correct_answer": "The statement is incorrect because energy cannot be destroyed; it is only converted from one form to another. The 1200 MW is not destroyed but converted into heat energy released to the environment. The efficiency of the power station is 40% (calculated as 800 MW ÷ 2000 MW × 100%).",
+  "explanation": "This question tests two important ideas: (1) Energy conservation - energy is never destroyed, only converted between different forms. The 'lost' 1200 MW becomes heat energy that escapes to the environment rather than being useful electrical energy. (2) Efficiency calculations - efficiency = useful energy output ÷ total energy input × 100%. Here, only 800 MW out of 2000 MW becomes electricity, so 40% of the fuel energy is converted usefully. The remaining 60% becomes wasted heat.",
+  "source_url": "generate://energy.efficiency/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:54.734161",
+  "classified_at": "2026-04-04T20:54:54.734122",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

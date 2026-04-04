@@ -1,0 +1,46 @@
+{
+  "id": "12a7f6d6-68f2-4f77-8788-76044f11b69c",
+  "question_text": "Which statement best describes the arrangement of particles in a solid?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "solids",
+    "arrangement",
+    "definition recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are spread out and move freely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles are closely packed in a fixed arrangement and vibrate in place",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles are far apart with large spaces between them",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles move randomly but stay close together",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Particles are closely packed in a fixed arrangement and vibrate in place",
+  "explanation": "In solids, particles are tightly packed together in a fixed, ordered arrangement. The particles vibrate in place but cannot move freely, which is why solids have a definite shape and volume. This is different from liquids and gases where particles have more freedom to move.",
+  "source_url": "generate://matter.particles/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:09.648819",
+  "classified_at": "2026-04-04T20:46:09.648781",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

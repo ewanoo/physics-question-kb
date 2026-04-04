@@ -1,0 +1,47 @@
+{
+  "id": "0da7f0d4-2dbd-48aa-a320-f5bc55ff45cc",
+  "question_text": "Two identical containers hold the same gas at the same temperature. Container A has twice as many particles as Container B. Which statement correctly compares the pressures using the particle model?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "pressure",
+    "gas behaviour",
+    "particle collisions",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Container A has the same pressure because temperature is constant",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Container A has higher pressure because there are more particles colliding with the walls",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Container B has higher pressure because particles have more space to move",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both containers have zero pressure because the particles are moving randomly",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Container A has higher pressure because there are more particles colliding with the walls",
+  "explanation": "Pressure is caused by particles colliding with container walls. Using the particle model: Container A has twice as many particles in the same volume at the same temperature. This means twice as many collisions occur per unit time and area, resulting in double the pressure. Temperature being constant means average particle speed is the same, so the difference is purely due to particle number.",
+  "source_url": "generate://matter.particles/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:49.990738",
+  "classified_at": "2026-04-04T20:46:49.990697",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "073d0ce9-5a2a-46de-87f2-e027f1d86040",
+  "question_text": "Three identical lamps are connected to a 12 V power supply. In Configuration X, all three lamps are connected in series. In Configuration Y, all three lamps are connected in parallel. Predict which configuration will produce the brightest individual lamp and explain your reasoning using the relationship between power, voltage, and resistance.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series_circuits",
+    "parallel_circuits",
+    "power",
+    "voltage",
+    "brightness",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Configuration Y (parallel) will produce the brightest individual lamp. In parallel, each lamp receives the full 12 V, whereas in series each lamp receives only 4 V (12 V ÷ 3). Since power P = V²/R, each lamp in parallel receives more power and therefore shines brighter.",
+  "explanation": "In a parallel circuit, each lamp is connected directly across the 12 V supply, so each receives the full voltage. In a series circuit, the voltage is shared equally among the three lamps, so each gets only 4 V. Since power depends on voltage squared (P = V²/R), the parallel lamps receive much more power. For example, if we halve the voltage in series, the power becomes one-quarter as bright, making parallel lamps significantly brighter.",
+  "source_url": "ks3textbook://electricity.circuits/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:35.563448",
+  "classified_at": "2026-04-04T20:42:35.563396",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

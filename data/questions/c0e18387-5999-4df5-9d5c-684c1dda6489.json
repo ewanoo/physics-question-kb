@@ -1,0 +1,46 @@
+{
+  "id": "c0e18387-5999-4df5-9d5c-684c1dda6489",
+  "question_text": "What is the effect of unbalanced forces on an object?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "unbalanced forces",
+    "acceleration",
+    "Newton's laws",
+    "motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object always stays at rest",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The object will change its speed or direction of motion",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The object experiences no change",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The forces cancel each other out",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The object will change its speed or direction of motion",
+  "explanation": "When forces on an object are unbalanced, there is a net force acting on it. This net force causes the object to accelerate, meaning it will either speed up, slow down, or change direction. This is a fundamental principle of Newton's second law of motion.",
+  "source_url": "generate://forces.balanced/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:08.118394",
+  "classified_at": "2026-04-04T20:55:08.118350",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3c1d05c0-2bfd-4d92-88b0-be3fc637e626",
+  "question_text": "A sound wave has a frequency of 440 Hz and travels through air at a speed of 330 m/s. Calculate the wavelength of this sound wave.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "wave equation",
+    "wavelength",
+    "frequency",
+    "sound waves",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.75 m",
+  "explanation": "To find wavelength, we use the wave equation: wave speed = frequency × wavelength. Rearranging: wavelength = wave speed ÷ frequency. Substituting the values: wavelength = 330 m/s ÷ 440 Hz = 0.75 m. This is a typical sound wave in air with a wavelength less than 1 metre.",
+  "source_url": "ks3textbook://waves.sound/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:05.976022",
+  "classified_at": "2026-04-04T20:58:05.975984",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

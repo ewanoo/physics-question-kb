@@ -1,0 +1,25 @@
+{
+  "id": "4c205794-fca0-449c-9121-db1b4bb7dfc1",
+  "question_text": "What is a lever?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "definition",
+    "simple_machines",
+    "moments",
+    "levers"
+  ],
+  "options": null,
+  "correct_answer": "A lever is a rigid bar that rotates around a fixed pivot point to help move or lift loads.",
+  "explanation": "Levers are simple machines that use moments to make it easier to apply forces and move objects. They consist of a rigid bar (the lever arm) that pivots around a fixed point (the pivot), allowing you to lift or move things with less effort.",
+  "source_url": "oak://forces.moments/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:57.475601",
+  "classified_at": "2026-04-04T20:36:57.475551",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

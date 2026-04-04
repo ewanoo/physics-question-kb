@@ -1,0 +1,46 @@
+{
+  "id": "cb3d76d8-8c70-4b33-9305-892047af404a",
+  "question_text": "What is a magnetic field?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic_field",
+    "definition",
+    "magnetism",
+    "fundamental_concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The area around a magnet where magnetic forces can be detected",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The metal inside a magnet that makes it work",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The temperature of a magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The colour of a magnetic material",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The area around a magnet where magnetic forces can be detected",
+  "explanation": "A magnetic field is the invisible region of space surrounding a magnet where its magnetic force can act on other magnets or magnetic materials. You cannot see it, but you can detect it by observing how magnets attract or repel each other.",
+  "source_url": "oak://electricity.magnets/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:30.451365",
+  "classified_at": "2026-04-04T20:44:30.451326",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "c8e21b58-4bc2-4258-be3a-4d4d8e253a10",
+  "question_text": "Two planets, X and Y, have the same mass but planet Y has twice the radius of planet X. How does the gravitational field strength on the surface of planet Y compare to that on planet X? What does this reveal about the relationship between gravitational field strength and planetary radius?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "inverse square law",
+    "gravitational field strength",
+    "planetary comparison",
+    "mathematical reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Planet Y would have four times the gravitational field strength because its radius is twice as large",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Planet Y would have one-quarter the gravitational field strength because gravitational field strength is inversely proportional to the square of the distance from the centre",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both planets would have identical gravitational field strengths because they have equal mass",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Planet Y would have half the gravitational field strength because the radius is twice as large",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Planet Y would have one-quarter the gravitational field strength because gravitational field strength is inversely proportional to the square of the distance from the centre",
+  "explanation": "Gravitational field strength depends on mass and distance according to the formula g = GM/r². When two planets have equal mass but one has twice the radius, the gravitational field strength on the larger planet is reduced by a factor of 2² = 4. So planet Y, with twice the radius, has 1/4 the gravitational field strength. This shows that even though both planets have the same mass, the larger planet's surface is further from its centre of mass, so the gravitational pull is weaker there.",
+  "source_url": "ks3textbook://forces.gravity/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:33.959643",
+  "classified_at": "2026-04-04T20:57:33.959604",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

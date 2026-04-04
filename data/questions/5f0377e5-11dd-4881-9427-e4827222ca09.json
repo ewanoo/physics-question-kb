@@ -1,0 +1,48 @@
+{
+  "id": "5f0377e5-11dd-4881-9427-e4827222ca09",
+  "question_text": "A student observes that microwave ovens use electromagnetic radiation to heat food, whilst ultraviolet radiation can cause sunburn on skin. Which of the following correctly explains why these two types of radiation have such different effects on matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "photon energy",
+    "frequency",
+    "wavelength",
+    "ionization",
+    "biological effects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ultraviolet radiation has a longer wavelength and therefore carries more energy per photon",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Microwave radiation has a higher frequency and greater photon energy than ultraviolet radiation",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Ultraviolet radiation has a shorter wavelength and higher frequency, giving each photon more energy to damage cells",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Microwave radiation travels faster than ultraviolet radiation through the atmosphere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Ultraviolet radiation has a shorter wavelength and higher frequency, giving each photon more energy to damage cells",
+  "explanation": "Photon energy depends on frequency (E = hf). UV radiation has a much higher frequency than microwaves, so each UV photon carries more energy. This high-energy radiation can ionise molecules in cells and cause damage (sunburn), whereas microwave photons have lower energy and transfer heat through molecular vibration instead.",
+  "source_url": "ks3textbook://waves.em_spectrum/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:37.581329",
+  "classified_at": "2026-04-04T20:41:37.581258",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

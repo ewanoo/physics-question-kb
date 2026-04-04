@@ -1,0 +1,47 @@
+{
+  "id": "a016449d-bf61-418c-8c87-d251e184d0fb",
+  "question_text": "Which of the following best explains why we experience tides in Earth's oceans?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tides",
+    "gravity",
+    "Moon",
+    "oceans",
+    "gravitational pull"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon's gravitational pull on Earth's water causes the water to bulge on the side facing the Moon",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Sun's heat causes water to evaporate and condense in regular patterns",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Earth's rotation causes water to slosh around the oceans",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The atmosphere pushes down on the oceans in different locations",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Moon's gravitational pull on Earth's water causes the water to bulge on the side facing the Moon",
+  "explanation": "Tides are caused by the Moon's gravity pulling on Earth's oceans. The Moon's gravitational force is strongest on the side of Earth closest to the Moon, pulling the water towards it and creating a bulge (high tide). A bulge also forms on the opposite side of Earth because the Moon pulls on Earth itself more than on the water on the far side. As Earth rotates, different parts of the ocean pass through these bulges, creating high and low tides roughly twice per day.",
+  "source_url": "ks3textbook://space.earth_moon/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:49.085906",
+  "classified_at": "2026-04-04T20:50:49.085857",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

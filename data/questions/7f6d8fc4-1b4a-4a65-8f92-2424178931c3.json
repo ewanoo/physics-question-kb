@@ -1,0 +1,25 @@
+{
+  "id": "7f6d8fc4-1b4a-4a65-8f92-2424178931c3",
+  "question_text": "Name one everyday example of static electricity.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "everyday examples",
+    "charge transfer",
+    "friction"
+  ],
+  "options": null,
+  "correct_answer": "Any one of: getting a shock from a doorknob, hair standing on end when combing, clothes sticking together after washing, or similar everyday examples of static electricity",
+  "explanation": "Static electricity happens when electrons move between objects through friction or contact, creating an imbalance of electrical charge. This causes effects we see in everyday life, such as shocks, hair attraction, or clothes clinging together.",
+  "source_url": "oak://electricity.static/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:43:48.268259",
+  "classified_at": "2026-04-04T20:43:48.268218",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "22009a4d-7139-4b9b-bfaf-721a6a09ffd5",
+  "question_text": "What does the term 'orbit' mean in space?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "orbits",
+    "planets",
+    "definition",
+    "space"
+  ],
+  "options": null,
+  "correct_answer": "The curved path that an object follows as it moves around another object in space, like a planet moving around the Sun.",
+  "explanation": "An orbit is the regular, repeating path that one object takes around another due to gravity. Planets orbit stars, and moons orbit planets. Gravity keeps objects moving in these curved paths rather than travelling in straight lines.",
+  "source_url": "oak://space.gravity/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:26.947298",
+  "classified_at": "2026-04-04T20:53:26.947261",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

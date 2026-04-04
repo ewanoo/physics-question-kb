@@ -1,0 +1,26 @@
+{
+  "id": "76d0e5cc-b556-413b-a6c8-3a83d2ea85e4",
+  "question_text": "Explain the difference between how lamps behave in a series circuit and a parallel circuit.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "parallel circuits",
+    "voltage",
+    "brightness",
+    "lamp behavior"
+  ],
+  "options": null,
+  "correct_answer": "In a series circuit, lamps share the total voltage and become dimmer as more lamps are added because each lamp receives less voltage. In a parallel circuit, each lamp receives the full voltage from the power supply, so all lamps remain equally bright regardless of how many are added.",
+  "explanation": "In series circuits, components are connected in a single loop, so the total voltage is divided among all components. Adding more lamps means each lamp gets a smaller share of the voltage, making them dimmer. In parallel circuits, each component is connected directly across the power supply, so every lamp receives the full supply voltage and maintains the same brightness. This is a key difference between how these two circuit types work.",
+  "source_url": "ks3textbook://electricity.circuits/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:59.081223",
+  "classified_at": "2026-04-04T20:41:59.081181",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

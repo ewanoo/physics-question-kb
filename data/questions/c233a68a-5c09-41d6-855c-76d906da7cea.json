@@ -1,0 +1,26 @@
+{
+  "id": "c233a68a-5c09-41d6-855c-76d906da7cea",
+  "question_text": "A puddle of water disappears on a sunny day even though the temperature never reaches 100°C. Explain what is happening to the water molecules and why this process can occur below the boiling point.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "kinetic energy",
+    "phase change",
+    "particle model",
+    "temperature"
+  ],
+  "options": null,
+  "correct_answer": "The water is evaporating. Some water molecules at the surface have enough kinetic energy from the heat of the sun to escape and become a gas, even though the bulk temperature is below 100°C. Evaporation is a surface phenomenon where faster-moving molecules overcome intermolecular forces and escape, unlike boiling which requires the entire liquid to reach 100°C.",
+  "explanation": "Evaporation happens when molecules at the surface of a liquid gain enough energy to escape as a gas. Not all molecules need the same energy - some move faster than others due to random motion. The sun provides heat energy that gives these faster molecules enough kinetic energy to break free from the liquid, even if the overall temperature is much lower than the boiling point. This is why puddles dry up on warm days.",
+  "source_url": "generate://matter.changes/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:33.097029",
+  "classified_at": "2026-04-04T20:48:33.096984",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5ab80fcf-0272-43c7-a507-ec4e3d3417ee",
+  "question_text": "A solar panel converts solar energy into electrical energy with an efficiency of 20%. Explain why solar panels cannot have 100% efficiency and describe where the 'lost' energy goes.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy conversion",
+    "thermal energy",
+    "second law of thermodynamics",
+    "energy waste"
+  ],
+  "options": null,
+  "correct_answer": "Solar panels cannot achieve 100% efficiency because energy is always wasted during conversion processes. Not all photons from sunlight are absorbed by the panel material; some light is reflected away. Additionally, the solar panel and its surroundings absorb heat energy during the conversion process. The 'lost' energy (80% in this example) is converted into thermal energy (heat), which is released to the environment. This happens because of the second law of thermodynamics, which states that some energy must always be wasted as heat in any energy conversion process.",
+  "explanation": "No energy conversion is ever perfect. In a solar panel, some sunlight bounces off without being used, and when the panel converts sunlight into electricity, friction and other processes cause some energy to turn into heat instead. This wasted heat escapes into the air around the panel. This is why we can never get 100% efficiency - the laws of physics tell us that some energy will always be wasted as heat in any process.",
+  "source_url": "generate://energy.efficiency/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:51.955745",
+  "classified_at": "2026-04-04T20:54:51.955702",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

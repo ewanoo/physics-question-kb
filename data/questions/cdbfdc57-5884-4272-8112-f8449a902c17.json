@@ -1,0 +1,47 @@
+{
+  "id": "cdbfdc57-5884-4272-8112-f8449a902c17",
+  "question_text": "Why does a solid maintain a definite shape while a gas does not?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "states of matter",
+    "intermolecular forces",
+    "solid properties",
+    "gas properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solids have stronger gravity pulling on them than gases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Solid particles are held in fixed positions by strong attractive forces, while gas particles move freely with weak attractive forces between them",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Solids are always colder than gases, so particles cannot move",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The density of a solid is higher, so particles stick together permanently",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Solid particles are held in fixed positions by strong attractive forces, while gas particles move freely with weak attractive forces between them",
+  "explanation": "Solids have a definite shape because their particles are tightly packed and held in fixed positions by strong attractive forces between them. In gases, particles are far apart with very weak attractions, so they move randomly and spread out to fill any container. This difference in particle arrangement and intermolecular forces explains why solids keep their shape while gases do not.",
+  "source_url": "generate://matter.states/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:24.586887",
+  "classified_at": "2026-04-04T20:47:24.586851",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

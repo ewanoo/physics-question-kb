@@ -1,0 +1,25 @@
+{
+  "id": "482bd37c-cf8a-4036-b17b-414b747d87bb",
+  "question_text": "Explain why the Moon appears to change shape throughout the month, even though it does not produce its own light.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar phases",
+    "reflection",
+    "Earth-Moon-Sun geometry",
+    "astronomy"
+  ],
+  "options": null,
+  "correct_answer": "The Moon appears to change shape because different amounts of its illuminated side are visible from Earth as it orbits. The Moon reflects sunlight, and the portion we see depends on the Moon's position relative to the Earth and Sun. As the Moon orbits Earth, the angle between the Sun, Earth, and Moon changes, causing different proportions of the illuminated hemisphere to be visible from Earth.",
+  "explanation": "The Moon doesn't produce its own light—it reflects sunlight. As the Moon orbits Earth each month, the angle between the Sun, Earth, and Moon constantly changes. This changing geometry means we see different amounts of the Moon's lit side, creating the lunar phases (new moon, crescent, half moon, full moon, etc.). When the Moon is between Earth and the Sun, we see mostly darkness (new moon). When Earth is between the Sun and Moon, we see the fully lit side (full moon).",
+  "source_url": "ks3textbook://space.earth_moon/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:05.067956",
+  "classified_at": "2026-04-04T20:51:05.067918",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

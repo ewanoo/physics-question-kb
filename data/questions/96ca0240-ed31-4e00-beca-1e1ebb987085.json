@@ -1,0 +1,46 @@
+{
+  "id": "96ca0240-ed31-4e00-beca-1e1ebb987085",
+  "question_text": "Which piece of apparatus is used to measure the voltage across a component?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltmeter",
+    "parallel connection",
+    "voltage measurement",
+    "circuit apparatus"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "an ammeter connected in series",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "a voltmeter connected in parallel",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "a thermometer placed nearby",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "a rheostat in the circuit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "a voltmeter connected in parallel",
+  "explanation": "A voltmeter is the instrument used to measure voltage (potential difference) across a component. It must always be connected in parallel across the component so that it measures the voltage drop across that specific part of the circuit without significantly affecting the current flow.",
+  "source_url": "ks3textbook://electricity.current_voltage/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:52.153071",
+  "classified_at": "2026-04-04T20:42:52.153034",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

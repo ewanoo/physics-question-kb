@@ -1,0 +1,46 @@
+{
+  "id": "40ae0427-e696-4104-a2e8-e66b803e7a7d",
+  "question_text": "Which change of state is the reverse of condensation?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "changes of state",
+    "evaporation",
+    "condensation",
+    "particle model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Freezing",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Melting",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Evaporation",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Sublimation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Evaporation",
+  "explanation": "Condensation is when a gas turns into a liquid by cooling down. Evaporation is the reverse process, where a liquid turns into a gas by heating up. Both involve the same substance changing between states.",
+  "source_url": "generate://matter.changes/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:12.372672",
+  "classified_at": "2026-04-04T20:48:12.372635",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "b8620b79-7e8e-481b-9132-344049500b67",
+  "question_text": "Which region of the electromagnetic spectrum is used for cooking food in a microwave oven?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "microwaves",
+    "applications of waves",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Microwaves",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Infrared radiation",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Visible light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Microwaves",
+  "explanation": "Microwave ovens use microwave radiation from the electromagnetic spectrum to cook food. Microwaves have a wavelength of about 1mm to 1cm and make water molecules vibrate rapidly, which generates heat that cooks the food.",
+  "source_url": "ks3textbook://waves.em_spectrum/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:02.990899",
+  "classified_at": "2026-04-04T20:41:02.990854",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

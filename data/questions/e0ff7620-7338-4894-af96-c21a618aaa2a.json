@@ -1,0 +1,26 @@
+{
+  "id": "e0ff7620-7338-4894-af96-c21a618aaa2a",
+  "question_text": "A lunar eclipse occurs when the Earth is positioned directly between the Sun and the Moon. Using your knowledge of shadows and light, explain why a lunar eclipse does not occur every month despite the Moon orbiting the Earth monthly.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar_eclipse",
+    "orbital_mechanics",
+    "shadows",
+    "geometry",
+    "light_propagation"
+  ],
+  "options": null,
+  "correct_answer": "The Moon's orbital plane is tilted at approximately 5° to the Earth's orbital plane (the ecliptic plane). Most months, the Moon passes above or below Earth's shadow cone. A lunar eclipse only occurs when the Moon crosses the ecliptic plane near the Full Moon phase, which happens at specific times called nodes.",
+  "explanation": "Even though the Moon orbits Earth every month, eclipses don't happen monthly because the Moon's orbit is tilted compared to Earth's orbit around the Sun. This means the Moon usually misses Earth's shadow. Eclipses only occur when the Moon's path crosses Earth's orbital plane at the same time as a Full Moon, which only happens a few times per year.",
+  "source_url": "ks3textbook://space.earth_moon/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:24.305524",
+  "classified_at": "2026-04-04T20:51:24.305485",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6e6e23bc-2de3-415f-aa8d-51f678b8665e",
+  "question_text": "How does pressure in a gas differ from pressure in a liquid?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "gases",
+    "liquids",
+    "particle model",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Gas pressure is caused by particles colliding with surfaces, while liquid pressure is due to the weight of the liquid above and particle collisions.",
+  "explanation": "In gases, the fast-moving particles are far apart and spread out, so pressure comes only from them hitting surfaces. In liquids, particles are closer together and packed more densely, so pressure comes from both the weight of the liquid pressing down from above and the particles colliding with surfaces.",
+  "source_url": "oak://forces.pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:08.948802",
+  "classified_at": "2026-04-04T20:36:08.948762",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

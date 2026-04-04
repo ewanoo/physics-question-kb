@@ -1,0 +1,49 @@
+{
+  "id": "668cb00c-161e-418e-9db3-50d61a6c893f",
+  "question_text": "Two speakers emit identical sound waves at 2000 Hz. Speaker A and Speaker B are placed 0.17 m apart. A student stands at a point where the sound from both speakers arrives in phase. What would the student observe if they slowly moved perpendicular to the line connecting the two speakers?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "interference",
+    "constructive_interference",
+    "destructive_interference",
+    "path_difference",
+    "wave_superposition",
+    "frequency",
+    "wavelength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The sound would gradually get quieter due to destructive interference",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The sound would stay the same volume because frequency doesn't change",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The sound would get louder due to constructive interference",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pitch would increase due to the Doppler effect",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The sound would gradually get quieter due to destructive interference",
+  "explanation": "When the student starts at a point where sound from both speakers arrives in phase, the waves add together (constructive interference) making the sound loud. As they move perpendicular to the line between speakers, the distance to each speaker changes differently. This creates a path difference. When the path difference equals odd multiples of half wavelengths (λ/2, 3λ/2, etc.), the waves arrive out of phase and cancel each other out (destructive interference), making the sound quieter. The frequency of the sound doesn't change, but the interference pattern does.",
+  "source_url": "generate://waves.sound/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:31.655026",
+  "classified_at": "2026-04-04T20:39:31.654988",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "410af28d-1bd5-4168-a832-66cd63cbc169",
+  "question_text": "Why does a negatively charged object attract a neutral object, even though the neutral object has no overall charge?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static induction",
+    "charge separation",
+    "electrostatic attraction",
+    "neutral objects"
+  ],
+  "options": null,
+  "correct_answer": "The negative charge induces a separation of charges in the neutral object, causing electrons to move away and leaving positive charges closer to the surface, which are attracted to the negative charge",
+  "explanation": "When a negatively charged object is near a neutral object, the electrons in the neutral object repel away from the negative charge (like charges repel). This leaves the positive charges (in the nuclei) exposed on the near surface. Since opposite charges attract, the positive charges are attracted to the negative charge, even though the object overall is still neutral. This is called electrostatic induction.",
+  "source_url": "oak://electricity.static/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:16.098030",
+  "classified_at": "2026-04-04T20:44:16.097991",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

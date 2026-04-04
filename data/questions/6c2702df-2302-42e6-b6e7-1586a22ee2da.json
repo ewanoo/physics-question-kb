@@ -1,0 +1,46 @@
+{
+  "id": "6c2702df-2302-42e6-b6e7-1586a22ee2da",
+  "question_text": "Which of the following correctly describes what happens when white light passes through a colour filter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "light absorption",
+    "white light",
+    "wavelengths"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All colours of light are absorbed equally",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The filter absorbs certain colours and allows others to pass through",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The filter creates new colours that were not present in the original light",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The filter reflects all colours back to their source",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The filter absorbs certain colours and allows others to pass through",
+  "explanation": "A colour filter works by absorbing (stopping) certain colours of light while letting other colours pass through. The colour we see is the light that passes through the filter. For example, a red filter absorbs all colours except red, so red light passes through and we see red.",
+  "source_url": "ks3textbook://waves.colour/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:48.155641",
+  "classified_at": "2026-04-04T20:58:48.155603",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

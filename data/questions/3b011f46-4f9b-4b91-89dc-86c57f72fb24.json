@@ -1,0 +1,46 @@
+{
+  "id": "3b011f46-4f9b-4b91-89dc-86c57f72fb24",
+  "question_text": "Which of these objects experiences the strongest gravitational pull from Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational force",
+    "mass",
+    "weight",
+    "Earth's gravity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A feather",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A tennis ball",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A large boulder",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "A grain of sand",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A large boulder",
+  "explanation": "Gravitational force depends on mass. Objects with greater mass experience a stronger gravitational pull from Earth. The large boulder has significantly more mass than a feather, tennis ball, or grain of sand, so it experiences the strongest gravitational force.",
+  "source_url": "oak://space.gravity/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:24.078899",
+  "classified_at": "2026-04-04T20:53:24.078864",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

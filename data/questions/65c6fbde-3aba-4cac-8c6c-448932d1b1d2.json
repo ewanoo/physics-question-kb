@@ -1,0 +1,47 @@
+{
+  "id": "65c6fbde-3aba-4cac-8c6c-448932d1b1d2",
+  "question_text": "Which of these will produce a larger moment on a door?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "turning effect",
+    "pivot",
+    "distance",
+    "force application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A small force applied near the hinge",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A small force applied far from the hinge",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A large force applied very close to the hinge",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The distance from the hinge doesn't matter",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A small force applied far from the hinge",
+  "explanation": "Moment (turning effect) depends on both the force applied and the distance from the pivot (hinge). The further away from the hinge a force is applied, the larger the moment produced. This is why door handles are positioned far from hinges - a small push near the handle creates a large turning effect. The moment equation is: moment = force × perpendicular distance from pivot.",
+  "source_url": "oak://forces.moments/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:16.847359",
+  "classified_at": "2026-04-04T20:37:16.847314",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

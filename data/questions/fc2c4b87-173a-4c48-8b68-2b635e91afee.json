@@ -1,0 +1,46 @@
+{
+  "id": "fc2c4b87-173a-4c48-8b68-2b635e91afee",
+  "question_text": "A red filter is placed over a white light source. What colour of light passes through the filter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "light absorption",
+    "selective absorption",
+    "KS3 waves"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "White",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Red",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Black",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All colours except red",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Red",
+  "explanation": "A red filter absorbs (removes) all colours of light except red. Only red light passes through the filter because the filter is designed to transmit red wavelengths while blocking all other colours.",
+  "source_url": "generate://waves.colour/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:43.985227",
+  "classified_at": "2026-04-04T20:40:43.985178",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

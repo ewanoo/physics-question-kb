@@ -1,0 +1,47 @@
+{
+  "id": "7826c509-41dc-49cc-8715-5ec762bb522a",
+  "question_text": "When water freezes at 0°C, its density decreases and ice floats. Which of the following best explains this unusual behaviour?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "density",
+    "states_of_matter",
+    "water",
+    "crystalline_structure",
+    "particle_model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice is less dense because the water molecules move faster when frozen",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ice is less dense because the water molecules form a crystalline structure with more space between them than in liquid water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ice is less dense because some of the water escapes as steam during freezing",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ice is less dense because it is a solid and solids are always less dense than liquids",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Ice is less dense because the water molecules form a crystalline structure with more space between them than in liquid water",
+  "explanation": "Water is unusual because when it freezes, the water molecules arrange themselves into a crystalline structure held together by hydrogen bonds. This structure has larger spaces between the molecules compared to the randomly packed arrangement in liquid water. This means ice takes up more volume for the same mass, making it less dense than liquid water. This is why ice floats.",
+  "source_url": "generate://matter.changes/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:35.066517",
+  "classified_at": "2026-04-04T20:48:35.066475",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "93f9fd95-a3b5-4e9f-9276-48624320595f",
+  "question_text": "Name one way to decrease the pressure exerted by a solid object on a surface.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "force",
+    "area",
+    "practical_application"
+  ],
+  "options": null,
+  "correct_answer": "Increase the surface area in contact with the surface (or reduce the force applied).",
+  "explanation": "Pressure is calculated using the formula: pressure = force ÷ area. To decrease pressure, you can either increase the contact area (spreading the force over a larger surface) or reduce the force being applied. A real-world example is snow shoes, which have a large surface area to distribute your weight, reducing the pressure on the snow so you don't sink.",
+  "source_url": "oak://forces.pressure/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:24.735114",
+  "classified_at": "2026-04-04T20:36:24.735077",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c60a0950-05f7-42ba-b72e-7ca0aab5c7c9",
+  "question_text": "Describe what a colour filter does to light passing through it.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "light",
+    "colour filters",
+    "absorption",
+    "transmission",
+    "waves"
+  ],
+  "options": null,
+  "correct_answer": "A colour filter absorbs (or blocks) certain colours of light and allows only light of its own colour to pass through.",
+  "explanation": "Colour filters work by absorbing the colours of light that don't match the filter's colour, while transmitting (letting through) only light that matches the filter's colour. For example, a red filter absorbs all colours except red light.",
+  "source_url": "generate://waves.colour/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:49.237976",
+  "classified_at": "2026-04-04T20:40:49.237938",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

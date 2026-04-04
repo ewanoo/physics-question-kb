@@ -1,0 +1,46 @@
+{
+  "id": "78edbc1d-e054-43ad-857c-ac1975725fb9",
+  "question_text": "Sound travels at different speeds through different materials. Which of the following is the correct order from slowest to fastest?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound speed",
+    "particle density",
+    "wave propagation",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air, water, steel",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Steel, water, air",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Water, air, steel",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air, steel, water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Air, water, steel",
+  "explanation": "Sound travels at different speeds depending on the density and elasticity of the material. It travels slowest through air (approximately 330 m/s) because air particles are far apart. It travels faster through water (approximately 1,500 m/s) where particles are closer together. It travels fastest through steel (approximately 5,000 m/s) because solid materials have very densely packed particles, allowing sound waves to transfer energy more efficiently between particles.",
+  "source_url": "generate://waves.sound/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:50.253251",
+  "classified_at": "2026-04-04T20:38:50.253216",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

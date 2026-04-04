@@ -1,0 +1,25 @@
+{
+  "id": "c9918ce7-1d41-46d2-97fc-9192711e8f28",
+  "question_text": "A perfume bottle is opened at one end of a room. After a few minutes, people at the other end of the room can smell it. What does this tell us about the particles in perfume vapour?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "diffusion",
+    "gas particles",
+    "particle motion",
+    "kinetic theory"
+  ],
+  "options": null,
+  "correct_answer": "The perfume particles are moving continuously and randomly in all directions. They spread through the air (diffusion) because gas particles move freely with large spaces between them.",
+  "explanation": "This question demonstrates diffusion in gases. Perfume evaporates and its particles spread randomly throughout the room because gas particles have enough kinetic energy to move in all directions freely. With large spaces between particles, they can travel long distances through the air. This shows that particles are in constant random motion, which is a key idea in the particle model of matter.",
+  "source_url": "generate://matter.particles/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:33.577039",
+  "classified_at": "2026-04-04T20:46:33.577000",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

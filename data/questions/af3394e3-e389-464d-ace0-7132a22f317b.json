@@ -1,0 +1,46 @@
+{
+  "id": "af3394e3-e389-464d-ace0-7132a22f317b",
+  "question_text": "What is a balanced force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "definition",
+    "balanced forces",
+    "Newton's laws",
+    "force concepts"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Two forces acting in the same direction on an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Two forces that are equal in size and opposite in direction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A single force pushing an object forward",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Forces that only act on stationary objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Two forces that are equal in size and opposite in direction",
+  "explanation": "Balanced forces are two forces of equal magnitude acting in opposite directions on an object. They cancel each other out, resulting in no change in the object's motion. If the object is at rest, it stays at rest; if it's moving, it continues at the same speed and direction.",
+  "source_url": "generate://forces.balanced/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:04.234197",
+  "classified_at": "2026-04-04T20:55:04.234156",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

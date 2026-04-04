@@ -1,0 +1,46 @@
+{
+  "id": "e63ae4c3-5b2c-4556-98c9-940adeae1ec7",
+  "question_text": "When blue light and yellow light are mixed together, which colour is produced?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour addition",
+    "light mixing",
+    "complementary colours",
+    "RGB colour model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Green",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Cyan",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "White",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Black",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "White",
+  "explanation": "Blue and yellow light are complementary colours in the RGB (red, green, blue) light colour system. When blue and yellow light are mixed together, they produce white light. This is different from mixing paints, where blue and yellow make green. With light, we use colour addition rather than colour subtraction.",
+  "source_url": "ks3textbook://waves.colour/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:06.939582",
+  "classified_at": "2026-04-04T20:59:06.939545",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

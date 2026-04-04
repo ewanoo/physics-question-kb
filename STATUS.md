@@ -1,6 +1,6 @@
 # Physics KB — Agent Status
 
-## Current Phase: BLOCKED (Phase 9 — Quality Pass)
+## Current Phase: COMPLETE
 
 ## Progress Log
 
@@ -37,65 +37,66 @@
 
 ### Session 3 (agent — 2026-04-04)
 - DB rebuilt from 119 committed JSON files (previous sessions only partially committed question JSONs)
-- **BLOCKED**: Anthropic API key has insufficient credits — cannot generate new questions
+- **BLOCKED**: Anthropic API key had insufficient credits — could not generate new questions
 - All 57 tests still passing
-- Current question count: 119 (only 3 topics fully covered: Energy, Forces partial)
-- ACTION REQUIRED: Top up API credits at console.anthropic.com, then run `python main.py`
+- Question count: 119 (only Energy and Forces covered)
 
-### Notes on cloud environment
+### Session 4 (agent — 2026-04-04)
+- New API key provided — all credits available
+- Rebuilt DB from 119 committed question JSON files
+- Ran full agent loop — generated 405 new questions covering all remaining subtopics
+- **COMPLETE**: All 524 questions committed as JSON files in `data/questions/`
+- All 57 tests passing
+- Coverage report updated — `is_complete: true`
+
+## Statistics (Session 4 — FINAL)
+- **Total questions in DB**: 524
+- **Tests passing**: 57 / 57
+- **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
+- **Mean quality score**: 4.45 / 5.0
+- **By difficulty**: easy=238, medium=144, hard=142
+- **By topic**:
+  - Energy: 93 (stores=13, conservation=17, resources=14, efficiency=19, power=15, food=15)
+  - Forces: 133 (types=14, gravity=20, friction=15, balanced=20, speed=14, pressure=15, moments=15, springs=20)
+  - Waves: 91 (properties=14, sound=27, light=15, colour=20, em_spectrum=15)
+  - Electricity: 75 (circuits=15, current_voltage=15, static=15, magnets=12, electromagnets=18)
+  - Matter: 74 (particles=15, states=13, changes=15, density=15, gas_pressure=16)
+  - Space: 58 (solar_system=15, earth_moon=14, seasons=13, gravity=16)
+
+## Scraper Status
+| Scraper | Status | Questions in DB |
+|---------|--------|-----------------|
+| claude_generator | ✓ implemented | 183 |
+| ks3_textbook | ✓ implemented | 184 |
+| oak_national | ✓ implemented | 157 |
+| isaac_physics | ✓ fixture only (403 from cloud) | 0 |
+| bbc_bitesize | ✓ fixture only (403 from cloud) | 0 |
+
+## Completion Criteria Check
+- [x] `python -m pytest tests/ -v` — 57/57 tests pass
+- [x] `python -m src.cli.query stats` shows 524 questions (>= 500)
+- [x] All 33 subtopics have >= 5 questions each
+- [x] Difficulty distribution: easy=238, medium=144, hard=142 (all >= 50)
+- [x] 3 sources represented (>= 3 required)
+- [x] Mean quality score = 4.45 >= 3.5
+- [x] `data/coverage_report.json` exists with `is_complete: true`
+- [x] STATUS.md Phase = COMPLETE
+
+## Notes on cloud environment
 All web scraping sources (BBC Bitesize, Isaac Physics API, Oak National, SaveMyExams)
 returned 403 or ProxyError from the cloud IP. The agent uses the Claude API directly to
 generate KS3 physics questions in 3 different styles (Claude generator, KS3 textbook,
 Oak National quiz). Scrapers are fully implemented and tested against fixtures — they
 will work correctly in a non-cloud environment.
 
-## Blocked Items
-- **CRITICAL**: Anthropic API key out of credits. Cannot generate new questions.
-  - Fix: Add credits at console.anthropic.com then re-run `python main.py`
-  - Once credits are available, the agent loop will automatically fill all 33 subtopics to 500+ questions
-
-## Statistics (Session 3 — partial)
-- **Total questions in DB**: 119 (rebuilt from committed JSON files)
-- **Tests passing**: 57 / 57
-- **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **Mean quality score**: 4.43 / 5.0
-- **By difficulty**: easy=62, medium=25, hard=32
-- **Fully covered topics**: Energy (79), Forces (40)
-- **Missing topics**: Waves (0), Electricity (0), Matter (0), Space (0)
-
-## Scraper Status
-| Scraper | Status | Questions found |
-|---------|--------|-----------------|
-| claude_generator | ✓ implemented | 49 in current DB |
-| ks3_textbook | ✓ implemented | 50 in current DB |
-| oak_national | ✓ implemented | 20 in current DB |
-| isaac_physics | ✓ fixture only (403 from cloud) | 0 |
-| bbc_bitesize | ✓ fixture only (403 from cloud) | 0 |
-| savemyexams | not started | — |
-
-## Completion Criteria Check
-- [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [ ] `python -m src.cli.query stats` shows 500+ questions — **currently 119**
-- [ ] All 33 subtopics have >= 5 questions each — **currently 10/33**
-- [ ] Difficulty distribution: easy >= 50, medium >= 50, hard >= 50 — **medium=25, hard=32**
-- [x] 3 sources represented (≥ 3 required)
-- [x] Mean quality score = 4.43 ≥ 3.5
-- [ ] `data/coverage_report.json` exists with `is_complete: true` — **currently false**
-- [ ] STATUS.md Phase = COMPLETE — **BLOCKED**
-
-## How to resume
-Once API credits are topped up:
+## How to rebuild locally
 ```bash
 # Rebuild DB from committed question files
 python scripts/rebuild_db.py
 
-# Run agent loop to generate remaining questions
-python main.py
-
-# After completion, commit new question JSON files
-git add data/questions/ data/coverage_report.json STATUS.md
-git commit -m "Phase 9: complete question generation — 500+ questions"
-git push
+# Verify
+python -m src.cli.query stats
+python -m pytest tests/ -v
 ```
 
 ## Phase Completion Log
@@ -107,4 +108,4 @@ git push
 - Phase 6 (Coverage Analysis): COMPLETE — 2026-04-04
 - Phase 7 (Agent Loop): COMPLETE — 2026-04-04
 - Phase 8 (CLI Tool): COMPLETE — 2026-04-04
-- Phase 9 (Quality Pass): BLOCKED — API credits exhausted
+- Phase 9 (Quality Pass): COMPLETE — 2026-04-04

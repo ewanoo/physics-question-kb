@@ -1,0 +1,46 @@
+{
+  "id": "512c7ae1-869a-49f9-962c-1d2bdebbcc74",
+  "question_text": "If you place a blue filter over a red light source, what will you see?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "light",
+    "filters",
+    "colour",
+    "absorption"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Blue light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Purple light",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "No light (darkness)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Red light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "No light (darkness)",
+  "explanation": "A blue filter only allows blue light wavelengths to pass through it. Since the light source emits red light, and red and blue are different wavelengths, the blue filter absorbs all the red light and none passes through. Therefore, you see darkness.",
+  "source_url": "generate://waves.colour/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:53.522306",
+  "classified_at": "2026-04-04T20:40:53.522241",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

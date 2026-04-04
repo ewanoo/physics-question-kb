@@ -1,0 +1,46 @@
+{
+  "id": "010fdbbe-f969-43b0-b2b3-7840ef1841e0",
+  "question_text": "A light ray hits a shiny metal surface at an angle of 25° to the normal. At what angle to the normal will the reflected ray leave the surface?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "law of reflection",
+    "angle of incidence",
+    "angle of reflection",
+    "normal"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "25°",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "50°",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "65°",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "155°",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "25°",
+  "explanation": "The law of reflection states that the angle of incidence equals the angle of reflection, where both angles are measured from the normal (an imaginary line perpendicular to the surface). Since the incoming ray hits at 25° to the normal, the reflected ray will also leave at 25° to the normal.",
+  "source_url": "generate://waves.light/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:31.474692",
+  "classified_at": "2026-04-04T20:40:31.474648",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

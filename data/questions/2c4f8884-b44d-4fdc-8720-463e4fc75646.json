@@ -1,0 +1,25 @@
+{
+  "id": "2c4f8884-b44d-4fdc-8720-463e4fc75646",
+  "question_text": "A spring has a spring constant of 150 N/m. Calculate the extension of the spring when a force of 30 N is applied to it.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "extension",
+    "force calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.2 m (or 20 cm)",
+  "explanation": "Hooke's law states that F = kx, where F is the force applied, k is the spring constant, and x is the extension. To find the extension, we rearrange to x = F/k. Substituting the values: x = 30 N ÷ 150 N/m = 0.2 m, which equals 20 cm.",
+  "source_url": "generate://forces.springs/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:17.528624",
+  "classified_at": "2026-04-04T20:56:17.528579",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

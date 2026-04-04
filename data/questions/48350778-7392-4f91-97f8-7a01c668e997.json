@@ -1,0 +1,25 @@
+{
+  "id": "48350778-7392-4f91-97f8-7a01c668e997",
+  "question_text": "In a series circuit containing three identical resistors, the total resistance is 24 Ω. Calculate the resistance of each individual resistor.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series_circuits",
+    "resistance",
+    "ohms_law",
+    "calculations"
+  ],
+  "options": null,
+  "correct_answer": "8 Ω",
+  "explanation": "In a series circuit, all resistances add together to give the total resistance. Since there are three identical resistors and the total is 24 Ω, we divide by 3 to find each individual resistor: 24 Ω ÷ 3 = 8 Ω per resistor.",
+  "source_url": "ks3textbook://electricity.circuits/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:11.465627",
+  "classified_at": "2026-04-04T20:42:11.465586",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

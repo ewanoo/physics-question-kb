@@ -1,0 +1,45 @@
+{
+  "id": "7f2342d6-6b62-434e-b6c9-f9d0a644fcc2",
+  "question_text": "When the resistance in a circuit increases while the potential difference remains constant, what happens to the current?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "inverse_proportionality",
+    "circuit_analysis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The current increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current decreases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The current remains unchanged",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The current becomes zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The current decreases",
+  "explanation": "Ohm's law tells us that current (I) = voltage (V) divided by resistance (R). When resistance increases but voltage stays the same, we're dividing by a larger number, which gives us a smaller answer. So the current decreases.",
+  "source_url": "ks3textbook://electricity.current_voltage/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:11.786775",
+  "classified_at": "2026-04-04T20:43:11.786737",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

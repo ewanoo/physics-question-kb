@@ -1,0 +1,46 @@
+{
+  "id": "d02c2d36-fa19-4f1e-85f7-203bdc27d6e4",
+  "question_text": "A red filter is placed over a white light source. What colour of light emerges from the other side of the filter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "filters",
+    "light absorption",
+    "colour",
+    "white light"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "White light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Red light",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Black light",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All colours except red",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Red light",
+  "explanation": "A red filter works by absorbing all colours of white light except red. When white light passes through the filter, only red wavelengths are transmitted, so the light that emerges appears red.",
+  "source_url": "ks3textbook://waves.colour/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:49.450410",
+  "classified_at": "2026-04-04T20:58:49.450370",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

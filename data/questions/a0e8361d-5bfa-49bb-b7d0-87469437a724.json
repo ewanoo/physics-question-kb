@@ -1,0 +1,46 @@
+{
+  "id": "a0e8361d-5bfa-49bb-b7d0-87469437a724",
+  "question_text": "What happens to light when it enters a denser material, such as glass?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light behaviour",
+    "density",
+    "normal line"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It speeds up and bends away from the normal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It slows down and bends towards the normal",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It speeds up and bends towards the normal",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It slows down and bends away from the normal",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It slows down and bends towards the normal",
+  "explanation": "When light travels from a less dense material (like air) into a denser material (like glass), it slows down because the material has more particles to interact with. As it slows down, it bends towards the normal line (the imaginary line perpendicular to the surface). This bending is called refraction.",
+  "source_url": "generate://waves.light/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:52.348044",
+  "classified_at": "2026-04-04T20:39:52.348007",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "53264a1f-51ef-419d-bc36-316011d292b7",
+  "question_text": "How would the gravitational force between two objects change if the distance between them doubled?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "inverse square law",
+    "gravitational force",
+    "distance relationships"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It would double",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It would quadruple",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It would reduce to one quarter",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "It would stay the same",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It would reduce to one quarter",
+  "explanation": "Gravitational force follows an inverse square law. This means if you double the distance between two objects, the gravitational force decreases by a factor of 2² = 4. So the force becomes one quarter (¼) of its original strength.",
+  "source_url": "oak://space.gravity/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:40.107348",
+  "classified_at": "2026-04-04T20:53:40.107288",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

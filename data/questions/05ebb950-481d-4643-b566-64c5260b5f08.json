@@ -1,0 +1,25 @@
+{
+  "id": "05ebb950-481d-4643-b566-64c5260b5f08",
+  "question_text": "Explain what is meant by the 'speed of sound' and state whether this speed is the same in all materials.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "speed of sound",
+    "medium",
+    "wave propagation"
+  ],
+  "options": null,
+  "correct_answer": "The speed of sound is the distance that a sound wave travels per unit time through a medium. The speed of sound is not the same in all materials; it is generally faster in solids and liquids than in gases.",
+  "explanation": "Sound travels at different speeds depending on what material (medium) it passes through. In air, sound travels at about 340 m/s, but it moves much faster through liquids like water (about 1,500 m/s) and even faster through solids like steel (about 5,000 m/s). This is because the particles are packed more tightly together in solids and liquids, allowing sound waves to transfer energy between particles more quickly.",
+  "source_url": "ks3textbook://waves.sound/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:54.069196",
+  "classified_at": "2026-04-04T20:57:54.069147",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

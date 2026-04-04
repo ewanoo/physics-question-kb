@@ -1,0 +1,46 @@
+{
+  "id": "bc5cca02-0524-42ff-ab5b-1a5e7ea4fd2c",
+  "question_text": "Sound waves are produced by vibrations. Which type of wave is a sound wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "wave classification",
+    "longitudinal waves",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A transverse wave",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A longitudinal wave",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "An electromagnetic wave",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A surface wave",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A longitudinal wave",
+  "explanation": "Sound waves are longitudinal waves because the particles in the medium (air, water, or solids) vibrate back and forth in the same direction as the wave travels. This creates areas of compression (where particles are close together) and rarefaction (where particles are spread out). This is different from transverse waves where particles move perpendicular to the direction of wave travel.",
+  "source_url": "generate://waves.sound/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:46.379322",
+  "classified_at": "2026-04-04T20:38:46.379256",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3ee56bca-e22e-4ab3-bab7-966b380a8d60",
+  "question_text": "A person with normal hearing can detect sounds between 20 Hz and 20,000 Hz. Explain why a dog can hear a dog whistle that humans cannot hear, even though the whistle produces sound waves using the same medium (air) as other sounds.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "ultrasound",
+    "frequency",
+    "hearing range",
+    "species differences",
+    "wave properties"
+  ],
+  "options": null,
+  "correct_answer": "A dog whistle produces ultrasonic sound waves with frequencies above 20,000 Hz (beyond human hearing range). Dogs can hear frequencies up to approximately 65,000 Hz, so they detect these ultrasonic waves. The frequency is a property of the wave source itself, not the medium, so using the same medium (air) does not make the sound audible to humans if it exceeds their hearing limit.",
+  "explanation": "Frequency is determined by how quickly the sound source vibrates, not by the medium it travels through. Human ears can only detect frequencies between 20 Hz and 20,000 Hz. A dog whistle vibrates at a frequency above 20,000 Hz, producing ultrasound that humans cannot hear. However, dogs have evolved with a higher frequency range and can detect these ultrasonic waves. Both humans and dogs hear through air, but their hearing ranges are different.",
+  "source_url": "generate://waves.sound/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:37.063199",
+  "classified_at": "2026-04-04T20:39:37.063159",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d0fc3ca5-f075-433a-aa26-8166f8c3e011",
+  "question_text": "Describe what happens to the particles in a substance when it undergoes a change of state from liquid to gas.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "boiling",
+    "kinetic energy",
+    "particle model",
+    "state change",
+    "liquid to gas"
+  ],
+  "options": null,
+  "correct_answer": "The particles gain energy, move faster and further apart, and escape from the liquid to form a gas. The bonds between particles are broken.",
+  "explanation": "During evaporation or boiling, particles in a liquid gain kinetic energy (heat energy). This causes them to move faster and vibrate more vigorously. Eventually, particles at the surface have enough energy to overcome the attractive forces holding them in the liquid state. They escape as individual gas particles, spreading far apart with much greater distances between them. The change happens because particles gain thermal energy, not because bonds are broken in the chemical sense—rather, the intermolecular forces holding the liquid together are overcome.",
+  "source_url": "generate://matter.changes/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:15.019812",
+  "classified_at": "2026-04-04T20:48:15.019763",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

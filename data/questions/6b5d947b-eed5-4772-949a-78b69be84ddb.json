@@ -1,0 +1,47 @@
+{
+  "id": "6b5d947b-eed5-4772-949a-78b69be84ddb",
+  "question_text": "Why does the Moon orbit the Earth rather than falling straight into it?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "orbits",
+    "gravity",
+    "Moon",
+    "conceptual reasoning",
+    "misconceptions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon is moving fast enough sideways that it keeps missing the Earth as it falls towards it",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gravity only works on objects that are stationary",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Moon is too far away for Earth's gravity to pull it down",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon has its own gravity that pushes it away from Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Moon is moving fast enough sideways that it keeps missing the Earth as it falls towards it",
+  "explanation": "Orbits happen because of a balance between two things: gravity pulls the Moon towards Earth, but the Moon is also moving sideways very fast. These two motions combine so the Moon continuously falls towards Earth while also moving past it, creating a circular or elliptical path. It's like throwing a ball sideways - it falls down but also travels forward, creating a curved path.",
+  "source_url": "oak://space.gravity/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:55.137865",
+  "classified_at": "2026-04-04T20:53:55.137826",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

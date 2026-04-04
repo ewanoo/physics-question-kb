@@ -1,0 +1,26 @@
+{
+  "id": "900d0302-7171-43b1-92d0-6d8ca7cd7d12",
+  "question_text": "A car travels 120 metres in 10 seconds. What is its speed?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "distance",
+    "time",
+    "formula",
+    "basic_calculation"
+  ],
+  "options": null,
+  "correct_answer": "12 m/s",
+  "explanation": "To find speed, we use the formula: Speed = distance ÷ time. In this case, the car travels 120 metres in 10 seconds, so speed = 120 ÷ 10 = 12 m/s.",
+  "source_url": "oak://forces.speed/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:34.777319",
+  "classified_at": "2026-04-04T20:35:34.777254",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

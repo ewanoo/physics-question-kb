@@ -1,0 +1,47 @@
+{
+  "id": "720ab7ba-6a4f-48bb-a349-6307193eeb4e",
+  "question_text": "What is gravity?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "forces",
+    "definition",
+    "space",
+    "fundamental concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that pushes objects away from each other",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A force that attracts objects towards each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A type of energy found only in stars",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which planets move around the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A force that attracts objects towards each other",
+  "explanation": "Gravity is an attractive force that pulls objects with mass towards each other. Although all objects attract each other through gravity, we only notice this force with very massive objects like planets, stars, and moons. For example, gravity is what keeps you on Earth and what keeps the Moon orbiting around Earth.",
+  "source_url": "oak://space.gravity/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:22.402502",
+  "classified_at": "2026-04-04T20:53:22.402465",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

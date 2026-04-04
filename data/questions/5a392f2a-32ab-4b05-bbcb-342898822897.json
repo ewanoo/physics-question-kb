@@ -1,0 +1,25 @@
+{
+  "id": "5a392f2a-32ab-4b05-bbcb-342898822897",
+  "question_text": "A device has an efficiency of 25%. What does this tell you about the device?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy_transfer",
+    "wasted_energy",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "It means that only 25% of the energy input is converted into useful energy output, and 75% is wasted (usually as heat or sound).",
+  "explanation": "Efficiency is the percentage of input energy that is converted into useful output energy. An efficiency of 25% tells us that for every 100 units of energy supplied to the device, only 25 units are converted into useful work, while 75 units are lost as wasted energy, typically as heat or sound.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:14.370829",
+  "classified_at": "2026-04-04T20:54:14.370791",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

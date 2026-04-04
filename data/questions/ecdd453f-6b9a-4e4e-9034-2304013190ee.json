@@ -1,0 +1,25 @@
+{
+  "id": "ecdd453f-6b9a-4e4e-9034-2304013190ee",
+  "question_text": "Describe what Hooke's law tells us about the relationship between the force applied to a spring and its extension.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "proportionality",
+    "elastic_limit",
+    "spring_constant"
+  ],
+  "options": null,
+  "correct_answer": "Hooke's law states that the extension of a spring is directly proportional to the force applied to it (as long as the elastic limit is not exceeded). This is expressed as F = kx, where F is the force, k is the spring constant, and x is the extension.",
+  "explanation": "Hooke's law describes a proportional relationship: if you double the force on a spring, its extension doubles too. This only works up to the elastic limit - if you apply too much force, the spring will permanently deform and the relationship breaks down. The spring constant (k) tells you how stiff the spring is; stiffer springs have larger values of k.",
+  "source_url": "generate://forces.springs/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:19.719485",
+  "classified_at": "2026-04-04T20:56:19.719440",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

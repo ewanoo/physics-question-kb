@@ -1,0 +1,47 @@
+{
+  "id": "4c4c0f0c-328d-46f2-9683-cad7d0c21fd9",
+  "question_text": "Why does a person sink deeper into soft snow when standing still compared to when they are moving quickly across it?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "force",
+    "contact_area",
+    "real_world_application",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The snow is colder when they stand still",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Standing still concentrates their weight over a smaller contact area for longer, creating greater pressure and deeper sinking",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Moving quickly compresses the snow more effectively",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The person's weight increases when they stand still",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Standing still concentrates their weight over a smaller contact area for longer, creating greater pressure and deeper sinking",
+  "explanation": "Pressure is calculated as force divided by area (P = F/A). When a person stands still, their weight (force) acts on the small area of their feet for a long time, creating high pressure that causes the snow to deform and compress beneath them. When moving quickly, the force is distributed over a larger area as they move, and the contact time is shorter, resulting in lower pressure and less sinking.",
+  "source_url": "oak://forces.pressure/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:41.934953",
+  "classified_at": "2026-04-04T20:36:41.934907",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "4242dd8f-a3e0-4dfd-8db9-01911dd706d3",
+  "question_text": "Which of the following will increase the strength of an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "magnetic field strength",
+    "coils",
+    "current",
+    "core material"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Decreasing the electric current",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Using a plastic core instead of an iron core",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Increasing the number of coils of wire",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Making the wire thinner",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Increasing the number of coils of wire",
+  "explanation": "The strength of an electromagnet depends on three main factors: the electric current flowing through it, the number of coils of wire, and the type of core material used. More coils of wire create a stronger magnetic field because each coil contributes to the overall magnetic effect. Using an iron core (not plastic) and increasing the current also strengthen the electromagnet.",
+  "source_url": "oak://electricity.electromagnets/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:22.465861",
+  "classified_at": "2026-04-04T20:45:22.465821",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

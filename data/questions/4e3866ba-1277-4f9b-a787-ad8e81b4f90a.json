@@ -1,0 +1,26 @@
+{
+  "id": "4e3866ba-1277-4f9b-a787-ad8e81b4f90a",
+  "question_text": "A hydraulic system uses an incompressible liquid to multiply force. If a small piston of area 2 cm² is pushed with a force of 50 N, and the large piston has an area of 50 cm², what is the maximum force that can be exerted on the large piston?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulic systems",
+    "pressure",
+    "force multiplication",
+    "incompressible fluids",
+    "Pascal's principle"
+  ],
+  "options": null,
+  "correct_answer": "1250 N",
+  "explanation": "In a hydraulic system, pressure is transmitted equally throughout an incompressible fluid. First, calculate the pressure on the small piston: pressure = force ÷ area = 50 N ÷ 2 cm² = 25 N/cm². Since pressure is the same everywhere, the force on the large piston is: force = pressure × area = 25 N/cm² × 50 cm² = 1250 N. This demonstrates how hydraulic systems can multiply force.",
+  "source_url": "oak://forces.pressure/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:39.983461",
+  "classified_at": "2026-04-04T20:36:39.983423",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

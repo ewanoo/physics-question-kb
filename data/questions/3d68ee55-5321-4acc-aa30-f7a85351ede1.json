@@ -1,0 +1,45 @@
+{
+  "id": "3d68ee55-5321-4acc-aa30-f7a85351ede1",
+  "question_text": "How many poles does every magnet have?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnet poles",
+    "magnetic properties",
+    "fundamental concepts"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "One pole",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Two poles",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Three poles",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It depends on the size of the magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Two poles",
+  "explanation": "Every magnet has exactly two poles: a north pole and a south pole. These poles always exist together. Even if you break a magnet in half, each piece will still have its own north and south pole.",
+  "source_url": "oak://electricity.magnets/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:33.207520",
+  "classified_at": "2026-04-04T20:44:33.207480",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

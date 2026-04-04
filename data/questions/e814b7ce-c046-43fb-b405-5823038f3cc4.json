@@ -1,0 +1,47 @@
+{
+  "id": "e814b7ce-c046-43fb-b405-5823038f3cc4",
+  "question_text": "How does the Moon stay in orbit around Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "orbits",
+    "Moon",
+    "Earth",
+    "celestial mechanics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth's gravity keeps pulling it towards Earth",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Moon pushes itself around Earth",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Moon is stationary and doesn't actually move",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Solar winds push the Moon in a circular path",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Earth's gravity keeps pulling it towards Earth",
+  "explanation": "The Moon stays in orbit around Earth because Earth's gravity continuously pulls on it. The Moon is moving sideways at the same time, so instead of falling straight into Earth, it follows a curved path around it. This balance between gravity pulling inward and the Moon's motion keeps it in a stable orbit.",
+  "source_url": "oak://space.gravity/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:28.652763",
+  "classified_at": "2026-04-04T20:53:28.652725",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

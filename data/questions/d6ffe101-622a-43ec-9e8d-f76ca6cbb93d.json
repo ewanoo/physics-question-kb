@@ -1,0 +1,46 @@
+{
+  "id": "d6ffe101-622a-43ec-9e8d-f76ca6cbb93d",
+  "question_text": "Electric current is defined as the flow of what through a conductor?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "electrons",
+    "conductors",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "electrons only",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "protons and neutrons",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "atoms and molecules",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "energy waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "electrons only",
+  "explanation": "Electric current is the flow of electrons (negatively charged particles) through a conductor. In metals, electrons are free to move and create the electric current when connected in a circuit.",
+  "source_url": "ks3textbook://electricity.current_voltage/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:49.114058",
+  "classified_at": "2026-04-04T20:42:49.114019",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

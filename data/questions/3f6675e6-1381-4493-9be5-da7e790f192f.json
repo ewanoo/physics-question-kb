@@ -1,0 +1,26 @@
+{
+  "id": "3f6675e6-1381-4493-9be5-da7e790f192f",
+  "question_text": "A nichrome wire has a resistance of 24Ω at room temperature. When electric current flows through it, the wire heats up significantly. Explain why the resistance of the wire increases as its temperature rises, and describe the effect this would have on the current if the voltage across the wire remains constant.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "resistance",
+    "temperature",
+    "ohms_law",
+    "electron_flow",
+    "atomic_vibrations"
+  ],
+  "options": null,
+  "correct_answer": "As temperature increases, atoms in the wire vibrate more vigorously, causing more frequent collisions with moving electrons. This increases resistance. If voltage remains constant, using V = IR, an increase in R means current I must decrease proportionally.",
+  "explanation": "When a wire heats up, its atoms vibrate faster. These vibrating atoms get in the way of electrons moving through the wire, making it harder for current to flow - this is what we call increased resistance. Ohm's law (V = IR) tells us that if voltage stays the same but resistance goes up, the current must come down. It's like trying to push water through a pipe that's getting more clogged up - the pressure stays the same but less water flows through.",
+  "source_url": "ks3textbook://electricity.current_voltage/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:29.511526",
+  "classified_at": "2026-04-04T20:43:29.511486",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

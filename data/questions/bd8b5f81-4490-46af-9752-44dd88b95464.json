@@ -1,0 +1,25 @@
+{
+  "id": "bd8b5f81-4490-46af-9752-44dd88b95464",
+  "question_text": "A motor has an efficiency of 80%. If 500 J of electrical energy is supplied to the motor, how much energy is wasted as heat?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy transfer",
+    "percentage calculation",
+    "wasted energy"
+  ],
+  "options": null,
+  "correct_answer": "100 J",
+  "explanation": "Efficiency tells us what fraction of input energy is usefully converted. If efficiency is 80%, then 20% of energy is wasted. To find wasted energy: 20% of 500 J = 0.20 × 500 = 100 J. The remaining 400 J is converted to useful work by the motor.",
+  "source_url": "generate://energy.efficiency/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:46.621271",
+  "classified_at": "2026-04-04T20:54:46.621222",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

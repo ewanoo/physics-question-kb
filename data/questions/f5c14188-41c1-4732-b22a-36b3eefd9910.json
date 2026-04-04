@@ -1,0 +1,25 @@
+{
+  "id": "f5c14188-41c1-4732-b22a-36b3eefd9910",
+  "question_text": "Two forces are acting on a box: one force of 15 N to the right and another force of 15 N to the left. What is the net force on the box and what will happen to it?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "net force",
+    "Newton's laws",
+    "force vectors"
+  ],
+  "options": null,
+  "correct_answer": "The net force is 0 N. The forces are balanced, so the box will remain at rest or continue moving at constant velocity if it was already moving.",
+  "explanation": "When two equal forces act in opposite directions on an object, they cancel each other out completely. This gives a net force of zero. According to Newton's first law, with no net force acting on it, the box will not accelerate—it will either stay still or keep moving at the same speed in the same direction if it was already moving.",
+  "source_url": "generate://forces.balanced/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:27.102349",
+  "classified_at": "2026-04-04T20:55:27.102285",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8ae04d7f-63b4-42dd-9af4-03e59f89706b",
+  "question_text": "An object has a mass of 2400 g and a volume of 3000 cm³. Predict whether this object will float or sink in water (density of water = 1 g/cm³), and justify your answer using a density calculation.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "floating and sinking",
+    "comparing densities",
+    "problem-solving"
+  ],
+  "options": null,
+  "correct_answer": "The object will float. Density = mass ÷ volume = 2400 g ÷ 3000 cm³ = 0.8 g/cm³. Since the object's density (0.8 g/cm³) is less than the density of water (1 g/cm³), the object will float.",
+  "explanation": "To predict whether an object floats or sinks, you need to calculate its density and compare it to the density of the fluid. Using the formula density = mass ÷ volume, this object has a density of 0.8 g/cm³. Since this is less than water's density of 1 g/cm³, the object is less dense than water and will float. Objects float when they are less dense than the liquid they are in, and sink when they are more dense.",
+  "source_url": "ks3textbook://matter.density/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:35.925468",
+  "classified_at": "2026-04-04T20:49:35.925428",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

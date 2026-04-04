@@ -1,0 +1,46 @@
+{
+  "id": "60a2f6c1-6414-4f0c-960f-aedb5e6fa9bb",
+  "question_text": "Which of these is an example of elastic deformation?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic deformation",
+    "springs",
+    "reversible changes",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Stretching a spring that returns to its original shape",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Bending a piece of wood so it stays bent",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Tearing a piece of paper",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Squashing a tin can permanently out of shape",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Stretching a spring that returns to its original shape",
+  "explanation": "Elastic deformation occurs when an object returns to its original shape and size after the force is removed. A spring is designed to do this. The other options show plastic deformation (permanent changes) like bending wood, tearing paper, or permanently squashing a tin can.",
+  "source_url": "oak://forces.springs/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:46.948151",
+  "classified_at": "2026-04-04T20:37:46.948113",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

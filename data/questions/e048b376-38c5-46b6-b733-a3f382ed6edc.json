@@ -1,0 +1,47 @@
+{
+  "id": "e048b376-38c5-46b6-b733-a3f382ed6edc",
+  "question_text": "A book is resting on a table. Which pair of forces are balanced?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "normal force",
+    "weight",
+    "statics",
+    "equilibrium"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of the book pushing down and the normal force from the table pushing up",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The weight of the book and the friction force from the table",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The normal force pushing up and friction pushing sideways",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The weight of the book and the applied force pushing the book sideways",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The weight of the book pushing down and the normal force from the table pushing up",
+  "explanation": "When a book rests on a table, it is stationary because the forces acting on it are balanced. The downward force of the book's weight is equal in size to the upward normal force from the table. These two forces are balanced, meaning there is no net force, so the book does not accelerate. This is why the book stays in place.",
+  "source_url": "generate://forces.balanced/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:20.211817",
+  "classified_at": "2026-04-04T20:55:20.211779",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

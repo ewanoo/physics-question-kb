@@ -1,0 +1,26 @@
+{
+  "id": "3e28bf6a-63b9-4188-b2d3-3f7ba4cc586e",
+  "question_text": "A thermal imaging camera detects infrared radiation emitted by objects at room temperature. Explain why objects at room temperature do not emit visible light in detectable quantities, but do emit significant infrared radiation.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "infrared radiation",
+    "thermal imaging",
+    "Wien's displacement law",
+    "temperature and radiation"
+  ],
+  "options": null,
+  "correct_answer": "All objects emit electromagnetic radiation according to their temperature. At room temperature, objects are not hot enough to emit significant visible light (which requires higher photon energies). In contrast, the peak of their emission spectrum falls in the infrared region, which is why thermal imaging cameras can detect infrared radiation from room temperature objects.",
+  "explanation": "Objects emit different types of electromagnetic radiation depending on how hot they are. Room temperature is not hot enough to make objects glow visibly because visible light requires much more energy per photon. However, room temperature objects still emit radiation - it's just in the infrared (heat radiation) part of the spectrum, which our eyes cannot see but thermal cameras can detect.",
+  "source_url": "ks3textbook://waves.em_spectrum/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:44.563389",
+  "classified_at": "2026-04-04T20:41:44.563348",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

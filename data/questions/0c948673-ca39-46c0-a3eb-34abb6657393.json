@@ -1,0 +1,47 @@
+{
+  "id": "0c948673-ca39-46c0-a3eb-34abb6657393",
+  "question_text": "What is pressure defined as?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "pressure",
+    "force",
+    "area",
+    "fundamental_concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total force acting on an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Force spread over an area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The density of a material",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Force spread over an area",
+  "explanation": "Pressure is defined as force divided by the area over which that force acts. It measures how concentrated or spread out a force is. The formula is pressure = force ÷ area. This is why sharp objects (small area) create higher pressure than blunt objects (large area) when the same force is applied.",
+  "source_url": "oak://forces.pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:04.077660",
+  "classified_at": "2026-04-04T20:36:04.077621",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "a7f411cc-8785-4e48-bd83-d7ed986a45e7",
+  "question_text": "Why are electromagnets useful in scrapyards for lifting cars?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "practical_applications",
+    "magnetic_fields",
+    "control_systems"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because they are lighter than permanent magnets",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because they can be switched on and off to pick up and release metal",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because they only attract aluminium",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because they never lose their magnetism",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Because they can be switched on and off to pick up and release metal",
+  "explanation": "Electromagnets are useful in scrapyards because they can be controlled by switching the electric current on and off. When the current flows, they attract metal objects like cars. When the current is turned off, the magnetic field disappears and the metal is released. This makes them more practical than permanent magnets, which cannot be turned off.",
+  "source_url": "oak://electricity.electromagnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:39.785828",
+  "classified_at": "2026-04-04T20:45:39.785791",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

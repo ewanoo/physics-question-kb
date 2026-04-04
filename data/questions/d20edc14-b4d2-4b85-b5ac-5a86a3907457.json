@@ -1,0 +1,47 @@
+{
+  "id": "d20edc14-b4d2-4b85-b5ac-5a86a3907457",
+  "question_text": "A balloon filled with air at room temperature is placed in a freezer. The balloon becomes slightly smaller. Which explanation best describes this using particle behavior?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "particle_model",
+    "kinetic_energy",
+    "temperature",
+    "pressure",
+    "gas_behavior"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The air particles contract because they are made of smaller particles that shrink when cold",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The air particles move slower and collide with the balloon walls less frequently and with less force, reducing pressure and volume",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Some air particles dissolve into the balloon material when it gets cold",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The particles move faster in cold temperatures to try to escape",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The air particles move slower and collide with the balloon walls less frequently and with less force, reducing pressure and volume",
+  "explanation": "When temperature decreases, air particles have less kinetic energy and move more slowly. This means they hit the balloon walls fewer times per second and with less force each time. The reduced collision frequency and force lower the pressure inside the balloon, causing it to contract slightly. This is a direct application of the particle model to explain real-world observations.",
+  "source_url": "generate://matter.particles/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:54.479733",
+  "classified_at": "2026-04-04T20:46:54.479696",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

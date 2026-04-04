@@ -1,0 +1,27 @@
+{
+  "id": "042c258f-5ade-4448-8c83-f9e64e4e9bac",
+  "question_text": "A student is comparing two processes: melting of ice and evaporation of water. Both require heat energy, but evaporation requires significantly more energy. Using your understanding of intermolecular forces, explain why evaporation requires more energy than melting.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "latent heat",
+    "intermolecular forces",
+    "phase changes",
+    "energy",
+    "evaporation",
+    "melting"
+  ],
+  "options": null,
+  "correct_answer": "Melting breaks some intermolecular bonds but molecules remain close together in liquid form. Evaporation requires breaking all intermolecular bonds so molecules can escape completely and spread far apart. Therefore, evaporation requires more energy than melting because complete separation of molecules requires more energy than partial disruption of the ordered structure.",
+  "explanation": "When ice melts, the heat energy breaks some of the bonds holding molecules in a fixed lattice structure, but the molecules stay close together as a liquid. When water evaporates, the heat energy must break ALL the intermolecular forces completely so molecules can escape as a gas and spread far apart. Since evaporation requires complete separation rather than just loosening the structure, it needs significantly more energy (latent heat of evaporation is much higher than latent heat of fusion).",
+  "source_url": "generate://matter.changes/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:37.838767",
+  "classified_at": "2026-04-04T20:48:37.838728",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

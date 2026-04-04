@@ -1,0 +1,46 @@
+{
+  "id": "54b9b398-d111-4bd0-b786-845593818a80",
+  "question_text": "Gamma rays are dangerous to human tissue primarily because they are which of the following?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic_spectrum",
+    "gamma_rays",
+    "radiation_hazards",
+    "frequency_energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The slowest electromagnetic waves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Highly energetic with very high frequency",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Produced only by the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Able to travel further than other waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Highly energetic with very high frequency",
+  "explanation": "Gamma rays have the highest frequency and energy of all electromagnetic waves. This high energy allows them to ionise atoms in living cells, causing damage to DNA and tissue. This is why gamma rays are dangerous to human health.",
+  "source_url": "ks3textbook://waves.em_spectrum/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:06.386980",
+  "classified_at": "2026-04-04T20:41:06.386945",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

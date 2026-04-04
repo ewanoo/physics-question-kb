@@ -1,0 +1,47 @@
+{
+  "id": "5c776f83-41d2-40e1-900d-945cb1d4f654",
+  "question_text": "A student constructs two circuits using identical 6V batteries. In Circuit A, a single 12Ω resistor is connected. In Circuit B, two 12Ω resistors are connected in series. Which statement correctly compares the current flowing through each circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "series_circuits",
+    "resistance",
+    "current_calculation",
+    "circuit_comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Circuit A has twice the current of Circuit B because the total resistance is half",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Both circuits have the same current because they use the same battery voltage",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Circuit B has greater current because resistors in series decrease total resistance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The current in each circuit depends only on the battery type, not the resistance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Circuit A has twice the current of Circuit B because the total resistance is half",
+  "explanation": "Using Ohm's law (V = IR), we can calculate the current in each circuit. Circuit A: I = 6V ÷ 12Ω = 0.5A. Circuit B: resistors in series add up, so total resistance = 12Ω + 12Ω = 24Ω, giving I = 6V ÷ 24Ω = 0.25A. Circuit A has twice the current because it has half the total resistance. This shows that current is inversely proportional to resistance when voltage is constant.",
+  "source_url": "ks3textbook://electricity.current_voltage/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:26.679037",
+  "classified_at": "2026-04-04T20:43:26.678999",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

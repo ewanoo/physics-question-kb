@@ -1,0 +1,26 @@
+{
+  "id": "4e93ac61-0a2e-4dfb-b9bc-6d82888581d9",
+  "question_text": "State what is meant by the term 'orbit' in the context of the Solar System.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "definitions",
+    "orbital_mechanics",
+    "gravity",
+    "planets",
+    "moons"
+  ],
+  "options": null,
+  "correct_answer": "An orbit is the curved path that an object takes as it travels around another object in space due to gravitational attraction.",
+  "explanation": "Planets move in curved paths around the Sun, and moons move in curved paths around planets. These paths are called orbits and are caused by gravity pulling the objects towards each other. The objects don't fall into the star or planet because they are also moving sideways fast enough to keep missing it.",
+  "source_url": "ks3textbook://space.solar_system/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:47.974703",
+  "classified_at": "2026-04-04T20:49:47.974663",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

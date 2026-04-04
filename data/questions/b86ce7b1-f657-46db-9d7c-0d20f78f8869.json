@@ -1,0 +1,45 @@
+{
+  "id": "b86ce7b1-f657-46db-9d7c-0d20f78f8869",
+  "question_text": "The electromagnetic spectrum is arranged in order of increasing frequency. Which of the following lists four types of electromagnetic radiation in the correct order from lowest to highest frequency?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "frequency ordering",
+    "radiation types"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Visible light, infrared, microwaves, radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Radio waves, microwaves, infrared, visible light",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Microwaves, radio waves, visible light, infrared",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Infrared, visible light, radio waves, microwaves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Radio waves, microwaves, infrared, visible light",
+  "explanation": "The electromagnetic spectrum is arranged in order of increasing frequency. Radio waves have the lowest frequency, followed by microwaves, then infrared radiation, and visible light has a higher frequency than infrared. This ordering is a key concept in understanding the properties of different types of electromagnetic radiation.",
+  "source_url": "ks3textbook://waves.em_spectrum/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:15.125373",
+  "classified_at": "2026-04-04T20:41:15.125332",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

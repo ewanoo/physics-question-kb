@@ -1,0 +1,46 @@
+{
+  "id": "6efd2843-59f6-4a62-bab8-b0c1b3c515d8",
+  "question_text": "During a lunar eclipse, the Moon passes through Earth's shadow. Which celestial alignment must occur for a lunar eclipse to take place?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar eclipse",
+    "celestial alignment",
+    "Earth-Moon-Sun system",
+    "shadows"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun, Earth, and Moon must be in a straight line with Earth between the Sun and Moon",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Moon must be between the Sun and Earth in a straight line",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Sun, Earth, and Moon must form a right angle",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon must be at its closest point to Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Sun, Earth, and Moon must be in a straight line with Earth between the Sun and Moon",
+  "explanation": "A lunar eclipse happens when Earth moves directly between the Sun and Moon. Earth then casts a shadow on the Moon, making the Moon appear dark or reddish. This only occurs when all three bodies line up perfectly, with Earth in the middle.",
+  "source_url": "ks3textbook://space.earth_moon/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:02.632534",
+  "classified_at": "2026-04-04T20:51:02.632493",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

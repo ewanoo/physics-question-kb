@@ -1,0 +1,49 @@
+{
+  "id": "753db845-cfc0-48fa-b055-67367ce88d41",
+  "question_text": "A student conducts an experiment to measure the weight of an object on Earth and then calculates what its weight would be on the Moon, where the gravitational field strength is approximately 1.6 N/kg compared to Earth's 10 N/kg. If the object has a mass of 5 kg, which statement correctly compares the object's mass and weight on both celestial bodies?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "gravitational field strength",
+    "Earth",
+    "Moon",
+    "calculation",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The mass remains 5 kg on both Earth and the Moon, but the weight on the Moon is 8 N compared to 50 N on Earth",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Both the mass and weight remain constant on Earth and the Moon at 5 kg and 50 N respectively",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The mass decreases to 3.2 kg on the Moon, but the weight remains 50 N on both bodies",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The mass increases on the Moon due to reduced gravity, while weight decreases proportionally",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The mass remains 5 kg on both Earth and the Moon, but the weight on the Moon is 8 N compared to 50 N on Earth",
+  "explanation": "Mass is the amount of matter in an object and never changes, no matter where it is. Weight is the force of gravity pulling on that mass, calculated using W = m × g. On Earth with g = 10 N/kg: W = 5 × 10 = 50 N. On the Moon with g = 1.6 N/kg: W = 5 × 1.6 = 8 N. The object weighs less on the Moon because the Moon's gravity is weaker than Earth's.",
+  "source_url": "ks3textbook://forces.gravity/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:25.829037",
+  "classified_at": "2026-04-04T20:57:25.829002",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

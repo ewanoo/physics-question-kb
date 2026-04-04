@@ -1,0 +1,46 @@
+{
+  "id": "05011587-af16-40bf-93d2-0bce0a16e1e0",
+  "question_text": "Which type of electromagnetic radiation is used in hospitals to create images of the internal structures of the human body?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic_spectrum",
+    "X-rays",
+    "medical_imaging",
+    "radiation_properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Infrared radiation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "X-rays",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ultraviolet radiation",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Microwaves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "X-rays",
+  "explanation": "X-rays are a type of electromagnetic radiation with high energy that can pass through soft tissue but are absorbed by denser materials like bone. This makes them ideal for creating images of internal body structures in hospitals. X-rays are positioned between ultraviolet radiation and gamma rays on the electromagnetic spectrum.",
+  "source_url": "ks3textbook://waves.em_spectrum/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:19.116340",
+  "classified_at": "2026-04-04T20:41:19.116300",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

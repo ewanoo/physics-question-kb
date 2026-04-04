@@ -1,0 +1,47 @@
+{
+  "id": "a93e7d14-69fc-4f9e-b17d-0176013558f2",
+  "question_text": "A student designs a circuit with a combination of series and parallel components: two resistors (R₁ and R₂) are connected in series with each other, and this series combination is then connected in parallel with a third resistor (R₃). How does the voltage across R₁ compare with the voltage across R₃?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "parallel circuits",
+    "voltage distribution",
+    "mixed circuits",
+    "circuit analysis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The voltage across R₁ equals the voltage across R₃ because they are both in the same circuit",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The voltage across R₁ is less than the voltage across R₃; the series combination receives less voltage than the parallel resistor",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The voltage across R₁ exceeds the voltage across R₃ because the series connection increases voltage",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The voltages are equal only if R₁ and R₃ have identical resistance values",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The voltage across R₁ is less than the voltage across R₃; the series combination receives less voltage than the parallel resistor",
+  "explanation": "In this mixed circuit, R₃ is connected in parallel with the series combination of R₁ and R₂. When components are in parallel, they experience the same voltage across them. Therefore, the voltage across the entire (R₁ + R₂) series combination equals the voltage across R₃. However, R₁ only receives part of this voltage because it must share it with R₂ in the series path. So the voltage across R₁ alone is less than the voltage across R₃.",
+  "source_url": "ks3textbook://electricity.circuits/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:42.236803",
+  "classified_at": "2026-04-04T20:42:42.236766",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "f183ab23-8828-474d-88fb-bc479faf47fb",
+  "question_text": "Which state of matter can be compressed easily and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "states of matter",
+    "compression",
+    "gas properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solid, because particles are close together with space between them",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid, because it has no definite shape",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gas, because particles are far apart with large spaces between them",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "All states of matter compress equally easily",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gas, because particles are far apart with large spaces between them",
+  "explanation": "Gases are easily compressed because their particles are spread far apart with lots of empty space between them. When you apply pressure to a gas, the particles can move closer together to fill that empty space. In contrast, solids and liquids have particles that are already tightly packed, so they are very difficult to compress.",
+  "source_url": "generate://matter.states/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:20.753858",
+  "classified_at": "2026-04-04T20:47:20.753821",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

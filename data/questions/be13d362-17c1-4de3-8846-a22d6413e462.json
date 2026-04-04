@@ -1,0 +1,47 @@
+{
+  "id": "be13d362-17c1-4de3-8846-a22d6413e462",
+  "question_text": "A student constructs two circuits: Circuit A contains three identical resistors connected in series, whilst Circuit B contains the same three resistors connected in parallel, both powered by identical power supplies. Which statement correctly compares the total resistance in both circuits?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "parallel circuits",
+    "total resistance",
+    "circuit comparison",
+    "Ohm's law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Circuit A has greater total resistance because resistances add in series",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Circuit B has greater total resistance because more paths allow more resistance to accumulate",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both circuits have equal total resistance regardless of configuration",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Circuit A has lower total resistance because components share the voltage equally",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Circuit A has greater total resistance because resistances add in series",
+  "explanation": "In a series circuit, resistances add together: R_total = R₁ + R₂ + R₃. In a parallel circuit, the total resistance is lower because current can take multiple paths. For identical resistors in parallel, the total resistance is less than any single resistor. Therefore, Circuit A (series) always has greater total resistance than Circuit B (parallel).",
+  "source_url": "ks3textbook://electricity.circuits/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:33.036064",
+  "classified_at": "2026-04-04T20:42:33.036026",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

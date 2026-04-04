@@ -1,0 +1,26 @@
+{
+  "id": "c19f9211-eab7-4f1a-b2b3-cf0c7da26d0d",
+  "question_text": "A tuning fork with a frequency of 256 Hz is struck and produces a sound wave. If you create a second sound wave with half the frequency but the same wave speed in air, explain what would happen to the wavelength of the second wave compared to the original wave.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave_equation",
+    "frequency",
+    "wavelength",
+    "inverse_relationship",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The wavelength of the second wave would double. Since wave speed = frequency × wavelength, if frequency is halved and wave speed stays the same, the wavelength must double to compensate.",
+  "explanation": "The wave equation (v = f × λ) shows that frequency and wavelength are inversely related when wave speed is constant. If you halve the frequency but keep the wave speed the same, the wavelength must double to keep the equation balanced. For example, if the first wave has frequency 256 Hz and some wavelength, the second wave at 128 Hz would need twice that wavelength.",
+  "source_url": "generate://waves.properties/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:37.954809",
+  "classified_at": "2026-04-04T20:38:37.954771",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "759ea745-9ac3-48f0-b9a2-2d8fd5f7454b",
+  "question_text": "Uranus and Neptune are both ice giants located in the outer solar system. Compare and contrast the conditions in which these planets formed, and explain why both planets contain water ice and ammonia ice in their composition despite forming at different distances from the Sun.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "ice giants",
+    "planetary formation",
+    "solar system",
+    "composition",
+    "temperature",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Both Uranus and Neptune formed in the extremely cold outer solar system where temperatures were sufficiently low to allow volatile compounds such as water and ammonia to condense into solid ice. Despite forming at different distances from the Sun, both planets accumulated these icy materials because the outer solar system's low temperatures enabled volatile compounds to exist as solids rather than gases. The key distinction is that ice giants contain significantly more 'icy' volatile compounds (water ice and ammonia ice) compared to gas giants, which are composed primarily of hydrogen and helium. The formation conditions in the outer solar system allowed both planets to capture and retain these ices regardless of their slightly different orbital distances.",
+  "explanation": "Ice giants like Uranus and Neptune formed far from the Sun where it's extremely cold. At these low temperatures, water and ammonia freeze into ice and can be captured by the forming planets. Even though Uranus and Neptune are at different distances from the Sun, both are cold enough that these icy materials can exist as solids. This is different from gas giants closer to the Sun, which are too warm to keep these materials frozen and are made mainly of gases instead.",
+  "source_url": "ks3textbook://space.solar_system/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:32.263222",
+  "classified_at": "2026-04-04T20:50:32.263185",
+  "classification_confidence": 0.82,
+  "quality_score": 4.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

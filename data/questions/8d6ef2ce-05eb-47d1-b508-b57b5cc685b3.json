@@ -1,0 +1,27 @@
+{
+  "id": "8d6ef2ce-05eb-47d1-b508-b57b5cc685b3",
+  "question_text": "A green filter is placed over a lamp that emits white light. The filtered light is then directed onto a red piece of paper. Explain why the paper appears black when illuminated by the filtered light.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour",
+    "light",
+    "filters",
+    "absorption",
+    "reflection",
+    "incident light"
+  ],
+  "options": null,
+  "correct_answer": "The green filter only transmits green light. The red paper absorbs green light and reflects red light, but since there is no red light present to reflect, no light is reflected to the observer's eye, so the paper appears black.",
+  "explanation": "For an object to appear a colour, that colour of light must be present in the incident (incoming) light AND the object must be able to reflect it. The green filter removes all colours except green. The red paper naturally reflects red light but absorbs green light. Since only green light reaches the paper and green light is absorbed (not reflected), no light reaches your eye, making the paper appear black.",
+  "source_url": "ks3textbook://waves.colour/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:09.000717",
+  "classified_at": "2026-04-04T20:59:09.000674",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

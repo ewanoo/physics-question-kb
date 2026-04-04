@@ -1,0 +1,26 @@
+{
+  "id": "1dffe59b-dd4e-48d8-a7e5-6e90ee9398b5",
+  "question_text": "A sealed container of gas is heated from 20°C to 40°C. If the pressure was initially 100 kPa, what is the new pressure? (Hint: use absolute temperature in Kelvin.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas laws",
+    "absolute temperature",
+    "pressure",
+    "thermal physics",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 107 kPa",
+  "explanation": "When a gas is heated in a sealed container, its pressure increases. To solve this, we use Gay-Lussac's Law (P₁/T₁ = P₂/T₂), but must convert temperatures to Kelvin first (add 273). Starting with 20°C = 293 K and 40°C = 313 K, we rearrange to find P₂ = (100 × 313) ÷ 293 ≈ 107 kPa. This shows that pressure is proportional to absolute temperature.",
+  "source_url": "oak://matter.gas_pressure/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:51:57.948920",
+  "classified_at": "2026-04-04T20:51:57.948878",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

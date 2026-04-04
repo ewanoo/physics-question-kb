@@ -1,0 +1,27 @@
+{
+  "id": "a7dcbb69-dfed-4489-b4f0-7a81150e86aa",
+  "question_text": "Two levers of different lengths are used to lift the same load. The shorter lever requires a larger force. Explain why, using the concept of moments.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "levers",
+    "equilibrium",
+    "force",
+    "distance",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "To lift the same load, the moment must be the same. Since moment = force × distance, if the distance is smaller on the shorter lever, the force must be larger to produce the same moment.",
+  "explanation": "A lever works by balancing moments around a pivot. Moment is calculated by multiplying force by the perpendicular distance from the pivot. For a lever to lift a load, the turning effect (moment) on both sides of the pivot must be equal. When using a shorter lever, the distance from the pivot is smaller, so a larger force must be applied to create the same moment and lift the load.",
+  "source_url": "oak://forces.moments/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:36.896102",
+  "classified_at": "2026-04-04T20:37:36.896061",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

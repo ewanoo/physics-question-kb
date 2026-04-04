@@ -1,0 +1,47 @@
+{
+  "id": "69365ef9-426a-4967-ac21-4eee1d1ec0f3",
+  "question_text": "A student conducts an experiment comparing sound transmission through different materials. She finds that sound travels fastest through a metal rod, slower through water, and slowest through air at the same temperature. Which of the following best explains this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "sound_transmission",
+    "wave_properties",
+    "particle_model",
+    "density",
+    "mechanical_waves"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound waves are mechanical waves that require a medium, and denser materials with particles closer together allow faster particle-to-particle vibration transfer",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Sound waves have a higher frequency in denser materials, which automatically increases their speed",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Metal and water absorb sound energy more efficiently, causing the sound to travel faster to escape",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed of sound depends only on the type of wave, not on the material it travels through",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Sound waves are mechanical waves that require a medium, and denser materials with particles closer together allow faster particle-to-particle vibration transfer",
+  "explanation": "Sound is a mechanical wave that travels by making particles vibrate and pass the vibration to neighbouring particles. In denser materials like metals, particles are packed more closely together, so vibrations are transferred between particles more quickly, resulting in faster sound speed. This is why sound travels fastest through solids, slower through liquids, and slowest through gases.",
+  "source_url": "ks3textbook://waves.sound/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:26.984403",
+  "classified_at": "2026-04-04T20:58:26.984328",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

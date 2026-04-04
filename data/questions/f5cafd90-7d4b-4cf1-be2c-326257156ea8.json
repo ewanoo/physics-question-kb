@@ -1,0 +1,25 @@
+{
+  "id": "f5cafd90-7d4b-4cf1-be2c-326257156ea8",
+  "question_text": "State what causes the different phases of the Moon as observed from Earth.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon phases",
+    "orbital mechanics",
+    "light and shadow",
+    "observational astronomy"
+  ],
+  "options": null,
+  "correct_answer": "The phases of the Moon are caused by the changing angle of sunlight on the Moon as it orbits Earth, resulting in different amounts of the illuminated side being visible from Earth.",
+  "explanation": "As the Moon moves around Earth, the Sun always lights up one side of it. Depending on where the Moon is in its orbit, we see different amounts of the lit side from Earth. When the Moon is between Earth and the Sun, we see the dark side (new moon). When Earth is between the Moon and Sun, we see the fully lit side (full moon). The phases in between show us gradually more or less of the illuminated side.",
+  "source_url": "ks3textbook://space.earth_moon/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:45.284815",
+  "classified_at": "2026-04-04T20:50:45.284777",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

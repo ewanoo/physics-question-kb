@@ -1,0 +1,25 @@
+{
+  "id": "54211529-9ae6-47e3-b1fe-4cd372e57519",
+  "question_text": "Explain why a sound made in a crowded room with lots of soft furniture seems quieter than the same sound in an empty room with hard walls.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "sound absorption",
+    "sound reflection",
+    "acoustics",
+    "wave properties"
+  ],
+  "options": null,
+  "correct_answer": "Soft materials like furniture absorb sound waves, reducing the amount of sound that is reflected back to our ears. Hard walls reflect sound waves, causing echoes and making the sound appear louder.",
+  "explanation": "Sound travels as waves through the air. When sound waves hit soft materials like furniture, carpets, and curtains, they get trapped in tiny spaces within those materials and their energy is absorbed as heat. This stops the sound from bouncing back. Hard surfaces like bare walls reflect sound waves back into the room, which reinforces the original sound and makes it seem louder. This is why empty rooms with hard walls are noisier than furnished rooms with soft materials.",
+  "source_url": "generate://waves.sound/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:10.174623",
+  "classified_at": "2026-04-04T20:39:10.174586",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

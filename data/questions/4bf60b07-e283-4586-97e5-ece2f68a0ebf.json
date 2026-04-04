@@ -1,0 +1,47 @@
+{
+  "id": "4bf60b07-e283-4586-97e5-ece2f68a0ebf",
+  "question_text": "Which of these is the best reason why electromagnets are used in scrapyard cranes instead of permanent magnets?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "applications",
+    "control",
+    "comparison",
+    "industrial_uses"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electromagnets are cheaper to manufacture",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electromagnets can be switched on and off, allowing metal to be picked up and released",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Electromagnets are stronger than any permanent magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electromagnets don't get hot during use",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Electromagnets can be switched on and off, allowing metal to be picked up and released",
+  "explanation": "Electromagnets are controlled by switching the electric current on and off. This allows the magnetic field to be turned on to pick up metal and turned off to release it. Permanent magnets cannot be switched off, so metal would stick to them permanently, making them impractical for scrapyard cranes that need to repeatedly pick up and drop metal.",
+  "source_url": "oak://electricity.electromagnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:46:00.154734",
+  "classified_at": "2026-04-04T20:46:00.154575",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

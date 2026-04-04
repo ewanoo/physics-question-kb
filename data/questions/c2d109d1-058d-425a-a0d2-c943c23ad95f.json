@@ -1,0 +1,25 @@
+{
+  "id": "c2d109d1-058d-425a-a0d2-c943c23ad95f",
+  "question_text": "A water wave has a wavelength of 2 metres and a frequency of 5 Hz. Calculate the wave speed using the equation: wave speed = frequency × wavelength.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed",
+    "frequency",
+    "wavelength",
+    "formula application"
+  ],
+  "options": null,
+  "correct_answer": "10 m/s",
+  "explanation": "To find wave speed, multiply frequency by wavelength using the equation: wave speed = frequency × wavelength. Here, 5 Hz × 2 m = 10 m/s. This tells us the wave travels 10 metres in one second.",
+  "source_url": "generate://waves.properties/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:15.990079",
+  "classified_at": "2026-04-04T20:38:15.990041",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

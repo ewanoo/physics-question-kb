@@ -1,0 +1,46 @@
+{
+  "id": "b1399065-45d9-4d25-a747-22abc18aed3c",
+  "question_text": "Why does car tyre pressure increase after driving on a hot day?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "particle model",
+    "real-world application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The volume of the tyre increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gas inside heats up, causing particles to move faster",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "More air leaks into the tyre",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The rubber expands and pushes the gas out",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The gas inside heats up, causing particles to move faster",
+  "explanation": "When a car tyre heats up from friction during driving, the gas particles inside gain kinetic energy and move faster. These faster-moving particles collide with the tyre walls more frequently and with greater force, which increases the pressure inside the tyre. This is an application of Gay-Lussac's Law (pressure increases with temperature at constant volume).",
+  "source_url": "oak://matter.gas_pressure/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:51:59.572556",
+  "classified_at": "2026-04-04T20:51:59.572519",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d9f05ea3-4789-4c41-9f35-d9eff9d7954b",
+  "question_text": "Which of the following is the best way to reduce energy waste in a home?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "insulation",
+    "heat loss",
+    "home energy",
+    "practical application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Leave lights on all day and night",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Use thick curtains and loft insulation to reduce heat loss",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Leave windows open in winter",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Use old inefficient appliances",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Use thick curtains and loft insulation to reduce heat loss",
+  "explanation": "Insulation materials like thick curtains and loft insulation trap air and prevent heat energy from escaping through walls, roofs, and windows. This reduces wasted energy and lowers heating costs, making it an effective way to reduce energy waste in homes.",
+  "source_url": "generate://energy.efficiency/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:28.224816",
+  "classified_at": "2026-04-04T20:54:28.224777",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

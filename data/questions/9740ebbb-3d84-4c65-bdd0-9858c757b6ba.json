@@ -1,0 +1,46 @@
+{
+  "id": "9740ebbb-3d84-4c65-bdd0-9858c757b6ba",
+  "question_text": "Which change would have the greatest effect on increasing the strength of an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "magnetic field",
+    "coils",
+    "factors affecting electromagnets"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Increasing the number of coils in the wire",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Making the iron core slightly longer",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Using thicker copper wire for the coil",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Placing the electromagnet closer to a magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Increasing the number of coils in the wire",
+  "explanation": "The strength of an electromagnet depends on the number of coils, the current flowing through it, and the iron core. Increasing the number of coils has the greatest effect because each additional loop adds to the magnetic field. More coils mean more turns of wire carrying current, which creates a significantly stronger magnetic field compared to small changes in core length or wire thickness.",
+  "source_url": "oak://electricity.electromagnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:52.518837",
+  "classified_at": "2026-04-04T20:45:52.518797",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

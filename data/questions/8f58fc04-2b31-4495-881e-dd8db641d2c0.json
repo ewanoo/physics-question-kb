@@ -1,0 +1,28 @@
+{
+  "id": "8f58fc04-2b31-4495-881e-dd8db641d2c0",
+  "question_text": "When a sound wave enters a denser medium from a less dense medium, the speed of the sound increases. Explain why the frequency of the sound remains constant as it moves between these two media.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "wave properties",
+    "frequency",
+    "wavelength",
+    "speed",
+    "medium",
+    "refraction"
+  ],
+  "options": null,
+  "correct_answer": "The frequency remains constant because it is determined by the source of the sound (the vibrating object). Frequency depends on how fast the source vibrates, not on the medium through which the sound travels. Only the speed and wavelength change; they adjust so that the wave equation (v = f × λ) is satisfied in each medium.",
+  "explanation": "Frequency is a property of the vibrating object that produces the sound. When sound moves from one medium to another, the source continues vibrating at the same rate, so the frequency stays the same. However, sound travels at different speeds in different materials. Since v = f × λ, when speed increases but frequency stays constant, the wavelength must also increase to balance the equation.",
+  "source_url": "ks3textbook://waves.sound/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:10.034749",
+  "classified_at": "2026-04-04T20:58:10.034712",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

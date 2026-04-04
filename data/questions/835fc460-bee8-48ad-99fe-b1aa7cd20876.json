@@ -1,0 +1,26 @@
+{
+  "id": "835fc460-bee8-48ad-99fe-b1aa7cd20876",
+  "question_text": "An astronaut has a mass of 80 kg. The gravitational field strength on the Moon is approximately 1.6 N/kg. What is the astronaut's weight on the Moon?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field strength",
+    "moon",
+    "W=mg"
+  ],
+  "options": null,
+  "correct_answer": "128 N",
+  "explanation": "Weight is calculated using the formula W = m × g, where m is mass in kilograms and g is gravitational field strength in N/kg. On the Moon, g = 1.6 N/kg, so the astronaut's weight is 80 × 1.6 = 128 N. This shows that weight changes depending on location, but mass stays the same.",
+  "source_url": "ks3textbook://forces.gravity/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:04.881447",
+  "classified_at": "2026-04-04T20:57:04.881402",
+  "classification_confidence": 0.98,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

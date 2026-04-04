@@ -1,0 +1,46 @@
+{
+  "id": "40148f08-8b2a-4f47-a812-38ae15b86094",
+  "question_text": "What is the law of reflection?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "law of reflection",
+    "angle of incidence",
+    "angle of reflection",
+    "light behavior"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The angle of incidence is always greater than the angle of reflection",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The angle of incidence equals the angle of reflection",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Light always reflects at 90 degrees to the surface",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The angle of incidence equals twice the angle of reflection",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The angle of incidence equals the angle of reflection",
+  "explanation": "The law of reflection is a fundamental rule about how light behaves when it bounces off a surface. It states that the angle at which light hits a surface (measured from an imaginary line called the normal, which is perpendicular to the surface) equals the angle at which the light bounces away. Both angles are measured from this normal line.",
+  "source_url": "generate://waves.light/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:48.227264",
+  "classified_at": "2026-04-04T20:39:48.227227",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

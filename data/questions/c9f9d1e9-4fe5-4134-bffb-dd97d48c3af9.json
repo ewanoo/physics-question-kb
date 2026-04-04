@@ -1,0 +1,29 @@
+{
+  "id": "c9f9d1e9-4fe5-4134-bffb-dd97d48c3af9",
+  "question_text": "Compare the arrangement and movement of particles in a liquid with the arrangement and movement of particles in a gas. Explain why a liquid has a fixed volume but a gas does not.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "liquids",
+    "gases",
+    "particle arrangement",
+    "particle movement",
+    "volume",
+    "kinetic energy",
+    "intermolecular forces"
+  ],
+  "options": null,
+  "correct_answer": "In a liquid, particles are close together but can move around each other freely. In a gas, particles are far apart with very weak forces between them and move rapidly in all directions. A liquid has a fixed volume because the particles are held closely together by relatively strong attractive forces, preventing significant compression or expansion. A gas does not have a fixed volume because particles have high kinetic energy and are far apart with negligible attractive forces, allowing them to spread out and fill any container.",
+  "explanation": "Liquids and gases differ in how their particles are arranged and how strongly they attract each other. In liquids, particles are tightly packed and move slowly around each other, maintaining the same volume. In gases, particles are far apart and move very fast in random directions, spreading to fill their container completely. The difference in fixed volume comes down to the strength of forces between particles—liquids have stronger intermolecular forces that keep the volume constant, while gases have such weak forces that particles can escape and expand freely.",
+  "source_url": "generate://matter.states/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:42.430219",
+  "classified_at": "2026-04-04T20:47:42.430176",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

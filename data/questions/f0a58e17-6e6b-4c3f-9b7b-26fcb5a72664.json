@@ -1,0 +1,47 @@
+{
+  "id": "f0a58e17-6e6b-4c3f-9b7b-26fcb5a72664",
+  "question_text": "A student builds two electromagnets: one with a 9V battery and one with a 3V battery, both with the same wire coil. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "voltage",
+    "current",
+    "magnetic field",
+    "circuit design"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The 3V electromagnet will be stronger because less heat is wasted",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The 9V electromagnet will be stronger because higher voltage creates more current",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both electromagnets will be equally strong because they use the same coil",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The 3V electromagnet will be stronger because it uses less energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The 9V electromagnet will be stronger because higher voltage creates more current",
+  "explanation": "In a circuit with the same resistance (same wire coil), higher voltage causes more current to flow through the coil. Since the strength of an electromagnet depends on the current flowing through it, the 9V battery produces a stronger magnetic field than the 3V battery.",
+  "source_url": "oak://electricity.electromagnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:56.691838",
+  "classified_at": "2026-04-04T20:45:56.691799",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "275447de-84e9-4be7-a411-9600ba09b2da",
+  "question_text": "A spring stretches by 0.5 m when a force of 25 N is applied. A student wants to create a new spring that stretches only 0.25 m when the same 25 N force is applied. What spring constant should the new spring have?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "comparison",
+    "inverse relationship"
+  ],
+  "options": null,
+  "correct_answer": "100 N/m",
+  "explanation": "Using Hooke's law (F = ke), we can find the spring constant k by rearranging to k = F ÷ e. The original spring has k = 25 ÷ 0.5 = 50 N/m. For the new spring to stretch only half as far (0.25 m) with the same force (25 N), it must be stiffer. The new spring constant is k = 25 ÷ 0.25 = 100 N/m. A larger spring constant means a stiffer spring that stretches less.",
+  "source_url": "generate://forces.springs/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:35.054131",
+  "classified_at": "2026-04-04T20:56:35.054092",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

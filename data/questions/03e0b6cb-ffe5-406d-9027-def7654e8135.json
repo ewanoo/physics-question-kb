@@ -1,0 +1,25 @@
+{
+  "id": "03e0b6cb-ffe5-406d-9027-def7654e8135",
+  "question_text": "A student stretches a spring and measures the extension. They then stretch it twice as far. Explain what happens to the force needed to stretch the spring to this new distance, using Hooke's law.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "proportionality",
+    "elastic_limit",
+    "force_extension_relationship"
+  ],
+  "options": null,
+  "correct_answer": "The force needed doubles. According to Hooke's law (F = k × e), if the extension (e) doubles and the spring constant (k) stays the same, the force (F) must also double.",
+  "explanation": "Hooke's law tells us that force is directly proportional to extension (F = k × e). This means if you double the extension, you must also double the force needed to stretch the spring. The spring constant (k) doesn't change for the same spring, so the relationship is always linear until the spring reaches its elastic limit.",
+  "source_url": "generate://forces.springs/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:32.943795",
+  "classified_at": "2026-04-04T20:56:32.943753",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

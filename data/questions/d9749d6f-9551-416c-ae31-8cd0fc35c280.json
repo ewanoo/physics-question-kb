@@ -1,0 +1,46 @@
+{
+  "id": "d9749d6f-9551-416c-ae31-8cd0fc35c280",
+  "question_text": "Which of the following factors does NOT affect the weight of an object on Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field strength",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The mass of the object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The colour of the object",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The gravitational field strength at that location",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The altitude above Earth's surface",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The colour of the object",
+  "explanation": "Weight is calculated using the formula W = m × g, where m is mass and g is gravitational field strength. Weight depends only on these two factors. The colour of an object has no physical effect on its weight. Mass, gravitational field strength, and altitude (which affects g) all influence weight, but colour does not.",
+  "source_url": "ks3textbook://forces.gravity/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:08.607646",
+  "classified_at": "2026-04-04T20:57:08.607607",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

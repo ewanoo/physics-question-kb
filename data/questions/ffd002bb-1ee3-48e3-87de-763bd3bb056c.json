@@ -1,0 +1,46 @@
+{
+  "id": "ffd002bb-1ee3-48e3-87de-763bd3bb056c",
+  "question_text": "The Sun's gravitational pull affects both the Earth and the Moon. Which statement correctly describes the gravitational relationship in the Earth-Moon-Sun system?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "gravitational_force",
+    "distance_effect",
+    "orbital_mechanics",
+    "Earth-Moon-Sun_system"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun's gravity on the Moon is weaker than Earth's gravity on the Moon, so the Moon orbits Earth",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Moon's gravity prevents Earth from orbiting the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Earth's gravity is stronger than the Sun's gravity at all distances",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Sun orbits the Moon due to gravitational attraction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Sun's gravity on the Moon is weaker than Earth's gravity on the Moon, so the Moon orbits Earth",
+  "explanation": "Although the Sun is much more massive than Earth, the Moon is much closer to Earth than to the Sun. Gravitational force depends on both mass and distance. Because distance has a strong effect (inverse square law), Earth's gravitational pull on the Moon is stronger than the Sun's pull. This is why the Moon orbits Earth rather than orbiting the Sun directly.",
+  "source_url": "ks3textbook://space.earth_moon/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:08.347707",
+  "classified_at": "2026-04-04T20:51:08.347668",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

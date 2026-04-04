@@ -1,0 +1,46 @@
+{
+  "id": "9be19a92-cb75-4493-9350-9b142faf58ed",
+  "question_text": "What is the name of Earth's path around the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth motion",
+    "orbital mechanics",
+    "terminology",
+    "definition recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Revolution",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Rotation",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Orbit",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Axis",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Revolution",
+  "explanation": "Revolution is the name for Earth's yearly movement around the Sun. This is different from rotation, which is Earth spinning on its axis once every 24 hours. Orbit is a related term but revolution is the specific name for this motion.",
+  "source_url": "oak://space.seasons/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:34.453838",
+  "classified_at": "2026-04-04T20:52:34.453802",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

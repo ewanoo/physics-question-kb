@@ -1,0 +1,26 @@
+{
+  "id": "fbd8a720-f00b-41fe-9152-90557f2a4e7c",
+  "question_text": "A water wave in a tank is created by a vibrating paddle. The paddle vibrates 5 times per second and creates waves with a wavelength of 0.4 m. Explain how you would calculate the speed of the waves, and then calculate what the wave speed would be.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "frequency",
+    "wavelength",
+    "wave speed",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Wave speed = frequency × wavelength. With frequency = 5 Hz and wavelength = 0.4 m, wave speed = 5 × 0.4 = 2 m/s",
+  "explanation": "The wave equation (wave speed = frequency × wavelength) is a key formula in KS3 physics. Frequency is the number of vibrations per second (5 Hz), and wavelength is the distance between waves (0.4 m). Multiplying these together gives the speed at which the wave travels through the water: 2 m/s.",
+  "source_url": "generate://waves.properties/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:35.937180",
+  "classified_at": "2026-04-04T20:38:35.937142",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

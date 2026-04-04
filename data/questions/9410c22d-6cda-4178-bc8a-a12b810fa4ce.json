@@ -1,0 +1,26 @@
+{
+  "id": "9410c22d-6cda-4178-bc8a-a12b810fa4ce",
+  "question_text": "A skydiver falls at terminal velocity (constant speed). Explain why the skydiver is not accelerating even though gravity is pulling them downwards. Use the term 'resultant force' in your answer.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "terminal velocity",
+    "balanced forces",
+    "resultant force",
+    "Newton's laws",
+    "air resistance"
+  ],
+  "options": null,
+  "correct_answer": "At terminal velocity, the downward gravitational force equals the upward air resistance force. The resultant force is zero, so there is no acceleration. When forces are balanced, the skydiver continues at constant velocity.",
+  "explanation": "A skydiver accelerates downwards when they first jump because gravity is stronger than air resistance. As they speed up, air resistance increases. Eventually, air resistance becomes equal to the gravitational force pulling them down. When these forces are balanced, the resultant (total) force is zero. With no resultant force, there is no acceleration, and the skydiver continues falling at a constant speed called terminal velocity.",
+  "source_url": "generate://forces.balanced/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:46.999081",
+  "classified_at": "2026-04-04T20:55:46.999042",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

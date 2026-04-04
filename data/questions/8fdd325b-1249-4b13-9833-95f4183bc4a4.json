@@ -1,0 +1,26 @@
+{
+  "id": "8fdd325b-1249-4b13-9833-95f4183bc4a4",
+  "question_text": "A liquid is heated until it becomes a gas. Describe what happens to the particles during this change of state.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "evaporation",
+    "boiling",
+    "particle model",
+    "kinetic energy",
+    "phase change"
+  ],
+  "options": null,
+  "correct_answer": "The particles gain energy and move faster. The attractive forces between particles are overcome, allowing them to escape and move freely as a gas. The particles become more spread out and separated.",
+  "explanation": "When a liquid is heated, particles gain kinetic energy and move faster. This increased movement allows particles to overcome the attractive forces holding them together in the liquid state. Particles then escape into the gas phase, where they move freely and are spread far apart with much weaker intermolecular forces.",
+  "source_url": "generate://matter.states/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:22.809448",
+  "classified_at": "2026-04-04T20:47:22.809407",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

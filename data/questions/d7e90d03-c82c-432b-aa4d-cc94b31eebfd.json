@@ -1,0 +1,47 @@
+{
+  "id": "d7e90d03-c82c-432b-aa4d-cc94b31eebfd",
+  "question_text": "How does an object become positively charged through friction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "charging by friction",
+    "electron transfer",
+    "charge",
+    "particle model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It gains extra electrons",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It loses electrons to another material",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It gains protons from friction",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It is heated by friction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It loses electrons to another material",
+  "explanation": "When two materials rub together during friction, electrons can be transferred from one material to the other. An object becomes positively charged when it loses electrons because it then has more protons (positive charges) than electrons (negative charges). The positive charges are no longer balanced by negative charges.",
+  "source_url": "oak://electricity.static/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:43:49.919508",
+  "classified_at": "2026-04-04T20:43:49.919470",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

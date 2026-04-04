@@ -1,0 +1,25 @@
+{
+  "id": "50ab1e6b-3705-477b-838b-72c73ef22471",
+  "question_text": "Define the term 'colour filter' and explain what it means when a filter is described as 'absorbing' light.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "light absorption",
+    "transmission",
+    "wavelengths"
+  ],
+  "options": null,
+  "correct_answer": "A colour filter is a transparent material that selectively transmits certain colours of light whilst absorbing others. When a filter absorbs light, it means that particular wavelengths (colours) are removed from the beam and do not pass through the filter.",
+  "explanation": "Colour filters work by letting some colours of light pass through (transmission) while stopping others (absorption). When light is absorbed by a filter, that energy is taken out of the light beam - those colours simply don't come out the other side. For example, a red filter absorbs all colours except red, so only red light passes through.",
+  "source_url": "ks3textbook://waves.colour/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:53.598747",
+  "classified_at": "2026-04-04T20:58:53.598709",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

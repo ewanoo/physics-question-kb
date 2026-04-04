@@ -1,0 +1,46 @@
+{
+  "id": "5ad77ce7-8fd7-4fd8-8a78-9987a49840ff",
+  "question_text": "Which of these is NOT a way to increase the strength of an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "magnetic fields",
+    "factors affecting strength",
+    "core materials"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Add more coils of wire around the iron core",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increase the current through the wire",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Use a plastic core instead of an iron core",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Use thicker copper wire",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Use a plastic core instead of an iron core",
+  "explanation": "Iron cores greatly enhance the strength of an electromagnet because iron is a ferromagnetic material that concentrates and amplifies the magnetic field. Plastic is non-magnetic and would not enhance the field, making it the only option that would NOT increase electromagnet strength. The other three options (more coils, increased current, and thicker wire) all genuinely increase electromagnet strength.",
+  "source_url": "oak://electricity.electromagnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:37.954806",
+  "classified_at": "2026-04-04T20:45:37.954768",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

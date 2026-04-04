@@ -1,0 +1,46 @@
+{
+  "id": "2f653bf6-4394-4ff8-ad0d-10943092c0b8",
+  "question_text": "Which diagram best shows the magnetic field pattern around a bar magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic fields",
+    "bar magnet",
+    "field lines",
+    "direction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Field lines going in random directions",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Field lines flowing from north pole to south pole",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Field lines only at the surface of the magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Field lines spiralling around the magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Field lines flowing from north pole to south pole",
+  "explanation": "Magnetic field lines always flow from the north pole to the south pole of a magnet. This is true both outside the magnet (which we can see) and inside it. The field lines show the direction and strength of the magnetic field - they are closer together where the field is stronger (near the poles) and spread out further away.",
+  "source_url": "oak://electricity.magnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:50.378787",
+  "classified_at": "2026-04-04T20:44:50.378747",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

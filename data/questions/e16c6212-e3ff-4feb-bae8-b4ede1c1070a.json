@@ -1,0 +1,46 @@
+{
+  "id": "e16c6212-e3ff-4feb-bae8-b4ede1c1070a",
+  "question_text": "Which statement best describes the particle model of matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "matter",
+    "states of matter",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All matter is made of tiny particles that are always stationary and tightly packed together",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All matter is made of tiny particles that are always moving and have spaces between them",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Only gases are made of particles; solids and liquids are continuous",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles in solids move faster than particles in liquids",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "All matter is made of tiny particles that are always moving and have spaces between them",
+  "explanation": "The particle model of matter explains that all substances (solids, liquids, and gases) are made of tiny particles. These particles are constantly moving in random directions and have spaces between them. The differences between solids, liquids, and gases come from how tightly packed the particles are and how fast they move, not from whether they have particles or not.",
+  "source_url": "generate://matter.particles/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:24.672470",
+  "classified_at": "2026-04-04T20:46:24.672433",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

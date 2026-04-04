@@ -1,0 +1,26 @@
+{
+  "id": "a1f44409-2202-4d5f-8f66-0e96c9ca36ad",
+  "question_text": "A musician plucks a guitar string and observes that the resulting wave has a wavelength of 0.8 m. If the string vibrates at a frequency of 250 Hz, what is the wave speed of the vibration along the string?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "wave speed",
+    "frequency",
+    "wavelength",
+    "guitar string"
+  ],
+  "options": null,
+  "correct_answer": "200 m/s",
+  "explanation": "To find wave speed, use the wave equation: wave speed = frequency × wavelength. Here, 250 Hz × 0.8 m = 200 m/s. This is a straightforward single-step calculation using the standard wave equation taught at KS3.",
+  "source_url": "generate://waves.properties/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:34.068485",
+  "classified_at": "2026-04-04T20:38:34.068439",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

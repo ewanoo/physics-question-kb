@@ -1,0 +1,47 @@
+{
+  "id": "40e85ceb-147b-4c72-ae07-d86168915c0e",
+  "question_text": "Which of the following best describes pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "pressure",
+    "force",
+    "area",
+    "conceptual"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total force acting on an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The force spread over a surface area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which something moves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The force spread over a surface area",
+  "explanation": "Pressure is defined as force per unit area. It describes how concentrated or spread out a force is over a surface. A smaller area with the same force creates higher pressure, while the same force spread over a larger area creates lower pressure.",
+  "source_url": "oak://forces.pressure/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:18.244332",
+  "classified_at": "2026-04-04T20:36:18.244295",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

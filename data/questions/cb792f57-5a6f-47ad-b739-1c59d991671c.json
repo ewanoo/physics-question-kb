@@ -1,0 +1,26 @@
+{
+  "id": "cb792f57-5a6f-47ad-b739-1c59d991671c",
+  "question_text": "Explain why an object's weight would be different on Jupiter compared to on Earth, even though its mass remains the same.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field strength",
+    "gravity",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Jupiter has a stronger gravitational field than Earth (approximately 25 N/kg compared to 10 N/kg), so the gravitational force acting on the object's mass is greater, resulting in a larger weight.",
+  "explanation": "Weight is calculated by multiplying mass by gravitational field strength (W = m × g). Although an object's mass stays the same everywhere, the gravitational field strength differs between planets. Jupiter's stronger gravity pulls more forcefully on the same mass, making the object weigh more on Jupiter than on Earth.",
+  "source_url": "ks3textbook://forces.gravity/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:07.016423",
+  "classified_at": "2026-04-04T20:57:07.016381",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

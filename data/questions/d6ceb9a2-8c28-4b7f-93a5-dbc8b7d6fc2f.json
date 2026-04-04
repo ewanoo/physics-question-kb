@@ -1,0 +1,26 @@
+{
+  "id": "d6ceb9a2-8c28-4b7f-93a5-dbc8b7d6fc2f",
+  "question_text": "Describe what happens to the number of daylight hours as we move from winter to summer in the Northern Hemisphere.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "daylight hours",
+    "seasons",
+    "Northern Hemisphere",
+    "Earth's tilt",
+    "seasonal variation"
+  ],
+  "options": null,
+  "correct_answer": "The number of daylight hours increases. There are more hours of sunlight in summer than in winter.",
+  "explanation": "As the Northern Hemisphere tilts towards the Sun during spring and summer, the Sun stays above the horizon for longer each day, so there are more hours of daylight. In winter, when the hemisphere tilts away from the Sun, daylight hours are shorter.",
+  "source_url": "oak://space.seasons/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:36.084238",
+  "classified_at": "2026-04-04T20:52:36.084203",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

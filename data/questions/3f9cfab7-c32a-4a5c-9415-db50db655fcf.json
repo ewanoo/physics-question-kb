@@ -1,0 +1,47 @@
+{
+  "id": "3f9cfab7-c32a-4a5c-9415-db50db655fcf",
+  "question_text": "The human ear can detect sound frequencies approximately between 20 Hz and 20,000 Hz. What term is used to describe sound frequencies above the upper limit of human hearing?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "frequency",
+    "human hearing",
+    "ultrasound",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Infrasound",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ultrasound",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Subsonic sound",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Hypersound",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Ultrasound",
+  "explanation": "Ultrasound refers to sound waves with frequencies above 20,000 Hz, which are too high-pitched for humans to hear. This is in contrast to infrasound, which describes sound frequencies below 20 Hz that are too low-pitched for human hearing.",
+  "source_url": "ks3textbook://waves.sound/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:48.542116",
+  "classified_at": "2026-04-04T20:57:48.542067",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

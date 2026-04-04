@@ -1,0 +1,26 @@
+{
+  "id": "646fc0a7-1f0f-44b4-b18a-d8dd3a2a7109",
+  "question_text": "A rubber band and a metal spring are both stretched with increasing forces. Compare and explain how Hooke's law applies to each object, and discuss what happens if they are stretched too far.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "hooke's law",
+    "elastic limit",
+    "material properties",
+    "comparison",
+    "elastic deformation"
+  ],
+  "options": null,
+  "correct_answer": "For small extensions, both follow Hooke's law with a proportional relationship between force and extension. However, the rubber band typically stops obeying Hooke's law before the metal spring does. The rubber band loses elasticity more readily than metal springs because its material properties change with stretching. Beyond the elastic limit, permanent deformation occurs.",
+  "explanation": "Hooke's law (F = ke) applies to elastic materials when they stretch proportionally with force. Metal springs maintain this linear relationship over a larger range than rubber bands. Rubber bands reach their elastic limit sooner because their polymer structure is more easily disrupted. Once stretched beyond the elastic limit, objects permanently deform and don't return to their original shape.",
+  "source_url": "generate://forces.springs/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:37.255659",
+  "classified_at": "2026-04-04T20:56:37.255621",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

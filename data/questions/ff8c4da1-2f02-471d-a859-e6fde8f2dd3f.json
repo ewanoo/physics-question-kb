@@ -1,0 +1,47 @@
+{
+  "id": "ff8c4da1-2f02-471d-a859-e6fde8f2dd3f",
+  "question_text": "Which of the following is the correct definition of density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "definition",
+    "density",
+    "mass",
+    "volume",
+    "particle_model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The mass of a substance divided by its volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The weight of a substance divided by its mass",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The volume of a substance divided by its area",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total amount of matter in an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The mass of a substance divided by its volume",
+  "explanation": "Density measures how tightly packed the particles in a substance are. It is calculated by dividing the mass of a substance by its volume (density = mass ÷ volume). This tells us how much mass is contained in a given space.",
+  "source_url": "ks3textbook://matter.density/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:48:47.923581",
+  "classified_at": "2026-04-04T20:48:47.923538",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

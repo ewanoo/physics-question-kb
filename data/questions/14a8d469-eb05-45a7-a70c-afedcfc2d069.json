@@ -1,0 +1,26 @@
+{
+  "id": "14a8d469-eb05-45a7-a70c-afedcfc2d069",
+  "question_text": "Describe what happens to an uncharged conductor when a positively charged object is brought near it without touching it.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "polarisation",
+    "charge separation",
+    "conductors",
+    "electrostatics",
+    "electron movement"
+  ],
+  "options": null,
+  "correct_answer": "Electrons in the conductor are attracted towards the positive charge and move to the near end, leaving the far end with a deficit of electrons (positive). The conductor becomes temporarily polarised.",
+  "explanation": "In a conductor, electrons are free to move around. When a positively charged object is brought nearby, it attracts the negative electrons towards it, causing them to concentrate at the near end. This leaves the far end with fewer electrons, making it positive. This temporary charge separation is called polarisation and happens without any charge actually transferring to the conductor.",
+  "source_url": "oak://electricity.static/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:03.441456",
+  "classified_at": "2026-04-04T20:44:03.441412",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

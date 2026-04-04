@@ -1,0 +1,47 @@
+{
+  "id": "cccefb21-aae2-4820-9227-583845c04beb",
+  "question_text": "Two identical containers are filled with the same volume of different liquids. Container X contains oil (density = 920 kg/m³) and container Y contains brine solution (density = 1100 kg/m³). Which statement correctly compares the masses of the liquids in the two containers?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "mass",
+    "volume",
+    "comparison",
+    "problem-solving"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both containers have the same mass because they have the same volume",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Container X has greater mass because oil is less dense",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Container Y has greater mass because the brine solution is more dense",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The mass cannot be determined without knowing the container dimensions",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Container Y has greater mass because the brine solution is more dense",
+  "explanation": "Since density = mass ÷ volume, we can rearrange this to mass = density × volume. Both containers have the same volume, so the container with the higher density will have the greater mass. Brine solution (1100 kg/m³) is denser than oil (920 kg/m³), therefore container Y has greater mass.",
+  "source_url": "ks3textbook://matter.density/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:12.563997",
+  "classified_at": "2026-04-04T20:49:12.563952",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

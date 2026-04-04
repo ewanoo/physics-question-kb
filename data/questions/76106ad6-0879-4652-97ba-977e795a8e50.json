@@ -1,0 +1,47 @@
+{
+  "id": "76106ad6-0879-4652-97ba-977e795a8e50",
+  "question_text": "Which statement correctly describes what happens when an object with a density of 0.8 g/cm³ is placed in liquid water with a density of 1.0 g/cm³?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "buoyancy",
+    "comparing densities"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object will sink to the bottom of the container",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The object will float partially submerged in the water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The object will remain suspended in the middle of the water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object will float at the surface without touching the water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The object will float partially submerged in the water",
+  "explanation": "When an object's density is less than the density of a liquid, it floats. Since 0.8 g/cm³ is less than 1.0 g/cm³, the object floats. It floats partially submerged because only enough of the object needs to be underwater to displace a mass of water equal to the object's own mass.",
+  "source_url": "ks3textbook://matter.density/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:48:54.145140",
+  "classified_at": "2026-04-04T20:48:54.145102",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

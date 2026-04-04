@@ -1,0 +1,26 @@
+{
+  "id": "20974c7b-df8f-4566-a30f-20d92dbf4075",
+  "question_text": "Calculate the efficiency of a kettle that uses 2000 J of electrical energy to heat 1600 J of water. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy transfer",
+    "calculation",
+    "kettle",
+    "useful energy"
+  ],
+  "options": null,
+  "correct_answer": "80%",
+  "explanation": "Efficiency tells us how much of the energy input is actually used for the useful job (heating water) rather than being wasted. We use the formula: efficiency = (useful energy output ÷ total energy input) × 100. Here, 1600 J heats the water (useful) out of 2000 J input, so efficiency = (1600 ÷ 2000) × 100 = 80%. The missing 400 J is wasted as heat through the kettle's sides and as steam.",
+  "source_url": "generate://energy.efficiency/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:32.291210",
+  "classified_at": "2026-04-04T20:54:32.291169",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "6573feac-400a-4612-9cab-d7d28634fe2f",
+  "question_text": "State the SI unit used to measure density.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "SI units",
+    "density",
+    "definition recall"
+  ],
+  "options": null,
+  "correct_answer": "kilograms per cubic metre (kg/m³) or kg m⁻³",
+  "explanation": "Density measures how much mass is packed into a certain volume. The SI unit for density is kilograms per cubic metre (kg/m³). This means it tells you how many kilograms of material fit into one cubic metre of space. In some KS3 contexts, you might also see grams per cubic centimetre (g/cm³) used, but kg/m³ is the official SI unit.",
+  "source_url": "ks3textbook://matter.density/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:48:55.830602",
+  "classified_at": "2026-04-04T20:48:55.830552",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

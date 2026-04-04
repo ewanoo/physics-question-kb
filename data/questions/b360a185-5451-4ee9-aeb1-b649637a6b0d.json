@@ -1,0 +1,28 @@
+{
+  "id": "b360a185-5451-4ee9-aeb1-b649637a6b0d",
+  "question_text": "A scuba diver experiences increased water pressure as they dive deeper. Explain why the pressure increases with depth, and why this is different from how pressure works in a gas.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "liquids",
+    "gases",
+    "depth",
+    "density",
+    "incompressibility",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Water pressure increases with depth because the weight of all the water above pushes down on the water below. Unlike gases, liquids are incompressible, so their density remains constant at different depths. This means the pressure increase is due to the cumulative weight of the water column. In gases, pressure can change through compression or temperature changes without significant depth effects, and gases are compressible.",
+  "explanation": "As you go deeper underwater, there is more water above you. All that water has weight, and this weight pushes down, creating pressure. Water cannot be squeezed (compressed) like air can, so the density stays the same. This means pressure increases steadily with depth. In gases, particles are far apart and can be squeezed closer together, so pressure changes differently—mainly through compression and temperature rather than depth.",
+  "source_url": "oak://forces.pressure/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:44.907832",
+  "classified_at": "2026-04-04T20:36:44.907791",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

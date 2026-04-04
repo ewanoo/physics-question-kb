@@ -1,0 +1,47 @@
+{
+  "id": "50e71d2b-ef3a-4446-8e64-89a6c3cd5b44",
+  "question_text": "A bat uses echolocation to detect insects. The bat emits a sound wave at a frequency of 40 kHz, which reflects off an insect and returns to the bat. The returning echo has a slightly higher frequency than the emitted sound. What does this indicate about the insect's motion, and which physical principle explains this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "doppler_effect",
+    "echolocation",
+    "sound_waves",
+    "frequency",
+    "relative_motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The insect is moving away from the bat; this is explained by the Doppler effect",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The insect is moving towards the bat; this is explained by the Doppler effect occurring twice (once when the sound reaches the insect, and again when the echo returns)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The insect is stationary, and the higher frequency results from the sound reflecting off a moving bat",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The insect is moving towards the bat; this is explained by a change in the speed of sound near the insect",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The insect is moving towards the bat; this is explained by the Doppler effect occurring twice (once when the sound reaches the insect, and again when the echo returns)",
+  "explanation": "When an insect moves towards the bat, it receives sound waves that are compressed (higher frequency). The insect then reflects this already higher-frequency sound back towards the bat. Since the insect is moving towards the bat while acting as a sound source, the returning echo experiences another compression effect. This double Doppler shift results in a noticeably higher frequency than the original emitted sound, allowing the bat to detect that the insect is approaching.",
+  "source_url": "ks3textbook://waves.sound/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:36.409810",
+  "classified_at": "2026-04-04T20:58:36.409772",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

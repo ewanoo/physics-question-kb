@@ -1,0 +1,25 @@
+{
+  "id": "99f7d451-e28d-48d5-93ea-5948995266f3",
+  "question_text": "Name the process by which a liquid turns into a gas.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "changes of state",
+    "evaporation",
+    "particle model",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Evaporation",
+  "explanation": "Evaporation is the process where a liquid changes into a gas. This happens when particles in the liquid gain enough thermal energy to escape from the surface and move into the gas state. Boiling is a specific type of evaporation that occurs at a fixed temperature (the boiling point) throughout the liquid.",
+  "source_url": "generate://matter.states/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:06.002506",
+  "classified_at": "2026-04-04T20:47:06.002470",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

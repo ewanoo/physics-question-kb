@@ -1,0 +1,26 @@
+{
+  "id": "080f86c0-639a-42e3-95e6-f3f4de430e58",
+  "question_text": "When yellow light and blue light are mixed together using light sources (additive colour), white light is produced. However, when yellow paint and blue paint are mixed together (subtractive colour), green paint results. Explain why these two processes produce different results.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "additive colour mixing",
+    "subtractive colour mixing",
+    "light wavelengths",
+    "pigment absorption",
+    "colour theory"
+  ],
+  "options": null,
+  "correct_answer": "Additive colour mixing combines light wavelengths directly, where yellow and blue light together stimulate all three types of colour receptors (red, green, and blue), producing white light. Subtractive colour mixing involves pigments that absorb specific wavelengths; yellow paint absorbs blue wavelengths and blue paint absorbs red/yellow wavelengths, so together they primarily reflect green light, producing green paint.",
+  "explanation": "When you mix coloured lights (additive), the wavelengths add together and create a combined effect. Yellow light contains red and green wavelengths, and blue light adds blue wavelengths, so together all three primary colours of light are present, making white. With paints (subtractive), each pigment absorbs (removes) certain colours. Yellow paint absorbs blue light, and blue paint absorbs red light, leaving mainly green light to be reflected, which is why you see green.",
+  "source_url": "ks3textbook://waves.colour/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:35.975574",
+  "classified_at": "2026-04-04T20:59:35.975534",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

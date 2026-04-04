@@ -1,0 +1,47 @@
+{
+  "id": "e9d2415c-e800-42a6-ab2d-a90044d67976",
+  "question_text": "Dry ice (solid carbon dioxide) at -78°C can change directly into carbon dioxide gas without passing through a liquid state. What is the name of this process, and why is it possible for carbon dioxide but unusual for water?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "sublimation",
+    "changes of state",
+    "phase transitions",
+    "triple point",
+    "dry ice"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Condensation; because carbon dioxide is colder than water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Sublimation; because the atmospheric pressure is low enough that the solid can turn directly into gas without melting",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Evaporation; because carbon dioxide molecules are smaller than water molecules",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Freezing; because carbon dioxide cannot exist as a liquid at normal atmospheric pressure",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Sublimation; because the atmospheric pressure is low enough that the solid can turn directly into gas without melting",
+  "explanation": "Sublimation is when a solid changes directly into a gas without becoming a liquid first. This happens to dry ice (solid CO₂) at normal atmospheric pressure because CO₂'s triple point (where solid, liquid, and gas can coexist) occurs at a pressure lower than Earth's atmosphere. For water, the triple point pressure is much lower, so liquid water normally forms between ice and steam at atmospheric pressure.",
+  "source_url": "generate://matter.changes/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:39.879646",
+  "classified_at": "2026-04-04T20:48:39.879609",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

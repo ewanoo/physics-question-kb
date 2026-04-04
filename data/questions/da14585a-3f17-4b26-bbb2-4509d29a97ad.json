@@ -1,0 +1,26 @@
+{
+  "id": "da14585a-3f17-4b26-bbb2-4509d29a97ad",
+  "question_text": "A student observes that an object's weight appears to decrease when measured on a scale inside a lift (elevator) that is accelerating downwards. Explain, using Newton's second law and the concept of normal force, why the scale reading is lower during downward acceleration compared to when the lift is stationary.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "Newton's second law",
+    "normal force",
+    "weight",
+    "acceleration",
+    "lift physics"
+  ],
+  "options": null,
+  "correct_answer": "When the lift accelerates downwards, Newton's second law requires a net downward force on the object. Since weight (gravitational force) acts downward and remains constant, the normal force from the scale must decrease to produce the required net downward force. The scale reading decreases because it measures the normal force, which is now less than the object's weight.",
+  "explanation": "Imagine standing on bathroom scales in a descending lift. The scale shows your weight by measuring the normal force pushing up on you. When the lift accelerates downward, you need a net force pointing downward (F = ma). Gravity pulls you down with your weight. If the normal force was the same as before, these forces would balance and you'd have no net downward force. So the normal force must get smaller, creating a net downward force that accelerates you with the lift. The scale reads this smaller normal force, making it appear you weigh less.",
+  "source_url": "ks3textbook://forces.gravity/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:31.667585",
+  "classified_at": "2026-04-04T20:57:31.667546",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

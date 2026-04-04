@@ -1,0 +1,47 @@
+{
+  "id": "c7f63340-dfa0-4f22-9b35-5789ee072e8e",
+  "question_text": "A light ray hits a mirror at an angle of 30° to the normal. What is the angle of reflection?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "law_of_reflection",
+    "angle_of_incidence",
+    "angle_of_reflection",
+    "normal"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "30°",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "60°",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "90°",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "180°",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "30°",
+  "explanation": "The law of reflection states that the angle of incidence equals the angle of reflection. Both angles are measured from the normal (an imaginary line perpendicular to the mirror surface). Since the light ray hits at 30° to the normal, it reflects at 30° to the normal on the other side.",
+  "source_url": "generate://waves.light/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:03.683748",
+  "classified_at": "2026-04-04T20:40:03.683697",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d69a532b-3efd-42df-8e69-587472700d75",
+  "question_text": "Why does an electromagnet stop working immediately when you switch off the current, but a permanent magnet continues to work?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "permanent magnets",
+    "magnetic fields",
+    "current",
+    "comparison",
+    "conceptual reasoning"
+  ],
+  "options": null,
+  "correct_answer": "An electromagnet stops working immediately when the current is switched off because the magnetic field is created by the flowing electric current. Without current, there is no magnetic field. A permanent magnet continues to work because its electrons are permanently aligned in its atomic structure, so no external energy source is needed to maintain the magnetic field.",
+  "explanation": "Electromagnets and permanent magnets work in different ways. In an electromagnet, electric current flowing through a coil creates a temporary magnetic field by aligning electrons. When you switch off the current, the electrons stop aligning and the magnetic field disappears instantly. In a permanent magnet, the electrons in the material are naturally and permanently aligned due to the atomic structure, so the magnetic field is always present without needing any external current.",
+  "source_url": "oak://electricity.electromagnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:55.106170",
+  "classified_at": "2026-04-04T20:45:55.106121",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ba240cff-c1f8-4578-8169-52d44ea6a4bc",
+  "question_text": "Why does a geostationary satellite remain in the same position above the Earth's equator?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "geostationary satellites",
+    "orbital mechanics",
+    "orbital period",
+    "Earth rotation",
+    "gravitational force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Its orbital period matches Earth's rotation period, so it stays above the same location",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "It is not affected by Earth's gravity at that altitude",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It is held in place by cables attached to Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It has zero velocity so it cannot move relative to Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Its orbital period matches Earth's rotation period, so it stays above the same location",
+  "explanation": "A geostationary satellite orbits Earth once every 24 hours, which is exactly the same time it takes Earth to rotate once on its axis. This synchronization means the satellite appears to stay fixed above the same point on the equator from an observer on Earth. The gravitational force provides the centripetal force needed to keep it in this circular orbit at the correct altitude.",
+  "source_url": "oak://space.gravity/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:54:02.880816",
+  "classified_at": "2026-04-04T20:54:02.880780",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

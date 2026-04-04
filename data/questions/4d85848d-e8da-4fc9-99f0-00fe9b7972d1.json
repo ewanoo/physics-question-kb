@@ -1,0 +1,46 @@
+{
+  "id": "4d85848d-e8da-4fc9-99f0-00fe9b7972d1",
+  "question_text": "Why is it dangerous to use electrical equipment with wet hands?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "conductivity",
+    "electrical safety",
+    "current flow",
+    "resistance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Water is an insulator and prevents static charge from building up",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Water is a good conductor, providing an easy path for electrical current through your body",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Wet hands always become negatively charged",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Water creates additional static electricity on your skin",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Water is a good conductor, providing an easy path for electrical current through your body",
+  "explanation": "Water conducts electricity well because it contains dissolved ions. When your hands are wet and you touch electrical equipment, water creates a low-resistance pathway for electrical current to flow through your body to the ground. This greatly increases the risk of electric shock and injury compared to dry hands, which have higher resistance.",
+  "source_url": "oak://electricity.static/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:05.152152",
+  "classified_at": "2026-04-04T20:44:05.152111",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

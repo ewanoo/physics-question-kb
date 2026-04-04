@@ -1,0 +1,25 @@
+{
+  "id": "bd2cbe2e-ad29-443b-a91f-f8066621eeef",
+  "question_text": "Two students investigate refraction using a glass block. Student A predicts that if they increase the angle of incidence from 20° to 40°, the angle of refraction will also double. Student B predicts that the angle of refraction will increase, but not by the same amount. Who is correct and why?",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "snells_law",
+    "non_linear_relationships",
+    "prediction_evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Student B is correct. The angle of refraction increases but not proportionally to the angle of incidence. Refraction follows Snell's law (n₁ sin(θ₁) = n₂ sin(θ₂)), which involves the sine of the angles, not the angles themselves. This creates a non-linear relationship, so doubling the angle of incidence does not double the angle of refraction.",
+  "explanation": "Snell's law shows that the relationship between angle of incidence and angle of refraction is not linear—it depends on the sine of the angles. When you double an angle, its sine does not double. For example, sin(20°) ≈ 0.34 and sin(40°) ≈ 0.64, which is not double. Therefore, Student A's prediction of a simple doubling is incorrect, but Student B correctly identifies that the refraction angle will increase by a smaller amount.",
+  "source_url": "generate://waves.light/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:30.012254",
+  "classified_at": "2026-04-04T20:40:30.012214",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

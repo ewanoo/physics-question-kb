@@ -1,0 +1,46 @@
+{
+  "id": "4fb273ab-ae6c-4a86-94e0-595920757e67",
+  "question_text": "Sound waves are described as mechanical waves. Which of the following best explains what this means?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "mechanical waves",
+    "sound propagation",
+    "medium",
+    "wave properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound waves can travel through a vacuum",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Sound waves require a medium such as air, water, or solid material to travel through",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Sound waves are produced only by machines and engines",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Sound waves travel at the speed of light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Sound waves require a medium such as air, water, or solid material to travel through",
+  "explanation": "Mechanical waves are waves that need a medium (like air, water, or solids) to travel through because they work by making particles vibrate and pass the wave energy along. Sound is a mechanical wave, so it cannot travel through empty space (a vacuum) where there are no particles to vibrate.",
+  "source_url": "ks3textbook://waves.sound/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:46.986795",
+  "classified_at": "2026-04-04T20:57:46.986756",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0f41401d-5ef8-4daa-9026-525e4f96878e",
+  "question_text": "Two identical tuning forks are struck simultaneously. One produces a frequency of 256 Hz and the other produces a frequency of 260 Hz. Explain what a listener would observe and describe the physical phenomenon occurring.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "beats",
+    "interference",
+    "frequency",
+    "sound waves",
+    "wave superposition"
+  ],
+  "options": null,
+  "correct_answer": "The listener would hear a single sound with varying loudness that fluctuates between loud and quiet at regular intervals. This phenomenon is called 'beats' and occurs because the two sound waves of slightly different frequencies (256 Hz and 260 Hz) interfere with each other. When the waves are in phase, they reinforce each other (constructive interference) making the sound loud. When they are out of phase, they cancel each other (destructive interference) making the sound quiet. The beat frequency is 4 Hz (260 - 256 = 4), so the listener hears 4 complete cycles of loud-quiet per second.",
+  "explanation": "When two sound waves with similar but different frequencies are played together, they don't just add together at the same volume. Instead, the waves sometimes line up (reinforce) making the sound louder, and sometimes oppose each other (cancel) making the sound quieter. This creates a 'wobbling' or 'wah-wah-wah' effect called beats. The number of beats per second equals the difference between the two frequencies. This is a great example of wave interference and is used in real life for tuning musical instruments.",
+  "source_url": "ks3textbook://waves.sound/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:31.584381",
+  "classified_at": "2026-04-04T20:58:31.584314",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

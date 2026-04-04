@@ -1,0 +1,47 @@
+{
+  "id": "f17f6157-10c5-496a-8ac6-1a9ba05d42dc",
+  "question_text": "What do we call sounds with frequencies higher than 20,000 Hz that humans cannot hear?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "frequency",
+    "human hearing",
+    "ultrasound",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Infrasound",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ultrasound",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Subsonic sound",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Echo sound",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Ultrasound",
+  "explanation": "Ultrasound refers to sound waves with frequencies above 20,000 Hz (20 kHz). These frequencies are too high-pitched for humans to hear, but many animals like bats and dogs can detect them. In contrast, infrasound has frequencies below 20 Hz and is too low for humans to hear.",
+  "source_url": "generate://waves.sound/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:53.474684",
+  "classified_at": "2026-04-04T20:38:53.474648",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

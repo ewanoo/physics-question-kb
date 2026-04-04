@@ -1,0 +1,47 @@
+{
+  "id": "d1c6a1dc-c40f-4d2b-9553-5a8dbbbb7467",
+  "question_text": "What is the approximate time interval between successive new moons?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon phases",
+    "lunar cycle",
+    "synodic period",
+    "astronomy",
+    "factual recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "7 days",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "14 days",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "29.5 days",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "365 days",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "29.5 days",
+  "explanation": "The Moon takes approximately 29.5 days to go through all its phases and return to the same phase (such as new moon). This period is called the lunar month or synodic period. It's slightly longer than the time it takes the Moon to orbit Earth because Earth is also moving around the Sun during this time.",
+  "source_url": "ks3textbook://space.earth_moon/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:46.944872",
+  "classified_at": "2026-04-04T20:50:46.944835",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

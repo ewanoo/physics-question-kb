@@ -1,0 +1,47 @@
+{
+  "id": "42e6b0c3-469b-4441-867c-4cc2eb2fab71",
+  "question_text": "Which statement about pressure in liquids is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "liquids",
+    "depth",
+    "force",
+    "area"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure is greater at the surface than at the bottom",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure increases with depth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure is the same at all depths",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Liquids do not exert pressure",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Pressure increases with depth",
+  "explanation": "As you go deeper into a liquid, there is more liquid above you pressing down. This extra weight of liquid above increases the pressure. Pressure in liquids always increases as depth increases because of the weight of the liquid pressing down from above.",
+  "source_url": "oak://forces.pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:05.529046",
+  "classified_at": "2026-04-04T20:36:05.529006",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

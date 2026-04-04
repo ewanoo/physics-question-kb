@@ -1,0 +1,48 @@
+{
+  "id": "2c926dc1-be55-4255-b57b-2fdc01ac668e",
+  "question_text": "Why does static electricity have a greater effect on insulators than on conductors when you try to charge them by friction?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "conductors",
+    "insulators",
+    "charge transfer",
+    "electron mobility",
+    "friction charging"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Insulators have no electrons, so charge cannot build up on conductors",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electrons in conductors can move freely, so excess charge spreads out or leaks away quickly",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Insulators are better at rubbing than conductors",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Conductors lose electrons to the air faster than insulators do",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Electrons in conductors can move freely, so excess charge spreads out or leaks away quickly",
+  "explanation": "In conductors like metals, electrons are free to move throughout the material and can escape to the ground, so any charge that builds up quickly disperses. In insulators, electrons are tightly bound to atoms and cannot move freely, so charge remains where it was transferred during friction, allowing it to accumulate and create stronger static effects.",
+  "source_url": "oak://electricity.static/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:23.753972",
+  "classified_at": "2026-04-04T20:44:23.753934",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

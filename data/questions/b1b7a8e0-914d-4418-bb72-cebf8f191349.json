@@ -1,0 +1,47 @@
+{
+  "id": "b1b7a8e0-914d-4418-bb72-cebf8f191349",
+  "question_text": "What provides the centripetal force that keeps a planet orbiting the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "centripetal force",
+    "orbits",
+    "planets",
+    "Sun"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction between the planet and space",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravity from the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The planet's own magnetic field",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy released from nuclear fusion",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gravity from the Sun",
+  "explanation": "Gravitational force from the Sun acts as the centripetal force, constantly pulling a planet towards the Sun. This inward pull keeps the planet moving in a circular or elliptical orbit rather than flying off in a straight line. The planet's velocity and the Sun's gravitational pull balance to maintain a stable orbit.",
+  "source_url": "oak://space.gravity/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:37.137747",
+  "classified_at": "2026-04-04T20:53:37.137679",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

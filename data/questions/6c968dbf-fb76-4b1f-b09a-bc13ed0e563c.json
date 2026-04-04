@@ -1,0 +1,47 @@
+{
+  "id": "6c968dbf-fb76-4b1f-b09a-bc13ed0e563c",
+  "question_text": "A student places a compass near a wire carrying an electric current. The compass needle deflects. What does this tell us about the relationship between electricity and magnetism?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic_fields",
+    "electric_current",
+    "electromagnets",
+    "cause_and_effect",
+    "conceptual_understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electric current and magnetism are completely unrelated phenomena",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electricity can only produce magnetism if a permanent magnet is nearby",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Moving electric charges (current) generate a magnetic field around the wire",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The compass needle deflects because it detects electrons moving through the wire",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Moving electric charges (current) generate a magnetic field around the wire",
+  "explanation": "When electric current flows through a wire, the moving electrons (which are moving electric charges) create a magnetic field around the wire. This is a fundamental relationship between electricity and magnetism. The compass needle deflects because it responds to this magnetic field, showing that electricity and magnetism are connected. This principle is the basis for how electromagnets work.",
+  "source_url": "oak://electricity.magnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:04.799974",
+  "classified_at": "2026-04-04T20:45:04.799936",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

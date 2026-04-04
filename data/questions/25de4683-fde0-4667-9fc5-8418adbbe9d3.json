@@ -1,0 +1,47 @@
+{
+  "id": "25de4683-fde0-4667-9fc5-8418adbbe9d3",
+  "question_text": "At the equator, how does day length change throughout the year?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "day length",
+    "equator",
+    "axial tilt",
+    "seasons",
+    "Earth's rotation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Day length changes significantly, with very long days in summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Day length stays roughly 12 hours all year round",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Days get progressively longer each month",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Day length changes only during winter",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Day length stays roughly 12 hours all year round",
+  "explanation": "At the equator, the Sun is always roughly directly overhead at midday throughout the year because the equator is perpendicular to Earth's axis of tilt. This means the equator receives approximately equal amounts of sunlight every day, resulting in day length remaining constant at about 12 hours year-round. In contrast, locations at higher latitudes experience significant seasonal variations in day length due to Earth's axial tilt.",
+  "source_url": "oak://space.seasons/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:51.535075",
+  "classified_at": "2026-04-04T20:52:51.535038",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

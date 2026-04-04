@@ -1,0 +1,26 @@
+{
+  "id": "f5bb6875-7f13-4e14-b8a9-0fa47a8ed84a",
+  "question_text": "A cyclist travels at a constant speed of 8 m/s for 25 seconds. How far does the cyclist travel?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "distance",
+    "speed",
+    "time",
+    "calculation",
+    "constant speed"
+  ],
+  "options": null,
+  "correct_answer": "200 metres",
+  "explanation": "To find distance, we use the formula: Distance = speed × time. The cyclist travels at 8 m/s for 25 seconds, so: 8 × 25 = 200 metres.",
+  "source_url": "oak://forces.speed/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:37.328175",
+  "classified_at": "2026-04-04T20:35:37.328134",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "de4770ba-5f36-471d-9ffe-80718e624ab8",
+  "question_text": "A satellite orbits at a radius of 10,000 km from Earth's centre. If another satellite orbits at 20,000 km from Earth's centre, how many times faster or slower is the second satellite's orbital speed compared to the first?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "orbital mechanics",
+    "inverse square relationships",
+    "satellite motion",
+    "mathematical reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The second satellite orbits approximately 0.7 times as fast (or about 1.4 times slower)",
+  "explanation": "Orbital speed depends on how far a satellite is from Earth's centre. The further away a satellite orbits, the slower it moves. Specifically, orbital speed is proportional to 1/√r (the square root of the orbital radius). When the radius doubles from 10,000 km to 20,000 km, the speed becomes √(10,000/20,000) = √0.5 ≈ 0.7 times the original speed. This means the outer satellite is slower.",
+  "source_url": "oak://space.gravity/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:44.222102",
+  "classified_at": "2026-04-04T20:53:44.222064",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

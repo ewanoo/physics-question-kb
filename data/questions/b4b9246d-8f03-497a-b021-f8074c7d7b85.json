@@ -1,0 +1,47 @@
+{
+  "id": "b4b9246d-8f03-497a-b021-f8074c7d7b85",
+  "question_text": "Which statement correctly describes the relationship between gas pressure and temperature?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "proportionality",
+    "particle model",
+    "KE"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure and temperature are inversely proportional",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure and temperature are directly proportional",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure has no connection to temperature",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Temperature increases when pressure decreases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Pressure and temperature are directly proportional",
+  "explanation": "For a fixed volume of gas, when you heat it, the gas particles move faster and collide with the container walls more frequently and forcefully, increasing pressure. This direct proportional relationship is expressed as P ∝ T (at constant volume), meaning if you double the absolute temperature, the pressure doubles too.",
+  "source_url": "oak://matter.gas_pressure/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:51:55.780916",
+  "classified_at": "2026-04-04T20:51:55.780879",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "f8359197-d67e-4274-adaa-56cabeefdae6",
+  "question_text": "Which of these materials is magnetic?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic_materials",
+    "ferromagnetism",
+    "material_properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Plastic",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Copper",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Iron",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Aluminium",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Iron",
+  "explanation": "Iron is a ferromagnetic material, which means it is strongly attracted to magnets and can be magnetised itself. Plastic, copper, and aluminium are non-magnetic materials and are not attracted to magnets.",
+  "source_url": "oak://electricity.magnets/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:31.890323",
+  "classified_at": "2026-04-04T20:44:31.890256",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

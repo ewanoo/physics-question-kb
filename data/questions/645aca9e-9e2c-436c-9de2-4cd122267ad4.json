@@ -1,0 +1,25 @@
+{
+  "id": "645aca9e-9e2c-436c-9de2-4cd122267ad4",
+  "question_text": "A person pushes a shopping trolley with a force of 50 N. The friction force on the trolley is 20 N. Calculate the net force on the trolley.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "net force",
+    "unbalanced forces",
+    "friction",
+    "force calculation"
+  ],
+  "options": null,
+  "correct_answer": "30 N",
+  "explanation": "Net force is calculated by subtracting the friction force from the pushing force. Net force = 50 N − 20 N = 30 N. Since the net force is not zero, the forces are unbalanced and the trolley will accelerate in the direction of the push.",
+  "source_url": "generate://forces.balanced/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:23.388137",
+  "classified_at": "2026-04-04T20:55:23.388100",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

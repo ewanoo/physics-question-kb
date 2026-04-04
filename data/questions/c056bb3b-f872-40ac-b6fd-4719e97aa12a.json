@@ -1,0 +1,47 @@
+{
+  "id": "c056bb3b-f872-40ac-b6fd-4719e97aa12a",
+  "question_text": "Two waves are created in a rope. Wave A has an amplitude of 10 cm and a frequency of 2 Hz. Wave B has an amplitude of 5 cm and a frequency of 4 Hz. Which statement correctly compares the energy carried by these waves?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave energy",
+    "amplitude",
+    "frequency",
+    "energy transfer",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wave A carries more energy because it has a larger amplitude",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Wave B carries more energy because it has a higher frequency",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both waves carry equal amounts of energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy cannot be compared without knowing the wavelength",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Wave A carries more energy because it has a larger amplitude",
+  "explanation": "The energy carried by a wave depends on its amplitude squared. Wave A has an amplitude of 10 cm (twice that of Wave B's 5 cm), so it carries 4 times more energy. Although Wave B has a higher frequency, amplitude has a stronger effect on energy than frequency does. Therefore, Wave A carries significantly more energy overall.",
+  "source_url": "generate://waves.properties/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:32.235985",
+  "classified_at": "2026-04-04T20:38:32.235948",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

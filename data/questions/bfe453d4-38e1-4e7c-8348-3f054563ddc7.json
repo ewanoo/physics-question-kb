@@ -1,0 +1,47 @@
+{
+  "id": "bfe453d4-38e1-4e7c-8348-3f054563ddc7",
+  "question_text": "A motor uses 200 J of electrical energy and does 160 J of useful mechanical work. What happens to the remaining 40 J of energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy_transfer",
+    "energy_conservation",
+    "motors",
+    "wasted_energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It is stored in the motor permanently",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It is converted to heat and sound energy (wasted)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It disappears completely",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It is converted back to electrical energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It is converted to heat and sound energy (wasted)",
+  "explanation": "When a motor converts electrical energy into mechanical work, not all the energy becomes useful work. The 'missing' 40 J is lost as heat (from friction in moving parts) and sound (from vibrations). This is why real motors are less than 100% efficient - some energy is always wasted.",
+  "source_url": "generate://energy.efficiency/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:30.136160",
+  "classified_at": "2026-04-04T20:54:30.136126",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

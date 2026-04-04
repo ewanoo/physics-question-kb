@@ -1,0 +1,47 @@
+{
+  "id": "9f980ef0-211e-4ce6-8868-48659d64a4b5",
+  "question_text": "A student heats a solid metal block. The particles vibrate more vigorously, but the block does not change state. Which statement best explains why the volume of the block increases slightly?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "thermal expansion",
+    "particle model",
+    "heating",
+    "solids",
+    "particle vibration"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "New particles are created as the metal is heated",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The particles move faster and need more space, pushing against each other and spreading apart",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The particles become larger as they absorb heat energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The attractive forces between particles become stronger when heated",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The particles move faster and need more space, pushing against each other and spreading apart",
+  "explanation": "When a solid is heated, its particles vibrate with greater amplitude. Although particles in solids stay in fixed positions, increased vibration means they need more average space around them. This causes the solid to expand slightly in volume—a process called thermal expansion. The particles don't move freely like in gases, but their more vigorous vibrations push them slightly further apart on average.",
+  "source_url": "generate://matter.particles/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:45.345793",
+  "classified_at": "2026-04-04T20:46:45.345751",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "460361a5-8a0a-43e6-86cb-348f33840220",
+  "question_text": "Two students are trying to move a heavy box. Student A pushes with 300 N to the right, Student B pushes with 200 N to the right, and friction opposes with 450 N to the left. Explain whether the box will move or remain stationary, and justify your answer by calculating the resultant force.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "balanced and unbalanced forces",
+    "Newton's laws",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "The box will move to the right. The resultant force is 50 N to the right (300 N + 200 N - 450 N = 50 N). Since the forces are unbalanced, the box will accelerate to the right.",
+  "explanation": "To solve this problem, you need to add up all the forces in the same direction, then subtract the opposing force. Forces to the right: 300 N + 200 N = 500 N. Forces to the left: 450 N. Resultant force = 500 - 450 = 50 N to the right. Since the resultant is not zero, the forces are unbalanced, so the box will accelerate and move to the right according to Newton's second law.",
+  "source_url": "generate://forces.balanced/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:49.533851",
+  "classified_at": "2026-04-04T20:55:49.533812",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

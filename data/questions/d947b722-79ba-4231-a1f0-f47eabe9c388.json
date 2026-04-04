@@ -1,0 +1,47 @@
+{
+  "id": "d947b722-79ba-4231-a1f0-f47eabe9c388",
+  "question_text": "A metal sphere sinks in water but floats in mercury. The density of water is 1000 kg/m³ and the density of mercury is 13 600 kg/m³. What can be concluded about the density of the metal sphere?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "comparative reasoning",
+    "density ordering"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The density of the sphere is less than 1000 kg/m³",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The density of the sphere is between 1000 kg/m³ and 13 600 kg/m³",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The density of the sphere is greater than 13 600 kg/m³",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The density of the sphere cannot be determined from this information",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The density of the sphere is between 1000 kg/m³ and 13 600 kg/m³",
+  "explanation": "Objects sink in a fluid when their density is greater than the fluid's density, and float when their density is less than the fluid's density. Since the sphere sinks in water (density 1000 kg/m³), the sphere's density must be greater than 1000 kg/m³. Since the sphere floats in mercury (density 13 600 kg/m³), the sphere's density must be less than 13 600 kg/m³. Therefore, the sphere's density must be between these two values.",
+  "source_url": "ks3textbook://matter.density/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:29.514959",
+  "classified_at": "2026-04-04T20:49:29.514920",
+  "classification_confidence": 0.98,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

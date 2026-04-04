@@ -1,0 +1,45 @@
+{
+  "id": "94d2ec36-4098-4d11-9a48-b1e74bf12e9b",
+  "question_text": "What happens when you cut a bar magnet in half?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic_poles",
+    "magnet_properties",
+    "conceptual_understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "You destroy the magnetism completely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "You get one north pole and one south pole",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "You create two new magnets, each with a north and south pole",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The poles repel each other and fly apart",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "You create two new magnets, each with a north and south pole",
+  "explanation": "When you cut a bar magnet in half, you don't separate the poles. Instead, each piece becomes a new magnet with its own north and south poles. This is because magnetism comes from the alignment of electrons and atoms throughout the material, not from poles at the ends. Magnetic poles always exist in pairs—you cannot have a magnet with only a north pole or only a south pole.",
+  "source_url": "oak://electricity.magnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:45.603754",
+  "classified_at": "2026-04-04T20:44:45.603716",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

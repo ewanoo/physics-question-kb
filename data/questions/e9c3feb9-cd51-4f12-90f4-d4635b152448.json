@@ -1,0 +1,47 @@
+{
+  "id": "e9c3feb9-cd51-4f12-90f4-d4635b152448",
+  "question_text": "Why does the Arctic experience nearly 24 hours of daylight while the Antarctic experiences nearly 24 hours of darkness during the summer solstice in the Northern Hemisphere?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "axial_tilt",
+    "solstice",
+    "day_night_cycle",
+    "earth_rotation",
+    "hemisphere_differences"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Arctic is on the side of Earth facing the Sun, while the Antarctic is on the opposite side",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Arctic rotates faster than the Antarctic on the tilted axis",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Sun's rays are too weak to reach the Antarctic region",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Earth's magnetic field blocks sunlight from reaching the Antarctic",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Arctic is on the side of Earth facing the Sun, while the Antarctic is on the opposite side",
+  "explanation": "During the summer solstice in the Northern Hemisphere, Earth's axis is tilted so the North Pole points towards the Sun. This means the Arctic region continuously faces the Sun and experiences nearly 24 hours of daylight, while the Antarctic (South Pole) is tilted away and experiences nearly 24 hours of darkness. This occurs because of Earth's 23.5° axial tilt combined with its position in its orbit around the Sun.",
+  "source_url": "oak://space.seasons/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:10.622040",
+  "classified_at": "2026-04-04T20:53:10.621992",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

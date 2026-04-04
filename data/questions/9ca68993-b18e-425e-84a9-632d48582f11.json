@@ -1,0 +1,45 @@
+{
+  "id": "9ca68993-b18e-425e-84a9-632d48582f11",
+  "question_text": "How many planets are there in the Solar System?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "solar system",
+    "factual recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "7",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "8",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "9",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "10",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "8",
+  "explanation": "There are eight planets in the Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006 by the International Astronomical Union because it is smaller and has not cleared its orbital path of other debris.",
+  "source_url": "ks3textbook://space.solar_system/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:44.246215",
+  "classified_at": "2026-04-04T20:49:44.246178",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

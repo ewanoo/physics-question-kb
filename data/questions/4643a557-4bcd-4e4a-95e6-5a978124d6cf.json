@@ -1,0 +1,25 @@
+{
+  "id": "4643a557-4bcd-4e4a-95e6-5a978124d6cf",
+  "question_text": "Why do two north poles of different magnets repel each other?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic fields",
+    "pole interactions",
+    "repulsion",
+    "field lines"
+  ],
+  "options": null,
+  "correct_answer": "Like poles repel each other because the magnetic field lines push away from each other in the same direction.",
+  "explanation": "Magnetic field lines always flow from the north pole to the south pole of a magnet. When two north poles face each other, their field lines point in the same direction and push against each other, causing repulsion. This is why like poles repel and opposite poles attract.",
+  "source_url": "oak://electricity.magnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:48.701005",
+  "classified_at": "2026-04-04T20:44:48.700966",
+  "classification_confidence": 0.95,
+  "quality_score": 4.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

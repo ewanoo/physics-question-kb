@@ -1,0 +1,47 @@
+{
+  "id": "649e1d1a-a223-4977-a2fe-19536b2c99c4",
+  "question_text": "A book is resting on a table. The weight of the book is 20 N downwards. Which statement correctly describes the forces acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "normal force",
+    "weight",
+    "equilibrium",
+    "Newton's laws"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Only the weight force of 20 N acts on the book",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The normal force from the table is 20 N upwards, balancing the weight",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The normal force is less than 20 N because the book is at rest",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is no normal force because the book is not moving",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The normal force from the table is 20 N upwards, balancing the weight",
+  "explanation": "When an object is at rest on a surface, the forces acting on it are balanced. The weight of the book (20 N downwards) is balanced by the normal force from the table (20 N upwards). These equal and opposite forces mean the net force is zero, so the book remains stationary.",
+  "source_url": "generate://forces.balanced/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:38.079688",
+  "classified_at": "2026-04-04T20:55:38.079646",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

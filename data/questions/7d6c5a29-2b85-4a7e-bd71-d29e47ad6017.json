@@ -1,0 +1,25 @@
+{
+  "id": "7d6c5a29-2b85-4a7e-bd71-d29e47ad6017",
+  "question_text": "A magenta (pink) filter transmits red and blue light but absorbs green light. If white light is directed through this filter onto a white screen, what colour will be observed on the screen? Justify your answer.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour_addition",
+    "filters",
+    "light_transmission",
+    "colour_mixing"
+  ],
+  "options": null,
+  "correct_answer": "Magenta (or pink) will be observed on the screen.",
+  "explanation": "The magenta filter transmits (allows through) red and blue light wavelengths but absorbs (blocks) green light. When red and blue light are combined together using colour addition, they mix to produce magenta light. The white screen then reflects all the light that reaches it, so magenta is seen.",
+  "source_url": "ks3textbook://waves.colour/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:12.449827",
+  "classified_at": "2026-04-04T20:59:12.449788",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

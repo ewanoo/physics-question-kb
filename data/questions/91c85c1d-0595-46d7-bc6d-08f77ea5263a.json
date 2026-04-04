@@ -1,0 +1,48 @@
+{
+  "id": "91c85c1d-0595-46d7-bc6d-08f77ea5263a",
+  "question_text": "Two objects, A and B, are dropped from the same height above Earth's surface in a vacuum. Object A has a mass of 2 kg and object B has a mass of 8 kg. Both experience the same gravitational field strength of 10 N/kg. Which of the following correctly describes their motion and the forces acting upon them?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational force",
+    "acceleration",
+    "mass",
+    "vacuum",
+    "Newton's second law",
+    "misconceptions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Object B falls faster because it experiences a greater gravitational force, but both accelerate at the same rate due to gravity alone in a vacuum",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Object A falls faster because it has less mass to overcome, and it accelerates more rapidly than object B",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Object B experiences twice the gravitational force but accelerates at half the rate of object A",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both objects experience the same gravitational force and fall at different rates depending on their mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Object B falls faster because it experiences a greater gravitational force, but both accelerate at the same rate due to gravity alone in a vacuum",
+  "explanation": "Although object B (8 kg) experiences a greater gravitational force than object A (2 kg)—80 N compared to 20 N—both objects accelerate at the same rate in a vacuum. This is because acceleration depends on the ratio of force to mass (a = F/m). Since the gravitational field strength is 10 N/kg for both, they both accelerate at 10 m/s². Object B falls faster (has greater velocity) because it experiences more force, but they both accelerate at the same rate. In a vacuum, there is no air resistance, so mass does not affect acceleration due to gravity.",
+  "source_url": "ks3textbook://forces.gravity/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:28.411754",
+  "classified_at": "2026-04-04T20:57:28.411713",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

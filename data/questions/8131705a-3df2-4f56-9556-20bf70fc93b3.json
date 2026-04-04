@@ -1,0 +1,25 @@
+{
+  "id": "8131705a-3df2-4f56-9556-20bf70fc93b3",
+  "question_text": "Two kettles both heat 1 litre of water from 20°C to 100°C. Kettle A uses 250 kJ of electrical energy and Kettle B uses 300 kJ of electrical energy. Which kettle is more efficient and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy_transfer",
+    "comparison",
+    "real_world_application"
+  ],
+  "options": null,
+  "correct_answer": "Kettle A is more efficient because it uses less electrical energy (250 kJ) to produce the same useful output (heating 1 litre of water from 20°C to 100°C), meaning less energy is wasted.",
+  "explanation": "Efficiency measures how much of the input energy is converted into useful energy. Both kettles do the same job (heat the same water to the same temperature), so they produce the same useful energy output. However, Kettle A uses only 250 kJ while Kettle B uses 300 kJ. Since Kettle A requires less input energy to achieve the same result, it is more efficient and wastes less energy as heat loss to the surroundings.",
+  "source_url": "generate://energy.efficiency/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:48.790525",
+  "classified_at": "2026-04-04T20:54:48.790486",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8401a749-0c35-451b-b35a-1c2ea788a941",
+  "question_text": "Name two surfaces that reflect light well and explain why they are good reflectors.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "specular reflection",
+    "surface properties",
+    "light behaviour"
+  ],
+  "options": null,
+  "correct_answer": "Mirrors and polished metal surfaces are good reflectors because they have smooth surfaces that reflect light in the same direction (specular reflection), rather than scattering it in many directions.",
+  "explanation": "Smooth, shiny surfaces like mirrors and polished metals reflect light regularly and efficiently. When light hits a smooth surface, all the light rays bounce off at the same angle (following the law of reflection), so the light travels in one direction. Rough surfaces scatter light in many directions (diffuse reflection), so they are poor reflectors.",
+  "source_url": "generate://waves.light/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:54.570535",
+  "classified_at": "2026-04-04T20:39:54.570497",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "951b480c-9701-477d-bf36-d680ba36d94c",
+  "question_text": "How does the strength of a magnetic field change with distance from a magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic field strength",
+    "distance effect",
+    "magnet properties",
+    "field lines"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It stays the same no matter how far away you are",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It gets stronger the further away you go",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It gets weaker the further away you are",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "It only exists at the poles",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It gets weaker the further away you are",
+  "explanation": "Magnetic field strength decreases with distance from a magnet. This is why magnetic effects are strongest at the poles and near the magnet's surface, but become weaker as you move further away. You can observe this by noticing that a magnet can only attract objects that are close enough to it.",
+  "source_url": "oak://electricity.magnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:47.217641",
+  "classified_at": "2026-04-04T20:44:47.217602",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

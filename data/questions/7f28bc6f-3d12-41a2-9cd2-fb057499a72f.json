@@ -1,0 +1,26 @@
+{
+  "id": "7f28bc6f-3d12-41a2-9cd2-fb057499a72f",
+  "question_text": "A liquid is sealed in a container. A student claims that if the temperature is increased, the particles will break free from the liquid and escape. Evaluate this claim using the particle model.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "evaporation",
+    "kinetic energy",
+    "attractive forces",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The claim is partially correct. Heating increases particle kinetic energy, allowing some particles to overcome attractive forces and evaporate. However, not all particles escape simultaneously - only the most energetic particles escape gradually, and the process continues until equilibrium is reached (in a sealed container, evaporation and condensation balance).",
+  "explanation": "The particle model explains that particles in liquids are held together by attractive forces. When temperature increases, particles vibrate more vigorously and gain kinetic energy. The most energetic particles can break free and escape as a gas (evaporation). However, the claim is incomplete because: 1) only some particles have enough energy to escape, not all; 2) evaporation is gradual, not instant; 3) in a sealed container, particles that escape as gas will also condense back into the liquid, reaching equilibrium.",
+  "source_url": "generate://matter.particles/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:52.617592",
+  "classified_at": "2026-04-04T20:46:52.617556",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

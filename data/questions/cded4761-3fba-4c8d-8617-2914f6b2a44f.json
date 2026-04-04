@@ -1,0 +1,25 @@
+{
+  "id": "cded4761-3fba-4c8d-8617-2914f6b2a44f",
+  "question_text": "The human ear can hear sounds with frequencies between approximately 20 Hz and 20,000 Hz. A dog whistle produces a sound at 40,000 Hz. Why can't humans hear a dog whistle?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "ultrasonic",
+    "human hearing",
+    "sound properties"
+  ],
+  "options": null,
+  "correct_answer": "The frequency of 40,000 Hz is above the upper limit of human hearing (20,000 Hz). Humans cannot hear ultrasonic sounds with frequencies above 20,000 Hz.",
+  "explanation": "The human ear can only detect sound waves within a specific frequency range (20 Hz to 20,000 Hz). A dog whistle produces ultrasonic sound at 40,000 Hz, which is above this range. Even though the sound wave exists, our ears are not sensitive enough to detect these very high frequencies. Dogs have better hearing at high frequencies and can hear these ultrasonic sounds.",
+  "source_url": "generate://waves.sound/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:06.440568",
+  "classified_at": "2026-04-04T20:39:06.440528",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

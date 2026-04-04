@@ -1,0 +1,48 @@
+{
+  "id": "7fc54eee-c14b-44bf-8f32-c4f1a7dcfaef",
+  "question_text": "Two identical electromagnets use different batteries: one uses a 6V battery and the other uses a 12V battery. Which electromagnet will have the stronger magnetic field, and what is the scientific reason?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "voltage",
+    "current",
+    "magnetic field strength",
+    "comparison",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The 6V electromagnet will be stronger because lower voltages create more focused magnetic fields",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The 12V electromagnet will be stronger because higher voltage causes greater current flow, which creates a stronger magnetic field",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both electromagnets will have the same strength because the coil design is identical",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The 12V electromagnet will be stronger only if it also has an iron core",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The 12V electromagnet will be stronger because higher voltage causes greater current flow, which creates a stronger magnetic field",
+  "explanation": "When voltage increases in a circuit, the current also increases (assuming resistance stays the same). Since the strength of an electromagnet's magnetic field depends on the current flowing through its coil, higher current means a stronger magnetic field. The 12V battery produces more current than the 6V battery, so the 12V electromagnet creates a stronger magnetic field.",
+  "source_url": "oak://electricity.magnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:09.254679",
+  "classified_at": "2026-04-04T20:45:09.254641",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

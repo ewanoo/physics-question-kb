@@ -1,0 +1,46 @@
+{
+  "id": "7708cf83-2c4c-4214-989a-5e8b410c6af4",
+  "question_text": "What happens when you rub two insulating materials together?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "charge transfer",
+    "electron movement",
+    "insulating materials",
+    "static electricity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electrons move from one material to the other, creating a charge imbalance",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Protons move between the materials",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Heat energy is converted into electrical current",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The materials lose all their electrons",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Electrons move from one material to the other, creating a charge imbalance",
+  "explanation": "When two insulating materials are rubbed together, electrons transfer from one material to the other. The material that loses electrons becomes positively charged (electron deficient), while the material that gains electrons becomes negatively charged (electron excess). This creates a charge imbalance and is the basis of static electricity.",
+  "source_url": "oak://electricity.static/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:43:58.738255",
+  "classified_at": "2026-04-04T20:43:58.738217",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

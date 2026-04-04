@@ -1,0 +1,47 @@
+{
+  "id": "e0c45e06-c1c4-4e3f-80ef-b76b9150f455",
+  "question_text": "A person standing near a railway experiences the Doppler effect as a train approaches and then recedes. The frequency of the train whistle appears higher as it approaches and lower as it moves away. Which statement correctly explains why the observed frequency changes?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "doppler_effect",
+    "sound_waves",
+    "frequency",
+    "wavelength",
+    "relative_motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The train whistle actually changes frequency as the train accelerates or decelerates",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "As the train approaches, sound wave crests are compressed closer together relative to the observer, resulting in shorter wavelengths and higher observed frequency",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed of sound increases when the train approaches and decreases as it moves away",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The amplitude of the sound wave is greater when approaching, which causes the perception of higher frequency",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "As the train approaches, sound wave crests are compressed closer together relative to the observer, resulting in shorter wavelengths and higher observed frequency",
+  "explanation": "The Doppler effect happens because when a sound source moves towards you, the sound waves get squashed together - the crests are closer, making the wavelength shorter and frequency higher, so you hear a higher pitch. When it moves away, the waves spread out - longer wavelength, lower frequency, lower pitch. The speed of sound itself doesn't change, and the whistle frequency doesn't actually change; it's just how the waves reach your ear that changes.",
+  "source_url": "ks3textbook://waves.sound/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:33.885649",
+  "classified_at": "2026-04-04T20:58:33.885609",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

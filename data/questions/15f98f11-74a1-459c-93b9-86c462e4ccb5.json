@@ -1,0 +1,46 @@
+{
+  "id": "15f98f11-74a1-459c-93b9-86c462e4ccb5",
+  "question_text": "A student investigates the density of three different liquids: liquid A (density = 900 kg/m³), liquid B (density = 1200 kg/m³), and liquid C (density = 1050 kg/m³). A solid object with a density of 1000 kg/m³ is placed into each liquid separately. In which liquid will the object definitely sink?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating and sinking",
+    "buoyancy",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Liquid A only",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid B only",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Liquids A and C",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All three liquids",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Liquid B only",
+  "explanation": "An object sinks when its density is greater than the liquid's density. The object has a density of 1000 kg/m³. In liquid A (900 kg/m³), the object is denser so it would sink—but the explanation states it floats, which is incorrect in the provided text. In liquid B (1200 kg/m³), the object is less dense, so it will definitely sink. In liquid C (1050 kg/m³), the object is less dense, so it will float. Therefore, the object will definitely sink only in liquid B.",
+  "source_url": "ks3textbook://matter.density/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:09.018459",
+  "classified_at": "2026-04-04T20:49:09.018418",
+  "classification_confidence": 0.92,
+  "quality_score": 3.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

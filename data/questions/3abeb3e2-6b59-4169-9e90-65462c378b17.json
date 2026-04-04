@@ -1,0 +1,46 @@
+{
+  "id": "3abeb3e2-6b59-4169-9e90-65462c378b17",
+  "question_text": "The gravitational force between two objects depends on their masses and the distance between them. If the distance between Earth and the Moon were to double, what would happen to the gravitational force between them?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "gravitational force",
+    "inverse square law",
+    "distance relationships",
+    "calculation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It would double in magnitude",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It would be reduced to one quarter of its original value",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It would be reduced to half of its original value",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It would remain unchanged",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It would be reduced to one quarter of its original value",
+  "explanation": "Gravitational force follows an inverse square law, meaning it is inversely proportional to the square of the distance between two objects (F ∝ 1/d²). When the distance doubles, the force is divided by 2² = 4, so it becomes 1/4 of its original strength.",
+  "source_url": "ks3textbook://space.earth_moon/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:00.993535",
+  "classified_at": "2026-04-04T20:51:00.993497",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

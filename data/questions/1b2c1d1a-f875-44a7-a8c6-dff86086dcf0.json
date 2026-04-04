@@ -1,0 +1,47 @@
+{
+  "id": "1b2c1d1a-f875-44a7-a8c6-dff86086dcf0",
+  "question_text": "What is the moment of a force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "definition",
+    "moments",
+    "pivot",
+    "turning effect",
+    "fundamental concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The size of the force applied to an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The turning effect of a force around a pivot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The time it takes for a force to act",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The distance the force travels",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The turning effect of a force around a pivot",
+  "explanation": "A moment is the turning effect that happens when a force acts at a distance from a pivot point. It's what makes things rotate or turn. The moment is calculated by multiplying the force by how far it acts from the pivot (moment = force × perpendicular distance from pivot).",
+  "source_url": "oak://forces.moments/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:15.155800",
+  "classified_at": "2026-04-04T20:37:15.155759",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

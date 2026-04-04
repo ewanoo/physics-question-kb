@@ -1,0 +1,25 @@
+{
+  "id": "c012bcc3-0aef-4d4b-a261-1df77b7b4751",
+  "question_text": "If a blue filter is placed over a light source that emits only red light, what would be observed on a screen placed behind the filter?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "light filters",
+    "colour absorption",
+    "wavelength",
+    "light transmission"
+  ],
+  "options": null,
+  "correct_answer": "No light (darkness or a black screen) would be observed",
+  "explanation": "A blue filter only allows blue light to pass through it. Since the light source only emits red light, and red and blue are different wavelengths, the blue filter absorbs all the red light. With no light passing through the filter, the screen appears dark.",
+  "source_url": "ks3textbook://waves.colour/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:55.631727",
+  "classified_at": "2026-04-04T20:58:55.631688",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

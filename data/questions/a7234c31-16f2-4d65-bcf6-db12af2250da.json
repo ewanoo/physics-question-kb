@@ -1,0 +1,46 @@
+{
+  "id": "a7234c31-16f2-4d65-bcf6-db12af2250da",
+  "question_text": "Which of the following correctly lists the inner planets of the Solar System?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "inner planets",
+    "terrestrial planets",
+    "solar system structure",
+    "fact recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Jupiter, Saturn, Uranus, Neptune",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mercury, Venus, Earth, Mars",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth, Mars, Jupiter, Saturn",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Venus, Earth, Mars, Jupiter",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Mercury, Venus, Earth, Mars",
+  "explanation": "The inner planets (also called terrestrial planets) are the four planets closest to the Sun. They are small and rocky, unlike the outer gas giants. In order from the Sun, they are: Mercury, Venus, Earth, and Mars.",
+  "source_url": "ks3textbook://space.solar_system/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:45.475527",
+  "classified_at": "2026-04-04T20:49:45.475489",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

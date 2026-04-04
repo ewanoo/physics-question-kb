@@ -1,0 +1,46 @@
+{
+  "id": "7fb81b33-7d37-44d3-8257-3dbe3645d6ca",
+  "question_text": "Why do LED light bulbs waste less energy than incandescent bulbs?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy transfer",
+    "light bulbs",
+    "waste heat"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They use less electricity overall",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They convert a higher proportion of electrical energy into light rather than heat",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They do not produce any heat at all",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They are larger than incandescent bulbs",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "They convert a higher proportion of electrical energy into light rather than heat",
+  "explanation": "LED bulbs are more efficient than incandescent bulbs because they convert a larger fraction of the electrical energy they receive into useful light energy, while incandescent bulbs waste a lot of energy as unwanted heat. Both types produce some heat, but LEDs waste much less energy this way.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:16.013120",
+  "classified_at": "2026-04-04T20:54:16.013082",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

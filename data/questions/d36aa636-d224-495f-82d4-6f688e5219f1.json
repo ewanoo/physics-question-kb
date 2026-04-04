@@ -1,0 +1,25 @@
+{
+  "id": "d36aa636-d224-495f-82d4-6f688e5219f1",
+  "question_text": "What are the three states of matter?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "particle model",
+    "definition",
+    "fundamental concept"
+  ],
+  "options": null,
+  "correct_answer": "Solid, liquid, and gas",
+  "explanation": "Matter exists in three states. In solids, particles are tightly packed together and vibrate in fixed positions. In liquids, particles are close together but can move around each other. In gases, particles are far apart and move quickly in all directions. This is a key concept in the particle model of matter.",
+  "source_url": "generate://matter.particles/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:07.995156",
+  "classified_at": "2026-04-04T20:46:07.995112",
+  "classification_confidence": 0.99,
+  "quality_score": 5.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

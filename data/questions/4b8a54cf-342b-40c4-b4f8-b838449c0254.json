@@ -1,0 +1,27 @@
+{
+  "id": "4b8a54cf-342b-40c4-b4f8-b838449c0254",
+  "question_text": "How does the axial tilt of Earth cause both day-night cycles and seasonal changes?",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "axial_tilt",
+    "day_night_cycles",
+    "seasons",
+    "Earth_rotation",
+    "Earth_orbit",
+    "angle_of_incidence"
+  ],
+  "options": null,
+  "correct_answer": "The rotation of Earth on its tilted axis causes day-night cycles as different parts of Earth face towards and away from the Sun. The axial tilt (23.5°) relative to the orbital plane causes seasonal changes because as Earth orbits the Sun, the tilt changes which hemisphere receives more direct sunlight and experiences longer daylight hours, creating seasons.",
+  "explanation": "Earth's rotation on its axis (one spin every 24 hours) creates the day-night cycle. Because the axis is tilted at 23.5° to its orbital plane, different parts of Earth receive different amounts of direct sunlight as it orbits the Sun over a year. When your hemisphere is tilted towards the Sun, you get longer days, more direct rays, and warmer temperatures (summer). When tilted away, you get shorter days, less direct rays, and colder temperatures (winter). This tilt is the key reason we have seasons.",
+  "source_url": "oak://space.seasons/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:08.511576",
+  "classified_at": "2026-04-04T20:53:08.511531",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

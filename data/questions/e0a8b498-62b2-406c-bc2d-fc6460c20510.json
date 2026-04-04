@@ -1,0 +1,46 @@
+{
+  "id": "e0a8b498-62b2-406c-bc2d-fc6460c20510",
+  "question_text": "What is speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "definition",
+    "speed",
+    "kinematics",
+    "fundamental concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How fast something is moving in a particular direction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How fast something is moving",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The distance an object travels",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The time it takes to travel somewhere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "How fast something is moving",
+  "explanation": "Speed is a measure of how fast an object is moving. It tells us the rate at which something travels, but it doesn't include direction. When you add direction to speed, you get velocity. For example, 'driving at 60 km/h' is a speed, but 'driving at 60 km/h north' is a velocity.",
+  "source_url": "oak://forces.speed/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:22.654511",
+  "classified_at": "2026-04-04T20:35:22.654471",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

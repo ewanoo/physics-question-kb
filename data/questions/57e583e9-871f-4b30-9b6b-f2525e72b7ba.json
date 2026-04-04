@@ -1,0 +1,26 @@
+{
+  "id": "57e583e9-871f-4b30-9b6b-f2525e72b7ba",
+  "question_text": "A gas is compressed from a volume of 100 cm³ to 25 cm³ at constant temperature. Using the particle model, explain why the pressure of the gas increases.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "pressure",
+    "gas compression",
+    "particle collisions",
+    "constant temperature"
+  ],
+  "options": null,
+  "correct_answer": "The particles are forced closer together, so they collide with the container walls more frequently, increasing the pressure.",
+  "explanation": "When a gas is compressed to a quarter of its volume, the particles have much less space to move around in. They are packed more tightly together, which means they hit the container walls more often per second. Since pressure is caused by these particle collisions with the walls, more frequent collisions result in higher pressure. The temperature stays constant, so the particles aren't moving faster—there are just more collisions because there's less space.",
+  "source_url": "generate://matter.particles/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:47.647190",
+  "classified_at": "2026-04-04T20:46:47.647145",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

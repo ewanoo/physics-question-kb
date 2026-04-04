@@ -1,0 +1,47 @@
+{
+  "id": "40060b2a-c820-4089-816f-c924a05f2c02",
+  "question_text": "A sealed syringe contains air at room temperature. The plunger is pushed in, compressing the gas to half its original volume. What happens to the gas pressure and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas_pressure",
+    "particle_model",
+    "volume_pressure_relationship",
+    "kinetic_theory",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure decreases because the volume is smaller",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure increases because particles are forced closer together, colliding more frequently with the walls",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure stays the same because temperature hasn't changed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pressure doubles because volume is halved",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Pressure increases because particles are forced closer together, colliding more frequently with the walls",
+  "explanation": "When a gas is compressed into a smaller volume, the particles are forced closer together. This means they collide with the container walls more often per second. Since pressure is caused by these particle collisions, more frequent collisions result in higher pressure. This is why option D is incomplete—it only states the numerical result without explaining the underlying mechanism.",
+  "source_url": "oak://matter.gas_pressure/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:14.869653",
+  "classified_at": "2026-04-04T20:52:14.869617",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

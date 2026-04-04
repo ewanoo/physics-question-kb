@@ -1,0 +1,25 @@
+{
+  "id": "f8f4f929-26ee-498f-b693-7f743ebd9927",
+  "question_text": "Describe what happens to a light ray when it travels from glass into air. Explain your answer using the concept of density.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light speed",
+    "density",
+    "glass to air"
+  ],
+  "options": null,
+  "correct_answer": "The light ray speeds up and bends away from the normal. This happens because air is less dense than glass, so light travels faster in air. The change in speed causes the light to refract away from the normal line.",
+  "explanation": "When light travels from a denser medium (glass) to a less dense medium (air), it speeds up. This change in speed causes the light ray to bend away from the normal line - this is called refraction. The relationship between density and light speed means less dense materials allow light to travel faster, resulting in refraction away from the normal.",
+  "source_url": "generate://waves.light/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:09.534354",
+  "classified_at": "2026-04-04T20:40:09.534308",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

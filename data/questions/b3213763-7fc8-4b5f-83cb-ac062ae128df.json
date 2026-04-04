@@ -1,0 +1,47 @@
+{
+  "id": "b3213763-7fc8-4b5f-83cb-ac062ae128df",
+  "question_text": "Which of the following statements correctly describes the relationship between potential difference and current in an ohmic conductor?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohm's law",
+    "current",
+    "potential difference",
+    "ohmic conductor",
+    "proportionality"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Current is inversely proportional to potential difference",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Current is directly proportional to potential difference at constant temperature",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Potential difference increases as current decreases",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Current and potential difference are independent of one another",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Current is directly proportional to potential difference at constant temperature",
+  "explanation": "For an ohmic conductor, Ohm's law states that current (I) is directly proportional to potential difference (V) when temperature stays the same. This means if you double the voltage, the current doubles too. The relationship is I = V ÷ R, where R is resistance.",
+  "source_url": "ks3textbook://electricity.current_voltage/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:06.217978",
+  "classified_at": "2026-04-04T20:43:06.217937",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

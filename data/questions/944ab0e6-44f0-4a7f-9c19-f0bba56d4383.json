@@ -1,0 +1,46 @@
+{
+  "id": "944ab0e6-44f0-4a7f-9c19-f0bba56d4383",
+  "question_text": "A car is moving at a constant speed in a straight line. What can you say about the forces acting on the car?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "net force",
+    "constant velocity",
+    "Newton's first law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The driving force is greater than the friction force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces are balanced and the net force is zero",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There are no friction forces acting on the car",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The driving force is less than the friction force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The forces are balanced and the net force is zero",
+  "explanation": "When a car moves at constant speed in a straight line, its velocity is not changing. This means acceleration is zero. According to Newton's first law, if acceleration is zero, the net force must be zero. This happens when all forces are balanced - the driving force from the engine equals the friction force opposing the motion.",
+  "source_url": "generate://forces.balanced/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:21.742656",
+  "classified_at": "2026-04-04T20:55:21.742619",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

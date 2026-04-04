@@ -1,0 +1,47 @@
+{
+  "id": "75e17249-b43a-4583-bf5e-9c883d57c5d5",
+  "question_text": "A piece of red fabric appears red in white light. A student claims that the fabric must emit red light to appear red. Why is this claim incorrect, and what is actually happening?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour",
+    "reflection",
+    "absorption",
+    "light",
+    "misconception"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The fabric does emit red light; the student's claim is correct",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The fabric absorbs red light and reflects all other colours, making it appear red",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The fabric reflects red light and absorbs other colours from the white light; it does not emit light but reflects it",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The fabric contains red dye that only works under white light conditions",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The fabric reflects red light and absorbs other colours from the white light; it does not emit light but reflects it",
+  "explanation": "When white light shines on red fabric, the fabric absorbs (takes in) most colours but reflects (bounces back) red light. We see the red light that bounces off, not because the fabric makes light, but because it sends the red wavelengths from the white light back to our eyes. This is reflection, not emission.",
+  "source_url": "ks3textbook://waves.colour/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:30.611031",
+  "classified_at": "2026-04-04T20:59:30.610994",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

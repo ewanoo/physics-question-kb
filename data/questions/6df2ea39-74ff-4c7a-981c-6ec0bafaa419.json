@@ -1,0 +1,46 @@
+{
+  "id": "6df2ea39-74ff-4c7a-981c-6ec0bafaa419",
+  "question_text": "Which statement best explains why the Southern Hemisphere has summer when the Northern Hemisphere has winter?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "seasons",
+    "solar radiation",
+    "hemisphere comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Southern Hemisphere is closer to the Sun in December and January",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It receives more direct rays because it's tilted towards the Sun during this time",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Southern Hemisphere spins faster on its axis during this period",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Sun is directly above the equator for six months of the year",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It receives more direct rays because it's tilted towards the Sun during this time",
+  "explanation": "Earth's axis is tilted at 23.5°. When the Southern Hemisphere is tilted towards the Sun, it receives more direct (perpendicular) rays, which are more intense and concentrated. This causes summer in the Southern Hemisphere, even though the distance to the Sun barely changes. The Northern Hemisphere is tilted away, receiving more oblique rays, causing winter.",
+  "source_url": "oak://space.seasons/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:05.515837",
+  "classified_at": "2026-04-04T20:53:05.515798",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

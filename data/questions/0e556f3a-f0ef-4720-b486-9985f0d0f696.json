@@ -1,0 +1,47 @@
+{
+  "id": "0e556f3a-f0ef-4720-b486-9985f0d0f696",
+  "question_text": "How does pressure change as you go deeper into the ocean?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "fluids",
+    "depth",
+    "water pressure",
+    "concept application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure decreases because water is less dense deep down",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure increases because there is more water above pushing down",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure stays the same at all depths",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pressure increases then decreases again",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Pressure increases because there is more water above pushing down",
+  "explanation": "As you go deeper into the ocean, there is more water above you. The weight of all this water pushes down, creating greater pressure at greater depths. This is why deep-sea creatures are adapted to withstand very high pressures.",
+  "source_url": "oak://forces.pressure/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:22.972089",
+  "classified_at": "2026-04-04T20:36:22.972049",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "bba55f97-bdc2-4f12-ad29-6afdb6766b38",
+  "question_text": "In a series circuit containing a power supply, a switch, and two resistors with different resistance values, what is the relationship between the current flowing through the first resistor and the current flowing through the second resistor?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "current flow",
+    "resistance",
+    "circuit fundamentals"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The current is greater through the resistor with lower resistance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current is identical through both resistors",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The current is greater through the resistor with higher resistance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The currents are unrelated and depend only on the power supply voltage",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The current is identical through both resistors",
+  "explanation": "In a series circuit, there is only one continuous path for current to follow. All components are connected in a single loop, so the same current must flow through every component, regardless of their resistance values. The resistors will have different voltage drops across them, but the current flowing through each one is always the same.",
+  "source_url": "ks3textbook://electricity.circuits/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:37.210505",
+  "classified_at": "2026-04-04T20:42:37.210464",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

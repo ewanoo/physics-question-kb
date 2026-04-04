@@ -1,0 +1,26 @@
+{
+  "id": "0a08307e-0a10-4209-8caa-8706ca435217",
+  "question_text": "A student constructs a simple circuit and measures the current flowing through a resistor as 0.5 A when a potential difference of 10 V is applied across it. Using the relationship between current, voltage, and resistance, calculate the resistance of the component.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "resistance",
+    "current",
+    "voltage",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "20 Ω (ohms)",
+  "explanation": "Resistance is calculated using Ohm's law, which shows the relationship between resistance (R), voltage (V), and current (I). The formula is R = V ÷ I. Here, V = 10 V and I = 0.5 A, so R = 10 ÷ 0.5 = 20 Ω. This is a medium difficulty question because it requires applying Ohm's law to solve a single-step calculation.",
+  "source_url": "ks3textbook://electricity.current_voltage/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:04.712947",
+  "classified_at": "2026-04-04T20:43:04.712905",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

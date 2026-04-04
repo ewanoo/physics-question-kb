@@ -1,0 +1,50 @@
+{
+  "id": "5d7bee57-14a2-4052-afe6-b0ec8104cc89",
+  "question_text": "A scientist uses gamma radiation to sterilise medical equipment, whilst another uses visible light to examine a patient's retina using an ophthalmoscope. Which statement correctly compares the properties and uses of these two types of electromagnetic radiation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "gamma radiation",
+    "visible light",
+    "frequency",
+    "energy",
+    "medical applications",
+    "comparison",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gamma radiation has a lower frequency than visible light and is used for sterilisation because it passes through objects",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gamma radiation has a much higher frequency and energy than visible light, making it effective at destroying microorganisms, whilst visible light has lower energy and can be safely focused onto the eye",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Visible light has a shorter wavelength than gamma radiation and carries more energy per photon",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both radiations have the same frequency but different wavelengths, which determines their different applications",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gamma radiation has a much higher frequency and energy than visible light, making it effective at destroying microorganisms, whilst visible light has lower energy and can be safely focused onto the eye",
+  "explanation": "Gamma radiation has a very high frequency and carries high energy, which allows it to ionise molecules and destroy the cellular structures of microorganisms, making it useful for sterilisation. Visible light has much lower frequency and energy, making it safe to use in medical imaging like ophthalmoscopy where it is focused onto the eye. The energy of electromagnetic radiation is directly related to its frequency - higher frequency means higher energy.",
+  "source_url": "ks3textbook://waves.em_spectrum/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:42.261903",
+  "classified_at": "2026-04-04T20:41:42.261863",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

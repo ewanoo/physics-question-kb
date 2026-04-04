@@ -1,0 +1,48 @@
+{
+  "id": "9e91d949-49ae-4a32-865d-c984af6849bf",
+  "question_text": "Which statement correctly compares the gravitational field strengths on Earth and the Moon?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field strength",
+    "Earth",
+    "Moon",
+    "mass",
+    "radius",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth's field is stronger because it has greater mass and a larger radius",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Moon's field is stronger because it is closer to the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "They are equal because both are planets in space",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Earth's field is weaker because objects weigh less there",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Earth's field is stronger because it has greater mass and a larger radius",
+  "explanation": "Gravitational field strength depends on both an object's mass and its radius. Earth has much more mass than the Moon, which creates a stronger gravitational field. Although Earth's larger radius would normally decrease field strength, Earth's significantly greater mass has a dominant effect. This is why Earth's gravitational field strength (~10 N/kg) is about 6 times stronger than the Moon's (~1.6 N/kg), which is why objects weigh more on Earth than on the Moon.",
+  "source_url": "oak://space.gravity/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:54:01.195817",
+  "classified_at": "2026-04-04T20:54:01.195779",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

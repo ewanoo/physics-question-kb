@@ -1,0 +1,26 @@
+{
+  "id": "2b512822-a13d-4e89-bf6a-cea3795315d2",
+  "question_text": "A runner travels 800 metres in 200 seconds at a constant speed. How long would it take them to travel 2000 metres at the same speed?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "distance",
+    "time",
+    "constant_speed",
+    "multi-step_calculation"
+  ],
+  "options": null,
+  "correct_answer": "500 seconds",
+  "explanation": "First, calculate the runner's speed using speed = distance ÷ time: 800 ÷ 200 = 4 m/s. Then use time = distance ÷ speed to find how long it takes to run 2000 metres: 2000 ÷ 4 = 500 seconds. Alternatively, since 2000 metres is 2.5 times 800 metres, the time must also be 2.5 times longer: 200 × 2.5 = 500 seconds.",
+  "source_url": "oak://forces.speed/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:53.758073",
+  "classified_at": "2026-04-04T20:35:53.758033",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

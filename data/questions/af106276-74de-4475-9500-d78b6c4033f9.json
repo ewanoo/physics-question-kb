@@ -1,0 +1,25 @@
+{
+  "id": "af106276-74de-4475-9500-d78b6c4033f9",
+  "question_text": "A radio wave has a wavelength of 3 metres. Explain what this measurement tells you about the wave.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "wave_definition",
+    "radio_waves",
+    "conceptual_understanding"
+  ],
+  "options": null,
+  "correct_answer": "The distance between one wave crest and the next crest (or from one trough to the next trough) is 3 metres. This is one complete wavelength.",
+  "explanation": "Wavelength is the distance occupied by one complete wave cycle. It can be measured from crest to crest, trough to trough, or any corresponding point on adjacent waves. A wavelength of 3 metres means the pattern repeats every 3 metres along the direction of travel.",
+  "source_url": "generate://waves.properties/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:18.973193",
+  "classified_at": "2026-04-04T20:38:18.973155",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

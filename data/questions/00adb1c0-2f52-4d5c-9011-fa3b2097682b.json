@@ -1,0 +1,26 @@
+{
+  "id": "00adb1c0-2f52-4d5c-9011-fa3b2097682b",
+  "question_text": "A tuning fork with a frequency of 256 Hz vibrates in air. How many complete oscillations does the tuning fork complete in 0.5 seconds?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "oscillations",
+    "tuning fork",
+    "time period",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "128 oscillations",
+  "explanation": "Frequency tells us how many complete oscillations happen in one second. A 256 Hz tuning fork completes 256 oscillations per second. To find oscillations in 0.5 seconds, multiply: 256 × 0.5 = 128 oscillations.",
+  "source_url": "ks3textbook://waves.sound/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:11.572614",
+  "classified_at": "2026-04-04T20:58:11.572574",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

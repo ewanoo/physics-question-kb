@@ -1,0 +1,25 @@
+{
+  "id": "6050d72d-1dde-49b8-a4fe-58ac1760be55",
+  "question_text": "Explain why adding more components in parallel reduces the total resistance of the circuit.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "resistance",
+    "current flow",
+    "circuit analysis"
+  ],
+  "options": null,
+  "correct_answer": "Adding more parallel branches provides additional paths for current to flow. The more paths available, the easier it is for current to flow through the circuit, which results in lower total resistance.",
+  "explanation": "When components are connected in parallel, each new branch gives current another route to take. Think of it like adding extra lanes to a road - more lanes mean traffic flows more easily. The total resistance decreases because the current has multiple paths, so the overall opposition to current flow is reduced. The formula 1/R_total = 1/R₁ + 1/R₂ + 1/R₃ + ... shows that adding more branches (more terms on the right) makes 1/R_total larger, which means R_total gets smaller.",
+  "source_url": "ks3textbook://electricity.circuits/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:17.214918",
+  "classified_at": "2026-04-04T20:42:17.214876",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

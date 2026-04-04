@@ -1,0 +1,25 @@
+{
+  "id": "fc31ec19-05f0-4d41-9659-a595897c0ffe",
+  "question_text": "What happens to the particles in a substance when it melts?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "particle_model",
+    "states_of_matter",
+    "heat_energy"
+  ],
+  "options": null,
+  "correct_answer": "The particles gain energy and start to move more freely, breaking some of the bonds that hold them in fixed positions.",
+  "explanation": "When a solid melts, heat energy is added to the substance. This energy causes the particles to vibrate more vigorously and move around more freely. The strong bonds holding particles in fixed positions in the solid structure are broken, allowing them to move as a liquid while still being close together.",
+  "source_url": "generate://matter.states/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:03.116472",
+  "classified_at": "2026-04-04T20:47:03.116433",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

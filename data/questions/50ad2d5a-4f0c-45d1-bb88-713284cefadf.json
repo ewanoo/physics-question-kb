@@ -1,0 +1,26 @@
+{
+  "id": "50ad2d5a-4f0c-45d1-bb88-713284cefadf",
+  "question_text": "A student measures the speed of sound by making a loud noise between two walls 100 m apart and timing the echo with a stopwatch. The measured time is 0.6 seconds. Calculate the speed of sound from this data and explain why this calculated value might differ from the accepted value of 340 m/s.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "speed of sound",
+    "echo",
+    "experimental error",
+    "human error",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "Speed of sound = 333 m/s. This is close to the accepted value of 340 m/s. Inaccuracies may result from: reaction time error when using a stopwatch, temperature differences affecting sound speed, and timing difficulties.",
+  "explanation": "The sound travels from the student to the wall and back, so the total distance is 200 m (not 100 m). Using speed = distance ÷ time gives 200 ÷ 0.6 = 333 m/s. The small difference from 340 m/s is likely due to human reaction time when starting and stopping the stopwatch, which introduces significant error in short time measurements. Temperature also affects sound speed—if the room was cooler than standard conditions, this would lower the measured value.",
+  "source_url": "generate://waves.sound/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:40.066758",
+  "classified_at": "2026-04-04T20:39:40.066720",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

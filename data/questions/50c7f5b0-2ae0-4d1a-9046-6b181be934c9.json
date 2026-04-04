@@ -1,0 +1,25 @@
+{
+  "id": "50c7f5b0-2ae0-4d1a-9046-6b181be934c9",
+  "question_text": "Why would wrapping an iron core inside an electromagnet's coil make it much stronger than an electromagnet without a core?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "ferromagnetic materials",
+    "magnetic fields",
+    "magnetic domains"
+  ],
+  "options": null,
+  "correct_answer": "The iron core becomes magnetised by the magnetic field from the coil. Its magnetic domains align and amplify the overall magnetic field, making the electromagnet much stronger.",
+  "explanation": "Iron is a ferromagnetic material, which means its internal magnetic domains (tiny atomic magnets) can easily align with an external magnetic field. When an iron core is placed inside an electromagnet's coil, the magnetic field from the coil causes the iron's domains to line up. This alignment adds the iron's own magnetic field to the coil's field, resulting in a much stronger overall magnetic field than the coil alone could produce.",
+  "source_url": "oak://electricity.magnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:07.267858",
+  "classified_at": "2026-04-04T20:45:07.267821",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

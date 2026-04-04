@@ -1,0 +1,46 @@
+{
+  "id": "36ed5d75-1a83-40ca-b964-07b2c101ecaf",
+  "question_text": "Two springs are tested. Spring A has a spring constant of 100 N/m and Spring B has a spring constant of 50 N/m. When the same force is applied to both springs, which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "inverse relationship",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Spring A stretches more because it has a larger spring constant",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Spring B stretches more because it has a smaller spring constant",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both springs stretch by the same amount",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Spring A stretches more because it is stiffer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Spring B stretches more because it has a smaller spring constant",
+  "explanation": "Hooke's law states that F = k × e, where F is the force, k is the spring constant, and e is the extension. If the same force is applied to both springs, a smaller spring constant means a larger extension. Spring B has a smaller spring constant (50 N/m compared to 100 N/m), so it is less stiff and will stretch more than Spring A.",
+  "source_url": "generate://forces.springs/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:31.079083",
+  "classified_at": "2026-04-04T20:56:31.079044",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d76a6846-f3a5-470b-895a-3e403ac6557f",
+  "question_text": "Which of the following is the correct definition of wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "wave_definitions",
+    "vocabulary",
+    "definition_recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of waves produced in one second",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The distance between one point on a wave and the same point on the next wave",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The maximum distance a wave moves from its starting position",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which a wave travels",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The distance between one point on a wave and the same point on the next wave",
+  "explanation": "Wavelength is the distance between two identical points on consecutive waves, such as from crest to crest or trough to trough. It is measured in metres. Option A describes frequency, Option C describes amplitude, and Option D describes wave speed.",
+  "source_url": "generate://waves.properties/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:37:59.399196",
+  "classified_at": "2026-04-04T20:37:59.399158",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

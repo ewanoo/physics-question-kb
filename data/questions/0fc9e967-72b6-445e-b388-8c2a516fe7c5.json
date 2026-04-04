@@ -1,0 +1,26 @@
+{
+  "id": "0fc9e967-72b6-445e-b388-8c2a516fe7c5",
+  "question_text": "A plane mirror and a curved mirror are placed side by side. A student looks at both mirrors and notices that the plane mirror shows a normal-sized image while the curved mirror shows an enlarged image. Explain why the curved mirror produces a different image and identify what type of curved mirror it must be.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "curved mirrors",
+    "concave mirrors",
+    "reflection",
+    "image formation",
+    "mirror types"
+  ],
+  "options": null,
+  "correct_answer": "The curved mirror is a concave mirror. Concave mirrors have a curved surface that reflects light rays to converge at a focal point. When an object is placed between the focal point and the mirror, a magnified, upright virtual image is produced. In contrast, a plane mirror always produces an image the same size as the object.",
+  "explanation": "A concave (converging) mirror curves inward like a bowl. Its curved shape causes reflected light rays to bend and meet at a point called the focal point. This convergence of light rays creates a magnified image when you look into it from a close distance. A plane (flat) mirror reflects light at equal angles and cannot magnify images. The key difference is how the curvature changes the angle of reflection for different parts of the mirror surface.",
+  "source_url": "generate://waves.light/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:25.591744",
+  "classified_at": "2026-04-04T20:40:25.591705",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1416460c-b396-4944-9b3b-cda45e823ef6",
+  "question_text": "Why is it easier to open a tin of paint using a long-handled lever than a short-handled one?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "levers",
+    "moments",
+    "mechanical advantage",
+    "pivot",
+    "turning effect"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because the long handle is lighter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because a larger distance from the pivot produces a larger moment with the same force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because long handles are stronger",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because it requires less distance to move",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Because a larger distance from the pivot produces a larger moment with the same force",
+  "explanation": "A moment is a turning effect produced by a force. The larger the distance from the pivot (the turning point), the larger the moment you can create with the same force. This is why a long-handled lever makes it easier to open a tin of paint—you can apply less force but still produce enough turning moment to lift the lid.",
+  "source_url": "oak://forces.moments/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:59.233021",
+  "classified_at": "2026-04-04T20:36:59.232985",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

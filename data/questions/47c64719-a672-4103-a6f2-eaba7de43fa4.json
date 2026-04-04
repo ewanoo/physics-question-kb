@@ -1,0 +1,26 @@
+{
+  "id": "47c64719-a672-4103-a6f2-eaba7de43fa4",
+  "question_text": "A 10 N force is applied 2 metres from a pivot. What is the moment produced?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "pivot",
+    "force",
+    "distance",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "20 N m",
+  "explanation": "Moment is calculated using the formula: Moment = Force × Perpendicular Distance from the pivot. Here, Moment = 10 N × 2 m = 20 N m. Moments are measured in newton metres (N m) and represent the turning effect of a force around a pivot.",
+  "source_url": "oak://forces.moments/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:34.879943",
+  "classified_at": "2026-04-04T20:37:34.879910",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,20 +1,18 @@
 {
   "status": "complete",
-  "iterations": 36,
-  "questions_total": 644,
+  "iterations": 45,
+  "questions_total": 1049,
   "started_at": "2026-04-04T19:05:25.119731",
   "last_action": {
-    "scraper": "oak_national",
+    "scraper": "ks3_textbook",
     "topic_hints": [
-      "forces.speed",
-      "forces.pressure",
-      "forces.moments",
-      "forces.springs",
-      "waves.properties"
+      "waves.colour",
+      "forces.gravity",
+      "waves.sound"
     ],
-    "reason": "'forces.speed' has 0 questions (need 5+) | Need more medium questions (25/50)"
+    "reason": "'waves.colour' has 5 questions (need 5+)"
   },
-  "last_iteration_at": "2026-04-04T20:18:15.677474",
-  "final_total": 119,
-  "is_complete": false
+  "last_iteration_at": "2026-04-04T20:59:35.983963",
+  "final_total": 524,
+  "is_complete": true
 }

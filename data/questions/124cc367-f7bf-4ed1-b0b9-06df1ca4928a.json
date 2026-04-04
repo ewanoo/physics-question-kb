@@ -1,0 +1,26 @@
+{
+  "id": "124cc367-f7bf-4ed1-b0b9-06df1ca4928a",
+  "question_text": "LED bulbs are more efficient than traditional incandescent bulbs. Why does this matter for reducing energy waste?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy waste",
+    "LED bulbs",
+    "incandescent bulbs",
+    "practical applications"
+  ],
+  "options": null,
+  "correct_answer": "LED bulbs convert more of the electrical energy into light and waste less as heat, so less total energy needs to be supplied to produce the same amount of light. This reduces electricity consumption and energy waste.",
+  "explanation": "Efficiency measures how much useful energy output you get from the energy input. LED bulbs are much more efficient (80-90%) than incandescent bulbs (5%) because they convert most of the electrical energy into light rather than wasting it as heat. This means you need less electricity to get the same brightness, which saves energy and reduces waste.",
+  "source_url": "generate://energy.efficiency/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:34.115162",
+  "classified_at": "2026-04-04T20:54:34.115125",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

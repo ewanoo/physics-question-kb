@@ -1,0 +1,27 @@
+{
+  "id": "895ce95c-c243-43e6-8ff3-981037afd655",
+  "question_text": "Explain why locations at the equator experience roughly equal day and night lengths all year round, while locations at higher latitudes experience significant variation in day length between seasons.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "day length",
+    "latitude",
+    "equator",
+    "seasonal variation",
+    "orbital mechanics"
+  ],
+  "options": null,
+  "correct_answer": "At the equator, the Sun's path across the sky is always roughly equal above and below the horizon throughout the year because the equator remains perpendicular to Earth's axis of tilt. As Earth orbits, the equator maintains the same angular relationship to the Sun's rays, resulting in approximately 12 hours of daylight and 12 hours of darkness year-round. At higher latitudes, Earth's tilt causes dramatic seasonal changes in which parts receive daylight. During summer, these latitudes tilt towards the Sun, extending daylight hours significantly, while during winter, they tilt away, reducing daylight hours substantially.",
+  "explanation": "The equator is a special latitude because it sits exactly on Earth's axis of rotation. No matter where Earth is in its orbit around the Sun, the equator always has roughly half facing the Sun and half in shadow. At higher latitudes (further from the equator), Earth's tilt becomes much more important. In summer, your location tilts towards the Sun so you get longer days. In winter, you tilt away from the Sun so days are much shorter. This is why places like the UK have very long summer days and very short winter days, but countries near the equator have roughly the same day length all year.",
+  "source_url": "oak://space.seasons/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:14.580050",
+  "classified_at": "2026-04-04T20:53:14.580010",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

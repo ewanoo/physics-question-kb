@@ -1,0 +1,47 @@
+{
+  "id": "9967b9b8-9008-4a39-81fd-f91ab2012806",
+  "question_text": "Which statement best explains why gas pressure increases when a gas is compressed into a smaller volume at constant temperature?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "gas_pressure",
+    "particle_model",
+    "pressure_explanation",
+    "compression",
+    "collision_theory"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The gas particles move faster and hit the container walls harder",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "More gas particles are squeezed into the same space, so they collide with the walls more frequently",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The gas particles become heavier when compressed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The container walls become thinner and transfer more force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "More gas particles are squeezed into the same space, so they collide with the walls more frequently",
+  "explanation": "When a gas is compressed into a smaller volume at constant temperature, the same number of particles now occupy less space. This increases particle density. Since particles move at the same speed (temperature is constant), they collide with the container walls more often, creating higher pressure. Pressure depends on both the number of collisions and their force, not on particle speed alone.",
+  "source_url": "oak://forces.pressure/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:37.819800",
+  "classified_at": "2026-04-04T20:36:37.819764",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

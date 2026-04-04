@@ -1,0 +1,47 @@
+{
+  "id": "a5eb9475-3ce7-40f0-90a7-14d5cc1d8d2d",
+  "question_text": "What is an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "definition",
+    "electromagnets",
+    "electricity",
+    "magnetism",
+    "coil"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A magnet made from iron that is always magnetic",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A magnet created by electricity flowing through a coil of wire",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A permanent magnet found in nature",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A device that converts magnetism into electricity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A magnet created by electricity flowing through a coil of wire",
+  "explanation": "An electromagnet is made by wrapping wire around an iron core and passing electric current through it. The electric current creates a magnetic field around the coil. Unlike permanent magnets, electromagnets can be switched on and off by controlling the electric current.",
+  "source_url": "oak://electricity.electromagnets/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:20.658982",
+  "classified_at": "2026-04-04T20:45:20.658939",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

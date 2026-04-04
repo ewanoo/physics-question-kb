@@ -1,0 +1,46 @@
+{
+  "id": "f3e391e5-8ff0-47b8-923b-c22b72947967",
+  "question_text": "What happens to the pressure exerted by a gas when the volume it occupies is decreased?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "gas pressure",
+    "volume",
+    "particle collisions",
+    "compression"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pressure stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure becomes zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The pressure increases",
+  "explanation": "When a gas is compressed into a smaller volume, its particles are forced closer together. They collide with the container walls more frequently, which increases the pressure exerted on the surfaces.",
+  "source_url": "oak://forces.pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:10.286727",
+  "classified_at": "2026-04-04T20:36:10.286679",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "54e55fc0-6826-4ef0-90ab-174eaca429a1",
+  "question_text": "Which statement correctly explains why an electromagnet can be switched on and off, but a permanent magnet cannot?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "permanent magnets",
+    "magnetic fields",
+    "electric current",
+    "magnetic domains",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electromagnets use electricity to align electrons, while permanent magnets have randomly arranged electrons",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electromagnets rely on electric current to create a magnetic field, which disappears when current stops; permanent magnets have atoms with aligned domains that stay aligned",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Permanent magnets are stronger so they cannot be turned off by any method",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electromagnets produce a temporary magnetic field while permanent magnets produce a permanent field because they are made of stronger materials",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Electromagnets rely on electric current to create a magnetic field, which disappears when current stops; permanent magnets have atoms with aligned domains that stay aligned",
+  "explanation": "Electromagnets work by using electric current flowing through a coil of wire to create a magnetic field. When you switch off the current, the magnetic field disappears immediately. Permanent magnets have their atomic particles (magnetic domains) permanently aligned, so their magnetic field is always present and cannot be switched off. This is why electromagnets can be controlled but permanent magnets cannot.",
+  "source_url": "oak://electricity.magnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:00.822672",
+  "classified_at": "2026-04-04T20:45:00.822633",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

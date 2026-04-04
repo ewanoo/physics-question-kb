@@ -1,0 +1,46 @@
+{
+  "id": "51cb2cad-8adf-4b30-95ee-58055dbb5149",
+  "question_text": "What would happen to an electromagnet if you switched off the electric current?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "electric current",
+    "magnetic fields",
+    "switching circuits"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It would remain magnetic forever",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It would immediately lose its magnetism",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It would become stronger",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It would change into a permanent magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It would immediately lose its magnetism",
+  "explanation": "An electromagnet works by passing electric current through a coil of wire, which creates a magnetic field. When you switch off the current, the magnetic field disappears instantly because there is no longer any current flowing through the coil. Unlike permanent magnets, electromagnets only produce magnetism when current is flowing.",
+  "source_url": "oak://electricity.electromagnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:42.952871",
+  "classified_at": "2026-04-04T20:45:42.952831",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "d87927f9-fef8-436d-ade3-d90fd0b22eaa",
+  "question_text": "A spanner is used to tighten a bolt. Which change would make it easier to turn the bolt: using a longer spanner or applying the same force closer to the bolt?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "levers",
+    "turning effect",
+    "pivot",
+    "perpendicular distance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Using a longer spanner would make it easier",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Applying force closer to the bolt would make it easier",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both changes would have the same effect",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Neither change would affect how easy it is to turn",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Using a longer spanner would make it easier",
+  "explanation": "A longer spanner increases the perpendicular distance from the pivot point (the bolt). Since moment = force × perpendicular distance, a larger distance means a larger turning effect (moment) is produced. This makes it easier to turn the bolt with the same applied force.",
+  "source_url": "oak://forces.moments/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:30.964430",
+  "classified_at": "2026-04-04T20:37:30.964392",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

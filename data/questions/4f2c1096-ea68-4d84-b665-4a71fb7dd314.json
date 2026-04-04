@@ -1,0 +1,46 @@
+{
+  "id": "4f2c1096-ea68-4d84-b665-4a71fb7dd314",
+  "question_text": "A rubber band is stretched beyond its elastic limit. What will happen when you release it?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "plastic deformation",
+    "elasticity",
+    "Hooke's law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It will return to its original shape perfectly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It will not return to its original shape and will remain stretched",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It will become shorter than its original length",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It will snap immediately",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It will not return to its original shape and will remain stretched",
+  "explanation": "When a material is stretched beyond its elastic limit, it undergoes permanent (plastic) deformation. The material loses its elasticity and cannot return to its original shape when the force is removed. This is why rubber bands that are over-stretched become loose and floppy.",
+  "source_url": "generate://forces.springs/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:15.977670",
+  "classified_at": "2026-04-04T20:56:15.977620",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

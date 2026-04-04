@@ -1,0 +1,26 @@
+{
+  "id": "fa73d4ef-fc43-4967-9bc6-5fe78c060b09",
+  "question_text": "A partially filled balloon is sealed at sea level and then taken to the top of a high mountain where the atmospheric pressure is much lower. Predict what will happen to the balloon and explain your answer using particle theory.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "particle_theory",
+    "pressure",
+    "atmospheric_pressure",
+    "gas_behaviour",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "The balloon will expand. At sea level, atmospheric pressure pushes inward on the balloon. At the mountain top, the atmospheric pressure is lower, so there is less force pushing inward. The gas particles inside the balloon continue to collide with the balloon's surface with the same frequency, but now there is less external pressure balancing this. The balloon expands until the internal and external pressures reach a new equilibrium.",
+  "explanation": "This question tests understanding of gas pressure using particle theory. Pressure results from gas particles colliding with surfaces. At sea level, high atmospheric pressure pushes inward on the balloon, balancing the outward push from particles inside. On the mountain, lower atmospheric pressure means weaker inward force, so the internal particle collisions push the balloon outward. The balloon expands until pressures balance again. This demonstrates that pressure depends on particle collisions and the number of particles hitting a surface.",
+  "source_url": "generate://matter.states/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:46.776134",
+  "classified_at": "2026-04-04T20:47:46.776086",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

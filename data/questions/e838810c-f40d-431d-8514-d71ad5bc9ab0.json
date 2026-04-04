@@ -1,0 +1,25 @@
+{
+  "id": "e838810c-f40d-431d-8514-d71ad5bc9ab0",
+  "question_text": "The gravitational field strength on Earth's surface is 10 N/kg. Calculate the weight of an object with a mass of 4.5 kg.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field strength",
+    "formula application"
+  ],
+  "options": null,
+  "correct_answer": "45 N",
+  "explanation": "Weight is calculated using W = m × g, where m is mass in kilograms and g is gravitational field strength in N/kg. Multiplying 4.5 kg by 10 N/kg gives 45 newtons. This is a straightforward application of the weight formula.",
+  "source_url": "ks3textbook://forces.gravity/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:01.630130",
+  "classified_at": "2026-04-04T20:57:01.630087",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

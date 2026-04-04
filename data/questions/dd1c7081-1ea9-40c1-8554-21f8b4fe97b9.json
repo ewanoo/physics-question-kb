@@ -1,0 +1,47 @@
+{
+  "id": "dd1c7081-1ea9-40c1-8554-21f8b4fe97b9",
+  "question_text": "How is average speed different from instantaneous speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "definitions",
+    "average speed",
+    "instantaneous speed",
+    "kinematics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Average speed is the total distance divided by total time; instantaneous speed is the speed at one moment",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "They are exactly the same thing",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Instantaneous speed is always faster",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Average speed only works for cars",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Average speed is the total distance divided by total time; instantaneous speed is the speed at one moment",
+  "explanation": "Average speed tells you the overall rate of travel for the whole journey (total distance ÷ total time). Instantaneous speed is what you measure at a specific moment in time - like what a car's speedometer shows right now. For example, on a car journey, your average speed might be 50 mph for the whole trip, but your instantaneous speed changes constantly as you speed up and slow down.",
+  "source_url": "oak://forces.speed/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:26.967550",
+  "classified_at": "2026-04-04T20:35:26.967506",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

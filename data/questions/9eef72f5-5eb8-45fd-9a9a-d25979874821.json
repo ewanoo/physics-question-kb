@@ -1,0 +1,25 @@
+{
+  "id": "9eef72f5-5eb8-45fd-9a9a-d25979874821",
+  "question_text": "Define what is meant by a 'closed circuit' and explain why it is necessary for current to flow.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuits",
+    "current flow",
+    "definitions",
+    "closed circuits"
+  ],
+  "options": null,
+  "correct_answer": "A closed circuit is a complete conducting path that allows electric current to flow continuously from the positive terminal of a power supply, through components, and back to the negative terminal. It is necessary for current to flow because current requires a complete path; without a closed circuit, charge cannot move continuously.",
+  "explanation": "A closed circuit is like a complete loop where electricity can travel all the way around. Think of it like a circular racetrack - the cars (electrons) can only keep moving if the track is complete. If there's a break anywhere (an open circuit), the current stops flowing, just like a car would stop if the track was broken.",
+  "source_url": "ks3textbook://electricity.circuits/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:02.802349",
+  "classified_at": "2026-04-04T20:42:02.802309",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "71898840-d378-4995-a8ec-d88b37189e8b",
+  "question_text": "Which factor does NOT affect the size of a moment?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "levers",
+    "pivot",
+    "force",
+    "distance",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The size of the force applied",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The distance from the pivot",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The colour of the lever",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The direction the force is applied",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The colour of the lever",
+  "explanation": "A moment (or turning effect) depends on two things: the size of the force applied and how far from the pivot the force is applied. The direction of the force also matters. The colour of the lever is a physical property that has no effect on the turning effect produced. This question tests understanding of which variables actually affect moments.",
+  "source_url": "oak://forces.moments/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:53.694059",
+  "classified_at": "2026-04-04T20:36:53.694016",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

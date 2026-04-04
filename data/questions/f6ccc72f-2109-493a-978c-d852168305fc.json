@@ -1,0 +1,46 @@
+{
+  "id": "f6ccc72f-2109-493a-978c-d852168305fc",
+  "question_text": "What is the elastic limit of a spring?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "spring deformation",
+    "Hooke's law",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The maximum force that can ever be applied to a spring",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The point beyond which a spring will not return to its original shape",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The point where the spring breaks into pieces",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force needed to stretch a spring by 1 centimetre",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The point beyond which a spring will not return to its original shape",
+  "explanation": "The elastic limit is the maximum force that can be applied to a spring while still allowing it to return to its original length and shape. If you exceed this limit, the spring becomes permanently deformed and won't bounce back. This is an important concept when studying springs and forces.",
+  "source_url": "generate://forces.springs/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:58.880089",
+  "classified_at": "2026-04-04T20:55:58.880038",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

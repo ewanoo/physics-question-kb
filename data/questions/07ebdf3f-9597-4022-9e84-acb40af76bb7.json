@@ -1,0 +1,47 @@
+{
+  "id": "07ebdf3f-9597-4022-9e84-acb40af76bb7",
+  "question_text": "What is the name of the process where water vapour (a gas) turns back into liquid water?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "changes of state",
+    "condensation",
+    "gas to liquid",
+    "water cycle",
+    "particle model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Evaporation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Melting",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Condensation",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Freezing",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Condensation",
+  "explanation": "Condensation is the process where a gas cools down and turns into a liquid. Water vapour in the air condenses into liquid water when it cools, such as on cold windows or when forming clouds. It is the reverse process of evaporation.",
+  "source_url": "generate://matter.changes/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:00.844767",
+  "classified_at": "2026-04-04T20:48:00.844732",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

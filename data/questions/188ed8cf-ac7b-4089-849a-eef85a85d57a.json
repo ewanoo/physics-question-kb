@@ -1,0 +1,25 @@
+{
+  "id": "188ed8cf-ac7b-4089-849a-eef85a85d57a",
+  "question_text": "When magenta light passes through a cyan filter, no light is transmitted. Using your knowledge of colour addition and filters, explain why this occurs.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour_addition",
+    "colour_filters",
+    "light_absorption",
+    "colour_composition"
+  ],
+  "options": null,
+  "correct_answer": "Magenta light is composed of red and blue light. A cyan filter transmits only cyan light (blue and green) and absorbs red light. Since magenta contains red light but no green light, and the cyan filter only transmits blue and green components, the red component is absorbed and the green component is absent. Therefore, no light is transmitted through the cyan filter.",
+  "explanation": "Magenta is made by combining red and blue light. Cyan is made by combining blue and green light. A cyan filter only allows blue and green light to pass through and absorbs all other colours. When magenta light (red + blue) hits the cyan filter, the red light is absorbed completely. Although magenta contains blue light, the cyan filter requires both blue AND green to transmit light in the cyan colour range. Since magenta has no green component, even the blue light cannot form cyan light, so no light emerges.",
+  "source_url": "ks3textbook://waves.colour/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:28.851872",
+  "classified_at": "2026-04-04T20:59:28.851833",
+  "classification_confidence": 0.85,
+  "quality_score": 4.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

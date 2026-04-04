@@ -1,0 +1,25 @@
+{
+  "id": "504d7de4-cb55-4011-8c5f-163956ba0526",
+  "question_text": "Explain why heating a substance usually causes it to expand, using the particle model of matter.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "heating",
+    "thermal expansion",
+    "kinetic energy"
+  ],
+  "options": null,
+  "correct_answer": "When heated, particles gain energy and vibrate faster. Faster-moving particles need more space to move around, so the spaces between particles increase, causing the substance to expand.",
+  "explanation": "The particle model explains that all matter is made of tiny particles in constant motion. When you heat a substance, you give its particles more energy, so they move faster and vibrate more vigorously. Because they're moving around more energetically, they need larger gaps between them. This increased spacing throughout the substance results in the overall volume expanding.",
+  "source_url": "generate://matter.particles/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:31.554996",
+  "classified_at": "2026-04-04T20:46:31.554959",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

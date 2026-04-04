@@ -1,0 +1,25 @@
+{
+  "id": "cec2de12-f87e-4e55-82cc-6254bf2e0cb0",
+  "question_text": "Name three ways households can reduce energy waste in their homes.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "household energy",
+    "energy conservation",
+    "insulation",
+    "appliances"
+  ],
+  "options": null,
+  "correct_answer": "Any three of: using LED bulbs, insulating walls and lofts, fitting double glazing, turning off appliances when not in use, using draught excluders, reducing heating temperature, using efficient appliances",
+  "explanation": "Households can reduce energy waste through insulation (preventing heat loss from walls, lofts, and windows), using more efficient devices (LED bulbs, efficient appliances), or reducing unnecessary energy consumption (turning off appliances, lowering heating temperature). These methods lower energy bills and reduce environmental impact.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:17.974194",
+  "classified_at": "2026-04-04T20:54:17.974156",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

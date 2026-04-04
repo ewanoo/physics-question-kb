@@ -1,0 +1,25 @@
+{
+  "id": "a044c5d6-a402-474e-be5f-a3cdac5c6685",
+  "question_text": "Why do we have seasons?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "orbital mechanics",
+    "seasons",
+    "sunlight distribution"
+  ],
+  "options": null,
+  "correct_answer": "Because Earth's axis is tilted as it orbits the Sun. Different parts of Earth receive different amounts of direct sunlight throughout the year.",
+  "explanation": "Earth's axis is tilted at 23.5 degrees. As Earth orbits the Sun, this tilt means that sometimes the Northern Hemisphere is tilted towards the Sun (summer in the north) and sometimes away from it (winter in the north). When your hemisphere is tilted towards the Sun, you receive more direct sunlight and it's warmer - that's summer. When tilted away, you receive less direct sunlight at a lower angle - that's winter.",
+  "source_url": "oak://space.seasons/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:32.974821",
+  "classified_at": "2026-04-04T20:52:32.974781",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

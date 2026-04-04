@@ -1,0 +1,46 @@
+{
+  "id": "4068dd87-0ddc-47f8-a28c-092a4d2cbcb1",
+  "question_text": "Why does an electromagnet stop being magnetic when the electric current is switched off?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "electric current",
+    "magnetic fields",
+    "cause and effect"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The iron core rusts and loses its magnetism",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "There is no electric current flowing through the coil to create the magnetic field",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The wire becomes too cold to be magnetic",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The magnetic field moves to a different location",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "There is no electric current flowing through the coil to create the magnetic field",
+  "explanation": "An electromagnet creates a magnetic field only when electric current flows through its wire coil. When the current is switched off, there is no flowing charge to generate the magnetic field, so the electromagnet stops being magnetic. This is different from a permanent magnet, which maintains its magnetism without needing electricity.",
+  "source_url": "oak://electricity.electromagnets/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:25.938834",
+  "classified_at": "2026-04-04T20:45:25.938794",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

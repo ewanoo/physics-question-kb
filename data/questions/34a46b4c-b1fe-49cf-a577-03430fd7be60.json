@@ -1,0 +1,25 @@
+{
+  "id": "34a46b4c-b1fe-49cf-a577-03430fd7be60",
+  "question_text": "A piece of chocolate melts at 34°C. If the chocolate is at room temperature (20°C), what temperature increase is needed for it to melt?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "melting point",
+    "temperature change",
+    "states of matter",
+    "arithmetic"
+  ],
+  "options": null,
+  "correct_answer": "14°C (or 14 K)",
+  "explanation": "To find the temperature increase needed, subtract the initial temperature from the melting point: 34°C − 20°C = 14°C. A temperature difference of 14°C (or 14 K) is required for the chocolate to reach its melting point.",
+  "source_url": "generate://matter.changes/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:17.224270",
+  "classified_at": "2026-04-04T20:48:17.224232",
+  "classification_confidence": 0.92,
+  "quality_score": 3.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

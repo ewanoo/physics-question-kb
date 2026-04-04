@@ -1,0 +1,28 @@
+{
+  "id": "05b7465e-b898-44f5-ba62-e467e3de6bea",
+  "question_text": "Two mobile phone networks operate at different frequencies within the microwave region of the electromagnetic spectrum. Network A uses a frequency of 2.4 GHz, whilst Network B uses a frequency of 5.8 GHz. Evaluate which network would be expected to have better range and explain your reasoning in terms of electromagnetic properties.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "microwaves",
+    "frequency",
+    "wavelength",
+    "diffraction",
+    "absorption",
+    "electromagnetic_properties",
+    "radio_waves"
+  ],
+  "options": null,
+  "correct_answer": "Network A (2.4 GHz) would be expected to have better range because it has a longer wavelength. Longer wavelength electromagnetic radiation diffracts more readily around obstacles and is absorbed less by the atmosphere.",
+  "explanation": "Network A operates at a lower frequency (2.4 GHz) than Network B (5.8 GHz). Since frequency and wavelength are inversely related, lower frequency means longer wavelength. Longer wavelength waves diffract (bend) more easily around obstacles like buildings and trees, allowing the signal to reach areas in shadow. Additionally, longer wavelengths are absorbed less by the atmosphere and water in air, so the signal travels further without being weakened. This is why 2.4 GHz Wi-Fi and mobile networks typically have better range than 5.8 GHz networks.",
+  "source_url": "ks3textbook://waves.em_spectrum/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:40.156180",
+  "classified_at": "2026-04-04T20:41:40.156139",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

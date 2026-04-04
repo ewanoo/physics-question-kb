@@ -1,0 +1,46 @@
+{
+  "id": "b2fb97d8-ba07-4489-b83b-c1960a68f6d5",
+  "question_text": "Four planets are listed below with their approximate mean distances from the Sun. Which planet experiences the strongest gravitational force from the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "gravitational force",
+    "inverse square law",
+    "orbital mechanics",
+    "Solar System"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury, at a mean distance of 58 million km from the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Venus, at a mean distance of 108 million km from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Earth, at a mean distance of 150 million km from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mars, at a mean distance of 228 million km from the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Mercury, at a mean distance of 58 million km from the Sun",
+  "explanation": "Gravitational force between two objects decreases with distance according to the inverse square law. Since Mercury is the closest planet to the Sun, it experiences the strongest gravitational pull from the Sun. This stronger gravitational attraction is why Mercury also orbits fastest and has the shortest orbital period.",
+  "source_url": "ks3textbook://space.solar_system/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:23.994451",
+  "classified_at": "2026-04-04T20:50:23.994413",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

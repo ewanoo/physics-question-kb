@@ -1,0 +1,25 @@
+{
+  "id": "bae79bb5-df02-4cca-a878-74c27dc5f5f9",
+  "question_text": "How would increasing the number of coils on an electromagnet affect its magnetic field strength, and why?",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "magnetic field strength",
+    "coils",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Increasing the number of coils would increase the magnetic field strength because each coil contributes to the total magnetic field, creating a combined effect.",
+  "explanation": "When you add more coils to an electromagnet, each coil carries the same current and generates its own magnetic field. Since all these individual magnetic fields are aligned in the same direction, they add together to produce a stronger overall magnetic field. This is why electromagnets with more coils are more powerful.",
+  "source_url": "oak://electricity.magnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:02.608216",
+  "classified_at": "2026-04-04T20:45:02.608168",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

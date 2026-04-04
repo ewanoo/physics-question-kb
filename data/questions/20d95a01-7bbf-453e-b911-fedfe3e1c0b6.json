@@ -1,0 +1,47 @@
+{
+  "id": "20d95a01-7bbf-453e-b911-fedfe3e1c0b6",
+  "question_text": "Which statement correctly compares gas pressure in two identical containers at different temperatures?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "kinetic theory",
+    "particle model",
+    "pressure comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The container at 20°C has higher pressure because it's cooler and particles are more tightly packed",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The container at 40°C has higher pressure because particles move faster and collide with walls more forcefully",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both containers have equal pressure because they're the same size",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The container at 20°C has higher pressure because cooler particles move downwards",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The container at 40°C has higher pressure because particles move faster and collide with walls more forcefully",
+  "explanation": "When gas temperature increases, particles gain more kinetic energy and move faster. Faster-moving particles collide with container walls more frequently and with greater force, creating higher pressure. This is a key relationship in gas behaviour: pressure increases with temperature in a fixed volume.",
+  "source_url": "oak://matter.gas_pressure/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:16.759132",
+  "classified_at": "2026-04-04T20:52:16.759087",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "1d1fcda7-1edb-43ef-b84c-ab72fea038f7",
+  "question_text": "Which statement correctly describes what happens when two negatively charged objects are brought close together?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "charge",
+    "forces",
+    "like charges repel"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They attract each other strongly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They neutralise each other immediately",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "No force acts between them",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "They repel each other",
+  "explanation": "Like charges repel each other. Since both objects have the same type of charge (negative), they push away from one another. Unlike charges (positive and negative) attract, but same charges always repel.",
+  "source_url": "oak://electricity.static/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:00.321887",
+  "classified_at": "2026-04-04T20:44:00.321847",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

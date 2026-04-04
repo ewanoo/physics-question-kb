@@ -1,0 +1,47 @@
+{
+  "id": "f195eb27-4b87-4d97-8e62-d70053761fa8",
+  "question_text": "How does increasing the distance travelled affect the time taken if speed remains constant?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "distance",
+    "time",
+    "formula application",
+    "inverse relationships"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Time decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Time stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Time increases",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Speed increases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Time increases",
+  "explanation": "Using the formula speed = distance ÷ time (or rearranged: time = distance ÷ speed), if speed remains constant and distance increases, the time taken must also increase. For example, traveling twice the distance at the same speed takes twice as long.",
+  "source_url": "oak://forces.speed/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:38.826013",
+  "classified_at": "2026-04-04T20:35:38.825976",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

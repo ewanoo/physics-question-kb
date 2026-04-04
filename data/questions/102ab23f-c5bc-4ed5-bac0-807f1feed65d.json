@@ -1,0 +1,47 @@
+{
+  "id": "102ab23f-c5bc-4ed5-bac0-807f1feed65d",
+  "question_text": "Which of the following statements correctly describes the relationship between mass and weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "gravitational force",
+    "definitions",
+    "fundamental concepts"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mass and weight are the same quantity measured in different units",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mass is the amount of matter in an object, while weight is the gravitational force acting on that mass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Weight remains constant regardless of location, but mass varies",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mass is measured in newtons and weight is measured in kilograms",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Mass is the amount of matter in an object, while weight is the gravitational force acting on that mass",
+  "explanation": "Mass is the amount of matter in an object and is measured in kilograms (kg). It stays the same wherever the object is. Weight is the force that gravity exerts on that mass and is measured in newtons (N). Weight changes depending on the strength of gravity in different locations, but mass does not.",
+  "source_url": "ks3textbook://forces.gravity/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:03.217076",
+  "classified_at": "2026-04-04T20:57:03.217041",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

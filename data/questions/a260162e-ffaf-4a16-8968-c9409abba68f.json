@@ -1,0 +1,46 @@
+{
+  "id": "a260162e-ffaf-4a16-8968-c9409abba68f",
+  "question_text": "Which type of charge do electrons carry?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "electrons",
+    "charge",
+    "fundamental particles",
+    "static electricity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Positive charge",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Neutral charge",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Negative charge",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Variable charge",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Negative charge",
+  "explanation": "Electrons are subatomic particles that always carry a negative electric charge. This is a fundamental property of electrons. When electrons transfer between materials during static electricity, the material that gains electrons becomes negatively charged, while the material that loses electrons becomes positively charged.",
+  "source_url": "oak://electricity.static/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:43:45.321607",
+  "classified_at": "2026-04-04T20:43:45.321564",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

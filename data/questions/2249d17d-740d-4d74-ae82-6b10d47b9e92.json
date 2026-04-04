@@ -1,0 +1,47 @@
+{
+  "id": "2249d17d-740d-4d74-ae82-6b10d47b9e92",
+  "question_text": "A balloon is filled with helium and sealed at sea level where atmospheric pressure is normal. If you take the balloon to the top of a mountain where atmospheric pressure is much lower, what will happen to the balloon and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas_pressure",
+    "atmospheric_pressure",
+    "pressure_difference",
+    "sealed_containers",
+    "real_world_application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It shrinks because the helium gets colder at higher altitude",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It expands because the pressure inside the balloon is now greater than the atmospheric pressure outside",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It stays the same size because helium is lighter than air",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It shrinks because the number of helium particles decreases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It expands because the pressure inside the balloon is now greater than the atmospheric pressure outside",
+  "explanation": "When the sealed balloon is taken to the mountain, the helium gas inside maintains its pressure (it's sealed). However, the atmospheric pressure outside decreases significantly at higher altitude. This creates a pressure difference: the constant internal pressure now pushes outward harder than the weaker external pressure pushes inward, causing the balloon to expand.",
+  "source_url": "oak://matter.gas_pressure/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:18.845205",
+  "classified_at": "2026-04-04T20:52:18.845166",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

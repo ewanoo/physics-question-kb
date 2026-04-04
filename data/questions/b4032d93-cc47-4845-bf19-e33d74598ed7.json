@@ -1,0 +1,46 @@
+{
+  "id": "b4032d93-cc47-4845-bf19-e33d74598ed7",
+  "question_text": "Which of the following is an example of wasted energy in an incandescent light bulb?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "incandescent bulbs",
+    "energy waste",
+    "heat energy",
+    "energy conversion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Light energy produced by the bulb",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Heat energy released into the surroundings",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Electrical energy supplied to the bulb",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy stored in the filament",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Heat energy released into the surroundings",
+  "explanation": "In traditional incandescent light bulbs, electrical energy is converted into both light and heat. However, most of the energy (about 90%) is wasted as heat rather than producing useful light. This wasted heat energy is released into the surroundings, making the bulb inefficient. LED bulbs are more efficient because they convert a much higher percentage of electrical energy into light instead of heat.",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:12.810520",
+  "classified_at": "2026-04-04T20:54:12.810483",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

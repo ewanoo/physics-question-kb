@@ -1,0 +1,46 @@
+{
+  "id": "33665396-1b7c-4efc-8d32-21cbbca5f5c2",
+  "question_text": "A red filter is placed over a white light source. Which of the following best explains what is observed when viewing the light through the filter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "filters",
+    "light transmission",
+    "colour",
+    "absorption"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All colours of light are absorbed by the filter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Red light is transmitted through the filter whilst other colours are absorbed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Red light is reflected by the filter and all other colours are transmitted",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The filter converts white light into red light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Red light is transmitted through the filter whilst other colours are absorbed",
+  "explanation": "Coloured filters work by allowing light of their own colour to pass through (transmit) while blocking (absorbing) all other colours. A red filter transmits red light but absorbs blue, green, and other wavelengths of light.",
+  "source_url": "ks3textbook://waves.colour/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:05.115790",
+  "classified_at": "2026-04-04T20:59:05.115753",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

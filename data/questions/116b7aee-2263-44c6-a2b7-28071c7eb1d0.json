@@ -1,0 +1,46 @@
+{
+  "id": "116b7aee-2263-44c6-a2b7-28071c7eb1d0",
+  "question_text": "Which of the following statements correctly describes the relationship between the Moon's rotation and its orbit around Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal locking",
+    "Moon rotation",
+    "orbital mechanics",
+    "Earth-Moon system"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon rotates once every 24 hours, the same as Earth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon's rotation period equals its orbital period, so we always see the same face",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Moon rotates faster than Earth rotates on its axis",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon does not rotate; it only orbits Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Moon's rotation period equals its orbital period, so we always see the same face",
+  "explanation": "The Moon is tidally locked to Earth. This means it rotates on its axis at exactly the same rate as it orbits Earth (both take about 27.3 days). Because of this, the same face of the Moon always points toward Earth, which is why we only ever see one hemisphere of the Moon from Earth.",
+  "source_url": "ks3textbook://space.earth_moon/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:43.446509",
+  "classified_at": "2026-04-04T20:50:43.446472",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

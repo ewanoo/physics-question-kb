@@ -1,0 +1,25 @@
+{
+  "id": "1b635a30-45c4-423b-96b1-2ab468ad5f43",
+  "question_text": "Describe what happens to a spring when you keep increasing the force applied to it beyond its elastic limit.",
+  "question_type": "long_answer",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "plastic deformation",
+    "hookes law",
+    "material properties"
+  ],
+  "options": null,
+  "correct_answer": "The spring will become permanently stretched (plastic deformation) and will not return to its original shape, even when the force is removed.",
+  "explanation": "When a force is applied to a spring within its elastic limit, it stretches and returns to its original shape when released. However, if you keep increasing the force beyond the elastic limit, the spring's material is permanently damaged. The particles in the material are pushed so far apart that they cannot return to their original positions, so the spring stays stretched even after the force is removed. This permanent change is called plastic deformation.",
+  "source_url": "generate://forces.springs/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:04.414694",
+  "classified_at": "2026-04-04T20:56:04.414653",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

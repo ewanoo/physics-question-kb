@@ -1,0 +1,47 @@
+{
+  "id": "ab3590e5-216d-43ab-a3fa-6b9db04dc7a0",
+  "question_text": "Which scenario would result in the lowest gas pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "particle model",
+    "temperature effects",
+    "volume effects",
+    "kinetic theory"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Low temperature and small volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "High temperature and large volume",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "High temperature and small volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Low temperature and large volume",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Low temperature and small volume",
+  "explanation": "Gas pressure depends on how often gas particles collide with container walls. Lower temperature means particles move more slowly and collide less frequently. A smaller volume means particles are more crowded but have less wall space to hit overall. Low temperature reduces collision frequency, and while small volume increases particle density, the slower particles from low temperature have the dominant effect on reducing overall pressure.",
+  "source_url": "oak://matter.gas_pressure/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:02.069241",
+  "classified_at": "2026-04-04T20:52:02.069205",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "90eb23ef-1fd0-487d-9395-178a81329951",
+  "question_text": "What happens to gas particles when the temperature increases?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "kinetic energy",
+    "gas particles",
+    "temperature",
+    "pressure",
+    "particle model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They move more slowly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They move faster and collide more often",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They decrease in size",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They stop moving altogether",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "They move faster and collide more often",
+  "explanation": "When temperature increases, gas particles gain more kinetic energy. This causes them to move faster and collide with the container walls more frequently, which increases the pressure exerted by the gas.",
+  "source_url": "oak://matter.gas_pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:51:39.776126",
+  "classified_at": "2026-04-04T20:51:39.776091",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

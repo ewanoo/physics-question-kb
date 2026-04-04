@@ -1,0 +1,47 @@
+{
+  "id": "4c59c868-df79-4354-bf3b-686d3d027e25",
+  "question_text": "Why does a gas spread out to fill the entire space of a container, but a solid keeps its shape?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "gas behavior",
+    "solid behavior",
+    "particle spacing",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas particles are much larger than solid particles",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles move much faster and have greater spacing, so they can move freely throughout the container",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gases have no particles, only empty space",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Solid particles are heavier and cannot move",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gas particles move much faster and have greater spacing, so they can move freely throughout the container",
+  "explanation": "In the particle model, gas particles move rapidly with large spaces between them, allowing them to spread out to fill any container. In contrast, solid particles vibrate in fixed positions held together by strong intermolecular forces, which is why solids maintain a fixed shape and volume.",
+  "source_url": "generate://matter.particles/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:29.459010",
+  "classified_at": "2026-04-04T20:46:29.458960",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

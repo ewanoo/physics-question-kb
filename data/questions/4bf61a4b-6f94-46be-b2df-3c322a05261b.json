@@ -1,0 +1,46 @@
+{
+  "id": "4bf61a4b-6f94-46be-b2df-3c322a05261b",
+  "question_text": "Which of the following is a property of solids?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "solids",
+    "properties of matter",
+    "particle model",
+    "states of matter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They have a fixed shape and fixed volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "They take the shape of their container",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Their particles move freely and randomly",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They can be compressed easily",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "They have a fixed shape and fixed volume",
+  "explanation": "Solids have a fixed shape and fixed volume because their particles are tightly packed together and held in fixed positions by strong forces between them. This is a defining characteristic that distinguishes solids from liquids and gases.",
+  "source_url": "generate://matter.states/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:01.467914",
+  "classified_at": "2026-04-04T20:47:01.467875",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

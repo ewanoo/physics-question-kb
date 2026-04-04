@@ -1,0 +1,47 @@
+{
+  "id": "88908745-47ef-4f90-87d1-cbf758b3eef2",
+  "question_text": "What is the primary reason that the Moon orbits the Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "orbits",
+    "Moon",
+    "Earth",
+    "gravitational force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon is pulled towards Earth by gravitational force",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Moon is pushed by solar winds",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Moon is attracted by Earth's magnetic field",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon rotates around Earth due to electromagnetic forces",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Moon is pulled towards Earth by gravitational force",
+  "explanation": "Gravitational force is an attractive force between all objects with mass. The Earth's gravity pulls the Moon towards it, keeping it in orbit. This same gravitational force keeps planets orbiting the Sun and is why objects fall towards Earth.",
+  "source_url": "ks3textbook://space.earth_moon/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:41.743358",
+  "classified_at": "2026-04-04T20:50:41.743289",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

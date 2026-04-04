@@ -1,0 +1,46 @@
+{
+  "id": "e790baa7-3238-47ed-ac36-3acdcec3bc9f",
+  "question_text": "What is the SI unit used to measure weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "SI units",
+    "weight",
+    "force",
+    "measurement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kilogram (kg)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Newton (N)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Joule (J)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pascal (Pa)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Newton (N)",
+  "explanation": "Weight is a force caused by gravity pulling on an object's mass. The SI unit for any force, including weight, is the newton (N). Mass is measured in kilograms (kg), but weight is measured in newtons because it is a force, not a measure of how much 'stuff' an object contains.",
+  "source_url": "ks3textbook://forces.gravity/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:56:47.841229",
+  "classified_at": "2026-04-04T20:56:47.841193",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

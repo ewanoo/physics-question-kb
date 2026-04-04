@@ -1,0 +1,27 @@
+{
+  "id": "40dac206-ac46-4e3d-b9c8-2be044d34431",
+  "question_text": "A force of 600 N is applied over an area of 3 m². What is the pressure?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "force",
+    "area",
+    "formula",
+    "SI units",
+    "pascals"
+  ],
+  "options": null,
+  "correct_answer": "200 Pa (or 200 N/m²)",
+  "explanation": "Pressure is calculated by dividing force by area. Using the formula Pressure = Force ÷ Area, we get 600 N ÷ 3 m² = 200 Pa. Pascals (Pa) or N/m² are the SI units for measuring pressure.",
+  "source_url": "oak://forces.pressure/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:19.712382",
+  "classified_at": "2026-04-04T20:36:19.712340",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

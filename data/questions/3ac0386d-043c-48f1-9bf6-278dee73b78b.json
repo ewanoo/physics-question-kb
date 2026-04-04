@@ -1,0 +1,45 @@
+{
+  "id": "3ac0386d-043c-48f1-9bf6-278dee73b78b",
+  "question_text": "Which of the following is the largest planet in the Solar System?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "solar system",
+    "factual recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Saturn",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Neptune",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Jupiter",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Uranus",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Jupiter",
+  "explanation": "Jupiter is the largest planet in our Solar System. It is a gas giant made up of hydrogen and helium gases, and is much bigger than all the other planets, including Saturn, Neptune, and Uranus.",
+  "source_url": "ks3textbook://space.solar_system/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:49.298863",
+  "classified_at": "2026-04-04T20:49:49.298825",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

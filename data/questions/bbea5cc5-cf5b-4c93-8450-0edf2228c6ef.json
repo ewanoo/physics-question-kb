@@ -1,0 +1,46 @@
+{
+  "id": "bbea5cc5-cf5b-4c93-8450-0edf2228c6ef",
+  "question_text": "What causes day and night on Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth rotation",
+    "day and night",
+    "axis of rotation",
+    "fundamental astronomy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth moving closer to and further from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Earth rotating on its axis",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun moving around Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon blocking sunlight",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Earth rotating on its axis",
+  "explanation": "Earth spins on its axis, completing one full rotation approximately every 24 hours. As your location on Earth rotates towards the Sun, you experience daytime. As it rotates away from the Sun, you experience nighttime. This continuous rotation is what causes the cycle of day and night.",
+  "source_url": "oak://space.seasons/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:28.967725",
+  "classified_at": "2026-04-04T20:52:28.967679",
+  "classification_confidence": 0.99,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "bbaebad6-7650-4056-84d4-73834540742a",
+  "question_text": "What happens when two north poles of magnets face each other?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic poles",
+    "repulsion",
+    "attraction",
+    "magnet behaviour"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They attract each other strongly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They have no effect on each other",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They stick together permanently",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "They repel each other",
+  "explanation": "Like magnetic poles always repel each other. When two north poles face each other, they push away from one another because the magnetic fields around them have the same direction and orientation. This is a fundamental property of magnets: like poles repel, opposite poles attract.",
+  "source_url": "oak://electricity.magnets/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:34.667208",
+  "classified_at": "2026-04-04T20:44:34.667156",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

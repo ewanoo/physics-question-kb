@@ -1,0 +1,26 @@
+{
+  "id": "719af7ab-1726-4904-856c-abb164286b50",
+  "question_text": "A student observes that when a variable resistor (rheostat) in a circuit is adjusted to reduce its resistance from 15Ω to 5Ω, the brightness of a connected bulb increases noticeably. Using the concepts of voltage and current, explain this observation and evaluate what must be true about how the voltage is distributed in this circuit.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "series_circuits",
+    "voltage_division",
+    "power_dissipation",
+    "variable_resistor"
+  ],
+  "options": null,
+  "correct_answer": "When the rheostat resistance decreases from 15Ω to 5Ω, the total circuit resistance decreases. By Ohm's law (V = IR), if total voltage is constant, the current in the circuit increases. As current increases, more power is dissipated in the bulb (P = I²R or P = VI), making it brighter. In a series circuit with fixed total voltage, when one resistor's resistance decreases, a smaller voltage drop occurs across it, leaving a larger voltage drop across the bulb, which also contributes to increased brightness.",
+  "explanation": "This question tests understanding of how resistance, current, and voltage relate in a series circuit. When you reduce the rheostat's resistance, two things happen: the total current increases (making all components brighter), and more voltage is available for the bulb since less voltage drops across the smaller resistance. Both effects make the bulb brighter.",
+  "source_url": "ks3textbook://electricity.current_voltage/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:34.469481",
+  "classified_at": "2026-04-04T20:43:34.469442",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

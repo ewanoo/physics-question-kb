@@ -1,0 +1,25 @@
+{
+  "id": "619cf837-7cdc-4e2e-abf9-f4e5d1d3f0ef",
+  "question_text": "A car travels 150 metres in 5 seconds. What is its speed?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed calculation",
+    "distance",
+    "time",
+    "formula application"
+  ],
+  "options": null,
+  "correct_answer": "30 m/s",
+  "explanation": "To find speed, divide the distance travelled by the time taken. Speed = distance ÷ time = 150 m ÷ 5 s = 30 m/s. Remember to divide distance by time (not the other way around) and include the correct units (m/s).",
+  "source_url": "oak://forces.speed/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:50.250061",
+  "classified_at": "2026-04-04T20:35:50.250022",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

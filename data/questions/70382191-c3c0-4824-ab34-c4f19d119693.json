@@ -1,0 +1,47 @@
+{
+  "id": "70382191-c3c0-4824-ab34-c4f19d119693",
+  "question_text": "The Moon orbits the Earth with a period of approximately 28 days. Which of the following best explains why the same face of the Moon is always visible from Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal locking",
+    "orbital mechanics",
+    "Moon",
+    "rotation",
+    "synchronous rotation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate on its axis",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon's rotation period equals its orbital period around Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Moon is held in a fixed position by Earth's gravity",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon's axis of rotation is perpendicular to its orbital plane",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Moon's rotation period equals its orbital period around Earth",
+  "explanation": "The Moon is tidally locked to Earth, meaning it rotates once on its axis in the same time it takes to orbit Earth (about 28 days). This is why we always see the same face of the Moon from Earth. This synchronous rotation happens because Earth's gravity has gradually slowed the Moon's rotation over billions of years.",
+  "source_url": "ks3textbook://space.earth_moon/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:58.921367",
+  "classified_at": "2026-04-04T20:50:58.921300",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

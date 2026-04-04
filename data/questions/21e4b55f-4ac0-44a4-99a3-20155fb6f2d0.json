@@ -1,0 +1,46 @@
+{
+  "id": "21e4b55f-4ac0-44a4-99a3-20155fb6f2d0",
+  "question_text": "Which statement correctly describes the relationship between orbital radius and orbital speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "orbital mechanics",
+    "gravity",
+    "planetary motion",
+    "inverse square law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Planets closer to the Sun orbit faster than planets farther away",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Planets farther from the Sun orbit faster than planets closer in",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "All planets orbit at the same speed regardless of distance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Orbital speed depends only on the planet's mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Planets closer to the Sun orbit faster than planets farther away",
+  "explanation": "Planets closer to the Sun experience a stronger gravitational pull, which requires them to move faster to maintain a stable orbit. This is why Mercury (closest to the Sun) orbits much faster than Earth, which orbits faster than Neptune (farthest away). The gravitational force is stronger at smaller orbital radii, so planets must travel at higher speeds to avoid falling into the Sun.",
+  "source_url": "oak://space.gravity/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:38.758115",
+  "classified_at": "2026-04-04T20:53:38.758078",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

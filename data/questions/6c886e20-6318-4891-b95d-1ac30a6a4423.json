@@ -1,0 +1,47 @@
+{
+  "id": "6c886e20-6318-4891-b95d-1ac30a6a4423",
+  "question_text": "Two identical cylinders, one made of aluminium (density 2700 kg/m³) and one made of plastic (density 1200 kg/m³), are fully submerged in water. Which of the following statements is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "buoyancy",
+    "density",
+    "displacement",
+    "Archimedes principle",
+    "submerged objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both cylinders experience the same buoyant force because they are identical in volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The aluminium cylinder experiences a greater buoyant force because it is denser",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The plastic cylinder experiences a greater buoyant force because it is less dense",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Neither cylinder experiences any buoyant force because they are submerged",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Both cylinders experience the same buoyant force because they are identical in volume",
+  "explanation": "Buoyant force depends only on how much fluid is displaced (the volume of the object) and the density of the fluid itself, not on the density of the object. Since both cylinders have the same volume and are fully submerged in water, they displace equal volumes of water. Therefore, they experience equal buoyant forces. The material they are made from does not affect the buoyant force—it only affects how much the objects weigh.",
+  "source_url": "ks3textbook://matter.density/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:31.328422",
+  "classified_at": "2026-04-04T20:49:31.328385",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

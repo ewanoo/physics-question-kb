@@ -1,0 +1,46 @@
+{
+  "id": "02bc5174-d3af-4a02-9274-0c885b7003cf",
+  "question_text": "Which of the following is an example of elastic deformation?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic deformation",
+    "hookes law",
+    "material properties",
+    "definition recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Stretching a rubber band and it returns to its original shape",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Bending a metal ruler so it stays bent",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Breaking a piece of chalk in half",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Crumpling a piece of paper permanently",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Stretching a rubber band and it returns to its original shape",
+  "explanation": "Elastic deformation occurs when an object changes shape but returns to its original shape once the force is removed. A rubber band is an ideal example because it stretches when pulled and snaps back to its original length. In contrast, bending a ruler permanently (plastic deformation), breaking chalk, and crumpling paper are all examples of inelastic deformation, where the object does not return to its original shape.",
+  "source_url": "generate://forces.springs/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:02.534461",
+  "classified_at": "2026-04-04T20:56:02.534422",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

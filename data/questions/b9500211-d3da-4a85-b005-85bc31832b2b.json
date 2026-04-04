@@ -1,0 +1,26 @@
+{
+  "id": "b9500211-d3da-4a85-b005-85bc31832b2b",
+  "question_text": "Explain why a steel needle sinks in water, whilst a steel ship floats on water.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "average density",
+    "buoyancy"
+  ],
+  "options": null,
+  "correct_answer": "A steel needle sinks because steel is denser than water. A steel ship floats because it contains air inside its hollow structure, which reduces its overall average density to less than water, allowing it to displace enough water to support its weight.",
+  "explanation": "Density is the mass of an object divided by its volume. Pure steel is denser than water, so a solid steel needle sinks. However, a ship is hollow and contains a lot of air. When you calculate the ship's average density (total mass divided by total volume including the hollow interior), it becomes less dense than water, so it floats. This shows that overall density depends on the average density of the entire object, not just the material it's made from.",
+  "source_url": "ks3textbook://matter.density/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:48:52.211081",
+  "classified_at": "2026-04-04T20:48:52.211042",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

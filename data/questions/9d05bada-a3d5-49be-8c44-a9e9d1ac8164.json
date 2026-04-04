@@ -1,0 +1,46 @@
+{
+  "id": "9d05bada-a3d5-49be-8c44-a9e9d1ac8164",
+  "question_text": "How would doubling the mass of a planet affect the gravitational field strength at its surface?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field strength",
+    "mass",
+    "proportionality",
+    "formula application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It would have no effect because gravity depends only on distance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It would approximately double the gravitational field strength",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It would reduce the gravitational field strength",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It would quadruple the gravitational field strength",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It would approximately double the gravitational field strength",
+  "explanation": "Gravitational field strength (g) is calculated using the formula g = GM/r², where G is the gravitational constant, M is the planet's mass, and r is the distance from the centre. Since g is directly proportional to mass, if you double the mass, the gravitational field strength also doubles. The distance (radius) stays the same, so only the mass change affects the result.",
+  "source_url": "oak://space.gravity/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:56.879224",
+  "classified_at": "2026-04-04T20:53:56.879189",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

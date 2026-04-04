@@ -1,0 +1,47 @@
+{
+  "id": "58597bc4-279f-40b4-9157-8bad0cde8e4f",
+  "question_text": "The Moon orbits the Earth approximately every 27.3 days, whilst the Earth rotates on its axis every 24 hours. Which of the following best explains why we always see the same face of the Moon from Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal locking",
+    "orbital mechanics",
+    "Moon",
+    "rotation",
+    "gravitational effects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate on its axis",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon's orbital period equals its rotational period, a phenomenon known as tidal locking",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Moon is stationary relative to the Earth and does not move",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Earth's gravity prevents the Moon from rotating",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Moon's orbital period equals its rotational period, a phenomenon known as tidal locking",
+  "explanation": "The Moon rotates on its axis at the same rate that it orbits Earth (both take about 27.3 days). This synchronization, called tidal locking, means the same side of the Moon always faces Earth. Earth's gravity has gradually slowed the Moon's rotation to match its orbital period through a process involving tidal forces.",
+  "source_url": "ks3textbook://space.earth_moon/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:22.081950",
+  "classified_at": "2026-04-04T20:51:22.081900",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

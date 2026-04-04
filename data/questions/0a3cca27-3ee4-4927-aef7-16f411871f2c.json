@@ -1,0 +1,26 @@
+{
+  "id": "0a3cca27-3ee4-4927-aef7-16f411871f2c",
+  "question_text": "In the context of sound waves, what is meant by the term 'amplitude'?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "amplitude",
+    "particle motion",
+    "loudness",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Amplitude is the maximum displacement of particles from their resting position as the sound wave passes through a medium. It is related to the loudness or intensity of the sound.",
+  "explanation": "Amplitude measures how far particles move from their starting position when a sound wave passes through them. Imagine plucking a guitar string - if you pluck it hard (large amplitude), it vibrates a long way from the middle and makes a loud sound. If you pluck it gently (small amplitude), it barely moves and makes a quiet sound.",
+  "source_url": "ks3textbook://waves.sound/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:50.309652",
+  "classified_at": "2026-04-04T20:57:50.309608",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

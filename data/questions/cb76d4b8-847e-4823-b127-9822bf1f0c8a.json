@@ -1,0 +1,47 @@
+{
+  "id": "cb76d4b8-847e-4823-b127-9822bf1f0c8a",
+  "question_text": "How does heating a gas in a sealed container affect its pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "heating",
+    "particle motion",
+    "sealed container",
+    "kinetic theory"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pressure becomes zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Pressure increases",
+  "explanation": "When a gas in a sealed container is heated, the particles move faster and collide with the container walls more frequently and forcefully. Since the container is sealed, the volume stays the same, so these increased collisions result in higher pressure.",
+  "source_url": "oak://matter.gas_pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:51:42.696739",
+  "classified_at": "2026-04-04T20:51:42.696701",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

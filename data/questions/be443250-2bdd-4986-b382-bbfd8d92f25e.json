@@ -1,0 +1,46 @@
+{
+  "id": "be443250-2bdd-4986-b382-bbfd8d92f25e",
+  "question_text": "What is a moment?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "definition",
+    "moments",
+    "turning effects",
+    "pivot"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A turning effect produced by a force",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The speed at which something moves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The amount of matter in an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A force that prevents movement",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A turning effect produced by a force",
+  "explanation": "A moment is the turning effect that occurs when a force is applied at a distance from a pivot point (like a fulcrum). The further away the force is applied from the pivot, the greater the turning effect. This is the fundamental concept behind levers and seesaws.",
+  "source_url": "oak://forces.moments/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:51.920344",
+  "classified_at": "2026-04-04T20:36:51.920305",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

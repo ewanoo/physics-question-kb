@@ -1,0 +1,25 @@
+{
+  "id": "75b1a5eb-26a4-42bf-a0f4-08eb99a4f8f0",
+  "question_text": "Describe what happens to the particles when a solid melts into a liquid.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "particle model",
+    "thermal energy",
+    "states of matter"
+  ],
+  "options": null,
+  "correct_answer": "The particles gain energy, vibrate more, and break free from their fixed positions. They can now move around randomly while staying close together.",
+  "explanation": "During melting, solid particles receive thermal energy which makes them vibrate more vigorously. This extra energy allows them to overcome the forces holding them in fixed crystalline positions, so they can move freely around each other like a liquid. The particles stay close together because the attractive forces between them are still present.",
+  "source_url": "generate://matter.changes/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:59.288532",
+  "classified_at": "2026-04-04T20:47:59.288495",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

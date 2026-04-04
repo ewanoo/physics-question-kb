@@ -1,0 +1,47 @@
+{
+  "id": "2fdad4ff-94d5-48e0-9923-c9ed58edab93",
+  "question_text": "Radio waves and gamma rays are both types of electromagnetic radiation. Which statement correctly compares a property of these two types of radiation?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "frequency",
+    "energy",
+    "radiation",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves have a higher frequency and carry more energy than gamma rays",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gamma rays have a higher frequency and carry more energy than radio waves",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Radio waves and gamma rays have the same frequency but different wavelengths",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both types of radiation travel at different speeds through a vacuum",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gamma rays have a higher frequency and carry more energy than radio waves",
+  "explanation": "The electromagnetic spectrum is ordered by frequency and wavelength. Gamma rays are at the high-frequency end and carry much more energy than radio waves, which are at the low-frequency end. The relationship is: higher frequency = higher energy. All electromagnetic waves travel at the same speed (3.0 × 10⁸ m/s) through a vacuum.",
+  "source_url": "ks3textbook://waves.em_spectrum/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:22.852583",
+  "classified_at": "2026-04-04T20:41:22.852548",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "1fa41166-3911-482f-87f1-b47be5fdbd37",
+  "question_text": "Which of the following correctly describes the relationship between a planet's distance from the Sun and its orbital velocity?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital_velocity",
+    "gravitational_force",
+    "planetary_motion",
+    "inverse_square_law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Planets further from the Sun orbit at higher velocities because they must travel greater distances",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Planets closer to the Sun orbit at higher velocities because gravitational force is stronger at shorter distances",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "All planets orbit at the same velocity regardless of their distance from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Orbital velocity is independent of gravitational force and depends only on the planet's mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Planets closer to the Sun orbit at higher velocities because gravitational force is stronger at shorter distances",
+  "explanation": "Orbital velocity depends on the balance between gravitational force and the centripetal force needed to keep a planet in orbit. Closer to the Sun, gravity is much stronger (following the inverse square law), so planets must move faster to maintain a stable circular orbit. Mercury, closest to the Sun, orbits at about 47.9 km/s, while Earth orbits at about 30 km/s, and Mars at about 24 km/s. The further away you go, the slower the orbital velocity becomes.",
+  "source_url": "ks3textbook://space.solar_system/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:28.777790",
+  "classified_at": "2026-04-04T20:50:28.777752",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "1e036384-3d0b-4c88-b3af-63d285bde97a",
+  "question_text": "What does efficiency measure in an energy transfer?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "definition",
+    "energy_transfer",
+    "efficiency",
+    "useful_energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of energy used",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How much useful energy is produced compared to the total energy supplied",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed at which energy is transferred",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The temperature of the device",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "How much useful energy is produced compared to the total energy supplied",
+  "explanation": "Efficiency measures what fraction of the total energy input is converted into useful energy output. For example, a light bulb's efficiency tells us what proportion of electrical energy becomes light (useful) rather than heat (often wasted). It's calculated as: efficiency = (useful energy output / total energy input) × 100%",
+  "source_url": "generate://energy.efficiency/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:11.093843",
+  "classified_at": "2026-04-04T20:54:11.093797",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

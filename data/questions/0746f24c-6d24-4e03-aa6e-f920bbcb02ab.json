@@ -1,0 +1,47 @@
+{
+  "id": "0746f24c-6d24-4e03-aa6e-f920bbcb02ab",
+  "question_text": "Which of the following correctly describes the relationship between the colour of light and its wavelength in the visible spectrum?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "visible spectrum",
+    "wavelength",
+    "colour",
+    "light properties",
+    "wave characteristics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red light has a shorter wavelength than blue light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Blue light has a longer wavelength than red light",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Red light has a longer wavelength than blue light",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "All colours of visible light have the same wavelength",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Red light has a longer wavelength than blue light",
+  "explanation": "In the visible spectrum, different colours of light have different wavelengths. Red light has the longest wavelength (around 700 nm), while blue light has a shorter wavelength (around 450 nm). This is why red appears at one end of the rainbow and blue at the other.",
+  "source_url": "ks3textbook://waves.colour/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:10.503892",
+  "classified_at": "2026-04-04T20:59:10.503855",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

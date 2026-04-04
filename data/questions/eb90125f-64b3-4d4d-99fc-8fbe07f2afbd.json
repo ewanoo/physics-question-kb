@@ -1,0 +1,47 @@
+{
+  "id": "eb90125f-64b3-4d4d-99fc-8fbe07f2afbd",
+  "question_text": "Why is it easier to tighten a bolt with a longer spanner than a shorter one?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "levers",
+    "practical_application",
+    "pivot",
+    "force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The longer spanner is heavier",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "You can apply the same force at a greater distance from the pivot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The longer spanner reduces the size of the bolt",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Long spanners produce more friction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "You can apply the same force at a greater distance from the pivot",
+  "explanation": "A longer spanner has a greater perpendicular distance from the pivot point (the bolt centre). Since moment (turning effect) = force × perpendicular distance, applying the same force at a greater distance creates a larger moment, making it easier to turn the bolt.",
+  "source_url": "oak://forces.moments/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:21.669984",
+  "classified_at": "2026-04-04T20:37:21.669935",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

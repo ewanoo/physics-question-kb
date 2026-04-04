@@ -1,0 +1,25 @@
+{
+  "id": "ebf0ef3e-d6ec-427f-863c-0aa303d0e270",
+  "question_text": "The mean orbital distances of Earth and Mars from the Sun are approximately 150 million km and 228 million km respectively. Using the relationship between orbital period and distance, explain why Mars takes longer to orbit the Sun than Earth, and identify which factor contributes most significantly to this difference.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital_period",
+    "orbital_distance",
+    "comparative_analysis",
+    "extended_reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Mars takes longer to orbit the Sun because it has a larger orbital distance (228 million km vs 150 million km), resulting in a greater orbital circumference. Additionally, Mars orbits more slowly due to weaker gravitational force at greater distance. Both factors—increased distance and decreased orbital velocity—cause Mars's orbital period to be approximately 687 Earth days compared to Earth's 365 days. The greater orbital circumference is the most significant factor.",
+  "explanation": "Orbital period depends on two things: how far you have to travel (the circumference of your orbit) and how fast you're moving. Mars is further from the Sun, so it has to travel a much longer distance around a bigger orbit. Also, gravity is weaker at Mars's distance, so Mars moves more slowly in its orbit. Both effects mean Mars takes much longer to complete one orbit—about 687 days instead of 365 days. The larger orbit (greater circumference) contributes most to this difference.",
+  "source_url": "ks3textbook://space.solar_system/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:22.536568",
+  "classified_at": "2026-04-04T20:50:22.536527",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

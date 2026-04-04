@@ -1,0 +1,26 @@
+{
+  "id": "287abc2f-b826-4d26-ac60-fe2d62ffb66e",
+  "question_text": "A force of 50 N is applied at a perpendicular distance of 0.4 m from a pivot. Calculate the moment produced.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment calculation",
+    "pivot",
+    "force",
+    "distance",
+    "newton-metres"
+  ],
+  "options": null,
+  "correct_answer": "20 N m (or 20 newton-metres)",
+  "explanation": "Moment is calculated using the formula: Moment = force × perpendicular distance from pivot. Here, we multiply 50 N by 0.4 m to get 20 N m. The moment tells us how much turning effect the force produces around the pivot point.",
+  "source_url": "oak://forces.moments/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:20.069693",
+  "classified_at": "2026-04-04T20:37:20.069656",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

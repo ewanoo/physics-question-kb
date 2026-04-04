@@ -1,0 +1,46 @@
+{
+  "id": "dfacae5a-e3ed-4c23-98cf-e8fa1dffc4e7",
+  "question_text": "The diagram shows the Earth-Moon system with the Sun's position marked. The Moon is at different positions W, X, Y, and Z during its orbit. Which statement correctly identifies the Moon phase at position X, where the Moon lies between the Earth and the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon phases",
+    "Earth-Moon-Sun geometry",
+    "orbital mechanics",
+    "light and shadow"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Full Moon, because the Moon is closest to the Earth at this position",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "New Moon, because the illuminated hemisphere of the Moon faces away from the Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Waxing Crescent, because the Moon is beginning its orbit around the Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Waning Gibbous, because the Moon is between the Earth and the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "New Moon, because the illuminated hemisphere of the Moon faces away from the Earth",
+  "explanation": "When the Moon orbits between the Earth and the Sun, the side of the Moon facing Earth is in shadow. The sunlit side of the Moon faces away from us, so we see a completely dark Moon from Earth. This phase is called a New Moon. Understanding this requires knowing how the Moon's position relative to Earth and Sun determines which phase we observe.",
+  "source_url": "ks3textbook://space.earth_moon/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:29.060235",
+  "classified_at": "2026-04-04T20:51:29.060190",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

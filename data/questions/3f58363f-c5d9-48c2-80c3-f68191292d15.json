@@ -1,0 +1,46 @@
+{
+  "id": "3f58363f-c5d9-48c2-80c3-f68191292d15",
+  "question_text": "In a series circuit, if one of the components fails and breaks the circuit, what happens to the current in the rest of the circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "circuit continuity",
+    "current flow",
+    "component failure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The current continues to flow normally through all other components",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current increases in the remaining components",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The current stops flowing throughout the entire circuit",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The current only flows through components nearer to the power supply",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The current stops flowing throughout the entire circuit",
+  "explanation": "In a series circuit, all components are connected in a single loop. If any component breaks or fails, it creates a gap in the circuit. Since there is only one path for current to follow, breaking this path at any point stops current flowing everywhere in the circuit. This is a key difference between series and parallel circuits.",
+  "source_url": "ks3textbook://electricity.circuits/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:19.055341",
+  "classified_at": "2026-04-04T20:42:19.055263",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

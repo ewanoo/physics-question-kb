@@ -1,0 +1,47 @@
+{
+  "id": "0b2ed44a-fda4-416d-9fc4-749354289c46",
+  "question_text": "Which of the following describes what happens during melting?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "states of matter",
+    "phase change",
+    "temperature",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A solid turns into a liquid as temperature increases",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A liquid turns into a gas as temperature decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A gas turns into a solid without passing through a liquid state",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The mass of a substance increases when it changes state",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A solid turns into a liquid as temperature increases",
+  "explanation": "Melting is the process where a solid changes into a liquid when heated to its melting point. The particles in the solid gain enough energy to break free from their fixed positions and move more freely as a liquid. The mass of the substance stays the same during melting.",
+  "source_url": "generate://matter.changes/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:08.945856",
+  "classified_at": "2026-04-04T20:48:08.945814",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

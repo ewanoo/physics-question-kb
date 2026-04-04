@@ -1,0 +1,26 @@
+{
+  "id": "3365614d-ff90-4293-9936-8d4937dff003",
+  "question_text": "Define the term 'resistance' in an electrical circuit.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "definition",
+    "resistance",
+    "current",
+    "conductor",
+    "electrons"
+  ],
+  "options": null,
+  "correct_answer": "Resistance is the opposition to the flow of electric current through a conductor or component.",
+  "explanation": "Resistance measures how much a material opposes the movement of electrons through it. Think of it like friction for electricity. Materials with high resistance (like rubber) block current flow well, while materials with low resistance (like copper wire) allow current to flow easily.",
+  "source_url": "ks3textbook://electricity.current_voltage/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:53.835587",
+  "classified_at": "2026-04-04T20:42:53.835545",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

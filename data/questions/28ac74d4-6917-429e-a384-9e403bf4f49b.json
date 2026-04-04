@@ -1,0 +1,26 @@
+{
+  "id": "28ac74d4-6917-429e-a384-9e403bf4f49b",
+  "question_text": "What is amplitude in a wave?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wave properties",
+    "amplitude",
+    "oscillation",
+    "definition",
+    "KS3 core"
+  ],
+  "options": null,
+  "correct_answer": "Amplitude is the maximum distance that a point on the wave moves from its rest position, measured from the center line to the crest or trough.",
+  "explanation": "Amplitude measures how far particles in a wave move away from their starting position. A larger amplitude means the wave carries more energy. It's always measured in metres and is an important property used to describe all types of waves.",
+  "source_url": "generate://waves.properties/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:01.110908",
+  "classified_at": "2026-04-04T20:38:01.110867",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

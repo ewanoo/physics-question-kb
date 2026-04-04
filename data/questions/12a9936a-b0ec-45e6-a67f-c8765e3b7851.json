@@ -1,0 +1,26 @@
+{
+  "id": "12a9936a-b0ec-45e6-a67f-c8765e3b7851",
+  "question_text": "A light bulb converts 60 J of electrical energy into 45 J of light energy and 15 J of heat energy. What is the efficiency of this light bulb?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy conversion",
+    "light bulbs",
+    "useful energy",
+    "wasted energy"
+  ],
+  "options": null,
+  "correct_answer": "75%",
+  "explanation": "Efficiency tells us how much of the input energy is converted into useful energy. For this light bulb, the useful output is the light energy (45 J), while the heat is wasted. Using the formula: Efficiency = (useful energy output ÷ total energy input) × 100 = (45 ÷ 60) × 100 = 75%.",
+  "source_url": "generate://energy.efficiency/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:54:26.921149",
+  "classified_at": "2026-04-04T20:54:26.921113",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

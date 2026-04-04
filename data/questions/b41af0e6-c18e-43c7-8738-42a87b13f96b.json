@@ -1,0 +1,46 @@
+{
+  "id": "b41af0e6-c18e-43c7-8738-42a87b13f96b",
+  "question_text": "A planet orbiting at twice the distance from the Sun experiences what change in gravitational force, given that gravitational force decreases with distance following an inverse square law?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "inverse square law",
+    "gravitational force",
+    "orbital mechanics",
+    "calculation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The gravitational force is halved",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gravitational force is reduced to one quarter of its original value",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The gravitational force is doubled",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The gravitational force remains unchanged",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The gravitational force is reduced to one quarter of its original value",
+  "explanation": "Gravitational force follows an inverse square law. This means if you double the distance from the Sun, the gravitational force decreases by the square of that factor (2² = 4). So the force becomes 1/4 of its original strength.",
+  "source_url": "ks3textbook://space.solar_system/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:00.269022",
+  "classified_at": "2026-04-04T20:50:00.268981",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

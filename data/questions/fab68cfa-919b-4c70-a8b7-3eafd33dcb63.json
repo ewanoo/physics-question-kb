@@ -1,0 +1,48 @@
+{
+  "id": "fab68cfa-919b-4c70-a8b7-3eafd33dcb63",
+  "question_text": "Two wires are made of copper and have the same length. Wire X has a cross-sectional area of 2 mm², while Wire Y has a cross-sectional area of 4 mm². Both wires carry the same electric current. Which wire will have a greater potential difference across it, and explain your reasoning using the properties of resistance.",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "resistance",
+    "current",
+    "potential_difference",
+    "ohms_law",
+    "cross_sectional_area",
+    "formula_application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wire X will have greater potential difference because its smaller area produces greater resistance",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Wire Y will have greater potential difference because larger area creates more resistance",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both wires will have the same potential difference since they are made of the same material",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The wire carrying current will have zero potential difference across it",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Wire X will have greater potential difference because its smaller area produces greater resistance",
+  "explanation": "Resistance in a wire depends on three factors: resistivity (ρ), length (L), and cross-sectional area (A), using the formula R = ρL/A. Since both wires are made of copper and have the same length, only the area differs. Wire X has half the area of Wire Y, so it has twice the resistance. Using Ohm's law (V = IR), if the current is the same in both wires but Wire X has double the resistance, then Wire X will have double the potential difference across it.",
+  "source_url": "ks3textbook://electricity.current_voltage/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:36.819067",
+  "classified_at": "2026-04-04T20:43:36.819029",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "449250c6-a1cb-4f9c-bbcc-d0f133fa60f7",
+  "question_text": "An electromagnet has 200 coils of wire around its iron core. How many coils would you need to double its strength?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "coils",
+    "proportionality",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "400 coils",
+  "explanation": "The strength of an electromagnet is directly proportional to the number of coils of wire around the iron core. If you double the number of coils, you double the strength of the electromagnet. So 200 coils × 2 = 400 coils.",
+  "source_url": "oak://electricity.electromagnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:41.561605",
+  "classified_at": "2026-04-04T20:45:41.561564",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

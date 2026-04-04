@@ -1,0 +1,47 @@
+{
+  "id": "c28bb4a5-bb8e-44e6-b11f-96d878fd5753",
+  "question_text": "Why is the Northern Hemisphere warmer in July than in January?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "axial_tilt",
+    "seasons",
+    "hemispheres",
+    "solar_radiation",
+    "daylight_hours"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth is closer to the Sun in July",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Northern Hemisphere is tilted towards the Sun in July",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun is larger in July",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is less atmospheric interference in July",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Northern Hemisphere is tilted towards the Sun in July",
+  "explanation": "The Earth's axis is tilted at about 23.5°. In July, the Northern Hemisphere is tilted towards the Sun, which means it receives more direct sunlight and experiences longer daylight hours. This causes warmer temperatures. In January, the Northern Hemisphere is tilted away from the Sun, receiving less direct sunlight and having shorter days, making it colder.",
+  "source_url": "oak://space.seasons/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:49.564240",
+  "classified_at": "2026-04-04T20:52:49.564203",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

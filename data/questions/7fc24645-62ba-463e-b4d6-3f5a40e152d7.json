@@ -1,0 +1,25 @@
+{
+  "id": "7fc24645-62ba-463e-b4d6-3f5a40e152d7",
+  "question_text": "Why do particles in a gas spread out to fill the entire space of a container?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "gas behaviour",
+    "particle model",
+    "kinetic energy",
+    "diffusion"
+  ],
+  "options": null,
+  "correct_answer": "Because gas particles move randomly in all directions at high speed and are far apart, so they spread out to fill all available space",
+  "explanation": "Gas particles have lots of kinetic energy (they move very fast) and there are only weak forces between them. This means they can move freely in all directions. Eventually, their random motion spreads them evenly throughout the entire container, filling all the space available.",
+  "source_url": "generate://matter.particles/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:14.628884",
+  "classified_at": "2026-04-04T20:46:14.628844",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

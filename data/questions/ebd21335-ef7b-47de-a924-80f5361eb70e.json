@@ -1,0 +1,47 @@
+{
+  "id": "ebd21335-ef7b-47de-a924-80f5361eb70e",
+  "question_text": "Which statement correctly describes the relationship between voltage and current in a simple circuit with constant resistance?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "voltage",
+    "current",
+    "resistance",
+    "proportional_relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "As voltage increases, current decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "As voltage increases, current increases proportionally",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Voltage and current are unrelated to one another",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Current always remains constant regardless of voltage",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "As voltage increases, current increases proportionally",
+  "explanation": "In a circuit with constant resistance, voltage and current are directly proportional. This means if you increase the voltage, the current increases by the same proportion. This relationship is shown by Ohm's Law (V = IR), which is a key concept in understanding how circuits work.",
+  "source_url": "ks3textbook://electricity.current_voltage/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:55.591007",
+  "classified_at": "2026-04-04T20:42:55.590970",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

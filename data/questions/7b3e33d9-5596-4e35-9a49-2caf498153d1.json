@@ -1,0 +1,47 @@
+{
+  "id": "7b3e33d9-5596-4e35-9a49-2caf498153d1",
+  "question_text": "An object floats in water. What can be concluded about the relationship between the object's density and the density of water?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "buoyancy",
+    "fluids"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object's density is greater than the density of water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The object's density is less than the density of water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The object's density is equal to the density of water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The density relationship cannot be determined from floating alone",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The object's density is less than the density of water",
+  "explanation": "Objects float when they are less dense than the fluid they are in. This is because less dense objects experience an upward buoyant force that is greater than their weight, causing them to float on the surface. If an object's density were equal to or greater than water's density, it would sink or remain suspended underwater.",
+  "source_url": "ks3textbook://matter.density/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:48:49.864966",
+  "classified_at": "2026-04-04T20:48:49.864927",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

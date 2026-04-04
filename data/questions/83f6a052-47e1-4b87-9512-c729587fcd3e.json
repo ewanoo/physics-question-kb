@@ -1,0 +1,25 @@
+{
+  "id": "83f6a052-47e1-4b87-9512-c729587fcd3e",
+  "question_text": "Explain why an object's weight would change if it were moved from Earth to the Moon, even though its mass would remain the same.",
+  "question_type": "long_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational_field",
+    "Earth_Moon_comparison"
+  ],
+  "options": null,
+  "correct_answer": "The Moon has a weaker gravitational field than Earth. Since weight depends on the gravitational field strength of the location, the same mass experiences less gravitational force on the Moon. Mass remains constant because it is the amount of matter in an object, which does not change with location.",
+  "explanation": "Weight is the force of gravity acting on an object's mass. It depends on how strong the gravitational field is at that location. The Moon's gravity is about one-sixth as strong as Earth's, so an object weighs much less there. However, mass (the amount of matter) never changes, no matter where the object is.",
+  "source_url": "ks3textbook://forces.gravity/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:56:53.516714",
+  "classified_at": "2026-04-04T20:56:53.516678",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

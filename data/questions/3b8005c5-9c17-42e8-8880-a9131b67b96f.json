@@ -1,0 +1,47 @@
+{
+  "id": "3b8005c5-9c17-42e8-8880-a9131b67b96f",
+  "question_text": "A book is resting on a table. Which of the following is true about the forces acting on it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "equilibrium",
+    "Newton's first law",
+    "normal force",
+    "weight"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The forces are unbalanced, so the book will move",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces are balanced, so the book remains at rest",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There is only one force acting on the book",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The weight of the book is greater than the normal force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The forces are balanced, so the book remains at rest",
+  "explanation": "When a book rests on a table, two forces act on it: its weight (downward) and the normal force from the table (upward). These forces are equal in size but opposite in direction, so they are balanced. Balanced forces mean the book has no net force acting on it, so it stays at rest. This demonstrates Newton's first law of motion.",
+  "source_url": "generate://forces.balanced/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:06.829100",
+  "classified_at": "2026-04-04T20:55:06.829061",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

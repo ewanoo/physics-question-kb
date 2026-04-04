@@ -1,0 +1,26 @@
+{
+  "id": "7c893df3-78ff-4ea1-9270-49d451ab5fd5",
+  "question_text": "A ship made of steel (density 7850 kg/m³) floats on the ocean, yet a solid steel ball sinks. Explain this apparent contradiction using the concept of density.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "average density",
+    "conceptual reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The ship floats because its overall average density (including the air inside its hull) is less than the density of seawater (~1025 kg/m³). The steel ball sinks because it is solid steel with no air spaces, so its density (7850 kg/m³) is much greater than seawater and it will sink.",
+  "explanation": "This question tests understanding that density is a property of an entire object as a system, not just the material it's made from. A ship is hollow and contains large air spaces inside its hull. When you calculate the average density of the ship (total mass divided by total volume including the hollow parts), this average is less than water's density, so it floats. A solid steel ball has no air gaps, so its density is 7850 kg/m³ throughout, which is much greater than seawater, so it sinks. The key insight is that average density of the whole object determines floating, not the density of the material alone.",
+  "source_url": "ks3textbook://matter.density/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:33.821512",
+  "classified_at": "2026-04-04T20:49:33.821474",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

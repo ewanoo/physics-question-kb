@@ -1,0 +1,24 @@
+{
+  "id": "d9e671c1-04b9-4794-9b41-28f44c32b568",
+  "question_text": "Name one way you could make an electromagnet stronger.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "magnetic field strength",
+    "factors affecting electromagnets"
+  ],
+  "options": null,
+  "correct_answer": "Increase the number of coils in the wire, increase the current flowing through it, or use a stronger iron core.",
+  "explanation": "An electromagnet's strength depends on three main factors: the number of coils (more coils = stronger field), the current flowing through the wire (higher current = stronger field), and the core material (iron is a better core than air). Changing any of these will make the electromagnet stronger.",
+  "source_url": "oak://electricity.magnets/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:36.256261",
+  "classified_at": "2026-04-04T20:44:36.256220",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

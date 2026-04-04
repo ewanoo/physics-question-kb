@@ -1,0 +1,47 @@
+{
+  "id": "9803ca0d-2160-4bc2-92dd-922ebf8317c0",
+  "question_text": "A student heats ice at 0°C. During melting, the temperature stays at 0°C even though heat energy is being added. Which statement best explains why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "changes of state",
+    "melting",
+    "latent heat",
+    "particle model",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The heat energy is used to increase the speed of the ice particles",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The heat energy is used to break bonds and allow particles to move more freely, not to increase their speed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The ice is absorbing heat but cannot melt because it is at 0°C",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The thermometer is broken and not showing the real temperature increase",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The heat energy is used to break bonds and allow particles to move more freely, not to increase their speed",
+  "explanation": "During melting, the temperature stays constant at 0°C because the heat energy being added is used to break the bonds holding particles in fixed positions in the solid ice. Once these bonds are broken, particles can move more freely as a liquid. The energy goes into changing the state, not into making particles move faster (which would increase temperature). This energy is called latent heat of fusion.",
+  "source_url": "generate://matter.states/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:37.670185",
+  "classified_at": "2026-04-04T20:47:37.670147",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

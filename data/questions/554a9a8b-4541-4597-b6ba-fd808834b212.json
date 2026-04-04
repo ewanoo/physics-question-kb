@@ -1,0 +1,46 @@
+{
+  "id": "554a9a8b-4541-4597-b6ba-fd808834b212",
+  "question_text": "Two identical metal spheres both have excess electrons. When they are brought close together, which statement best explains why they repel?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "like charges repel",
+    "electric fields",
+    "static electricity",
+    "charge interaction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electrons move from one sphere to the other, creating opposite charges",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both spheres have the same type of charge, so their electric fields push them apart",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The electrons in each sphere are attracted to the nucleus and pull away",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Metal spheres always repel each other due to their atomic structure",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Both spheres have the same type of charge, so their electric fields push them apart",
+  "explanation": "When two objects have the same type of charge (both negative in this case), their electric fields repel each other. Like charges always push away from each other because the electric field lines point in opposite directions relative to each charge, creating a repulsive force between them.",
+  "source_url": "oak://electricity.static/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:18.131278",
+  "classified_at": "2026-04-04T20:44:18.131241",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

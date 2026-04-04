@@ -1,0 +1,25 @@
+{
+  "id": "00a7109f-0ed8-4f98-98a7-2abeeae21972",
+  "question_text": "A satellite in a higher orbit travels more slowly than one in a lower orbit around the same planet. Explain why using ideas about gravity and speed.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "orbital_mechanics",
+    "gravitational_force",
+    "centripetal_force",
+    "inverse_square_law"
+  ],
+  "options": null,
+  "correct_answer": "The higher satellite experiences weaker gravitational force because it is further from the planet. This weaker force provides less centripetal acceleration, so it needs to travel more slowly to maintain a stable orbit.",
+  "explanation": "Gravitational force decreases with distance following the inverse square law (F ∝ 1/r²). For any satellite to stay in orbit, the gravitational pull must provide exactly the right centripetal force to keep it moving in a circle. A satellite that is further away experiences weaker gravity, which means there is less centripetal force available. To stay in orbit with this weaker force, the satellite must travel more slowly. If it went faster, the centripetal force needed would exceed the available gravitational force, and the satellite would fly away.",
+  "source_url": "oak://space.gravity/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:59.044141",
+  "classified_at": "2026-04-04T20:53:59.044102",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

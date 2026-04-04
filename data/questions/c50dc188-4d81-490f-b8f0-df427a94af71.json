@@ -1,0 +1,25 @@
+{
+  "id": "c50dc188-4d81-490f-b8f0-df427a94af71",
+  "question_text": "Compare what happens when you bring a negatively charged rod close to a positively charged rod versus bringing two negatively charged rods together. Explain why the behaviour is different.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "electric charges",
+    "attraction and repulsion",
+    "electric fields",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Opposite charges (negative and positive) attract each other because their electric fields pull toward each other. Like charges (both negative) repel because their electric fields push away from each other.",
+  "explanation": "When opposite charges come together, their electric field lines point toward each other, creating an attractive force that pulls them together. When like charges come together, their electric field lines point away from each other, creating a repulsive force that pushes them apart. This is because charges of the same type have similar electrical properties that resist being near each other.",
+  "source_url": "oak://electricity.static/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:21.720813",
+  "classified_at": "2026-04-04T20:44:21.720766",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

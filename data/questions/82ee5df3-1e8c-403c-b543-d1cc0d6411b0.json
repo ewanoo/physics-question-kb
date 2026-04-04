@@ -1,0 +1,47 @@
+{
+  "id": "82ee5df3-1e8c-403c-b543-d1cc0d6411b0",
+  "question_text": "A wooden block has a density of 600 kg/m³ and is placed in water with a density of 1000 kg/m³. Which statement best explains why the block floats?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "buoyancy",
+    "floating",
+    "forces",
+    "conceptual_understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The block is less dense than water, so the upward buoyant force exceeds the downward gravitational force",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The block has a smaller mass than the water surrounding it",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Water is denser, so it pushes the block upwards with greater force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The block displaces a volume of water equal to its own volume",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The block is less dense than water, so the upward buoyant force exceeds the downward gravitational force",
+  "explanation": "An object floats when it is less dense than the fluid it is in. The wooden block (600 kg/m³) is less dense than water (1000 kg/m³), so it displaces water that weighs more than the block itself. This creates an upward buoyant force greater than the downward gravitational force (weight), causing the block to float. This requires understanding density, buoyancy, and how forces balance.",
+  "source_url": "ks3textbook://matter.density/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:27.329487",
+  "classified_at": "2026-04-04T20:49:27.329451",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

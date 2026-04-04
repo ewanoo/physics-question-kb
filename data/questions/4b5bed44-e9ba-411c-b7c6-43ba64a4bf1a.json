@@ -1,0 +1,47 @@
+{
+  "id": "4b5bed44-e9ba-411c-b7c6-43ba64a4bf1a",
+  "question_text": "Which statement best describes why a longer crowbar is more effective at lifting a load than a shorter one?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "levers",
+    "moments",
+    "mechanical advantage",
+    "pivot",
+    "applied force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It is heavier and creates more force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It increases the perpendicular distance from the pivot, creating a larger moment with the same applied force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It reduces the weight of the load being lifted",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It moves faster and requires less time to lift the load",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It increases the perpendicular distance from the pivot, creating a larger moment with the same applied force",
+  "explanation": "A longer crowbar is more effective because it increases the perpendicular distance from the pivot point. Since moment = force × perpendicular distance, a larger distance means a larger turning effect (moment) is produced by the same applied force. This makes it easier to lift the load.",
+  "source_url": "oak://forces.moments/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:38.389747",
+  "classified_at": "2026-04-04T20:37:38.389662",
+  "classification_confidence": 0.99,
+  "quality_score": 4.8,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

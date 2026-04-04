@@ -1,0 +1,47 @@
+{
+  "id": "5aba3671-a3f3-46e6-8ff2-596a86a52b82",
+  "question_text": "Two identical light bulbs are connected to a 12 V power supply. In circuit P, both bulbs are connected in series. In circuit Q, both bulbs are connected in parallel. What is the potential difference across each individual bulb in each circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series circuits",
+    "parallel circuits",
+    "potential difference",
+    "voltage division",
+    "circuit comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Each bulb receives 12 V in both circuits",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Each bulb receives 6 V in series and 12 V in parallel",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Each bulb receives 12 V in series and 6 V in parallel",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The potential difference is the same regardless of circuit arrangement",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Each bulb receives 6 V in series and 12 V in parallel",
+  "explanation": "In a series circuit, the power supply's voltage is divided equally between all components. With two identical bulbs and a 12 V supply, each bulb gets 6 V. In a parallel circuit, each branch receives the full voltage from the power supply, so each bulb gets the full 12 V. This is why bulbs are brighter in parallel—they receive more potential difference and therefore more power.",
+  "source_url": "ks3textbook://electricity.current_voltage/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:08.284142",
+  "classified_at": "2026-04-04T20:43:08.284107",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

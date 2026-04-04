@@ -1,0 +1,26 @@
+{
+  "id": "00b7fd88-a1c6-4b64-907d-67a4ced3d146",
+  "question_text": "During a solar eclipse, the Moon passes in front of the Sun and casts a shadow on the Earth's surface. The umbra (the darkest part of the shadow) has a diameter of approximately 270 km on Earth's surface. Evaluate why a total solar eclipse is visible from only a small region of the Earth, and explain why people outside the umbra experience a partial eclipse rather than a total eclipse.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "solar eclipse",
+    "shadow geometry",
+    "umbra",
+    "apparent size",
+    "spatial reasoning"
+  ],
+  "options": null,
+  "correct_answer": "A total solar eclipse is visible from only a small region because the umbra (the Moon's full shadow) is small (~270 km diameter) due to the Moon and Sun having similar apparent sizes in the sky. The Moon blocks the Sun's light completely only within this narrow umbra region. Outside the umbra, observers are in the penumbra (partial shadow) where some direct sunlight reaches them around the Moon's edge, creating a partial eclipse.",
+  "explanation": "The geometry of a shadow cast by the Moon explains this. Even though the Sun is much larger than the Moon, it is also much farther away. This makes them appear roughly the same size from Earth. The Moon's shadow forms a cone, with the darkest part (umbra) being quite small. Only people in the umbra see the Sun completely blocked. Those in the lighter outer shadow (penumbra) see the Moon cover part of the Sun, creating a partial eclipse.",
+  "source_url": "ks3textbook://space.earth_moon/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:32.355760",
+  "classified_at": "2026-04-04T20:51:32.355722",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

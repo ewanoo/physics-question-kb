@@ -1,0 +1,46 @@
+{
+  "id": "88d8c156-6853-4717-8397-5f52f1db0a15",
+  "question_text": "What happens to light when it enters a denser medium, such as light passing from air into glass?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light properties",
+    "denser medium",
+    "speed of light"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The light speeds up and bends away from the normal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The light slows down and bends towards the normal",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The light continues at the same speed and does not bend",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The light speeds up and bends towards the normal",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The light slows down and bends towards the normal",
+  "explanation": "When light travels from a less dense medium (air) into a denser medium (glass), it slows down. This change in speed causes the light to change direction, bending towards the normal line (an imaginary line perpendicular to the surface). This phenomenon is called refraction.",
+  "source_url": "generate://waves.light/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:05.214565",
+  "classified_at": "2026-04-04T20:40:05.214527",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

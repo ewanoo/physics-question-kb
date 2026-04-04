@@ -1,0 +1,47 @@
+{
+  "id": "1f8c0e05-8167-44c8-a15d-4d378abbe76a",
+  "question_text": "A musician plays the same note (same frequency) on two different instruments: a flute and a violin. Both produce sound at 440 Hz, but the sounds have different timbres (qualities). Which statement best explains this difference using wave properties?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "timbre",
+    "harmonics",
+    "overtones",
+    "wave_properties",
+    "sound_quality"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The flute produces a higher amplitude wave than the violin",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The two instruments produce different combinations of the fundamental frequency and overtones with different amplitudes",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The violin produces sound that travels faster through air than the flute",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The flute and violin resonate at different frequencies, so they cannot produce the same note",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The two instruments produce different combinations of the fundamental frequency and overtones with different amplitudes",
+  "explanation": "Timbre (or tone quality) is what makes a flute sound different from a violin even when playing the same note. This difference comes from overtones—extra frequencies that sound alongside the main frequency (440 Hz). Each instrument produces different overtones at different loudnesses (amplitudes), which creates its unique sound character. The fundamental frequency is the same, but the harmonic content is different.",
+  "source_url": "generate://waves.sound/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:34.185410",
+  "classified_at": "2026-04-04T20:39:34.185373",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

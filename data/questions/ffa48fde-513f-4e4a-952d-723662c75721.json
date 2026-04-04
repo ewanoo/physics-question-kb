@@ -1,0 +1,47 @@
+{
+  "id": "ffa48fde-513f-4e4a-952d-723662c75721",
+  "question_text": "Which statement correctly describes the difference between balanced and unbalanced forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "unbalanced forces",
+    "net force",
+    "acceleration",
+    "Newton's laws"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Balanced forces cause movement, unbalanced forces don't",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Balanced forces cancel out and cause no change in motion, unbalanced forces cause acceleration",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Unbalanced forces are always stronger than balanced forces",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is no difference between balanced and unbalanced forces",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Balanced forces are equal in size but opposite in direction, so they cancel out and produce zero net force. This means there is no acceleration and no change in motion. Unbalanced forces are not equal, so they don't cancel out. They produce a non-zero net force that causes the object to accelerate (speed up, slow down, or change direction).",
+  "source_url": "generate://forces.balanced/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:11.542423",
+  "classified_at": "2026-04-04T20:55:11.542384",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

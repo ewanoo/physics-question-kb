@@ -1,0 +1,25 @@
+{
+  "id": "22364792-92d8-4402-b216-b77834adee8c",
+  "question_text": "A spring is stretched and then released. Why does it return to its original shape?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic properties",
+    "restoring force",
+    "energy storage",
+    "Hooke's law"
+  ],
+  "options": null,
+  "correct_answer": "The spring returns to its original shape because the elastic material exerts a restoring force that opposes the stretching force.",
+  "explanation": "Springs are made of elastic materials that can store energy when stretched or compressed. When you release a stretched spring, this stored energy is converted back into movement, and the material's elastic properties cause it to return to its original shape. This happens as long as you haven't stretched it beyond its elastic limit.",
+  "source_url": "generate://forces.springs/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:00.876984",
+  "classified_at": "2026-04-04T20:56:00.876941",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "8f104d9f-e173-4b17-adf7-cdc1805b56f9",
+  "question_text": "A mobile phone transmits signals using microwaves with a frequency of 2.0 × 10⁹ Hz. Calculate the wavelength of these microwaves. (Use the equation: wave speed = frequency × wavelength, and the speed of electromagnetic waves = 3.0 × 10⁸ m/s)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "microwaves",
+    "wave equation",
+    "frequency",
+    "wavelength",
+    "rearranging equations"
+  ],
+  "options": null,
+  "correct_answer": "0.15 m (or 15 cm)",
+  "explanation": "To find wavelength, we use the wave equation: wave speed = frequency × wavelength. Rearranging to find wavelength: wavelength = wave speed ÷ frequency. Substituting the values: λ = (3.0 × 10⁸ m/s) ÷ (2.0 × 10⁹ Hz) = 0.15 m. This shows that higher frequency waves have shorter wavelengths.",
+  "source_url": "ks3textbook://waves.em_spectrum/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:17.235410",
+  "classified_at": "2026-04-04T20:41:17.235370",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

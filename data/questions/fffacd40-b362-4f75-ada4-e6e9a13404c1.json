@@ -1,0 +1,26 @@
+{
+  "id": "fffacd40-b362-4f75-ada4-e6e9a13404c1",
+  "question_text": "A spacecraft of mass 1000 kg is travelling through space far from any stars or planets, where gravitational effects are negligible. Explain why the spacecraft's weight is effectively zero in this location, but its mass remains constant. Discuss what would happen to both mass and weight if the spacecraft entered Earth's gravitational field.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field",
+    "space",
+    "conceptual understanding"
+  ],
+  "options": null,
+  "correct_answer": "Weight is the gravitational force exerted on an object (W = mg). In deep space, there is no significant gravitational field, so g ≈ 0 and therefore weight ≈ 0. However, mass is an intrinsic property of matter that remains constant regardless of location. The spacecraft's mass stays 1000 kg everywhere. When the spacecraft enters Earth's gravitational field, g becomes approximately 10 N/kg, so the spacecraft gains weight (W = 1000 × 10 = 10,000 N), but its mass remains unchanged at 1000 kg.",
+  "explanation": "Mass and weight are different things. Mass is the amount of matter in an object and never changes. Weight is the force of gravity pulling on that mass, calculated by W = mg. In space far from any planets or stars, there's almost no gravitational field (g ≈ 0), so the weight is nearly zero even though the mass is still there. When the spacecraft gets close to Earth, Earth's gravity (g ≈ 10 N/kg) pulls on the spacecraft's mass, creating weight. The mass doesn't change, but the weight does because the gravitational field strength is different.",
+  "source_url": "ks3textbook://forces.gravity/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:37.620705",
+  "classified_at": "2026-04-04T20:57:37.620666",
+  "classification_confidence": 0.92,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a46340f3-2b5c-40d2-952c-85e4fe0ee2e4",
+  "question_text": "A student investigates how sound intensity varies with distance from a loudspeaker. At 1 metre from the speaker, the sound intensity is 0.1 W/m². At 2 metres, the intensity is 0.025 W/m². At 4 metres, the intensity is 0.00625 W/m². Identify the mathematical relationship between distance and intensity, and explain why this relationship exists for sound waves spreading in open air.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "inverse square law",
+    "sound intensity",
+    "mathematical relationships",
+    "wave properties",
+    "spherical spreading"
+  ],
+  "options": null,
+  "correct_answer": "Intensity is inversely proportional to the square of distance (I ∝ 1/r²). This is the inverse square law. It occurs because sound energy spreads uniformly over an increasingly larger spherical surface as it radiates outward from a point source. Since the surface area of a sphere increases with the square of the radius (A = 4πr²), the same acoustic power becomes distributed over a larger area at greater distances, causing intensity to decrease proportionally to 1/r².",
+  "explanation": "Sound waves travel outward from a loudspeaker in all directions, forming an expanding sphere. The total energy stays the same, but it spreads over a bigger and bigger surface. When you double the distance, the surface area increases by a factor of 4 (2²), so the intensity becomes 1/4 as strong. This pattern is called the inverse square law and applies to any point source of sound or light in open space.",
+  "source_url": "ks3textbook://waves.sound/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:39.351695",
+  "classified_at": "2026-04-04T20:58:39.351656",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

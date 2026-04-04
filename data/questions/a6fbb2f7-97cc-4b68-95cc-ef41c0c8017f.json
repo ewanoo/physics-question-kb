@@ -1,0 +1,25 @@
+{
+  "id": "a6fbb2f7-97cc-4b68-95cc-ef41c0c8017f",
+  "question_text": "A spring is stretched by a force of 10 N and extends by 5 cm. What is the spring constant of this spring?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "unit conversion",
+    "force and extension"
+  ],
+  "options": null,
+  "correct_answer": "200 N/m",
+  "explanation": "Using Hooke's law (F = kx), we can rearrange to find the spring constant: k = F/x. The force is 10 N, but we must convert the extension from 5 cm to 0.05 m first. Then k = 10 ÷ 0.05 = 200 N/m. This is a medium difficulty question because it requires applying Hooke's law and converting units.",
+  "source_url": "generate://forces.springs/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:56:12.362581",
+  "classified_at": "2026-04-04T20:56:12.362542",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

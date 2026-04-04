@@ -1,0 +1,46 @@
+{
+  "id": "1cd86ca9-c198-4f13-a8d1-8fd66c4d5698",
+  "question_text": "A plastic rod rubbed with a cloth becomes negatively charged. Which of these best describes what happened to the cloth?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "electron transfer",
+    "charging by friction",
+    "conservation of charge",
+    "insulators"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The cloth became positively charged because electrons moved from the rod to the cloth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The cloth became positively charged because electrons moved from the cloth to the rod",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The cloth remained neutral because charge cannot transfer between insulators",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The cloth became negatively charged to balance the rod",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The cloth became positively charged because electrons moved from the cloth to the rod",
+  "explanation": "When a plastic rod is rubbed with a cloth, electrons transfer from the cloth to the rod. The rod gains electrons and becomes negatively charged, while the cloth loses electrons and becomes positively charged. This demonstrates that charge is conserved - the total charge remains zero, but it is redistributed between the two materials.",
+  "source_url": "oak://electricity.static/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:44:19.667439",
+  "classified_at": "2026-04-04T20:44:19.667402",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

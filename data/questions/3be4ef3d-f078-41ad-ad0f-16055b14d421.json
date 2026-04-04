@@ -1,0 +1,48 @@
+{
+  "id": "3be4ef3d-f078-41ad-ad0f-16055b14d421",
+  "question_text": "What is the normal range of frequencies that humans can hear?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "hearing",
+    "frequency",
+    "human perception",
+    "infrasound",
+    "ultrasound"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "0 to 10 Hz",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "20 to 200 Hz",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "20 to 20,000 Hz",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "100 to 100,000 Hz",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "20 to 20,000 Hz",
+  "explanation": "The human ear can typically hear sounds with frequencies between 20 Hz and 20,000 Hz (also written as 20 kHz). Sounds below 20 Hz are called infrasound and are too low for us to hear, while sounds above 20,000 Hz are called ultrasound and are too high for us to hear. This range can vary slightly between individuals.",
+  "source_url": "generate://waves.sound/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:48.279882",
+  "classified_at": "2026-04-04T20:38:48.279834",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

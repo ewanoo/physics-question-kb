@@ -1,0 +1,47 @@
+{
+  "id": "d690e3bb-9f4a-4626-8421-2ce0c4bc63c5",
+  "question_text": "Which change of state is the reverse of melting?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "changes of state",
+    "melting",
+    "freezing",
+    "particle model",
+    "vocabulary"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Evaporation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Freezing",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Condensation",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Boiling",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Freezing",
+  "explanation": "Melting is when a solid changes to a liquid by heating. Freezing is the reverse process where a liquid changes back to a solid by cooling. Both processes involve the same substance, just in different states.",
+  "source_url": "generate://matter.changes/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:54.806041",
+  "classified_at": "2026-04-04T20:47:54.806005",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ccda57b1-3980-4300-8455-560b6702daaa",
+  "question_text": "What does it mean if an object is moving at constant speed?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "constant speed",
+    "speed definition",
+    "distance time",
+    "motion"
+  ],
+  "options": null,
+  "correct_answer": "The object is covering the same distance in equal time intervals, or its speed is not changing.",
+  "explanation": "Constant speed means an object travels at the same speed throughout its motion without speeding up or slowing down. It covers equal distances in equal periods of time.",
+  "source_url": "oak://forces.speed/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:25.123378",
+  "classified_at": "2026-04-04T20:35:25.123335",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

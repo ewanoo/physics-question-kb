@@ -1,0 +1,47 @@
+{
+  "id": "86ccbf2c-a895-46f2-8720-59c0b5048244",
+  "question_text": "A material has a density of 800 kg/m³. What can be concluded about this material when placed in water, which has a density of 1000 kg/m³?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "buoyancy",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The material will sink because it is heavier than water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The material will float because its density is less than the density of water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The material will float because it is less dense than air",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The material will sink because density is independent of buoyancy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The material will float because its density is less than the density of water",
+  "explanation": "Objects float when their density is less than the density of the fluid they are placed in. Since the material has a density of 800 kg/m³ and water has a density of 1000 kg/m³, the material is less dense than water and will float on the surface.",
+  "source_url": "ks3textbook://matter.density/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:06.744710",
+  "classified_at": "2026-04-04T20:49:06.744669",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

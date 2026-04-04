@@ -1,0 +1,46 @@
+{
+  "id": "2667c9c8-8649-4389-bb75-1e50008bb954",
+  "question_text": "In a series circuit, how does the current behave as it flows through multiple components?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series_circuits",
+    "current",
+    "circuit_behaviour",
+    "fundamental_concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The current decreases as it passes through each component",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current remains the same at all points in the circuit",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The current increases as it passes through each component",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The current splits equally between all components",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The current remains the same at all points in the circuit",
+  "explanation": "In a series circuit, all components are connected in a single loop with only one path for current to follow. Since charge cannot accumulate anywhere in the circuit, the same amount of current must flow through every component. Think of it like water flowing through a pipe with no branches - the same amount of water flows through every section.",
+  "source_url": "ks3textbook://electricity.circuits/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:55.559556",
+  "classified_at": "2026-04-04T20:41:55.559518",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "b6863887-6f90-46f6-a4db-613728db705d",
+  "question_text": "Ice at 0°C is left in a warm room. What will happen to the temperature of the ice as it melts?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "temperature",
+    "state change",
+    "latent heat",
+    "thermal energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The temperature will increase steadily from 0°C",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The temperature will stay at 0°C until all the ice has melted",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The temperature will decrease below 0°C",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The temperature will immediately jump to 20°C",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The temperature will stay at 0°C until all the ice has melted",
+  "explanation": "During melting, the temperature stays constant at 0°C even though heat energy is being added to the ice. This is because the energy is used to break the bonds holding the solid structure together (latent heat), rather than increasing the kinetic energy of the particles (which would raise temperature). Once all the ice has melted, any additional heat will then increase the temperature of the resulting water.",
+  "source_url": "generate://matter.changes/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:48:10.917425",
+  "classified_at": "2026-04-04T20:48:10.917387",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "78906def-fc0d-4c73-9c5a-e635d013d4a5",
+  "question_text": "A substance can exist as a solid, liquid, or gas. Which statement correctly describes what happens to the density of a substance as it changes from solid to liquid to gas?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "density",
+    "particle model",
+    "states of matter",
+    "mass and volume",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Density always increases because the substance gains mass",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Density generally decreases because the particles move further apart and occupy more space",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Density remains constant because the mass and volume do not change",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Density increases then decreases depending on the temperature",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Density generally decreases because the particles move further apart and occupy more space",
+  "explanation": "When a substance changes from solid to liquid to gas, the particles gain energy and move further apart. The mass stays the same, but the volume increases. Since density = mass ÷ volume, when volume increases while mass stays constant, density must decrease. This is why ice floats on water and steam rises above boiling water.",
+  "source_url": "generate://matter.states/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:43.944455",
+  "classified_at": "2026-04-04T20:47:43.944417",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

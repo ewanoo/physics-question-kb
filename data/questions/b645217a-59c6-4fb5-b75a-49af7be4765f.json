@@ -1,0 +1,26 @@
+{
+  "id": "b645217a-59c6-4fb5-b75a-49af7be4765f",
+  "question_text": "How does the tilt of Earth's axis affect the seasons?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "seasons",
+    "solar radiation",
+    "hemisphere",
+    "daylight hours"
+  ],
+  "options": null,
+  "correct_answer": "The tilt of Earth's axis causes different hemispheres to receive different amounts of direct sunlight throughout the year. When a hemisphere tilts towards the Sun, it receives more direct rays and has longer daylight hours (summer). When it tilts away, it receives weaker rays and has shorter daylight hours (winter).",
+  "explanation": "Earth's axis is tilted at about 23.5° relative to its orbit around the Sun. This tilt means that as Earth orbits, different parts of the planet receive varying amounts of direct sunlight. During summer in your hemisphere, your part of Earth tilts towards the Sun, so the Sun's rays hit more directly and you have longer days. During winter, your hemisphere tilts away, rays are less direct, and days are shorter. This difference in solar energy received creates the seasons.",
+  "source_url": "oak://space.seasons/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:52:47.991235",
+  "classified_at": "2026-04-04T20:52:47.991199",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

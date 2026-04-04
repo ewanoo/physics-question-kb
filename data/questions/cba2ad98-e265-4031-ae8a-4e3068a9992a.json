@@ -1,0 +1,47 @@
+{
+  "id": "cba2ad98-e265-4031-ae8a-4e3068a9992a",
+  "question_text": "At what temperature does water boil at standard pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "boiling point",
+    "water",
+    "state changes",
+    "standard pressure",
+    "factual recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "0°C",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "50°C",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "100°C",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "150°C",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "100°C",
+  "explanation": "Water boils at 100°C when at standard atmospheric pressure (sea level). Boiling is when a liquid changes to a gas, and this happens at a specific temperature for each substance. For water, this temperature is 100°C.",
+  "source_url": "generate://matter.changes/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:56.197800",
+  "classified_at": "2026-04-04T20:47:56.197761",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

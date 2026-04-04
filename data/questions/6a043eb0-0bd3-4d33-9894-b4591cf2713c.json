@@ -1,0 +1,46 @@
+{
+  "id": "6a043eb0-0bd3-4d33-9894-b4591cf2713c",
+  "question_text": "Which of the following electromagnetic waves has the longest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "wavelength",
+    "radio waves",
+    "factual recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Visible light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Radio waves",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ultraviolet radiation",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "X-rays",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Radio waves",
+  "explanation": "Radio waves have the longest wavelengths in the electromagnetic spectrum, ranging from millimetres to kilometres. The electromagnetic spectrum is ordered by wavelength and frequency - radio waves are at one end with the longest wavelengths, while gamma rays are at the other end with the shortest wavelengths.",
+  "source_url": "ks3textbook://waves.em_spectrum/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:40:59.864228",
+  "classified_at": "2026-04-04T20:40:59.864192",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ebc621f7-adf1-4601-84d7-6771abbae139",
+  "question_text": "A train takes 120 seconds to travel 2400 metres. Calculate the train's speed in m/s.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "distance",
+    "time",
+    "calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "20 m/s",
+  "explanation": "To find speed, we use the formula: Speed = distance ÷ time. We divide 2400 metres by 120 seconds to get 20 metres per second. This is a straightforward application of the speed formula with simple numbers.",
+  "source_url": "oak://forces.speed/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:40.762716",
+  "classified_at": "2026-04-04T20:35:40.762678",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

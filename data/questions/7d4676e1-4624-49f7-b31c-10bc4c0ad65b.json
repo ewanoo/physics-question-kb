@@ -1,0 +1,46 @@
+{
+  "id": "7d4676e1-4624-49f7-b31c-10bc4c0ad65b",
+  "question_text": "How does the force needed to stretch a spring change as you increase the extension?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "spring extension",
+    "force proportionality",
+    "foundational concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It decreases",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It depends on the colour of the spring",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It increases",
+  "explanation": "According to Hooke's law, the force needed to stretch a spring is directly proportional to how far you stretch it (the extension). The more you stretch the spring, the greater the force you must apply. This relationship is written as F = ke, where F is the force, k is the spring constant, and e is the extension.",
+  "source_url": "oak://forces.springs/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:50.317974",
+  "classified_at": "2026-04-04T20:37:50.317936",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

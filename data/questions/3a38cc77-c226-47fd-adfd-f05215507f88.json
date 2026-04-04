@@ -1,0 +1,46 @@
+{
+  "id": "3a38cc77-c226-47fd-adfd-f05215507f88",
+  "question_text": "Which statement correctly explains why average speed is often different from instantaneous speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "instantaneous speed",
+    "speed variation",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because objects always travel at a constant speed",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because objects speed up, slow down, or stop during a journey",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because time is measured differently in different places",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because distance cannot be measured accurately",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Because objects speed up, slow down, or stop during a journey",
+  "explanation": "Average speed is calculated by dividing the total distance travelled by the total time taken for the whole journey. Instantaneous speed is the speed at one specific moment in time. In real journeys, objects rarely travel at constant speed - they accelerate, decelerate, or stop at various points. This variation in speed means the average speed is usually different from the speed at any particular instant.",
+  "source_url": "oak://forces.speed/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:52.032775",
+  "classified_at": "2026-04-04T20:35:52.032735",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

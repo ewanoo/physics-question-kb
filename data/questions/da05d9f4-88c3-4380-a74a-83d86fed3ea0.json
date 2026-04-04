@@ -1,0 +1,26 @@
+{
+  "id": "da05d9f4-88c3-4380-a74a-83d86fed3ea0",
+  "question_text": "A student uses a lens to focus sunlight onto a piece of paper, which burns. When the student places the same lens in water and repeats the experiment, the paper does not burn as easily. Using your knowledge of refraction, explain why the lens is less effective in water than in air.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "optical density",
+    "lens focus",
+    "light speed",
+    "comparative reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The lens is less effective in water because the difference in optical density between water and glass is much smaller than the difference between air and glass. Since refraction depends on the change in optical density between materials, less bending of light occurs when the lens is in water. This reduced refraction means the light rays are not focused as sharply, so less light energy is concentrated on the paper, making it harder to burn.",
+  "explanation": "Refraction happens because light travels at different speeds in different materials. The greater the difference in optical density (how much the material slows light down), the more the light bends when passing between the two materials. Glass has a very different optical density from air, causing strong refraction and sharp focusing. However, water and glass have similar optical densities, so light doesn't bend as much when entering the lens from water. This weaker focusing effect means the sunlight isn't concentrated as intensely on the paper.",
+  "source_url": "generate://waves.light/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:35.177061",
+  "classified_at": "2026-04-04T20:40:35.177022",
+  "classification_confidence": 0.92,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

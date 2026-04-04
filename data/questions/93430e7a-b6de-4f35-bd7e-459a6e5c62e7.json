@@ -1,0 +1,46 @@
+{
+  "id": "93430e7a-b6de-4f35-bd7e-459a6e5c62e7",
+  "question_text": "What happens to an electromagnet when you increase the current flowing through its coil?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "current",
+    "magnetic field strength",
+    "direct proportionality"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It becomes weaker",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It becomes stronger",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It stops working",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It changes colour",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It becomes stronger",
+  "explanation": "The strength of an electromagnet depends on the current flowing through its coil. When you increase the current, the magnetic field produced becomes stronger. This is a direct relationship - more current means a stronger electromagnet.",
+  "source_url": "oak://electricity.electromagnets/medium",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:35.991979",
+  "classified_at": "2026-04-04T20:45:35.991940",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

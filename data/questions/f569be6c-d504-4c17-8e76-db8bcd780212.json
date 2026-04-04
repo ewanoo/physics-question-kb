@@ -1,0 +1,46 @@
+{
+  "id": "f569be6c-d504-4c17-8e76-db8bcd780212",
+  "question_text": "A plane mirror produces an image that is:",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "plane mirrors",
+    "image formation",
+    "reflection",
+    "virtual images"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Real, inverted, and the same size as the object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Virtual, upright, and the same size as the object",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Virtual, inverted, and smaller than the object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Real, upright, and larger than the object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Virtual, upright, and the same size as the object",
+  "explanation": "Plane mirrors always produce virtual images because the light rays appear to come from behind the mirror but don't actually meet there. These images are upright (the same way up as the object) and are the same size as the object. The image appears to be the same distance behind the mirror as the object is in front of it.",
+  "source_url": "generate://waves.light/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:06.781194",
+  "classified_at": "2026-04-04T20:40:06.781156",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

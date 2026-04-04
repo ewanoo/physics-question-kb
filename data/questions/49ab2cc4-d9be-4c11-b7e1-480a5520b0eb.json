@@ -1,0 +1,46 @@
+{
+  "id": "49ab2cc4-d9be-4c11-b7e1-480a5520b0eb",
+  "question_text": "Two waves are compared. Wave A has a higher amplitude than Wave B. What does this mean?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "wave energy",
+    "wave properties",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wave A vibrates more times per second than Wave B",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wave A has a longer distance between crests than Wave B",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Wave A carries more energy than Wave B",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Wave A travels faster than Wave B",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Wave A carries more energy than Wave B",
+  "explanation": "Amplitude is the maximum displacement of a wave from its rest position. A larger amplitude means the wave vibrates with greater intensity and carries more energy. This is a fundamental relationship in wave physics.",
+  "source_url": "generate://waves.properties/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:17.327091",
+  "classified_at": "2026-04-04T20:38:17.327054",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

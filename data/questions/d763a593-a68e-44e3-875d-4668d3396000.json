@@ -1,0 +1,47 @@
+{
+  "id": "d763a593-a68e-44e3-875d-4668d3396000",
+  "question_text": "A gas is trapped in a sealed container at room temperature. The container is then heated. Which two things happen to the gas particles?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "gas behaviour",
+    "heating",
+    "pressure",
+    "kinetic energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They move faster and take up more space",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They move faster and collide with the walls more frequently and forcefully",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They move slower and collide less frequently",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They stay the same speed but spread out more",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "They move faster and collide with the walls more frequently and forcefully",
+  "explanation": "When a gas is heated in a sealed container, its particles gain kinetic energy and move faster. Faster-moving particles collide with the container walls more often and with greater force, which increases the pressure. Since the container is sealed and rigid, the volume stays the same, but the pressure increases.",
+  "source_url": "generate://matter.states/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:39.335105",
+  "classified_at": "2026-04-04T20:47:39.335068",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

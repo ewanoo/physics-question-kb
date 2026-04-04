@@ -1,0 +1,46 @@
+{
+  "id": "094f9303-8e17-447b-82ec-c962bbb3de3c",
+  "question_text": "Which of the following celestial bodies is correctly paired with its classification within the Solar System?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "terrestrial planets",
+    "Solar System classification",
+    "Earth",
+    "planetary characteristics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Jupiter is a terrestrial planet located in the inner Solar System",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mars is a gas giant with a thick atmosphere of hydrogen and helium",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Earth is a terrestrial planet with a solid rocky surface",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Neptune is a rocky planet in the inner Solar System",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Earth is a terrestrial planet with a solid rocky surface",
+  "explanation": "Earth is a terrestrial (or rocky) planet, one of the four inner planets of the Solar System along with Mercury, Venus, and Mars. These planets have solid rocky surfaces made of rock and metal, unlike the gas giants (Jupiter, Saturn, Uranus, and Neptune) in the outer Solar System.",
+  "source_url": "ks3textbook://space.solar_system/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:58.743541",
+  "classified_at": "2026-04-04T20:49:58.743500",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

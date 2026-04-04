@@ -1,0 +1,46 @@
+{
+  "id": "989a9ad1-7556-4ca5-a23c-8608b2e9598c",
+  "question_text": "Which statement correctly describes the relationship between orbital period and distance from the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital_period",
+    "kepler's_laws",
+    "solar_system",
+    "planetary_motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Planets closer to the Sun have longer orbital periods than planets farther away",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Planets farther from the Sun have shorter orbital periods than planets closer to the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Planets farther from the Sun take longer to complete one orbit than planets closer to the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The orbital period is unrelated to the distance from the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Planets farther from the Sun take longer to complete one orbit than planets closer to the Sun",
+  "explanation": "Planets that orbit farther from the Sun travel a greater distance in their orbits and also experience weaker gravitational pull from the Sun, so they move more slowly. This means they take much longer to complete one full orbit. For example, Mercury (closest to the Sun) orbits in 88 days, while Neptune (farthest) takes 165 years. This pattern is described by Kepler's Third Law.",
+  "source_url": "ks3textbook://space.solar_system/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:03.814820",
+  "classified_at": "2026-04-04T20:50:03.814781",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

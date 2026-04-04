@@ -1,0 +1,25 @@
+{
+  "id": "feee2610-4e22-4ffe-a6d8-bb64bb47b888",
+  "question_text": "Describe the difference between a high-frequency wave and a low-frequency wave.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "wave_properties",
+    "definitions",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "A high-frequency wave completes many cycles per second, while a low-frequency wave completes fewer cycles per second. High-frequency waves have more waves produced in the same time period than low-frequency waves.",
+  "explanation": "Frequency is the number of complete waves produced in one second, measured in hertz (Hz). High-frequency waves oscillate rapidly and have many cycles per second (like blue light or high-pitched sounds), while low-frequency waves oscillate more slowly with fewer cycles per second (like red light or low-pitched sounds).",
+  "source_url": "generate://waves.properties/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:05.666920",
+  "classified_at": "2026-04-04T20:38:05.666880",
+  "classification_confidence": 0.95,
+  "quality_score": 4.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

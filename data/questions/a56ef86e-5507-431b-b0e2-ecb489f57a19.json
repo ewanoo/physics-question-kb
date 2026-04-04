@@ -1,0 +1,26 @@
+{
+  "id": "a56ef86e-5507-431b-b0e2-ecb489f57a19",
+  "question_text": "A parachutist is falling at a constant velocity. Explain why the forces acting on the parachutist must be balanced.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's laws",
+    "constant velocity",
+    "equilibrium",
+    "forces",
+    "air resistance"
+  ],
+  "options": null,
+  "correct_answer": "The parachutist is moving at constant velocity, which means acceleration is zero. According to Newton's first law, zero acceleration only occurs when the net force is zero, meaning forces are balanced. The downward weight force equals the upward air resistance force.",
+  "explanation": "When an object moves at constant velocity (not speeding up or slowing down), it has zero acceleration. Newton's first law tells us that this only happens when all forces are balanced, so the net force equals zero. For the parachutist, the weight pulling downward equals the air resistance pushing upward, keeping the velocity constant.",
+  "source_url": "generate://forces.balanced/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:25.327074",
+  "classified_at": "2026-04-04T20:55:25.327034",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

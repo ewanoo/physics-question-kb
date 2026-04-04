@@ -1,0 +1,47 @@
+{
+  "id": "135f9052-48f8-4aac-abfb-d0dce02ca088",
+  "question_text": "What is the normal in the context of reflection and refraction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "refraction",
+    "normal",
+    "definitions",
+    "light_behaviour"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The surface of the mirror or lens",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An imaginary line perpendicular to the surface at the point where light hits",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The path that light travels before hitting a surface",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The angle between the light ray and the surface",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "An imaginary line perpendicular to the surface at the point where light hits",
+  "explanation": "The normal is an imaginary line drawn at 90 degrees (perpendicular) to a surface. It acts as a reference line used to measure angles of incidence and reflection in both reflection and refraction. This is a fundamental concept used when applying the laws of reflection and refraction.",
+  "source_url": "generate://waves.light/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:39:55.989393",
+  "classified_at": "2026-04-04T20:39:55.989357",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

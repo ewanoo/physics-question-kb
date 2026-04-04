@@ -1,0 +1,27 @@
+{
+  "id": "b2613cec-d2ef-4e95-b1b2-42b8ccb92666",
+  "question_text": "Three identical light bulbs, each with a resistance of 2.4Ω, are connected in a circuit. Two bulbs are connected in series with each other, and this series combination is connected in parallel with the third bulb. A 12V power supply is connected across the entire arrangement. Calculate the total current drawn from the power supply.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series circuits",
+    "parallel circuits",
+    "resistance",
+    "current",
+    "Ohm's law",
+    "circuit analysis"
+  ],
+  "options": null,
+  "correct_answer": "7.5A",
+  "explanation": "First, find the resistance of the two bulbs in series: 2.4Ω + 2.4Ω = 4.8Ω. This series combination is in parallel with the third 2.4Ω bulb. For parallel resistors: 1/R_total = 1/4.8 + 1/2.4 = 1/4.8 + 2/4.8 = 3/4.8, so R_total = 1.6Ω. Using Ohm's law (V = IR): I = V/R = 12V / 1.6Ω = 7.5A.",
+  "source_url": "ks3textbook://electricity.current_voltage/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:31.533109",
+  "classified_at": "2026-04-04T20:43:31.533070",
+  "classification_confidence": 0.95,
+  "quality_score": 3.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

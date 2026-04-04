@@ -1,0 +1,48 @@
+{
+  "id": "53295e32-8ca4-417d-92ec-52b5f6dd7e21",
+  "question_text": "Which statement correctly describes the relationship between distance, speed, and time?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "distance",
+    "speed",
+    "time",
+    "formula",
+    "kinematics",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Distance increases when speed decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Distance travelled equals speed multiplied by time",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Time is always greater than distance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Speed and distance are not related to time",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Distance travelled equals speed multiplied by time",
+  "explanation": "The relationship between distance, speed, and time is given by the equation: distance = speed × time. This means if you travel at a faster speed or travel for a longer time, you will cover a greater distance.",
+  "source_url": "oak://forces.speed/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:23.896657",
+  "classified_at": "2026-04-04T20:35:23.896616",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

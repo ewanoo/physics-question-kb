@@ -1,0 +1,47 @@
+{
+  "id": "be90e503-3b1c-42ad-8cd0-3549fc9d2846",
+  "question_text": "Why do planets orbit the Sun instead of flying off into space?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "orbits",
+    "planets",
+    "Sun",
+    "gravitational force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun's gravity pulls them towards it",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Magnetic fields hold them in place",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The planets are attached by invisible strings",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They are slowing down and will eventually stop",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Sun's gravity pulls them towards it",
+  "explanation": "The Sun has a very strong gravitational force that pulls planets towards it. This gravitational pull is balanced by the planets' motion through space, which keeps them moving in stable orbits around the Sun rather than flying off into space or crashing into it.",
+  "source_url": "oak://space.gravity/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:25.516002",
+  "classified_at": "2026-04-04T20:53:25.515956",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

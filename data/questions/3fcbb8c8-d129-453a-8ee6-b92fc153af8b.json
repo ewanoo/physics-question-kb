@@ -1,0 +1,46 @@
+{
+  "id": "3fcbb8c8-d129-453a-8ee6-b92fc153af8b",
+  "question_text": "The gravitational force between two objects depends on their masses and the distance between them. The Moon has approximately 1/81 of the Earth's mass and orbits at a distance of about 384,000 km. Which statement correctly compares the gravitational force that the Earth exerts on the Moon with the gravitational force that the Moon exerts on the Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Newton's third law",
+    "gravitational forces",
+    "action-reaction pairs",
+    "Earth-Moon system"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Earth exerts a much larger gravitational force on the Moon because the Earth is significantly more massive",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces are equal in magnitude but opposite in direction, as stated by Newton's third law of motion",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Moon exerts a larger gravitational force on the Earth because it is closer to the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The gravitational forces are negligible at such large distances and can be considered zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The forces are equal in magnitude but opposite in direction, as stated by Newton's third law of motion",
+  "explanation": "Newton's third law states that forces always come in pairs: when one object exerts a force on another, the second object exerts an equal force back in the opposite direction. This applies to gravity too. Even though Earth is much more massive than the Moon, the gravitational force Earth exerts on the Moon is exactly equal in size (but opposite in direction) to the force the Moon exerts on Earth. The difference in mass doesn't change the size of these paired forces.",
+  "source_url": "ks3textbook://space.earth_moon/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:51:27.020812",
+  "classified_at": "2026-04-04T20:51:27.020774",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "72d1699d-782e-4049-993e-3ebb013d6dd1",
+  "question_text": "On which of the following planets would an object with a mass of 10 kg have the greatest weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravitational field strength",
+    "mass",
+    "planets"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon, where gravitational field strength is approximately 1.6 N/kg",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Earth, where gravitational field strength is approximately 10 N/kg",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Jupiter, where gravitational field strength is approximately 25 N/kg",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Mercury, where gravitational field strength is approximately 3.7 N/kg",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Jupiter, where gravitational field strength is approximately 25 N/kg",
+  "explanation": "Weight is calculated using the formula: Weight = mass × gravitational field strength. Since the mass is constant at 10 kg, the object will have the greatest weight where the gravitational field strength is greatest. Jupiter has a gravitational field strength of 25 N/kg, which is stronger than the Moon (1.6 N/kg), Earth (10 N/kg), or Mercury (3.7 N/kg), so the object would weigh most on Jupiter.",
+  "source_url": "ks3textbook://forces.gravity/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:56:51.618417",
+  "classified_at": "2026-04-04T20:56:51.618380",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "529f3a6c-8787-4355-91fe-cfc1a75bd116",
+  "question_text": "Which of the following statements correctly describes a parallel circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "current distribution",
+    "circuit properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Components are connected end-to-end in a single loop",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The total current is the sum of currents through each branch",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "All components receive the same current",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "If one component fails, the entire circuit stops working",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The total current is the sum of currents through each branch",
+  "explanation": "In a parallel circuit, the current from the power source splits into separate branches. Each branch can have a different current, but the total current supplied by the source equals the sum of all the currents flowing through each individual branch. This is different from a series circuit where the same current flows through all components.",
+  "source_url": "ks3textbook://electricity.circuits/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:57.082511",
+  "classified_at": "2026-04-04T20:41:57.082470",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

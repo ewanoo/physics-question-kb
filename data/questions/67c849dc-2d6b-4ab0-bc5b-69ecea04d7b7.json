@@ -1,0 +1,46 @@
+{
+  "id": "67c849dc-2d6b-4ab0-bc5b-69ecea04d7b7",
+  "question_text": "A car is being pulled by two ropes in opposite directions. One rope pulls with a force of 500 N to the right, and the other pulls with a force of 500 N to the left. What will happen to the car?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "resultant force",
+    "Newton's first law",
+    "force equilibrium"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The car will accelerate to the right",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The car will accelerate to the left",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The car will remain stationary or continue moving at constant velocity",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The car will accelerate in both directions simultaneously",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The car will remain stationary or continue moving at constant velocity",
+  "explanation": "When two equal forces act in opposite directions, they are balanced forces. The resultant (total) force is zero. According to Newton's first law, when the resultant force on an object is zero, the object either stays at rest or continues moving at the same speed in the same direction. In this case, the 500 N force to the right and 500 N force to the left cancel each other out completely.",
+  "source_url": "generate://forces.balanced/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:40.124219",
+  "classified_at": "2026-04-04T20:55:40.124181",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "67349541-af65-4abc-96e9-00e6797f52bb",
+  "question_text": "What is the extension of a spring?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "definition",
+    "hookes_law",
+    "springs",
+    "forces"
+  ],
+  "options": null,
+  "correct_answer": "The increase in length of the spring when a force is applied to it.",
+  "explanation": "Extension is the difference between the spring's stretched length and its original unstretched length. When you pull a spring, it gets longer - the amount it gets longer is called the extension.",
+  "source_url": "oak://forces.springs/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:48.489914",
+  "classified_at": "2026-04-04T20:37:48.489875",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

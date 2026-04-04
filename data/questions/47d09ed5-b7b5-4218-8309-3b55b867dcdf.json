@@ -1,0 +1,46 @@
+{
+  "id": "47d09ed5-b7b5-4218-8309-3b55b867dcdf",
+  "question_text": "A sound wave has a frequency of 440 Hz. What does this tell us?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "definition",
+    "hertz",
+    "wave cycles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The wave travels 440 metres per second",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The wave completes 440 complete cycles in one second",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The wave has a wavelength of 440 metres",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The wave reaches a maximum height of 440 metres",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The wave completes 440 complete cycles in one second",
+  "explanation": "Frequency is defined as the number of complete waves (or cycles) produced per second. It is measured in Hertz (Hz). Therefore, a frequency of 440 Hz means exactly 440 complete wave cycles occur every second. This is the standard definition taught in KS3 physics.",
+  "source_url": "generate://waves.properties/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:02.665480",
+  "classified_at": "2026-04-04T20:38:02.665424",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

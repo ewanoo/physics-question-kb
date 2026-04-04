@@ -1,0 +1,25 @@
+{
+  "id": "15f4d491-c0df-46c6-9be9-c85a28f4809b",
+  "question_text": "Name the SI unit used to measure speed.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "SI units",
+    "speed",
+    "definitions",
+    "measurement"
+  ],
+  "options": null,
+  "correct_answer": "Metres per second (m/s)",
+  "explanation": "The SI unit for speed is metres per second, written as m/s. This is the standard unit used in physics. While other units like kilometres per hour (km/h) are used in everyday life, m/s is the official SI (International System) unit that scientists use.",
+  "source_url": "oak://forces.speed/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:28.404767",
+  "classified_at": "2026-04-04T20:35:28.404720",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

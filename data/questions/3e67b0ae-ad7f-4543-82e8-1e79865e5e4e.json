@@ -1,0 +1,47 @@
+{
+  "id": "3e67b0ae-ad7f-4543-82e8-1e79865e5e4e",
+  "question_text": "Which of the following is the correct definition of the Solar System?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "definition",
+    "solar_system",
+    "celestial_bodies",
+    "gravity",
+    "orbits"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun and all the objects that orbit around it, including planets, moons, and asteroids",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A group of stars that are held together by gravity",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The region of space surrounding Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All the planets in the Universe",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Sun and all the objects that orbit around it, including planets, moons, and asteroids",
+  "explanation": "The Solar System is made up of the Sun at the centre and everything that orbits around it because of the Sun's gravitational pull. This includes the eight planets, their moons, asteroids, and comets. The other options describe different things: option B describes a galaxy, option C is too vague, and option D is incorrect because not all planets in the Universe are in our Solar System.",
+  "source_url": "ks3textbook://space.solar_system/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:42.956143",
+  "classified_at": "2026-04-04T20:49:42.956100",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

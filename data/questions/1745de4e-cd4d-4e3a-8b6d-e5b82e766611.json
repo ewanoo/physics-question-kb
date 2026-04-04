@@ -1,0 +1,47 @@
+{
+  "id": "1745de4e-cd4d-4e3a-8b6d-e5b82e766611",
+  "question_text": "The human ear can detect sound frequencies between approximately 20 Hz and 20,000 Hz. Which of the following frequencies would be inaudible to humans?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound waves",
+    "frequency",
+    "human hearing",
+    "ultrasound",
+    "audible range"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "50 Hz",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "1000 Hz",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "40,000 Hz",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "10,000 Hz",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "40,000 Hz",
+  "explanation": "The human ear can only hear frequencies between about 20 Hz and 20,000 Hz. Frequencies above 20,000 Hz are called ultrasonic and are too high-pitched for humans to hear. 40,000 Hz is well above this limit, so it would be inaudible. The other options (50 Hz, 1,000 Hz, and 10,000 Hz) all fall within the normal hearing range.",
+  "source_url": "ks3textbook://waves.sound/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:58:07.993666",
+  "classified_at": "2026-04-04T20:58:07.993623",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

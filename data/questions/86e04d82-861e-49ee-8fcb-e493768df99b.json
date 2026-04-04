@@ -1,0 +1,46 @@
+{
+  "id": "86e04d82-861e-49ee-8fcb-e493768df99b",
+  "question_text": "Which of the following correctly describes the relationship between the frequency and pitch of a sound wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "pitch",
+    "sound waves",
+    "wave properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Higher frequency sound waves produce a lower pitch",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Higher frequency sound waves produce a higher pitch",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Frequency and pitch are independent properties with no relationship",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pitch depends only on the amplitude of the sound wave",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Higher frequency sound waves produce a higher pitch",
+  "explanation": "Pitch is how high or low a sound seems to us. It depends directly on the frequency of the sound wave. Higher frequency means more vibrations per second, which our ears perceive as a higher pitch (like a whistle). Lower frequency means fewer vibrations per second, which sounds like a lower pitch (like a drum).",
+  "source_url": "ks3textbook://waves.sound/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:57:52.064414",
+  "classified_at": "2026-04-04T20:57:52.064368",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "6d34aad5-1b48-4a4e-acb7-dce886acf18a",
+  "question_text": "What is the main difference between the particle arrangement in a liquid and a gas?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "states of matter",
+    "particle spacing",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Liquids have larger particles than gases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles are much further apart and move faster than liquid particles",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Liquid particles don't move at all while gas particles move",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is no difference - liquids and gases are the same",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gas particles are much further apart and move faster than liquid particles",
+  "explanation": "In the particle model, gases have particles that are very far apart with large spaces between them, and these particles move rapidly and randomly in all directions. Liquids have particles that are much closer together and move more slowly around each other. This difference in spacing and movement explains why gases can spread out to fill any container, while liquids maintain a fixed volume.",
+  "source_url": "generate://matter.particles/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:11.399888",
+  "classified_at": "2026-04-04T20:46:11.399850",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

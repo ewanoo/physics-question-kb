@@ -1,0 +1,26 @@
+{
+  "id": "70f54855-579e-46e3-95d4-912a4d9d7e33",
+  "question_text": "How would you design an electromagnet that could pick up steel objects from a distance? Explain your answer using two factors that affect electromagnet strength.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet design",
+    "magnetic field strength",
+    "current",
+    "coils",
+    "applications"
+  ],
+  "options": null,
+  "correct_answer": "You would increase the current (using a higher voltage battery) and increase the number of coils in the wire. A stronger magnetic field reaches further distances and can attract steel more powerfully.",
+  "explanation": "Electromagnet strength depends on two main factors: the amount of current flowing through the wire (more current = stronger field) and the number of coils (more coils = stronger field). Both factors multiply their effects, so increasing either one makes the electromagnet stronger and able to pick up steel from greater distances.",
+  "source_url": "oak://electricity.electromagnets/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:45:58.423624",
+  "classified_at": "2026-04-04T20:45:58.423583",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

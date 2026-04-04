@@ -1,0 +1,47 @@
+{
+  "id": "9e4151dc-b841-475b-b305-c9e300f4badf",
+  "question_text": "Which property of a wave is measured in metres?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wave properties",
+    "wavelength",
+    "amplitude",
+    "units",
+    "measurement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Frequency",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wavelength and amplitude",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Period",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Speed only",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Wavelength and amplitude",
+  "explanation": "Both wavelength and amplitude are distances measured in metres (m). Wavelength is the distance between two consecutive wave peaks or troughs, while amplitude is the maximum distance a wave particle moves from its resting position. Frequency is measured in Hertz (Hz) and speed is measured in metres per second (m/s).",
+  "source_url": "generate://waves.properties/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:04.169182",
+  "classified_at": "2026-04-04T20:38:04.169146",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

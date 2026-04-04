@@ -1,0 +1,46 @@
+{
+  "id": "ad7967dd-facb-49fa-b71f-660ca0cdf4d8",
+  "question_text": "A student observes that when white light passes through a blue filter, the transmitted light appears blue. Which of the following best explains why red light does not appear in the transmitted light?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "light absorption",
+    "wavelength",
+    "selective transmission"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The blue filter converts red light into blue light through refraction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The blue filter absorbs red light because red light waves have a different wavelength that the filter cannot transmit",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Red light is scattered by the filter material before it can pass through",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The blue filter reflects all colours except blue, which passes straight through",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The blue filter absorbs red light because red light waves have a different wavelength that the filter cannot transmit",
+  "explanation": "Colour filters work by absorbing certain wavelengths of light while transmitting others. A blue filter transmits blue light because the wavelength of blue light matches what the filter allows through. Red light has a different wavelength, so the filter material absorbs it rather than letting it pass through. This is why we only see blue light coming out of the filter.",
+  "source_url": "ks3textbook://waves.colour/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:26.042004",
+  "classified_at": "2026-04-04T20:59:26.041967",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

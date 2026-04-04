@@ -1,0 +1,46 @@
+{
+  "id": "5565cdfb-6607-4c01-90ea-c773ee0f3a07",
+  "question_text": "How does a distance-time graph for an object moving at constant speed differ from one that is stationary?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "constant speed",
+    "stationary objects",
+    "graph interpretation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The moving object's line is curved while the stationary object's is straight",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The moving object's line is diagonal while the stationary object's line is horizontal",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The moving object's line is horizontal while the stationary object's is diagonal",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both lines are identical",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The moving object's line is diagonal while the stationary object's line is horizontal",
+  "explanation": "On a distance-time graph, a horizontal line indicates that distance is not changing over time, meaning the object is stationary. A diagonal line shows that distance is increasing at a constant rate over time, which represents constant speed motion.",
+  "source_url": "oak://forces.speed/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:56.928236",
+  "classified_at": "2026-04-04T20:35:56.928198",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

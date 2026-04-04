@@ -1,0 +1,26 @@
+{
+  "id": "15f5bd52-7bad-40d9-a488-fd7ca179ddf5",
+  "question_text": "Two transparent filters are placed in sequence in front of a white light source: first a green filter, then a magenta filter. Predict the colour of light that will be transmitted through both filters and justify your answer using the properties of light wavelengths and filter transmission.",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "light wavelengths",
+    "filter absorption",
+    "selective transmission",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "No light (or black) will be transmitted through both filters.",
+  "explanation": "A green filter only allows green light wavelengths to pass through. A magenta filter only allows red and blue light wavelengths to pass through. Since green light contains different wavelengths from red and blue light, there is no overlap. The green light transmitted by the first filter cannot pass through the magenta filter because magenta filters absorb green light. Therefore, no light emerges from the combination.",
+  "source_url": "ks3textbook://waves.colour/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:59:32.838854",
+  "classified_at": "2026-04-04T20:59:32.838804",
+  "classification_confidence": 0.95,
+  "quality_score": 4.2,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

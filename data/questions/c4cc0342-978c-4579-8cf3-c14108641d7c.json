@@ -1,0 +1,46 @@
+{
+  "id": "c4cc0342-978c-4579-8cf3-c14108641d7c",
+  "question_text": "Which of the following best describes amplitude?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "wave definition",
+    "oscillation",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The number of waves passing a point each second",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The maximum distance a particle moves from its rest position",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The distance between one wave crest and the next",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which the wave travels",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The maximum distance a particle moves from its rest position",
+  "explanation": "Amplitude is defined as the maximum distance that a particle in a wave moves away from its rest position (equilibrium). It is measured from the centre line of the wave to either the crest or trough. A larger amplitude means the wave carries more energy.",
+  "source_url": "generate://waves.properties/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:14.607236",
+  "classified_at": "2026-04-04T20:38:14.607199",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

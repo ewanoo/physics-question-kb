@@ -1,0 +1,46 @@
+{
+  "id": "52527f9d-c12e-4d58-af84-e08610088ab1",
+  "question_text": "How does increasing the distance from the pivot affect the moment produced?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "pivot",
+    "turning effect",
+    "lever"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It decreases the moment",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It has no effect on the moment",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It increases the moment",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "It changes the direction of the force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It increases the moment",
+  "explanation": "Moment is the turning effect of a force around a pivot. The moment depends on both the force applied and the distance from the pivot. The further away from the pivot a force acts, the larger the turning effect (moment) it produces. This is why it's easier to open a door by pushing near the handle (far from the hinge) than near the hinge itself.",
+  "source_url": "oak://forces.moments/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:36:55.458072",
+  "classified_at": "2026-04-04T20:36:55.458031",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

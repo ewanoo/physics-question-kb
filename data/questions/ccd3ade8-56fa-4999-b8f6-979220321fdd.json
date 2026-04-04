@@ -1,0 +1,46 @@
+{
+  "id": "ccd3ade8-56fa-4999-b8f6-979220321fdd",
+  "question_text": "What is the key advantage of using a parallel circuit for domestic electrical installations?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "domestic electricity",
+    "circuit design",
+    "appliance independence"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It uses less wire than a series circuit",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Each appliance can operate independently and receive full voltage",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It prevents all electrical devices from working if one fails",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It requires less current from the power supply",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Each appliance can operate independently and receive full voltage",
+  "explanation": "Parallel circuits are used in homes because each appliance is connected separately to the power supply. This means each device receives the full voltage (230V in the UK) and can be switched on or off without affecting other appliances. If one device breaks, the others continue to work normally.",
+  "source_url": "ks3textbook://electricity.circuits/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:00.653433",
+  "classified_at": "2026-04-04T20:42:00.653396",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

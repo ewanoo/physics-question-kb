@@ -1,0 +1,46 @@
+{
+  "id": "bdb98537-7fe3-4832-a643-7ccebe59f4cd",
+  "question_text": "What happens to a spring if you exceed its elastic limit?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "permanent deformation",
+    "Hooke's law",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It breaks immediately",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It becomes permanently deformed and doesn't return to its original shape",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It stretches forever",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It stays exactly the same",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It becomes permanently deformed and doesn't return to its original shape",
+  "explanation": "The elastic limit is the maximum force a spring can withstand while still returning to its original shape when the force is removed. If you exceed this limit, the spring undergoes plastic deformation, meaning it is permanently stretched or bent and will not spring back to its original position.",
+  "source_url": "oak://forces.springs/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:51.708755",
+  "classified_at": "2026-04-04T20:37:51.708715",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

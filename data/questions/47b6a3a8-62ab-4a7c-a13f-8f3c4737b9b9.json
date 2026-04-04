@@ -1,0 +1,46 @@
+{
+  "id": "47b6a3a8-62ab-4a7c-a13f-8f3c4737b9b9",
+  "question_text": "Why do liquids always take the shape of their container?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "liquids",
+    "states of matter",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because liquid particles are held in a rigid structure",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because liquid particles can move freely and flow to fill the available space",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because liquids are less dense than solids",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because liquid particles are not attracted to each other",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Because liquid particles can move freely and flow to fill the available space",
+  "explanation": "Liquids take the shape of their container because their particles have enough kinetic energy to move around and slide past each other. Unlike solids where particles are fixed in rigid structures, liquid particles can flow freely to fill whatever space is available, while still being held together by intermolecular forces.",
+  "source_url": "generate://matter.states/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:08.029090",
+  "classified_at": "2026-04-04T20:47:08.029055",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

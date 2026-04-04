@@ -1,0 +1,25 @@
+{
+  "id": "8815ef24-2bfa-4869-925f-63c1eaff2472",
+  "question_text": "A car is moving at a constant speed in a straight line. Are the forces acting on the car balanced or unbalanced? Explain your answer.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "Newton's first law",
+    "constant velocity",
+    "concept understanding"
+  ],
+  "options": null,
+  "correct_answer": "The forces are balanced. When an object moves at constant speed in a straight line, the forces are balanced because there is no acceleration or change in motion.",
+  "explanation": "When a car travels at constant speed in a straight line, its motion is not changing. According to Newton's first law, balanced forces mean no acceleration. The forward driving force from the engine equals the resistive forces (friction and air resistance), so the net force is zero and the car maintains constant velocity.",
+  "source_url": "generate://forces.balanced/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:09.903547",
+  "classified_at": "2026-04-04T20:55:09.903510",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

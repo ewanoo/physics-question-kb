@@ -1,0 +1,47 @@
+{
+  "id": "10a2c0f0-5f56-4d7e-b246-fd6bd0cc16e7",
+  "question_text": "Which of the following correctly states the unit of electric current?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "electric current",
+    "units",
+    "SI units",
+    "amperes",
+    "definition recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "volts (V)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "ohms (Ω)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "amperes (A)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "joules (J)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "amperes (A)",
+  "explanation": "Electric current is the flow of electric charge and is measured in amperes (A), often called 'amps'. This is the SI unit for electric current. Volts measure voltage (potential difference), ohms measure resistance, and joules measure energy.",
+  "source_url": "ks3textbook://electricity.current_voltage/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:42:50.688621",
+  "classified_at": "2026-04-04T20:42:50.688583",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

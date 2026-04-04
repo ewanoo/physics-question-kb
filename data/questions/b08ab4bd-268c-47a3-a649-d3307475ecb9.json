@@ -1,0 +1,25 @@
+{
+  "id": "b08ab4bd-268c-47a3-a649-d3307475ecb9",
+  "question_text": "Explain why the Moon orbits Earth rather than orbiting the Sun directly.",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "gravity",
+    "orbital_mechanics",
+    "gravitational_force",
+    "distance_and_mass"
+  ],
+  "options": null,
+  "correct_answer": "The Moon orbits Earth because Earth's gravitational force is strong enough at the Moon's distance to keep it in orbit. Although the Sun exerts a gravitational force on the Moon, Earth's gravitational force is greater because the Moon is much closer to Earth (384,400 km) than to the Sun (approximately 150 million km). Gravitational force depends on both mass and distance, so despite the Sun's greater mass, Earth's proximity means its gravitational pull dominates.",
+  "explanation": "Gravitational force depends on two things: the mass of the objects and the distance between them. The Sun is much more massive than Earth, but it is very far away (about 150 million km). Earth is much closer to the Moon (about 384,400 km away). Because gravity gets weaker with distance, Earth's gravitational pull on the Moon is stronger than the Sun's pull. This is why the Moon orbits Earth rather than the Sun.",
+  "source_url": "ks3textbook://space.solar_system/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:06.802063",
+  "classified_at": "2026-04-04T20:50:06.802024",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

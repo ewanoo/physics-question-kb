@@ -1,0 +1,47 @@
+{
+  "id": "beee296c-f67c-4728-ac88-eaf89220b860",
+  "question_text": "What is Hooke's law?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "springs",
+    "force",
+    "extension",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The extension of a spring is directly proportional to the force applied to it",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The extension of a spring is inversely proportional to the force applied to it",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Springs always return to their original shape no matter how much force is applied",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force applied to a spring is always greater than the extension produced",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The extension of a spring is directly proportional to the force applied to it",
+  "explanation": "Hooke's law states that when you apply a force to a spring, it stretches (extends) by an amount that is directly proportional to the force. This means if you double the force, the spring stretches twice as much. This relationship only works up to the limit of proportionality, after which the spring may not return to its original shape.",
+  "source_url": "generate://forces.springs/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:55:57.480283",
+  "classified_at": "2026-04-04T20:55:57.480232",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

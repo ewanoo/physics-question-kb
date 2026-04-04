@@ -1,0 +1,46 @@
+{
+  "id": "d7a56b2d-13b7-4ee5-976d-60cc1e3c48b9",
+  "question_text": "According to the particle model, what causes the pressure of a gas?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "gas pressure",
+    "collisions",
+    "kinetic theory"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of the gas pushing downwards",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The particles colliding with the walls of the container",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The colour of the gas molecules",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The temperature of the container walls",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The particles colliding with the walls of the container",
+  "explanation": "According to the particle model, gas particles are constantly moving at high speed. Gas pressure is created when billions of these particles collide with the container walls every second. Each tiny collision pushes on the wall, and all these collisions together produce the pressure we measure.",
+  "source_url": "generate://matter.particles/easy",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:46:13.104738",
+  "classified_at": "2026-04-04T20:46:13.104700",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

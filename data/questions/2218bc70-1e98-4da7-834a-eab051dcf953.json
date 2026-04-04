@@ -1,0 +1,46 @@
+{
+  "id": "2218bc70-1e98-4da7-834a-eab051dcf953",
+  "question_text": "Why does a balloon expand when you heat the air inside it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "particle_model",
+    "gas_pressure",
+    "temperature",
+    "kinetic_theory"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The air particles disappear",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Heating makes the rubber thinner and weaker",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Increased temperature causes particles to move faster, increasing pressure, which pushes the balloon outward",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Hot air is lighter and floats up",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Increased temperature causes particles to move faster, increasing pressure, which pushes the balloon outward",
+  "explanation": "When you heat the air inside a balloon, the particles gain energy and move faster. Faster-moving particles collide with the balloon walls more frequently and forcefully, creating greater pressure. This increased pressure pushes outward on the balloon, causing it to expand.",
+  "source_url": "oak://matter.gas_pressure/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:51:45.773490",
+  "classified_at": "2026-04-04T20:51:45.773453",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

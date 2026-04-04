@@ -1,0 +1,26 @@
+{
+  "id": "51febcd2-3a69-422b-9f65-a06c7f5e1b24",
+  "question_text": "A heating element has a resistance of 24 Ω and operates at a potential difference of 240 V. Calculate the current flowing through the heating element.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "resistance",
+    "potential difference",
+    "Ohm's law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "10 A (amperes)",
+  "explanation": "To find the current flowing through the heating element, we use Ohm's law: I = V ÷ R. Here, the potential difference (V) is 240 V and the resistance (R) is 24 Ω. Dividing 240 by 24 gives us 10 amperes. Current measures how much charge flows through a circuit each second.",
+  "source_url": "ks3textbook://electricity.current_voltage/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:43:10.109197",
+  "classified_at": "2026-04-04T20:43:10.109157",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

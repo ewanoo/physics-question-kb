@@ -1,0 +1,26 @@
+{
+  "id": "e6239f23-c073-46e6-8d6a-835a682b7f70",
+  "question_text": "Two cyclists travel the same distance. Cyclist A takes 30 minutes and Cyclist B takes 45 minutes. Explain which cyclist has the greater speed and why.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed calculation",
+    "distance",
+    "time",
+    "comparison",
+    "inverse relationship"
+  ],
+  "options": null,
+  "correct_answer": "Cyclist A has the greater speed because they covered the same distance in less time. Speed = distance ÷ time, so less time means greater speed.",
+  "explanation": "When distance stays the same, speed depends only on time. The cyclist who takes less time must be going faster because they covered the distance more quickly. Using the formula speed = distance ÷ time, a smaller time value gives a larger speed value.",
+  "source_url": "oak://forces.speed/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:35:55.536110",
+  "classified_at": "2026-04-04T20:35:55.536061",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

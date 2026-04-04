@@ -1,0 +1,47 @@
+{
+  "id": "f26cf896-c3b9-4be6-8ab8-e2af1089feef",
+  "question_text": "What does Hooke's law describe?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "hooke's law",
+    "springs",
+    "force",
+    "extension",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The relationship between force and extension in a spring",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "How quickly a spring breaks",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The colour change when a spring is stretched",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Why springs are made of metal",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The relationship between force and extension in a spring",
+  "explanation": "Hooke's law describes how a spring stretches (extends) in proportion to the force applied to it. The more force you apply, the more the spring stretches, as long as you don't permanently damage it.",
+  "source_url": "oak://forces.springs/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:37:45.308759",
+  "classified_at": "2026-04-04T20:37:45.308722",
+  "classification_confidence": 0.99,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

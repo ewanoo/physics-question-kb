@@ -1,0 +1,27 @@
+{
+  "id": "7b404dd7-48cd-4d20-b7b9-604204616e33",
+  "question_text": "Explain why a solid piece of ice floats on liquid water, despite both being the same substance (H₂O).",
+  "question_type": "long_answer",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "states of matter",
+    "ice",
+    "water",
+    "buoyancy"
+  ],
+  "options": null,
+  "correct_answer": "Ice floats because it is less dense than liquid water. When water freezes, it expands and becomes less dense (approximately 917 kg/m³ compared to 1000 kg/m³ for liquid water). Objects float when their density is less than the density of the fluid they displace.",
+  "explanation": "When water freezes into ice, the water molecules arrange themselves in a crystalline structure with more space between them than in liquid water. This makes ice less dense than liquid water. Since ice is less dense, it experiences a buoyant force greater than its weight, causing it to float on the surface. This is why density determines whether objects sink or float.",
+  "source_url": "ks3textbook://matter.density/medium",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:49:15.274688",
+  "classified_at": "2026-04-04T20:49:15.274647",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "80b2ba41-d3f7-49bf-8d42-0915d73968d3",
+  "question_text": "What is static electricity?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "definition",
+    "static electricity",
+    "charge",
+    "electrons"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electricity that flows through wires in a circuit",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electric charge that builds up and stays in one place",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Electricity produced by batteries",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The movement of electrons through a conductor",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Electric charge that builds up and stays in one place",
+  "explanation": "Static electricity is electric charge that accumulates on objects and remains stationary. This differs from current electricity, which flows through circuits. It builds up when electrons transfer between materials through friction or contact.",
+  "source_url": "oak://electricity.static/easy",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:43:43.798180",
+  "classified_at": "2026-04-04T20:43:43.798141",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

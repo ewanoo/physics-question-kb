@@ -1,0 +1,47 @@
+{
+  "id": "1b9d85a6-9429-452d-9ceb-7ea387865f9f",
+  "question_text": "Why does the Northern Hemisphere experience winter when it is tilted away from the Sun, even though Earth is actually closer to the Sun at that time?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "axial tilt",
+    "solar radiation",
+    "angle of incidence",
+    "seasons",
+    "misconception correction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The tilt causes the Sun's rays to spread over a larger area and hit at a shallower angle, reducing heating",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Earth moves faster in its orbit during winter, so it receives less energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The atmosphere is thicker in winter, blocking more of the Sun's rays",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The distance from Earth to the Sun changes significantly between summer and winter",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The tilt causes the Sun's rays to spread over a larger area and hit at a shallower angle, reducing heating",
+  "explanation": "Earth's axial tilt is the key factor determining seasons, not the distance from the Sun. When the Northern Hemisphere tilts away from the Sun, the same amount of solar energy spreads over a larger area (like shining a torch at an angle), and the Sun appears lower in the sky. Both effects reduce the heating. This is why winter occurs when Earth is actually closest to the Sun (perihelion in early January).",
+  "source_url": "oak://space.seasons/hard",
+  "source_name": "oak_national",
+  "scraped_at": "2026-04-04T20:53:03.387528",
+  "classified_at": "2026-04-04T20:53:03.387482",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

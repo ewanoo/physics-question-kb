@@ -1,0 +1,47 @@
+{
+  "id": "68e216fd-4eb6-4041-84f5-98295bee614c",
+  "question_text": "A sound wave has a frequency of 440 Hz and travels through air at a speed of 330 m/s. Which calculation correctly finds the wavelength of this sound wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "calculation",
+    "frequency",
+    "wavelength",
+    "sound waves"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "wavelength = 440 ÷ 330 = 0.75 m",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "wavelength = 330 ÷ 440 = 0.75 m",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "wavelength = 440 × 330 = 145,200 m",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "wavelength = 330 - 440 = -110 m",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "wavelength = 330 ÷ 440 = 0.75 m",
+  "explanation": "The wave equation is: wave speed = frequency × wavelength. To find wavelength, we rearrange this to: wavelength = wave speed ÷ frequency. Substituting the values: wavelength = 330 ÷ 440 = 0.75 m. This is a straightforward application of the wave equation with a single calculation step.",
+  "source_url": "generate://waves.properties/hard",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:38:28.474525",
+  "classified_at": "2026-04-04T20:38:28.474489",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

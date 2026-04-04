@@ -1,0 +1,25 @@
+{
+  "id": "7edd35ba-4e03-4d3a-9ec9-f6f637bc8bd0",
+  "question_text": "State the correct order of electromagnetic waves from lowest to highest frequency.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "frequency",
+    "wave ordering",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays",
+  "explanation": "The electromagnetic spectrum is ordered by frequency, from lowest to highest. Radio waves have the lowest frequency and the longest wavelengths, while gamma rays have the highest frequency and the shortest wavelengths. This order is fixed and important to remember for understanding different types of radiation and their properties.",
+  "source_url": "ks3textbook://waves.em_spectrum/easy",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:41:01.522500",
+  "classified_at": "2026-04-04T20:41:01.522461",
+  "classification_confidence": 0.98,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

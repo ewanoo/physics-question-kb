@@ -1,0 +1,26 @@
+{
+  "id": "f0e1c94e-0e8d-4b67-9de7-39c2cbe4a2a8",
+  "question_text": "Two hypotheses explain why Jupiter is significantly larger than Earth. Hypothesis 1: Jupiter formed closer to the Sun where higher temperatures supported greater growth. Hypothesis 2: Jupiter formed further from the Sun where cooler temperatures allowed it to accumulate hydrogen and helium gas before solar wind dispersed these gases. Which hypothesis aligns with current scientific understanding of planetary formation, and what evidence supports this?",
+  "question_type": "long_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "planetary formation",
+    "gas giants",
+    "solar system structure",
+    "scientific reasoning",
+    "hypothesis evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Hypothesis 2 is correct. Jupiter formed in the cooler outer solar system where volatile gases such as hydrogen and helium could be retained in its atmosphere and did not evaporate. Its greater distance from the Sun (approximately 5.2 AU) allowed it to accumulate and retain these gases before they were dispersed by solar wind.",
+  "explanation": "Planetary formation theory shows that the solar system formed with a temperature gradient. Close to the Sun it was very hot, so only rocky materials could survive - these formed the terrestrial planets like Earth. Further out, it was cool enough for hydrogen and helium gases to remain, allowing gas giants like Jupiter to form and grow larger by accumulating these gases. Jupiter's position in the outer solar system was crucial to its formation.",
+  "source_url": "ks3textbook://space.solar_system/hard",
+  "source_name": "ks3_textbook",
+  "scraped_at": "2026-04-04T20:50:26.748762",
+  "classified_at": "2026-04-04T20:50:26.748722",
+  "classification_confidence": 0.92,
+  "quality_score": 4.0,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

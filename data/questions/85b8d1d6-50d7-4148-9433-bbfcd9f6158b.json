@@ -1,0 +1,25 @@
+{
+  "id": "85b8d1d6-50d7-4148-9433-bbfcd9f6158b",
+  "question_text": "A gas is heated in a sealed container. What happens to the pressure of the gas and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "particle motion",
+    "kinetic theory"
+  ],
+  "options": null,
+  "correct_answer": "The pressure increases because heating causes the gas particles to move faster and collide with the container walls more frequently and with greater force.",
+  "explanation": "When you heat a gas in a sealed container, the particles gain energy and move faster. Faster-moving particles bump into the walls more often and hit them harder each time. Since pressure is caused by these collisions, more frequent and harder collisions mean higher pressure.",
+  "source_url": "generate://matter.states/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:47:19.078181",
+  "classified_at": "2026-04-04T20:47:19.078143",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

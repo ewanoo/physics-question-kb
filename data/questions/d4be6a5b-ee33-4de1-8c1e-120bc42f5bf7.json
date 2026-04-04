@@ -1,0 +1,46 @@
+{
+  "id": "d4be6a5b-ee33-4de1-8c1e-120bc42f5bf7",
+  "question_text": "Which of the following best explains why a swimming pool appears shallower than it actually is?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light behaviour",
+    "everyday phenomena",
+    "dense to less dense medium"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because light is absorbed by the water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because light refracts as it leaves the water, bending away from the normal",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because light is reflected at the water surface",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because light travels faster in water than in air",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Because light refracts as it leaves the water, bending away from the normal",
+  "explanation": "When light travels from water (a denser medium) to air (a less dense medium), it bends away from the normal line. This refraction makes objects underwater appear closer to the surface than they actually are, making the pool look shallower than it really is.",
+  "source_url": "generate://waves.light/medium",
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-04T20:40:11.122630",
+  "classified_at": "2026-04-04T20:40:11.122586",
+  "classification_confidence": 0.95,
+  "quality_score": 4.5,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
