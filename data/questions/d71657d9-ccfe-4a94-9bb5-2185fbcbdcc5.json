@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain why a country with abundant sunshine might choose to build solar farms instead of coal power stations, considering both environmental and long-term economic factors.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "environmental impact",
+    "long-term planning"
+  ],
+  "options": null,
+  "correct_answer": "Solar farms have zero emissions and no fuel costs, reducing long-term operational expenses and carbon footprint. They use local resources (sunlight) rather than imported coal, improve energy independence, and solar panels can be recycled. While initial costs are high, over 20-30 years they are cheaper than coal when fuel and environmental costs are included.",
+  "explanation": "This requires evaluating multiple factors: environmental benefits (zero emissions), economic benefits (no fuel costs, energy independence), and comparing lifecycle costs rather than just upfront investment. Students should recognize that renewable energy can be more economical long-term.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d71657d9-ccfe-4a94-9bb5-2185fbcbdcc5"
+}

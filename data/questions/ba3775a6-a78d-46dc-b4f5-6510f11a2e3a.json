@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement about Earth's distance from the Sun is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "distance myth",
+    "seasons",
+    "misconception"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Earth is closer to the Sun in summer, which causes summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Earth's distance from the Sun does not cause seasons; the tilt does",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Earth is farthest from the Sun in winter",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Distance from the Sun causes both seasons and day length changes",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A common misconception is that seasons are caused by how far Earth is from the Sun, but actually the tilt of Earth's axis is the real cause. Even though Earth is slightly closer to the Sun in January, this doesn't cause summer in the Northern Hemisphere.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ba3775a6-a78d-46dc-b4f5-6510f11a2e3a"
+}

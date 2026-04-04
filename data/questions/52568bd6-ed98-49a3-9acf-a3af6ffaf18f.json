@@ -1,0 +1,17 @@
+{
+  "question_text": "A student's daily energy requirement is 8,400 kJ. They consume breakfast (2,100 kJ), lunch (2,800 kJ), and dinner (2,400 kJ). They then participate in a 90-minute sports practice using 7 kJ per minute. Calculate the student's energy balance (surplus or deficit in kJ) at the end of the day.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy balance",
+    "food energy",
+    "physical activity"
+  ],
+  "options": null,
+  "correct_answer": "Deficit of 1,190 kJ",
+  "explanation": "Total energy consumed = 2,100 + 2,800 + 2,400 = 7,300 kJ. Energy used in sports = 7 \u00d7 90 = 630 kJ. Total energy used = 8,400 (daily requirement) + 630 (sports) = 9,030 kJ. Energy balance = 7,300 \u2212 9,030 = \u22121,190 kJ (deficit), meaning the student used 1,190 kJ more energy than consumed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "52568bd6-ed98-49a3-9acf-a3af6ffaf18f"
+}

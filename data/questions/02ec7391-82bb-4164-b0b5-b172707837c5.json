@@ -1,0 +1,38 @@
+{
+  "question_text": "Which instrument is used to measure electric current in a circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ammeter",
+    "measuring current",
+    "instruments"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Voltmeter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ammeter",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Thermometer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Barometer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An ammeter is connected in series (in the flow) of a circuit to measure how much current is flowing through it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "02ec7391-82bb-4164-b0b5-b172707837c5"
+}

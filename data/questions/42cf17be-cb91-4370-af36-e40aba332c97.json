@@ -1,0 +1,17 @@
+{
+  "question_text": "A new hydroelectric dam costs \u00a33 billion to build and lasts 50 years. Annual operating costs are \u00a350 million. A coal power station costs \u00a31.5 billion, lasts 40 years, and costs \u00a3300 million per year in fuel and maintenance. Calculate the average annual cost for each and explain which is cheaper over their lifetime.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "cost analysis",
+    "lifecycle costing",
+    "renewable vs non-renewable"
+  ],
+  "options": null,
+  "correct_answer": "Hydroelectric: \u00a3110 million/year (3000 + 2500 \u00f7 50). Coal: \u00a3337.5 million/year (1500 + 12000 \u00f7 40). Hydroelectric is cheaper overall despite higher upfront cost, and produces no emissions.",
+  "explanation": "Divide total cost (upfront plus operating costs over lifetime) by years: Hydro = (3000 + 50\u00d750) \u00f7 50 = 3250 \u00f7 50 = \u00a365 million/year. Coal = (1500 + 300\u00d740) \u00f7 40 = 13500 \u00f7 40 = \u00a3337.5 million/year. Hydroelectric is much cheaper per year and has environmental benefits.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "42cf17be-cb91-4370-af36-e40aba332c97"
+}

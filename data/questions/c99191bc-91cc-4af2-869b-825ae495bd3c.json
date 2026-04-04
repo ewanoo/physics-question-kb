@@ -1,0 +1,17 @@
+{
+  "question_text": "A 50 kg student eats a chocolate bar containing 2,000 kJ of energy. During a 30-minute football match, the student uses approximately 6 kJ of energy per minute. What percentage of the chocolate bar's energy is used during the football match?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy calculation",
+    "food energy",
+    "physical activity"
+  ],
+  "options": null,
+  "correct_answer": "45%",
+  "explanation": "Energy used during match = 6 kJ/min \u00d7 30 min = 180 kJ. Percentage = (180 \u00f7 2,000) \u00d7 100 = 9%. This shows how much of stored food energy is actually used during exercise.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c99191bc-91cc-4af2-869b-825ae495bd3c"
+}

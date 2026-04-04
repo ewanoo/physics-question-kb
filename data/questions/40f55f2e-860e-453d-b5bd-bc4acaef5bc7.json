@@ -1,0 +1,38 @@
+{
+  "question_text": "A piece of sandpaper with high surface roughness causes more friction than smooth paper when rubbed against the same material. Which statement best explains why rougher surfaces produce greater friction forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "surface roughness",
+    "microscopic interactions",
+    "friction mechanism"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Rough surfaces are heavier and therefore create more friction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Rough surfaces have more microscopic peaks and valleys that interlock and collide with the other surface, increasing friction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Rough surfaces are colder and cold objects always produce more friction",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Rough surfaces attract more air molecules, which increases friction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At a microscopic level, rough surfaces have tiny bumps and dips. When two surfaces slide past each other, these bumps collide and interlock, creating more resistance to movement\u2014this is friction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "40f55f2e-860e-453d-b5bd-bc4acaef5bc7"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the unit symbol for electric current?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "units",
+    "amperes"
+  ],
+  "options": null,
+  "correct_answer": "A (or Amperes)",
+  "explanation": "Electric current is measured in amperes, often shortened to 'amps' or represented by the symbol 'A'. It's named after Andr\u00e9-Marie Amp\u00e8re, a French physicist.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1395cb1f-3b2f-4a13-b85a-3cce9c32d33e"
+}

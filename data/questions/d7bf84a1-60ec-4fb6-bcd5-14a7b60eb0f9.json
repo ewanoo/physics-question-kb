@@ -1,0 +1,38 @@
+{
+  "question_text": "A student compares a permanent magnet with an electromagnet made from the same iron core. What is the main disadvantage of the electromagnet compared to the permanent magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet vs permanent magnet",
+    "comparison",
+    "disadvantages"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The electromagnet is much heavier than the permanent magnet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The electromagnet requires continuous electrical power to maintain its magnetic field",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The electromagnet cannot be made as strong as a permanent magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The electromagnet produces a weaker magnetic field at the poles",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "While electromagnets have advantages (you can turn them on/off and adjust their strength), their main disadvantage is that they need continuous electrical power. Without electricity flowing through the coil, the electromagnet loses its magnetic properties. Permanent magnets don't need any power source, which is why they're used in many simple applications.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "d7bf84a1-60ec-4fb6-bcd5-14a7b60eb0f9"
+}

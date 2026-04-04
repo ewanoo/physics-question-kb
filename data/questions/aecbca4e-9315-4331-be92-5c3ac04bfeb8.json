@@ -1,0 +1,38 @@
+{
+  "question_text": "Which unit would be most appropriate for measuring the speed of a snail?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "units",
+    "speed",
+    "practical context"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "km/h",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "m/s",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "cm/s",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "km/s",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A snail moves very slowly, so measuring it in kilometres per hour or metres per second would give very small decimal numbers. Centimetres per second (cm/s) is a more practical unit for such slow speeds.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "aecbca4e-9315-4331-be92-5c3ac04bfeb8"
+}

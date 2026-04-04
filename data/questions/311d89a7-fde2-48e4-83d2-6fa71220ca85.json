@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement about distance-time graphs is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "slope",
+    "speed"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The gradient (slope) of a distance-time graph shows the acceleration",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gradient (slope) of a distance-time graph shows the speed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The gradient (slope) of a distance-time graph shows the distance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The gradient (slope) of a distance-time graph shows the time",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "On a distance-time graph, the steeper the slope (gradient), the faster the object is moving. A flat line means the object is stationary (not moving).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "311d89a7-fde2-48e4-83d2-6fa71220ca85"
+}

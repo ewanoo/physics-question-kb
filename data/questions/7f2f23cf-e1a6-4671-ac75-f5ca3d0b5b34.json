@@ -1,0 +1,17 @@
+{
+  "question_text": "A crane lifts a steel box vertically upward with increasing speed. The rope tension is 8500 N and the weight of the box is 8000 N. Calculate the resultant force on the box and the mass of the box (use g = 10 m/s\u00b2).",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "contact forces",
+    "Newton's laws"
+  ],
+  "options": null,
+  "correct_answer": "Resultant force = 500 N (upward); Mass = 800 kg",
+  "explanation": "First, find the resultant force: tension (up) minus weight (down) = 8500 \u2212 8000 = 500 N upward. Then, use weight = mass \u00d7 g, so mass = 8000 \u00f7 10 = 800 kg. The positive resultant force confirms the box accelerates upward.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7f2f23cf-e1a6-4671-ac75-f5ca3d0b5b34"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A book rests on a table. A student draws a free body diagram showing four forces: weight (down), normal force (up), friction (left), and applied force (right). The book is stationary. Which statement about Newton's third law pairs is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "Newton's third law",
+    "free body diagrams",
+    "static equilibrium"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Weight and normal force are a Newton's third law pair because they are equal and opposite",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Weight is paired with the Earth's gravitational pull on the book; normal force is paired with the book pushing down on the table",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Applied force and friction are a Newton's third law pair",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All four forces shown must be Newton's third law pairs for the book to be stationary",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Newton's third law pairs act on different objects. Weight (Earth pulling on book) pairs with the book pulling on Earth. The normal force (table pushing on book) pairs with the book pushing on the table. Equal and opposite forces on the same object aren't third law pairs\u2014they're balanced forces.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c810d76b-2500-408d-ba82-c44ffa7a5028"
+}

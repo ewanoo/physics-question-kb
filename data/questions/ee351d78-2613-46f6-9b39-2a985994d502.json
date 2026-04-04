@@ -1,0 +1,17 @@
+{
+  "question_text": "A ball is dropped into water and quickly reaches terminal velocity. Describe what is happening to the forces acting on the ball and explain why the ball's velocity becomes constant despite gravity still acting on it.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "drag in fluids",
+    "terminal velocity",
+    "force balance"
+  ],
+  "options": null,
+  "correct_answer": "Gravity pulls the ball downwards with a constant force. As the ball accelerates, drag (water resistance) increases because it depends on velocity. Eventually, the upward drag force equals the downward gravitational force, creating zero net force. With no net force, the ball stops accelerating and moves at constant terminal velocity. Gravity still acts, but it is balanced by drag.",
+  "explanation": "Drag increases as the object moves faster. Terminal velocity is reached when drag exactly cancels out gravity, so the net force becomes zero and the object stops accelerating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ee351d78-2613-46f6-9b39-2a985994d502"
+}

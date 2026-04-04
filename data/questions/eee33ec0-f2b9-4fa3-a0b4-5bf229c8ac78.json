@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following changes would have the LEAST effect on the strength of an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "factors",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Increasing the current from 1A to 3A",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increasing the number of turns from 50 to 200",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Replacing the plastic core with an iron core",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Making the wire slightly thicker",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Making the wire thicker doesn't directly change the electromagnet's strength because it's the current flowing through it and the number of turns that matter most. Thicker wire allows MORE current to flow without overheating, but the wire thickness itself doesn't create a stronger magnetic field. The other changes (current, turns, and core material) all directly affect electromagnetic strength.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "eee33ec0-f2b9-4fa3-a0b4-5bf229c8ac78"
+}

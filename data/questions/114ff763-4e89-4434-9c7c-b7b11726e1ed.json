@@ -1,0 +1,17 @@
+{
+  "question_text": "The Moon has a mass of approximately 7.3 \u00d7 10\u00b2\u00b2 kg. If you could divide this by 81, approximately what would you get?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "mass",
+    "moon",
+    "division"
+  ],
+  "options": null,
+  "correct_answer": "9 \u00d7 10\u00b2\u2070 kg (or 9 followed by 20 zeros in kg)",
+  "explanation": "Dividing the Moon's mass by 81 gives approximately 9 \u00d7 10\u00b2\u2070 kg. (Interesting fact: the Moon is about 81 times less massive than Earth!)",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "114ff763-4e89-4434-9c7c-b7b11726e1ed"
+}

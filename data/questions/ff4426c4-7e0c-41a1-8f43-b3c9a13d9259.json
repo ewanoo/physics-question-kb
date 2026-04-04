@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the unit for measuring voltage?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage",
+    "units",
+    "volts"
+  ],
+  "options": null,
+  "correct_answer": "Volts (V)",
+  "explanation": "Voltage is measured in volts, which is named after Alessandro Volta, an Italian physicist who invented the electric battery.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ff4426c4-7e0c-41a1-8f43-b3c9a13d9259"
+}

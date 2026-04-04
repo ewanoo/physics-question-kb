@@ -1,0 +1,17 @@
+{
+  "question_text": "A cyclist travels 45 kilometres in 3 hours. Calculate the average speed in km/h.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "km/h units",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "15 km/h",
+  "explanation": "Using speed = distance \u00f7 time: 45 km \u00f7 3 hours = 15 kilometres per hour.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fd9b3590-2ba8-456f-8950-c6308de80a41"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A food packet shows that 100g of the product contains 2,100 kJ. A student eats 75g of this food. If the student then goes for a 40-minute run using 8 kJ per minute, how much energy (in kJ) from this food remains stored in their body?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy calculation",
+    "food energy",
+    "physical activity"
+  ],
+  "options": null,
+  "correct_answer": "1,255 kJ",
+  "explanation": "Energy from 75g = (75 \u00f7 100) \u00d7 2,100 = 1,575 kJ. Energy used in run = 8 \u00d7 40 = 320 kJ. Remaining energy = 1,575 \u2212 320 = 1,255 kJ stored in the body.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "331ff793-ac41-4005-8797-3772ff9eaa35"
+}

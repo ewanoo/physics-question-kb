@@ -1,0 +1,17 @@
+{
+  "question_text": "A student claims that when a book is pushed across a table, the force from your hand on the book and the friction force on the book are Newton's third law pairs. Evaluate this claim with reference to free body diagrams and force identification.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "Newton's third law pairs",
+    "free body diagrams",
+    "contact forces"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect. Both forces act on the same object (the book), so they cannot be a Newton's third law pair. The third law pairs are: (1) hand pushes on book forward; book pushes on hand backward, and (2) book pushes on table forward; table pushes on book backward (friction). These pairs act on different objects.",
+  "explanation": "Newton's third law pairs must act on different objects. The applied force and friction both act on the book, making them a balanced force pair, not a third law pair. A free body diagram shows multiple forces on one object, but third law pairs are found by looking at forces between different objects.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8987942b-0c8f-48b5-9371-dfa504dfa5d6"
+}

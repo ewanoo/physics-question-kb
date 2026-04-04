@@ -1,0 +1,17 @@
+{
+  "question_text": "A ball is thrown upward with an initial velocity of 20 m/s on Earth (g = 10 m/s\u00b2). Ignoring air resistance, how long will it take for the ball to return to its starting height, and what will its velocity be when it returns?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "free fall",
+    "projectile motion",
+    "velocity and time"
+  ],
+  "options": null,
+  "correct_answer": "Time to return = 2 \u00d7 (initial velocity \u00f7 g) = 2 \u00d7 (20 \u00f7 10) = 4 seconds. Velocity when returning = 20 m/s downward (same speed as thrown, but opposite direction). The symmetry occurs because gravitational acceleration is constant throughout the motion.",
+  "explanation": "The ball takes 2 seconds to reach its highest point (where v = 0) and another 2 seconds to fall back down, totaling 4 seconds. Due to the constant gravitational acceleration, the ball returns with the same speed it left with but in the opposite direction\u2014this is the symmetry of projectile motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "00d11ac9-9cfd-4679-a5c2-ea12c12578da"
+}

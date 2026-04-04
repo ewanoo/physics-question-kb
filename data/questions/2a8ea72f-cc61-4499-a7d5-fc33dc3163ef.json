@@ -1,0 +1,17 @@
+{
+  "question_text": "A bicycle uses bearings (small metal balls) in its wheels to reduce friction. Why are bearings more effective at reducing friction than simply sliding metal surfaces against each other? Consider the types of friction involved.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction in machines",
+    "rolling friction",
+    "kinetic friction"
+  ],
+  "options": null,
+  "correct_answer": "Bearings replace sliding kinetic friction with rolling friction. Rolling friction is much smaller than kinetic (sliding) friction because rolling objects experience minimal surface contact and deformation. With bearings, the wheel rolls on the balls rather than sliding against the axle, dramatically reducing energy loss and allowing the bicycle to move more efficiently with less effort.",
+  "explanation": "Rolling friction is much weaker than sliding friction. Bearings let wheels roll smoothly instead of sliding, so much less energy is wasted and bicycles need less effort to pedal.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "2a8ea72f-cc61-4499-a7d5-fc33dc3163ef"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "What is voltage also known as?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage",
+    "potential difference",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Potential difference",
+  "explanation": "Voltage and potential difference are the same thing - they both describe the 'push' or energy difference that makes charges flow through a circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9131b1d7-2489-4bc3-b6d7-3c5446a6f1e2"
+}

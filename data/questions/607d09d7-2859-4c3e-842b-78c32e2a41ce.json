@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain why a magnetic force between two magnets is a non-contact force, and identify what Newton's third law pair would be in this scenario.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "Newton's third law",
+    "magnetic forces"
+  ],
+  "options": null,
+  "correct_answer": "Magnetic force is non-contact because the magnets do not need to touch to exert forces on each other; the forces act through the space between them. Newton's third law pair: magnet A pulls on magnet B with force F, and magnet B pulls on magnet A with force F in the opposite direction.",
+  "explanation": "Non-contact forces like magnetism, gravity, and electricity work across distance without objects touching. For every force, there's an equal and opposite reaction force on a different object\u2014here, each magnet experiences an equal pull from the other.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "607d09d7-2859-4c3e-842b-78c32e2a41ce"
+}

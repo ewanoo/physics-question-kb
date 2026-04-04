@@ -1,0 +1,18 @@
+{
+  "question_text": "Explain why rusting of iron is an irreversible change and provide one piece of evidence that shows it is a chemical change rather than a physical change.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "irreversible change",
+    "chemical change",
+    "evidence",
+    "oxidation"
+  ],
+  "options": null,
+  "correct_answer": "Rusting is irreversible because iron oxide (rust) cannot easily be converted back to iron metal by simple physical methods. Evidence it is chemical: the new substance (rust) has different properties (e.g., different colour, texture, brittleness) from the original iron, or energy is involved in the reaction.",
+  "explanation": "Irreversible changes cannot be undone by simple reversal of the original process. Rust formation creates a new substance with new properties, which is the key evidence of a chemical change.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "399c1c96-1d7d-406a-a398-33629cef648f"
+}

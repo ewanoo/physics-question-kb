@@ -1,0 +1,17 @@
+{
+  "question_text": "Two liquids, A and B, are mixed together in a container. Liquid A has a density of 0.8 g/cm\u00b3 and Liquid B has a density of 1.2 g/cm\u00b3. Why do these liquids not mix uniformly, and which liquid would be found at the top of the container?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density comparison",
+    "liquid separation",
+    "density applications"
+  ],
+  "options": null,
+  "correct_answer": "The liquids separate because they have different densities; Liquid A (0.8 g/cm\u00b3) would float on top because it is less dense than Liquid B (1.2 g/cm\u00b3)",
+  "explanation": "Liquids with different densities do not fully mix and form separate layers\u2014the less dense liquid floats on top of the denser one. Since Liquid A is less dense (0.8 g/cm\u00b3), it rises to the top, while the denser Liquid B (1.2 g/cm\u00b3) sinks to the bottom.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "e8cfc475-ec92-473d-80f9-dc1c2c5d0d28"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A car travels 150 metres in 5 seconds. What is its speed?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed calculation",
+    "distance-time",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "30 m/s",
+  "explanation": "Using the formula speed = distance \u00f7 time, we calculate: 150 \u00f7 5 = 30 metres per second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fdbe6033-1140-4876-921e-3cfe989bf9f3"
+}

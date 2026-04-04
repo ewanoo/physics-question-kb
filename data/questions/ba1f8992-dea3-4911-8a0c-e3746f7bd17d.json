@@ -1,0 +1,38 @@
+{
+  "question_text": "Which combination of energy resources would best balance reliability, cost, and environmental impact for a modern UK city?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "energy mix",
+    "sustainability",
+    "decision-making"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "100% coal power because it is reliable and historically cheap",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A mix of nuclear (base load), wind and solar (variable), with some natural gas for backup - balancing reliability with low carbon emissions and manageable costs",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "100% renewables (wind and solar) because they produce zero emissions",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "100% natural gas because it is cleaner than coal and cheaper than renewables",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An energy mix using multiple sources provides reliability (nuclear provides constant baseload, gas provides flexible backup), cost-effectiveness (renewable costs are falling), and low emissions. Pure renewables alone cannot guarantee supply during low wind/sun periods, while fossil fuels alone damage the environment.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ba1f8992-dea3-4911-8a0c-e3746f7bd17d"
+}

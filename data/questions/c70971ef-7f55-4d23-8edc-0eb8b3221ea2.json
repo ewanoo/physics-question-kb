@@ -1,0 +1,17 @@
+{
+  "question_text": "A blue car is placed in a room lit only by red light. What colour will the car appear to be? Explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "object colour",
+    "light absorption",
+    "pigments vs light"
+  ],
+  "options": null,
+  "correct_answer": "The car will appear black. The car's blue pigment absorbs red light and reflects blue light. However, since only red light is available in the room, there is no blue light to reflect. The red light is absorbed by the blue pigment, so no light is reflected and the car appears black.",
+  "explanation": "Objects only reflect certain colours of light. A blue car reflects blue light, but in a red-lit room there is no blue light available to reflect, so it looks black.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c70971ef-7f55-4d23-8edc-0eb8b3221ea2"
+}

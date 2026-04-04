@@ -1,0 +1,38 @@
+{
+  "question_text": "Two objects with different masses are dropped from the same height in a vacuum. Which of the following is true?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "free fall",
+    "mass comparison",
+    "gravity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The heavier object falls faster because gravity pulls harder on more mass",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The lighter object falls faster because it has less air resistance",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both objects fall at the same rate and reach the ground at the same time because acceleration due to gravity is independent of mass",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The object with the larger weight falls faster because it experiences a greater gravitational force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Although heavier objects have larger weight (greater gravitational force), they also have greater inertia. These effects cancel out perfectly, giving all objects the same acceleration g in free fall. This is why a hammer and feather fall together in a vacuum.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "831bb0eb-f37b-4aa7-9b39-ea4185ff7967"
+}

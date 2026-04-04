@@ -1,0 +1,17 @@
+{
+  "question_text": "A relay is an electromagnetic device used in car electrical systems. Explain how a relay uses a small current in one circuit to control a much larger current in another circuit, and why this is useful.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "applications",
+    "relay",
+    "circuit control"
+  ],
+  "options": null,
+  "correct_answer": "A small current flows through a coil (electromagnet) in the relay, creating a magnetic field. This magnetic field pulls a metal switch arm, which closes a separate circuit carrying a much larger current. This is useful because it allows a small, safe control circuit (like a button you press) to safely control a large, high-power circuit (like a starter motor) without the control circuit needing to handle the large current itself.",
+  "explanation": "Relays are like remote-controlled switches. A tiny current creates a magnetic field that flips a switch to let a big current through. This protects the delicate control circuit from dangerous high currents while still allowing it to control powerful devices.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "db634d1f-6fcb-41e4-af8b-ed07d40fb75b"
+}

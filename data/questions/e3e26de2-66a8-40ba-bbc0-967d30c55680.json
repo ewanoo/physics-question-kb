@@ -1,0 +1,17 @@
+{
+  "question_text": "What does 'direct sunlight' mean in relation to seasons?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "direct sunlight",
+    "definition",
+    "energy"
+  ],
+  "options": null,
+  "correct_answer": "Sunlight that hits the ground at a steep angle rather than a shallow angle, providing more heat and energy",
+  "explanation": "Direct sunlight means the Sun's rays strike the Earth at a steep angle, concentrating more energy on a smaller area. When your hemisphere receives more direct sunlight, temperatures are higher, creating summer.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "e3e26de2-66a8-40ba-bbc0-967d30c55680"
+}

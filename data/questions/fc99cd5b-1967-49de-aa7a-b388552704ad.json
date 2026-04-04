@@ -1,0 +1,18 @@
+{
+  "question_text": "A battery has a voltage of 12V. If an ammeter in the circuit reads 3A, what does this tell us about the circuit?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "voltage",
+    "circuit analysis",
+    "interpretation"
+  ],
+  "options": null,
+  "correct_answer": "The battery is pushing with a force of 12 volts and 3 amperes of charge is flowing through the circuit. The circuit has resistance because if there was no resistance, more current would flow.",
+  "explanation": "The voltage (12V) tells us the 'push' of the battery, and the current (3A) tells us how much charge is actually flowing. Together they show the circuit is working and has some resistance in it.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "fc99cd5b-1967-49de-aa7a-b388552704ad"
+}

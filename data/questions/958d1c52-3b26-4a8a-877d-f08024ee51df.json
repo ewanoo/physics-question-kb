@@ -1,0 +1,38 @@
+{
+  "question_text": "In December, the Northern Hemisphere receives less direct sunlight than the Southern Hemisphere. Why is this?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "tilt",
+    "hemispheres",
+    "direct sunlight"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Southern Hemisphere is closer to the Sun in December",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Northern Hemisphere is tilted away from the Sun in December",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Earth stops rotating in December",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The atmosphere is thicker over the Northern Hemisphere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In December, the Northern Hemisphere is tilted away from the Sun while the Southern Hemisphere is tilted towards it. This causes the Northern Hemisphere to receive less direct sunlight and experience winter.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "958d1c52-3b26-4a8a-877d-f08024ee51df"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "What does relative speed mean?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "relative speed",
+    "definition",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The speed of an object compared to a fixed point, like the ground",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The speed of one object measured relative to another moving object",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The maximum speed an object can travel",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed that changes over time",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Relative speed is how fast one moving object appears to move compared to another moving object. For example, if two cars are driving towards each other, their relative speed depends on both their individual speeds.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "de7af3fe-bc81-41b3-8113-6899ff43115d"
+}

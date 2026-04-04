@@ -1,0 +1,17 @@
+{
+  "question_text": "A diverging lens always produces images that are virtual, upright, and smaller than the object. Explain why a diverging lens cannot produce a real image.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "diverging lens",
+    "virtual image",
+    "light rays"
+  ],
+  "options": null,
+  "correct_answer": "A diverging lens spreads out light rays, making them appear to come from a point behind the lens. The light rays never actually meet (converge) at a real point, so they cannot form a real image that can be projected.",
+  "explanation": "Diverging lenses push light rays apart, so the rays never actually come together at a point in front of the lens. Since real images need light rays to actually meet at a point, a diverging lens cannot make one\u2014the rays only appear to meet when traced backwards.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3fd31686-5278-47fd-b635-8440c054af98"
+}

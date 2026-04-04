@@ -1,0 +1,18 @@
+{
+  "question_text": "A metal A has a mass of 3.2 g. When it reacts with oxygen, the mass increases to 4.8 g. Compare this to metal B (2.5 g) which reacts with oxygen to form 4.0 g of product. Which metal gained more mass from oxygen and explain why this does not contradict the law of conservation of mass.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "conservation of mass",
+    "chemical change",
+    "calculation",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Metal A gained 1.6 g (4.8 - 3.2), Metal B gained 1.5 g (4.0 - 2.5). Metal A gained more oxygen. This does not contradict conservation of mass because the total mass of reactants (metal + oxygen) equals total mass of products. The mass gain comes from oxygen combining with the metals, not from mass being created.",
+  "explanation": "The apparent increase in mass occurs because oxygen atoms from the air are combining with the metals. Conservation of mass states that total reactants equal total products\u2014the oxygen was always there in the air, we're just accounting for where it went.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "66ea2881-9e9e-4f0d-a174-03ff4d797a10"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A 4 kg object is placed on Earth (g = 10 N/kg) and then on Jupiter (g = 25 N/kg). Calculate the object's weight on both planets and determine how many times heavier the object is on Jupiter compared to Earth.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight calculation",
+    "comparing planets",
+    "ratio"
+  ],
+  "options": null,
+  "correct_answer": "Weight on Earth = 4 \u00d7 10 = 40 N. Weight on Jupiter = 4 \u00d7 25 = 100 N. The object is 100 \u00f7 40 = 2.5 times heavier on Jupiter than on Earth.",
+  "explanation": "Using W = mg for both planets shows how gravitational field strength directly affects weight. Jupiter's stronger gravity (g = 25 N/kg) means objects weigh 2.5 times more there than on Earth, even though their mass remains unchanged.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3448ba45-1c81-46fe-a435-21ff6d0a4d67"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Light hits a glass surface at an angle of incidence of 20\u00b0 and refracts. The angle of refraction is 13\u00b0. Is the light travelling from glass to air or from air to glass?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "angle of refraction",
+    "denser medium"
+  ],
+  "options": null,
+  "correct_answer": "From glass to air",
+  "explanation": "The angle of refraction (13\u00b0) is smaller than the angle of incidence (20\u00b0), which means the light is bending away from the normal. Light only bends away from the normal when traveling from a denser medium (glass) to a less dense medium (air).",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "40cab6aa-bcf3-4b02-82c3-e8c57117c0ee"
+}

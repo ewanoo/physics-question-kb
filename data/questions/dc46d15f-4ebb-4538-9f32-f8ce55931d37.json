@@ -1,0 +1,17 @@
+{
+  "question_text": "Why might a developing country choose to build coal power stations instead of solar farms, even though solar produces less pollution?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "economic factors",
+    "resource constraints",
+    "decision-making"
+  ],
+  "options": null,
+  "correct_answer": "Coal power stations require lower upfront capital costs and existing technology/expertise, providing quick access to electricity for growing populations. Developing countries often lack the capital investment (billions of pounds) needed for solar infrastructure. Coal provides immediate energy independence using local resources and supports existing mining industries and jobs.",
+  "explanation": "While solar is cleaner, developing countries prioritize immediate energy needs and available funding. Coal requires less upfront investment and uses established technology and supply chains. This reflects a trade-off between environmental protection and immediate economic and energy security needs.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dc46d15f-4ebb-4538-9f32-f8ce55931d37"
+}

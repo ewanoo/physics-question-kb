@@ -1,0 +1,17 @@
+{
+  "question_text": "Red light has a wavelength of 700 nm and blue light has a wavelength of 450 nm. How many times smaller is the wavelength of blue light compared to red light? (Give your answer to 2 decimal places)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "wavelength",
+    "calculation",
+    "ratio"
+  ],
+  "options": null,
+  "correct_answer": "0.64 (or 0.643)",
+  "explanation": "Divide the blue wavelength by the red wavelength: 450 \u00f7 700 = 0.643. This shows blue light has about 64% of the wavelength of red light, or is about 36% smaller.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "f492fb2e-4fda-44dd-b8d3-c4091da0e129"
+}

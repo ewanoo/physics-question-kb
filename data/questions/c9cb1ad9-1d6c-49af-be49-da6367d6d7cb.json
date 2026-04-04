@@ -1,0 +1,17 @@
+{
+  "question_text": "Why can we see the Moon even though it does not produce its own light?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon light",
+    "reflection",
+    "sunlight"
+  ],
+  "options": null,
+  "correct_answer": "The Moon reflects light from the Sun",
+  "explanation": "The Moon doesn't make its own light like the Sun does. Instead, sunlight hits the Moon's surface and bounces back (reflects) towards Earth, which is why we can see it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c9cb1ad9-1d6c-49af-be49-da6367d6d7cb"
+}

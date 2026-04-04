@@ -1,0 +1,17 @@
+{
+  "question_text": "A student compares two breakfast options: Option A contains 1,500 kcal from a full cooked breakfast, and Option B contains 1,500 kcal from cereal and fruit. Both students then complete a 1-hour biology lesson (using 2 kcal/min) and a 45-minute PE lesson (using 7 kcal/min). Explain whether the students' breakfast choice affects how much energy they have left after school.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy balance",
+    "food energy content",
+    "metabolic processes"
+  ],
+  "options": null,
+  "correct_answer": "No, breakfast choice does not affect remaining energy. Both options provide 1,500 kcal. Energy used = (2 \u00d7 60) + (7 \u00d7 45) = 120 + 315 = 435 kcal. Remaining energy = 1,500 \u2212 435 = 1,065 kcal for both students. The source of calories (cooked breakfast vs cereal) doesn't change the total energy available.",
+  "explanation": "Energy is measured in kcal regardless of food type. Both breakfasts contain the same total energy, so after the same activities use the same amount of energy, both students have the same energy remaining. The type of food doesn't matter for total energy balance, only the amount.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b94cbc1c-822a-468f-8a58-5da316d4e722"
+}

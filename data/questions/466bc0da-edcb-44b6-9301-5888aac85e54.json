@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes the difference between a real image and a virtual image?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "real image",
+    "virtual image",
+    "lenses"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Real images are always larger and virtual images are always smaller",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Real images are formed where light rays actually meet; virtual images appear to come from a point where rays don't actually meet",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Real images can only be formed by mirrors and virtual images only by lenses",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Real images are upright and virtual images are inverted",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The key difference is whether light rays actually converge at a point. In a real image, light really meets at a point and can be projected. In a virtual image, the light rays only appear to come from a point when you trace them backwards, like looking in a mirror.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "466bc0da-edcb-44b6-9301-5888aac85e54"
+}

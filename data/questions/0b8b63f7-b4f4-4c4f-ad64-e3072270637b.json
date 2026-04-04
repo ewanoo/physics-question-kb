@@ -1,0 +1,17 @@
+{
+  "question_text": "An ammeter shows a reading of 2A when connected in series with a lamp. What does this measurement mean?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ammeter",
+    "current measurement",
+    "interpretation"
+  ],
+  "options": null,
+  "correct_answer": "2 amperes of electric charge is flowing through the lamp",
+  "explanation": "When an ammeter reads 2A, it means 2 amperes of charge is flowing through whatever component it's connected to - in this case, the lamp is receiving 2 amperes of current.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0b8b63f7-b4f4-4c4f-ad64-e3072270637b"
+}

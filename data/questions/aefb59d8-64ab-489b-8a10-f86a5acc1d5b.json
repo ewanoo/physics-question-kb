@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly explains why gravitational field strength decreases with distance from a planet?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational field strength",
+    "distance",
+    "extended reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The planet loses mass as objects move further away from it",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gravitational force spreads out over a larger area as distance increases, so the field strength at any point becomes weaker",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Objects moving away from a planet experience less gravity because they are moving faster",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The atmosphere blocks gravitational field strength, so it weakens above the clouds",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational field strength is the pull per unit mass, and this spreads out over an increasingly large spherical area as you move away from a planet, similar to how light from a bulb gets dimmer with distance. The planet's mass doesn't change, but its effect is distributed over a larger space.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "aefb59d8-64ab-489b-8a10-f86a5acc1d5b"
+}

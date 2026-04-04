@@ -1,0 +1,38 @@
+{
+  "question_text": "A skydiver is falling through the air at terminal velocity (constant speed). Which of the following correctly identifies all the forces and explains why velocity is constant?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "contact vs non-contact forces",
+    "resultant forces",
+    "equilibrium"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Only weight acts downward; air resistance is negligible, so the skydiver accelerates downward",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Weight (non-contact, downward) and air resistance (contact, upward) are equal in size, making the resultant force zero",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Air resistance is greater than weight, pushing the skydiver back upward",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Weight and air resistance are a Newton's third law pair in equilibrium",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At terminal velocity, the downward weight force equals the upward air resistance force (both contact and non-contact examples). The resultant force is zero, so there is no acceleration and velocity stays constant. They're not a third law pair because both act on the skydiver.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "08e2bfe9-a59b-4abf-bf6c-edbc29d80789"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Describe what happens during total internal reflection and state one condition needed for it to occur.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "total internal reflection",
+    "critical angle",
+    "dense medium"
+  ],
+  "options": null,
+  "correct_answer": "Light reflects completely off a surface (does not escape into the other medium). This occurs when light travels from a denser medium to a less dense medium and hits the boundary at an angle greater than the critical angle.",
+  "explanation": "Total internal reflection is when all the light bounces back instead of passing through or being refracted. It only happens when light tries to escape from a denser material (like glass) to a less dense one (like air) at a steep enough angle.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "14c614f1-4f43-4306-aa35-096b7febbd91"
+}

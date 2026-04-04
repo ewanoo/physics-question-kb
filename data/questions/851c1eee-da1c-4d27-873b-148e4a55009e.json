@@ -1,0 +1,18 @@
+{
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "question_text": "A scientist is designing an electromagnet for an industrial lifting machine. She needs the electromagnet to lift very heavy metal objects efficiently. Compare how increasing the current versus increasing the number of turns would affect both the electromagnet's strength and the electrical power consumption. Which method would you recommend and why?",
+  "tags": [
+    "electromagnet strength",
+    "current vs turns",
+    "efficiency",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Increasing current: Makes electromagnet much stronger but electrical power consumption increases with the square of current (P = I\u00b2R), so it becomes very inefficient at high currents. Increasing turns: Also makes electromagnet much stronger (proportional to number of turns) but power consumption increases less dramatically. Recommendation: Increasing the number of turns is better because you get similar or better strength increases while using less additional power. This makes the machine more efficient and cheaper to operate.",
+  "explanation": "Both methods strengthen the electromagnet, but they have different efficiency trade-offs. High currents waste lots of energy as heat in the wire, making them inefficient. More turns use electricity more efficiently to create strength, making it the better choice for an industrial application where saving energy costs money.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "851c1eee-da1c-4d27-873b-148e4a55009e"
+}

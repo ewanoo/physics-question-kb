@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes how a Sankey diagram helps explain the law of conservation of energy in a real appliance?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "sankey_diagrams",
+    "conservation_law",
+    "visualization"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It shows how much energy the appliance costs per month",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It shows all energy pathways, proving that total input energy equals total output energy (useful plus wasted), demonstrating that no energy is lost",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It shows which energy transformations are the most important for the appliance to work",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It calculates the efficiency percentage of the appliance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A Sankey diagram visually represents all energy flows and transformations in a system. By showing input and output (both useful and wasted) with proportional arrows, it demonstrates that energy is conserved\u2014nothing disappears, it just transforms into less useful forms.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ea171862-a937-4647-ae31-4b510a8cf1c0"
+}

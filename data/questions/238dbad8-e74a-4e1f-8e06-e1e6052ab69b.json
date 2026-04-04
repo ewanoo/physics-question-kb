@@ -1,0 +1,17 @@
+{
+  "question_text": "A location in Antarctica is at 70\u00b0S latitude. On the summer solstice (21 December), calculate the angle of the Sun above the horizon at solar noon. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "angle of sun",
+    "solstice",
+    "latitude calculation"
+  ],
+  "options": null,
+  "correct_answer": "The Sun is directly above 23.5\u00b0S on the summer solstice. The angle = 90\u00b0 - (70\u00b0 - 23.5\u00b0) = 90\u00b0 - 46.5\u00b0 = 43.5\u00b0 above the horizon.",
+  "explanation": "On the summer solstice in the Southern Hemisphere, the Sun is at its most northerly point (directly above 23.5\u00b0S). From 70\u00b0S, you need to calculate the angular distance and subtract from 90\u00b0. The answer is 43.5\u00b0.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "238dbad8-e74a-4e1f-8e06-e1e6052ab69b"
+}

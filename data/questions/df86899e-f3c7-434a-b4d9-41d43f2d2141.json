@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is evidence that a chemical change has occurred?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "chemical change",
+    "evidence",
+    "identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The substance changes temperature but remains the same colour and can be reversed by cooling",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A new substance is formed that cannot easily be separated and has different properties from the original materials",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The substance changes shape but can be reformed back to its original shape",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The substance dissolves in water but can be recovered by evaporation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Chemical changes produce new substances with different properties that cannot easily be reversed or separated. Options A, C, and D describe physical changes that can be undone.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "df86899e-f3c7-434a-b4d9-41d43f2d2141"
+}

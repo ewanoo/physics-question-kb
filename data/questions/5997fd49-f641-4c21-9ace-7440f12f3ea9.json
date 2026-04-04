@@ -1,0 +1,17 @@
+{
+  "question_text": "A student compares three ways to heat water: burning gas (82% efficient), electric heater (95% efficient), and solar panel (18% efficient). The student wants to heat water for 100 people daily using 10,000 J of energy. Which is the most economical choice, and why would someone still choose a less efficient option?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "efficiency_evaluation",
+    "real_world_scenarios",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The electric heater is most efficient (95%), so it would produce 9,500 J of useful heat from 10,000 J input. However, people might choose gas heating due to lower initial cost, or solar panels to reduce electricity bills and environmental impact, even though they are less efficient.",
+  "explanation": "This question requires students to evaluate efficiency calculations in a real-world context. The most efficient option is not always chosen because other factors like cost, availability, and environmental concerns matter to real consumers.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5997fd49-f641-4c21-9ace-7440f12f3ea9"
+}

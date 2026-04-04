@@ -1,0 +1,17 @@
+{
+  "question_text": "What are the standard SI units for measuring speed?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "units",
+    "SI units",
+    "speed"
+  ],
+  "options": null,
+  "correct_answer": "metres per second (m/s) or meters per second",
+  "explanation": "The SI (Standard International) unit for speed is metres per second, written as m/s. This means how many metres an object travels in one second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "193bb143-50ea-4e73-a29c-98aff9bb9966"
+}

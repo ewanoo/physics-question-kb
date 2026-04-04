@@ -1,0 +1,17 @@
+{
+  "question_text": "An electromagnet with a 0.3m core has 150 turns of wire. When switched on, it produces a magnetic field strength of 0.8T. Calculate the current flowing through the electromagnet if the relationship between turns, current, and field strength is: Magnetic Field Strength = (Current \u00d7 Number of Turns) / Core Length \u00d7 0.00267",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "calculation",
+    "electromagnetic strength",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "0.8 = (I \u00d7 150) / 0.3 \u00d7 0.00267. Rearranging: 0.8 = (I \u00d7 150 \u00d7 0.00267) / 0.3. 0.8 = (I \u00d7 0.4005) / 0.3. 0.8 \u00d7 0.3 = I \u00d7 0.4005. 0.24 = I \u00d7 0.4005. I = 0.24 / 0.4005 = 0.599A, or approximately 0.6A.",
+  "explanation": "This is a multi-step problem where you need to rearrange the formula to solve for current. You substitute the known values (0.8T, 150 turns, 0.3m core length) into the equation and work backwards to find the current. The answer is approximately 0.6 amps.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b037e971-d1b4-49ad-aaa0-8741d7d84e62"
+}

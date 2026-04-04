@@ -1,0 +1,17 @@
+{
+  "question_text": "A student observes that on 21 June, the Sun at solar noon in London (51.5\u00b0N) is at an angle of about 62\u00b0. On 21 December, the same Sun is at about 15\u00b0. Calculate the difference in angle and evaluate what this tells you about how seasons are caused.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "angle of sun",
+    "seasonal variation",
+    "solstice comparison"
+  ],
+  "options": null,
+  "correct_answer": "Difference = 62\u00b0 - 15\u00b0 = 47\u00b0. This large difference shows that the Sun's height in the sky varies enormously throughout the year at the same location. This is caused by Earth's axial tilt of 23.5\u00b0. A higher Sun angle means more concentrated sunlight, longer daylight hours, and warmer temperatures (summer). A lower angle means spread-out sunlight and shorter days (winter). The 47\u00b0 difference demonstrates the extreme effect of the tilt on solar energy received.",
+  "explanation": "The Sun moves about 47\u00b0 higher in the sky between winter and summer in London. This huge change is due to Earth's tilt. A higher Sun angle concentrates more solar energy on the surface, making it warmer and explaining summer. The low winter angle spreads energy over a wider area, making it colder.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6bd478da-74e1-4f35-aee4-c6a66260c056"
+}

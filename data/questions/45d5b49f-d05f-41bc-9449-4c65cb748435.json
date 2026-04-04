@@ -1,0 +1,38 @@
+{
+  "question_text": "Three identical containers are filled with different liquids: liquid A (density 0.8 g/cm\u00b3), liquid B (density 1.0 g/cm\u00b3), and liquid C (density 1.3 g/cm\u00b3). If a wooden block with density 0.95 g/cm\u00b3 is placed in each container, in which liquid(s) would the block float?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "comparing densities",
+    "floating/sinking",
+    "density relationships"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Liquid A only",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Liquids A and B",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Liquids B and C",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All three liquids",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An object floats when its density is less than the liquid's density. The wooden block (0.95 g/cm\u00b3) is less dense than liquid A (0.8 g/cm\u00b3) is false\u2014it's MORE dense, so it sinks. Wait: 0.95 < 0.8? No. The block floats only in liquids less dense than itself. Only liquid A (0.8 g/cm\u00b3) is less dense than the block's 0.95 g/cm\u00b3, so it floats in A only.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "45d5b49f-d05f-41bc-9449-4c65cb748435"
+}

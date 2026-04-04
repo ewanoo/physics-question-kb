@@ -1,0 +1,17 @@
+{
+  "question_text": "An LED light bulb has an efficiency of 85%, while an old incandescent bulb has an efficiency of 5%. If both use 60 J of electrical energy, calculate the difference in useful light energy produced by each bulb.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "efficiency_calculations",
+    "energy_transformations",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "48 J",
+  "explanation": "LED produces 85% of 60 J = 51 J of light. Incandescent produces 5% of 60 J = 3 J of light. The difference is 51 - 3 = 48 J. This shows why LEDs are much more efficient at converting electrical energy into useful light.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "416db66f-d507-4bbc-b853-c6c2b78d14d8"
+}

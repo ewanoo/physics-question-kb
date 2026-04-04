@@ -1,0 +1,39 @@
+{
+  "question_text": "A student performs three experiments and records observations. Which combination correctly identifies the change type and whether energy is absorbed or released?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "endothermic",
+    "exothermic",
+    "chemical change",
+    "energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice melting: physical change, endothermic (absorbs energy)",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Combustion of wood: physical change, exothermic (releases energy)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Dissolving salt in water: chemical change, exothermic (releases energy)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Neutralisation of acid and base: physical change, endothermic (absorbs energy)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Ice melting is a physical change because the water molecules are still H\u2082O, and it absorbs heat energy from surroundings (endothermic). Option B is wrong because combustion is chemical, C is wrong because it's physical not chemical, and D is wrong because neutralisation releases heat (exothermic).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1cabe48d-0dc2-432b-be5b-291ebd310cea"
+}

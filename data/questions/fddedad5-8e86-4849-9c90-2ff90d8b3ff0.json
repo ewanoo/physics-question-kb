@@ -1,0 +1,17 @@
+{
+  "question_text": "A bicycle pump compresses air into a tyre. Explain what happens to the gas particles when the air is compressed.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "compression",
+    "particle collisions",
+    "everyday examples"
+  ],
+  "options": null,
+  "correct_answer": "The gas particles are forced closer together, so they collide with the tyre walls more frequently and more forcefully, increasing the pressure.",
+  "explanation": "When you compress gas, you squeeze the particles into a smaller space. This means more collisions happen per second on the container walls, creating higher pressure.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "fddedad5-8e86-4849-9c90-2ff90d8b3ff0"
+}

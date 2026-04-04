@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain why an astronaut's mass remains the same both on Earth and in space, but their weight changes. Include an explanation of what gravitational field strength means.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass vs weight",
+    "gravitational field strength",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Mass is the amount of matter in an object and does not change with location. Weight is the gravitational force on an object (W = mg) and depends on the gravitational field strength (g) of the location. In space where g \u2248 0, an astronaut's weight is nearly zero, but their mass is unchanged. Gravitational field strength is the measure of how much gravitational force acts on each kilogram of mass.",
+  "explanation": "Mass is a fixed property of matter, but weight depends on gravity. Since gravitational field strength varies with location (stronger on Earth, weaker in space), weight changes even though mass stays the same. Think of mass as 'how much stuff' and weight as 'how hard gravity pulls on that stuff'.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ab790670-5de5-4a66-83b0-3daa52dfdbfc"
+}

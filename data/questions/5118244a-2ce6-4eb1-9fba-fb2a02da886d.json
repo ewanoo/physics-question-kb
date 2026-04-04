@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes what causes ocean tides on Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tides",
+    "gravity",
+    "moon"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The rotation of Earth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon's gravitational pull on Earth's oceans",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earthquakes under the ocean",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Changes in water temperature",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon's gravity pulls on Earth's oceans, causing them to bulge outwards. This creates the high and low tides that occur roughly twice a day.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5118244a-2ce6-4eb1-9fba-fb2a02da886d"
+}

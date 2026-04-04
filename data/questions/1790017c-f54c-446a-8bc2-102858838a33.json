@@ -1,0 +1,17 @@
+{
+  "question_text": "At the Antarctic Circle (66.5\u00b0S), there is 24-hour darkness on the winter solstice (21 June in the Southern Hemisphere). Explain why a location at 70\u00b0S experiences even longer continuous darkness, while a location at 60\u00b0S does not experience 24-hour darkness.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "Antarctic circle",
+    "continuous darkness",
+    "latitude effects"
+  ],
+  "options": null,
+  "correct_answer": "The Antarctic Circle at 66.5\u00b0S marks where the Sun's path on the winter solstice means it never rises. Locations further south (like 70\u00b0S) are tilted even further away from the Sun, so the Sun's path remains below the horizon for longer periods than just one day\u2014sometimes for months, depending on latitude. At 60\u00b0S, you're north of the Antarctic Circle, so the Sun still rises and sets each day, meaning there is no continuous darkness. The further from the equator you are within the polar circles, the longer the continuous darkness or daylight lasts.",
+  "explanation": "The Antarctic Circle is the southern boundary of continuous darkness in winter. Beyond it (further south), continuous darkness lasts longer. Before it (further north), the Sun still rises and sets daily. Your distance from the Antarctic Circle determines how long you experience continuous night.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "1790017c-f54c-446a-8bc2-102858838a33"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "What instrument is used to measure atmospheric pressure?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric pressure",
+    "barometer",
+    "measurement"
+  ],
+  "options": null,
+  "correct_answer": "A barometer.",
+  "explanation": "A barometer is a device designed specifically to measure the pressure of the atmosphere. Mercury barometers and aneroid barometers are the most common types.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4937053e-7331-4763-9871-e63d65fec3dc"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "What is gas pressure?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "definition",
+    "gas pressure",
+    "particles"
+  ],
+  "options": null,
+  "correct_answer": "Gas pressure is the force exerted by gas particles as they collide with the walls of a container (or other surfaces).",
+  "explanation": "Gas pressure comes from billions of tiny gas particles constantly bumping into surfaces. Each collision creates a tiny force, and all these collisions together create pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "63d91b4a-12ca-4cdf-b746-b7eccdade001"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A converging lens is used to focus sunlight onto a piece of paper. The paper catches fire. What type of image is formed on the paper?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "converging lens",
+    "real image",
+    "focus"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A virtual image that cannot be projected",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A real image that can be projected onto a surface",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "An image that only exists inside the lens",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A magnified image that is upright",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A converging lens forms a real image when light rays actually meet at a point. Real images can be projected onto surfaces (like paper), which is why the concentrated light can burn the paper. Virtual images cannot be projected because the light rays don't actually meet.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ec8336ce-4aaa-4513-ad59-89a4d2a288f7"
+}

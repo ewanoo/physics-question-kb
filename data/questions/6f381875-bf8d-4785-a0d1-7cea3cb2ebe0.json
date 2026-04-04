@@ -1,0 +1,38 @@
+{
+  "question_text": "A skydiver falls through the air. Initially, they accelerate downwards. After several seconds, they reach a constant velocity and stop accelerating. Which of the following best explains why the skydiver's acceleration becomes zero?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "drag",
+    "terminal velocity",
+    "air resistance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity stops acting on the skydiver after a few seconds",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The drag force from the air increases until it equals the weight, making the net force zero",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The skydiver's mass decreases as they fall through the air",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air resistance only affects objects moving upwards, not downwards",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At terminal velocity, the upward drag force equals the downward weight. Since the forces are balanced, the net force is zero and acceleration stops. The skydiver continues falling at constant speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6f381875-bf8d-4785-a0d1-7cea3cb2ebe0"
+}

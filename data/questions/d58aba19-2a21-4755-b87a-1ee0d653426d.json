@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is caused by gas pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "everyday examples",
+    "gas pressure",
+    "applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A balloon staying inflated",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Ice melting in the sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Water boiling in a kettle",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Metal rusting",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A balloon stays inflated because the gas particles inside push outward against the rubber walls. The other options are caused by heat or chemical reactions, not gas pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d58aba19-2a21-4755-b87a-1ee0d653426d"
+}

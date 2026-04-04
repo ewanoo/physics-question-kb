@@ -1,0 +1,38 @@
+{
+  "question_text": "During summer, why are the days longer than the nights?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "summer",
+    "daylight hours",
+    "tilt"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun moves faster across the sky in summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Your hemisphere is tilted towards the Sun, so it stays in daylight for longer",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Earth spins faster in summer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There are more hours in a summer day",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When your hemisphere is tilted towards the Sun, it spends more time facing the Sun as Earth rotates, creating longer daylight hours. This is because of the tilt of the Earth's axis.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2f1bfe8d-17fb-4680-8e57-b49b92a0f9f9"
+}

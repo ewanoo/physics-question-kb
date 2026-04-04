@@ -1,0 +1,38 @@
+{
+  "question_text": "How should a voltmeter be connected in a circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltmeter",
+    "measuring voltage",
+    "circuit connection"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "In series with the component",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "In parallel across the component",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Connected to only one terminal",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It doesn't matter how it's connected",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A voltmeter must be connected in parallel (across) a component to measure the voltage difference between two points without interfering with the current flow.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fb1d8bd2-795f-4f5b-a339-827c284f5d3f"
+}

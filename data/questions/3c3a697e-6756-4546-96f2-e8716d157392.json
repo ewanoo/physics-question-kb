@@ -1,0 +1,17 @@
+{
+  "question_text": "A student has a piece of cork with a mass of 48 g. When submerged completely in water, it displaces 500 cm\u00b3 of water. If the student wants to load the cork with extra weight so that it floats exactly at the water surface (neither sinking nor rising), what mass of weights should be added? (Density of water = 1 g/cm\u00b3)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "floating/sinking",
+    "density principle",
+    "problem-solving"
+  ],
+  "options": null,
+  "correct_answer": "452 g of weights should be added (total mass would be 500 g to equal the mass of 500 cm\u00b3 of water displaced)",
+  "explanation": "For the cork to float at the water surface, its total mass must equal the mass of water it displaces. The cork displaces 500 cm\u00b3 of water, which has a mass of 500 g (since density of water = 1 g/cm\u00b3). The cork currently has 48 g, so you need to add 500 - 48 = 452 g of weights to make it neutrally buoyant.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3c3a697e-6756-4546-96f2-e8716d157392"
+}

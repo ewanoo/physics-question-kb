@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain why the same side of the Moon always faces Earth.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal locking",
+    "rotation",
+    "orbit"
+  ],
+  "options": null,
+  "correct_answer": "The Moon rotates at the same speed as it orbits Earth (tidal locking)",
+  "explanation": "The Moon's rotation period equals its orbital period, which means it spins exactly once every time it goes around Earth. This causes the same face to always point towards us.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "63771536-3dc6-4a28-8108-56a6106bd00e"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A wind turbine receives 500,000 J of wind energy per second. Due to mechanical friction and electrical losses, only 40% of this becomes electrical energy. A transmission system then loses 15% of the electrical energy as heat in the cables. How much electrical energy finally reaches the consumer?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "efficiency_calculations",
+    "energy_losses",
+    "multi_step"
+  ],
+  "options": null,
+  "correct_answer": "170,000 J",
+  "explanation": "First, calculate electrical energy produced: 40% of 500,000 = 200,000 J. Then subtract transmission losses: 15% of 200,000 = 30,000 J lost, so 200,000 - 30,000 = 170,000 J reaches the consumer. This multi-step problem shows how energy losses accumulate in real systems.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b4694aee-7cf7-4713-8c48-8303e8f7b8a3"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A 2 kg block slides across a rough wooden surface. The friction force is measured as 6 N. The same block is then placed on a smoother plastic surface and the friction force is measured as 3 N. Assuming the normal force remains the same in both cases, calculate the coefficient of friction for each surface and explain which surface is rougher.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "coefficient of friction",
+    "surface roughness",
+    "normal force"
+  ],
+  "options": null,
+  "correct_answer": "Normal force = weight = 2 kg \u00d7 10 N/kg = 20 N. Wooden surface: coefficient = 6 N \u00f7 20 N = 0.3. Plastic surface: coefficient = 3 N \u00f7 20 N = 0.15. The wooden surface is rougher because it has a higher coefficient of friction (0.3 > 0.15), meaning friction increases more with the same normal force.",
+  "explanation": "The coefficient of friction is friction force divided by normal force. A higher coefficient means the surface is rougher and creates more friction. Rough surfaces have higher coefficients than smooth surfaces.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6c9b5ea0-1ead-4cae-82f7-992b64edb166"
+}

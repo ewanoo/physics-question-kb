@@ -1,0 +1,38 @@
+{
+  "question_text": "When white light passes through a red filter and then through a blue filter, what colour (if any) will be observed on a screen behind both filters?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "absorption",
+    "light mixing"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Purple (combination of red and blue)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Black (no light passes through)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Magenta",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "White (filters have no effect)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The red filter absorbs all colours except red light. When this red light hits the blue filter, the blue filter absorbs all colours except blue light. Since red light cannot pass through a blue filter, no light reaches the screen.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fc0f68eb-4007-46fd-b601-ee8e4191c00b"
+}

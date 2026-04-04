@@ -1,0 +1,17 @@
+{
+  "question_text": "A car of mass 1200 kg is being towed by a rope. The tension in the rope is 3600 N forward, and friction from the road is 1200 N backward. Calculate the resultant force and the acceleration of the car.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "contact forces",
+    "Newton's second law"
+  ],
+  "options": null,
+  "correct_answer": "Resultant force = 2400 N; Acceleration = 2 m/s\u00b2",
+  "explanation": "Resultant force = tension \u2212 friction = 3600 \u2212 1200 = 2400 N forward. Using F = ma, acceleration = 2400 \u00f7 1200 = 2 m/s\u00b2. Both rope tension and friction are contact forces acting on the car.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ff7ed4de-7139-4a74-bdf0-b173621e7816"
+}

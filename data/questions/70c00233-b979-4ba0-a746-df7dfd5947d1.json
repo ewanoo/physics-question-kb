@@ -1,0 +1,17 @@
+{
+  "question_text": "A spacecraft is orbiting at a distance of 400 km above Earth's surface. At this distance, the gravitational field strength is approximately 8.7 N/kg compared to 10 N/kg at Earth's surface. A 70 kg astronaut is in the spacecraft. Calculate their weight at the orbital height and compare it to their weight on Earth's surface.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational field strength vs distance",
+    "weight comparison",
+    "orbital mechanics"
+  ],
+  "options": null,
+  "correct_answer": "Weight at orbital height = 70 \u00d7 8.7 = 609 N. Weight on Earth's surface = 70 \u00d7 10 = 700 N. The astronaut weighs 91 N less in orbit, or about 87% of their Earth weight. This shows that gravitational field strength decreases noticeably with distance but hasn't disappeared\u2014objects are still attracted to Earth.",
+  "explanation": "Even 400 km above Earth, gravity is still quite strong (8.7 N/kg instead of 10 N/kg). The astronaut still weighs significantly, though less than on the surface. This demonstrates that gravitational field strength decreases with distance according to a mathematical pattern, not that it suddenly switches off.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "70c00233-b979-4ba0-a746-df7dfd5947d1"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "If the Earth were not tilted on its axis, what would happen to the seasons?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "tilt importance",
+    "hypothetical",
+    "seasons"
+  ],
+  "options": null,
+  "correct_answer": "There would be no seasons, or seasons would not change throughout the year",
+  "explanation": "The tilt of Earth's axis is what causes seasons. Without it, every location on Earth would receive the same amount of direct sunlight all year round, so there would be no seasonal changes.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4dbb5d0f-b452-4b0c-a82b-3dc66d530500"
+}

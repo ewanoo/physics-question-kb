@@ -1,0 +1,17 @@
+{
+  "question_text": "A 5 kg box is pushed across a carpeted floor with an applied force of 30 N, but it does not move. When the same box is pushed with 50 N, it begins to slide. Once sliding, a force of only 40 N keeps it moving at constant velocity. Calculate the coefficient of static friction and the coefficient of kinetic friction for this carpet. Explain why kinetic friction is lower than static friction.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "static friction",
+    "kinetic friction",
+    "coefficients comparison"
+  ],
+  "options": null,
+  "correct_answer": "Normal force = 5 kg \u00d7 10 N/kg = 50 N. Maximum static friction = 50 N (force needed to start motion), so coefficient of static friction = 50 N \u00f7 50 N = 1.0. Kinetic friction = 40 N (force to maintain constant velocity), so coefficient of kinetic friction = 40 N \u00f7 50 N = 0.8. Kinetic friction is lower because once the box is sliding, the surfaces are moving past each other continuously, causing less interlocking of surface bumps compared to static friction where surfaces are stationary and more firmly locked together.",
+  "explanation": "Static friction is stronger because surfaces at rest can interlock more firmly. Once surfaces are sliding, they move past each other more smoothly with less interlocking, so kinetic friction is weaker.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "84d83df3-179e-4143-885b-802245fa3780"
+}

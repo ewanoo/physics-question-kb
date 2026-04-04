@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why different foods have different energy values (measured in kJ or kcal) even if they have the same mass?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "food energy content",
+    "chemical energy",
+    "energy comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Different foods contain different amounts of chemical energy in their molecular bonds; fats store more energy per gram than carbohydrates or proteins",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Foods with stronger colors contain more energy than foods with weaker colors",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The digestive system breaks down different foods at different speeds, so faster digestion means more energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Foods grown in different climates have different energy values regardless of their composition",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Different foods store energy differently in their chemical bonds. Fats store approximately 39 kJ per gram, while carbohydrates and proteins store about 17 kJ per gram. So a 100g portion of butter contains much more energy than 100g of carrot, even though they weigh the same.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "442295d4-1932-42db-9d29-5a577725a393"
+}

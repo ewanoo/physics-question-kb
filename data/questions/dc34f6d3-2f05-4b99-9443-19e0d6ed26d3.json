@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain the difference between a reversible and irreversible change, using the examples of boiling water and burning paper. How does each demonstrate the difference?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "reversible change",
+    "irreversible change",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Reversible changes can be undone and no new substances are formed. Boiling water is reversible: water becomes steam but can condense back to water. Irreversible changes form new substances that cannot easily be changed back. Burning paper is irreversible: new substances (ash, gases) are formed and paper cannot be recovered.",
+  "explanation": "The key difference is whether new substances are formed. Reversible physical changes don't create new substances, while irreversible chemical changes do, making them impossible to simply reverse.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dc34f6d3-2f05-4b99-9443-19e0d6ed26d3"
+}

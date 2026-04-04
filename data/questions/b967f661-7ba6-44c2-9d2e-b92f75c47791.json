@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following correctly explains why the Northern Hemisphere experiences summer when it is winter in the Southern Hemisphere?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "hemisphere differences",
+    "tilt",
+    "seasonal explanation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Northern Hemisphere is closer to the Sun during summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The tilt of Earth's axis means the Northern Hemisphere is angled towards the Sun in summer, concentrating solar radiation, while the Southern Hemisphere is angled away",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun orbits around the Northern Hemisphere more closely during summer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Northern Hemisphere spins faster on its axis, creating more heat",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Earth's 23.5\u00b0 axial tilt is the key to seasons. When the Northern Hemisphere tilts towards the Sun, it gets more direct sunlight and longer days (summer), while the Southern Hemisphere tilts away (winter). This happens simultaneously on opposite sides of the globe.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b967f661-7ba6-44c2-9d2e-b92f75c47791"
+}

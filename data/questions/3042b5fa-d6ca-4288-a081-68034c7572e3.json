@@ -1,0 +1,17 @@
+{
+  "question_text": "A maglev train uses electromagnets to levitate above a track. Compared to a traditional train with metal wheels, explain two advantages of using electromagnets in maglev trains and one significant disadvantage.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "applications",
+    "maglev",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Advantages: (1) No friction between train and track because the train levitates, allowing faster speeds and less energy wasted as heat; (2) Reduced wear and tear on both train and track since there's no metal-to-metal contact. Disadvantage: Requires large amounts of electrical power to generate strong electromagnets, making it expensive to operate and requiring significant infrastructure investment.",
+  "explanation": "Maglev trains use electromagnets to float above the track, which removes friction and allows them to go very fast. However, creating powerful electromagnets requires lots of electricity, which is expensive and why maglev trains are rare and costly to build.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3042b5fa-d6ca-4288-a081-68034c7572e3"
+}

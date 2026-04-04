@@ -1,0 +1,17 @@
+{
+  "question_text": "When a compass needle is placed near a switched-on electromagnet, the needle deflects. When the electromagnet is switched off, the needle returns to pointing north. What does this observation tell us about the relationship between electricity and magnetism?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnetic induction",
+    "electricity-magnetism relationship",
+    "observation"
+  ],
+  "options": null,
+  "correct_answer": "This shows that electric current can create a magnetic field, and that this magnetic field only exists when current is flowing. It demonstrates that electricity and magnetism are connected\u2014moving electric charges (current) generate magnetic fields. The magnetic field is not permanent like a permanent magnet; it depends on the electricity being on. When current stops, the magnetic field disappears immediately.",
+  "explanation": "The compass needle moving proves that electricity creates magnetism. The needle only moves when the electromagnet is on because that's when current flows. When you switch it off, the magnetic field vanishes and the needle goes back to normal. This shows electricity and magnetism are linked together.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fc3f11f4-8425-4218-bfbd-096484fbfdfa"
+}

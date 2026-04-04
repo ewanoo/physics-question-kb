@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain the difference between mixing coloured lights (additive mixing) and mixing coloured pigments (subtractive mixing). Use an example to support your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "additive mixing",
+    "subtractive mixing",
+    "pigments vs light"
+  ],
+  "options": null,
+  "correct_answer": "Additive mixing: coloured lights are mixed by adding them together. Red + blue light = magenta (brighter). Subtractive mixing: coloured pigments are mixed by absorption. Red paint + blue paint = purple/dark (darker, because pigments absorb light). Pigments work by absorbing colours, while lights work by combining wavelengths.",
+  "explanation": "When you mix light, you add the colours together and get brighter colours. When you mix paints, they absorb more light, so you get darker colours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1dfdd95d-1f1a-4f13-ab76-3a8edf3e6a40"
+}

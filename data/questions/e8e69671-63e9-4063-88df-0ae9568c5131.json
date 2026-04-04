@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why seasons occur on Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "Earth's tilt",
+    "concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Earth is closer to the Sun in summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Earth's tilted axis means different parts receive more direct sunlight at different times of year",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Moon's gravity causes the seasons to change",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The atmosphere becomes thicker in winter",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Seasons are caused by the tilt of Earth's axis, not by how close or far the Earth is from the Sun. When your hemisphere is tilted towards the Sun, you receive more direct sunlight and have longer days, creating summer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e8e69671-63e9-4063-88df-0ae9568c5131"
+}

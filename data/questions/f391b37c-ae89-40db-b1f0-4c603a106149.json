@@ -1,0 +1,17 @@
+{
+  "question_text": "At sea level, atmospheric pressure is approximately 101,000 Pa. On a mountain 5 km high, atmospheric pressure is approximately 54,000 Pa. Why is the pressure lower on the mountain?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric pressure",
+    "altitude",
+    "particle density"
+  ],
+  "options": null,
+  "correct_answer": "There is less air (fewer air particles) above the mountain, so there are fewer particle collisions, resulting in lower pressure.",
+  "explanation": "Atmospheric pressure is caused by the weight of air above pressing down. On a mountain, there is less air above you, so fewer particles are colliding with surfaces, creating lower pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f391b37c-ae89-40db-b1f0-4c603a106149"
+}

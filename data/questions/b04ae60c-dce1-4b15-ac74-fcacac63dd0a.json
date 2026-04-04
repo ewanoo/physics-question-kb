@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best describes what happens to gas pressure when the temperature of a gas increases in a sealed container?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "temperature",
+    "pressure relationship",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure decreases because hot particles move slowly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure increases because hotter particles move faster and collide more forcefully",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure stays the same because the number of particles doesn't change",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pressure increases because new particles are created",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When gas is heated, the particles move faster and collide harder and more frequently with the container walls. This increases the pressure even though the volume and number of particles stay the same.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b04ae60c-dce1-4b15-ac74-fcacac63dd0a"
+}

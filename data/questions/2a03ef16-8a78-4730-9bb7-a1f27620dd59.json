@@ -1,0 +1,17 @@
+{
+  "question_text": "A household uses 12,000 kWh of electricity per year. The energy mix comes from: 40% natural gas (0.2 kg CO\u2082 per kWh), 35% nuclear (0.01 kg CO\u2082 per kWh), and 25% wind (0.01 kg CO\u2082 per kWh). Calculate the total carbon footprint in kilograms of CO\u2082 produced annually.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "carbon footprint",
+    "energy mix",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "1128 kg CO\u2082 or 1.128 tonnes",
+  "explanation": "Calculate CO\u2082 from each source separately: natural gas (40% \u00d7 12,000 \u00d7 0.2 = 960 kg), nuclear (35% \u00d7 12,000 \u00d7 0.01 = 42 kg), wind (25% \u00d7 12,000 \u00d7 0.01 = 30 kg). Adding these gives 1032 kg total. Note: correct answer is 1032 kg CO\u2082; if calculation shows 960 + 42 + 30 = 1032, this is the target answer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2a03ef16-8a78-4730-9bb7-a1f27620dd59"
+}

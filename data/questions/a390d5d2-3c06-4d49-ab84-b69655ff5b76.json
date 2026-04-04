@@ -1,0 +1,17 @@
+{
+  "question_text": "On 21 March, the Sun is directly above the equator. A student in the UK measures the angle of the Sun above the horizon at solar noon. If the angle is 39\u00b0, and the UK is at 52\u00b0N latitude, explain why this angle is less than 90\u00b0.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "angle of sun",
+    "latitude",
+    "geometry"
+  ],
+  "options": null,
+  "correct_answer": "The Sun is directly above the equator (0\u00b0 latitude) on the equinox. The UK is at 52\u00b0N, so the Sun appears lower in the sky. The angle of elevation equals 90\u00b0 minus the latitude difference (90\u00b0 - 52\u00b0 = 38\u00b0, approximately 39\u00b0 accounting for measurement). The Sun cannot be at 90\u00b0 above the horizon in the UK because the latitude is too far north.",
+  "explanation": "During the equinox, the Sun is above the equator. From the UK at 52\u00b0N, you're tilted away from the Sun, so it appears lower in the sky. The further north you are, the lower the Sun appears at noon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a390d5d2-3c06-4d49-ab84-b69655ff5b76"
+}

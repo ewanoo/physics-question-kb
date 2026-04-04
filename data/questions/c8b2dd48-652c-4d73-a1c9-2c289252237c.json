@@ -1,0 +1,17 @@
+{
+  "question_text": "Two countries have the same population and electricity demand. Country A generates 80% from coal and 20% from renewables (carbon footprint: 600 kg CO\u2082 per person per year). Country B generates 30% from coal, 50% from nuclear, and 20% from renewables (carbon footprint: 150 kg CO\u2082 per person per year). If both countries want to reduce emissions by 50% over 10 years, which faces the greater challenge and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "carbon footprint",
+    "energy transition",
+    "comparative analysis"
+  ],
+  "options": null,
+  "correct_answer": "Country A faces a greater challenge because it must reduce from 600 to 300 kg CO\u2082 per person (reducing coal dependence from 80%), requiring replacement of massive coal infrastructure. Country B only needs to reduce from 150 to 75 kg CO\u2082 per person and already has diverse sources. Replacing coal infrastructure is expensive and slow.",
+  "explanation": "This requires comparing absolute reductions needed and understanding that shifting away from coal (the most carbon-intensive source) requires replacing significant infrastructure. Country A's heavy coal dependence makes the transition more difficult and costly than Country B's already-diversified mix.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c8b2dd48-652c-4d73-a1c9-2c289252237c"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why the sky near the horizon appears lighter (less saturated blue) than the sky directly overhead?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "scattering",
+    "sky colour",
+    "atmospheric depth"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The atmosphere is thinner near the horizon",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "More scattered blue light combines with scattered white light (from longer wavelengths), diluting the pure blue colour",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Red light is absorbed by the atmosphere near the horizon",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The sun is closer to the horizon so its light is stronger there",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When looking at the horizon, you see through more atmosphere. Not only is blue light scattered, but other colours (particularly yellows and whites from longer wavelengths) are also scattered, which mixes with the blue to make it appear paler and less pure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "726f079f-7a99-47d1-88dc-9470926a6ae0"
+}

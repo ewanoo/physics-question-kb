@@ -1,0 +1,17 @@
+{
+  "question_text": "A student observes that the sky appears blue during the day, but during sunset the sky appears red/orange. Explain why this colour change occurs, referring to the wavelengths of light and scattering.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "scattering",
+    "sky colour",
+    "wavelength"
+  ],
+  "options": null,
+  "correct_answer": "Blue light has a shorter wavelength than red light. During the day, blue light is scattered more by air molecules (Rayleigh scattering) because shorter wavelengths scatter more easily. At sunset, light travels through more atmosphere at a shallow angle, so most blue light is scattered away before reaching the observer. Only longer wavelengths (red/orange) reach the observer, making the sunset appear red.",
+  "explanation": "Blue light scatters more than red light because it has shorter waves. At sunset, the light path through the atmosphere is longer, so blue light gets scattered away and we only see the red light that makes it through.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "67965ece-6ab1-4c54-b879-a1bedabf3c2a"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Two identical cars drive on the same wet road. Car A has smooth tyres with a low coefficient of friction of 0.4, while Car B has textured tyres with a coefficient of friction of 0.8. Both cars have a mass of 1000 kg. Calculate the maximum friction force each car can experience. Why would a driver prefer Car B, especially in wet conditions?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction force",
+    "grip",
+    "tyre safety"
+  ],
+  "options": null,
+  "correct_answer": "Normal force = 1000 kg \u00d7 10 N/kg = 10,000 N. Car A: friction = 0.4 \u00d7 10,000 N = 4,000 N. Car B: friction = 0.8 \u00d7 10,000 N = 8,000 N. Car B is safer because the textured tyres provide twice as much friction (8,000 N vs 4,000 N), allowing better grip, faster braking, and better control on wet roads.",
+  "explanation": "Textured tyres have a higher coefficient of friction than smooth tyres. This greater friction helps the car brake faster and turn without skidding, making it much safer in wet conditions.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8639ed72-fd63-4a17-af8f-12b83a7c9836"
+}

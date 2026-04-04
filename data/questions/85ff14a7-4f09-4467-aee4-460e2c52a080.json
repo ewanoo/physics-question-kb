@@ -1,0 +1,38 @@
+{
+  "question_text": "Which phase occurs when the Moon is positioned between Earth and the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon phases",
+    "position",
+    "new moon"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Full moon",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Half moon",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "New moon",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Crescent moon",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When the Moon is between Earth and the Sun, the side facing Earth is in shadow, so we cannot see the Moon. This phase is called a new moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "85ff14a7-4f09-4467-aee4-460e2c52a080"
+}

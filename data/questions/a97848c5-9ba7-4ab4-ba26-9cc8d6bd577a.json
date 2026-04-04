@@ -1,0 +1,17 @@
+{
+  "question_text": "A wooden block is placed on a horizontal surface. When a force of 5 N is applied horizontally, the block does not move. When the force is increased to 8 N, the block starts to slide. Explain why the block remains stationary at 5 N but moves at 8 N, and identify which type of friction acts in each case.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "static friction",
+    "kinetic friction",
+    "threshold force"
+  ],
+  "options": null,
+  "correct_answer": "At 5 N, static friction acts and equals the applied force (5 N), keeping the block stationary because the force is below the maximum static friction. At 8 N, the applied force exceeds maximum static friction, so the block overcomes static friction and starts to move. Once moving, kinetic friction (which is smaller than maximum static friction) acts on the block, allowing it to accelerate.",
+  "explanation": "Static friction can increase up to a maximum value to prevent motion. Once you apply enough force to overcome this maximum, the block slides and kinetic friction takes over\u2014which is usually smaller, so the block accelerates.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a97848c5-9ba7-4ab4-ba26-9cc8d6bd577a"
+}

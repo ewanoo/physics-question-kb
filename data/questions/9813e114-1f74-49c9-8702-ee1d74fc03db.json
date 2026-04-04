@@ -1,0 +1,38 @@
+{
+  "question_text": "What does electric current measure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "definition",
+    "flow of charge"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The speed of electrons moving through a wire",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The flow of charge through a circuit",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The energy stored in a battery",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The resistance of a wire",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Electric current is simply the flow of electric charge moving through a circuit. It's what makes electricity work in your devices.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9813e114-1f74-49c9-8702-ee1d74fc03db"
+}

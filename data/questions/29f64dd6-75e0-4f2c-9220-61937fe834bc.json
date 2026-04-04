@@ -1,0 +1,38 @@
+{
+  "question_text": "Light travels from water into air. What happens to the light as it crosses the boundary?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "normal",
+    "light bending"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It bends towards the normal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It bends away from the normal",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It travels in a straight line",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It bends at 90\u00b0 to the normal",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Light bends away from the normal when moving from a denser medium (water) to a less dense medium (air). This is because light travels faster in air than in water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "29f64dd6-75e0-4f2c-9220-61937fe834bc"
+}

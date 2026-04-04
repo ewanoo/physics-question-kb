@@ -1,0 +1,18 @@
+{
+  "question_text": "A sealed container holds 100 gas particles at room temperature. If the temperature stays the same but the volume of the container is halved, approximately how many times do the particles collide with the walls per second compared to before? (Assume collisions increase proportionally to particle density.)",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "volume",
+    "pressure",
+    "collisions",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "2 times as many (or twice as many)",
+  "explanation": "When the volume is halved, the same number of particles are squeezed into half the space, making them twice as dense. This means they collide with the walls about twice as often, doubling the pressure.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "77d455a4-561e-4552-a5e4-a14e5f44dd76"
+}

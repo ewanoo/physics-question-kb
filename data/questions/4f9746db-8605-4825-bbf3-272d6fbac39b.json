@@ -1,0 +1,17 @@
+{
+  "question_text": "A climber hangs from a rope with a mass of 70 kg. The rope can provide a maximum tension of 840 N. If the climber jumps downward and the rope suddenly becomes taut, what is the maximum upward acceleration the rope can provide? (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "tension",
+    "dynamic equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "Maximum upward acceleration = 2 m/s\u00b2 or 12 m/s\u00b2 net acceleration relative to gravity",
+  "explanation": "Weight = 70 \u00d7 10 = 700 N downward. Maximum resultant force = 840 \u2212 700 = 140 N upward. Using F = ma, acceleration = 140 \u00f7 70 = 2 m/s\u00b2 upward. This is the net acceleration provided by the rope beyond supporting the climber's weight.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4f9746db-8605-4825-bbf3-272d6fbac39b"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "In a complex scenario, a ball is rolling across a table, inside a moving train. Identify all the contact and non-contact forces acting on the ball, and explain why the train's motion does not directly appear as a force in a free body diagram of the ball.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "contact vs non-contact forces",
+    "free body diagrams",
+    "reference frames"
+  ],
+  "options": null,
+  "correct_answer": "Contact forces: normal force (table on ball, upward), friction (table on ball, opposing motion). Non-contact forces: weight (Earth on ball, downward), possibly air resistance (air on ball). The train's motion is not a direct force on the ball; it is the reference frame. Forces only appear in free body diagrams as interactions between objects, not as motion of the reference frame.",
+  "explanation": "A free body diagram shows only forces acting on an object. The train moving is not a force\u2014it's the reference frame from which we observe the ball. The actual forces (normal, friction, weight) are the interactions between objects. If the train accelerates, that would affect the ball through friction or normal forces, which would then appear in the diagram.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "87e89216-77b1-4ffa-8dc0-3814c62c741f"
+}

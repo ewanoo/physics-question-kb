@@ -1,0 +1,17 @@
+{
+  "question_text": "During sunrise, an observer notices the sky is red, but after 30 minutes the sky becomes orange, and after 60 minutes it is yellow. Explain this colour progression in terms of light scattering and the changing path length of light through the atmosphere.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "scattering",
+    "sunrise",
+    "atmospheric path length"
+  ],
+  "options": null,
+  "correct_answer": "At sunrise, the sun is at a very shallow angle, so sunlight travels through the maximum thickness of atmosphere. Blue and green light scatter away, leaving only red. As the sun rises higher, the light path through the atmosphere becomes shorter and less steep. Progressively less scattering occurs, so orange light (longer wavelength than green) can now reach the observer. Eventually, when the path is shorter still, yellow light also reaches the observer. The colour changes from red \u2192 orange \u2192 yellow as the atmospheric path becomes shorter and less scattering occurs.",
+  "explanation": "At sunrise the sun is low, so light travels through thick atmosphere and most colours scatter away except red. As the sun rises, the light path shortens, less scattering happens, and more colours (orange, yellow) can reach you.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f919436f-00e3-4658-9724-b2f023893079"
+}

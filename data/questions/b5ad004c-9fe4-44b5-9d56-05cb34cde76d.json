@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best explains why the total energy output of a real heating system can never exceed its total energy input?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation_law",
+    "energy_losses",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because electrical wires have resistance and waste energy as heat",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because energy cannot be created or destroyed, only transferred or transformed; some energy is always lost to the surroundings",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because machines need energy to run and this reduces the output energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because heat always escapes from systems into cold environments",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The conservation of energy law states that energy cannot be created or destroyed. In real systems, some energy is always wasted to the surroundings (like heat loss), so useful output is always less than input. Answer B is the only one that explains the fundamental principle correctly.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b5ad004c-9fe4-44b5-9d56-05cb34cde76d"
+}

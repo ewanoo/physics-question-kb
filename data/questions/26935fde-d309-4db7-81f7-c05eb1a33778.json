@@ -1,0 +1,38 @@
+{
+  "question_text": "Why does atmospheric pressure exist?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric pressure",
+    "particles",
+    "gravity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because the Sun heats the air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because air particles collide with everything on Earth's surface",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because water evaporates from the oceans",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because Earth is spinning",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Atmospheric pressure is caused by the weight of all the air above us and the collisions of air particles with everything on Earth's surface. These trillions of collisions create the pressure we experience.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "26935fde-d309-4db7-81f7-c05eb1a33778"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A hollow aluminum sphere has an outer diameter of 20 cm and a mass of 2160 g. When placed in water, it floats with half of its volume submerged. Use the density of water (1 g/cm\u00b3) to explain this observation and calculate what the average density of the sphere must be.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "floating/sinking",
+    "density calculation",
+    "density principles"
+  ],
+  "options": null,
+  "correct_answer": "Volume of sphere \u2248 4189 cm\u00b3; average density = 0.515 g/cm\u00b3; it floats because this is less than water's density (1 g/cm\u00b3)",
+  "explanation": "Using V = (4/3)\u03c0r\u00b3 with r = 10 cm gives volume \u2248 4189 cm\u00b3. Density = 2160 \u00f7 4189 \u2248 0.515 g/cm\u00b3. The sphere floats because its average density (including the air inside) is less than water's density\u2014the air spaces make the overall average less dense than water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c0b1c6e8-904e-4e64-8424-24d2aa2ec43c"
+}

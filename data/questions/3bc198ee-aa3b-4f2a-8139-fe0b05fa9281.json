@@ -1,0 +1,18 @@
+{
+  "question_text": "On the autumn equinox (23 September), day length is 12 hours everywhere on Earth. By 21 December (winter solstice), the UK experiences only 7.75 hours of daylight. Calculate how many days it takes for the day length to decrease by this amount, and explain what causes this change.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "day length changes",
+    "solstice",
+    "equinox",
+    "time calculation"
+  ],
+  "options": null,
+  "correct_answer": "From 23 September to 21 December is 89 days. Day length decreases by 12 - 7.75 = 4.25 hours over 89 days, or about 0.048 hours per day. The cause is the continued tilt of the Northern Hemisphere away from the Sun as Earth moves in its orbit, reducing the hours of daylight each day.",
+  "explanation": "Between autumn equinox and winter solstice is about 3 months (89 days). During this time, the Northern Hemisphere gradually tilts further away from the Sun, so daylight hours decrease. The tilt reaches its maximum at the winter solstice, giving the shortest day.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3bc198ee-aa3b-4f2a-8139-fe0b05fa9281"
+}

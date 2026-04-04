@@ -1,0 +1,17 @@
+{
+  "question_text": "A Sankey diagram shows that a coal power station inputs 100 J of chemical energy. The diagram shows 30 J is wasted as heat through the cooling tower, 15 J is wasted as heat from the chimney, and 10 J is lost in the transmission cables. How much electrical energy is usefully delivered to homes?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "sankey_diagrams",
+    "energy_losses",
+    "multi_step"
+  ],
+  "options": null,
+  "correct_answer": "45 J",
+  "explanation": "You need to add up all the energy losses (30 + 15 + 10 = 55 J), then subtract from the total input energy (100 - 55 = 45 J). This applies the conservation of energy law by accounting for where all the energy goes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "88f66bc2-5864-4471-a3c0-32632409d655"
+}

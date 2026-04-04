@@ -1,0 +1,17 @@
+{
+  "question_text": "What causes the different phases of the Moon that we see from Earth?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon phases",
+    "position",
+    "light"
+  ],
+  "options": null,
+  "correct_answer": "The Moon's position in its orbit around Earth as it reflects sunlight",
+  "explanation": "As the Moon orbits Earth, its position changes relative to the Sun. Different amounts of the Moon's lit surface face Earth, creating the phases we see like new moon, half moon, and full moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a086f837-6e8b-4572-a5cc-9aacf5f6d7db"
+}

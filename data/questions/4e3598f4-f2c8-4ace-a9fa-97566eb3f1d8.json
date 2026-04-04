@@ -1,0 +1,17 @@
+{
+  "question_text": "A chlorophyll absorption spectrum shows that chlorophyll absorbs strongly in the blue region (450 nm) and red region (650 nm), but weakly absorbs green light (550 nm). Explain why plants appear green and discuss what this tells us about energy transfer in photosynthesis.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "absorption spectrum",
+    "chlorophyll",
+    "photosynthesis"
+  ],
+  "options": null,
+  "correct_answer": "Plants appear green because chlorophyll reflects or transmits green light (550 nm) strongly while absorbing blue and red light. The blue and red light are absorbed because they carry the energy needed for photosynthesis. This shows that plants primarily use blue and red wavelengths for energy transfer, not green light, which is why green light is wasted (reflected) and visible to our eyes.",
+  "explanation": "Plants absorb the colours they need for energy (blue and red) and reflect green light, which we see. This shows plants are adapted to use certain wavelengths most efficiently for photosynthesis.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4e3598f4-f2c8-4ace-a9fa-97566eb3f1d8"
+}

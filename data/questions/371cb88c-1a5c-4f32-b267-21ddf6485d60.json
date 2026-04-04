@@ -1,0 +1,38 @@
+{
+  "question_text": "A country is deciding between building a new coal power station or a wind farm. The coal station costs \u00a3500 million upfront and produces 1000 MW of reliable power. The wind farm costs \u00a3800 million upfront, produces 800 MW average power (due to variable wind), and has near-zero fuel costs. Over 20 years, coal fuel costs are \u00a32 billion, while wind maintenance costs are \u00a3200 million. Which statement best evaluates this decision?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "cost-benefit analysis",
+    "renewable vs non-renewable",
+    "energy reliability"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal is better because the upfront cost is lower",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wind is better overall despite higher upfront cost because total 20-year cost is lower and it has no carbon emissions",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Coal is better because it produces more reliable power and has lower total costs",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They are equally good because both produce electricity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "This requires comparing total costs (upfront + running), considering reliability differences, and environmental impact. Wind's total cost is \u00a31 billion vs coal's \u00a32.5 billion over 20 years, and wind produces no greenhouse gases, making it the better long-term choice despite variable output.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "371cb88c-1a5c-4f32-b267-21ddf6485d60"
+}

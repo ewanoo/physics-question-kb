@@ -1,0 +1,38 @@
+{
+  "question_text": "During aerobic respiration, glucose is broken down to release energy. Which statement correctly describes what happens to the energy released and how it relates to food energy content?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "respiration equation",
+    "energy transfer",
+    "metabolic processes"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The energy released from breaking chemical bonds in glucose is used for movement and heat, and equals the energy content labeled on food packets",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The energy released is lost as carbon dioxide and water, so food energy cannot be used by the body",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The energy is stored permanently in muscles and never used unless the person exercises",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The energy released is only used for digestion, not for other body activities",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When glucose undergoes aerobic respiration (C\u2086H\u2081\u2082O\u2086 + 6O\u2082 \u2192 6CO\u2082 + 6H\u2082O + energy), the energy from breaking chemical bonds is released and used immediately for muscle contraction, maintaining body temperature, and other processes\u2014this is the energy content shown on food packets.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "67320008-dd11-4712-851e-7b225c873bcb"
+}

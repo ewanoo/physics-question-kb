@@ -1,0 +1,17 @@
+{
+  "question_text": "A PE teacher claims that a student who eats a high-protein meal before exercise will have more energy during the exercise than a student who eats a high-carbohydrate meal of equal total calories. Evaluate this claim using your knowledge of respiration and energy transfer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "food energy comparison",
+    "metabolic processes",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect. If both meals contain equal total calories (kJ/kcal), they provide the same amount of chemical energy for respiration. During exercise, carbohydrates are actually the preferred fuel source for fast energy release through aerobic respiration. Protein can be used for energy but is primarily needed for muscle repair, not energy during exercise.",
+  "explanation": "Energy available depends on total calories, not protein vs carbohydrate content. Carbohydrates are better suited for providing quick energy during exercise because they break down more readily in aerobic respiration. Protein's main job is building and repairing muscles, not providing exercise energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4cbfd991-38b3-44fd-a7a5-26a622da1fb9"
+}

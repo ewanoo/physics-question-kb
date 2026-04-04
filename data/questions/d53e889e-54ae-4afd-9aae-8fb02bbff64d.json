@@ -1,0 +1,17 @@
+{
+  "question_text": "A piece of calcium is added to water. The reaction produces calcium hydroxide and hydrogen gas. If 4.0 g of calcium reacts completely with water and 2.8 g of hydrogen gas is produced, calculate the mass of calcium hydroxide formed.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "conservation of mass",
+    "chemical reaction",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "5.2 g",
+  "explanation": "Using conservation of mass: total reactants = total products. We have calcium (4.0 g) and water. The products are calcium hydroxide and hydrogen gas (2.8 g). Therefore, calcium hydroxide = 4.0 g + mass of water that reacted. Since water was in excess, we use: products must equal reactants. If 2.8 g H\u2082 is produced and 4.0 g Ca reacted, then Ca(OH)\u2082 = 4.0 + 2.8 + water mass, but the question implies we calculate from given data: 4.0 + 2.8 = 6.8 g total, minus water content gives 5.2 g Ca(OH)\u2082.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "d53e889e-54ae-4afd-9aae-8fb02bbff64d"
+}

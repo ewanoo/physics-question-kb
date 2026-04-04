@@ -1,0 +1,17 @@
+{
+  "question_text": "A student has a mass of 50 kg on Earth where g = 10 N/kg. On the Moon, the gravitational field strength is 1.6 N/kg. Calculate the student's weight on the Moon and explain why it is different from their weight on Earth.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight calculation",
+    "gravitational field strength",
+    "comparing planets"
+  ],
+  "options": null,
+  "correct_answer": "Weight on Moon = 50 \u00d7 1.6 = 80 N. The weight is different because the Moon has a weaker gravitational field strength than Earth (1.6 N/kg compared to 10 N/kg), so it pulls less strongly on the student's mass.",
+  "explanation": "Weight depends on both mass and gravitational field strength using W = mg. Although the student's mass stays the same everywhere, the gravitational pull is weaker on the Moon, making their weight much smaller.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2481a912-bd4b-423f-af4a-80dd3122849f"
+}

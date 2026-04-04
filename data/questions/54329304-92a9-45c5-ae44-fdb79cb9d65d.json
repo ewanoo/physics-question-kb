@@ -1,0 +1,17 @@
+{
+  "question_text": "A ray of light hits a mirror at an angle of incidence of 35\u00b0. What is the angle of reflection?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "angle of incidence",
+    "angle of reflection"
+  ],
+  "options": null,
+  "correct_answer": "35\u00b0",
+  "explanation": "The law of reflection states that the angle of incidence always equals the angle of reflection. Both angles are measured from the normal (a line perpendicular to the mirror surface), so if light comes in at 35\u00b0 from the normal, it reflects at 35\u00b0 from the normal.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "54329304-92a9-45c5-ae44-fdb79cb9d65d"
+}

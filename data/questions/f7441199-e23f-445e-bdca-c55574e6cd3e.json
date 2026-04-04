@@ -1,0 +1,17 @@
+{
+  "question_text": "A student measures a piece of metal with a mass of 540 g. When placed in a measuring cylinder containing 100 cm\u00b3 of water, the water level rises to 160 cm\u00b3. Calculate the density of the metal and explain whether it would float or sink in water (density of water = 1 g/cm\u00b3).",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "floating/sinking",
+    "irregular shapes"
+  ],
+  "options": null,
+  "correct_answer": "Density = 9 g/cm\u00b3; it would sink because 9 g/cm\u00b3 > 1 g/cm\u00b3",
+  "explanation": "First, find the volume by subtracting: 160 - 100 = 60 cm\u00b3. Then use density = mass \u00f7 volume = 540 \u00f7 60 = 9 g/cm\u00b3. Since the metal's density is much greater than water's density (1 g/cm\u00b3), it will sink.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f7441199-e23f-445e-bdca-c55574e6cd3e"
+}

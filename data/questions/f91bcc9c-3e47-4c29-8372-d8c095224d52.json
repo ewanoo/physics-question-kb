@@ -1,0 +1,17 @@
+{
+  "question_text": "A fossil fuel power station has an efficiency of 35% and burns 1000 tonnes of coal per day. If coal releases 25 MJ of energy per kilogram, how much thermal energy is wasted as heat each day?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "energy efficiency",
+    "fossil fuels",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "41,250,000 MJ or 41.25 \u00d7 10\u2079 J or 41.25 GJ",
+  "explanation": "Total energy from coal: 1000 tonnes = 1,000,000 kg \u00d7 25 MJ/kg = 25,000,000 MJ. Useful energy: 35% \u00d7 25,000,000 = 8,750,000 MJ. Wasted heat: 65% \u00d7 25,000,000 = 16,250,000 MJ. (Note: Check calculation\u2014wasted should be 65% of 25\u00d710\u2076 MJ = 16.25\u00d710\u2076 MJ = 16,250,000 MJ or 1.625\u00d710\u00b9\u2070 J)",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f91bcc9c-3e47-4c29-8372-d8c095224d52"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A 2 kg ball is dropped from rest and falls freely on Earth for 3 seconds. Calculate the ball's velocity after 3 seconds, assuming acceleration due to gravity is 10 m/s\u00b2. Then explain what this tells us about the relationship between time and velocity in free fall.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "free fall",
+    "velocity calculation",
+    "acceleration"
+  ],
+  "options": null,
+  "correct_answer": "v = u + at = 0 + (10 \u00d7 3) = 30 m/s. This shows that velocity increases linearly with time in free fall\u2014for every second the ball falls, it gains another 10 m/s of speed because the gravitational acceleration is constant.",
+  "explanation": "In free fall, objects accelerate uniformly at g = 10 m/s\u00b2 on Earth. Using v = u + at, the velocity grows by 10 m/s every second, meaning the relationship between time and velocity is linear (a straight line).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "206a0c6c-a181-4d9a-a18d-f09e9a61608c"
+}

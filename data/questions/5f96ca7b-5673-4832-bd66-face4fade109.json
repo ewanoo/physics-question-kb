@@ -1,0 +1,17 @@
+{
+  "question_text": "A student builds an electromagnet using a 0.5m iron core wrapped with 200 turns of wire. When 2A of current flows through it, the electromagnet can lift 15 metal paperclips. If the student increases the current to 4A without changing anything else, how many paperclips would you expect the electromagnet to lift and why?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "current",
+    "proportional relationships"
+  ],
+  "options": null,
+  "correct_answer": "60 paperclips. The strength of an electromagnet is proportional to the current flowing through it. When current doubles from 2A to 4A, the magnetic field strength increases by a factor of 4 (because magnetic force depends on current squared in some interactions, but more directly, doubling current means doubling the force). Actually, the most direct relationship is that electromagnet strength increases with current, so doubling the current would quadruple the lifting force (15 \u00d7 4 = 60).",
+  "explanation": "Electromagnet strength increases dramatically with current. When you double the current, the magnetic field becomes much stronger. In this case, doubling from 2A to 4A quadruples the strength because of how magnetic fields interact, so 15 \u00d7 4 = 60 paperclips.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5f96ca7b-5673-4832-bd66-face4fade109"
+}

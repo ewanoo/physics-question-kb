@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the approximate time it takes for the Moon to orbit Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon orbit",
+    "recall",
+    "time period"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "7 days",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "27 days",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "365 days",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "14 days",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon takes about 27 days to orbit Earth. This is called the lunar month or sidereal period. During this time, the Moon travels all the way around Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2f50808c-ae9b-4b46-bd18-c9b116097c4a"
+}

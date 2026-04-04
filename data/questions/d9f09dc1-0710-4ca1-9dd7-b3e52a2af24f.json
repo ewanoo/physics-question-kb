@@ -1,0 +1,17 @@
+{
+  "question_text": "A student burns magnesium ribbon in oxygen. The product is magnesium oxide. The mass of magnesium is 4.8 g and the mass of oxygen that reacts is 3.2 g. What is the total mass of magnesium oxide produced?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "conservation of mass",
+    "chemical change",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "8.0 g",
+  "explanation": "This demonstrates the law of conservation of mass: the total mass of products equals the total mass of reactants. Adding 4.8 g + 3.2 g = 8.0 g, showing that mass is not lost or gained in a chemical reaction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d9f09dc1-0710-4ca1-9dd7-b3e52a2af24f"
+}

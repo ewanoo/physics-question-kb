@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the formula for calculating speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed formula",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "speed = distance \u00d7 time",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "speed = distance \u00f7 time",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "speed = time \u00f7 distance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "speed = distance + time",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Speed tells us how far something travels in a certain amount of time. We divide the distance travelled by the time taken to find the speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "03e1b848-2e7f-4014-9214-7eda2908686d"
+}

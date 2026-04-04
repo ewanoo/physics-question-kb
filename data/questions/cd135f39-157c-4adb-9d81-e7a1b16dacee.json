@@ -1,0 +1,17 @@
+{
+  "question_text": "A student sets up an experiment where a ball is dropped from a height of 5 metres and bounces back to only 4 metres. Explain what has happened to the 'missing' gravitational potential energy, and why this does not violate the law of conservation of energy.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation_law",
+    "energy_losses",
+    "practical_investigation"
+  ],
+  "options": null,
+  "correct_answer": "The missing gravitational potential energy has been converted into heat and sound energy during the collision with the ground. Some energy was also lost due to air resistance. Energy is not lost from the universe; it has been transformed into other forms that are harder to observe.",
+  "explanation": "This is a common misconception\u2014when energy seems to 'disappear', it has actually been transformed into less useful forms like heat and sound. The law of conservation of energy still applies; all the energy is accounted for, just not in the form we expected.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cd135f39-157c-4adb-9d81-e7a1b16dacee"
+}

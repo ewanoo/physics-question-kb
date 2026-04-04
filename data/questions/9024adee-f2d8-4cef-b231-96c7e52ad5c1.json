@@ -1,0 +1,39 @@
+{
+  "question_text": "Which statement best describes the relationship between the angle of the Sun in the sky and the length of daylight during the year?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "angle of sun",
+    "day length",
+    "relationship",
+    "seasonal patterns"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "When the Sun is at a higher angle in the sky, daylight is shorter because the Sun travels faster",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "When the Sun is at a higher angle in the sky, daylight is longer because the hemisphere is tilted more directly towards the Sun, and this same tilt extends daylight hours",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The angle of the Sun and day length are unrelated; they change for different reasons",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "When the Sun is at a lower angle, daylight is longer because the light has to travel further through the atmosphere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Both the angle of the Sun and day length increase together due to the same cause: the tilt of Earth's axis. When a hemisphere tilts towards the Sun, the Sun reaches a higher angle at noon AND daylight hours are longer. Both are consequences of the same axial tilt.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9024adee-f2d8-4cef-b231-96c7e52ad5c1"
+}

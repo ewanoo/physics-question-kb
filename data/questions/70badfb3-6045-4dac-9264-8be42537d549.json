@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements best explains why marathon runners need to consume more calories than people doing light activities?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "respiration",
+    "metabolic processes",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Marathon running requires more glucose to be broken down in aerobic respiration, releasing more energy for muscle contraction over extended periods",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Marathon runners' bodies are larger, so they need more food regardless of activity",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Food consumed by runners converts to energy more efficiently than in other people",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Marathon running causes food to be stored as energy instead of used immediately",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "During marathon running, cells respire more glucose aerobically (C\u2086H\u2081\u2082O\u2086 + 6O\u2082 \u2192 6CO\u2082 + 6H\u2082O + energy) to meet the high energy demands of sustained muscle activity, requiring more food intake to replenish glucose stores.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "70badfb3-6045-4dac-9264-8be42537d549"
+}

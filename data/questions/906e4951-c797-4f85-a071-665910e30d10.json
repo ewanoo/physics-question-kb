@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements best explains why icebergs float in the ocean, even though ice is made of frozen water?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density comparison",
+    "floating/sinking",
+    "real-world application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Icebergs are less dense than ocean water because ice expands when it freezes, making it less dense than liquid water",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Icebergs float because they are colder than the surrounding ocean water",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Icebergs float because ocean water is denser than fresh water ice",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Icebergs float because they contain air pockets that reduce their overall mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When water freezes, it becomes less dense (about 0.92 g/cm\u00b3) than liquid water (1.0 g/cm\u00b3) because the molecules arrange in a way that takes up more space. Since ice is less dense than even ocean water, it floats. Temperature and air pockets are not the main reasons.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "906e4951-c797-4f85-a071-665910e30d10"
+}

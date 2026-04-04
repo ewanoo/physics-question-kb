@@ -1,0 +1,39 @@
+{
+  "question_text": "A student observes that when sodium hydroxide solution is added to hydrochloric acid, the beaker becomes warm. Which statement correctly evaluates this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "exothermic",
+    "chemical change",
+    "neutralisation",
+    "energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "This is an endothermic physical change because the temperature increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "This is an exothermic chemical change because new substances form and heat energy is released",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "This is a reversible change because heat is produced and can be removed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "This is an endothermic chemical change because the beaker temperature increases above room temperature",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Neutralisation is a chemical reaction forming new substances (salt and water). The temperature increase shows energy is released to surroundings, making it exothermic. Endothermic reactions absorb heat and cool surroundings, so option A and D are incorrect.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d34e400d-ecfd-432d-bbd0-4d48c89a902a"
+}

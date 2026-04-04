@@ -1,0 +1,17 @@
+{
+  "question_text": "A student has two cubes made of different materials. Cube X has sides of 5 cm and a mass of 625 g. Cube Y has sides of 4 cm and a mass of 256 g. Calculate the density of each cube and determine which material is denser.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "comparing densities",
+    "regular shapes"
+  ],
+  "options": null,
+  "correct_answer": "Cube X: 5 g/cm\u00b3; Cube Y: 4 g/cm\u00b3; Cube X is denser",
+  "explanation": "For Cube X: volume = 5\u00b3 = 125 cm\u00b3, so density = 625 \u00f7 125 = 5 g/cm\u00b3. For Cube Y: volume = 4\u00b3 = 64 cm\u00b3, so density = 256 \u00f7 64 = 4 g/cm\u00b3. Comparing the densities shows Cube X (5 g/cm\u00b3) is denser than Cube Y (4 g/cm\u00b3).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a104e432-064e-4628-99ca-158f7f0a7cfb"
+}
