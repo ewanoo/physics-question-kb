@@ -1,0 +1,25 @@
+{
+  "question_text": "A scientist investigates how pressure changes with depth in a swimming pool. At the surface (depth 0 m), the pressure is 101,325 Pa. At a depth of 2 m, the measured pressure is 121,725 Pa. Calculate the pressure increase due to the water column alone, then determine the density of water used in this calculation. (Use g = 10 m/s\u00b2 for this problem.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "fluid pressure",
+    "depth",
+    "density calculation",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Pressure increase = 20,400 Pa, density of water = 1020 kg/m\u00b3",
+  "explanation": "The pressure increase due to water is 121,725 - 101,325 = 20,400 Pa. Using the formula pressure = density \u00d7 gravity \u00d7 depth, we have 20,400 = density \u00d7 10 \u00d7 2, so density = 20,400 \u00f7 20 = 1020 kg/m\u00b3. This is very close to the accepted value of pure water (1000 kg/m\u00b3), with the small difference likely due to dissolved salts or measurement uncertainty.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "72d13384-e4d0-4c04-940b-10b79a21f706",
+  "scraped_at": "2026-04-04T22:29:03.214154",
+  "classified_at": "2026-04-04T22:29:03.214154",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

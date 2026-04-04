@@ -1,0 +1,24 @@
+{
+  "question_text": "Saturn has 146 known moons whilst Mercury has none. Evaluate two reasons why larger planets in our solar system are more likely to have moons than smaller planets like Mercury and Venus.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "moons",
+    "planetary_gravity",
+    "solar_system_formation"
+  ],
+  "options": null,
+  "correct_answer": "Larger planets have stronger gravitational fields that can capture and hold onto asteroids and space debris, preventing them from escaping into space. Additionally, larger planets formed further from the Sun where more material was available during solar system formation, increasing the chance of objects being captured into orbit around them.",
+  "explanation": "This answer requires understanding that gravitational pull depends on mass, and that planetary formation varied across the solar system. Candidates should compare the conditions that allowed large outer planets to accumulate moons versus why inner planets could not retain them.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "94264c4e-8bec-45a6-bab5-611aec4ef6ab",
+  "scraped_at": "2026-04-04T22:29:33.425235",
+  "classified_at": "2026-04-04T22:29:33.425235",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

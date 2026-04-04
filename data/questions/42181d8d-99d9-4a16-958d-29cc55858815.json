@@ -1,0 +1,25 @@
+{
+  "question_text": "A photocopier uses static electricity to transfer toner powder onto paper. Explain why the toner powder is negatively charged and how this helps it stick to the positively charged areas of the paper. In your answer, compare this to how a lightning rod works to protect buildings.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "applications",
+    "charge transfer",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "The toner powder is negatively charged so it is attracted to the positively charged image areas on the paper by electrostatic attraction between opposite charges. This is similar to a lightning rod, where a pointed conductor attracts the positive charge from storm clouds, allowing charge to flow safely to the ground rather than striking the building. Both use the principle that opposite charges attract to control where static electricity goes.",
+  "explanation": "This question requires students to understand both the application of static electricity in a photocopier and how it relates to lightning protection. The key is recognizing that opposite charges attract in both cases, but in a photocopier it transfers material while in a lightning rod it safely conducts charge away from buildings.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "42181d8d-99d9-4a16-958d-29cc55858815",
+  "scraped_at": "2026-04-04T22:28:19.480393",
+  "classified_at": "2026-04-04T22:28:19.480393",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

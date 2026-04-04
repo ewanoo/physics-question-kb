@@ -1,0 +1,24 @@
+{
+  "question_text": "Why do planets orbit the Sun rather than moving in a straight line through space?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "orbital motion",
+    "gravity",
+    "force"
+  ],
+  "options": null,
+  "correct_answer": "The Sun's gravitational force pulls the planet towards it, constantly changing the planet's direction so it follows a curved path around the Sun instead of going in a straight line.",
+  "explanation": "Objects in space move in straight lines unless a force acts on them. The Sun's gravity continuously pulls orbiting planets inward, which curves their path into an orbit. Without this gravitational force, planets would travel straight through space.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "29eba02d-4ff2-4393-a6b7-b9a9dda6c658",
+  "scraped_at": "2026-04-04T22:30:00.643398",
+  "classified_at": "2026-04-04T22:30:00.643398",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

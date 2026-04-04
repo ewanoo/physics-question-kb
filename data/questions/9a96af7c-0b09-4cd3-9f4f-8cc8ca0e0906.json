@@ -1,0 +1,24 @@
+{
+  "question_text": "A gas has a pressure of 100 kPa when its volume is 50 cm\u00b3. Using Boyle's law, calculate the pressure when the volume is reduced to 25 cm\u00b3, assuming the temperature remains constant.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "boyles_law",
+    "calculation",
+    "pressure_volume"
+  ],
+  "options": null,
+  "correct_answer": "200 kPa",
+  "explanation": "Using Boyle's law: P\u2081V\u2081 = P\u2082V\u2082, so 100 \u00d7 50 = P\u2082 \u00d7 25. This gives P\u2082 = 5000 / 25 = 200 kPa. The volume has been halved, so the pressure doubles.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9a96af7c-0b09-4cd3-9f4f-8cc8ca0e0906",
+  "scraped_at": "2026-04-04T22:29:54.630523",
+  "classified_at": "2026-04-04T22:29:54.630523",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "The diameter of Jupiter is approximately 11 times larger than the diameter of Earth. If Earth's diameter is 12,800 km, what is Jupiter's diameter?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "planet_size",
+    "diameter",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "140,800 km",
+  "explanation": "To find Jupiter's diameter, you multiply Earth's diameter by 11: 12,800 km \u00d7 11 = 140,800 km. This shows how much larger Jupiter is than Earth, making it the biggest planet in our solar system.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "edf42a42-26ac-45f1-b5db-15aaafd1671c",
+  "scraped_at": "2026-04-04T22:29:24.454354",
+  "classified_at": "2026-04-04T22:29:24.454354",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

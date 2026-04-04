@@ -1,0 +1,25 @@
+{
+  "question_text": "A kettle has a power rating of 3000 W and takes 2 minutes to boil water. A microwave has a power rating of 900 W. How long would the microwave take to transfer the same amount of energy as the kettle? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "time",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "6 minutes 40 seconds (or 400 seconds)",
+  "explanation": "First, calculate the energy used by the kettle: E = P \u00d7 t = 3000 W \u00d7 120 s = 360,000 J. Then, rearrange to find the time for the microwave: t = E \u00f7 P = 360,000 J \u00f7 900 W = 400 seconds, which equals 6 minutes and 40 seconds. The microwave takes longer because its power is lower.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a01a2f44-a989-47a3-972d-8a3def3e3987",
+  "scraped_at": "2026-04-04T22:28:33.791893",
+  "classified_at": "2026-04-04T22:28:33.791893",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

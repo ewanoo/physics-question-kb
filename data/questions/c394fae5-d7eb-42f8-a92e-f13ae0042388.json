@@ -1,0 +1,45 @@
+{
+  "question_text": "The electromagnetic spectrum can be arranged in order of wavelength. Which of the following lists four types of electromagnetic wave in order from longest to shortest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "wavelength ordering",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves, microwaves, infrared, visible light",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Visible light, infrared, microwaves, radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Radio waves, visible light, infrared, microwaves",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Microwaves, radio waves, visible light, infrared",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Radio waves, microwaves, infrared, visible light",
+  "explanation": "Radio waves have the longest wavelengths in the EM spectrum, while visible light has a much shorter wavelength. The correct order from longest to shortest is radio waves, microwaves, infrared, and then visible light. This order is fixed because wavelength and frequency are inversely related.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c394fae5-d7eb-42f8-a92e-f13ae0042388",
+  "scraped_at": "2026-04-04T22:29:40.034905",
+  "classified_at": "2026-04-04T22:29:40.034905",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

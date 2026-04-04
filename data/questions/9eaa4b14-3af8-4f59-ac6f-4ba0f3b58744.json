@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement best explains why a needle can pierce skin more easily than a blunt stick, even if both push with the same force?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure concept",
+    "sharp objects",
+    "force distribution"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A needle is heavier than a stick and therefore pushes harder",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A needle has a much smaller contact area, so the same force creates much higher pressure",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A needle moves faster through the air so it has more energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A stick is made of wood which is harder to push through than skin",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) A needle has a much smaller contact area, so the same force creates much higher pressure",
+  "explanation": "Since pressure = force / area, a needle's tiny point concentrates the force over a very small area, creating extremely high pressure. A blunt stick spreads the same force over a larger area, resulting in lower pressure that is not enough to pierce skin.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9eaa4b14-3af8-4f59-ac6f-4ba0f3b58744",
+  "scraped_at": "2026-04-04T22:28:54.974899",
+  "classified_at": "2026-04-04T22:28:54.974899",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Two devices are left running for the same amount of time. Device X has a power rating of 500 W and Device Y has a power rating of 2000 W. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power ratings",
+    "comparing devices",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Device X transfers more energy because it has a lower power rating",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Device Y transfers more energy because it has a higher power rating",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both devices transfer the same amount of energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Device X transfers more energy because power rating does not affect energy transfer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Device Y transfers more energy because it has a higher power rating",
+  "explanation": "A higher power rating means a device transfers energy at a faster rate. Since both devices run for the same time, Device Y with 2000 W transfers four times more energy than Device X with 500 W.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d41b1ff5-a05b-499e-b959-f87ff914811f",
+  "scraped_at": "2026-04-04T22:28:25.980953",
+  "classified_at": "2026-04-04T22:28:25.980953",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

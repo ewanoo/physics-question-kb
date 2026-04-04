@@ -1,0 +1,24 @@
+{
+  "question_text": "A hydraulic system has a small piston with area 2 cm\u00b2 and a large piston with area 40 cm\u00b2. If a force of 500 N is applied to the small piston, what force is produced at the large piston? Assume the pressure is transmitted equally throughout the fluid.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulics",
+    "pressure transmission",
+    "mechanical advantage"
+  ],
+  "options": null,
+  "correct_answer": "10,000 N",
+  "explanation": "In a hydraulic system, pressure is the same throughout the fluid. The pressure at the small piston is 500 N / 2 cm\u00b2 = 250 N/cm\u00b2. At the large piston, this same pressure acts on 40 cm\u00b2, giving a force of 250 \u00d7 40 = 10,000 N. This demonstrates how hydraulics can multiply force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e097af7b-7f59-4f74-bb3d-798e289a6478",
+  "scraped_at": "2026-04-04T22:28:54.974899",
+  "classified_at": "2026-04-04T22:28:54.974899",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

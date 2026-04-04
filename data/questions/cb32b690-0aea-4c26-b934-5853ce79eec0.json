@@ -1,0 +1,46 @@
+{
+  "question_text": "A student compares two scenarios: Scenario 1 has oxygen gas at 25\u00b0C in a 2-litre container at 101 kPa. Scenario 2 has the same oxygen gas at 75\u00b0C in a 1-litre container. Using the particle model and kinetic theory, which scenario has the higher pressure? Show your reasoning by considering both the effect of temperature on particle speed and the effect of volume on particle density.",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "gas pressure",
+    "particle model",
+    "temperature",
+    "density"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Scenario 1, because lower temperature means particles move slower and create less pressure",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Scenario 2, because higher temperature increases particle speed and smaller volume increases particle density, both increasing pressure",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both scenarios have equal pressure because the temperature increase cancels out the volume decrease",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Scenario 1, because a larger volume means particles are more spread out and collide more frequently with the walls",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Scenario 2, because higher temperature increases particle speed and smaller volume increases particle density, both increasing pressure",
+  "explanation": "Scenario 2 has two factors that increase pressure: heating particles from 25\u00b0C to 75\u00b0C makes them move faster (more forceful collisions), and halving the volume from 2 litres to 1 litre doubles the particle density (more frequent collisions). Both effects work together to significantly increase pressure in Scenario 2.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cb32b690-0aea-4c26-b934-5853ce79eec0",
+  "scraped_at": "2026-04-04T22:29:19.379561",
+  "classified_at": "2026-04-04T22:29:19.379561",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

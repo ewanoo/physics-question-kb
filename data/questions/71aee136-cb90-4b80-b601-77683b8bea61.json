@@ -1,0 +1,25 @@
+{
+  "question_text": "A rectangular steel block measuring 0.5 m \u00d7 0.2 m \u00d7 0.1 m is placed on a horizontal surface. The block has a mass of 40 kg. Calculate the pressure exerted by the block when it is resting on its largest face, then on its smallest face. What is the ratio of these two pressures?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure calculation",
+    "surface area",
+    "multi-step",
+    "ratio"
+  ],
+  "options": null,
+  "correct_answer": "Largest face pressure = 3920 Pa, smallest face pressure = 19600 Pa, ratio = 1:5",
+  "explanation": "First calculate the weight: 40 kg \u00d7 9.8 m/s\u00b2 = 392 N. Largest face area = 0.5 \u00d7 0.2 = 0.1 m\u00b2, so pressure = 392 \u00f7 0.1 = 3920 Pa. Smallest face area = 0.2 \u00d7 0.1 = 0.02 m\u00b2, so pressure = 392 \u00f7 0.02 = 19600 Pa. The ratio is 3920:19600 = 1:5.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "71aee136-cb90-4b80-b601-77683b8bea61",
+  "scraped_at": "2026-04-04T22:29:03.214154",
+  "classified_at": "2026-04-04T22:29:03.214154",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

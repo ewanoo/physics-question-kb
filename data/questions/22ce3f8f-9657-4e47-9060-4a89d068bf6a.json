@@ -1,0 +1,46 @@
+{
+  "question_text": "Which statement correctly compares a joule and a watt?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "joule",
+    "watt",
+    "definitions",
+    "units"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A joule is a unit of power and a watt is a unit of energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A joule is a unit of energy and a watt is a unit of power",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A joule and a watt are both units of energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A joule and a watt are both units of power",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) A joule is a unit of energy and a watt is a unit of power",
+  "explanation": "A joule (J) measures the amount of energy transferred, while a watt (W) measures the rate at which energy is transferred, which is power. One watt equals one joule per second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "22ce3f8f-9657-4e47-9060-4a89d068bf6a",
+  "scraped_at": "2026-04-04T22:28:25.980953",
+  "classified_at": "2026-04-04T22:28:25.980953",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "Two scenarios show a claw hammer removing a nail from a wooden plank. In scenario A, the nail is 5 cm from the pivot point of the hammer head. In scenario B, the same nail is 10 cm from the pivot point. The person applies the same force in both cases. Which statement best explains why scenario B is more effective?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "lever",
+    "real-life application",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The nail experiences twice the force in scenario B because it is twice as far from the pivot",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The moment (turning effect) is doubled in scenario B because the distance from the pivot is doubled, making it easier to lever the nail out",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Scenario B is more effective because the person's hand is further from the pivot, so less effort is needed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both scenarios have the same effectiveness because the force applied is identical in each case",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The moment (turning effect) is doubled in scenario B because the distance from the pivot is doubled, making it easier to lever the nail out",
+  "explanation": "Moment = force \u00d7 perpendicular distance from pivot. When distance doubles and force stays the same, the moment doubles, producing a greater turning effect that makes removing the nail easier. This demonstrates how levers become more effective with greater distance from the pivot.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2e65b9ee-46a4-4b7a-bbfb-fe75e54484ed",
+  "scraped_at": "2026-04-04T22:28:48.885939",
+  "classified_at": "2026-04-04T22:28:48.885939",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

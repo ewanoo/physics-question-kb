@@ -1,0 +1,25 @@
+{
+  "question_text": "A uniform plank is 4 m long and weighs 200 N. It is supported by a pivot placed 1.5 m from one end. A 500 N load is placed on the short end (0.5 m from the pivot). Calculate whether the plank will balance, tip down on the load side, or tip down on the other side. Show your working and state which way it tips and by how much (if unbalanced).",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "equilibrium",
+    "turning effect",
+    "multi-step problem"
+  ],
+  "options": null,
+  "correct_answer": "The plank tips down on the load side. Clockwise moment (load side): 500 \u00d7 0.5 = 250 Nm. Anticlockwise moment (other side): (200 \u00d7 1) = 200 Nm (plank's weight acts at its centre, 1 m from pivot). Since 250 Nm > 200 Nm, the load side tips down with a net unbalanced moment of 50 Nm.",
+  "explanation": "Calculate moments on each side of the pivot separately, remembering that the plank's weight acts at its centre of mass. Compare total clockwise and anticlockwise moments; the side with the larger moment tips downward. This is a realistic problem showing that objects don't always balance just because they have a pivot.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "01a82d1f-1d63-481c-92b4-e4e54931b201",
+  "scraped_at": "2026-04-04T22:28:48.885939",
+  "classified_at": "2026-04-04T22:28:48.885939",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "During a thunderstorm, a lightning strike transfers 25 coulombs of charge from a cloud to the ground through a building. A lightning rod is installed which provides a safe path for the charge to flow. If the charge flows through the lightning rod in 0.0002 seconds instead of striking the building directly, calculate the current flowing through the rod. Show your working and explain why a lightning rod with a large conductor (thick metal rod) is safer than a thin one.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "lightning protection",
+    "current calculation",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "Current = Charge \u00f7 Time = 25 \u00f7 0.0002 = 125,000 A (or 125 kA). A thick conductor is safer because it has lower resistance, so less heat is generated and the conductor is less likely to melt or cause a fire in the building, whereas a thin rod would have higher resistance and could overheat.",
+  "explanation": "Using I = Q \u00f7 t, the current is 125,000 amperes. A thick lightning rod is safer because according to the relationship P = I\u00b2R, even though the current is very large, a thick conductor has much lower resistance, so less electrical power is wasted as heat. A thin rod would have higher resistance and generate dangerous levels of heat that could ignite the building.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bbd3c1ae-2d11-423e-bd48-eb835d60af1e",
+  "scraped_at": "2026-04-04T22:28:19.480393",
+  "classified_at": "2026-04-04T22:28:19.480393",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

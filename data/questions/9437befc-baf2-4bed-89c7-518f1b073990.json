@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement best explains why an astronaut in orbit around Earth experiences weightlessness?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weightlessness",
+    "orbiting",
+    "gravity in space"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "There is no gravitational force acting on the astronaut in orbit",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The astronaut and spacecraft are both falling towards Earth at the same rate, so there is no normal force pushing on the astronaut",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The astronaut is so far from Earth that gravity becomes zero",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The spacecraft's engines push upwards to cancel out gravity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The astronaut and spacecraft are both falling towards Earth at the same rate, so there is no normal force pushing on the astronaut",
+  "explanation": "Weightlessness in orbit occurs because both the astronaut and spacecraft are in free fall towards Earth, orbiting at the same speed. Since there is no surface pushing up on the astronaut, they feel weightless even though gravity is still acting on them. Gravity is still present and is what keeps them in orbit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9437befc-baf2-4bed-89c7-518f1b073990",
+  "scraped_at": "2026-04-04T22:30:00.643398",
+  "classified_at": "2026-04-04T22:30:00.643398",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

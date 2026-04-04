@@ -1,0 +1,24 @@
+{
+  "question_text": "Two circuits are set up. Circuit A has three 6 \u03a9 resistors in series connected to a 12 V power supply. Circuit B has three 6 \u03a9 resistors in parallel connected to the same 12 V power supply. Calculate the total current drawn from the power supply in each circuit and explain which circuit draws more current and why.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series_parallel_circuits",
+    "resistance_calculations",
+    "current"
+  ],
+  "options": null,
+  "correct_answer": "Circuit A: Total resistance = 18 \u03a9, Current = 0.67 A. Circuit B: Total resistance = 2 \u03a9, Current = 6 A. Circuit B draws more current because parallel resistors have a lower total resistance than series resistors.",
+  "explanation": "In series, resistances add (6 + 6 + 6 = 18 \u03a9), so current = V/R = 12/18 = 0.67 A. In parallel, 1/R_total = 1/6 + 1/6 + 1/6, giving R_total = 2 \u03a9, so current = 12/2 = 6 A. The parallel circuit draws more current because the total resistance is lower.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c97313d7-b4cb-4ac0-aacb-5bdbbe889f19",
+  "scraped_at": "2026-04-04T22:28:03.201728",
+  "classified_at": "2026-04-04T22:28:03.201728",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

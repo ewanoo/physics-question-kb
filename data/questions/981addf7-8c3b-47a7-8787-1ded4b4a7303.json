@@ -1,0 +1,25 @@
+{
+  "question_text": "A sealed container holds nitrogen gas at room temperature (20\u00b0C). The container is then heated to 60\u00b0C. Using the particle model, explain why the pressure inside the container increases, and calculate the pressure change if the initial pressure was 100 kPa. Assume the volume stays constant and the temperature change is proportional to pressure change.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "gas pressure",
+    "particle model",
+    "temperature",
+    "particle speed"
+  ],
+  "options": null,
+  "correct_answer": "The pressure increases because heating makes particles move faster, so they collide with the container walls more frequently and with greater force. Using Gay-Lussac's Law (P1/T1 = P2/T2), convert to Kelvin: 293 K \u2192 333 K. Pressure change = 100 \u00d7 (333/293) = 114 kPa, an increase of 14 kPa.",
+  "explanation": "When temperature increases, particles gain kinetic energy and move faster. Faster particles collide more often and harder with the walls, increasing pressure. Using the relationship P/T = constant (at fixed volume), we convert temperatures to Kelvin and calculate the new pressure proportionally.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "981addf7-8c3b-47a7-8787-1ded4b4a7303",
+  "scraped_at": "2026-04-04T22:29:19.379561",
+  "classified_at": "2026-04-04T22:29:19.379561",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

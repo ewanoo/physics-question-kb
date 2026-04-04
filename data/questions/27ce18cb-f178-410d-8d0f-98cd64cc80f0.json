@@ -1,0 +1,45 @@
+{
+  "question_text": "A TV has a power rating of 150 W and is left on for 8 hours per day. Electricity costs 25p per kilowatt-hour. Which of the following is closest to the daily cost of running the TV?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy cost",
+    "real-world application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "15p",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "30p",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "45p",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "60p",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) 30p",
+  "explanation": "First convert power to kilowatts: 150 W = 0.15 kW. Then calculate energy: E = 0.15 kW \u00d7 8 hours = 1.2 kWh per day. Finally, calculate cost: 1.2 kWh \u00d7 25p per kWh = 30p. This is a practical application showing why it matters to switch devices off.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "27ce18cb-f178-410d-8d0f-98cd64cc80f0",
+  "scraped_at": "2026-04-04T22:28:33.791893",
+  "classified_at": "2026-04-04T22:28:33.791893",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "Jupiter takes approximately 12 Earth years to orbit the Sun, while Mercury takes only 0.24 Earth years. What does this tell us about the distance of Jupiter from the Sun compared to Mercury?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital_period",
+    "distance_from_sun",
+    "kepler_laws"
+  ],
+  "options": null,
+  "correct_answer": "Jupiter is much further from the Sun than Mercury. Planets that are further from the Sun take longer to orbit it because they have to travel a greater distance.",
+  "explanation": "A planet's orbital period (time to orbit the Sun) increases with its distance from the Sun. Jupiter's much longer orbital period of 12 years compared to Mercury's 0.24 years shows that Jupiter must be much further away and travels a much greater distance in its orbit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d6fe574d-9917-49a9-8f98-7d2e2387333b",
+  "scraped_at": "2026-04-04T22:29:24.454354",
+  "classified_at": "2026-04-04T22:29:24.454354",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

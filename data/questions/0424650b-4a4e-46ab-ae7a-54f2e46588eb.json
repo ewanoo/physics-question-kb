@@ -1,0 +1,24 @@
+{
+  "question_text": "A microwave oven heats food using electromagnetic radiation with a frequency of 2.45 \u00d7 10^9 Hz. Calculate the wavelength of the microwaves used. (Use the equation: wave speed = frequency \u00d7 wavelength. The speed of all electromagnetic waves is 3 \u00d7 10^8 m/s)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "microwaves",
+    "calculation",
+    "wave equation"
+  ],
+  "options": null,
+  "correct_answer": "0.122 m or 12.2 cm",
+  "explanation": "Using the wave equation rearranged as wavelength = wave speed \u00f7 frequency, we get wavelength = (3 \u00d7 10^8) \u00f7 (2.45 \u00d7 10^9) = 0.122 m. This wavelength is typical for microwave ovens and is absorbed well by water molecules in food.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0424650b-4a4e-46ab-ae7a-54f2e46588eb",
+  "scraped_at": "2026-04-04T22:29:40.034905",
+  "classified_at": "2026-04-04T22:29:40.034905",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

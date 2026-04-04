@@ -1,0 +1,24 @@
+{
+  "question_text": "A light bulb has a resistance of 24 ohms. What voltage must be applied across the light bulb to produce a current of 0.25 A through it?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "voltage calculation",
+    "V=IR"
+  ],
+  "options": null,
+  "correct_answer": "6 V",
+  "explanation": "Using Ohm's law V = IR, we substitute the given values: V = 0.25 A \u00d7 24 ohms = 6 V. Therefore, a voltage of 6 volts must be applied across the light bulb to produce the required current.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "39d5c531-4601-42c5-b417-98ca898cf832",
+  "scraped_at": "2026-04-04T22:27:54.226021",
+  "classified_at": "2026-04-04T22:27:54.226021",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

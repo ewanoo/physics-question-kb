@@ -1,0 +1,25 @@
+{
+  "question_text": "A balloon is rubbed with a wool cloth and becomes negatively charged with 8 million excess electrons. How many coulombs of charge does the balloon have? (The charge of one electron is 1.6 \u00d7 10^-19 coulombs.)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "static charge",
+    "coulombs",
+    "electrons",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "1.28 \u00d7 10^-12 coulombs or 1.28 picoulombs",
+  "explanation": "To find the total charge, multiply the number of electrons by the charge per electron: 8 \u00d7 10^6 \u00d7 1.6 \u00d7 10^-19 = 12.8 \u00d7 10^-13 = 1.28 \u00d7 10^-12 coulombs. This shows how even millions of electrons only produce a tiny amount of charge.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3b143894-259e-4379-8617-c31fe29f33a7",
+  "scraped_at": "2026-04-04T22:28:09.564388",
+  "classified_at": "2026-04-04T22:28:09.564388",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

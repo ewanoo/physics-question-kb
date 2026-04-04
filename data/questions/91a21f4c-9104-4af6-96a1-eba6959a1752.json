@@ -1,0 +1,46 @@
+{
+  "question_text": "Two identical cylindrical containers are filled with water to the same depth of 0.8 m. Container A has a cross-sectional area of 0.5 m\u00b2 and is sealed at the top with a tight-fitting lid. Container B is open to the atmosphere. Both containers are at sea level where atmospheric pressure is 101,325 Pa. Which statement correctly compares the pressure at the bottom of each container?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "atmospheric pressure",
+    "fluid pressure",
+    "comparison",
+    "evaluation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Container A has higher pressure at the bottom because the sealed lid adds extra pressure to the water.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Container B has higher pressure at the bottom because atmospheric pressure acts on the open surface.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both containers have identical pressure at the bottom because water depth is the same.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Container A has lower pressure because the sealed lid prevents atmospheric pressure from acting on the water.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Container B has higher pressure at the bottom because atmospheric pressure acts on the open surface.",
+  "explanation": "In container B, the pressure at the bottom is atmospheric pressure plus the water pressure from the column. In container A, once sealed, only the water column pressure contributes (the trapped air above provides negligible additional pressure compared to atmospheric pressure). Therefore, container B experiences greater total pressure at the bottom.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "91a21f4c-9104-4af6-96a1-eba6959a1752",
+  "scraped_at": "2026-04-04T22:29:03.214154",
+  "classified_at": "2026-04-04T22:29:03.214154",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

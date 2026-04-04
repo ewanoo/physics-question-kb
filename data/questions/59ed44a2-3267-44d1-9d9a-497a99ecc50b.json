@@ -1,0 +1,44 @@
+{
+  "question_text": "Which of the following correctly ranks these planets by their distance from the Sun, starting with the closest?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "planet_order",
+    "distance_from_sun"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Venus, Earth, Mars, Jupiter",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Mercury, Earth, Venus, Mars",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Earth, Venus, Mercury, Mars",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mars, Jupiter, Saturn, Venus",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Venus, Earth, Mars, Jupiter",
+  "explanation": "The correct order of planets from the Sun is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Option A shows Venus, Earth, Mars, and Jupiter in the correct order relative to each other, even though Mercury is missing from the list.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "59ed44a2-3267-44d1-9d9a-497a99ecc50b",
+  "scraped_at": "2026-04-04T22:29:24.454354",
+  "classified_at": "2026-04-04T22:29:24.454354",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

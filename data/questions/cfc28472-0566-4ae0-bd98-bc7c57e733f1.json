@@ -1,0 +1,25 @@
+{
+  "question_text": "Two different communication systems are being compared. System A uses microwaves with a frequency of 2.4 GHz to transmit data wirelessly (like WiFi). System B uses radio waves with a frequency of 100 MHz for long-distance broadcasting. Which system has a longer wavelength, and explain why microwave ovens can heat food while radio waves cannot, despite both being non-ionising radiation.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "wavelength frequency relationship",
+    "microwave heating",
+    "non-ionising radiation"
+  ],
+  "options": null,
+  "correct_answer": "System B (radio waves) has a longer wavelength because frequency and wavelength are inversely related. Microwaves heat food because their frequency matches the natural vibration frequency of water molecules in food, causing them to vibrate rapidly and generate heat. Radio waves have too low a frequency to cause this resonance effect.",
+  "explanation": "Using the wave equation (wave speed = frequency \u00d7 wavelength), the 100 MHz radio waves have a much longer wavelength than 2.4 GHz microwaves. Microwave ovens work by resonance: the microwave frequency causes polar molecules like water to rotate rapidly, producing friction and heat. Radio waves are far too low in frequency to trigger this molecular vibration effect.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cfc28472-0566-4ae0-bd98-bc7c57e733f1",
+  "scraped_at": "2026-04-04T22:29:48.862871",
+  "classified_at": "2026-04-04T22:29:48.862871",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

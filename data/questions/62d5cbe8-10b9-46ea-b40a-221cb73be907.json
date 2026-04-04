@@ -1,0 +1,24 @@
+{
+  "question_text": "An astronaut has a mass of 80 kg. On Earth, the gravitational field strength is 10 N/kg. Calculate the astronaut's weight on Earth.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "gravitational field strength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "800 N",
+  "explanation": "Weight is calculated using the formula W = m \u00d7 g, where m is mass in kg and g is gravitational field strength in N/kg. So 80 \u00d7 10 = 800 N. This shows how gravitational field strength determines how much an object weighs in a location.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "62d5cbe8-10b9-46ea-b40a-221cb73be907",
+  "scraped_at": "2026-04-04T22:30:00.643398",
+  "classified_at": "2026-04-04T22:30:00.643398",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

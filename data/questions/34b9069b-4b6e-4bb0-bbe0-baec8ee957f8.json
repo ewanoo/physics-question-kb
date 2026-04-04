@@ -1,0 +1,46 @@
+{
+  "question_text": "Two scenarios involve static electricity: Scenario A uses electrostatic paint spraying where droplets are negatively charged and the car body is positively charged. Scenario B involves a student rubbing a balloon on their hair, making both negatively charged. Which statement correctly evaluates why Scenario A is more effective than Scenario B for an industrial application?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "applications",
+    "electrostatic attraction",
+    "evaluation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Scenario A uses opposite charges so paint droplets are attracted and stick to the car body efficiently, while in Scenario B both objects are the same charge so they repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Scenario A uses negative charges which are stronger than positive charges, making it better for industrial use",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Scenario B fails because the balloon and hair both become positively charged, causing repulsion",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Scenario A works because the paint droplets are much smaller than the car body, so they are easier to control with static electricity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Scenario A uses opposite charges so paint droplets are attracted and stick to the car body efficiently, while in Scenario B both objects are the same charge so they repel each other",
+  "explanation": "Industrial electrostatic paint spraying is effective because opposite charges attract, so negatively charged droplets are drawn to the positively charged surface and stick efficiently. In Scenario B, both the balloon and hair gain the same charge during rubbing, causing them to repel each other, which would be ineffective for coating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "34b9069b-4b6e-4bb0-bbe0-baec8ee957f8",
+  "scraped_at": "2026-04-04T22:28:19.480393",
+  "classified_at": "2026-04-04T22:28:19.480393",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

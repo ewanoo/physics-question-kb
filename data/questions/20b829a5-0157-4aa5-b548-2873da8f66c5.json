@@ -1,0 +1,45 @@
+{
+  "question_text": "A student uses a syringe to compress air. When the plunger is pushed so that the volume of air is reduced from 60 cm\u00b3 to 20 cm\u00b3, what happens to the pressure of the gas inside the syringe?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "boyles_law",
+    "syringe",
+    "pressure_volume"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure stays the same because the amount of gas has not changed",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure increases because the volume has been reduced",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pressure decreases because the plunger is moving downwards",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure increases because the temperature of the gas always rises when compressed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The pressure increases because the volume has been reduced",
+  "explanation": "According to Boyle's law, pressure is inversely proportional to volume when temperature is constant. When the volume decreases from 60 cm\u00b3 to 20 cm\u00b3 (reduced to one-third), the pressure increases to three times its original value.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "20b829a5-0157-4aa5-b548-2873da8f66c5",
+  "scraped_at": "2026-04-04T22:29:54.630523",
+  "classified_at": "2026-04-04T22:29:54.630523",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

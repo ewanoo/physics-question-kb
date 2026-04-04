@@ -1,0 +1,25 @@
+{
+  "question_text": "A seesaw is balanced with a 40 kg child sitting 1.5 m from the pivot on the left side. A 60 kg teenager sits on the right side. Calculate the distance from the pivot where the teenager must sit to balance the seesaw, assuming the seesaw's own weight is negligible.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "lever",
+    "equilibrium",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "1.0 m",
+  "explanation": "Using the principle of moments: anticlockwise moment = clockwise moment. The child's moment is 40 \u00d7 1.5 = 60 Nm. For balance, the teenager's moment must equal 60 Nm, so 60 \u00d7 distance = 60, giving distance = 1.0 m. This shows the heavier person must sit closer to the pivot.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "04d9d773-ee38-4d14-851f-cf3071d9b4e3",
+  "scraped_at": "2026-04-04T22:28:48.885939",
+  "classified_at": "2026-04-04T22:28:48.885939",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

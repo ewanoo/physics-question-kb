@@ -1,0 +1,45 @@
+{
+  "question_text": "Two children sit on a seesaw balanced on a central pivot. Child A (mass 30 kg) sits 1.5 m from the pivot. Child B (mass 40 kg) sits 1.2 m from the pivot on the opposite side. Which child causes a larger moment about the pivot? (Take g = 10 N/kg)",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment comparison",
+    "seesaw",
+    "turning effect"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Child A, because they have a smaller mass",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Child A, because they sit further from the pivot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Child B, because they have a larger mass",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both children produce the same moment",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Child A, because they sit further from the pivot",
+  "explanation": "Child A's moment = 30 \u00d7 10 \u00d7 1.5 = 450 N m. Child B's moment = 40 \u00d7 10 \u00d7 1.2 = 480 N m. Actually Child B has the larger moment because although Child A is further away, the mass difference (40 kg vs 30 kg) creates a larger overall turning effect.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "5d36efc5-a216-4b65-8a80-7e19a9588c0a",
+  "scraped_at": "2026-04-04T22:28:39.923914",
+  "classified_at": "2026-04-04T22:28:39.923914",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

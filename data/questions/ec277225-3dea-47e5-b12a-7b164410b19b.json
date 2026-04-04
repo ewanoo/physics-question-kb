@@ -1,0 +1,24 @@
+{
+  "question_text": "A student builds a circuit with a 9 V battery, a switch, and two resistors. Resistor X (3 \u03a9) is in series with Resistor Y (6 \u03a9). The student then measures the current through the circuit and finds it is 1 A. What is the total power delivered by the battery, and how much power is dissipated in Resistor X alone?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "power_calculations",
+    "series_circuits",
+    "P=IV"
+  ],
+  "options": null,
+  "correct_answer": "Total power from battery = 9 W. Power dissipated in Resistor X = 3 W.",
+  "explanation": "Total power P = IV = 9 V \u00d7 1 A = 9 W. The current through Resistor X is 1 A (same as the circuit), so power in X = I\u00b2R = 1\u00b2 \u00d7 3 = 3 W. Alternatively, P = IV where V across X = IR = 1 \u00d7 3 = 3 V, so P = 1 \u00d7 3 = 3 W.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ec277225-3dea-47e5-b12a-7b164410b19b",
+  "scraped_at": "2026-04-04T22:28:03.201728",
+  "classified_at": "2026-04-04T22:28:03.201728",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

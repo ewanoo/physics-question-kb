@@ -1,0 +1,45 @@
+{
+  "question_text": "Mars has a thin atmosphere of mostly carbon dioxide, while Venus has a very thick atmosphere also of carbon dioxide. Despite both planets having atmospheres made of the same gas, the conditions on their surfaces are completely different. Which statement best explains why Venus is much hotter than Mars?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "planetary_atmosphere",
+    "greenhouse_effect",
+    "temperature"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Venus is hotter because it is closer to the Sun, so the thick carbon dioxide atmosphere traps more of the Sun's heat in a stronger greenhouse effect.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Mars is colder because its thin atmosphere cannot support any greenhouse effect at all, while Venus's thick atmosphere creates a small greenhouse effect.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Venus has more carbon dioxide molecules, so the gas itself is heavier and generates more heat through friction in the atmosphere.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The thick atmosphere on Venus reflects all sunlight back to space, but Mars's thin atmosphere allows heat to escape, making Venus appear hotter.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Venus is hotter because it is closer to the Sun, so the thick carbon dioxide atmosphere traps more of the Sun's heat in a stronger greenhouse effect.",
+  "explanation": "Both the proximity to the Sun and the thick atmosphere combine to create an extreme greenhouse effect on Venus. A thick atmosphere traps more infrared radiation, and being closer to the Sun means Venus receives more energy initially, intensifying the heat-trapping effect of its atmosphere compared to Mars.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "aef8aab5-7c2c-44fb-85a4-0ee140d48071",
+  "scraped_at": "2026-04-04T22:29:33.425235",
+  "classified_at": "2026-04-04T22:29:33.425235",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

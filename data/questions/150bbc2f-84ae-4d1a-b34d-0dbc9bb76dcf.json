@@ -1,0 +1,24 @@
+{
+  "question_text": "A pump is used to inflate a bicycle tyre. As air is pumped in, what two factors cause the pressure inside the tyre to increase?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas_pressure",
+    "pumps",
+    "particle_model"
+  ],
+  "options": null,
+  "correct_answer": "More gas particles enter the tyre (increasing the amount of gas) and the volume stays the same (or becomes smaller), so particles collide with the tyre walls more frequently, increasing pressure.",
+  "explanation": "Pressure is caused by gas particles colliding with surfaces. When more gas is pumped in without much change in volume, there are more particles in the same space, leading to more collisions and higher pressure.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "150bbc2f-84ae-4d1a-b34d-0dbc9bb76dcf",
+  "scraped_at": "2026-04-04T22:29:54.630523",
+  "classified_at": "2026-04-04T22:29:54.630523",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

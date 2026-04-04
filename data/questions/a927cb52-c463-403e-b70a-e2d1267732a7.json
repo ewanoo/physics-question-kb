@@ -1,0 +1,24 @@
+{
+  "question_text": "Jupiter's moon Europa has a frozen surface with water ice, while Jupiter's moon Io has active volcanoes and almost no water ice. Both moons orbit the same planet and receive similar amounts of sunlight. Calculate and explain why the surface temperatures and geological activity are so different between these two moons, considering tidal heating.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "moons",
+    "tidal_heating",
+    "planetary_conditions"
+  ],
+  "options": null,
+  "correct_answer": "Io experiences much stronger tidal heating because it orbits closer to Jupiter, where Jupiter's gravitational pull is stronger and the tidal forces are greater. This tidal heating from being stretched and compressed by Jupiter's gravity generates internal heat through friction, causing volcanic activity. Europa orbits further away, so it experiences weaker tidal forces and less internal heating, allowing its surface to remain frozen with water ice.",
+  "explanation": "This question requires understanding that gravitational force decreases with distance, and that tidal forces depend on both proximity and the mass of the central body. Students must connect this to geological activity and surface conditions to explain why two nearby moons have such different characteristics.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a927cb52-c463-403e-b70a-e2d1267732a7",
+  "scraped_at": "2026-04-04T22:29:33.425235",
+  "classified_at": "2026-04-04T22:29:33.425235",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

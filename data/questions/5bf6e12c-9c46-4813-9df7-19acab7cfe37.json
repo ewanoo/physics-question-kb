@@ -1,0 +1,24 @@
+{
+  "question_text": "Ultraviolet radiation from the Sun can be dangerous to human skin. Explain why ultraviolet radiation is more dangerous than visible light, and name one way people can protect themselves from UV radiation.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "UV radiation",
+    "dangers",
+    "safety"
+  ],
+  "options": null,
+  "correct_answer": "UV radiation has a shorter wavelength and higher frequency than visible light, which means it carries more energy and can damage skin cells and cause sunburn or skin cancer. Protection methods include wearing sunscreen (SPF), wearing protective clothing, or limiting time in direct sunlight during peak hours.",
+  "explanation": "Ultraviolet waves have higher frequency and shorter wavelength than visible light, so they carry more energy and can ionise atoms in skin cells, causing damage. Any reasonable protection method such as sunscreen, hats, long sleeves, or staying in shade would be acceptable.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5bf6e12c-9c46-4813-9df7-19acab7cfe37",
+  "scraped_at": "2026-04-04T22:29:40.034905",
+  "classified_at": "2026-04-04T22:29:40.034905",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

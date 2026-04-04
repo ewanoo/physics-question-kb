@@ -1,0 +1,45 @@
+{
+  "question_text": "A spark occurs when you touch a metal object after walking across a carpeted floor. Which of the following best explains why earthing a charged object prevents sparks?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "earthing",
+    "sparks",
+    "discharge"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earthing allows the static charge to flow safely to the ground instead of building up on the object",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Earthing creates an insulator that prevents any charge from moving",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Earthing removes all electrons from the object permanently",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Earthing reduces the temperature of the charged object so sparks cannot form",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Earthing allows the static charge to flow safely to the ground instead of building up on the object",
+  "explanation": "Earthing provides a safe path for built-up static charge to escape to the ground gradually, preventing the sudden discharge that causes sparks. Without earthing, charge builds up until it suddenly jumps across the gap, creating a spark.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5c26f377-97ce-4c30-8499-87b236663e5a",
+  "scraped_at": "2026-04-04T22:28:09.564388",
+  "classified_at": "2026-04-04T22:28:09.564388",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

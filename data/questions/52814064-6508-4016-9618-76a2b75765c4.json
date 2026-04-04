@@ -1,0 +1,24 @@
+{
+  "question_text": "A sharp knife blade has an area of 0.5 cm\u00b2 and exerts a force of 50 N on a tomato. Calculate the pressure exerted by the knife blade. Give your answer in N/cm\u00b2.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure calculation",
+    "P=F/A",
+    "sharp objects"
+  ],
+  "options": null,
+  "correct_answer": "100 N/cm\u00b2",
+  "explanation": "Using the formula P = F/A, we divide the force (50 N) by the area (0.5 cm\u00b2) to get 100 N/cm\u00b2. This shows why sharp knives are effective: the small contact area creates high pressure, allowing the blade to cut through easily.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "52814064-6508-4016-9618-76a2b75765c4",
+  "scraped_at": "2026-04-04T22:28:54.974899",
+  "classified_at": "2026-04-04T22:28:54.974899",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

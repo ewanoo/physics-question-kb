@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following statements correctly describes the relationship between voltage, current, and resistance in a circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "relationships",
+    "circuit properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "If voltage increases and resistance stays the same, the current will decrease.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "If voltage increases and resistance stays the same, the current will increase.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Voltage and current are not related to each other in a circuit.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "If resistance increases, the current will increase even if voltage stays the same.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) If voltage increases and resistance stays the same, the current will increase.",
+  "explanation": "Ohm's law (V = IR) shows that current is directly proportional to voltage when resistance is constant. So if voltage increases, current must increase to maintain the relationship. Option A is the opposite of what happens, option C ignores Ohm's law, and option D shows an inverse relationship that is incorrect.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8777ad0c-fed4-4809-a3c6-da331854df22",
+  "scraped_at": "2026-04-04T22:27:54.226021",
+  "classified_at": "2026-04-04T22:27:54.226021",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

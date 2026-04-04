@@ -1,0 +1,24 @@
+{
+  "question_text": "The diagram shows particle arrangements in three states of matter. Which arrangement represents a solid, and why do particles in a solid have less freedom to move compared to particles in a gas?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "particle arrangement",
+    "particle forces"
+  ],
+  "options": null,
+  "correct_answer": "A solid has particles arranged in a regular, fixed pattern (tightly packed in rows). Particles in a solid have less freedom to move because they are held in fixed positions by very strong forces of attraction between them. They can only vibrate in place, unlike gas particles which move freely.",
+  "explanation": "In a solid, particles are held in a rigid structure by strong intermolecular forces, so they can only vibrate around fixed positions. In a gas, particles are far apart with very weak forces between them, so they move freely in all directions. This difference in particle arrangement and forces explains why solids are rigid while gases can spread out.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fa1edf52-be2e-4452-baa0-863b499a524e",
+  "scraped_at": "2026-04-04T22:29:10.758689",
+  "classified_at": "2026-04-04T22:29:10.758689",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

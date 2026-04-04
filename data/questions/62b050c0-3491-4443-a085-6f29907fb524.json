@@ -1,0 +1,45 @@
+{
+  "question_text": "A student observes smoke particles moving randomly under a microscope. Which statement best explains why the smoke particles move in this jerky, random way?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "Brownian motion",
+    "particle behaviour",
+    "gases"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The smoke particles are being hit by invisible air molecules moving in random directions",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The smoke particles are repelled by the glass slide beneath them",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The microscope lens is vibrating and causing the particles to move",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The smoke particles are evaporating and leaving the slide",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) The smoke particles are being hit by invisible air molecules moving in random directions",
+  "explanation": "This is Brownian motion. The visible smoke particles are constantly bombarded by fast-moving, invisible air molecules from all directions, which causes them to move in a random zigzag path. This proves that particles in gases are in constant motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "62b050c0-3491-4443-a085-6f29907fb524",
+  "scraped_at": "2026-04-04T22:29:10.758689",
+  "classified_at": "2026-04-04T22:29:10.758689",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

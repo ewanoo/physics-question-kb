@@ -1,0 +1,25 @@
+{
+  "question_text": "Two identical containers, A and B, both contain helium gas at the same temperature. Container A has a mass of 0.8 g of helium, while container B has a mass of 1.6 g of helium. Using the particle model, explain why the pressure in container B is different from container A, and determine the pressure ratio.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "density",
+    "particle model",
+    "gas pressure",
+    "mass"
+  ],
+  "options": null,
+  "correct_answer": "Container B has twice the mass of helium in the same volume, so it has twice the number of particles. More particles mean more frequent collisions with the container walls, so pressure in B is twice that of A. The pressure ratio is B:A = 2:1.",
+  "explanation": "Doubling the mass of gas in the same container means twice as many particles in the same space. Since pressure depends on collision frequency and the particles have the same kinetic energy (same temperature), container B experiences twice as many collisions per second, resulting in double the pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "99a71746-757a-47ce-98ef-23d3917c92f5",
+  "scraped_at": "2026-04-04T22:29:19.379561",
+  "classified_at": "2026-04-04T22:29:19.379561",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Two identical 12 V light bulbs, each with a resistance of 24 \u03a9, are connected to a 12 V power supply. In Setup 1, both bulbs are connected in series. In Setup 2, both bulbs are connected in parallel. Which statement correctly compares the brightness of the bulbs and the total power consumed in each setup?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series_parallel_circuits",
+    "power_calculations",
+    "brightness"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Setup 1 bulbs are brighter and consume more total power than Setup 2.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Setup 2 bulbs are brighter and consume more total power than Setup 1.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Setup 1 bulbs are brighter because the voltage is higher across each bulb in series.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both setups produce equal brightness and consume equal power because the bulbs are identical.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Setup 2 bulbs are brighter and consume more total power than Setup 1.",
+  "explanation": "In Setup 1 (series): R_total = 48 \u03a9, current = 12/48 = 0.25 A, total power = 12 \u00d7 0.25 = 3 W. In Setup 2 (parallel): R_total = 12 \u03a9, current = 12/12 = 1 A, total power = 12 \u00d7 1 = 12 W. Brightness depends on power; each parallel bulb gets 6 W, while each series bulb gets only 1.5 W, so parallel bulbs are much brighter.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "967730e0-c970-41d1-9c27-3a7459eca732",
+  "scraped_at": "2026-04-04T22:28:03.201728",
+  "classified_at": "2026-04-04T22:28:03.201728",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A perfume bottle is opened at one end of a room. After 2 minutes, people at the other end of the room can smell the perfume. Use the particle model to explain how the perfume smell spreads across the room.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "diffusion",
+    "particle model",
+    "gases"
+  ],
+  "options": null,
+  "correct_answer": "Perfume particles evaporate into gas particles. These gas particles move randomly in all directions and spread throughout the room. This process is called diffusion. The particles collide with air molecules and gradually mix with the air, carrying the smell across the room.",
+  "explanation": "Diffusion is the spreading of particles from an area of high concentration to an area of low concentration due to random particle motion. Perfume molecules move fastest in the gas state, allowing them to spread quickly through the air in the room.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4128451f-4ae9-45e5-963c-11db5c7a52af",
+  "scraped_at": "2026-04-04T22:29:10.758689",
+  "classified_at": "2026-04-04T22:29:10.758689",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

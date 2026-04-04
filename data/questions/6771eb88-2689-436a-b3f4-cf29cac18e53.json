@@ -1,0 +1,24 @@
+{
+  "question_text": "A uniform beam is balanced on a pivot (fulcrum) at its centre. A weight of 20 N is placed 0.5 m to the left of the pivot. For the beam to balance, where should a 40 N weight be placed on the right side of the pivot?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "principle of moments",
+    "balancing beam",
+    "lever"
+  ],
+  "options": null,
+  "correct_answer": "0.25 m",
+  "explanation": "For a balanced beam, the clockwise moment must equal the anticlockwise moment (principle of moments). The left moment is 20 N \u00d7 0.5 m = 10 N m. For the right side: 40 N \u00d7 d = 10 N m, so d = 10 \u00f7 40 = 0.25 m from the pivot.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6771eb88-2689-436a-b3f4-cf29cac18e53",
+  "scraped_at": "2026-04-04T22:28:39.923914",
+  "classified_at": "2026-04-04T22:28:39.923914",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

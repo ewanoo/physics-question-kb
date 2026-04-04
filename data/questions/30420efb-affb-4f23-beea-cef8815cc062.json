@@ -1,0 +1,24 @@
+{
+  "question_text": "A student rubs a polythene rod with a cloth and then holds it near some small pieces of paper. The paper pieces jump towards the rod. Explain why this happens in terms of static charge and electric fields.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "static charge",
+    "electric field",
+    "attraction"
+  ],
+  "options": null,
+  "correct_answer": "Rubbing the rod transfers electrons to it, making it negatively charged. The electric field around the charged rod induces a positive charge on the near side of the paper pieces, so they are attracted towards the rod.",
+  "explanation": "When you rub polythene, electrons transfer to it making it negatively charged. This creates an electric field that polarises the paper pieces, pulling them towards the rod. This is how static charge attraction works.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "30420efb-affb-4f23-beea-cef8815cc062",
+  "scraped_at": "2026-04-04T22:28:09.564388",
+  "classified_at": "2026-04-04T22:28:09.564388",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

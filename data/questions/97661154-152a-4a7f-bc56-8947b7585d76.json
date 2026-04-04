@@ -1,0 +1,45 @@
+{
+  "question_text": "Three types of electromagnetic radiation are listed below with their wavelengths. Which correctly shows them in order from shortest to longest wavelength, and therefore from most to least energetic?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "wavelength ordering",
+    "energy relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ultraviolet (100 nm), X-rays (0.1 nm), Gamma rays (0.001 nm)",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gamma rays (0.001 nm), X-rays (0.1 nm), Ultraviolet (100 nm)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "X-rays (0.1 nm), Ultraviolet (100 nm), Gamma rays (0.001 nm)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ultraviolet (100 nm), Gamma rays (0.001 nm), X-rays (0.1 nm)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Ultraviolet (100 nm), X-rays (0.1 nm), Gamma rays (0.001 nm)",
+  "explanation": "Shorter wavelengths mean higher frequencies and therefore higher energy in the electromagnetic spectrum. Gamma rays have the shortest wavelength (0.001 nm), so they are most energetic; ultraviolet has the longest of these three (100 nm), so it is least energetic. This ordering is crucial for understanding the ionising power and penetration ability of different radiations.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "97661154-152a-4a7f-bc56-8947b7585d76",
+  "scraped_at": "2026-04-04T22:29:48.862871",
+  "classified_at": "2026-04-04T22:29:48.862871",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

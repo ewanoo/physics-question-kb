@@ -1,0 +1,24 @@
+{
+  "question_text": "A student connects a resistor to a power supply and measures a current of 0.5 A flowing through it when the voltage across it is 6 V. Using Ohm's law, calculate the resistance of the resistor.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "resistance calculation",
+    "V=IR"
+  ],
+  "options": null,
+  "correct_answer": "12 ohms",
+  "explanation": "Using Ohm's law V = IR, we can rearrange to find R = V / I. Substituting the values: R = 6 V / 0.5 A = 12 ohms. This is the resistance of the component.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5f6048d6-b811-49bb-be56-9d87731215aa",
+  "scraped_at": "2026-04-04T22:27:54.226021",
+  "classified_at": "2026-04-04T22:27:54.226021",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

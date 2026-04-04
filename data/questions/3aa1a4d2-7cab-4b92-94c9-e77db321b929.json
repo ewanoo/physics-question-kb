@@ -1,0 +1,24 @@
+{
+  "question_text": "A kettle transfers 180,000 joules of energy to heat water in 60 seconds. Calculate the power of the kettle.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "P=E/t",
+    "kettle"
+  ],
+  "options": null,
+  "correct_answer": "3000 W (or 3 kW)",
+  "explanation": "Using the formula P = E \u00f7 t, we divide 180,000 J by 60 s to get 3000 watts. This is equivalent to 3 kilowatts, which is a typical kettle power rating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3aa1a4d2-7cab-4b92-94c9-e77db321b929",
+  "scraped_at": "2026-04-04T22:28:25.980953",
+  "classified_at": "2026-04-04T22:28:25.980953",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

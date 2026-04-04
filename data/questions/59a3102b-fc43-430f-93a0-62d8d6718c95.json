@@ -1,0 +1,25 @@
+{
+  "question_text": "A hospital uses both X-rays and gamma rays for medical imaging and treatment. X-rays are produced by firing electrons at a metal target, while gamma rays are emitted naturally from radioactive sources. Explain why gamma rays are more penetrating than X-rays and suggest one advantage and one disadvantage of using gamma rays for cancer treatment compared to X-rays for diagnosis.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "ionising radiation",
+    "medical applications",
+    "penetration"
+  ],
+  "options": null,
+  "correct_answer": "Gamma rays have shorter wavelengths and higher frequencies than X-rays, so they carry more energy and penetrate deeper into body tissues. Advantage: gamma rays can reach and destroy deep tumours more effectively. Disadvantage: gamma rays are harder to control and may damage healthy tissue around the cancer.",
+  "explanation": "Gamma rays are more energetic than X-rays due to their shorter wavelength, allowing them to pass through more material. While this makes them useful for treating deep cancers, it also makes them riskier because they're harder to direct precisely at just the tumour, potentially harming nearby healthy cells.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "59a3102b-fc43-430f-93a0-62d8d6718c95",
+  "scraped_at": "2026-04-04T22:29:48.862871",
+  "classified_at": "2026-04-04T22:29:48.862871",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

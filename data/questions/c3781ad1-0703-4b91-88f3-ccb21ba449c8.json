@@ -1,0 +1,25 @@
+{
+  "question_text": "Two devices are used to heat a swimming pool. Device A has a power of 2000 W and runs for 5 hours. Device B has a power of 1500 W and runs for 8 hours. Which device transfers more energy, and by how much? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "comparison",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Device B transfers more energy by 4,000,000 J (or 4 MJ)",
+  "explanation": "Calculate energy for Device A: E = 2000 W \u00d7 (5 \u00d7 3600) s = 36,000,000 J. Calculate energy for Device B: E = 1500 W \u00d7 (8 \u00d7 3600) s = 43,200,000 J. Device B transfers more energy; the difference is 43,200,000 J - 36,000,000 J = 7,200,000 J (or 7.2 MJ). Although Device A has higher power, Device B runs for longer and transfers more total energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c3781ad1-0703-4b91-88f3-ccb21ba449c8",
+  "scraped_at": "2026-04-04T22:28:33.791893",
+  "classified_at": "2026-04-04T22:28:33.791893",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}
