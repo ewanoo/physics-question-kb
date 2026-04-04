@@ -1,6 +1,6 @@
 {
   "status": "complete",
-  "iterations": 25,
+  "iterations": 36,
   "questions_total": 644,
   "started_at": "2026-04-04T19:05:25.119731",
   "last_action": {
@@ -14,7 +14,7 @@
     ],
     "reason": "'forces.speed' has 0 questions (need 5+) | Need more medium questions (25/50)"
   },
-  "last_iteration_at": "2026-04-04T20:05:44.402259",
+  "last_iteration_at": "2026-04-04T20:18:15.677474",
   "final_total": 119,
   "is_complete": false
 }
