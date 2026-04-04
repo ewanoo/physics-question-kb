@@ -1,0 +1,17 @@
+{
+  "question_text": "A total solar eclipse can only be observed from a narrow path on Earth's surface, whereas a lunar eclipse can be seen from anywhere on Earth's night side. Using your knowledge of the sizes and distances of the Sun, Moon, and Earth, explain why this difference exists.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "eclipses",
+    "shadow geometry",
+    "spatial reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The Moon's shadow cone on Earth during a solar eclipse is narrow because the Moon is small and relatively close, creating a small shadow area. Earth's shadow is much larger, so the Moon passes completely through it during a lunar eclipse, allowing observers across the entire night side to see the eclipse.",
+  "explanation": "The Moon casts a small, narrow shadow on Earth during a solar eclipse because it must move between the Sun and Earth at the right angle and location. However, Earth casts a much larger shadow into space, so the Moon can be completely inside it, making a lunar eclipse visible from a much larger area of Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "42610822-f6c4-4f5c-9705-f25c49c94a95"
+}

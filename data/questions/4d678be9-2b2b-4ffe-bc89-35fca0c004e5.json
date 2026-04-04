@@ -1,0 +1,38 @@
+{
+  "question_text": "A cyan filter allows certain colours of light to pass through. Which of these colours will definitely NOT pass through a cyan filter?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "absorption",
+    "cyan"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Green light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Blue light",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Red light",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "White light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Cyan is made from green and blue light. A cyan filter allows green and blue light to pass through but absorbs red light, so red light will not pass through.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4d678be9-2b2b-4ffe-bc89-35fca0c004e5"
+}

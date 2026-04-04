@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best explains why a parallel circuit allows current to continue flowing to some bulbs even if one bulb breaks, but a series circuit does not?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series vs parallel",
+    "current paths",
+    "practical applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Parallel circuits have lower resistance, so electricity is harder to stop",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "In parallel circuits, current has alternative paths to flow through, so breaking one component doesn't stop current reaching others",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Series circuits have higher voltage, which is why they break more easily",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Parallel circuits store more energy, so current can bypass broken components",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a parallel circuit, each component is on its own branch with its own complete path from the power supply. If one branch breaks, current simply flows through the other branches. In a series circuit, there is only one path, so breaking one component stops all current flow.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f3ba1dde-2b06-466a-8dfe-fa58efda0e5c"
+}

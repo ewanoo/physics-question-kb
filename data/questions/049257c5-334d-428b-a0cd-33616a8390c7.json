@@ -1,0 +1,17 @@
+{
+  "question_text": "The distance from Earth to the Moon is approximately 384,400 km. The distance from Earth to the Sun is approximately 149,600,000 km. The Moon's diameter is about 3,474 km and the Sun's diameter is about 1,391,000 km. Calculate why the Sun and Moon appear to be almost the same size in our sky, even though the Sun is much larger and much farther away.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "distances",
+    "angular size",
+    "proportions"
+  ],
+  "options": null,
+  "correct_answer": "The Sun is about 389 times farther away than the Moon, and about 400 times larger in diameter. These proportions nearly cancel out, making their angular sizes in the sky almost identical (about 0.5 degrees each).",
+  "explanation": "Angular size depends on both the actual size of an object and how far away it is. Even though the Sun is much larger and much farther away than the Moon, the ratio of size to distance is almost the same for both, so they look nearly identical in size from Earth\u2014which is why total solar eclipses perfectly cover the Sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "049257c5-334d-428b-a0cd-33616a8390c7"
+}

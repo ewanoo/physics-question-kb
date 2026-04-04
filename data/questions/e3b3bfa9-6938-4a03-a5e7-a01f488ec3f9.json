@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best describes how particles are arranged in a solid?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "particle arrangement",
+    "solids",
+    "structure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are loosely packed and move freely throughout the solid",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles are tightly packed in a fixed arrangement and vibrate in fixed positions",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles are arranged in layers that can slide over each other",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles have no fixed arrangement and move randomly",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In solids, particles are held tightly together by strong forces in a regular, fixed pattern. Although they vibrate in place, they cannot move freely like particles in liquids or gases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e3b3bfa9-6938-4a03-a5e7-a01f488ec3f9"
+}

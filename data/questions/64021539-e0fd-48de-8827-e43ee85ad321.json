@@ -1,0 +1,17 @@
+{
+  "question_text": "A solar eclipse occurs when the Moon passes directly between the Sun and Earth. A lunar eclipse occurs when Earth is directly between the Sun and Moon. Why don't we experience both types of eclipse every month?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "eclipses",
+    "orbital planes",
+    "spatial reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The Moon's orbit is tilted at about 5 degrees to Earth's orbit around the Sun. Most of the time, the Moon passes above or below Earth's shadow and the Sun's direct line, so the three bodies don't align perfectly enough for eclipses.",
+  "explanation": "Eclipses only happen when the Sun, Earth, and Moon are almost perfectly aligned. Because the Moon's orbital plane is tilted, this alignment is rare\u2014usually the Moon orbits either slightly above or below the Sun-Earth line.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "64021539-e0fd-48de-8827-e43ee85ad321"
+}

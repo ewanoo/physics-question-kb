@@ -1,0 +1,17 @@
+{
+  "question_text": "During a full moon, the Moon appears bright and fully illuminated. During a new moon, the Moon is invisible from Earth. Explain what is happening with sunlight and the Moon's position in both cases, and why these two phases are separated by approximately two weeks.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar phases",
+    "orbital mechanics",
+    "light and shadow"
+  ],
+  "options": null,
+  "correct_answer": "At full moon, Earth is between the Sun and Moon, so the Moon's day-side faces us fully and reflects sunlight. At new moon, the Moon is between Earth and Sun, so its dark side faces us. They are separated by two weeks because the Moon takes about 29.5 days to complete its cycle, and two weeks is half that period.",
+  "explanation": "The lunar cycle depends on the Moon's position relative to both Earth and Sun. As the Moon orbits, the amount of its sunlit side that we can see changes gradually\u2014a full cycle takes about 29.5 days, so opposite phases like full and new moon are roughly two weeks apart.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0d3d8d7b-338e-4de4-a270-95d34a5872d9"
+}

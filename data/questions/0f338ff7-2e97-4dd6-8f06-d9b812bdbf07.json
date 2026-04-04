@@ -1,0 +1,17 @@
+{
+  "question_text": "Describe the difference between transverse and longitudinal waves in terms of particle movement.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "transverse waves",
+    "longitudinal waves",
+    "particle motion"
+  ],
+  "options": null,
+  "correct_answer": "In transverse waves, particles vibrate perpendicular (at right angles) to the direction of wave travel. In longitudinal waves, particles vibrate parallel (in the same direction) as the wave travels.",
+  "explanation": "This is the key difference between the two wave types. Transverse waves look like up-and-down wiggles (like a rope), while longitudinal waves have compressions and rarefactions moving in the direction of travel (like a spring).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0f338ff7-2e97-4dd6-8f06-d9b812bdbf07"
+}

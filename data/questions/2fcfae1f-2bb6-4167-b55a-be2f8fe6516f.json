@@ -1,0 +1,18 @@
+{
+  "question_text": "A container has 2 litres of air at room temperature. If you heat it to twice the absolute temperature, what will happen to the volume if the container is flexible?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "gases",
+    "heating",
+    "volume change",
+    "thermal expansion"
+  ],
+  "options": null,
+  "correct_answer": "4 litres",
+  "explanation": "For a gas at constant pressure, volume is proportional to absolute temperature (Charles's Law). If temperature doubles, volume doubles. Therefore, 2 litres \u00d7 2 = 4 litres. The flexible container expands to accommodate the increased particle motion.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "2fcfae1f-2bb6-4167-b55a-be2f8fe6516f"
+}

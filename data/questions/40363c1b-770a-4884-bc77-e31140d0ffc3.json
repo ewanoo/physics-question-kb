@@ -1,0 +1,18 @@
+{
+  "question_text": "A circuit contains a 4\u03a9 resistor in series with a parallel combination of two 8\u03a9 resistors. A 16V power supply is connected across the entire circuit. Calculate the total current supplied by the power supply.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series and parallel",
+    "total resistance",
+    "complex circuits",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "2A",
+  "explanation": "First, find the parallel resistance: 1/R_p = 1/8 + 1/8 = 2/8, so R_p = 4\u03a9. Then add the series resistor: R_total = 4\u03a9 + 4\u03a9 = 8\u03a9. Finally, use Ohm's law: I = V/R = 16V/8\u03a9 = 2A.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "40363c1b-770a-4884-bc77-e31140d0ffc3"
+}

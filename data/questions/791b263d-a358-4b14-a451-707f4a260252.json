@@ -1,0 +1,17 @@
+{
+  "question_text": "A water wave has a wavelength of 2 meters and a frequency of 5 Hz. Calculate the wave speed.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed",
+    "wavelength",
+    "frequency"
+  ],
+  "options": null,
+  "correct_answer": "10 m/s",
+  "explanation": "Use the equation: wave speed = frequency \u00d7 wavelength. Wave speed = 5 Hz \u00d7 2 m = 10 m/s. This tells us how fast the wave pattern is traveling through the water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "791b263d-a358-4b14-a451-707f4a260252"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A student measures the voltage across a 3\u03a9 resistor in a circuit and finds it to be 9V. What is the resistance of another component in series with this resistor if the total voltage from the power supply is 15V, and the total current in the circuit is 3A?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "Ohm's law",
+    "voltage division",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "2\u03a9",
+  "explanation": "In a series circuit, the total voltage is shared. Voltage across unknown resistor = 15V - 9V = 6V. Using Ohm's law: R = V/I = 6V/3A = 2\u03a9. The unknown resistor must have a resistance of 2\u03a9.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b2638192-39f7-4270-abe0-71427fbc98b1"
+}

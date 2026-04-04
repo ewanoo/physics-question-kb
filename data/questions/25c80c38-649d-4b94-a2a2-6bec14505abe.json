@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why we always see the same face of the Moon from Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal locking",
+    "orbital mechanics",
+    "Moon rotation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate at all",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon's rotation period equals its orbital period around Earth due to tidal forces slowing its rotation over time",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth's gravity is so strong it prevents the Moon from rotating",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon orbits Earth so quickly that we cannot see it rotate",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "This is called tidal locking. Earth's gravity pulls on the Moon more on the side facing Earth, which slowed the Moon's rotation until it matched its orbital period\u2014now both take 27.3 days, so the same face always points at us.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "25c80c38-649d-4b94-a2a2-6bec14505abe"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of an elastic potential energy store?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "springs",
+    "deformation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A moving car",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A stretched rubber band",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A hot cup of tea",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A burning candle",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When a rubber band is stretched, it stores elastic potential energy. When released, this energy is transferred to kinetic energy as the rubber band returns to its original shape.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a7ead840-87ea-45ea-a8d2-652f7834ff23"
+}

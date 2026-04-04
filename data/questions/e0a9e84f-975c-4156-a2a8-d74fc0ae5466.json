@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes the relationship between wavelength and frequency for waves traveling at the same speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "inverse relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "As wavelength increases, frequency increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "As wavelength decreases, frequency decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "As wavelength increases, frequency decreases",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Wavelength and frequency are not related",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since wave speed = frequency \u00d7 wavelength, if wave speed stays constant, then wavelength and frequency are inversely related. When one increases, the other must decrease to keep the product the same.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e0a9e84f-975c-4156-a2a8-d74fc0ae5466"
+}

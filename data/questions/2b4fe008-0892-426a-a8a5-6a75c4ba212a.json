@@ -1,0 +1,17 @@
+{
+  "question_text": "A compressed spring is released and shoots a ball across a table. Calculate the kinetic energy of the ball if its mass is 0.2 kg and it travels at 10 m/s. (KE = \u00bd \u00d7 m \u00d7 v\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "elastic energy transfer",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "10 J (joules)",
+  "explanation": "Kinetic energy is calculated using KE = \u00bd \u00d7 m \u00d7 v\u00b2. Substituting: KE = \u00bd \u00d7 0.2 \u00d7 10\u00b2 = \u00bd \u00d7 0.2 \u00d7 100 = 10 J. This energy came from the elastic potential energy stored in the compressed spring.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2b4fe008-0892-426a-a8a5-6a75c4ba212a"
+}

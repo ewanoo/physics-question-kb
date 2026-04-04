@@ -1,0 +1,38 @@
+{
+  "question_text": "What colour of light is produced when red and green light are mixed using additive colour mixing?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "additive mixing",
+    "secondary colours",
+    "light combination"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Yellow",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Orange",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Brown",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "White",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In additive colour mixing, red light and green light combine to produce yellow light. This is the secondary colour formed from these two primary colours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c03db177-c84f-464a-8dc2-4927549ab6dd"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Calculate the intensity of light that passes through two colour filters placed one after another, if the first filter lets through 60% of light and the second filter lets through 50% of the light that reaches it.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "filters",
+    "light intensity",
+    "percentage calculation"
+  ],
+  "options": null,
+  "correct_answer": "30% (or 0.3 or 30)",
+  "explanation": "The second filter receives 60% of the original light. It then transmits 50% of this amount: 60% \u00d7 50% = 30%. So 30% of the original light passes through both filters.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3fe4864f-5c8a-4654-8c56-63f530f271b5"
+}

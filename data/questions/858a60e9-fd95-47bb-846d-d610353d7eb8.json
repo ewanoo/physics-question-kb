@@ -1,0 +1,18 @@
+{
+  "question_text": "A balloon filled with air is heated. Predict what will happen to the air particles and explain why using the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "gases",
+    "heating",
+    "particle motion",
+    "kinetic theory"
+  ],
+  "options": null,
+  "correct_answer": "The air particles will move faster and collide with the balloon walls more forcefully, causing the balloon to expand. When particles are heated, they gain kinetic energy and move more rapidly.",
+  "explanation": "Heating increases the energy of particles, making them move faster. In a gas, this means more frequent and forceful collisions with the container walls, increasing pressure and expanding the balloon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "858a60e9-fd95-47bb-846d-d610353d7eb8"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A radio wave has a frequency of 100 MHz (100,000,000 Hz) and travels at 300,000,000 m/s. Calculate its wavelength.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "radio waves",
+    "electromagnetic waves",
+    "wavelength"
+  ],
+  "options": null,
+  "correct_answer": "3 m",
+  "explanation": "Use wavelength = wave speed \u00f7 frequency. Wavelength = 300,000,000 m/s \u00f7 100,000,000 Hz = 3 m. Radio waves have relatively long wavelengths compared to visible light.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "98b57e93-9af5-4b15-9d85-5afe86acee4c"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "In subtractive colour mixing, which three colours of pigment are the primary colours?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "subtractive mixing",
+    "pigments",
+    "primary colours"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red, green and blue",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Red, yellow and blue",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Cyan, magenta and yellow",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Orange, yellow and red",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Red, yellow and blue are the primary colours for pigments and paints. These are used in subtractive colour mixing, which is different from additive mixing used for light.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3430908c-fc43-420d-9373-4eb0216cf7e8"
+}

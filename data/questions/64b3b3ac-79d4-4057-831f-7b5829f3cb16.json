@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement about particle density is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "particle packing",
+    "density",
+    "states of matter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles in gases are more densely packed than particles in liquids",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles in solids are more densely packed than particles in liquids",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles in liquids are more densely packed than particles in solids",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All states of matter have particles packed with equal density",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Solids have the tightest particle packing, followed by liquids, then gases. This is why solids and liquids are much denser than gases, and why solids are generally harder and less compressible.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "64b3b3ac-79d4-4057-831f-7b5829f3cb16"
+}

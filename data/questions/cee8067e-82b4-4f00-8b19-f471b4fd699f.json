@@ -1,0 +1,17 @@
+{
+  "question_text": "A student builds a circuit with two 6\u03a9 resistors in series, connected to a 12V power supply. Calculate the total resistance of the circuit.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "total resistance",
+    "Ohm's law"
+  ],
+  "options": null,
+  "correct_answer": "12\u03a9",
+  "explanation": "In a series circuit, you add the resistances together: 6\u03a9 + 6\u03a9 = 12\u03a9. This is because the current flows through both resistors one after the other, facing the full resistance of each.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cee8067e-82b4-4f00-8b19-f471b4fd699f"
+}

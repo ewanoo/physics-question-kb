@@ -1,0 +1,17 @@
+{
+  "question_text": "A sound wave has a frequency of 440 Hz and travels at 330 m/s through air. What is the wavelength of this sound wave?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "sound waves",
+    "wavelength",
+    "wave speed equation"
+  ],
+  "options": null,
+  "correct_answer": "0.75 m",
+  "explanation": "Rearrange the wave speed equation: wavelength = wave speed \u00f7 frequency. Wavelength = 330 m/s \u00f7 440 Hz = 0.75 m. This is the distance between consecutive compressions in the sound wave.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "19a0af5f-0f61-400c-a06a-9178363e9c22"
+}

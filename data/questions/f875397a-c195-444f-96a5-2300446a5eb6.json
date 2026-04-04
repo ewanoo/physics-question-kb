@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following correctly lists properties that describe all waves?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave properties",
+    "characteristics",
+    "universal"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They require a medium and travel in straight lines only",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They have frequency, wavelength, and amplitude",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They always travel at the same speed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They can only be seen with a microscope",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "All waves have frequency (how often they oscillate), wavelength (distance between repeats), and amplitude (size of vibration). However, not all waves need a medium, and they travel at different speeds depending on the medium.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f875397a-c195-444f-96a5-2300446a5eb6"
+}

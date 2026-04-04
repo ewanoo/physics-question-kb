@@ -1,0 +1,17 @@
+{
+  "question_text": "Calculate the gravitational potential energy of a 5 kg object that is 4 metres above the ground. (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "200 J (joules)",
+  "explanation": "Gravitational potential energy is calculated using the formula: GPE = m \u00d7 g \u00d7 h. Substituting the values: GPE = 5 \u00d7 10 \u00d7 4 = 200 J. This represents the energy the object could release if it fell to the ground.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "abf31d7e-7e56-4916-bfe5-d70e80e3e3a8"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Three identical light bulbs are connected in parallel to a 6V power supply. If each bulb has a resistance of 12\u03a9, what is the total current drawn from the power supply?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "current",
+    "Ohm's law",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "1.5A",
+  "explanation": "First, find total resistance in parallel: 1/R_total = 1/12 + 1/12 + 1/12 = 3/12, so R_total = 4\u03a9. Then use Ohm's law: I = V/R = 6V/4\u03a9 = 1.5A.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "82e6c0ec-9506-420f-9f1a-8a8a0f0ed808"
+}

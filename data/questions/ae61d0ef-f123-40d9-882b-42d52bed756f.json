@@ -1,0 +1,17 @@
+{
+  "question_text": "A container holds 500 cm\u00b3 of nitrogen gas. If the gas is compressed into half its volume without changing temperature, calculate the new volume.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "gases",
+    "compression",
+    "volume calculation"
+  ],
+  "options": null,
+  "correct_answer": "250 cm\u00b3",
+  "explanation": "If the gas is compressed into half its original volume, the volume is reduced by half. New volume = 500 \u00f7 2 = 250 cm\u00b3. This is a straightforward application of compression principles.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "ae61d0ef-f123-40d9-882b-42d52bed756f"
+}

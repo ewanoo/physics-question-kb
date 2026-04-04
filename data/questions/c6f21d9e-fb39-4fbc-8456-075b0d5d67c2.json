@@ -1,0 +1,17 @@
+{
+  "question_text": "In a parallel circuit, if one branch has a resistance of 6\u03a9 and carries 2A of current, what is the voltage across this branch?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "Ohm's law",
+    "voltage"
+  ],
+  "options": null,
+  "correct_answer": "12V",
+  "explanation": "Using Ohm's law rearranged: V = IR = 2A \u00d7 6\u03a9 = 12V. In parallel circuits, every branch has the same voltage across it, so the power supply must be 12V.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c6f21d9e-fb39-4fbc-8456-075b0d5d67c2"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "During a lunar eclipse, Earth's shadow moves across the Moon over several hours. The Moon does not instantly disappear but gradually darkens. Why does the Moon not immediately become completely dark the instant it enters Earth's shadow?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "eclipses",
+    "Earth's atmosphere",
+    "light refraction"
+  ],
+  "options": null,
+  "correct_answer": "Earth's atmosphere refracts (bends) sunlight around Earth, even when the Sun is blocked by Earth itself. This refracted light continues to reach the Moon, often giving it a reddish color instead of complete darkness.",
+  "explanation": "Earth's atmosphere acts like a lens, bending sunlight around the planet. During a lunar eclipse, some of this bent light reaches the Moon's surface, which is why the Moon turns red rather than black\u2014the blue light is scattered away by the atmosphere, leaving mainly red light to reach the Moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2895a326-f227-4bf7-9507-8405e00de2fa"
+}

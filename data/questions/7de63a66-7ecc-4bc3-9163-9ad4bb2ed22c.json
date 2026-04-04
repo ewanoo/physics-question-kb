@@ -1,0 +1,38 @@
+{
+  "question_text": "Which energy store is most important in a nuclear power station?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "nuclear energy",
+    "power generation",
+    "energy sources"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Elastic potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Nuclear energy",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Magnetic energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Nuclear power stations use uranium fuel, which stores enormous amounts of energy in the nucleus of atoms. This nuclear energy is released and converted to thermal energy and then electrical energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7de63a66-7ecc-4bc3-9163-9ad4bb2ed22c"
+}

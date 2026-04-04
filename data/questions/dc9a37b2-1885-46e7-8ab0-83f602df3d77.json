@@ -1,0 +1,17 @@
+{
+  "question_text": "What does the amplitude of a wave represent?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "wave properties",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "The amplitude is the maximum displacement of a particle from its rest position (or the height of the wave from the center line).",
+  "explanation": "Amplitude measures how far particles move away from their resting position as the wave passes through. A larger amplitude means a taller wave and usually more energy being transferred.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dc9a37b2-1885-46e7-8ab0-83f602df3d77"
+}

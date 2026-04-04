@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best explains why a black object appears black?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "absorption",
+    "reflection",
+    "black objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It reflects all colours of light equally",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It absorbs all colours of light and reflects very little",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It only reflects black light",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It reflects only some colours and absorbs others",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Black objects absorb nearly all colours of visible light and reflect very little, so very little light reaches your eyes. This is why they appear black rather than coloured.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ca463641-c6f4-4e14-8406-97e563d395fb"
+}

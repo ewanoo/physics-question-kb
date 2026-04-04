@@ -1,0 +1,17 @@
+{
+  "question_text": "When a torch battery transfers energy, which two energy stores are involved in the transfer?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "light energy",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy store (in the battery) is transferred to light energy (and thermal energy) in the torch bulb.",
+  "explanation": "Batteries store energy chemically. When the torch is switched on, this chemical energy is transferred through the circuit to the bulb, where it becomes light energy and some thermal energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "6e78c024-9fcf-452d-b1d4-4d1418d1a58d"
+}

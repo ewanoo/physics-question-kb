@@ -1,0 +1,17 @@
+{
+  "question_text": "A green object is illuminated with red light. Describe what will happen and explain why.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "reflection",
+    "absorption",
+    "colour appearance"
+  ],
+  "options": null,
+  "correct_answer": "The object will appear black (or very dark) because green objects absorb red light and reflect green light. Since no green light is available, there is no light to reflect.",
+  "explanation": "Objects only reflect certain colours and absorb others. A green object can only appear green if green light is available to reflect. Red light is absorbed, not reflected.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f4e917e5-87f3-4fdf-8cd2-06c5b9427f93"
+}

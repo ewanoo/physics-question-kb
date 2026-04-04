@@ -1,0 +1,38 @@
+{
+  "question_text": "A hot cup of tea gradually cools to room temperature. Which energy store decreases?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "thermal energy",
+    "cooling",
+    "temperature"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy store",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy store",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Kinetic energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The thermal energy store in the hot tea decreases as it cools down. This energy is transferred to the surroundings as the tea loses heat to the air.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0ef9d9ed-7e3b-4f3a-bcc5-7e1eecb55a67"
+}

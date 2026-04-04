@@ -1,0 +1,17 @@
+{
+  "question_text": "The Moon orbits Earth every 27.3 days, and Earth orbits the Sun every 365.25 days. A lunar month (from full moon to full moon) is about 29.5 days. Explain why the lunar month is longer than the Moon's orbital period around Earth.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar cycle",
+    "orbital mechanics",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Because Earth is also moving around the Sun, the Moon must travel extra distance beyond a complete orbit to return to the same position relative to the Sun and Earth (to appear full again). This extra movement takes about 2.2 extra days.",
+  "explanation": "The lunar month is the time between full moons, which depends on Earth's position around the Sun changing too. The Moon needs to 'catch up' with Earth's movement around the Sun, making the cycle longer than just one complete orbit of the Moon around Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ab5a9223-77e2-4cdb-8f69-ee17210eb247"
+}

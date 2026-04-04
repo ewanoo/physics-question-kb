@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of a transverse wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "transverse waves",
+    "wave types",
+    "identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound wave traveling through air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Light wave traveling from the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Seismic P-wave from an earthquake",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ultrasound wave from a scanner",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Light waves are transverse waves where the vibrations are perpendicular to the direction of travel. Sound, P-waves, and ultrasound are all longitudinal waves where particles vibrate parallel to the wave's direction of travel.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dff6b8e6-4e61-4984-8ce5-a65c4742ef78"
+}

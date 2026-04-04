@@ -1,0 +1,17 @@
+{
+  "question_text": "A wave has a frequency of 50 Hz. How many complete oscillations does it make in 4 seconds?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "oscillations",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "200 oscillations",
+  "explanation": "Frequency tells us how many complete waves (oscillations) happen every second. If the frequency is 50 Hz, then in 4 seconds: 50 \u00d7 4 = 200 oscillations.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7d1700a0-6719-46a1-85df-2ae200c4290c"
+}

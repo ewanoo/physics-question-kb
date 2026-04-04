@@ -1,0 +1,17 @@
+{
+  "question_text": "A student observes two waves on a rope. Wave A has a higher amplitude than Wave B. What does this tell you about the two waves?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "energy",
+    "wave comparison"
+  ],
+  "options": null,
+  "correct_answer": "Wave A carries more energy than Wave B. It has larger vibrations/displacements from the center position.",
+  "explanation": "Amplitude is directly related to the energy carried by a wave. A larger amplitude means particles vibrate farther from their resting position, indicating the wave is carrying more energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "d26a6986-f115-4cd7-8e5e-a38af9d54848"
+}

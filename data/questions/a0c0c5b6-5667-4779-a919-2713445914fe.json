@@ -1,0 +1,38 @@
+{
+  "question_text": "A block of ice melts to form water. Which statement correctly describes what happens to the particles during melting?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "state change",
+    "particle arrangement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles break apart into smaller pieces",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles gain energy and break free from their fixed positions, but remain closely packed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles stop moving completely",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "New particles are created as the ice melts",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "During melting, particles gain thermal energy and vibrate so vigorously that they escape their fixed positions in the solid. However, they remain close together as in a liquid, without creating or destroying particles.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a0c0c5b6-5667-4779-a919-2713445914fe"
+}

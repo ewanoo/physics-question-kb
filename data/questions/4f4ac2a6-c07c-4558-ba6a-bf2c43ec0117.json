@@ -1,0 +1,38 @@
+{
+  "question_text": "A piece of coal contains energy in which store?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "fuel",
+    "combustion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy store",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy store",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Magnetic energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Coal stores energy in its chemical bonds. When coal is burned, this chemical energy is transferred to thermal energy (heat), which can be used to generate electricity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4f4ac2a6-c07c-4558-ba6a-bf2c43ec0117"
+}

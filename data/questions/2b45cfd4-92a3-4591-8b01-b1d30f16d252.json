@@ -1,0 +1,17 @@
+{
+  "question_text": "A student observes the Moon on night A and sees it as a waxing crescent. On night B, one week later, the student observes a first quarter moon. On night C, one week after that, the student observes a full moon. Calculate the number of days in the lunar month and explain your reasoning.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar phases",
+    "orbital period",
+    "time calculation"
+  ],
+  "options": null,
+  "correct_answer": "If waxing crescent to first quarter takes 7 days, and first quarter to full moon takes 7 days (14 days total from waxing crescent to full moon), and waxing crescent to full moon should be about half the lunar cycle, then the full lunar cycle is approximately 28-29 days (close to the actual 29.5 days).",
+  "explanation": "The lunar month (synodic period) is about 29.5 days, meaning four major phases are roughly 7-8 days apart. Starting from waxing crescent, reaching full moon after about 2 weeks means the complete cycle from new moon to new moon is about twice that time, giving approximately 29 days.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "2b45cfd4-92a3-4591-8b01-b1d30f16d252"
+}

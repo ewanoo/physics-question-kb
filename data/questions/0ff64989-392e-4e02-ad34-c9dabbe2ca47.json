@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following correctly ranks these three objects by their distance from Earth, from closest to farthest?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "distances",
+    "space scale",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sun, Moon, Mars",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Moon, Sun, Mars",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Moon, Mars, Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Moon, Sun, Mars (when Mars is on the opposite side of the Sun from Earth)",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon is always closest at about 384,400 km. The Sun is next at about 149.6 million km. Mars's distance varies greatly due to its orbit, but at its farthest it can be nearly 400 million km away, farther than the Sun. The question requires understanding that planetary distances change.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "0ff64989-392e-4e02-ad34-c9dabbe2ca47"
+}

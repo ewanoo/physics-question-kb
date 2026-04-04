@@ -1,0 +1,17 @@
+{
+  "question_text": "A liquid evaporates into a gas. Describe what happens to the particles and the forces between them using the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "evaporation",
+    "state change",
+    "kinetic theory"
+  ],
+  "options": null,
+  "correct_answer": "The particles gain thermal energy and move faster. The forces between particles weaken as they move far apart. Eventually, particles have enough energy to escape from the liquid surface and become a gas with particles far apart and weak forces between them.",
+  "explanation": "Evaporation requires particles to overcome the forces holding them in the liquid. When they gain enough thermal energy, they move fast enough and far enough apart that intermolecular forces can no longer hold them together.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "af0be96d-f2a0-405c-b3f1-72f17f13094e"
+}

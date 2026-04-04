@@ -1,0 +1,38 @@
+{
+  "question_text": "A red filter is placed over a white light bulb. Which colour of light passes through the filter?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "absorption",
+    "light transmission"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Blue light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Red light",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "All colours pass through equally",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Green light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A red filter absorbs (blocks) all colours except red light. Only red light passes through the filter because the filter is designed to transmit red wavelengths.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a080dafa-f782-47e4-8e9c-a95e85733468"
+}

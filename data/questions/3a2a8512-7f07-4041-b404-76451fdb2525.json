@@ -1,0 +1,18 @@
+{
+  "question_text": "A heating element has a resistance of 20\u03a9 and draws 5A of current. Calculate the power dissipated by the heating element and explain why this makes it useful for heating applications.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "power calculations",
+    "P=IV",
+    "P=I\u00b2R",
+    "thermal energy"
+  ],
+  "options": null,
+  "correct_answer": "500W",
+  "explanation": "Using P = I\u00b2R = (5A)\u00b2 \u00d7 20\u03a9 = 25 \u00d7 20 = 500W, or P = IV where V = IR = 5A \u00d7 20\u03a9 = 100V, so P = 5A \u00d7 100V = 500W. High power dissipation means electrical energy is efficiently converted to heat, making it ideal for heating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3a2a8512-7f07-4041-b404-76451fdb2525"
+}

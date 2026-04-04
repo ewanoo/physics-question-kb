@@ -1,0 +1,17 @@
+{
+  "question_text": "A book falls from a table 2 metres high. Which energy stores are involved in this motion?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy (at the start) transfers to kinetic energy (as it falls). Some thermal energy is also released when it hits the ground.",
+  "explanation": "Initially, the book has gravitational potential energy because of its height. As it falls, this is transferred to kinetic energy. When it hits the ground, some energy becomes thermal energy (heat and sound).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6d29f4c5-260c-410e-b0da-65d9d2999271"
+}

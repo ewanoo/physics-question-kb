@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements correctly compares voltage in series and parallel circuits?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series vs parallel",
+    "voltage distribution",
+    "circuit comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Voltage is the same across all components in both series and parallel circuits",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "In series circuits, voltage is shared between components; in parallel circuits, voltage is the same across all branches",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "In parallel circuits, voltage is shared between components; in series circuits, voltage is the same across all resistors",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Voltage is always divided equally between components in series circuits",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In series circuits, the voltage from the power supply is shared among all components, so voltages add up. In parallel circuits, each branch receives the full voltage from the power supply, so voltage is the same everywhere.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8982e2c4-7615-4e61-b3e1-a2f803f0bbe7"
+}

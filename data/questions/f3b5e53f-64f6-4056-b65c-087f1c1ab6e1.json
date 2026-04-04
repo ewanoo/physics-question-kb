@@ -1,0 +1,17 @@
+{
+  "question_text": "A magenta filter is placed over white light. Which two primary colours of light combine to allow you to see magenta light coming through the filter?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "secondary colours",
+    "additive mixing"
+  ],
+  "options": null,
+  "correct_answer": "Red and blue light (or red light and blue light)",
+  "explanation": "Magenta is a secondary colour made from the primary colours red and blue in additive colour mixing. A magenta filter absorbs green light but allows red and blue light to pass through.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f3b5e53f-64f6-4056-b65c-087f1c1ab6e1"
+}

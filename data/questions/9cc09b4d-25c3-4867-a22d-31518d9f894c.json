@@ -1,0 +1,18 @@
+{
+  "question_text": "Why do gases spread out to fill any container they are placed in, while solids keep their shape?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "gases",
+    "solids",
+    "particle motion",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "Gas particles move randomly at high speed with weak forces between them, so they can travel throughout the container. Solid particles are held in fixed positions by strong forces, so they maintain a fixed shape.",
+  "explanation": "The key difference is the strength of forces between particles and how much freedom they have to move. Gases have minimal forces holding them in place, while solids have very strong forces keeping particles in fixed arrangements.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9cc09b4d-25c3-4867-a22d-31518d9f894c"
+}

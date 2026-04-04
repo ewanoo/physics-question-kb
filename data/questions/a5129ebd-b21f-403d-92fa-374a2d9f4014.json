@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best describes why tides on Earth are caused primarily by the Moon rather than the Sun, despite the Sun being much more massive?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tides",
+    "gravitational force",
+    "inverse square law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon is more massive than the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Tidal forces depend on the difference in gravitational pull across Earth's diameter, which is much greater for the Moon because it is much closer",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun's gravity pulls Earth away from the Moon",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Only the Moon creates gravitational fields strong enough to affect water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Tides are caused by the difference in gravitational force on the near side versus the far side of Earth. Because the Moon is much closer, the difference in its pull across Earth's diameter is proportionally larger than for the Sun, making the Moon the dominant tidal force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a5129ebd-b21f-403d-92fa-374a2d9f4014"
+}

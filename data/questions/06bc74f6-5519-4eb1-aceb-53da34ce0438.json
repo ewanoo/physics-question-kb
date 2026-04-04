@@ -1,0 +1,38 @@
+{
+  "question_text": "A student observes that cooking oil flows slowly, while water flows quickly. Which property of liquids does this relate to?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "liquids",
+    "viscosity",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Density",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Boiling point",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Viscosity",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Surface tension",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Viscosity is a measure of how easily a liquid flows. Thick, sticky liquids like oil have high viscosity, while thin liquids like water have low viscosity. This is not related to how heavy the liquid is (density).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "06bc74f6-5519-4eb1-aceb-53da34ce0438"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A 24W electric motor runs on a 12V power supply. What is the current flowing through the motor?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "power calculations",
+    "Ohm's law",
+    "P=IV"
+  ],
+  "options": null,
+  "correct_answer": "2A",
+  "explanation": "Rearrange the power formula P = IV to find current: I = P/V = 24W/12V = 2A. This tells us the amount of charge flowing through the motor each second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a1e89951-289b-4754-ad88-50c2e5162f83"
+}
