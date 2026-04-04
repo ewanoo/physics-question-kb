@@ -1,0 +1,25 @@
+{
+  "question_text": "A student compares two scenarios: Scenario 1 involves melting ice at 0\u00b0C to form water at 0\u00b0C; Scenario 2 involves heating water from 0\u00b0C to 100\u00b0C and then boiling it to form steam at 100\u00b0C. Both samples have the same mass. Evaluate which process requires more total energy input and justify your answer using the concepts of latent heat and sensible heat.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "latent heat",
+    "sensible heat",
+    "energy comparison",
+    "melting and boiling"
+  ],
+  "options": null,
+  "correct_answer": "Scenario 2 requires more total energy because it includes both sensible heat (to warm water from 0\u00b0C to 100\u00b0C) and latent heat of vaporisation (which is larger than latent heat of fusion). Scenario 1 requires only latent heat of fusion. The latent heat of vaporisation is typically much greater than latent heat of fusion for the same mass, so boiling requires significantly more energy than melting alone.",
+  "explanation": "Scenario 2 combines sensible heat (warming the liquid) plus the large latent heat needed for boiling, whereas Scenario 1 has only the latent heat for melting. Since vaporisation requires more latent heat than melting, and Scenario 2 also includes heating the water, it requires more total energy input.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5fe7ebd3-ea38-4193-8df0-fd81153e7bbe",
+  "scraped_at": "2026-04-04T22:22:58.576008",
+  "classified_at": "2026-04-04T22:22:58.576008",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

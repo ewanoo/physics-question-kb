@@ -1,0 +1,24 @@
+{
+  "question_text": "Two identical blocks of metal at 20\u00b0C are placed in separate containers. Block A is heated until it melts completely at 200\u00b0C. Block B is heated beyond its melting point to 250\u00b0C. Assuming both blocks have the same mass and latent heat of fusion, compare the total energy required to melt each block and explain why they differ or are the same.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "latent heat",
+    "melting",
+    "energy comparison"
+  ],
+  "options": null,
+  "correct_answer": "The energy required to melt both blocks is the same because melting point is constant for a pure substance. Both blocks need the same latent heat of fusion to completely change state from solid to liquid, regardless of further temperature increases. Block B requires additional energy to heat the liquid above 250\u00b0C, but this is sensible heat, not latent heat of fusion.",
+  "explanation": "Latent heat (energy for melting) depends only on mass and the material, not on final temperature. Block A and Block B both need identical energy to melt because the melting point of a pure metal is fixed; extra heating beyond the melting point adds sensible heat to the liquid, not latent heat for melting.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5bf338c1-553d-4324-a495-b37492dece12",
+  "scraped_at": "2026-04-04T22:22:58.576008",
+  "classified_at": "2026-04-04T22:22:58.576008",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

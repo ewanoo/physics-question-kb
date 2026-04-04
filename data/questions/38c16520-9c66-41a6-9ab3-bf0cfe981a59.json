@@ -1,0 +1,24 @@
+{
+  "question_text": "Two electromagnets are made using identical copper wire coils wrapped around steel cores. Electromagnet X has 200 coils and is connected to a 6V battery. Electromagnet Y has 400 coils and is connected to the same 6V battery. All other factors are identical. Which electromagnet will have the stronger magnetic field and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "coil turns",
+    "magnetic field strength"
+  ],
+  "options": null,
+  "correct_answer": "Electromagnet Y will be stronger because it has twice as many coils, so the magnetic field from each turn adds together to create a stronger overall field.",
+  "explanation": "The strength of an electromagnet depends on the number of coils (turns) in the wire. More turns mean more magnetic field lines are produced, so electromagnet Y with 400 turns will be significantly stronger than electromagnet X with 200 turns, even though they use the same voltage.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "38c16520-9c66-41a6-9ab3-bf0cfe981a59",
+  "scraped_at": "2026-04-04T22:22:30.926719",
+  "classified_at": "2026-04-04T22:22:30.926719",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

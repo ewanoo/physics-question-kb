@@ -1,0 +1,25 @@
+{
+  "question_text": "Two identical bar magnets are placed with their north poles facing each other, 10 cm apart. A student then takes one of the magnets and heats it to 300\u00b0C in an oven until it cools again, then returns it to the same 10 cm distance. How would the repulsive force between the magnets change, and what does this tell you about the structure of magnetic materials?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "temperature",
+    "magnetic domains",
+    "material structure"
+  ],
+  "options": null,
+  "correct_answer": "The repulsive force would become much weaker (or the magnets might not repel at all). This shows that magnetic materials are made of many tiny domains that must be aligned in the same direction to create a strong magnet. Heat disrupts this alignment by making atoms vibrate, destroying the organized structure.",
+  "explanation": "Permanent magnets contain billions of tiny magnetic regions called domains that are aligned in the same direction. High temperatures cause atomic vibrations that randomize these domains, drastically reducing or eliminating the magnet's strength. This demonstrates that magnetism comes from organized atomic structure, not just from the material itself.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "05258d25-8fd8-4912-af1f-3882cdc8a1cc",
+  "scraped_at": "2026-04-04T22:22:30.926719",
+  "classified_at": "2026-04-04T22:22:30.926719",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A shoe on concrete provides good grip, but the same shoe on wet ice has very poor grip. What is the main reason for this difference?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "surface properties",
+    "friction factors",
+    "grip"
+  ],
+  "options": null,
+  "correct_answer": "Concrete is rough and has a high coefficient of friction with rubber, while ice is smooth and slippery with a low coefficient of friction, plus the water layer reduces contact between the shoe and ice surface.",
+  "explanation": "Different material pairs have different levels of friction. Rough concrete grips well, but ice is very smooth and slippery, especially when wet, so friction is much lower.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a2d1b4d8-0da3-4a51-9e8b-6e451a229169",
+  "scraped_at": "2026-04-04T22:23:52.646788",
+  "classified_at": "2026-04-04T22:23:52.646788",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A magnet is placed near an iron nail without touching it. Which type of force is acting between the magnet and the nail?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "magnetic forces",
+    "force identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Magnetic force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Normal force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravitational force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Magnetic force",
+  "explanation": "A magnetic force is a non-contact force that acts between a magnet and magnetic materials like iron, even when they are not touching. Friction and normal force are contact forces, and gravitational force would not be strong enough to move a nail in this scenario.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b5f7bbd5-cde3-4e7a-a099-cba6663f98f0",
+  "scraped_at": "2026-04-04T22:23:42.080834",
+  "classified_at": "2026-04-04T22:23:42.080834",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

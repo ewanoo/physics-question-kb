@@ -1,0 +1,45 @@
+{
+  "question_text": "Two magnets are positioned so their south poles face each other at a distance of 5 cm. If they are moved to 2 cm apart, what happens to the repulsive force between them?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic force",
+    "distance",
+    "repulsion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The repulsive force stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The repulsive force decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The repulsive force increases",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The repulsive force changes direction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C) The repulsive force increases",
+  "explanation": "Magnetic force gets stronger when magnets are closer together and weaker when they are farther apart. Moving from 5 cm to 2 cm makes the repulsive force between the two south poles significantly stronger.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f1e81909-0917-4d51-9542-1dbaa0de5eb8",
+  "scraped_at": "2026-04-04T22:22:17.195513",
+  "classified_at": "2026-04-04T22:22:17.195513",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

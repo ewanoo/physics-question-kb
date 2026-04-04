@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement correctly describes what happens to temperature and day length in the Northern Hemisphere as it moves from autumn towards winter?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "temperature",
+    "day length",
+    "seasonal change"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both day length and temperature increase as winter approaches",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Day length decreases and temperature decreases as winter approaches",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Day length increases but temperature decreases as winter approaches",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Day length decreases but temperature increases as winter approaches",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Day length decreases and temperature decreases as winter approaches",
+  "explanation": "As autumn turns to winter, the Northern Hemisphere tilts further away from the Sun. This causes days to become shorter and the Sun's rays to strike at a lower angle, delivering less energy and causing temperatures to fall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "26031928-c4ec-48b1-aa8e-138b61db3e14",
+  "scraped_at": "2026-04-04T22:23:07.132565",
+  "classified_at": "2026-04-04T22:23:07.132565",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

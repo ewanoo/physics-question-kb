@@ -1,0 +1,24 @@
+{
+  "question_text": "A natural gas power station converts 45% of the chemical energy stored in gas into electrical energy. The remaining energy is lost as waste heat. If the power station burns gas containing 200 MJ of chemical energy, calculate the electrical energy produced.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "energy conversion",
+    "efficiency calculation",
+    "non-renewable energy"
+  ],
+  "options": null,
+  "correct_answer": "90 MJ",
+  "explanation": "Efficiency = energy output / energy input. At 45% efficiency, the electrical energy produced is 45% of 200 MJ, which equals 0.45 \u00d7 200 = 90 MJ. The remaining 110 MJ is wasted as heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9697a1c1-9ae8-4fdb-800e-0521771392cc",
+  "scraped_at": "2026-04-04T22:23:18.023045",
+  "classified_at": "2026-04-04T22:23:18.023045",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

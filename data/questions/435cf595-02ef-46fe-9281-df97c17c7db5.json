@@ -1,0 +1,24 @@
+{
+  "question_text": "A car is being pushed with a force of 200 N to the right. Air resistance and friction act on the car with a combined force of 50 N to the left. Calculate the resultant force on the car.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "opposing forces",
+    "net force"
+  ],
+  "options": null,
+  "correct_answer": "150 N to the right",
+  "explanation": "The resultant force is found by adding forces in the same direction and subtracting forces in opposite directions. The push of 200 N to the right minus the resistance of 50 N to the left gives a resultant of 150 N to the right. This is the net force that will cause the car to accelerate.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "435cf595-02ef-46fe-9281-df97c17c7db5",
+  "scraped_at": "2026-04-04T22:23:42.080834",
+  "classified_at": "2026-04-04T22:23:42.080834",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

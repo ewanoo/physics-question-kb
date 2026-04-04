@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following distance-time graphs represents an object that is accelerating?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "acceleration",
+    "gradient"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A straight line with a constant positive gradient throughout the entire journey",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A curved line where the gradient becomes steeper as time increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A horizontal straight line",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A curved line where the gradient becomes less steep as time increases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) A curved line where the gradient becomes steeper as time increases",
+  "explanation": "On a distance-time graph, the gradient represents speed. If an object is accelerating, its speed is increasing, so the gradient must become steeper over time, producing a curved line that curves upward. A constant gradient (option A) shows constant speed with no acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f79dcd75-636e-4517-97ae-3ca3edf63b93",
+  "scraped_at": "2026-04-04T22:23:32.996363",
+  "classified_at": "2026-04-04T22:23:32.996363",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A tennis ball is rolled across three different surfaces: carpet, tile and polished wood. Which surface would result in the least friction, and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "surface texture",
+    "friction factors",
+    "relative friction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Carpet, because it is the thickest material",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Polished wood, because it has the smoothest surface",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Tile, because it is the hardest material",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Carpet, because it absorbs the ball's energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Polished wood, because it has the smoothest surface",
+  "explanation": "Friction increases with surface roughness. Polished wood is the smoothest surface, so it produces the least friction. Carpet is rougher, and while tile is hard, it is still textured enough to create more friction than polished wood.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b02d3c25-46e0-4d58-bbbf-b3460a5ca3b0",
+  "scraped_at": "2026-04-04T22:23:52.646788",
+  "classified_at": "2026-04-04T22:23:52.646788",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "Two identical cars of mass 1000 kg each are on a hill 50 m high (g = 10 m/s\u00b2). Car A is stationary. Car B is rolling down at 10 m/s. Compare the total energy stored in gravitational and kinetic stores for both cars. Which car has more total mechanical energy and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy comparison",
+    "mechanical energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Car A has more total energy because it is stationary and stable",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Car B has more total energy by 50,000 J",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both cars have equal total energy at 500,000 J",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Car A has more total energy by 50,000 J",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Car B has more total energy by 50,000 J",
+  "explanation": "Car A: GPE = 1000 \u00d7 10 \u00d7 50 = 500,000 J, KE = 0 J, total = 500,000 J. Car B: GPE = 500,000 J, KE = 0.5 \u00d7 1000 \u00d7 10\u00b2 = 50,000 J, total = 550,000 J. Car B has 50,000 J more because it possesses both gravitational and kinetic energy stores simultaneously.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0e9a02e0-5495-40f8-8eee-1ac7a26ce91a",
+  "scraped_at": "2026-04-04T22:22:43.171493",
+  "classified_at": "2026-04-04T22:22:43.171493",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

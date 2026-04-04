@@ -1,0 +1,24 @@
+{
+  "question_text": "The winter solstice in the Northern Hemisphere occurs on 21 December. On this date, which hemisphere experiences the longest day?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "solstice",
+    "hemispheres",
+    "seasonal opposite"
+  ],
+  "options": null,
+  "correct_answer": "The Southern Hemisphere",
+  "explanation": "When it is winter solstice in the Northern Hemisphere (shortest day), the Southern Hemisphere is tilted towards the Sun and experiences summer solstice (longest day). The hemispheres always experience opposite seasons.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "f0ad6df2-9b65-4092-a109-a288a8143327",
+  "scraped_at": "2026-04-04T22:23:07.132565",
+  "classified_at": "2026-04-04T22:23:07.132565",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

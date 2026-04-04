@@ -1,0 +1,24 @@
+{
+  "question_text": "A cyclist applies oil lubricant to their bike chain. Describe how this reduces friction and state one advantage this provides for the bike.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "lubrication",
+    "friction reduction",
+    "practical application"
+  ],
+  "options": null,
+  "correct_answer": "Oil creates a slippery layer between the chain links, reducing friction. This allows the bike to move more easily, requires less pedalling effort, or makes the chain last longer by reducing wear.",
+  "explanation": "Lubrication fills tiny gaps in surfaces, creating a smooth layer that reduces friction between moving parts. This makes the bike more efficient and reduces damage to the chain over time.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3a9552d4-7168-4488-b1c6-6ab03b822ca1",
+  "scraped_at": "2026-04-04T22:23:52.646788",
+  "classified_at": "2026-04-04T22:23:52.646788",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

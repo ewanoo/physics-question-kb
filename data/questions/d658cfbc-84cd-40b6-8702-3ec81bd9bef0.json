@@ -1,0 +1,24 @@
+{
+  "question_text": "Describe the shape and direction of magnetic field lines around a bar magnet. Where are they closest together?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic field lines",
+    "field strength",
+    "bar magnet"
+  ],
+  "options": null,
+  "correct_answer": "Field lines curve from the north pole to the south pole. They are closest together at the poles where the field is strongest.",
+  "explanation": "Magnetic field lines always leave from the north pole and enter at the south pole, forming curved loops. The closer together the lines are, the stronger the magnetic field in that region.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d658cfbc-84cd-40b6-8702-3ec81bd9bef0",
+  "scraped_at": "2026-04-04T22:22:17.195513",
+  "classified_at": "2026-04-04T22:22:17.195513",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

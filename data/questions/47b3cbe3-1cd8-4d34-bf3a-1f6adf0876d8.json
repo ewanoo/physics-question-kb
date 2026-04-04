@@ -1,0 +1,25 @@
+{
+  "question_text": "A permanent magnet and an electromagnet both attract iron filings equally strongly when tested at room temperature. The electromagnet is switched on using a 12V power supply. If the temperature of both magnets is suddenly increased to 200\u00b0C, what would you expect to happen and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "electromagnets",
+    "temperature effects",
+    "compare materials"
+  ],
+  "options": null,
+  "correct_answer": "The permanent magnet would become significantly weaker because heat disrupts the alignment of magnetic domains inside the material. The electromagnet would remain equally strong (assuming the power supply continues to work) because its magnetic field is produced by electric current, not by aligned domains.",
+  "explanation": "Heat causes the particles in a permanent magnet to vibrate more, which breaks the alignment of magnetic domains and weakens the magnet. Electromagnets work by using electric current to create a magnetic field, so they are not affected by temperature changes in the same way.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "47b3cbe3-1cd8-4d34-bf3a-1f6adf0876d8",
+  "scraped_at": "2026-04-04T22:22:30.926719",
+  "classified_at": "2026-04-04T22:22:30.926719",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

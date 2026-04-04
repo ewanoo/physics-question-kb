@@ -1,0 +1,24 @@
+{
+  "question_text": "Two objects start moving at the same time. Object X travels at a constant speed of 6 m/s. Object Y accelerates uniformly from rest at 1.5 m/s\u00b2. After how many seconds will both objects have travelled the same distance, and what will that distance be?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "acceleration",
+    "constant speed",
+    "multi-step equations"
+  ],
+  "options": null,
+  "correct_answer": "8 seconds, distance = 48 metres. Using s = ut + 0.5at\u00b2 for object Y: 6t = 0.5(1.5)t\u00b2 gives 6t = 0.75t\u00b2, so 6 = 0.75t (when t \u2260 0), thus t = 8 s. Distance = 6 \u00d7 8 = 48 m.",
+  "explanation": "Set distances equal: for object X, s = 6t; for object Y, s = 0.5 \u00d7 1.5 \u00d7 t\u00b2. So 6t = 0.75t\u00b2. Dividing by t (excluding t = 0): 6 = 0.75t, giving t = 8 seconds. Distance = 6 \u00d7 8 = 48 metres. At t = 0, both start at the same point; at t = 8 s, they meet again.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3f26e584-bec3-47fb-8563-205ffdb5c6b4",
+  "scraped_at": "2026-04-04T22:23:32.996363",
+  "classified_at": "2026-04-04T22:23:32.996363",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

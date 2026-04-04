@@ -1,0 +1,45 @@
+{
+  "question_text": "Which circuit symbol represents a switch?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit symbols",
+    "switch",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A circle with two terminals and a movable arm that can open or close the circuit",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A coil of wire wrapped around an iron core",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Two parallel lines close together",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A circle with an X through it",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) A circle with two terminals and a movable arm that can open or close the circuit",
+  "explanation": "The switch symbol shows a pivot point with a movable arm that can make or break contact with the circuit. When the arm touches the contact point, the switch is closed and current flows; when it does not, the switch is open and current is blocked.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f627f579-f798-4115-aedd-a200fe6ba554",
+  "scraped_at": "2026-04-04T22:23:59.187434",
+  "classified_at": "2026-04-04T22:23:59.187434",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

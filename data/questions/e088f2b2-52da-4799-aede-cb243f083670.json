@@ -1,0 +1,24 @@
+{
+  "question_text": "A cyclist travels 50 metres in 5 seconds, then 150 metres in the next 10 seconds. Calculate the average speed for the entire journey and explain whether the cyclist was accelerating.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "multi-step",
+    "acceleration detection"
+  ],
+  "options": null,
+  "correct_answer": "Average speed = 13.3 m/s (or 40/3 m/s). Yes, the cyclist was accelerating because the speed in the second section (15 m/s) is greater than the first section (10 m/s).",
+  "explanation": "Total distance = 50 + 150 = 200 m. Total time = 5 + 10 = 15 s. Average speed = 200 \u00f7 15 = 13.3 m/s. First section speed: 50 \u00f7 5 = 10 m/s. Second section speed: 150 \u00f7 10 = 15 m/s. Since speed increased, acceleration occurred.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e088f2b2-52da-4799-aede-cb243f083670",
+  "scraped_at": "2026-04-04T22:23:32.996363",
+  "classified_at": "2026-04-04T22:23:32.996363",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

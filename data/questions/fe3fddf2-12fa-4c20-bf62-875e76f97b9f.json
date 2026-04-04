@@ -1,0 +1,45 @@
+{
+  "question_text": "A Sankey diagram shows energy transfers in a light bulb. What does the width of the arrow represent?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "Sankey diagram",
+    "energy transfer",
+    "representation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The time taken for the energy transfer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The amount of energy being transferred",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The temperature of the energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which energy moves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The amount of energy being transferred",
+  "explanation": "In a Sankey diagram, the width of each arrow is proportional to the quantity of energy involved. A thicker arrow means more energy, and a thinner arrow means less energy, making it easy to see where energy goes in a system.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fe3fddf2-12fa-4c20-bf62-875e76f97b9f",
+  "scraped_at": "2026-04-04T22:24:06.512238",
+  "classified_at": "2026-04-04T22:24:06.512238",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

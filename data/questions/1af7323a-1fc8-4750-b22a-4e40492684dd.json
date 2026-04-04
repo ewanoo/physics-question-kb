@@ -1,0 +1,45 @@
+{
+  "question_text": "Two bar magnets are placed with their north poles facing each other. What will happen?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic poles",
+    "repulsion",
+    "bar magnets"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They will attract each other strongly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They will repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They will have no effect on each other",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They will attract then repel alternately",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) They will repel each other",
+  "explanation": "Like magnetic poles repel each other, so two north poles facing each other will push away from one another. Unlike poles (north and south) attract instead.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1af7323a-1fc8-4750-b22a-4e40492684dd",
+  "scraped_at": "2026-04-04T22:22:17.195513",
+  "classified_at": "2026-04-04T22:22:17.195513",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

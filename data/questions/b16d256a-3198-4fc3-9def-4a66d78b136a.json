@@ -1,0 +1,24 @@
+{
+  "question_text": "During a heating experiment, 100 g of a solid substance is heated steadily. The heating curve shows: 0 to 5 minutes (temperature rises from 20\u00b0C to 80\u00b0C), 5 to 12 minutes (temperature stays at 80\u00b0C), 12 to 18 minutes (temperature rises from 80\u00b0C to 100\u00b0C). Calculate the time taken for the latent heat of fusion and explain what is happening to the particles during this period.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "latent heat",
+    "heating curves",
+    "particle arrangement"
+  ],
+  "options": null,
+  "correct_answer": "The latent heat of fusion occurs between 5 and 12 minutes, which is 7 minutes. During this time, the substance is melting: particles in the solid are breaking free from their fixed positions and becoming a liquid, but they are not moving faster (temperature is constant), so all energy goes into breaking the bonds holding the solid structure together.",
+  "explanation": "The flat section on the heating curve (5 to 12 minutes) shows melting because temperature is constant while energy is being added. This 7-minute period is when latent heat is absorbed to change the state from solid to liquid without increasing particle speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b16d256a-3198-4fc3-9def-4a66d78b136a",
+  "scraped_at": "2026-04-04T22:22:58.576008",
+  "classified_at": "2026-04-04T22:22:58.576008",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

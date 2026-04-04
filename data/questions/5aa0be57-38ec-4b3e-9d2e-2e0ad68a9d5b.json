@@ -1,0 +1,25 @@
+{
+  "question_text": "A student compares two scenarios for storing energy. Scenario A: a spring stretched 0.5 m with spring constant 200 N/m. Scenario B: a 2 kg mass lifted 5 m vertically (use g = 10 m/s\u00b2). Calculate the elastic potential energy in Scenario A and gravitational potential energy in Scenario B. Which store contains more energy and by how much?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "gravitational potential energy",
+    "comparison",
+    "quantitative"
+  ],
+  "options": null,
+  "correct_answer": "Scenario A: 25 J; Scenario B: 100 J. Scenario B stores 75 J more energy.",
+  "explanation": "Elastic PE = 0.5 \u00d7 k \u00d7 x\u00b2 = 0.5 \u00d7 200 \u00d7 0.5\u00b2 = 25 J. Gravitational PE = mgh = 2 \u00d7 10 \u00d7 5 = 100 J. The gravitational store is larger by 100 - 25 = 75 J, showing that lifting objects against gravity can store more energy than stretching springs in many practical situations.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5aa0be57-38ec-4b3e-9d2e-2e0ad68a9d5b",
+  "scraped_at": "2026-04-04T22:22:43.171493",
+  "classified_at": "2026-04-04T22:22:43.171493",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

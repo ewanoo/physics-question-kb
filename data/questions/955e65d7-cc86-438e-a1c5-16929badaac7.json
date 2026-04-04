@@ -1,0 +1,46 @@
+{
+  "question_text": "When a battery powers a motor, what energy transfer takes place?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "battery",
+    "motor",
+    "electrical energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy to kinetic energy",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy to electrical energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy to potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravitational energy to light energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Chemical energy to kinetic energy",
+  "explanation": "A battery stores chemical energy. When it powers a motor, the chemical energy is converted into electrical energy, which then becomes kinetic energy (movement) as the motor spins.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "955e65d7-cc86-438e-a1c5-16929badaac7",
+  "scraped_at": "2026-04-04T22:24:06.512238",
+  "classified_at": "2026-04-04T22:24:06.512238",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

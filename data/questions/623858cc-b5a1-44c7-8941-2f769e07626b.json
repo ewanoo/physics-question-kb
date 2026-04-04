@@ -1,0 +1,45 @@
+{
+  "question_text": "The Earth's axis is tilted at approximately 23.5 degrees. Which of the following best explains why this tilt causes seasons?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "seasons",
+    "solar radiation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The tilt means different hemispheres receive different amounts of solar energy at different times of year",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The tilt causes the Earth to spin faster in summer and slower in winter",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The tilt makes the Earth move much closer to the Sun in summer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The tilt prevents the Sun's rays from reaching one hemisphere for six months",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) The tilt means different hemispheres receive different amounts of solar energy at different times of year",
+  "explanation": "When the Northern Hemisphere is tilted towards the Sun, it receives more direct solar rays and experiences longer days, causing summer. Six months later, it tilts away and receives less direct rays, creating winter. The tilt changes the angle and duration of sunlight, not the Earth's distance or spin rate.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "623858cc-b5a1-44c7-8941-2f769e07626b",
+  "scraped_at": "2026-04-04T22:23:07.132565",
+  "classified_at": "2026-04-04T22:23:07.132565",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

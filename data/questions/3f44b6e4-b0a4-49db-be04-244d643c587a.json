@@ -1,0 +1,45 @@
+{
+  "question_text": "A car's speed-time graph shows it accelerating from 0 m/s to 20 m/s over 8 seconds, then maintaining constant speed for 12 seconds. Which statement best evaluates the car's motion?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "speed-time graphs",
+    "acceleration",
+    "evaluation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The car travels the same distance in both sections because the time spent accelerating is less than the constant speed section",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The car travels further during constant speed because the area under that section of the graph is larger",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The acceleration is 20 m/s\u00b2 throughout the first section",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both sections show the same average speed of 10 m/s",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The car travels further during constant speed because the area under that section of the graph is larger",
+  "explanation": "In a speed-time graph, area under the line equals distance. First section (triangle): 0.5 \u00d7 8 \u00d7 20 = 80 m. Second section (rectangle): 20 \u00d7 12 = 240 m. The constant speed section has a larger area, so the car travels further. The acceleration is 20 \u00f7 8 = 2.5 m/s\u00b2, not 20 m/s\u00b2.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3f44b6e4-b0a4-49db-be04-244d643c587a",
+  "scraped_at": "2026-04-04T22:23:32.996363",
+  "classified_at": "2026-04-04T22:23:32.996363",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

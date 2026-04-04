@@ -1,0 +1,25 @@
+{
+  "question_text": "A piece of wood floats on water, but a piece of iron sinks. Which material is denser?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Iron is denser than water",
+  "explanation": "Objects that are denser than water sink because they are heavier for their size. Iron is denser than water, so it sinks, while wood is less dense than water, so it floats.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "299921e6-4641-47da-8907-b383b0c3374c",
+  "scraped_at": "2026-04-04T22:24:12.607544",
+  "classified_at": "2026-04-04T22:24:12.607544",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A student observes that during boiling, bubbles form inside a liquid and rise to the surface, whereas during evaporation, particles leave only from the surface. Which statement correctly compares the particle arrangement and energy changes in these two processes?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "boiling vs evaporation",
+    "particle behaviour",
+    "state changes"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Boiling occurs throughout the liquid because heat energy allows particles everywhere to overcome intermolecular forces, while evaporation is slower because only surface particles have enough energy",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Boiling is faster because the liquid is hotter, but both processes require the same total latent heat per unit mass",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Evaporation happens only at the surface because air pressure prevents boiling from occurring inside the liquid",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Boiling and evaporation are the same process; the difference is only in how quickly they happen",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Boiling occurs throughout the liquid because heat energy allows particles everywhere to overcome intermolecular forces, while evaporation is slower because only surface particles have enough energy",
+  "explanation": "Boiling is a rapid, violent process where particles throughout the liquid gain enough kinetic energy to break free and form gas bubbles everywhere. Evaporation is slower because only surface particles with above-average energy can escape, so fewer particles leave per unit time.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8cfc7227-df15-4528-a062-e9c6b19386e8",
+  "scraped_at": "2026-04-04T22:22:58.576008",
+  "classified_at": "2026-04-04T22:22:58.576008",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

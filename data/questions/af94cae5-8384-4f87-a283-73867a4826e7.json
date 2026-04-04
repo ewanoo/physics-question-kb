@@ -1,0 +1,24 @@
+{
+  "question_text": "State the law of conservation of energy.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "definition",
+    "fundamental principle"
+  ],
+  "options": null,
+  "correct_answer": "Energy cannot be created or destroyed, only transferred from one form to another (or transformed between different types).",
+  "explanation": "This is a key law in physics that Year 8 students must remember. It means the total amount of energy in a closed system always stays the same, even when it changes from one type to another, like chemical energy to heat energy in a fire.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "af94cae5-8384-4f87-a283-73867a4826e7",
+  "scraped_at": "2026-04-04T22:24:06.512238",
+  "classified_at": "2026-04-04T22:24:06.512238",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

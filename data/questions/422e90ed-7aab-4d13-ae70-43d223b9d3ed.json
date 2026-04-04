@@ -1,0 +1,45 @@
+{
+  "question_text": "A wooden block is placed on a wooden table. Which of the following would most reduce the friction between the block and the table?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "lubrication",
+    "friction reduction",
+    "surfaces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Increasing the weight of the block",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Applying oil or grease between the surfaces",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Making the wooden surfaces rougher",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pushing the block faster across the table",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Applying oil or grease between the surfaces",
+  "explanation": "Lubrication with oil or grease reduces friction by creating a slippery layer between surfaces. Increasing weight, rougher surfaces and speed do not reduce friction and may increase it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "422e90ed-7aab-4d13-ae70-43d223b9d3ed",
+  "scraped_at": "2026-04-04T22:23:52.646788",
+  "classified_at": "2026-04-04T22:23:52.646788",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

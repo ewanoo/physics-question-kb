@@ -1,0 +1,25 @@
+{
+  "question_text": "Describe what happens to the energy when a bouncy ball is dropped onto the ground and bounces back up to a lower height than it started.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "gravitational potential energy",
+    "kinetic energy",
+    "heat energy"
+  ],
+  "options": null,
+  "correct_answer": "Some energy is transferred to heat and sound energy during the bounce, which is why the ball cannot bounce back to its original height. The total energy is conserved but some is lost as heat and sound rather than being stored as gravitational potential energy.",
+  "explanation": "Although energy is conserved overall, when the ball bounces, some of the gravitational potential energy is converted into heat and sound (from the impact) rather than back into potential energy. This is why real bouncy balls eventually stop bouncing\u2014the energy hasn't disappeared, it's just been transferred into forms like heat that we don't see as motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "447d3f70-d2b0-4591-8929-a438764bff8d",
+  "scraped_at": "2026-04-04T22:24:06.512238",
+  "classified_at": "2026-04-04T22:24:06.512238",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A car tyre has a textured, bumpy surface while an ice skate blade is smooth and polished. Explain why the textured tyre surface provides better grip than the smooth blade.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "grip",
+    "surface texture",
+    "friction factors"
+  ],
+  "options": null,
+  "correct_answer": "The textured/bumpy surface of the tyre has a larger surface area and catches on the road material, creating more friction and better grip. The smooth blade minimises contact and friction, allowing sliding on ice.",
+  "explanation": "Friction depends on the roughness of surfaces and the area of contact. A textured surface increases both factors, giving better grip, while a smooth surface reduces both and allows sliding.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c444d976-e1a3-41b6-a01a-edecf63da10f",
+  "scraped_at": "2026-04-04T22:23:52.646788",
+  "classified_at": "2026-04-04T22:23:52.646788",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A magnet is broken in half. What happens to the broken pieces?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic poles",
+    "properties of magnets",
+    "dipole"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "One piece becomes north only and one piece becomes south only",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both pieces become complete magnets with their own north and south poles",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pieces lose all magnetic properties",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pieces merge back together magnetically",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Both pieces become complete magnets with their own north and south poles",
+  "explanation": "When a magnet breaks, each piece still has both a north and south pole. You cannot isolate a single pole because magnetism always exists in pairs.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "de079f55-9697-425d-a89f-63d64e2ea183",
+  "scraped_at": "2026-04-04T22:22:17.195513",
+  "classified_at": "2026-04-04T22:22:17.195513",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

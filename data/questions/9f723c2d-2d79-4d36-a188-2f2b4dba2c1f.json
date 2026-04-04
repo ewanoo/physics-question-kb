@@ -1,0 +1,24 @@
+{
+  "question_text": "In the Northern Hemisphere, the summer solstice occurs on 21 June. At this time, how many hours of daylight does a location on the equator receive?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "solstice",
+    "day length",
+    "equator"
+  ],
+  "options": null,
+  "correct_answer": "12 hours",
+  "explanation": "The equator always receives 12 hours of daylight and 12 hours of darkness throughout the year because the Sun's rays are always perpendicular to the equator on average. Solstices cause extreme day lengths only at higher latitudes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9f723c2d-2d79-4d36-a188-2f2b4dba2c1f",
+  "scraped_at": "2026-04-04T22:23:07.132565",
+  "classified_at": "2026-04-04T22:23:07.132565",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

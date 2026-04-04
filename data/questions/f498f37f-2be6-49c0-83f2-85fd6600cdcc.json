@@ -1,0 +1,45 @@
+{
+  "question_text": "A nuclear power station operates at 33% efficiency while a modern gas power station operates at 50% efficiency. If both produce the same electrical power output, which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "power station efficiency",
+    "energy comparison",
+    "non-renewable energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The nuclear power station must burn more fuel to produce the same output.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The gas power station wastes more total energy than the nuclear station.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The nuclear power station is more efficient and produces less waste.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both power stations waste exactly the same amount of energy.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) The nuclear power station must burn more fuel to produce the same output.",
+  "explanation": "At lower efficiency (33%), the nuclear station must use more input energy to produce the same electrical output compared to the gas station (50% efficiency). This means if they produce equal electrical power, the nuclear station requires more fuel or fissile material as input.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f498f37f-2be6-49c0-83f2-85fd6600cdcc",
+  "scraped_at": "2026-04-04T22:23:18.023045",
+  "classified_at": "2026-04-04T22:23:18.023045",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

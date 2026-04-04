@@ -1,0 +1,24 @@
+{
+  "question_text": "Two runners start at the same point. Runner A maintains a constant speed of 8 m/s for 60 seconds. Runner B accelerates uniformly from rest at 0.2 m/s\u00b2 for the same 60 seconds. Using a speed-time graph, determine who has travelled further and by how much.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "speed-time graphs",
+    "acceleration",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Runner A has travelled further by 120 metres. Runner A: 8 \u00d7 60 = 480 m. Runner B: 0.5 \u00d7 0.2 \u00d7 60\u00b2 = 360 m. Difference = 120 m.",
+  "explanation": "On a speed-time graph, distance is the area under the line. Runner A's graph is a horizontal rectangle (area = base \u00d7 height = 60 \u00d7 8 = 480 m), while Runner B's is a triangle (area = 0.5 \u00d7 base \u00d7 height = 0.5 \u00d7 60 \u00d7 12 = 360 m, since final velocity = 0.2 \u00d7 60 = 12 m/s). Runner A travels 120 m further.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6014d4e9-c766-4f3c-8cfc-d2deaee53a06",
+  "scraped_at": "2026-04-04T22:23:32.996363",
+  "classified_at": "2026-04-04T22:23:32.996363",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

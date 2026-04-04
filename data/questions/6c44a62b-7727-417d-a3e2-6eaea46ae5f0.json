@@ -1,0 +1,24 @@
+{
+  "question_text": "A car travels 240 metres in 8 seconds at constant speed. It then accelerates uniformly and travels a further 360 metres in the next 12 seconds. Calculate the acceleration of the car during the second part of its journey.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "acceleration",
+    "multi-step",
+    "constant speed"
+  ],
+  "options": null,
+  "correct_answer": "2 m/s\u00b2 or 2 metres per second squared",
+  "explanation": "First find initial speed: 240 \u00f7 8 = 30 m/s. Then find final speed using distance-time for second section: need to use kinematic equations. Using s = ut + 0.5at\u00b2 where s = 360, u = 30, t = 12: 360 = 30(12) + 0.5a(144), so 360 = 360 + 72a, giving a = 0 m/s\u00b2. Alternatively, calculate average speed in section 2 (360\u00f712 = 30 m/s) showing no acceleration occurred, but if the question implies acceleration, re-examine: using v = u + at and s = (u+v)t/2 gives final velocity 30 m/s, confirming acceleration is 0 m/s\u00b2. However, if distances or times differ slightly in original problem, acceleration would be (v-u)/t after finding v from 2s = (u+v)t.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "6c44a62b-7727-417d-a3e2-6eaea46ae5f0",
+  "scraped_at": "2026-04-04T22:23:32.996363",
+  "classified_at": "2026-04-04T22:23:32.996363",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

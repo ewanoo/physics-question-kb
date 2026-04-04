@@ -1,0 +1,24 @@
+{
+  "question_text": "Three forces act on a stationary box: 50 N to the right, 30 N to the left, and 20 N upwards. What is the resultant force acting horizontally on the box?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "horizontal forces",
+    "vector addition"
+  ],
+  "options": null,
+  "correct_answer": "20 N to the right",
+  "explanation": "To find the resultant horizontal force, add forces in the same direction and subtract forces in opposite directions. The 50 N to the right and 30 N to the left are in opposite directions, so 50 - 30 = 20 N to the right. The 20 N upwards is vertical so it does not affect the horizontal resultant.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7320d267-36dd-4208-9669-27eb1e15d6e8",
+  "scraped_at": "2026-04-04T22:23:42.080834",
+  "classified_at": "2026-04-04T22:23:42.080834",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

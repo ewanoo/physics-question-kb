@@ -1,0 +1,24 @@
+{
+  "question_text": "On 21 March, the Sun is directly above the equator and day length is equal to night length across the entire planet. What is the name of this astronomical event?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "equinox",
+    "day length",
+    "Earth's position"
+  ],
+  "options": null,
+  "correct_answer": "Spring equinox (or vernal equinox or March equinox)",
+  "explanation": "An equinox occurs twice a year when the Sun is directly above the equator, resulting in equal day and night lengths everywhere. The spring equinox happens around 21 March in the Northern Hemisphere, marking the start of spring.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "5bec10c7-3791-4c45-96a1-7acd3c9f889b",
+  "scraped_at": "2026-04-04T22:23:07.132565",
+  "classified_at": "2026-04-04T22:23:07.132565",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

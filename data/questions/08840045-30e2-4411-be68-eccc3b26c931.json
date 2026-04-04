@@ -1,0 +1,46 @@
+{
+  "question_text": "A coal-fired power station and a wind farm both produce 500 MW of electrical power. Which statement best explains why the coal power station has a lower efficiency than the wind farm?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "non-renewable energy",
+    "efficiency",
+    "power stations"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal releases more heat energy than wind, but much of this heat is wasted and does not become electricity.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Wind turbines are made from renewable materials whereas coal power stations are made from non-renewable materials.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Coal contains less energy per kilogram than the kinetic energy in wind.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Wind farms do not require any fuel so they have 100% efficiency.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Coal releases more heat energy than wind, but much of this heat is wasted and does not become electricity.",
+  "explanation": "Coal power stations use combustion to heat water and create steam, but a lot of this thermal energy is lost to the surroundings as waste heat rather than being converted to electricity. Wind turbines convert kinetic energy from wind directly into electricity with less energy loss, making them more efficient.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "08840045-30e2-4411-be68-eccc3b26c931",
+  "scraped_at": "2026-04-04T22:23:18.023045",
+  "classified_at": "2026-04-04T22:23:18.023045",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

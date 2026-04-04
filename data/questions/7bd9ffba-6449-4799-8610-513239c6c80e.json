@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following pairs of forces are both non-contact forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "types of forces",
+    "force classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction and gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Magnetic force and normal force",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gravitational force and magnetic force",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Elastic force and air resistance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C) Gravitational force and magnetic force",
+  "explanation": "Non-contact forces act on objects without them touching each other. Gravitational force and magnetic force are both non-contact forces because they can act across a distance. Friction, normal force, elastic force, and air resistance are all contact forces or require contact to occur.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7bd9ffba-6449-4799-8610-513239c6c80e",
+  "scraped_at": "2026-04-04T22:23:42.080834",
+  "classified_at": "2026-04-04T22:23:42.080834",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

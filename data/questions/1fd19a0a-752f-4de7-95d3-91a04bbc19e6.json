@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is the correct circuit symbol for a battery?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit symbols",
+    "battery",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A long line next to a short line",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A circle with a cross inside",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Two parallel lines of equal length",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A zigzag line",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) A long line next to a short line",
+  "explanation": "The battery symbol shows one long line (positive terminal) and one short line (negative terminal) side by side. This is the standard circuit symbol taught in Year 8 physics.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1fd19a0a-752f-4de7-95d3-91a04bbc19e6",
+  "scraped_at": "2026-04-04T22:23:59.187434",
+  "classified_at": "2026-04-04T22:23:59.187434",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

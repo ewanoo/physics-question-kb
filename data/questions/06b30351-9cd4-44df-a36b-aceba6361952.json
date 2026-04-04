@@ -1,0 +1,24 @@
+{
+  "question_text": "What is the main difference between a series circuit and a parallel circuit?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuit",
+    "parallel circuit",
+    "circuit structure"
+  ],
+  "options": null,
+  "correct_answer": "In a series circuit, components are connected in a single loop so the current flows through each component one after another. In a parallel circuit, components are connected on separate branches so the current can split and take different paths.",
+  "explanation": "Series circuits have one continuous path for current, while parallel circuits have multiple paths. This fundamental difference affects how current and voltage are distributed in each type of circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "06b30351-9cd4-44df-a36b-aceba6361952",
+  "scraped_at": "2026-04-04T22:23:59.187434",
+  "classified_at": "2026-04-04T22:23:59.187434",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

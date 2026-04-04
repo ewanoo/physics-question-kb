@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following renewable energy resources has the smallest carbon footprint over its lifetime?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "carbon footprint",
+    "environmental impact"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solar panels, because they produce electricity directly without burning fuel.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wind turbines, because they only release carbon during manufacture and installation, not during operation.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Hydroelectric dams, because they use water which is a renewable resource.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Biomass, because it uses plants that absorb carbon dioxide as they grow.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Wind turbines, because they only release carbon during manufacture and installation, not during operation.",
+  "explanation": "While all renewable sources have lower carbon footprints than fossil fuels, wind turbines produce electricity without any fuel combustion during operation. Although they have some emissions from manufacturing and transport, these are typically the lowest overall compared to other renewables that may involve habitat disruption or processing.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "248bb2b2-0414-44b9-95e6-c194240a5090",
+  "scraped_at": "2026-04-04T22:23:18.023045",
+  "classified_at": "2026-04-04T22:23:18.023045",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

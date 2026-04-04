@@ -1,0 +1,25 @@
+{
+  "question_text": "A rechargeable battery stores 7200 J of chemical energy. When used to power a motor for 1 hour, the motor converts 80% of the chemical energy into kinetic energy and dissipates the rest as thermal energy. How much thermal energy is wasted, and what does this tell you about real energy conversions?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "thermal energy",
+    "dissipation",
+    "energy efficiency"
+  ],
+  "options": null,
+  "correct_answer": "1440 J of thermal energy is wasted (20% of 7200 J). This shows that real energy conversions are never 100% efficient; some energy always dissipates as heat due to friction and other irreversible processes.",
+  "explanation": "Thermal energy wasted = 20% of 7200 J = 0.2 \u00d7 7200 = 1440 J. Perfect energy conversion is impossible in real systems because friction, air resistance, and mechanical inefficiencies always cause some energy to transfer to less useful thermal stores.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1dea906e-ffab-40e4-bc8f-6b27d1bf3a5c",
+  "scraped_at": "2026-04-04T22:22:43.171493",
+  "classified_at": "2026-04-04T22:22:43.171493",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

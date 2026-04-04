@@ -1,0 +1,24 @@
+{
+  "question_text": "A compass is placed 10 cm north of a bar magnet with its south pole pointing upward. Which direction will the compass needle point?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "compass",
+    "magnetic field",
+    "poles"
+  ],
+  "options": null,
+  "correct_answer": "North (or downward toward the south pole of the magnet)",
+  "explanation": "The compass needle's north pole is attracted to the south pole of the magnet. Since the magnet's south pole points upward, the compass needle will point upward or north toward it.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "eafa75f5-dc67-49b2-9551-478031d0de52",
+  "scraped_at": "2026-04-04T22:22:17.195513",
+  "classified_at": "2026-04-04T22:22:17.195513",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

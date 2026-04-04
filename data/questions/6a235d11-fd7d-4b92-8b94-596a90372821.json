@@ -1,0 +1,25 @@
+{
+  "question_text": "Name two materials where one is much denser than the other.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "materials",
+    "comparison",
+    "examples"
+  ],
+  "options": null,
+  "correct_answer": "Any two materials with a clear density difference, such as: lead and cork, gold and foam, aluminum and plastic, or mercury and air",
+  "explanation": "There are many possible correct answers. The key is to name two real materials where one is clearly denser than the other. For example, lead is much denser than cork because lead feels very heavy for its size, while cork feels light.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "6a235d11-fd7d-4b92-8b94-596a90372821",
+  "scraped_at": "2026-04-04T22:24:12.607544",
+  "classified_at": "2026-04-04T22:24:12.607544",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

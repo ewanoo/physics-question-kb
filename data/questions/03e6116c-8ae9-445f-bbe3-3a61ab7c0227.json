@@ -1,0 +1,45 @@
+{
+  "question_text": "A book is resting on a table. Which pair of forces are an action-reaction pair according to Newton's third law?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "Newton's third law",
+    "action-reaction pairs",
+    "contact forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of the book and the normal force from the table",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The normal force from the table on the book and the normal force from the book on the table",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of the book and the friction between the book and table",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The normal force from the table and the friction from the table",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The normal force from the table on the book and the normal force from the book on the table",
+  "explanation": "Action-reaction pairs are forces of the same type acting on different objects. The normal force from the table pushing up on the book and the normal force from the book pushing down on the table are equal and opposite forces acting on each other. The weight and normal force are not an action-reaction pair because they act on the same object and are different types of force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "03e6116c-8ae9-445f-bbe3-3a61ab7c0227",
+  "scraped_at": "2026-04-04T22:23:42.080834",
+  "classified_at": "2026-04-04T22:23:42.080834",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

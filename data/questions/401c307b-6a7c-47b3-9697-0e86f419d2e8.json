@@ -1,0 +1,46 @@
+{
+  "question_text": "What does density measure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "definition",
+    "density",
+    "mass",
+    "volume"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How heavy an object is",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How much mass is packed into a certain volume",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "How big an object is",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How quickly an object moves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) How much mass is packed into a certain volume",
+  "explanation": "Density tells us how tightly packed the matter is in a substance. It is the amount of mass (in grams or kilograms) contained in a specific volume (like cubic centimetres or cubic metres).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "401c307b-6a7c-47b3-9697-0e86f419d2e8",
+  "scraped_at": "2026-04-04T22:24:12.607544",
+  "classified_at": "2026-04-04T22:24:12.607544",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

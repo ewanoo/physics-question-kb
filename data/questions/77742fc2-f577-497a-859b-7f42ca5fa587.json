@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following best explains why an ice cube floats on water?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "ice",
+    "states of matter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice is colder than water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ice is less dense than water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ice weighs less than water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ice is solid and water is liquid",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Ice is less dense than water",
+  "explanation": "Ice floats because it is less dense than liquid water. This unusual property happens because water expands when it freezes, spreading the same mass over a larger volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "77742fc2-f577-497a-859b-7f42ca5fa587",
+  "scraped_at": "2026-04-04T22:24:12.607544",
+  "classified_at": "2026-04-04T22:24:12.607544",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

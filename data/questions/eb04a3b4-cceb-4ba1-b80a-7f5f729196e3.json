@@ -1,0 +1,24 @@
+{
+  "question_text": "Two identical metal boxes are pushed across an identical metal surface. Box A has a normal force of 20 N and Box B has a normal force of 40 N. How many times greater is the friction force on Box B compared to Box A?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction calculation",
+    "normal force",
+    "proportional relationship"
+  ],
+  "options": null,
+  "correct_answer": "2 times greater (or twice as large)",
+  "explanation": "Friction is directly proportional to the normal force. Since Box B has twice the normal force of Box A, it will experience twice the friction force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "eb04a3b4-cceb-4ba1-b80a-7f5f729196e3",
+  "scraped_at": "2026-04-04T22:23:52.646788",
+  "classified_at": "2026-04-04T22:23:52.646788",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

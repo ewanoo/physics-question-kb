@@ -1,0 +1,25 @@
+{
+  "question_text": "A ball with a mass of 0.5 kg is dropped from a height of 20 m and lands on a soft mat. During impact, the mat compresses by 0.4 m before the ball stops. Use g = 10 m/s\u00b2. Assuming all gravitational potential energy is converted to elastic potential energy in the mat, calculate the spring constant of the mat's compression.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "elastic potential energy",
+    "energy conversion",
+    "spring constant"
+  ],
+  "options": null,
+  "correct_answer": "1250 N/m",
+  "explanation": "Initial gravitational PE = mgh = 0.5 \u00d7 10 \u00d7 20 = 100 J. This converts to elastic PE in the mat: 100 = 0.5 \u00d7 k \u00d7 0.4\u00b2. Solving: 100 = 0.5 \u00d7 k \u00d7 0.16, so k = 100 \u00f7 0.08 = 1250 N/m. This demonstrates how impact materials must have specific spring constants to safely absorb falling objects.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dac77fcd-4284-4f60-b952-8206bcd7b991",
+  "scraped_at": "2026-04-04T22:22:43.171493",
+  "classified_at": "2026-04-04T22:22:43.171493",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "A student wants to make an electromagnet that can pick up 50 paper clips. She tests three designs: Design 1 has 100 coils with 3 amps of current, Design 2 has 200 coils with 1.5 amps of current, and Design 3 has 150 coils with 2 amps of current. Which design will produce the strongest electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "coil turns",
+    "current",
+    "magnetic strength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Design 1 because it has the highest current",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Design 2 because it has the most coils",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Design 3 because it balances coils and current equally",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All designs will be equally strong",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Design 2 because it has the most coils",
+  "explanation": "Electromagnet strength depends on both the number of coils and the current, but the number of coils is generally more important. Design 2 has 200 coils (the most) and even though the current is lower, the extra coils more than compensate, making it the strongest overall.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "43161000-771c-4ea6-b1d8-e2f4991565f5",
+  "scraped_at": "2026-04-04T22:22:30.926719",
+  "classified_at": "2026-04-04T22:22:30.926719",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

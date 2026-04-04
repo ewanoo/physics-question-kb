@@ -1,0 +1,45 @@
+{
+  "question_text": "A student heats ice from -10\u00b0C to steam at 110\u00b0C. During this process, the mass stays constant at 50 g. The heating curve shows a long flat section between 0\u00b0C and 100\u00b0C. Which statement best explains why the temperature does not increase during melting and boiling?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "latent heat",
+    "heating curves",
+    "melting and boiling"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The energy is being used to break bonds between particles so they can move more freely, rather than to increase temperature",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The particles stop moving during melting and boiling so no kinetic energy is transferred",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "All the thermal energy escapes as heat into the surroundings during these phase changes",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The particles are too heavy to move faster once they reach 0\u00b0C or 100\u00b0C",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) The energy is being used to break bonds between particles so they can move more freely, rather than to increase temperature",
+  "explanation": "During melting and boiling, energy goes into overcoming forces between particles (latent heat) rather than increasing their kinetic energy, so temperature stays constant. Temperature only increases when particles move faster, which happens when energy increases their kinetic energy rather than breaking apart the structure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1e0f6b83-a87e-43c2-8218-8b43bff636c5",
+  "scraped_at": "2026-04-04T22:22:58.576008",
+  "classified_at": "2026-04-04T22:22:58.576008",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

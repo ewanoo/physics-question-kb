@@ -1,0 +1,25 @@
+{
+  "question_text": "A student compares a soft iron core electromagnet with a steel core electromagnet, both using identical coils and the same 9V battery. The soft iron electromagnet picks up 80 paper clips. After the electromagnet is switched off, the soft iron electromagnet drops all the paper clips, but the steel electromagnet still holds about 30 paper clips. Explain why this happens and evaluate which type of core is better for a temporary lifting magnet in a scrapyard.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnet cores",
+    "soft iron vs steel",
+    "residual magnetism",
+    "applications"
+  ],
+  "options": null,
+  "correct_answer": "Soft iron loses its magnetism when the current is switched off because it does not retain residual magnetism. Steel retains some magnetism because its domains stay partially aligned. Soft iron is better for a scrapyard electromagnet because it releases the scrap metal instantly when switched off, whereas steel would require mechanical shaking to release the metal.",
+  "explanation": "Soft iron is magnetically 'soft' meaning it easily loses its magnetism, while steel is magnetically 'hard' and retains magnetism. For industrial applications like scrap metal lifting, soft iron is superior because it allows quick, automatic release of the load when the power is turned off.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f8c479ab-91ae-4d4d-bffe-012ee92bb75b",
+  "scraped_at": "2026-04-04T22:22:30.926719",
+  "classified_at": "2026-04-04T22:22:30.926719",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}
