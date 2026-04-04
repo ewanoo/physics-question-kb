@@ -49,19 +49,29 @@
 - All 57 tests passing
 - Coverage report updated — `is_complete: true`
 
-## Statistics (Session 4 — FINAL)
-- **Total questions in DB**: 524
+### Session 5 (agent — 2026-04-04)
+- Rebuilt DB from 524 committed question JSON files
+- Identified weak subtopics (many at 12-16 questions with thin coverage in certain difficulties)
+- Generated **159 new questions** in 3 batches targeting all weak areas:
+  - Batch 1 (59 q): electricity.magnets, energy.stores, matter.states, space.seasons, energy.resources, forces.speed, forces.types, forces.friction, electricity.circuits, energy.conservation, matter.density
+  - Batch 2 (46 q): energy.efficiency, forces.balanced, forces.gravity, waves.light, waves.properties, matter.changes, forces.springs, electricity.electromagnets, space.earth_moon, energy.food
+  - Batch 3 (54 q): electricity.current_voltage, electricity.static, energy.power, forces.moments, forces.pressure, matter.particles, space.solar_system, waves.em_spectrum, matter.gas_pressure, space.gravity
+- All 33 subtopics now have 18-27 questions
+- Coverage report updated — `is_complete: true`, 683 total questions
+
+## Statistics (Session 5 — CURRENT)
+- **Total questions in DB**: 683
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **Mean quality score**: 4.45 / 5.0
-- **By difficulty**: easy=238, medium=144, hard=142
+- **Mean quality score**: 4.56 / 5.0
+- **By difficulty**: easy=250, medium=222, hard=211
 - **By topic**:
-  - Energy: 93 (stores=13, conservation=17, resources=14, efficiency=19, power=15, food=15)
-  - Forces: 133 (types=14, gravity=20, friction=15, balanced=20, speed=14, pressure=15, moments=15, springs=20)
-  - Waves: 91 (properties=14, sound=27, light=15, colour=20, em_spectrum=15)
-  - Electricity: 75 (circuits=15, current_voltage=15, static=15, magnets=12, electromagnets=18)
-  - Matter: 74 (particles=15, states=13, changes=15, density=15, gas_pressure=16)
-  - Space: 58 (solar_system=15, earth_moon=14, seasons=13, gravity=16)
+  - Energy: 122 (stores=18, conservation=21, resources=19, efficiency=24, power=21, food=19)
+  - Forces: 155 (types=19, gravity=25, friction=21, balanced=25, speed=20, pressure=21, moments=21, springs=24)
+  - Waves: 107 (properties=19, sound=27, light=20, colour=20, em_spectrum=21)
+  - Electricity: 105 (circuits=19, current_voltage=21, static=21, magnets=22, electromagnets=22)
+  - Matter: 97 (particles=21, states=18, changes=20, density=19, gas_pressure=19)
+  - Space: 76 (solar_system=21, earth_moon=18, seasons=18, gravity=19)
 
 ## Scraper Status
 | Scraper | Status | Questions in DB |
@@ -74,11 +84,11 @@
 
 ## Completion Criteria Check
 - [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [x] `python -m src.cli.query stats` shows 524 questions (>= 500)
-- [x] All 33 subtopics have >= 5 questions each
-- [x] Difficulty distribution: easy=238, medium=144, hard=142 (all >= 50)
+- [x] `python -m src.cli.query stats` shows 683 questions (>= 500)
+- [x] All 33 subtopics have >= 5 questions each (minimum is 18)
+- [x] Difficulty distribution: easy=250, medium=222, hard=211 (all >= 50)
 - [x] 3 sources represented (>= 3 required)
-- [x] Mean quality score = 4.45 >= 3.5
+- [x] Mean quality score = 4.56 >= 3.5
 - [x] `data/coverage_report.json` exists with `is_complete: true`
 - [x] STATUS.md Phase = COMPLETE
 
