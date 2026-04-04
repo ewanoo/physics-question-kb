@@ -42,7 +42,15 @@ The `.env` file is gitignored — never commit it.
 7. **Commit and push**: `git add -A && git commit -m "Descriptive message" && git push`
 8. If a phase is fully complete, advance `Current Phase` in STATUS.md
 
-**Rule**: Always push at the end of every session. If push fails, investigate — don't skip it.
+**Rule**: Commit and push frequently — after every meaningful unit of work, not just at the end.
+This gives the project owner visibility that the agent is making progress. Good commit points:
+- After environment setup completes
+- After each file is written and tested
+- After each scraper is built
+- After each batch of questions is scraped/classified
+- At the end of the session
+
+Use descriptive messages: `"Phase 1: write base scraper utils"`, `"Phase 2a: Isaac Physics scraper - 47 questions found"`
 
 ---
 
