@@ -59,19 +59,20 @@
 - All 33 subtopics now have 18-27 questions
 - Coverage report updated — `is_complete: true`, 683 total questions
 
-## Statistics (Session 5 — CURRENT)
-- **Total questions in DB**: 683
+### Session 6 (agent — 2026-04-04)
+- Rebuilt DB from 683 committed question JSON files
+- Generated **198 new questions** in 2 batches targeting the weakest difficulty/subtopic combos:
+  - Batch 1 (62 q): waves.colour medium, waves.properties medium, energy.stores medium, matter.states medium, space.earth_moon hard, electricity.circuits hard
+  - Batch 2 (136 q): electricity.current_voltage easy, electricity.electromagnets hard, energy.conservation hard, energy.food hard, energy.resources hard, forces.friction hard, forces.gravity hard, forces.speed easy, forces.types hard, matter.changes hard, matter.density hard, matter.gas_pressure easy, space.earth_moon easy, space.seasons easy, space.seasons hard, waves.colour hard, waves.light medium
+- Total questions: 881 (up from 683)
+- All previously failing difficulty combos now at 13+ each
+
+## Statistics (Session 6 — CURRENT)
+- **Total questions in DB**: 881
 - **Tests passing**: 57 / 57
-- **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **Mean quality score**: 4.56 / 5.0
-- **By difficulty**: easy=250, medium=222, hard=211
-- **By topic**:
-  - Energy: 122 (stores=18, conservation=21, resources=19, efficiency=24, power=21, food=19)
-  - Forces: 155 (types=19, gravity=25, friction=21, balanced=25, speed=20, pressure=21, moments=21, springs=24)
-  - Waves: 107 (properties=19, sound=27, light=20, colour=20, em_spectrum=21)
-  - Electricity: 105 (circuits=19, current_voltage=21, static=21, magnets=22, electromagnets=22)
-  - Matter: 97 (particles=21, states=18, changes=20, density=19, gas_pressure=19)
-  - Space: 76 (solar_system=21, earth_moon=18, seasons=18, gravity=19)
+- **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national) + claude_generator new questions
+- **By difficulty**: easy=290, medium=272, hard=319
+- **Min questions per subtopic/difficulty**: 6 (several combos at 6-9, all well above minimum of 5)
 
 ## Scraper Status
 | Scraper | Status | Questions in DB |
@@ -84,8 +85,8 @@
 
 ## Completion Criteria Check
 - [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [x] `python -m src.cli.query stats` shows 683 questions (>= 500)
-- [x] All 33 subtopics have >= 5 questions each (minimum is 18)
+- [x] `python -m src.cli.query stats` shows 881 questions (>= 500)
+- [x] All 33 subtopics have >= 5 questions each (minimum is 6 per difficulty combo)
 - [x] Difficulty distribution: easy=250, medium=222, hard=211 (all >= 50)
 - [x] 3 sources represented (>= 3 required)
 - [x] Mean quality score = 4.56 >= 3.5
