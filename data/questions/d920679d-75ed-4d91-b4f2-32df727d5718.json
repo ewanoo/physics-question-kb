@@ -1,0 +1,46 @@
+{
+  "question_text": "A toy car is being pushed across a flat floor with a constant force of 8 N to the right. The friction force acting on the car is 8 N to the left. Which statement best describes the motion of the car?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "resultant force",
+    "equilibrium",
+    "Newton's first law",
+    "friction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The car accelerates to the right because the push force is greater than friction.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The car moves at a constant velocity (or remains stationary if already at rest) because the resultant force is zero.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The car decelerates because friction always opposes motion.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The car accelerates to the left because friction is a stronger force than the push.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The push force (8 N right) and friction force (8 N left) are equal in magnitude and opposite in direction, so they balance. The resultant force is zero. By Newton's first law, the car will either remain at rest or continue moving at constant velocity\u2014there is no acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d920679d-75ed-4d91-b4f2-32df727d5718",
+  "topic": "forces.balanced",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:28.776149",
+  "classified_at": "2026-04-05T05:22:28.776149",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/medium",
+  "raw_html": null
+}

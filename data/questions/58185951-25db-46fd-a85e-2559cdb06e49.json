@@ -1,0 +1,26 @@
+{
+  "question_text": "A student stretches a spring and measures how far it extends. The spring extends 8 cm when a 2 N force is applied. What is the spring constant of this spring?",
+  "question_type": "calculation",
+  "tags": [
+    "spring constant",
+    "Hooke's law",
+    "force",
+    "extension",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "25 N/m",
+  "explanation": "Using Hooke's law: F = k \u00d7 e, so k = F \u00f7 e. First convert 8 cm to 0.08 m, then k = 2 \u00f7 0.08 = 25 N/m. The spring constant tells us how stiff the spring is\u2014higher values mean stiffer springs.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "58185951-25db-46fd-a85e-2559cdb06e49",
+  "topic": "forces.springs",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:44.927654",
+  "classified_at": "2026-04-05T05:22:44.927654",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/medium",
+  "raw_html": null
+}

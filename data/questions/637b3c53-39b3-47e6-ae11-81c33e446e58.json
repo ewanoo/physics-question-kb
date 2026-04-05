@@ -1,0 +1,46 @@
+{
+  "question_text": "A student measures the weight of a 2 kg object using a newtonmeter on Earth (g = 10 N/kg). Which of the following best explains why the object's weight would be different on Jupiter, where g \u2248 25 N/kg?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "weight",
+    "gravitational_field_strength",
+    "planets",
+    "newton_meter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object's mass increases on Jupiter because gravity is stronger.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Jupiter has a much stronger gravitational field, so the gravitational force on the object is greater, making its weight larger.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The newtonmeter is broken on Jupiter and gives false readings.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object shrinks on Jupiter, so it weighs less even though gravity is stronger.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Weight is the gravitational force acting on an object and depends on both mass and gravitational field strength (W = m \u00d7 g). Jupiter's stronger gravitational field (25 N/kg vs 10 N/kg on Earth) means the same 2 kg object experiences a greater downward force. The object's mass doesn't change, but the gravitational pull does, so the weight increases to 50 N on Jupiter compared to 20 N on Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "637b3c53-39b3-47e6-ae11-81c33e446e58",
+  "topic": "forces.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:22:40.454552",
+  "classified_at": "2026-04-05T05:22:40.454552",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/hard",
+  "raw_html": null
+}

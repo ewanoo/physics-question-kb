@@ -1,0 +1,25 @@
+{
+  "question_text": "A block of ice at \u22125 \u00b0C is placed in a beaker and heated steadily. The ice melts at 0 \u00b0C and the water then boils at 100 \u00b0C. Explain why melting is a physical change but would remain a physical change even if the ice never refroze. Use the term 'particles' in your answer.",
+  "question_type": "short_answer",
+  "tags": [
+    "physical_change",
+    "melting",
+    "particle_model",
+    "reversibility"
+  ],
+  "options": null,
+  "correct_answer": "Melting is a physical change because the particles (water molecules) remain the same and only their arrangement changes. The ice particles are tightly packed in a solid structure, but when heated they gain energy and move apart into a liquid arrangement. Even though the ice melted irreversibly (never refroze), it is still a physical change because no new substance was formed\u2014it is still water.",
+  "explanation": "This question tests understanding that 'reversible/irreversible' is different from 'physical/chemical'. A physical change doesn't create new substances; the particles stay the same, only their arrangement and state change. Students must use particle language to show understanding of the submicroscopic level. A common misconception is confusing whether a change is reversible with whether it's physical or chemical.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a4ff608e-812c-45f9-9e46-b649fcea1c9b",
+  "topic": "matter.changes",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:22:57.525608",
+  "classified_at": "2026-04-05T05:22:57.525608",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/hard",
+  "raw_html": null
+}

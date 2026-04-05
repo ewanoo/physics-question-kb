@@ -1,0 +1,24 @@
+{
+  "question_text": "A book is resting on a horizontal table. The weight of the book is 12 N downwards. What is the magnitude of the normal force exerted by the table on the book, and explain why the book remains stationary.",
+  "question_type": "calculation",
+  "tags": [
+    "normal force",
+    "equilibrium",
+    "Newton's first law"
+  ],
+  "options": null,
+  "correct_answer": "The normal force is 12 N. The book remains stationary because the forces are balanced (weight down = normal force up), so the resultant force is zero, and by Newton's first law an object at rest stays at rest when the net force is zero.",
+  "explanation": "When an object is in equilibrium, all forces must balance. The downward weight (12 N) must equal the upward normal force (12 N) so the resultant force is zero. By Newton's first law, a stationary object with zero resultant force stays at rest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d33241ee-5c74-445c-ba32-57c4a5c8b0ca",
+  "topic": "forces.balanced",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:28.775906",
+  "classified_at": "2026-04-05T05:22:28.775906",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/medium",
+  "raw_html": null
+}

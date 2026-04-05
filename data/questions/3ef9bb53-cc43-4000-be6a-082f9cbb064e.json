@@ -1,0 +1,46 @@
+{
+  "question_text": "A student carries out four experiments:\n1. Ice melting in warm water\n2. Magnesium burning in oxygen\n3. Candle wax melting near a flame\n4. Rusting of an iron nail left in damp air\n\nWhich experiment shows an irreversible chemical change?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "chemical_change",
+    "irreversible_change",
+    "burning",
+    "rusting"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Experiment 1 only",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Experiments 2 and 4 only",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Experiments 1 and 3 only",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All four experiments",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Experiments 2 (magnesium burning) and 4 (rusting) are irreversible chemical changes because new substances are formed and cannot easily be turned back into the original materials. Experiments 1 and 3 are reversible physical changes\u2014melting can be reversed by freezing. To identify irreversible changes, ask: has a completely new substance been made that would be difficult to reverse?",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3ef9bb53-cc43-4000-be6a-082f9cbb064e",
+  "topic": "matter.changes",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:57.525360",
+  "classified_at": "2026-04-05T05:22:57.525360",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/medium",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "A student builds an electromagnet by wrapping wire around an iron core and connecting it to a battery. She notices that when she increases the number of coils wrapped around the iron core from 50 to 150 turns, the electromagnet becomes much stronger. Which of the following best explains why increasing the number of coils increases the magnetic field strength?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "electromagnets",
+    "solenoids",
+    "magnetic_field_strength",
+    "coil_turns"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "More coils means more wire, so more current flows through the circuit.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Each coil produces its own magnetic field, and these fields add together to create a stronger overall field.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "More coils increase the resistance of the wire, which makes the electromagnet stronger.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The iron core becomes magnetized more quickly with more coils, so the field is permanently stronger.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Each turn of wire carrying current creates a magnetic field. When you add more coils, each one contributes its own magnetic field, and since they all point in the same direction around the iron core, they combine together to make a much stronger total field. This is why electromagnets with more turns are stronger.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "37384560-d221-4631-8e00-ff1edb708ee1",
+  "topic": "electricity.electromagnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:08.003026",
+  "classified_at": "2026-04-05T05:22:08.003026",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "raw_html": null
+}

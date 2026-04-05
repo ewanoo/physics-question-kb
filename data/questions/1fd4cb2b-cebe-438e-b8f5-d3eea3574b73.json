@@ -1,0 +1,46 @@
+{
+  "question_text": "A tennis ball is hit hard through the air and gradually slows down even though no player is touching it. A heavier bowling ball is thrown with the same initial speed through the same air. Which statement best explains the motion of both balls?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "air resistance",
+    "drag",
+    "mass",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The tennis ball slows down because air resistance is stronger on lighter objects.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both balls experience the same air resistance force, but the bowling ball slows down less because it has more mass and inertia.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The bowling ball does not slow down at all because it is heavier than air.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The tennis ball slows down faster because it has a smaller surface area exposed to air.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Both balls experience air resistance (drag) as they move, but the effect is different. Air resistance doesn't depend on mass\u2014it depends on speed and shape. However, the bowling ball's greater mass means it has more inertia, so the same air resistance force causes less deceleration (F=ma: if m is larger and F is similar, a is smaller). The tennis ball decelerates faster because it's lighter, not because air resistance is stronger on it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1fd4cb2b-cebe-438e-b8f5-d3eea3574b73",
+  "topic": "forces.friction",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:22:34.707738",
+  "classified_at": "2026-04-05T05:22:34.707738",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/hard",
+  "raw_html": null
+}

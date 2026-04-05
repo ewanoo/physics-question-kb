@@ -1,0 +1,25 @@
+{
+  "question_text": "A student eats a banana that contains 420 kilojoules of chemical energy. During respiration, her body converts this energy into heat and movement. If her body is only 25% efficient at converting food energy into useful work, how much energy is wasted as heat?",
+  "question_type": "calculation",
+  "tags": [
+    "respiration",
+    "energy transfer",
+    "efficiency",
+    "kilojoules"
+  ],
+  "options": null,
+  "correct_answer": "315 kJ",
+  "explanation": "If 25% of energy is converted to useful work, then 75% is wasted as heat. 75% of 420 kJ = 0.75 \u00d7 420 = 315 kJ. This shows that most of the energy from food is released as heat energy, which is why we feel warm after eating and exercise.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d24f5e97-b45c-4751-aff8-08c438e1a386",
+  "topic": "energy.food",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:22:19.387238",
+  "classified_at": "2026-04-05T05:22:19.387238",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/hard",
+  "raw_html": null
+}

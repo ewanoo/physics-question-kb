@@ -1,0 +1,46 @@
+{
+  "question_text": "A student observes that when a bottle of perfume is opened at one end of a classroom, the smell spreads throughout the room within a few minutes. Which statement best explains why this happens?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "diffusion",
+    "particles",
+    "gases",
+    "particle_motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Perfume molecules are pushed by air currents from the bottle to the other end of the room.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Perfume gas molecules move randomly in all directions and gradually spread out due to their kinetic energy.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Perfume molecules are attracted to people's noses and travel specifically towards them.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The perfume bottle creates a vacuum that sucks air molecules carrying perfume across the room.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Diffusion occurs because gas particles move randomly due to their kinetic energy, and over time they spread out evenly throughout the available space. This is not directional movement caused by air currents or attraction; it's random molecular motion that eventually distributes the perfume molecules throughout the room.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "21e8fa61-9e90-4ab4-8353-822bc46840b0",
+  "topic": "matter.particles",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:23:02.476467",
+  "classified_at": "2026-04-05T05:23:02.476467",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/medium",
+  "raw_html": null
+}

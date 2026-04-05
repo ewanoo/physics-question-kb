@@ -1,0 +1,26 @@
+{
+  "question_text": "A microwave oven has a power rating of 900 W. It runs for 120 seconds to heat a meal. Calculate the energy transferred by the microwave. Give your answer in joules.",
+  "question_type": "calculation",
+  "tags": [
+    "power",
+    "energy",
+    "calculation",
+    "P=E/t",
+    "appliance_rating"
+  ],
+  "options": null,
+  "correct_answer": "108,000 J (or 1.08 \u00d7 10\u2075 J)",
+  "explanation": "Using P = E/t, we rearrange to E = P \u00d7 t. Energy = 900 W \u00d7 120 s = 108,000 J. This shows how power rating and time of use determine total energy consumed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "579c6e54-1a62-4b52-9a80-5a3b0e6d090b",
+  "topic": "energy.power",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:23.990250",
+  "classified_at": "2026-04-05T05:22:23.990250",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

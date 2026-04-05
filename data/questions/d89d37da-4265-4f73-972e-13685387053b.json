@@ -1,0 +1,46 @@
+{
+  "question_text": "A student shines light through a prism and observes the visible light spectrum displayed on a white screen. Which of the following statements is correct about the light that has been separated?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "visible_spectrum",
+    "prism",
+    "refraction",
+    "wavelength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red light has a shorter wavelength than violet light, so it bends more in the prism.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Violet light has a shorter wavelength than red light, so it bends more when passing through the prism.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "All colours of light bend by the same amount because they are all part of white light.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Blue light bends the least because it is in the middle of the visible spectrum.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Different colours of light have different wavelengths. Violet light has the shortest wavelength in the visible spectrum, and shorter wavelengths bend more when they pass through a prism. This is why violet appears at one end of the spectrum and red at the other.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d89d37da-4265-4f73-972e-13685387053b",
+  "topic": "waves.colour",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:23:18.151373",
+  "classified_at": "2026-04-05T05:23:18.151373",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.colour/medium",
+  "raw_html": null
+}

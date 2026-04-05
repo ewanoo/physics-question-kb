@@ -1,0 +1,26 @@
+{
+  "question_text": "A solenoid electromagnet is connected to a 6V battery and produces a magnetic field strong enough to pick up 12 paper clips. The student then connects the same solenoid to a 12V battery instead. Assuming the wire doesn't overheat, calculate how many paper clips the electromagnet could now pick up, and explain your reasoning.",
+  "question_type": "calculation",
+  "tags": [
+    "electromagnets",
+    "voltage",
+    "current",
+    "magnetic_field_strength",
+    "proportionality"
+  ],
+  "options": null,
+  "correct_answer": "24 paper clips (or approximately 24). When the voltage doubles from 6V to 12V, the current through the solenoid doubles (assuming constant resistance). Since magnetic field strength is directly proportional to current, the field strength also doubles. Therefore, the electromagnet can pick up twice as many paper clips: 12 \u00d7 2 = 24.",
+  "explanation": "Doubling the voltage causes the current to double (using Ohm's Law: current = voltage \u00f7 resistance). The strength of an electromagnet's magnetic field is directly proportional to the current flowing through it. So if the current doubles, the magnetic field doubles, meaning it can pick up twice as many paper clips. This demonstrates the relationship between electrical power input and electromagnet strength.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "56740c0b-5bef-43fe-a018-671c49513abe",
+  "topic": "electricity.electromagnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:22:08.003272",
+  "classified_at": "2026-04-05T05:22:08.003272",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/hard",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "A metal wire is stretched beyond its elastic limit and does not return to its original length when the force is removed. Which statement best explains why this happens?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "elastic limit",
+    "permanent deformation",
+    "properties of materials",
+    "evaluation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The force applied was too small to stretch the wire permanently.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The metal atoms have been rearranged and the bonds between them have changed position, so the wire cannot snap back to shape.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Hooke's law no longer applies because the wire is now too long.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The wire has lost all its elasticity and behaves like a plastic material.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When a material is stretched beyond its elastic limit, the atomic structure is permanently altered and the material cannot return to its original shape. This is called plastic deformation. Option B correctly identifies that atoms have shifted position permanently, unlike elastic deformation where they return to their original arrangement.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2a8adb07-4526-482d-bbb4-1f2d4b38f15e",
+  "topic": "forces.springs",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:22:44.927910",
+  "classified_at": "2026-04-05T05:22:44.927910",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/hard",
+  "raw_html": null
+}

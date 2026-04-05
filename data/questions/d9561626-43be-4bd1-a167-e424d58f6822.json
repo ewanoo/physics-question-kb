@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following statements best explains why a 2000 W kettle transfers energy to water faster than a 1000 W kettle?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "power",
+    "rate_of_energy_transfer",
+    "appliance_comparison",
+    "watts"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The 2000 W kettle is larger and holds more water.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The 2000 W kettle transfers twice as much energy per second, so it heats the water faster.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Power is measured in joules, so higher power means more joules of water.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The 2000 W kettle uses less time because watts measure time efficiency.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Power measures the rate of energy transfer (energy per second). A 2000 W kettle transfers 2000 joules every second, while a 1000 W kettle transfers only 1000 joules per second, so the higher-power kettle heats water faster.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d9561626-43be-4bd1-a167-e424d58f6822",
+  "topic": "energy.power",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:23.990469",
+  "classified_at": "2026-04-05T05:22:23.990469",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

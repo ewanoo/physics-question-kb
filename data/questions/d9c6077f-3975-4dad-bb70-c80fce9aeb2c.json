@@ -1,0 +1,45 @@
+{
+  "question_text": "A box of mass 20 kg is being dragged across a rough wooden floor. The person pulling the rope must apply a force of 80 N to keep the box moving at constant speed. Which statement best explains why the pulling force must be at least 80 N?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "friction",
+    "contact_forces",
+    "opposing_forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity pulls the box downward with a force greater than 80 N",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction acts as a contact force opposing the motion, and the pulling force must overcome it to maintain constant speed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of the box creates tension in the rope that opposes the pull",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Magnetic forces between the box and floor resist the motion",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction is a contact force between the box and floor that opposes motion. Since the box moves at constant speed, the forces are balanced\u2014the 80 N pull equals the 80 N friction force. Option A confuses gravity (which acts downward); option C incorrectly links weight to rope tension; option D is wrong because magnetic forces don't significantly affect everyday objects on floors.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d9c6077f-3975-4dad-bb70-c80fce9aeb2c",
+  "topic": "forces.types",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T05:22:50.815931",
+  "classified_at": "2026-04-05T05:22:50.815931",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.types/easy",
+  "raw_html": null
+}

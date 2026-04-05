@@ -1,0 +1,26 @@
+{
+  "question_text": "A sound wave travels through water at a speed of 1500 m/s with a frequency of 300 Hz. Calculate the wavelength of this sound wave. Show your working.",
+  "question_type": "calculation",
+  "tags": [
+    "wave_speed",
+    "frequency",
+    "wavelength",
+    "calculation",
+    "sound"
+  ],
+  "options": null,
+  "correct_answer": "5 m (or 5 metres)",
+  "explanation": "Use the wave equation: wave speed = frequency \u00d7 wavelength, rearranged as wavelength = wave speed \u00f7 frequency. Therefore: wavelength = 1500 m/s \u00f7 300 Hz = 5 m. This means the distance between successive wave peaks in water is 5 metres.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4e1264fb-d4c2-462f-8411-9668800b7b6c",
+  "topic": "waves.properties",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:23:22.822792",
+  "classified_at": "2026-04-05T05:23:22.822792",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/medium",
+  "raw_html": null
+}

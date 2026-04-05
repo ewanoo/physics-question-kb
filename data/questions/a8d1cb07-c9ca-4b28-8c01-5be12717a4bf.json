@@ -1,0 +1,46 @@
+{
+  "question_text": "A student creates waves in a rope by moving one end up and down. When the student moves the rope faster (higher frequency), they notice the distance between wave peaks becomes smaller. Which statement best explains why the wavelength decreases when frequency increases?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "frequency",
+    "wavelength",
+    "wave_speed",
+    "relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The wave speed increases because the student is moving faster",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The wave speed stays the same, but more waves fit into the same distance in the same time",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Wavelength and frequency are not related to each other",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The amplitude of the wave increases, which pushes the peaks closer together",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The wave speed in the rope remains constant because it depends only on the rope's properties, not how fast you shake it. When frequency increases, more complete waves must pass a point in the same time, so each wave must be shorter (smaller wavelength). This follows the relationship: wave speed = frequency \u00d7 wavelength.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a8d1cb07-c9ca-4b28-8c01-5be12717a4bf",
+  "topic": "waves.properties",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:23:22.822518",
+  "classified_at": "2026-04-05T05:23:22.822518",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/medium",
+  "raw_html": null
+}

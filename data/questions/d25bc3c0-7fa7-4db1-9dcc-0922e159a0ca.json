@@ -1,0 +1,26 @@
+{
+  "question_text": "A compound contains 4 oxygen atoms and 2 nitrogen atoms bonded together in each molecule. If you have 36 oxygen atoms, how many complete molecules of this compound can you make, and how many nitrogen atoms would you need?",
+  "question_type": "calculation",
+  "tags": [
+    "compounds",
+    "molecules",
+    "atoms",
+    "stoichiometry",
+    "ratios"
+  ],
+  "options": null,
+  "correct_answer": "9 molecules; 18 nitrogen atoms",
+  "explanation": "Each molecule needs 4 oxygen atoms, so 36 oxygen atoms \u00f7 4 = 9 complete molecules. Each molecule also needs 2 nitrogen atoms, so 9 molecules \u00d7 2 = 18 nitrogen atoms required. This requires understanding that compounds have fixed ratios of atoms within each molecule.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d25bc3c0-7fa7-4db1-9dcc-0922e159a0ca",
+  "topic": "matter.particles",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:23:02.476702",
+  "classified_at": "2026-04-05T05:23:02.476702",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/hard",
+  "raw_html": null
+}

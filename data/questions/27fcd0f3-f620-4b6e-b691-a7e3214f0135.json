@@ -1,0 +1,25 @@
+{
+  "question_text": "A student heats a block of ice at 0\u00b0C. The temperature stays at 0\u00b0C for several minutes while the ice melts into water. Explain why the temperature does not increase during melting, even though heat energy is being added.",
+  "question_type": "short_answer",
+  "tags": [
+    "melting",
+    "latent_heat",
+    "energy_transfer",
+    "state_change"
+  ],
+  "options": null,
+  "correct_answer": "During melting, the heat energy supplied is used to break apart the bonds holding the particles in a fixed solid structure, rather than increasing the kinetic energy (temperature) of the particles. Once all the ice has melted, further heating will increase the temperature of the water.",
+  "explanation": "At the melting point, thermal energy goes into changing the state of matter (overcoming intermolecular forces) rather than raising temperature. This is why melting is an isothermal process. Students should recognise that energy is still being added, but it's used for a different purpose.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "27fcd0f3-f620-4b6e-b691-a7e3214f0135",
+  "topic": "matter.states",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:23:07.962254",
+  "classified_at": "2026-04-05T05:23:07.962254",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.states/medium",
+  "raw_html": null
+}

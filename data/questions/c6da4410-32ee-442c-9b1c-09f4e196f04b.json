@@ -1,0 +1,45 @@
+{
+  "question_text": "A compass needle is placed near a permanent bar magnet. The north pole of the compass needle points away from the magnet's north pole. Which statement best explains why this happens?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "magnetic poles",
+    "compass behaviour",
+    "magnetic repulsion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The north pole of the magnet attracts the south pole of the compass needle",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Like magnetic poles repel each other, so the north poles push away from one another",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The magnet is not strong enough to attract the compass needle",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Compass needles always point away from any magnet placed nearby",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Compass needles are themselves small magnets with north and south poles. When two north poles (or two south poles) are close together, they repel each other because like poles always push apart. This is why the compass needle's north pole moves away from the magnet's north pole.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c6da4410-32ee-442c-9b1c-09f4e196f04b",
+  "topic": "electricity.magnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:14.858526",
+  "classified_at": "2026-04-05T05:22:14.858526",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/medium",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "During a lunar eclipse, Earth is positioned directly between the Sun and the Moon. The Moon appears dark because Earth's shadow falls on it. Explain why a lunar eclipse can only occur at a full moon, not at other lunar phases.",
+  "question_type": "short_answer",
+  "tags": [
+    "lunar_eclipse",
+    "lunar_phases",
+    "shadow"
+  ],
+  "options": null,
+  "correct_answer": "A lunar eclipse can only occur at a full moon because the Moon must be on the opposite side of Earth from the Sun (directly opposite) for Earth's shadow to reach it. At other phases, the Moon is not in the correct position relative to Earth and the Sun for the shadow to fall on it.",
+  "explanation": "For an eclipse to happen, three objects must be perfectly aligned. At a full moon, the Moon is directly opposite the Sun as seen from Earth, placing it directly in Earth's shadow. At other phases like first quarter or waning crescent, the Moon is at an angle and misses Earth's shadow.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "114bfe12-0307-402d-9905-0d3695a70d72",
+  "topic": "space.earth_moon",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:23:13.658474",
+  "classified_at": "2026-04-05T05:23:13.658474",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/medium",
+  "raw_html": null
+}

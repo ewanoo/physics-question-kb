@@ -1,0 +1,24 @@
+{
+  "question_text": "A student investigates forces by placing different objects near a bar magnet. She places a steel paperclip 5 cm away from the magnet and observes it is pulled towards the magnet. She then places a wooden block at the same distance and observes no force acting on it. Explain why the magnet exerts a force on the paperclip but not on the wooden block, and state what type of force this is.",
+  "question_type": "short_answer",
+  "tags": [
+    "magnetic_force",
+    "non-contact_forces",
+    "magnetic_materials"
+  ],
+  "options": null,
+  "correct_answer": "The magnet exerts a magnetic force (non-contact force) on the steel paperclip because steel is magnetic and can be attracted by magnets. The wooden block is not magnetic, so the magnetic force does not act on it. Magnetic forces only work on magnetic materials.",
+  "explanation": "This tests understanding that magnetic forces are non-contact forces that only act on magnetic materials (like iron, steel, nickel, cobalt). A magnetic field extends around a magnet and can attract compatible materials without touching them. Non-magnetic materials like wood experience no magnetic force regardless of distance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "15598954-b722-4d89-bedd-60ee442a44de",
+  "topic": "forces.types",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T05:22:50.815669",
+  "classified_at": "2026-04-05T05:22:50.815669",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.types/medium",
+  "raw_html": null
+}

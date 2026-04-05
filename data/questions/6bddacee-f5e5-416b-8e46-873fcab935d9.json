@@ -1,0 +1,45 @@
+{
+  "question_text": "A student observes that high tides occur approximately every 12 hours and 25 minutes, rather than exactly every 12 hours. Which of the following best explains why the tidal cycle is longer than 12 hours?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "tides",
+    "Moon_orbit",
+    "rotation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth rotates slightly slower than it did in the past, so tides take longer to occur.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon orbits Earth in the same direction as Earth rotates, so Earth must rotate extra to face the Moon again at the same point in its orbit.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun's gravity interferes with the Moon's gravity, causing tides to happen less frequently.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "High tides are delayed because water takes time to flow from one ocean to another around continents.",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Earth rotates once every 24 hours, but the Moon orbits Earth in the same direction (counterclockwise when viewed from above the North Pole). This means Earth must rotate a little extra (about 50 minutes) to 'catch up' and face the same point on the Moon again. This extra rotation time explains why tides occur every 12 hours 25 minutes rather than exactly 12 hours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6bddacee-f5e5-416b-8e46-873fcab935d9",
+  "topic": "space.earth_moon",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:23:13.658673",
+  "classified_at": "2026-04-05T05:23:13.658673",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/hard",
+  "raw_html": null
+}

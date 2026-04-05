@@ -1,0 +1,46 @@
+{
+  "question_text": "Water has a boiling point of 100\u00b0C at sea level. Which of the following best explains why water boils at a lower temperature when heated at high altitude (on a mountain)?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "boiling_point",
+    "pressure",
+    "state_change",
+    "particle_model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The air temperature is lower at high altitude, so water molecules move more slowly.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Atmospheric pressure is lower at high altitude, so water molecules can escape from the liquid more easily, requiring less energy.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Water contains fewer dissolved gases at high altitude, which reduces the boiling point.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The gravitational pull is weaker at high altitude, allowing water to boil more easily.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Boiling occurs when water vapour pressure equals atmospheric pressure. At lower atmospheric pressure (high altitude), water molecules need less kinetic energy to escape the liquid and form a gas, so boiling happens at a lower temperature. This demonstrates the relationship between pressure and boiling point.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "60fac103-8e64-461b-80fb-930a27e5eaa6",
+  "topic": "matter.states",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:23:07.962508",
+  "classified_at": "2026-04-05T05:23:07.962508",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.states/hard",
+  "raw_html": null
+}

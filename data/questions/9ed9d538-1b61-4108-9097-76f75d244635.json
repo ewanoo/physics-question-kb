@@ -1,0 +1,24 @@
+{
+  "question_text": "A student investigates how the strength of a magnetic field varies with distance from a permanent magnet. She places iron filings at different distances from the magnet's north pole and counts how many filings cluster at each distance. At 2 cm away there are 48 filings, at 4 cm away there are 12 filings, and at 6 cm away there are 5 filings. Describe the pattern in the magnetic field strength and explain why a compass placed 8 cm away from the magnet would show a weaker magnetic effect than one placed 2 cm away.",
+  "question_type": "short_answer",
+  "tags": [
+    "magnetic field strength",
+    "distance effect",
+    "field patterns"
+  ],
+  "options": null,
+  "correct_answer": "The magnetic field strength decreases as distance from the magnet increases (inverse relationship). The number of filings roughly divides by 4 when distance doubles (48\u219212 when distance goes from 2cm to 4cm, and 12\u21925 approximately when going from 4cm to 6cm). At 8 cm, the field would be even weaker because magnetic fields spread out and weaken with increasing distance from the magnet's poles. The compass would experience a weaker force pulling it to align with the field.",
+  "explanation": "This question tests understanding that magnetic field strength diminishes with distance from the magnet. The iron filings show a clear pattern: doubling the distance significantly reduces the field strength (roughly inverse square relationship at KS3 level). Students must apply this pattern to predict the effect at 8 cm and link it to compass behaviour\u2014weaker fields exert less force on the compass needle.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9ed9d538-1b61-4108-9097-76f75d244635",
+  "topic": "electricity.magnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T05:22:14.858759",
+  "classified_at": "2026-04-05T05:22:14.858759",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/hard",
+  "raw_html": null
+}
