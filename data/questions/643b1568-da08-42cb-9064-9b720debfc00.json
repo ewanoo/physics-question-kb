@@ -1,0 +1,17 @@
+{
+  "question_text": "A tug-of-war rope has Team A pulling with a force of 500 N to the left and Team B pulling with a force of 500 N to the right. The rope is not moving. What is the resultant force on the rope?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "balanced forces",
+    "zero resultant"
+  ],
+  "options": null,
+  "correct_answer": "0 N",
+  "explanation": "When forces are balanced and acting in opposite directions, the resultant force is zero. Since both teams pull with equal force (500 N) in opposite directions, they cancel each other out, which is why the rope stays still. This is an example of balanced forces.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "643b1568-da08-42cb-9064-9b720debfc00"
+}

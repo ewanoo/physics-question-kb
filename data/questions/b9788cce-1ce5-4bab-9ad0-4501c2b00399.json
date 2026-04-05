@@ -1,0 +1,17 @@
+{
+  "question_text": "Name two differences between radio waves and gamma rays in terms of their properties.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "radio_waves",
+    "gamma_rays",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Radio waves have longer wavelengths/lower frequencies than gamma rays. Gamma rays are more penetrating/dangerous than radio waves.",
+  "explanation": "Radio waves and gamma rays are at opposite ends of the electromagnetic spectrum. Radio waves have very long wavelengths and low frequencies, making them safe and useful for communication. Gamma rays have very short wavelengths and high frequencies, making them very penetrating and dangerous to living cells.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "b9788cce-1ce5-4bab-9ad0-4501c2b00399"
+}

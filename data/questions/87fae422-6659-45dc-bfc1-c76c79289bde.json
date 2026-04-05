@@ -1,0 +1,17 @@
+{
+  "question_text": "In a theatre, a blue stage light and a red stage light both shine on a white curtain. A technician then places a red filter over the blue light. Evaluate what colour the curtain will now appear and explain your reasoning in terms of light reflection and absorption.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour_mixing",
+    "filters",
+    "extended_reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The curtain will appear dark red or maroon (or burgundy/deep red). The red filter absorbs blue light, so the blue light produces no visible light. Only the red light from the original red lamp reflects from the white curtain, creating a red appearance.",
+  "explanation": "The blue light passes through a red filter, which absorbs blue wavelengths and blocks almost all light from reaching the curtain. The red light from the second lamp reflects from the white curtain. Since only red light reflects back to the audience, they see red instead of the magenta (red + blue) they saw before the filter was added.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "87fae422-6659-45dc-bfc1-c76c79289bde"
+}

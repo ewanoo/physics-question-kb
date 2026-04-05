@@ -1,0 +1,17 @@
+{
+  "question_text": "A student measures a wave on a ripple tank. The distance between 5 consecutive wave crests is 20 cm. A stopwatch shows that 10 complete waves pass a fixed point in 4 seconds. Calculate: (i) the wavelength, (ii) the frequency, and (iii) the wave speed. Show all your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength from crests",
+    "frequency from observation",
+    "wave speed calculation"
+  ],
+  "options": null,
+  "correct_answer": "(i) 5 cm (or 0.05 m); (ii) 2.5 Hz; (iii) 0.125 m/s (or 12.5 cm/s)",
+  "explanation": "Between 5 crests there are 4 wavelengths (the distance between crests), so 4\u03bb = 20 cm gives \u03bb = 5 cm. Frequency is waves per second: 10 waves in 4 seconds = 2.5 Hz. Then use v = f \u00d7 \u03bb: v = 2.5 \u00d7 0.05 = 0.125 m/s. This multi-step problem requires converting observations into wave properties and combining all three quantities.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "af4ad367-ba97-4dd9-872e-f9ca93858e84"
+}

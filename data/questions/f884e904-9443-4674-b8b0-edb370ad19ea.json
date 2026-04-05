@@ -1,0 +1,17 @@
+{
+  "question_text": "A circuit contains a 6V battery connected to a 2\u03a9 resistor in series with an unknown resistor. The total current flowing through the circuit is 1A. Calculate the resistance of the unknown resistor.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's Law",
+    "series circuits",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "4\u03a9",
+  "explanation": "Using Ohm's Law, total resistance = V \u00f7 I = 6V \u00f7 1A = 6\u03a9. Since the resistors are in series, the known resistor (2\u03a9) and unknown resistor add together: 2\u03a9 + unknown = 6\u03a9, so the unknown resistor = 4\u03a9.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f884e904-9443-4674-b8b0-edb370ad19ea"
+}

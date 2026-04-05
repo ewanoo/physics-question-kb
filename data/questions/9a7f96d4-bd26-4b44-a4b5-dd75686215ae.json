@@ -1,0 +1,17 @@
+{
+  "question_text": "A spanner is used to turn a bolt. The force applied is 50 N at a distance of 0.2 m from the pivot (bolt). Calculate the moment produced.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment calculation",
+    "levers",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "10 N m",
+  "explanation": "Moment = Force \u00d7 perpendicular distance from pivot. Here, moment = 50 N \u00d7 0.2 m = 10 N m. This shows how the spanner multiplies our effort to turn the bolt.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9a7f96d4-bd26-4b44-a4b5-dd75686215ae"
+}

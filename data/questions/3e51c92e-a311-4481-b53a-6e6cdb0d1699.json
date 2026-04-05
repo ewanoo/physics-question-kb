@@ -1,0 +1,38 @@
+{
+  "question_text": "Which component would you use to measure the voltage across a resistor in a circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage",
+    "equipment",
+    "measuring"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "An ammeter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A voltmeter",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A thermometer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A resistor",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A voltmeter is connected in parallel across a component to measure the potential difference (voltage) across it. An ammeter measures current and is connected in series.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3e51c92e-a311-4481-b53a-6e6cdb0d1699"
+}

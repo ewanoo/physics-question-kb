@@ -1,0 +1,38 @@
+{
+  "question_text": "A car is travelling at a constant speed in a straight line on a flat road. What can you conclude about the forces acting on the car?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's first law",
+    "constant velocity",
+    "balanced forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The forces are unbalanced and the car is accelerating",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The driving force is much larger than friction",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The forces are balanced and the resultant force is zero",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "There is no friction acting on the car",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When a car moves at constant speed (not speeding up or slowing down), the driving force must be balanced by friction and air resistance. A zero resultant force means the car continues at the same speed, which is what Newton's first law tells us.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e87ce558-f3e4-40bb-8b1e-4dd0b9a5f039"
+}

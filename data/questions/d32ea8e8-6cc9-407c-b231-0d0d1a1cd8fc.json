@@ -1,0 +1,17 @@
+{
+  "question_text": "A sound wave travels through air at 340 m/s. If the frequency of the sound is 85 Hz, calculate the wavelength. Then, if the same sound enters water where it travels at 1360 m/s, calculate the new wavelength. By what factor has the wavelength changed?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed equation",
+    "multi-step",
+    "comparing media"
+  ],
+  "options": null,
+  "correct_answer": "Air: 4 m; Water: 16 m; Factor: 4 (or wavelength increases by a factor of 4)",
+  "explanation": "You use v = f \u00d7 \u03bb to find wavelength in each medium. In air: 340 = 85 \u00d7 \u03bb gives \u03bb = 4 m. In water: 1360 = 85 \u00d7 \u03bb gives \u03bb = 16 m. The wavelength increases because sound travels faster in water but frequency stays the same, so \u03bb must increase proportionally (16 \u00f7 4 = 4).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d32ea8e8-6cc9-407c-b231-0d0d1a1cd8fc"
+}

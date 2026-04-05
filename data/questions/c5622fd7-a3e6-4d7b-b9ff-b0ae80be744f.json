@@ -1,0 +1,37 @@
+{
+  "question_text": "What causes gas pressure according to the particle model of matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "particle model",
+    "gas pressure basics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas particles colliding with the walls of a container",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The weight of gas pushing down from above",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The colour of the gas molecules",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The temperature of the container walls",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gas pressure is caused by gas particles moving randomly and colliding with the walls of their container. Each tiny collision contributes to the overall pressure we measure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c5622fd7-a3e6-4d7b-b9ff-b0ae80be744f"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following would produce the largest moment when the same force is applied?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "distance from pivot",
+    "concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A 20 N force applied 0.5 m from the pivot",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A 20 N force applied 2 m from the pivot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A 20 N force applied 0.2 m from the pivot",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A 20 N force applied at the pivot",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Moment increases with distance from the pivot. Since all forces are equal (20 N), the greatest distance (2 m) produces the largest moment: 20 \u00d7 2 = 40 N m. This is why we push door handles far from the hinge.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b0d62ef1-a321-4f31-bff8-a52314dee53a"
+}

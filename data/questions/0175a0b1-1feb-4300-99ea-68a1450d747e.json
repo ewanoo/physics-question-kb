@@ -1,0 +1,38 @@
+{
+  "question_text": "A student sets up two circuits with identical 12V power supplies. Circuit A has a 4\u03a9 resistor, and Circuit B has two 4\u03a9 resistors in series. The student measures the current in each circuit. Which statement correctly compares the currents and explains why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's Law",
+    "series circuits",
+    "circuit comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Circuit A has 3A and Circuit B has 3A because the voltage is the same in both",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Circuit A has 3A and Circuit B has 1.5A because Circuit B has twice the total resistance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Circuit A has 1.5A and Circuit B has 3A because series circuits increase current",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both circuits have the same current because they use the same power supply",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Using Ohm's Law (V = IR), Circuit A: I = 12V \u00f7 4\u03a9 = 3A. Circuit B: total resistance = 4\u03a9 + 4\u03a9 = 8\u03a9, so I = 12V \u00f7 8\u03a9 = 1.5A. When resistors are added in series, total resistance increases, so current decreases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0175a0b1-1feb-4300-99ea-68a1450d747e"
+}

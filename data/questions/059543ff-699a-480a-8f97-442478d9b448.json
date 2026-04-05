@@ -1,0 +1,37 @@
+{
+  "question_text": "Which three colours are known as the primary colours of light?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "primary colours of light",
+    "colour mixing"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red, green and blue",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Red, yellow and blue",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Cyan, magenta and yellow",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Orange, green and violet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The primary colours of light are red, green, and blue (RGB). These are different from primary colours of paint or pigments. When red, green, and blue light are mixed together in equal amounts, they create white light. Television and computer screens use these three colours to create all the colours we see.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "059543ff-699a-480a-8f97-442478d9b448"
+}

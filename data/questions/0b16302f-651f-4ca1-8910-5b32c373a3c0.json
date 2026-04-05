@@ -1,0 +1,38 @@
+{
+  "question_text": "A book is resting on a table and is not moving. Which statement best describes the forces acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's first law",
+    "balanced forces",
+    "stationary objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The forces are unbalanced, so the book will start moving",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces are balanced, so the book remains at rest",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There are no forces acting on the book at all",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The weight force is stronger than the normal force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When an object is at rest and stays at rest, the forces acting on it must be balanced. The weight pushing down is balanced by the normal force from the table pushing up, so the resultant force is zero. According to Newton's first law, this is why the book doesn't move.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0b16302f-651f-4ca1-8910-5b32c373a3c0"
+}

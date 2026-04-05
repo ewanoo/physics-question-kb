@@ -1,0 +1,17 @@
+{
+  "question_text": "A hospital uses different types of electromagnetic radiation for medical imaging. X-rays are used to detect broken bones, while infrared cameras are used to detect heat patterns in tissue. Explain why X-rays are more suitable than infrared radiation for imaging inside the body, and identify one health danger associated with repeated X-ray exposure.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "applications of EM waves",
+    "health dangers",
+    "penetration"
+  ],
+  "options": null,
+  "correct_answer": "X-rays have a shorter wavelength/higher frequency than infrared, allowing them to penetrate through skin and tissue to image bones. X-rays are ionising radiation that can damage cells/DNA and increase cancer risk with repeated exposure.",
+  "explanation": "This tests understanding that different EM waves have different properties suited to different uses. X-rays can pass through soft tissue but infrared cannot, making them ideal for medical imaging. However, X-rays are dangerous because they can ionise atoms in cells, causing damage. Students must compare two applications and identify a specific health hazard.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ecab3ff7-8afe-42fd-a000-61cf9453fec9"
+}

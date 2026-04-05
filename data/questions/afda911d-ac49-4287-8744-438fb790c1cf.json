@@ -1,0 +1,16 @@
+{
+  "question_text": "Define what is meant by the 'wavelength' of a wave.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "wave measurement"
+  ],
+  "options": null,
+  "correct_answer": "The distance between two consecutive crests (or troughs), or the distance covered by one complete wave",
+  "explanation": "Wavelength is how far a wave travels during one complete oscillation. It can be measured from crest to crest, trough to trough, or any matching point on adjacent waves. It is usually represented by the Greek letter lambda (\u03bb).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "afda911d-ac49-4287-8744-438fb790c1cf"
+}

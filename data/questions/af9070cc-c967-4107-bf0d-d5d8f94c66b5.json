@@ -1,0 +1,17 @@
+{
+  "question_text": "A seesaw is balanced with a child of weight 400 N sitting 1.5 m from the pivot on the left side. Another child sits 2 m from the pivot on the right side. What must the second child's weight be for the seesaw to balance?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "principle of moments",
+    "seesaw",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "300 N",
+  "explanation": "For a balanced seesaw, the clockwise moment must equal the anticlockwise moment (principle of moments). Left moment = 400 \u00d7 1.5 = 600 N m. Right moment = weight \u00d7 2 m. So weight = 600 \u00f7 2 = 300 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "af9070cc-c967-4107-bf0d-d5d8f94c66b5"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Four types of electromagnetic radiation are listed with their wavelengths: Radio waves (1 m), Microwaves (0.01 m), Visible light (0.0005 m), and Gamma rays (0.000000001 m). Which statement correctly compares the frequency and energy of these waves?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum ordering",
+    "frequency-wavelength relationship",
+    "energy comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves have the highest frequency and gamma rays have the lowest energy.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gamma rays have the highest frequency and the highest energy; radio waves have the lowest frequency and lowest energy.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Microwaves have higher frequency than visible light because they have a longer wavelength.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Visible light and gamma rays have the same energy because they are both in the middle of the EM spectrum.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Frequency and wavelength are inversely related: shorter wavelength = higher frequency. Since gamma rays have the shortest wavelength, they have the highest frequency and highest energy. Radio waves have the longest wavelength, so they have the lowest frequency and lowest energy. This tests understanding of the inverse relationship and ability to order the entire spectrum.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "05694a6d-909d-40f7-9ce8-4ecd42cc1da1"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A green colour filter is placed over a lamp shining on three objects: a green leaf, a red rose, and a white shirt. Which object will appear darkest, and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour_filters",
+    "selective_absorption",
+    "object_appearance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The green leaf, because green absorbs all other colours",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The red rose, because red light is absorbed by the green filter and the rose cannot reflect the green light that passes through",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The white shirt, because white objects always appear darker under coloured filters",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All three objects appear equally dark because the filter removes all colour",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The green filter only allows green light to pass through. The red rose cannot reflect green light (it absorbs it and reflects red), so almost no light bounces back from the rose. The green leaf reflects the green light, and the white shirt also reflects the green light, so both appear bright green. The rose appears darkest because it reflects the opposite colour to what the filter transmits.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "81f85d95-a64b-4ab5-9376-f5ce8c03a81e"
+}

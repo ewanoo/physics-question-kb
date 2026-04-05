@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following shows the correct order of electromagnetic waves from longest wavelength to shortest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "em_spectrum",
+    "order_of_waves",
+    "wavelength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gamma rays, X-rays, ultraviolet, visible light, infrared, microwaves, radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Radio waves, visible light, infrared, microwaves, ultraviolet, X-rays, gamma rays",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Visible light, radio waves, infrared, microwaves, ultraviolet, X-rays, gamma rays",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The electromagnetic spectrum is ordered by wavelength and frequency. Radio waves have the longest wavelengths and lowest frequencies, while gamma rays have the shortest wavelengths and highest frequencies. This order is a fundamental fact you need to memorise.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d7a55a3f-0716-436e-9455-94a3ca5dbcba"
+}

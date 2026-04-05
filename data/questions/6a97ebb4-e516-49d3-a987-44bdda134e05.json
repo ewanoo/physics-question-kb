@@ -1,0 +1,16 @@
+{
+  "question_text": "A red apple appears red because it absorbs most colours of light and reflects red light. What happens to the other colours of light that are absorbed by the apple?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "absorption and reflection",
+    "colour perception"
+  ],
+  "options": null,
+  "correct_answer": "They are converted to heat (or thermal energy)",
+  "explanation": "When an object absorbs light, the energy from that light is not reflected to our eyes. Instead, the absorbed light energy is converted into heat energy, which is why objects in sunlight can feel warm. The red light bounces off (reflects) and reaches our eyes, so we see the apple as red.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6a97ebb4-e516-49d3-a987-44bdda134e05"
+}

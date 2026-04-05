@@ -1,0 +1,38 @@
+{
+  "question_text": "A radio station broadcasts a wave with a frequency of 100 MHz (100 million Hz). Electromagnetic waves travel at 3 \u00d7 10\u2078 m/s. What is the wavelength of this radio wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed equation",
+    "scientific notation",
+    "electromagnetic waves"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "0.3 m",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "3 m",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "30 m",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "300 m",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Using v = f \u00d7 \u03bb, rearrange to \u03bb = v \u00f7 f. Convert 100 MHz to 100 \u00d7 10\u2076 Hz = 1 \u00d7 10\u2078 Hz. Then \u03bb = (3 \u00d7 10\u2078) \u00f7 (1 \u00d7 10\u2078) = 3 m. This shows that higher frequency waves (like radio) have much shorter wavelengths than sound waves.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b12fdde1-1273-449b-b540-44753062841d"
+}

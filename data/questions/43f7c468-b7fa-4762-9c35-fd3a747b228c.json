@@ -1,0 +1,37 @@
+{
+  "question_text": "What does the term 'amplitude' describe in a wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "wave size"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The distance from the centre line to the crest or trough",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The number of waves passing a point per second",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The distance between two consecutive crests",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The time it takes for one complete wave",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Amplitude measures how far a wave moves up or down from its centre line\u2014it shows the 'height' or energy of the wave. Option B is frequency, C is wavelength, and D is period.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "43f7c468-b7fa-4762-9c35-fd3a747b228c"
+}

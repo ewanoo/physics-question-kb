@@ -1,0 +1,37 @@
+{
+  "question_text": "White light from the Sun is split into a rainbow when it passes through a prism. Which of the following is the correct order of colours in a rainbow, from red to violet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "white light splitting",
+    "rainbow spectrum"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red, orange, yellow, green, blue, indigo, violet",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Violet, indigo, blue, green, yellow, orange, red",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Red, yellow, green, blue, violet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Orange, red, yellow, green, blue, indigo, violet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When white light passes through a prism, it splits into the visible spectrum in a specific order. This order is remembered by the acronym ROY G BIV (red, orange, yellow, green, blue, indigo, violet), where red has the longest wavelength and violet has the shortest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8638831f-cd2e-4862-a6be-a190e17cf7a5"
+}

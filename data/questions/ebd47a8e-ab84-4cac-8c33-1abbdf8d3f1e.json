@@ -1,0 +1,37 @@
+{
+  "question_text": "Which part of a wave is the highest point?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "crest",
+    "wave anatomy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Crest",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Trough",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Wavelength",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Frequency",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The crest is the highest point on a wave, while the trough is the lowest point. Wavelength and frequency are measurements, not parts of the wave itself.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ebd47a8e-ab84-4cac-8c33-1abbdf8d3f1e"
+}

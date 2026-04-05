@@ -1,0 +1,38 @@
+{
+  "question_text": "Where is visible light positioned in the electromagnetic spectrum?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "visible_light",
+    "em_spectrum",
+    "position"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Between radio waves and microwaves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Between infrared and ultraviolet",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Between X-rays and gamma rays",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Between microwaves and infrared",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Visible light sits in the middle of the electromagnetic spectrum, between infrared waves (which we feel as heat) and ultraviolet waves (which can cause sunburn). The visible spectrum is the only part our eyes can detect.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1640a28c-7ac4-4a0e-b78c-b713fb8dd64e"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A mobile phone company is deciding whether to use microwave or radio wave signals for their 5G network. Both can transmit data, but microwaves have a shorter wavelength. Evaluate which type of radiation would be better for transmitting large amounts of data over short distances, and explain the trade-off in terms of signal range.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "applications of EM waves",
+    "wavelength properties",
+    "evaluate trade-offs"
+  ],
+  "options": null,
+  "correct_answer": "Microwaves are better for short-distance high-data transmission because shorter wavelengths carry more information/have higher frequency. However, microwaves are absorbed more easily by obstacles and have shorter range, while radio waves travel further but carry less data.",
+  "explanation": "This question requires students to compare two EM waves with different wavelengths for a practical application. Shorter wavelengths (microwaves) allow higher data capacity but worse penetration/range. Longer wavelengths (radio waves) travel further but transmit less data. Students must weigh these competing factors and explain the physics reason behind each property.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "411abc61-d717-4bc0-998d-a6b7942b9f90"
+}

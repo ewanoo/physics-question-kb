@@ -1,0 +1,16 @@
+{
+  "question_text": "When you compress a gas into a smaller space, what happens to its pressure and why?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "compressing gases",
+    "particle model"
+  ],
+  "options": null,
+  "correct_answer": "The pressure increases because the particles are forced closer together and collide with the container walls more frequently",
+  "explanation": "When a gas is compressed, its particles are squeezed into a smaller volume. This means more particles hit the same area of wall in the same time, so the pressure increases. This is why a bicycle pump gets harder to push as you compress the air inside.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d04eb443-32b4-4492-bd3b-8114ac5ed2d0"
+}

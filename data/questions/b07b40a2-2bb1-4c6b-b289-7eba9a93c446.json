@@ -1,0 +1,17 @@
+{
+  "question_text": "A red apple is placed under a blue light in a dark room. Explain why the apple now appears almost black instead of red, and describe what would happen if you shone both red and blue light on the apple at the same time.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour_filters",
+    "light_absorption",
+    "colour_mixing"
+  ],
+  "options": null,
+  "correct_answer": "The apple appears black because blue light is absorbed by the red pigment and very little blue light is reflected. If red and blue light shine together, the apple would appear magenta/purple because red light reflects from the apple and mixes with the blue light to create magenta.",
+  "explanation": "Objects appear coloured because they reflect certain wavelengths of light and absorb others. A red apple reflects red light but absorbs blue light, so under only blue light, almost nothing reflects back. When both colours shine together, both red and blue light reflect (red from the apple's surface, blue from scattered reflection), and our eyes mix these colours to see magenta.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b07b40a2-2bb1-4c6b-b289-7eba9a93c446"
+}

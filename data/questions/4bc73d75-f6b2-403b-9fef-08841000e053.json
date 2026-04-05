@@ -1,0 +1,38 @@
+{
+  "question_text": "A student conducts an experiment measuring voltage and current across a resistor at different settings. The results show: (1V, 0.2A), (2V, 0.4A), (3V, 0.6A), (4V, 0.9A). Which conclusion is most valid based on this data, and what might explain any anomaly?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "experimental evaluation",
+    "Ohm's Law",
+    "data analysis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The resistor obeys Ohm's Law perfectly because current increases as voltage increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The resistor approximately obeys Ohm's Law, but the last measurement shows a slight deviation, possibly due to measurement error or the resistor heating up",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The resistor does not obey Ohm's Law because the current values are not whole numbers",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The results prove the resistor's resistance decreases as voltage increases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The first three points show R = V/I = 5\u03a9 consistently (1\u00f70.2, 2\u00f70.4, 3\u00f70.6), following Ohm's Law. The fourth point gives R = 4\u00f70.9 \u2248 4.4\u03a9, which deviates slightly. This could be due to experimental error or the resistor's resistance changing when heated by the current.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4bc73d75-f6b2-403b-9fef-08841000e053"
+}
