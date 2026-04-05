@@ -1,0 +1,29 @@
+{
+  "question_text": "What causes gas pressure?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gas_pressure",
+    "particle_model",
+    "KS3"
+  ],
+  "options": [
+    "A) Gas particles sitting still at the bottom of a container",
+    "B) Gas particles moving randomly and colliding with the container walls",
+    "C) The weight of the gas pushing down from above",
+    "D) Heat energy stored inside the gas particles"
+  ],
+  "correct_answer": null,
+  "explanation": "Gas pressure is created by billions of tiny particles moving rapidly in all directions and constantly bumping into the walls of their container. These collisions push on the walls and create the pressure we measure. This is why inflating a balloon makes it firm\u2014more particles inside means more collisions and higher pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "eb60ddf1-103e-46a0-ab7a-d0f1ed4bf6c1",
+  "topic": "matter.gas_pressure",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:24:28.402609",
+  "classified_at": "2026-04-05T02:24:28.402620",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.gas_pressure/easy",
+  "raw_html": null
+}

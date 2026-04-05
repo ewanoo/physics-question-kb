@@ -1,0 +1,29 @@
+{
+  "question_text": "Which statement correctly compares the speeds of two runners? Runner A covers 60 metres in 10 seconds, and Runner B covers 80 metres in 10 seconds.",
+  "question_type": "multiple_choice",
+  "tags": [
+    "speed comparison",
+    "faster",
+    "distance"
+  ],
+  "options": [
+    "Runner A is faster because they run for the same time",
+    "Runner B is faster because they cover more distance in the same time",
+    "They run at the same speed",
+    "Runner A is faster because 60 is less than 80"
+  ],
+  "correct_answer": null,
+  "explanation": "Runner B covers more distance (80 m) than Runner A (60 m) in the same time (10 seconds), so Runner B is faster. When two objects travel for the same time, the one covering more distance is moving faster.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "433b4f97-a060-491e-ad2f-e2655b1fbd27",
+  "topic": "forces.speed",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:24:06.606683",
+  "classified_at": "2026-04-05T02:24:06.606686",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/easy",
+  "raw_html": null
+}

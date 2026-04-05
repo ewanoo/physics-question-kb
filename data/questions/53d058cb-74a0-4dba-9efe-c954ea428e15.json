@@ -1,0 +1,29 @@
+{
+  "question_text": "What does sound need to travel through?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "sound",
+    "medium",
+    "waves"
+  ],
+  "options": {
+    "A": "Only air",
+    "B": "A medium like air, water, or solids",
+    "C": "Only empty space",
+    "D": "Only solids"
+  },
+  "correct_answer": null,
+  "explanation": "Sound is a vibration that needs a medium (material) to travel through. It can move through air, water, wood, or other materials, but cannot travel through a vacuum (empty space with no particles).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "53d058cb-74a0-4dba-9efe-c954ea428e15",
+  "topic": "waves.sound",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:06.342667",
+  "classified_at": "2026-04-05T02:23:06.342678",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/easy",
+  "raw_html": null
+}

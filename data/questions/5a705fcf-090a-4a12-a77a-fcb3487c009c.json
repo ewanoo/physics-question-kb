@@ -1,0 +1,30 @@
+{
+  "question_text": "Two identical boxes (each 5 kg) are being dragged across different surfaces at constant velocity using the same applied force of 40 N. Box A is on carpet (coefficient of friction = 0.5) and Box B is on ice (coefficient of friction = 0.1). Which statement is correct and why?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "friction",
+    "comparing scenarios",
+    "equilibrium",
+    "evaluation"
+  ],
+  "options": [
+    "A: Box A experiences more friction because it's on carpet, so more force is needed to keep it moving at constant velocity.",
+    "B: Both boxes experience the same friction force because they're being pulled at constant velocity, and the applied force equals friction in both cases.",
+    "C: Box B experiences more friction because ice is slippier, so it needs more force to overcome resistance.",
+    "D: Box A needs less force than Box B because carpet is rougher and provides better grip."
+  ],
+  "correct_answer": "B",
+  "explanation": "At constant velocity, acceleration is zero, so the applied force must equal the friction force (Newton's first law). Box A has friction = 0.5 \u00d7 50 = 25 N and Box B has friction = 0.1 \u00d7 50 = 5 N, but since both are pulled with 40 N at constant velocity, the friction adjusts to match: the 40 N applied force equals the friction force in each case. This shows that applied force doesn't directly determine friction alone\u2014the surface properties do, but friction equals applied force only when velocity is constant.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5a705fcf-090a-4a12-a77a-fcb3487c009c",
+  "topic": "forces.friction",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:57.931945",
+  "classified_at": "2026-04-05T02:23:57.931949",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/hard",
+  "raw_html": null
+}

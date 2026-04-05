@@ -1,0 +1,29 @@
+{
+  "question_text": "A drum is hit gently, then hit hard. What happens to the amplitude of the sound wave?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "amplitude",
+    "loudness",
+    "sound"
+  ],
+  "options": {
+    "A": "The amplitude stays the same",
+    "B": "The amplitude decreases",
+    "C": "The amplitude increases",
+    "D": "The amplitude becomes a different sound"
+  },
+  "correct_answer": null,
+  "explanation": "Amplitude is the size of the vibration. When the drum is hit harder, it vibrates with a bigger motion (larger amplitude), which creates a louder sound. A gentle hit produces smaller vibrations (smaller amplitude) and a quieter sound.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "86ef9066-db16-4808-9b06-2a76b4b33ee7",
+  "topic": "waves.sound",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:06.343050",
+  "classified_at": "2026-04-05T02:23:06.343051",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/easy",
+  "raw_html": null
+}

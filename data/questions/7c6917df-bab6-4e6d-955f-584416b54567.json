@@ -1,0 +1,30 @@
+{
+  "question_text": "Which of the following best describes why we can see the Moon from Earth at night?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "moon",
+    "light",
+    "reflection",
+    "recall"
+  ],
+  "options": [
+    "The Moon produces its own light like the Sun does",
+    "The Moon reflects sunlight towards Earth",
+    "The Moon is made of a material that glows in the dark",
+    "Light from stars bounces off the Moon's surface"
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon doesn't produce its own light - it's a natural satellite that reflects sunlight. We see the Moon because sunlight bounces off its surface and reaches our eyes on Earth. This is why the Moon appears bright at night even though it doesn't generate light itself.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7c6917df-bab6-4e6d-955f-584416b54567",
+  "topic": "space.earth_moon",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:24:31.483468",
+  "classified_at": "2026-04-05T02:24:31.483479",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/easy",
+  "raw_html": null
+}

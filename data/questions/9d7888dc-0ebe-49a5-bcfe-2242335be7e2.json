@@ -1,0 +1,29 @@
+{
+  "question_text": "Why does the UK experience summer when it does?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "seasons",
+    "Earth's tilt",
+    "hemisphere"
+  ],
+  "options": [
+    "The Earth is closest to the Sun in July",
+    "The Northern Hemisphere is tilted towards the Sun",
+    "The Sun moves closer to the UK",
+    "The Earth spins faster in summer"
+  ],
+  "correct_answer": null,
+  "explanation": "The UK has summer when the Northern Hemisphere tilts towards the Sun, not because Earth gets closer. This tilt causes the Sun to be higher in the sky and daylight to last longer, making it warmer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9d7888dc-0ebe-49a5-bcfe-2242335be7e2",
+  "topic": "space.seasons",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:24:34.782986",
+  "classified_at": "2026-04-05T02:24:34.782997",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/easy",
+  "raw_html": null
+}

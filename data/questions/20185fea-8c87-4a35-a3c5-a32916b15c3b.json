@@ -1,0 +1,24 @@
+{
+  "question_text": "A light bulb uses 100 J of electrical energy. It produces 25 J of light energy and the rest is wasted as heat. What is the efficiency of the light bulb?",
+  "question_type": "calculation",
+  "tags": [
+    "efficiency",
+    "energy transfer",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "25% (or 0.25)",
+  "explanation": "Efficiency = useful energy out \u00f7 total energy in \u00d7 100. So 25 \u00f7 100 \u00d7 100 = 25%. This means only a quarter of the electrical energy becomes light; the rest becomes wasted heat energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "20185fea-8c87-4a35-a3c5-a32916b15c3b",
+  "topic": "energy.efficiency",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:39.010504",
+  "classified_at": "2026-04-05T02:23:39.010516",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/easy",
+  "raw_html": null
+}

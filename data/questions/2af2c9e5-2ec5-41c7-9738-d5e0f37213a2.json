@@ -1,0 +1,30 @@
+{
+  "question_type": "multiple_choice",
+  "question_text": "A blue filter is placed over a green light. A student observes that almost no light passes through. Which of the following best explains this observation?",
+  "tags": [
+    "filters",
+    "absorption",
+    "colour",
+    "light properties"
+  ],
+  "options": {
+    "A": "The blue filter reflects all green light away",
+    "B": "The blue filter absorbs the green light because green photons have different energy/wavelength than blue light that the filter allows through",
+    "C": "Green and blue light cannot travel through the same space",
+    "D": "The filter changes the wavelength of green light into blue light"
+  },
+  "correct_answer": "B",
+  "explanation": "Filters work by absorbing light of certain colours (wavelengths) and allowing only their own colour to pass through. A blue filter absorbs most wavelengths of light except blue, so when green light hits it, almost all the green photons are absorbed because they don't match the filter's transmission wavelength. The filter doesn't change wavelengths or reflect\u2014it absorbs unwanted colours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2af2c9e5-2ec5-41c7-9738-d5e0f37213a2",
+  "topic": "waves.colour",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:47.944435",
+  "classified_at": "2026-04-05T02:24:47.944438",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.colour/hard",
+  "raw_html": null
+}

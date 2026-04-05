@@ -1,0 +1,30 @@
+{
+  "question_text": "During the Arctic winter, locations north of the Arctic Circle experience 24-hour darkness (polar night), while during Arctic summer, they experience 24-hour daylight (midnight sun). Which of the following best explains both phenomena?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "polar_regions",
+    "earth_tilt",
+    "daylight_hours",
+    "extreme_seasons"
+  ],
+  "options": [
+    "A) The Sun orbits the Arctic Circle twice per year, creating periods of constant visibility and invisibility.",
+    "B) The Earth's 23.5\u00b0 axial tilt means the Arctic Circle tilts away from the Sun in winter (polar night) and towards the Sun in summer (midnight sun), so the horizon never blocks the Sun.",
+    "C) The Arctic is closer to the Sun in summer and farther away in winter, affecting whether the Sun can be seen.",
+    "D) The magnetic poles shift position throughout the year, changing the angle at which sunlight reaches the Arctic."
+  ],
+  "correct_answer": "B",
+  "explanation": "The Arctic Circle's latitude (66.5\u00b0N) combined with Earth's 23.5\u00b0 tilt means that in summer (June), this region tilts so far towards the Sun that the Sun never dips below the horizon\u2014it circles around all day (midnight sun). In winter (December), the same region tilts so far away that the Sun never rises above the horizon\u201424-hour darkness. Distance and magnetic poles don't explain this; only the tilt does.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bea3a374-c4f3-4812-a988-38f306cda511",
+  "topic": "space.seasons",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:41.374350",
+  "classified_at": "2026-04-05T02:24:41.374352",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/hard",
+  "raw_html": null
+}

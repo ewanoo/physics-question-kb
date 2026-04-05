@@ -1,0 +1,25 @@
+{
+  "question_text": "A loudspeaker uses an electromagnet to move a cone that produces sound. Explain why increasing the frequency of the alternating current supplied to the electromagnet causes the loudspeaker to produce higher-pitched sounds. In your answer, consider how the electromagnet's magnetic field changes and how this affects the cone's movement.",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnets",
+    "loudspeaker-operation",
+    "frequency",
+    "sound"
+  ],
+  "options": null,
+  "correct_answer": "When AC frequency increases, the electromagnet's magnetic field switches direction more rapidly. This causes the cone attached to the electromagnet to vibrate (move back and forth) faster. Faster vibrations of the cone produce sound waves with higher frequency, which humans perceive as higher-pitched sounds.",
+  "explanation": "This evaluates understanding of how electromagnets respond to changing currents, how mechanical vibration relates to field changes, and the link between vibration frequency and sound pitch\u2014three connected concepts requiring deeper thinking than simple recall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4be9352c-ec43-4283-b164-654af08e4d66",
+  "topic": "electricity.electromagnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:29.508823",
+  "classified_at": "2026-04-05T02:23:29.508827",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/hard",
+  "raw_html": null
+}

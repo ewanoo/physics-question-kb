@@ -1,0 +1,29 @@
+{
+  "question_text": "A book is resting on a table. Which pair of forces are balanced?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "balanced forces",
+    "identify",
+    "everyday examples"
+  ],
+  "options": [
+    "The weight of the book pushing down and the normal force of the table pushing up",
+    "The weight of the book and the friction from the air",
+    "The normal force pushing up and friction pushing sideways",
+    "The gravitational force and the force you use to pick it up"
+  ],
+  "correct_answer": null,
+  "explanation": "Balanced forces are equal in size but opposite in direction. The book's weight (downward) and the table's normal force (upward) are equal and opposite, so they balance and the book stays still.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bede36a0-920c-46b2-b6ab-59584462d5b4",
+  "topic": "forces.balanced",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:00.433297",
+  "classified_at": "2026-04-05T02:23:00.433315",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/easy",
+  "raw_html": null
+}

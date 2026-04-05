@@ -1,0 +1,25 @@
+{
+  "question_text": "Water at 100\u00b0C is boiling in a beaker over a Bunsen burner. The mass of water decreases from 250g to 150g in 10 minutes. The specific latent heat of vaporisation of water is 2,260,000 J/kg. Calculate the energy needed to evaporate the lost mass of water, and explain why the temperature does not increase above 100\u00b0C even though the burner continues heating.",
+  "question_type": "calculation",
+  "tags": [
+    "latent heat",
+    "boiling",
+    "vaporisation",
+    "energy calculation"
+  ],
+  "options": null,
+  "correct_answer": "Mass evaporated = 250g - 150g = 100g = 0.1kg. Energy = mass \u00d7 specific latent heat = 0.1 \u00d7 2,260,000 = 226,000J. Temperature stays at 100\u00b0C because the heat energy is used to convert liquid water into gas (breaking particle bonds) rather than increasing particle kinetic energy.",
+  "explanation": "During boiling, added heat energy breaks bonds to change the state, not increase temperature. This is why water stays at 100\u00b0C while boiling\u2014once all liquid becomes gas, temperature could increase further if heating continues.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f3b01145-b08c-4b42-a460-9bbb3bcae685",
+  "topic": "matter.changes",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:18.935549",
+  "classified_at": "2026-04-05T02:24:18.935552",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/hard",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A satellite orbits Earth. Identify all the forces acting on the satellite and classify each as contact or non-contact. Then explain why the satellite doesn't fall straight down to Earth despite gravity pulling on it.",
+  "question_type": "short_answer",
+  "tags": [
+    "forces.types",
+    "contact vs non-contact",
+    "gravity",
+    "orbital motion"
+  ],
+  "options": null,
+  "correct_answer": "The gravitational force from Earth is a non-contact force acting downward on the satellite. There are no contact forces acting on it (no air resistance in space). The satellite doesn't fall because it is moving forward at high speed; gravity continuously pulls it toward Earth, but the satellite's forward motion causes it to fall around Earth in a curved path rather than straight down.",
+  "explanation": "Gravity is non-contact because Earth pulls the satellite without touching it. The satellite stays in orbit because it's constantly falling toward Earth, but moving sideways so fast that it keeps missing the planet\u2014like throwing a ball harder and harder until it goes all the way around.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d7dc1b87-6f7d-4feb-9f83-e9ea5d553070",
+  "topic": "forces.types",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:12.896238",
+  "classified_at": "2026-04-05T02:24:12.896250",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.types/hard",
+  "raw_html": null
+}

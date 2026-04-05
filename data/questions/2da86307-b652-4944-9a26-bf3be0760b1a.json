@@ -1,0 +1,25 @@
+{
+  "question_text": "A student shines red light and cyan light onto a white wall. The wall appears magenta where both lights overlap. Explain why the wall appears magenta in terms of light and colour, and identify which primary colours of light are being combined.",
+  "question_type": "short_answer",
+  "tags": [
+    "colour mixing",
+    "light",
+    "primary colours",
+    "multi-step reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Red and blue light are being combined (cyan is blue + green, so red + cyan = red + blue + green minus green = red + blue). When red and blue light mix together, they are both detected by the eye's colour receptors, creating the sensation of magenta/purple. Magenta is not a spectral colour but is created by mixing primary colours of light.",
+  "explanation": "Magenta doesn't exist as a single wavelength in the spectrum\u2014it's created when red and blue light receptors in your eye are stimulated together. Cyan light contains blue and green, so where red and cyan overlap, the red and blue light combine to make magenta. This is additive colour mixing, where more light of different colours makes new colours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2da86307-b652-4944-9a26-bf3be0760b1a",
+  "topic": "waves.colour",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:47.944145",
+  "classified_at": "2026-04-05T02:24:47.944158",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.colour/hard",
+  "raw_html": null
+}

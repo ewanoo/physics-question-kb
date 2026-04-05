@@ -1,0 +1,29 @@
+{
+  "question_text": "Which instrument is used to measure the current flowing through a circuit?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "current",
+    "measurement",
+    "instruments"
+  ],
+  "options": [
+    "A voltmeter",
+    "An ammeter",
+    "A thermometer",
+    "A multimeter only"
+  ],
+  "correct_answer": null,
+  "explanation": "An ammeter is the instrument designed to measure electric current in a circuit, and it must be connected in series (in line with) the component. A voltmeter measures voltage instead, and a thermometer measures temperature.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f8758b75-9b50-415f-9e36-52e685b2d7cc",
+  "topic": "electricity.current_voltage",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:23.962140",
+  "classified_at": "2026-04-05T02:23:23.962153",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/easy",
+  "raw_html": null
+}

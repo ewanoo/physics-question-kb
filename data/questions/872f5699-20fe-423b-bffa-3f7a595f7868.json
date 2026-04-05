@@ -1,0 +1,25 @@
+{
+  "question_text": "A student observes that when it is summer in the UK (June), it is winter in Australia at the same time. Explain why the Earth's tilt causes this opposite seasonal pattern, and describe what is happening to the Sun's rays in each hemisphere during June.",
+  "question_type": "short_answer",
+  "tags": [
+    "earth_tilt",
+    "seasons",
+    "hemispheres",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "In June, the Earth's axial tilt means the Northern Hemisphere is tilted towards the Sun, so the UK receives more direct Sun rays, more daylight hours, and concentrated energy = summer. At the same time, the Southern Hemisphere (Australia) is tilted away from the Sun, so it receives less direct rays, fewer daylight hours, and spread-out energy = winter. The tilt stays the same; it's Earth's position in orbit that changes which hemisphere faces the Sun.",
+  "explanation": "Earth's tilt is fixed at 23.5\u00b0 and doesn't change as it orbits the Sun. When your hemisphere tilts towards the Sun, you get summer (more direct rays, longer days); the opposite hemisphere simultaneously tilts away and gets winter. This is why seasons are opposite in the Northern and Southern Hemispheres.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "872f5699-20fe-423b-bffa-3f7a595f7868",
+  "topic": "space.seasons",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:41.374102",
+  "classified_at": "2026-04-05T02:24:41.374113",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/hard",
+  "raw_html": null
+}

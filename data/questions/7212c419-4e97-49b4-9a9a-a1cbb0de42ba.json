@@ -1,0 +1,24 @@
+{
+  "question_text": "What does it mean when forces on an object are balanced?",
+  "question_type": "short_answer",
+  "tags": [
+    "balanced forces",
+    "definition",
+    "acceleration"
+  ],
+  "options": null,
+  "correct_answer": "The resultant force is zero, so the object will not accelerate (it will stay at rest or continue moving at constant speed)",
+  "explanation": "When forces are balanced, they cancel each other out completely, giving a resultant force of zero. This means there is no acceleration, so the object either stays still or keeps moving at the same speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7212c419-4e97-49b4-9a9a-a1cbb0de42ba",
+  "topic": "forces.balanced",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:00.433599",
+  "classified_at": "2026-04-05T02:23:00.433602",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/easy",
+  "raw_html": null
+}

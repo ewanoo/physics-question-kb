@@ -1,0 +1,24 @@
+{
+  "question_text": "A rectangular block of aluminium has dimensions 10cm \u00d7 5cm \u00d7 2cm. The mass of the block is 2700g. A student wants to check if this is pure aluminium (density of pure aluminium = 2.7g/cm\u00b3). Calculate the density of the block and determine whether it is pure aluminium or contains another material mixed in.",
+  "question_type": "calculation",
+  "tags": [
+    "density formula",
+    "volume calculation",
+    "material identification"
+  ],
+  "options": null,
+  "correct_answer": "Volume = 10 \u00d7 5 \u00d7 2 = 100cm\u00b3. Density = 2700g \u00f7 100cm\u00b3 = 27g/cm\u00b3. The block is NOT pure aluminium because its density (27g/cm\u00b3) is much higher than pure aluminium (2.7g/cm\u00b3), so it contains a denser material mixed in.",
+  "explanation": "This problem requires calculating the volume of a rectangular block first, then using the density formula to find the actual density. By comparing the calculated density to the known density of pure aluminium, students can conclude whether the sample is pure or mixed. The large difference suggests a much denser metal is present.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8aa63aa9-014e-4e3f-8fe5-49893175c051",
+  "topic": "matter.density",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:24.338262",
+  "classified_at": "2026-04-05T02:24:24.338264",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/hard",
+  "raw_html": null
+}

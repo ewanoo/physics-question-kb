@@ -1,0 +1,25 @@
+{
+  "question_text": "The Moon orbits Earth approximately once every 28 days. How many times does the Moon orbit Earth in one year?",
+  "question_type": "calculation",
+  "tags": [
+    "moon",
+    "orbit",
+    "time",
+    "division"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 13 times (accept 12-13 orbits)",
+  "explanation": "To find how many orbits occur in one year, divide the number of days in a year by the number of days per orbit: 365 days \u00f7 28 days \u2248 13 orbits. This means the Moon completes about 13 full orbits around Earth every year.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "53180474-6450-492e-9d08-8d201568b1bc",
+  "topic": "space.earth_moon",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:24:31.483775",
+  "classified_at": "2026-04-05T02:24:31.483779",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/easy",
+  "raw_html": null
+}

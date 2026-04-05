@@ -1,0 +1,29 @@
+{
+  "question_text": "Which of the following is NOT a common use of springs?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "springs",
+    "uses of springs",
+    "applications"
+  ],
+  "options": [
+    "A) Shock absorbers in cars",
+    "B) Mattresses for comfort",
+    "C) Conducting electricity in circuits",
+    "D) Door hinges and closers"
+  ],
+  "correct_answer": "C",
+  "explanation": "Springs are used in many devices to absorb shock, provide comfort, and control movement, but their main function is mechanical rather than electrical. Springs do not conduct electricity as their primary purpose, making option C the correct answer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "97366f1a-39a7-4242-89eb-14cb25f938de",
+  "topic": "forces.springs",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:15.889441",
+  "classified_at": "2026-04-05T02:23:15.889444",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/easy",
+  "raw_html": null
+}

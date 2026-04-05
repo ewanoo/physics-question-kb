@@ -1,0 +1,25 @@
+{
+  "question_text": "A 2 kg block is pushed across a wooden floor with an applied force of 15 N. The coefficient of friction between the block and floor is 0.4. (g = 10 m/s\u00b2) Calculate: (a) the friction force acting on the block, (b) the net force on the block, and (c) the acceleration of the block.",
+  "question_type": "calculation",
+  "tags": [
+    "friction",
+    "Newton's second law",
+    "multi-step calculation",
+    "forces"
+  ],
+  "options": null,
+  "correct_answer": "(a) Friction force = 8 N; (b) Net force = 7 N; (c) Acceleration = 3.5 m/s\u00b2",
+  "explanation": "First, calculate friction using F_friction = \u03bc \u00d7 N = 0.4 \u00d7 (2 \u00d7 10) = 8 N. Then find net force by subtracting friction from applied force: 15 - 8 = 7 N. Finally, use F = ma to get acceleration: a = 7 \u00f7 2 = 3.5 m/s\u00b2.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fd4ca669-67ed-4a85-946d-5a88d44cb3aa",
+  "topic": "forces.friction",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:57.931623",
+  "classified_at": "2026-04-05T02:23:57.931634",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A car is moving at a constant speed of 30 m/s on a straight road. The engine is pushing with a force of 500 N. What is the friction force acting on the car?",
+  "question_type": "calculation",
+  "tags": [
+    "balanced forces",
+    "calculate",
+    "resultant force"
+  ],
+  "options": null,
+  "correct_answer": "500 N (in the opposite direction to the engine force)",
+  "explanation": "Since the car is moving at constant speed, it is not accelerating, which means the forces must be balanced. If the engine pushes forward with 500 N and the forces are balanced, friction must push backward with 500 N to make the resultant force zero.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "d5e1e025-6e5e-4637-8c8c-afaba243d974",
+  "topic": "forces.balanced",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:00.433684",
+  "classified_at": "2026-04-05T02:23:00.433685",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/easy",
+  "raw_html": null
+}

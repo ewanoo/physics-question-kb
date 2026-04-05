@@ -1,0 +1,25 @@
+{
+  "question_text": "A student eats a chocolate bar containing 2,000 kJ of energy. During a 30-minute football match, they use approximately 1,800 kJ of energy. They then study for 2 hours, using 400 kJ per hour. Calculate the net energy change (energy gained or lost) for the student during this entire period. Show your working.",
+  "question_type": "calculation",
+  "tags": [
+    "energy transfer",
+    "food energy",
+    "multi-step calculation",
+    "daily activities"
+  ],
+  "options": null,
+  "correct_answer": "Net energy loss of 600 kJ (or -600 kJ). Working: Energy in = 2,000 kJ; Energy out = 1,800 + (400 \u00d7 2) = 2,600 kJ; Net change = 2,000 - 2,600 = -600 kJ",
+  "explanation": "This problem requires students to add up all energy outputs (football match plus studying hours), subtract from energy input, and interpret the negative result as a net energy loss. This connects food energy to real-life activities and helps students understand energy balance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dafff92d-15ce-4459-8133-310a5a145352",
+  "topic": "energy.food",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:45.607781",
+  "classified_at": "2026-04-05T02:23:45.607794",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/hard",
+  "raw_html": null
+}

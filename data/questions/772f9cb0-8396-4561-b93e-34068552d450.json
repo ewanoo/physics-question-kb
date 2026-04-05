@@ -1,0 +1,24 @@
+{
+  "question_text": "A car travels 100 metres in 5 seconds. What is its speed in metres per second (m/s)?",
+  "question_type": "calculation",
+  "tags": [
+    "speed calculation",
+    "distance and time",
+    "m/s"
+  ],
+  "options": null,
+  "correct_answer": "20 m/s",
+  "explanation": "Speed is calculated by dividing the distance travelled by the time taken. Here: speed = 100 m \u00f7 5 s = 20 m/s. This means the car covers 20 metres every second.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "772f9cb0-8396-4561-b93e-34068552d450",
+  "topic": "forces.speed",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:24:06.606442",
+  "classified_at": "2026-04-05T02:24:06.606454",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/easy",
+  "raw_html": null
+}

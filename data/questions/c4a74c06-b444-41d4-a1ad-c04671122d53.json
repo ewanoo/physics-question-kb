@@ -1,0 +1,24 @@
+{
+  "question_text": "What is the unit of measurement for voltage, and what does voltage represent in a circuit?",
+  "question_type": "short_answer",
+  "tags": [
+    "voltage",
+    "units",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "The unit is volts (V). Voltage is the 'push' or energy given to the charge carriers in a circuit.",
+  "explanation": "Voltage is measured in volts and represents how much energy is given to each unit of charge to push it around the circuit. It's why we call it the 'push' - it's the force driving the current.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "c4a74c06-b444-41d4-a1ad-c04671122d53",
+  "topic": "electricity.current_voltage",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:23.962396",
+  "classified_at": "2026-04-05T02:23:23.962398",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/easy",
+  "raw_html": null
+}

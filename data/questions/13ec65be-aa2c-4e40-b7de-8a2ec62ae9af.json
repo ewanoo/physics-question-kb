@@ -1,0 +1,24 @@
+{
+  "question_text": "Optical fibres are used to transmit light signals over long distances. Why does total internal reflection occur inside an optical fibre, and how does this help transmit light?",
+  "question_type": "short_answer",
+  "tags": [
+    "total internal reflection",
+    "fibre optics",
+    "light transmission"
+  ],
+  "options": null,
+  "correct_answer": "Light travelling through the fibre core (high refractive index) hits the boundary with the cladding (lower refractive index) at angles greater than the critical angle, causing total internal reflection. This bounces the light back into the fibre, keeping it trapped inside so it travels the full length without escaping.",
+  "explanation": "When light hits a boundary between a denser and less dense material at a steep enough angle (greater than the critical angle), it bounces back completely instead of escaping. In fibres, this keeps light signals contained and prevents them leaking out sideways, allowing data to travel long distances.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "13ec65be-aa2c-4e40-b7de-8a2ec62ae9af",
+  "topic": "waves.light",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:24:52.713215",
+  "classified_at": "2026-04-05T02:24:52.713222",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.light/medium",
+  "raw_html": null
+}

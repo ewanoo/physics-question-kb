@@ -1,0 +1,24 @@
+{
+  "question_text": "Why is no machine ever 100% efficient?",
+  "question_type": "short_answer",
+  "tags": [
+    "efficiency",
+    "energy loss",
+    "wasted energy"
+  ],
+  "options": null,
+  "correct_answer": "Because some energy is always wasted as heat (and/or sound/friction) - it cannot all be converted to useful energy.",
+  "explanation": "In every machine, some energy is lost due to friction between moving parts, air resistance, or sound. This wasted energy leaves the system as heat, so the useful energy output is always less than the total energy input.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "8bc1234c-42ba-4c31-8b6f-370053cdb8a0",
+  "topic": "energy.efficiency",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:39.010758",
+  "classified_at": "2026-04-05T02:23:39.010761",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/easy",
+  "raw_html": null
+}

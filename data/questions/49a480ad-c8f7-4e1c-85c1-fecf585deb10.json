@@ -1,0 +1,29 @@
+{
+  "question_text": "When white light passes through a prism, it splits into a spectrum. What is the colour that appears at the red end of the spectrum?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "spectrum",
+    "white light",
+    "colours"
+  ],
+  "options": [
+    "Violet",
+    "Red",
+    "Green",
+    "Orange"
+  ],
+  "correct_answer": null,
+  "explanation": "Red light has the longest wavelength in the visible spectrum and always appears at one end when white light splits. The other end shows violet, which has the shortest wavelength.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "49a480ad-c8f7-4e1c-85c1-fecf585deb10",
+  "topic": "waves.colour",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:20.680197",
+  "classified_at": "2026-04-05T02:23:20.680218",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.colour/easy",
+  "raw_html": null
+}

@@ -1,0 +1,29 @@
+{
+  "question_text": "Which of the following best describes what gravity is?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gravity",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    "A force that pushes objects upwards",
+    "A force that pulls objects towards Earth",
+    "A force that only affects heavy objects",
+    "A force that prevents objects from moving"
+  ],
+  "correct_answer": null,
+  "explanation": "Gravity is a pulling force that acts on all objects, pulling them towards Earth. This is why when you drop something, it falls downwards rather than floating away.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6d21e11a-3ab8-4558-9249-a5dca4286ec6",
+  "topic": "forces.gravity",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:11.316163",
+  "classified_at": "2026-04-05T02:23:11.316175",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/easy",
+  "raw_html": null
+}

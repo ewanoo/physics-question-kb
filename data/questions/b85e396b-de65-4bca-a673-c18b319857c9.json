@@ -1,0 +1,30 @@
+{
+  "question_text": "Which statement best evaluates why the UK is moving away from coal and nuclear towards renewable energy sources like wind and solar, despite these renewables being less reliable?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "energy resources",
+    "renewable vs non-renewable",
+    "sustainability",
+    "evaluation"
+  ],
+  "options": [
+    "A) Wind and solar are cheaper per unit of electricity produced than coal and nuclear",
+    "B) Renewable sources don't produce radioactive waste or CO\u2082 emissions, reducing long-term environmental and health costs, even though battery storage and backup systems are needed",
+    "C) Wind turbines and solar panels never need replacing, making them a one-time investment",
+    "D) Renewable energy produces more power per hour than fossil fuels and nuclear combined"
+  ],
+  "correct_answer": "B",
+  "explanation": "Option B correctly identifies that despite reliability challenges, renewables avoid long-term environmental damage (no greenhouse gases, no radioactive waste) and health costs from pollution, making them worth the investment in supporting technology like batteries. Options A, C, and D are false\u2014renewables aren't always cheaper upfront, do need replacement, and don't produce more power overall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b85e396b-de65-4bca-a673-c18b319857c9",
+  "topic": "energy.resources",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:52.052794",
+  "classified_at": "2026-04-05T02:23:52.052798",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.resources/hard",
+  "raw_html": null
+}

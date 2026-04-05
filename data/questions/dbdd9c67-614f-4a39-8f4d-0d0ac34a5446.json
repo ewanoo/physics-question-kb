@@ -1,0 +1,24 @@
+{
+  "question_text": "In June, the UK has approximately 16 hours of daylight. How many hours of darkness does the UK experience in June?",
+  "question_type": "calculation",
+  "tags": [
+    "seasons",
+    "daylight hours",
+    "day length"
+  ],
+  "options": null,
+  "correct_answer": "8 hours",
+  "explanation": "There are 24 hours in a day. If there are 16 hours of daylight, then 24 - 16 = 8 hours of darkness. In summer, the UK has longer days because the Northern Hemisphere tilts towards the Sun.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "dbdd9c67-614f-4a39-8f4d-0d0ac34a5446",
+  "topic": "space.seasons",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:24:34.783224",
+  "classified_at": "2026-04-05T02:24:34.783227",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/easy",
+  "raw_html": null
+}

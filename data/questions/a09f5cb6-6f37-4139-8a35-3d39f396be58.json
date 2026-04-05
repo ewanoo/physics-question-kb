@@ -1,0 +1,25 @@
+{
+  "question_text": "A circuit contains a 12V battery connected to two resistors. Resistor A (4\u03a9) is in series with a parallel combination of Resistor B (6\u03a9) and Resistor C (3\u03a9). Calculate the total current flowing from the battery.",
+  "question_type": "calculation",
+  "tags": [
+    "Ohm's law",
+    "series circuits",
+    "parallel circuits",
+    "combined resistance"
+  ],
+  "options": null,
+  "correct_answer": "2A",
+  "explanation": "First, find the combined resistance of B and C in parallel: 1/R_parallel = 1/6 + 1/3 = 1/2, so R_parallel = 2\u03a9. Then add resistor A in series: R_total = 4 + 2 = 6\u03a9. Finally, use Ohm's law: I = V/R = 12/6 = 2A.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a09f5cb6-6f37-4139-8a35-3d39f396be58",
+  "topic": "electricity.circuits",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:54.853566",
+  "classified_at": "2026-04-05T02:24:54.853577",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.circuits/hard",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "Two foods are compared: Food A has 1,500 kJ in 200g, and Food B has 2,400 kJ in 300g. A student needs 8,000 kJ per day. Which food provides better value for meeting daily energy needs, and why? Consider both energy density and the mass of food needed.",
+  "question_type": "short_answer",
+  "tags": [
+    "energy density",
+    "comparison",
+    "problem-solving",
+    "food energy"
+  ],
+  "options": null,
+  "correct_answer": "Food A is better value. Food A has energy density of 7.5 kJ/g (1,500\u00f7200), while Food B has 8 kJ/g (2,400\u00f7300). Although B is slightly denser, A requires only 1,067g daily (8,000\u00f77.5), whereas B requires 1,000g (8,000\u00f78). Food A is more practical because the energy difference is minimal but A is easier to source in the required quantity.",
+  "explanation": "Students must calculate energy density for both foods, then consider practical implications of consuming large quantities. This requires multi-step reasoning beyond simple calculation\u2014they must evaluate which food is genuinely 'better' by considering real-world factors like feasibility, not just raw numbers.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "04a1f2ef-7eeb-45ff-b4b7-ef017f146c6c",
+  "topic": "energy.food",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:45.608002",
+  "classified_at": "2026-04-05T02:23:45.608004",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/hard",
+  "raw_html": null
+}

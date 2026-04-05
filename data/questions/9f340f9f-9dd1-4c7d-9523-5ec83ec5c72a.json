@@ -1,0 +1,24 @@
+{
+  "question_text": "A student shines red light and blue light onto the same white wall, overlapping them. What colour will appear where the two lights overlap?",
+  "question_type": "short_answer",
+  "tags": [
+    "mixing light",
+    "primary colours",
+    "colour combination"
+  ],
+  "options": null,
+  "correct_answer": "Magenta (or purple/pink)",
+  "explanation": "When red light and blue light mix together, they create magenta (a purplish-pink colour). This is because both colours are being added together to create a new colour\u2014mixing light is additive, which is different from mixing paints.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9f340f9f-9dd1-4c7d-9523-5ec83ec5c72a",
+  "topic": "waves.colour",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:20.680603",
+  "classified_at": "2026-04-05T02:23:20.680604",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.colour/easy",
+  "raw_html": null
+}

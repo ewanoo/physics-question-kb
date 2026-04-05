@@ -1,0 +1,24 @@
+{
+  "question_text": "A bicycle tyre has 80 particles of air in it initially. If you pump more air into the tyre until it contains 120 particles, what happens to the gas pressure inside the tyre?",
+  "question_type": "short_answer",
+  "tags": [
+    "gas_pressure",
+    "particle_density",
+    "everyday_context"
+  ],
+  "options": null,
+  "correct_answer": "The pressure increases. More particles means more collisions with the tyre walls, so pressure increases.",
+  "explanation": "When you add more air particles to the same volume (the tyre), there are more particles hitting the walls per second. More collisions mean greater force on the walls, so the pressure increases. This is why you need to add air to a flat tyre to make it firm again.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "66f0d014-e4bb-4296-92a6-00e07dadfba7",
+  "topic": "matter.gas_pressure",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:24:28.402934",
+  "classified_at": "2026-04-05T02:24:28.402938",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.gas_pressure/easy",
+  "raw_html": null
+}

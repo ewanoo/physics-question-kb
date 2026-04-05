@@ -1,0 +1,29 @@
+{
+  "question_text": "A student drops a rubber ball from a height of 2 metres. It bounces to a height of 1.2 metres on the first bounce. The ball has a mass of 0.5 kg (g = 10 m/s\u00b2). Which statement best explains why the ball does not bounce back to its original height, and what happens to the 'lost' energy?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "energy conservation",
+    "gravitational potential energy",
+    "evaluate"
+  ],
+  "options": [
+    "A) Energy is destroyed because bouncing always wastes energy that disappears from the universe",
+    "B) Energy is conserved but converted into other forms like heat, sound, and deformation of the ball; some energy is also absorbed by the ground",
+    "C) The ball loses gravitational potential energy which turns into kinetic energy, but gravity becomes weaker on the second bounce",
+    "D) Half the energy is lost because the ball is falling downwards, which uses up energy reserves"
+  ],
+  "correct_answer": "B",
+  "explanation": "Energy is never destroyed\u2014it is conserved and transformed. When the ball bounces, not all the gravitational potential energy converts back to kinetic energy; instead, some is converted into heat (warming the ball and ground), sound (the bounce noise), and energy used to deform the ball slightly. This is why it doesn't return to the original height. Options A, C, and D incorrectly suggest energy is destroyed or that gravity changes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d71d1f03-77e7-4467-8594-d0f9cc69a111",
+  "topic": "energy.conservation",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:36.216509",
+  "classified_at": "2026-04-05T02:23:36.216512",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/hard",
+  "raw_html": null
+}

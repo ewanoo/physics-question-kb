@@ -1,0 +1,24 @@
+{
+  "question_text": "An apple falls from a tree. Explain why the apple falls towards the ground.",
+  "question_type": "short_answer",
+  "tags": [
+    "gravity",
+    "falling objects",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Gravity pulls the apple towards Earth / The gravitational force acts on the apple pulling it downwards",
+  "explanation": "All objects are pulled towards Earth by the force of gravity. This is why the apple falls down rather than up or sideways\u2014gravity is constantly pulling it towards the ground.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e7528730-76e9-465c-9ab6-d4b1b6346d4c",
+  "topic": "forces.gravity",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:11.316434",
+  "classified_at": "2026-04-05T02:23:11.316437",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/easy",
+  "raw_html": null
+}

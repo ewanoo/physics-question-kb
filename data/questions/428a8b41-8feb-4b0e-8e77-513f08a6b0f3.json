@@ -1,0 +1,24 @@
+{
+  "question_text": "A spring is stretched by a force of 20 N and extends by 10 cm. If the same spring is stretched by a force of 40 N, how much will it extend? (Assume the spring obeys Hooke's Law and stays elastic.)",
+  "question_type": "calculation",
+  "tags": [
+    "springs",
+    "Hooke's Law",
+    "proportional relationships"
+  ],
+  "options": null,
+  "correct_answer": "20 cm",
+  "explanation": "Using Hooke's Law, force is proportional to extension (F = ke). If 20 N causes 10 cm extension, then doubling the force to 40 N will double the extension to 20 cm. The spring constant (k) stays the same, so the extension increases proportionally with the applied force.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "428a8b41-8feb-4b0e-8e77-513f08a6b0f3",
+  "topic": "forces.springs",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:15.889520",
+  "classified_at": "2026-04-05T02:23:15.889521",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/easy",
+  "raw_html": null
+}

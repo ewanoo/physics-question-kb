@@ -1,0 +1,25 @@
+{
+  "question_text": "A student investigates how gravity changes on different planets. Earth has a gravitational field strength of 10 N/kg, while Jupiter has a gravitational field strength of 25 N/kg. If an astronaut has a mass of 80 kg, calculate: (a) their weight on Earth, (b) their weight on Jupiter, and (c) explain why their mass stays the same but their weight changes.",
+  "question_type": "calculation",
+  "tags": [
+    "gravity",
+    "weight",
+    "mass",
+    "planetary-comparison"
+  ],
+  "options": null,
+  "correct_answer": "(a) 800 N (b) 2000 N (c) Mass is the amount of matter in an object and doesn't change when moving between planets. Weight is the force of gravity acting on that mass, so it changes depending on the gravitational field strength of each planet.",
+  "explanation": "This requires three steps: using W=mg twice with different g values, then explaining the physics concept that mass is intrinsic while weight depends on local gravity. Students must compare results to understand why the astronaut feels heavier on Jupiter despite having the same mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3b56a182-978a-4895-8c04-2b48038b7031",
+  "topic": "forces.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:03.465941",
+  "classified_at": "2026-04-05T02:24:03.465953",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/hard",
+  "raw_html": null
+}

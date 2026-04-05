@@ -1,0 +1,24 @@
+{
+  "question_text": "Why can't sound travel through a vacuum?",
+  "question_type": "short_answer",
+  "tags": [
+    "sound",
+    "vacuum",
+    "particles"
+  ],
+  "options": null,
+  "correct_answer": "Because there are no particles in a vacuum to vibrate and carry the sound waves. Sound is created by vibrations, and without particles, vibrations cannot travel.",
+  "explanation": "Sound travels by making particles vibrate and bump into each other, passing the vibration along. In a vacuum there are no particles, so there's nothing to vibrate or carry the vibrations.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3fd186fa-5c38-49f0-b5f2-402aefb7df91",
+  "topic": "waves.sound",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:06.342975",
+  "classified_at": "2026-04-05T02:23:06.342978",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/easy",
+  "raw_html": null
+}

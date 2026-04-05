@@ -1,0 +1,25 @@
+{
+  "question_text": "A coal power station produces 500 MW of electricity but releases 1,200 tonnes of CO\u2082 per hour. A wind farm produces 150 MW of electricity with zero CO\u2082 emissions during operation. Calculate how many wind farms would be needed to match the coal station's power output, and explain why we can't simply replace all coal with wind farms immediately.",
+  "question_type": "calculation",
+  "tags": [
+    "energy resources",
+    "renewable vs non-renewable",
+    "environmental impact",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "3.33 wind farms (or approximately 3-4 farms) would be needed. We cannot replace coal immediately because: wind is intermittent (doesn't blow all the time), requires significant upfront infrastructure costs, needs large land areas, and existing coal infrastructure is already built and paid for.",
+  "explanation": "This question requires students to divide 500 MW by 150 MW to find 3.33 farms needed, then evaluate why energy transition is complex. It combines calculation skills with understanding that renewable energy has limitations like intermittency and infrastructure challenges, not just environmental advantages.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1f0d869f-81ed-4400-a897-cceebe1d4151",
+  "topic": "energy.resources",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:52.052492",
+  "classified_at": "2026-04-05T02:23:52.052503",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.resources/hard",
+  "raw_html": null
+}

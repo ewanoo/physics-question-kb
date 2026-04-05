@@ -1,0 +1,24 @@
+{
+  "question_text": "What are the three primary colours of light?",
+  "question_type": "short_answer",
+  "tags": [
+    "primary colours",
+    "light mixing",
+    "colour"
+  ],
+  "options": null,
+  "correct_answer": "Red, green and blue (RGB)",
+  "explanation": "The primary colours of light are red, green and blue. These are different from primary colours of paint (which are red, yellow and blue). When you mix red, green and blue light together, you get white light.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "c9ee8082-0dba-4561-a671-62954f8cd2df",
+  "topic": "waves.colour",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:23:20.680532",
+  "classified_at": "2026-04-05T02:23:20.680534",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.colour/easy",
+  "raw_html": null
+}

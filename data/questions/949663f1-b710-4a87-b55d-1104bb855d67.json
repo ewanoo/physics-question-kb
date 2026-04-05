@@ -1,0 +1,24 @@
+{
+  "question_text": "Light travels from water (refractive index 1.33) into air (refractive index 1.00). A ray of light hits the water-air boundary at an angle of 30\u00b0 to the normal. Using Snell's law (n\u2081 sin \u03b8\u2081 = n\u2082 sin \u03b8\u2082), calculate the angle of refraction in air to 1 decimal place.",
+  "question_type": "calculation",
+  "tags": [
+    "refraction",
+    "Snell's law",
+    "refractive index"
+  ],
+  "options": null,
+  "correct_answer": "41.0\u00b0 (or 41\u00b0)",
+  "explanation": "Using Snell's law: 1.33 \u00d7 sin(30\u00b0) = 1.00 \u00d7 sin(\u03b8\u2082). This gives 1.33 \u00d7 0.5 = sin(\u03b8\u2082), so sin(\u03b8\u2082) = 0.665, and \u03b8\u2082 = 41.0\u00b0. The light bends away from the normal when leaving a denser medium, so the angle increases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "949663f1-b710-4a87-b55d-1104bb855d67",
+  "topic": "waves.light",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:24:52.712940",
+  "classified_at": "2026-04-05T02:24:52.712951",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.light/medium",
+  "raw_html": null
+}

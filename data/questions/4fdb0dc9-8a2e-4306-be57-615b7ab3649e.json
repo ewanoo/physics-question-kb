@@ -1,0 +1,25 @@
+{
+  "question_text": "Steam at 100\u00b0C causes more severe burns than boiling water at 100\u00b0C. Using the particle model, explain why steam is more dangerous.",
+  "question_type": "short_answer",
+  "tags": [
+    "states of matter",
+    "particle model",
+    "state changes",
+    "latent heat"
+  ],
+  "options": null,
+  "correct_answer": "Steam contains much more thermal energy than boiling water because energy is needed to break apart the bonds holding particles together during evaporation (latent heat of vaporisation). When steam condenses on skin, it releases this stored energy as heat, causing more damage. Boiling water has already used some energy to change state, so it carries less 'hidden' energy.",
+  "explanation": "Both steam and boiling water are at the same temperature, but steam has absorbed extra energy to change from liquid to gas. When steam touches your skin, it releases this energy by turning back into liquid water, which is why it burns more severely. The particles in steam are much further apart and moving faster than in boiling water, so they transfer more energy when they slow down and condense.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4fdb0dc9-8a2e-4306-be57-615b7ab3649e",
+  "topic": "matter.states",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:24:59.396777",
+  "classified_at": "2026-04-05T02:24:59.396790",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.states/medium",
+  "raw_html": null
+}

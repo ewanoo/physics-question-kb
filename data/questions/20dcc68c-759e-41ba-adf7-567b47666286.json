@@ -1,0 +1,30 @@
+{
+  "question_text": "The Moon's gravitational field strength is approximately 1.6 N/kg compared to Earth's 10 N/kg. An astronaut on the Moon can jump to a height of 2 meters. If the same astronaut tried to jump on Earth with the same initial velocity, approximately how high would they jump? (Hint: Use the equation v\u00b2 = 2gh, where g is gravitational field strength.)",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gravity",
+    "jumping-height",
+    "multi-step",
+    "orbital-mechanics"
+  ],
+  "options": [
+    "A) 0.32 meters",
+    "B) 3.2 meters",
+    "C) 12.5 meters",
+    "D) 20 meters"
+  ],
+  "correct_answer": "A) 0.32 meters",
+  "explanation": "First, find the initial velocity on the Moon using v\u00b2 = 2gh: v\u00b2 = 2 \u00d7 1.6 \u00d7 2 = 6.4, so v \u2248 2.5 m/s. Then use this same velocity on Earth with h = v\u00b2/2g: h = 6.4/(2 \u00d7 10) = 0.32 m. The astronaut jumps much lower on Earth because stronger gravity pulls them down faster.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "20dcc68c-759e-41ba-adf7-567b47666286",
+  "topic": "forces.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:03.466209",
+  "classified_at": "2026-04-05T02:24:03.466211",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/hard",
+  "raw_html": null
+}

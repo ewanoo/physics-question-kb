@@ -1,0 +1,24 @@
+{
+  "question_text": "A student has three objects: Object A (mass 500g, volume 250cm\u00b3), Object B (mass 800g, volume 400cm\u00b3), and Object C (mass 300g, volume 600cm\u00b3). Water has a density of 1g/cm\u00b3. Which object would float in water, and explain your reasoning using density calculations.",
+  "question_type": "short_answer",
+  "tags": [
+    "density calculation",
+    "floating and sinking",
+    "multi-step reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Object C would float. Object A has density 500\u00f7250 = 2g/cm\u00b3, Object B has density 800\u00f7400 = 2g/cm\u00b3, and Object C has density 300\u00f7600 = 0.5g/cm\u00b3. Since Object C's density (0.5g/cm\u00b3) is less than water's density (1g/cm\u00b3), it will float, while the other two objects sink.",
+  "explanation": "To determine if an object floats or sinks, you must calculate its density and compare it to water's density of 1g/cm\u00b3. Objects with lower density float, while objects with higher density sink. This question requires three separate density calculations and a comparison between results.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "00ad1635-439e-477f-a322-75f7c541e319",
+  "topic": "matter.density",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:24.338019",
+  "classified_at": "2026-04-05T02:24:24.338031",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/hard",
+  "raw_html": null
+}

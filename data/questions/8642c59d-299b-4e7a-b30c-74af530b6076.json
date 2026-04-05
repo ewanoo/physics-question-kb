@@ -1,0 +1,25 @@
+{
+  "question_text": "The Moon orbits Earth every 27.3 days and appears to go through different phases (new, crescent, half, gibbous, full). Explain why we always see the same face of the Moon from Earth, and calculate how many times the Moon rotates on its axis during one complete orbit around Earth. Then evaluate whether a total solar eclipse could occur if the Moon rotated at a different rate.",
+  "question_type": "short_answer",
+  "tags": [
+    "lunar_phases",
+    "tidal_locking",
+    "orbital_mechanics",
+    "eclipses"
+  ],
+  "options": null,
+  "correct_answer": "The Moon rotates once every 27.3 days (same as its orbital period), which is called tidal locking or synchronous rotation. This occurs because Earth's gravity has slowed the Moon's rotation over billions of years. During one complete orbit (27.3 days), the Moon rotates exactly 1 time on its axis. If the Moon rotated at a different rate (faster or slower), total solar eclipses could not occur regularly because the Moon would not keep the same face pointing toward Earth\u2014the alignment would be wrong and the Moon's shadow wouldn't consistently fall on Earth in the same way.",
+  "explanation": "The Moon is tidally locked to Earth, meaning it rotates once per orbit. This is why we always see the same face. For eclipses to happen, the Moon must be positioned perfectly between Earth and the Sun\u2014this only works because the same side always faces us. If the Moon spun faster or slower, it would rotate relative to its orbit, and perfect eclipse alignment wouldn't occur regularly.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8642c59d-299b-4e7a-b30c-74af530b6076",
+  "topic": "space.earth_moon",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:25:03.378647",
+  "classified_at": "2026-04-05T02:25:03.378659",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/hard",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A book of mass 2 kg rests on a table. A horizontal force of 3 N is applied to push it, but it doesn't move. The coefficient of static friction is 0.3 and g = 10 m/s\u00b2. Now a second person pulls upward on the book with a force of 5 N while the first person still pushes horizontally with 3 N. Will the book move? Show your working and identify all forces involved.",
+  "question_type": "calculation",
+  "tags": [
+    "forces.types",
+    "friction",
+    "multi-step",
+    "normal force"
+  ],
+  "options": null,
+  "correct_answer": "Step 1: Initial weight = 2 \u00d7 10 = 20 N (downward, non-contact). Normal force initially = 20 N (upward, contact). Max static friction = 0.3 \u00d7 20 = 6 N. Since 3 N < 6 N, the book doesn't move initially. Step 2: With upward pull of 5 N, normal force = 20 \u2212 5 = 15 N. Max static friction = 0.3 \u00d7 15 = 4.5 N. Since 3 N < 4.5 N, the book still does not move.",
+  "explanation": "When pulled upward, the normal force decreases because the book is partially lifted off the table. This reduces friction (friction depends on normal force). Even though friction is reduced from 6 N to 4.5 N, the 3 N push is still not strong enough to overcome it, so the book remains stationary.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1b39798c-5b26-40a7-86ca-bdc8b155f59f",
+  "topic": "forces.types",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:24:12.896533",
+  "classified_at": "2026-04-05T02:24:12.896536",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.types/hard",
+  "raw_html": null
+}

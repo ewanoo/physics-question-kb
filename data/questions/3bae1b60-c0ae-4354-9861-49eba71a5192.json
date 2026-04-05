@@ -1,0 +1,24 @@
+{
+  "question_text": "A roller coaster car with a mass of 500 kg is at the top of a hill that is 45 metres high. Calculate the gravitational potential energy stored in the car at this point. (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "tags": [
+    "gravitational potential energy",
+    "energy stores",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "225,000 J (or 225 kJ)",
+  "explanation": "We use the formula GPE = mgh, where m = 500 kg, g = 10 m/s\u00b2, and h = 45 m. Multiplying these together: 500 \u00d7 10 \u00d7 45 = 225,000 J. This energy is stored because of the car's position high up on the hill.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3bae1b60-c0ae-4354-9861-49eba71a5192",
+  "topic": "energy.stores",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:24:56.687937",
+  "classified_at": "2026-04-05T02:24:56.687949",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.stores/medium",
+  "raw_html": null
+}

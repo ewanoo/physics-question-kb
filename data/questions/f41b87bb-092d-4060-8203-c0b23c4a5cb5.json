@@ -1,0 +1,30 @@
+{
+  "question_text": "A student designs an electromagnet by wrapping 500 coils of wire around an iron core and connecting it to a 6V battery. The electromagnet lifts a mass of 2 kg. To increase the lifting force to 4 kg, which TWO of the following changes would be most effective? A) Increase the battery voltage to 12V, B) Reduce the number of coils to 250, C) Replace the iron core with a plastic core, D) Add a second identical battery in series.",
+  "question_type": "multiple_choice",
+  "tags": [
+    "electromagnets",
+    "magnetic-field-strength",
+    "circuit-design",
+    "evaluation"
+  ],
+  "options": [
+    "A and B",
+    "A and D",
+    "B and C",
+    "C and D"
+  ],
+  "correct_answer": null,
+  "explanation": "Increasing voltage (A) or adding batteries in series (D) both increase current through the coils, strengthening the magnetic field and lifting power. Reducing coils (B) weakens the field, and plastic cores don't magnetise (C), so both would decrease force. Either A or D alone doubles the voltage/current, roughly doubling the lifting force from 2kg to 4kg.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f41b87bb-092d-4060-8203-c0b23c4a5cb5",
+  "topic": "electricity.electromagnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:23:29.508548",
+  "classified_at": "2026-04-05T02:23:29.508559",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/hard",
+  "raw_html": null
+}

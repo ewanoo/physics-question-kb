@@ -1,0 +1,24 @@
+{
+  "question_text": "A sound wave travels through water with a frequency of 500 Hz. The wavelength of the sound wave is 3 m. Calculate the speed of the sound wave using the equation v = f \u00d7 \u03bb.",
+  "question_type": "calculation",
+  "tags": [
+    "wave speed",
+    "frequency",
+    "wavelength"
+  ],
+  "options": null,
+  "correct_answer": "1500 m/s",
+  "explanation": "Using the wave speed equation v = f \u00d7 \u03bb, we multiply frequency (500 Hz) by wavelength (3 m) to get v = 500 \u00d7 3 = 1500 m/s. This is a typical speed for sound in water, which is faster than sound in air.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "81892d54-dfc2-421d-8363-7356d03a02c9",
+  "topic": "waves.properties",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:25:05.217182",
+  "classified_at": "2026-04-05T02:25:05.217198",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/medium",
+  "raw_html": null
+}
