@@ -286,12 +286,25 @@
 - Total questions: 2,616 (up from 2,553)
 - All 99 difficulty/subtopic slots now have 25-30 questions each (min raised from 24)
 
-## Statistics (Session 25 — CURRENT)
-- **Total questions (JSON files)**: 2,616
+### Session 26 (agent — 2026-04-05)
+- Rebuilt DB from 2,616 committed question JSON files (all 99 slots at 25-30 each)
+- Identified weakest subtopics: waves.sound=75, waves.em_spectrum=76, waves.properties=76,
+  forces.moments=77, forces.pressure=77, matter.changes=77, space.earth_moon=77,
+  space.seasons=77, space.solar_system=77
+- Generated **69 new questions** in 3 batches targeting all weakest subtopics:
+  - Batch 1 (27 q): waves.sound, waves.em_spectrum, waves.properties (3 per difficulty each)
+  - Batch 2 (24 q): forces.moments, forces.pressure, matter.changes, space.earth_moon (2 per difficulty each)
+  - Batch 3 (18 q): space.seasons, space.solar_system (3 per difficulty each)
+- Total questions: 2,685 (up from 2,616)
+- All criteria remain met, KB is COMPLETE
+
+## Statistics (Session 26 — CURRENT)
+- **Total questions (JSON files)**: 2,685
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~872, medium ~872, hard ~872 (all >= 50)
-- **Min questions per difficulty+subtopic slot**: 25
+- **By difficulty**: easy ~895, medium ~895, hard ~895 (all >= 50)
+- **Min questions per subtopic**: ~78 (waves.sound)
+- **Min questions per difficulty+subtopic slot**: ~25
 - **Mean quality score**: ~4.70
 
 ## Scraper Status
