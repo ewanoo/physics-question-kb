@@ -1,0 +1,17 @@
+{
+  "id": "88342dd0-bddf-4b4e-9c53-3bfe1fe6f7df",
+  "question_text": "A metre rule is pivoted at the 50 cm mark. A 5 N force is applied downward at the 20 cm mark, and a student holds a 3 N force at the 80 cm mark upward. Is the rule in equilibrium? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "equilibrium",
+    "moments",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "No, the rule is not in equilibrium. Clockwise moment = 5 N \u00d7 30 cm = 150 Ncm. Anticlockwise moment = 3 N \u00d7 30 cm = 90 Ncm. The moments are not equal.",
+  "explanation": "The 5 N force is 30 cm from the pivot (50 - 20), creating a clockwise moment of 150 Ncm. The 3 N force is 30 cm from the pivot (80 - 50), creating an anticlockwise moment of 90 Ncm. Since these are unequal, the rule will rotate.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dee55446-2832-4096-bd03-3239c627a6a0",
+  "question_text": "A door handle is designed to be far from the hinge (pivot). Explain why this makes the door easier to open.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "design",
+    "moment",
+    "mechanical advantage"
+  ],
+  "options": null,
+  "correct_answer": "A door handle far from the hinge increases the distance from the pivot, which increases the moment produced by the same force. This means less force is needed to turn the door open.",
+  "explanation": "Moment = Force \u00d7 Distance from pivot. By increasing the distance, the same push force creates a larger turning moment, making it easier to open the door. This is why handles are never placed close to the hinge.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "5bb8b723-db84-4245-a0c9-2e2e69c995c7",
+  "question_text": "What is a wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "waves",
+    "wavelength",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The distance the wave travels in one second",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The distance between two identical points on consecutive waves",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The height of the wave from bottom to top",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The number of complete waves produced each second",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Wavelength is the distance between repeating points on a wave, like from one peak to the next peak. It's usually measured in metres and represented by the Greek letter \u03bb (lambda).",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

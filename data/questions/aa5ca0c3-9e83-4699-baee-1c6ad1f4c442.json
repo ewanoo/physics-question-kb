@@ -1,0 +1,38 @@
+{
+  "id": "aa5ca0c3-9e83-4699-baee-1c6ad1f4c442",
+  "question_text": "Which material allows sound to travel the fastest?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "speed",
+    "medium"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Water",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Steel",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Vacuum (empty space)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Sound travels fastest through solids like steel because the particles are packed tightly together. It travels slower through water and slowest through air.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

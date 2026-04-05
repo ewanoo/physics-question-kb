@@ -1,0 +1,38 @@
+{
+  "id": "d05328c5-1e0c-41e2-a5e4-5136d42ce49c",
+  "question_text": "Which type of electromagnetic wave has the longest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "wavelength",
+    "radio waves"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Visible light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ultraviolet waves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Radio waves",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Gamma rays",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Radio waves have the longest wavelengths in the electromagnetic spectrum. Gamma rays have the shortest wavelengths. The order from longest to shortest is: radio, microwave, infrared, visible, ultraviolet, X-ray, gamma.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

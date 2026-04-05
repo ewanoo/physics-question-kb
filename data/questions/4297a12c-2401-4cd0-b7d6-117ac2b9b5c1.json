@@ -1,0 +1,17 @@
+{
+  "id": "4297a12c-2401-4cd0-b7d6-117ac2b9b5c1",
+  "question_text": "Explain why the Moon always shows the same face to Earth (we never see the far side from Earth).",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal locking",
+    "rotation",
+    "orbital period"
+  ],
+  "options": null,
+  "correct_answer": "The Moon's rotation period equals its orbital period around Earth (both about 28 days). This means the same side of the Moon always faces Earth. This is called tidal locking.",
+  "explanation": "The Moon rotates on its axis at exactly the same rate as it orbits Earth. This is why we always see the same hemisphere of the Moon facing us. This occurred because Earth's gravity has gradually slowed the Moon's rotation over time.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "6125c386-3777-44bd-a4ee-71be572d0173",
+  "question_text": "A gamma ray has a frequency of 3 \u00d7 10\u00b2\u2070 Hz and a radio wave has a frequency of 1 \u00d7 10\u2076 Hz. Calculate the wavelength of each wave (speed of EM waves = 3 \u00d7 10\u2078 m/s). Which is longer?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "wavelength",
+    "frequency",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Gamma ray wavelength = 1 \u00d7 10\u207b\u00b9\u00b2 m. Radio wave wavelength = 3 \u00d7 10\u00b2 m (or 300 m). The radio wave has a much longer wavelength.",
+  "explanation": "Using wavelength = speed \u00f7 frequency: Gamma ray = (3 \u00d7 10\u2078) \u00f7 (3 \u00d7 10\u00b2\u2070) = 1 \u00d7 10\u207b\u00b9\u00b2 m. Radio wave = (3 \u00d7 10\u2078) \u00f7 (1 \u00d7 10\u2076) = 3 \u00d7 10\u00b2 m. The radio wave is about a trillion trillion times longer!",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

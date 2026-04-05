@@ -1,0 +1,19 @@
+{
+  "id": "a87b7ca4-f668-4606-bfe8-83e2487f2449",
+  "question_text": "A light wave has a speed of 3 \u00d7 10\u2078 m/s and a wavelength of 6 \u00d7 10\u207b\u2077 m. Calculate its frequency and determine what colour this light is.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "waves",
+    "light",
+    "frequency",
+    "wavelength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Frequency = 5 \u00d7 10\u00b9\u2074 Hz. This is red light (wavelengths of 6-7 \u00d7 10\u207b\u2077 m produce red light).",
+  "explanation": "Using frequency = speed \u00f7 wavelength: frequency = (3 \u00d7 10\u2078) \u00f7 (6 \u00d7 10\u207b\u2077) = 5 \u00d7 10\u00b9\u2074 Hz. In the visible spectrum, this frequency corresponds to red light, which has the longest wavelength of visible light.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

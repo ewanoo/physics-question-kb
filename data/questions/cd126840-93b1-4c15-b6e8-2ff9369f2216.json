@@ -1,0 +1,17 @@
+{
+  "id": "cd126840-93b1-4c15-b6e8-2ff9369f2216",
+  "question_text": "The Moon is gradually moving away from Earth at about 3.8 cm per year. Predict how this will affect Earth's tides in the future and explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "gravitational force",
+    "tides",
+    "prediction"
+  ],
+  "options": null,
+  "correct_answer": "As the Moon moves away, its gravitational pull on Earth will decrease. This will cause tides to become smaller over time because the tidal force depends on the Moon's gravitational pull, which decreases with distance.",
+  "explanation": "Gravitational force depends on distance: as distance increases, gravity weakens. Since tides are caused by the Moon's gravity pulling on Earth's oceans, weaker gravity means smaller tidal bulges and less dramatic tidal changes.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

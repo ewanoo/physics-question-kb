@@ -1,0 +1,19 @@
+{
+  "id": "52c335c3-1819-48db-a235-6d4c90c6f107",
+  "question_text": "Compare two waves: Wave A has a high amplitude and low frequency; Wave B has a low amplitude and high frequency. For a sound wave, which would be louder and which would have a higher pitch? Explain your answers.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "waves",
+    "amplitude",
+    "frequency",
+    "properties",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Wave A would be louder (because amplitude determines loudness) and Wave B would have a higher pitch (because frequency determines pitch). Loudness depends on amplitude, pitch depends on frequency\u2014they are independent properties.",
+  "explanation": "Amplitude and frequency control different properties of sound. Amplitude (height of wave) affects how loud it is\u2014a bigger wave is louder. Frequency (how many waves per second) affects pitch\u2014more waves per second means a higher pitch. You can have a loud low note or a quiet high note.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

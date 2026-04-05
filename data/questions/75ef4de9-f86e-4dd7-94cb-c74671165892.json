@@ -1,0 +1,18 @@
+{
+  "id": "75ef4de9-f86e-4dd7-94cb-c74671165892",
+  "question_text": "A wave has a frequency of 4 Hz. What is its period (the time for one complete wave)?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "waves",
+    "frequency",
+    "period",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.25 seconds",
+  "explanation": "Period = 1 \u00f7 frequency. So period = 1 \u00f7 4 = 0.25 seconds. This means one complete wave takes 0.25 seconds to pass a point.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

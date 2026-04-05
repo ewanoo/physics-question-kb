@@ -1,0 +1,17 @@
+{
+  "id": "213eb201-4f0e-4f7e-ab0b-f86145f8b0b0",
+  "question_text": "In a wave, what is the amplitude?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "waves",
+    "amplitude",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "The maximum height or distance of a wave from its resting position (the distance from the centre line to the peak or trough)",
+  "explanation": "Amplitude measures how far a wave moves up and down from its resting position. A larger amplitude means a stronger wave, which for sound means louder, and for light means brighter.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "7485f33e-3148-45ed-8e08-781fbf5e29ab",
+  "question_text": "A 2000 N car must be lifted by a hydraulic jack. The jack has a small piston of area 0.01 m\u00b2 and a large piston of area 0.1 m\u00b2. What is the minimum pressure needed in the system to lift the car?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulics",
+    "pressure",
+    "mechanical systems"
+  ],
+  "options": null,
+  "correct_answer": "20,000 Pa",
+  "explanation": "To lift the car, the pressure must create an upward force of at least 2000 N on the large piston. Using Pressure = Force \u00f7 Area: P = 2000 N \u00f7 0.1 m\u00b2 = 20,000 Pa. This same pressure acts throughout the hydraulic fluid, making hydraulic systems very effective.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6fd109a4-d6fe-46ca-8a86-e81f90bb90b9",
+  "question_text": "A student creates waves on a string by shaking it with different motions. When the student shakes the string faster, the wave speed stays the same. The student observes that the wavelength decreases. Is this observation correct? Use the wave equation to justify your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "waves",
+    "wave speed",
+    "wavelength",
+    "frequency",
+    "relationship"
+  ],
+  "options": null,
+  "correct_answer": "Yes, the observation is correct. Using wave speed = wavelength \u00d7 frequency: if wave speed is constant and frequency increases (faster shaking), then wavelength must decrease. This is because the faster vibrations create waves closer together.",
+  "explanation": "The wave speed on a string is determined by the string's properties (tension and mass), not by how you shake it. When you shake faster (higher frequency) with constant wave speed, the equation forces wavelength to be smaller. This is why higher frequency sounds have shorter wavelengths.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

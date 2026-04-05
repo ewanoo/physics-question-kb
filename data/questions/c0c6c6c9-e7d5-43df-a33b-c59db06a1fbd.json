@@ -1,0 +1,17 @@
+{
+  "id": "c0c6c6c9-e7d5-43df-a33b-c59db06a1fbd",
+  "question_text": "A scientist heats 100 g of ice at -10\u00b0C. It takes 500 J to warm the ice to 0\u00b0C, then 33,000 J to melt it completely, and then 2,000 J to warm the resulting water to 10\u00b0C. How much total energy was transferred?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "energy transfer",
+    "melting",
+    "heating"
+  ],
+  "options": null,
+  "correct_answer": "35,500 J",
+  "explanation": "Total energy = 500 J + 33,000 J + 2,000 J = 35,500 J. This includes energy to warm the ice, energy for the latent heat of fusion (melting), and energy to warm the water. The large energy needed for melting shows that state changes require significant energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

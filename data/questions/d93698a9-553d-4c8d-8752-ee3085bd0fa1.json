@@ -1,0 +1,17 @@
+{
+  "id": "d93698a9-553d-4c8d-8752-ee3085bd0fa1",
+  "question_text": "A substance exists as a liquid at room temperature. Predict what happens if it is cooled to -50\u00b0C and then heated to 150\u00b0C. Explain your answer using particle theory.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "particle theory",
+    "state changes",
+    "prediction"
+  ],
+  "options": null,
+  "correct_answer": "At -50\u00b0C, the liquid will freeze into a solid because particles lose energy and slow down enough to form a rigid structure. At 150\u00b0C, if the melting point is below -50\u00b0C and boiling point is below 150\u00b0C, it will become a gas. Particles gain enough energy to move far apart and escape as a gas.",
+  "explanation": "The substance undergoes freezing (liquid to solid) when cooled, then melting (solid to liquid) and evaporation (liquid to gas) when heated. Particles gain or lose energy, changing how they are arranged and how fast they move.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

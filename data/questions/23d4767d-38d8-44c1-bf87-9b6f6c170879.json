@@ -1,0 +1,38 @@
+{
+  "id": "23d4767d-38d8-44c1-bf87-9b6f6c170879",
+  "question_text": "What is sound?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "definition",
+    "vibration"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A type of light energy that travels through space",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A mechanical wave produced by vibrating objects that travels through a medium",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "An invisible force that pushes objects around",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A type of heat energy released from hot objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Sound is created when objects vibrate and send waves through materials like air, water, or solids. We hear sound when these vibrations reach our ears.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2628c26a-739b-4d31-9e91-e1bfe2a6a871",
+  "question_text": "What is the Moon?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "definition",
+    "natural satellite",
+    "Earth"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A planet that orbits the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A natural satellite that orbits the Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A star that produces its own light",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A comet made of ice and rock",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon is Earth's natural satellite. It is a rocky body that orbits Earth and is held in orbit by Earth's gravity. Unlike stars, the Moon does not produce its own light but reflects light from the Sun.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

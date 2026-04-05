@@ -1,0 +1,17 @@
+{
+  "id": "efd9da4a-e676-43f8-93ad-1be4242453d3",
+  "question_text": "Steam at 100\u00b0C condenses into liquid water at 100\u00b0C. Why does this process release heat energy?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "condensation",
+    "energy",
+    "state change"
+  ],
+  "options": null,
+  "correct_answer": "When gas condenses to liquid, the particles lose kinetic energy and move closer together as they form stronger bonds. This energy is released as heat to the surroundings.",
+  "explanation": "Condensation is the opposite of evaporation. As gas particles slow down and form a liquid, they release the energy that was used to separate them during evaporation. This energy is transferred to the surroundings as heat.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

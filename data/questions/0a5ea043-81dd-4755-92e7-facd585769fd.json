@@ -1,0 +1,17 @@
+{
+  "id": "0a5ea043-81dd-4755-92e7-facd585769fd",
+  "question_text": "Describe what happens to the particles of water as ice melts into liquid water.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "particle model",
+    "melting",
+    "molecular arrangement"
+  ],
+  "options": null,
+  "correct_answer": "The particles in ice are arranged in a fixed, rigid structure and vibrate in place. As heat is added, the particles gain energy and vibrate more vigorously. Eventually, they break free from their fixed positions and can move around, forming liquid water.",
+  "explanation": "In a solid, particles are tightly packed in a fixed arrangement. Heat energy makes them vibrate faster and eventually break free from their positions, allowing them to move about as a liquid.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

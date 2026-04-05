@@ -1,0 +1,38 @@
+{
+  "id": "eee262d1-186c-446b-928a-902d0c95449e",
+  "question_text": "A knife cuts better than a spoon because it has a sharper edge. Which of these best explains why?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "sharp objects",
+    "everyday"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The knife is made of stronger material",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A sharp edge concentrates the force over a smaller area, creating higher pressure",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The knife weighs more than a spoon",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A sharp edge reduces the weight of the tool",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since pressure = force/area, a sharp knife edge has a very small contact area. The same pushing force concentrated on this tiny area creates much higher pressure, allowing it to cut through food easily.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

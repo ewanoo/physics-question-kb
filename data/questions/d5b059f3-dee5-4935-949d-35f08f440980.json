@@ -1,0 +1,18 @@
+{
+  "id": "d5b059f3-dee5-4935-949d-35f08f440980",
+  "question_text": "A rope is tied to a wall and shaken to create a wave. Explain what would happen to the wavelength if the rope is shaken faster (higher frequency) but the rope is moved the same distance up and down.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "waves",
+    "wavelength",
+    "frequency",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "The wavelength would decrease (become shorter). The wave speed stays the same (determined by the rope properties), so if frequency increases, wavelength must decrease to maintain: wave speed = wavelength \u00d7 frequency.",
+  "explanation": "The wave speed depends on the medium (the rope), not on how fast you shake it. Since wave speed = wavelength \u00d7 frequency, if you increase frequency, the wavelength must decrease. This creates more waves in the same space.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

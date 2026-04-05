@@ -1,0 +1,17 @@
+{
+  "id": "93f28029-a3ad-4d7a-9f4e-28eb40b2e9b4",
+  "question_text": "Caterpillar tracks on a tank spread the weight over a larger area compared to wheels. How does this help the tank?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "design",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "The larger contact area reduces the pressure exerted on the ground, preventing the tank from sinking into soft ground or mud.",
+  "explanation": "Since pressure = force/area, spreading the same weight over a larger area reduces the pressure. This allows heavy tanks to travel across soft terrain without sinking, whereas wheels with smaller contact areas would apply higher pressure and sink.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "5a66a00a-f36c-480a-887d-8c0fba084e0c",
+  "question_text": "What term describes how loud or quiet a sound is?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "amplitude",
+    "loudness"
+  ],
+  "options": null,
+  "correct_answer": "Amplitude (or loudness/volume)",
+  "explanation": "The amplitude of a sound wave determines how loud it is. A bigger amplitude means a louder sound, while a smaller amplitude means a quieter sound.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

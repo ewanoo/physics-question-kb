@@ -1,0 +1,38 @@
+{
+  "id": "958aba5c-a634-40db-acdb-8b5d576796c9",
+  "question_text": "All electromagnetic waves travel at the same speed in a vacuum. What is this speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "speed",
+    "light"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "340 m/s",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "3 \u00d7 10\u2078 m/s (or 300,000 km/s)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "3 \u00d7 10\u2075 m/s",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It depends on the type of EM wave",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The speed of light (and all EM waves) in a vacuum is 3 \u00d7 10\u2078 m/s, or 300,000 km/s. This is always the same, whether it's radio waves, visible light, or X-rays.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

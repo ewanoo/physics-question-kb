@@ -1,0 +1,17 @@
+{
+  "id": "bc8af363-50bb-46d8-a86c-a9f7df3d1487",
+  "question_text": "A balanced seesaw has a 400 N force 1.5 m from the pivot on the left side. What force must be applied 2 m from the pivot on the right side to keep it balanced?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment calculation",
+    "balance",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "300 N",
+  "explanation": "For balance, moments must be equal on both sides. Left moment = 400 N \u00d7 1.5 m = 600 Nm. For the right side: Force \u00d7 2 m = 600 Nm, so Force = 300 N. A smaller force is needed because it acts further from the pivot.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

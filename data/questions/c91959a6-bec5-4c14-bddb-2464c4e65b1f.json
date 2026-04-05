@@ -1,0 +1,17 @@
+{
+  "id": "c91959a6-bec5-4c14-bddb-2464c4e65b1f",
+  "question_text": "The Moon orbits Earth in approximately 28 days. If the Moon is at a certain position today, roughly how far along its orbit will it be in 7 days?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "orbital period",
+    "fraction",
+    "Moon orbit"
+  ],
+  "options": null,
+  "correct_answer": "Approximately one-quarter (25%) of the way around its orbit, or 90 degrees",
+  "explanation": "The Moon takes 28 days to complete one full orbit. In 7 days, it travels 7/28 = 1/4 of its orbit. This is why we see the Moon's phase change from new to first quarter in about one week.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

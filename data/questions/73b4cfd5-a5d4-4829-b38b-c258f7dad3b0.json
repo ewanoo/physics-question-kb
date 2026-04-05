@@ -1,0 +1,38 @@
+{
+  "id": "73b4cfd5-a5d4-4829-b38b-c258f7dad3b0",
+  "question_text": "A seesaw is balanced with a child sitting on each end. Which of these would make the seesaw unbalanced?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "balance",
+    "pivot",
+    "everyday example"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "One child moving closer to the pivot",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Both children staying in the same positions",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both children moving the same distance from the pivot",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The seesaw getting longer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Moving a child closer to the pivot reduces the moment on that side because moment depends on both the force and the distance from the pivot. This unbalances the seesaw.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

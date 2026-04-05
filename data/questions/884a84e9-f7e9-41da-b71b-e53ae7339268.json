@@ -1,0 +1,39 @@
+{
+  "id": "884a84e9-f7e9-41da-b71b-e53ae7339268",
+  "question_text": "Two sounds have the same frequency. Sound A has twice the amplitude of Sound B. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "amplitude",
+    "frequency",
+    "loudness"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound A will travel twice as far as Sound B",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Sound A has a higher pitch than Sound B",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Sound A is louder than Sound B, but they have the same pitch",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Sound A travels faster through air than Sound B",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Amplitude determines loudness, so Sound A (larger amplitude) is louder. Frequency determines pitch, and since both sounds have the same frequency, they have the same pitch. Speed of sound in a medium doesn't depend on amplitude or frequency.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1de2d57b-4af6-4532-9470-40db34dddea4",
+  "question_text": "Compare the loudness of two sounds: Sound X has an amplitude of 5 cm, and Sound Y has an amplitude of 10 cm. The frequency of Sound X is 250 Hz and Sound Y is 500 Hz. Explain which sound is louder and why.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "amplitude",
+    "loudness",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Sound Y is louder because it has a larger amplitude (10 cm compared to 5 cm). Amplitude determines loudness, not frequency. The frequency only affects pitch.",
+  "explanation": "Loudness depends only on amplitude (how much the wave moves). Sound Y's amplitude is twice that of Sound X, making it louder. The different frequencies only mean they have different pitches, not different loudness levels.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

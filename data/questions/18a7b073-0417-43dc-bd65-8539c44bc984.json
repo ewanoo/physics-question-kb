@@ -1,0 +1,38 @@
+{
+  "id": "18a7b073-0417-43dc-bd65-8539c44bc984",
+  "question_text": "A microwave oven uses electromagnetic waves to heat food. Which type of EM wave does it use?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "microwaves",
+    "applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Infrared waves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Microwaves",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Ultraviolet waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Microwave ovens use microwaves, which are electromagnetic waves with a wavelength of about 1-10 mm. These waves cause water molecules in food to vibrate, which produces heat.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

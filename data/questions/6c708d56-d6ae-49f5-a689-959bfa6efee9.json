@@ -1,0 +1,18 @@
+{
+  "id": "6c708d56-d6ae-49f5-a689-959bfa6efee9",
+  "question_text": "Two electromagnetic waves have frequencies of 5 \u00d7 10\u00b9\u2074 Hz and 5 \u00d7 10\u00b9\u00b2 Hz. Which wave has the longer wavelength and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "frequency",
+    "wavelength",
+    "relationship"
+  ],
+  "options": null,
+  "correct_answer": "The wave with frequency 5 \u00d7 10\u00b9\u00b2 Hz has the longer wavelength because wavelength and frequency are inversely related. Lower frequency means longer wavelength.",
+  "explanation": "The relationship is: wavelength = speed \u00f7 frequency. Since all EM waves travel at the same speed, the one with lower frequency must have a longer wavelength. The wave with 5 \u00d7 10\u00b9\u00b2 Hz has a lower frequency, so it has a longer wavelength.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

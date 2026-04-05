@@ -1,0 +1,38 @@
+{
+  "id": "c4b7016b-a9c4-47e2-816d-b7dd6013b397",
+  "question_text": "Why do we see different phases of the Moon during the month?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar phases",
+    "sunlight",
+    "orbit"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon produces different amounts of light each night",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Earth's shadow covers different amounts of the Moon as it orbits",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "We see different amounts of the illuminated side of the Moon as it orbits Earth",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The Moon moves closer and farther from the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As the Moon orbits Earth, the Sun illuminates different amounts of its surface. From our viewpoint, we see the Moon's phases change from new (fully dark) to full (fully lit) and back again, depending on the Moon's position in its orbit.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

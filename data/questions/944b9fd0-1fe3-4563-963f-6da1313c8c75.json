@@ -1,0 +1,38 @@
+{
+  "id": "944b9fd0-1fe3-4563-963f-6da1313c8c75",
+  "question_text": "What is pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "force",
+    "area"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of force acting on an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The force acting over a unit area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object divided by its height",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How hard something is pushed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Pressure is defined as force divided by the area over which the force is applied. It tells us how concentrated a force is on a surface. A smaller area means higher pressure for the same force.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

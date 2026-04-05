@@ -1,0 +1,17 @@
+{
+  "id": "58b8fd4f-c0b6-48cc-b565-1c4a73192512",
+  "question_text": "The Moon's gravity causes tides on Earth. If the Moon's gravity pulls water towards it, why are there two tidal bulges (one on each side of Earth)?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tides",
+    "gravity",
+    "bulges"
+  ],
+  "options": null,
+  "correct_answer": "The side of Earth facing the Moon experiences stronger gravitational pull, creating one bulge. On the opposite side, Earth is pulled towards the Moon more strongly than the water there, leaving the water behind and creating a second bulge.",
+  "explanation": "Gravity decreases with distance. The near side of Earth experiences stronger Moon gravity and bulges towards it. The far side experiences weaker gravity, so Earth itself is pulled away, leaving water behind. Both effects create tidal bulges on opposite sides.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

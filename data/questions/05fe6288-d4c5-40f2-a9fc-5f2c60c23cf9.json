@@ -1,0 +1,16 @@
+{
+  "id": "05fe6288-d4c5-40f2-a9fc-5f2c60c23cf9",
+  "question_text": "A box with a weight of 100 N rests on the ground. If the contact area between the box and ground is 0.5 m\u00b2, calculate the pressure exerted by the box.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "200 Pa (or 200 N/m\u00b2)",
+  "explanation": "Pressure = Force \u00f7 Area. Pressure = 100 N \u00f7 0.5 m\u00b2 = 200 Pa. The unit Pa (Pascal) or N/m\u00b2 shows the force per unit area.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

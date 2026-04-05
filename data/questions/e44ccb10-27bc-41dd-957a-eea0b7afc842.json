@@ -1,0 +1,17 @@
+{
+  "id": "e44ccb10-27bc-41dd-957a-eea0b7afc842",
+  "question_text": "Name one everyday use of infrared radiation.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "infrared",
+    "applications"
+  ],
+  "options": null,
+  "correct_answer": "Remote controls, heat lamps, thermal imaging cameras, or cooking (grills/ovens)",
+  "explanation": "Infrared radiation is used in remote controls to send signals to televisions and other devices. It's also used in heat lamps for warmth and in thermal cameras to detect heat from objects.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

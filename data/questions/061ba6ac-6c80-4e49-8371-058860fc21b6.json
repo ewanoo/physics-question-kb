@@ -1,0 +1,18 @@
+{
+  "id": "061ba6ac-6c80-4e49-8371-058860fc21b6",
+  "question_text": "The speed of sound in air is 340 m/s. A sound wave has a wavelength of 0.68 m. Calculate the frequency of this sound wave.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "frequency",
+    "wavelength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "500 Hz",
+  "explanation": "Use the equation: frequency = speed \u00f7 wavelength. So frequency = 340 \u00f7 0.68 = 500 Hz. This is a high-pitched sound that humans can hear.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

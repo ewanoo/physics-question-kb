@@ -1,0 +1,38 @@
+{
+  "id": "f833e098-2d2c-4d3b-84f4-01b2b6dd61f0",
+  "question_text": "Which of the following describes the frequency of a wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "waves",
+    "frequency",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How long it takes one complete wave to pass a point",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The number of complete waves passing a point per second",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "How far the wave travels in one second",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The height of the wave from its lowest to highest point",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Frequency is how many waves pass a point in one second, measured in Hertz (Hz). A frequency of 10 Hz means 10 complete waves pass each second.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

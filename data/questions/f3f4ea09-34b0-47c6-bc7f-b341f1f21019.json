@@ -1,0 +1,38 @@
+{
+  "id": "f3f4ea09-34b0-47c6-bc7f-b341f1f21019",
+  "question_text": "A sound wave has a frequency of 500 Hz. What does this tell you about the sound?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "frequency",
+    "pitch"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The sound is very loud",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The sound vibrates 500 times per second and would have a high pitch",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The sound travels 500 metres per second",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The sound is moving through water, not air",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Frequency is how many vibrations happen per second. A higher frequency like 500 Hz means more vibrations and a higher pitch sound. Lower frequencies produce lower pitched sounds.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

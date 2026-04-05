@@ -1,0 +1,16 @@
+{
+  "id": "e9217e6b-8d0a-45ed-9ef8-df11de2816b6",
+  "question_text": "A student exerts a force of 50 N on the ground through their shoes. Compare the pressure if the contact area is 0.01 m\u00b2 versus 0.02 m\u00b2, and explain the difference.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure comparison",
+    "analysis"
+  ],
+  "options": null,
+  "correct_answer": "At 0.01 m\u00b2: P = 5000 Pa. At 0.02 m\u00b2: P = 2500 Pa. The smaller area creates twice the pressure because pressure is inversely proportional to area.",
+  "explanation": "Pressure = 50 N \u00f7 0.01 m\u00b2 = 5000 Pa and Pressure = 50 N \u00f7 0.02 m\u00b2 = 2500 Pa. When area doubles, pressure halves (if force stays constant). This shows why tight shoes with small contact areas can feel uncomfortable.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

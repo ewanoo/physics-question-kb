@@ -1,0 +1,17 @@
+{
+  "id": "31af197c-1139-4c87-853a-31b4304ff6f7",
+  "question_text": "A lever is used to lift a heavy box. The effort force is applied 2 metres from the pivot, and the box is 0.5 metres from the pivot. What type of lever is this and why is it useful?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "lever",
+    "mechanical advantage",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "This is a class 1 lever (with the pivot between effort and load). It is useful because the longer distance from the pivot to the effort means a smaller force is needed to lift the heavy load.",
+  "explanation": "In a class 1 lever, the pivot is between the effort and load. Since the effort is applied further from the pivot than the load, you need less force to lift the box. This is mechanical advantage in action.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

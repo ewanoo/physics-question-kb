@@ -1,0 +1,39 @@
+{
+  "id": "0545cbed-99b4-4c9e-bf46-f10071eaba46",
+  "question_text": "X-rays are used in hospitals to take images of bones inside the body. Why are X-rays useful for this purpose?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "X-rays",
+    "applications",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "X-rays have a very long wavelength and can pass through any material",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "X-rays have a very short wavelength and high energy, allowing them to pass through soft tissue but not dense bone",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "X-rays produce heat that shows the location of bones",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "X-rays are the same as visible light but more powerful",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "X-rays have a very short wavelength and high energy, so they can pass through soft tissues like skin and muscle. However, they are absorbed by dense materials like bone, creating a shadow on the X-ray detector that shows the bone structure.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

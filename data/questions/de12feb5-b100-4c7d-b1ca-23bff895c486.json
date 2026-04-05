@@ -1,0 +1,38 @@
+{
+  "id": "de12feb5-b100-4c7d-b1ca-23bff895c486",
+  "question_text": "What happens to ice when it is heated?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "state change",
+    "temperature"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It expands and becomes harder",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It melts and becomes liquid water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It disappears immediately",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It becomes a gas",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When ice is heated, it melts at 0\u00b0C and turns into liquid water. Melting is the change of state from solid to liquid caused by adding heat energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

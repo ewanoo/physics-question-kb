@@ -1,0 +1,38 @@
+{
+  "id": "576c9108-c45e-451d-b69b-67a5773a6e7d",
+  "question_text": "Which of these is NOT a type of electromagnetic wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "EM spectrum",
+    "types",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Microwave",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Sound wave",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "X-ray",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ultraviolet wave",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Sound waves are mechanical waves that need a medium to travel through. Electromagnetic waves do not need a medium and can travel through a vacuum. All the others listed are types of EM waves.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

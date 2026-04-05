@@ -1,0 +1,18 @@
+{
+  "id": "379f2f56-7dc3-4ab3-b89d-eda2f057bca5",
+  "question_text": "An echo is heard 2 seconds after a sound is made near a cliff. The speed of sound in air is 340 m/s. How far away is the cliff? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "echo",
+    "distance",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "340 metres",
+  "explanation": "The sound travels to the cliff and back, so the total distance is 2 \u00d7 distance to cliff. Distance = speed \u00d7 time, so 340 \u00d7 2 = 680 m for the round trip. The cliff is 680 \u00f7 2 = 340 m away.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}
