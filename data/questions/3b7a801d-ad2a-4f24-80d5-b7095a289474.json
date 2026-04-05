@@ -1,0 +1,17 @@
+{
+  "question_text": "A student burns 500 J of chemical energy stored in a piece of wood in a campfire. Calculate how much total energy (in joules) is released as heat and light combined, assuming no energy escapes in any other form.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "chemical energy",
+    "conservation",
+    "combustion"
+  ],
+  "options": null,
+  "correct_answer": "500 J",
+  "explanation": "According to the law of conservation of energy, all the chemical energy stored in the wood must be transferred somewhere. Since no energy escapes in other forms, all 500 J is transferred to heat and light energy combined.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3b7a801d-ad2a-4f24-80d5-b7095a289474"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "A student compares the gravitational force on three different objects on Earth: a feather (0.005 kg), a mobile phone (0.2 kg), and a textbook (1.5 kg). Which statement best explains the difference in their weights?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass comparison",
+    "gravitational force",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The feather has less weight because it experiences weaker gravity than the other objects.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All objects experience the same gravitational field strength on Earth (10 N/kg), but they have different masses, so their weights are proportional to their masses.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The textbook is heavier because it is larger in size, which makes gravity act more strongly on it.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The mobile phone has the most weight because it is made of dense materials like metal and glass.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "All objects on Earth experience the same gravitational field strength of 10 N/kg, regardless of their size or material. Since weight = mass \u00d7 g, and g is constant, the weight of each object depends only on its mass. The feather (0.05 N), phone (2 N), and textbook (15 N) have different weights because they have different masses.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8f140472-a32a-41a5-bc61-19b02b0f6fe6"
+}

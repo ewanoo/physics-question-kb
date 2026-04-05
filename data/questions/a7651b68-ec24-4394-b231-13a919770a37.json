@@ -1,0 +1,17 @@
+{
+  "question_text": "A student rubs a balloon with a cloth and it becomes negatively charged. The balloon is then held near a wall and sticks to it. Explain why the balloon attracts to the wall, even though the wall is neutral (uncharged).",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "charge induction",
+    "attraction"
+  ],
+  "options": null,
+  "correct_answer": "The negative charge on the balloon repels electrons in the wall, leaving the surface of the wall positively charged. Opposite charges attract, so the balloon sticks to the wall.",
+  "explanation": "When a negatively charged object gets close to a neutral conductor like a wall, it pushes away (repels) the electrons in the wall. This leaves the near surface positively charged. Since opposite charges attract, the balloon is pulled towards the wall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a7651b68-ec24-4394-b231-13a919770a37"
+}

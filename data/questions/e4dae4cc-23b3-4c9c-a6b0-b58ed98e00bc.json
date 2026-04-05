@@ -1,0 +1,17 @@
+{
+  "question_text": "A device rated at 2 kilowatts (2 kW) transfers more energy per second than a device rated at 500 watts (500 W). Explain why this is true.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "kilowatts",
+    "comparing power ratings"
+  ],
+  "options": null,
+  "correct_answer": "A higher power rating means more energy is transferred per second. 2 kW (2000 W) is greater than 500 W, so the 2 kW device transfers more energy in the same amount of time.",
+  "explanation": "Power measures how quickly energy is transferred. A 2 kW device has a much higher power rating than a 500 W device, so it delivers energy much faster\u2014this is why it transfers more energy per second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e4dae4cc-23b3-4c9c-a6b0-b58ed98e00bc"
+}

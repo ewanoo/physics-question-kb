@@ -1,0 +1,17 @@
+{
+  "question_text": "A lever is used to lift a heavy rock. The pivot is very close to the rock, but far from where you push down on the lever. Explain why this arrangement makes it easier to lift the rock.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "levers",
+    "mechanical advantage",
+    "moment"
+  ],
+  "options": null,
+  "correct_answer": "Because you apply your force at a larger distance from the pivot, your moment is much larger than the rock's moment. A bigger moment can balance or overcome the rock's moment more easily.",
+  "explanation": "Since moment = force \u00d7 distance, applying your force far from the pivot creates a large moment, even with a small force. The rock, being close to the pivot, needs a much larger force to create the same moment. This is why levers provide a mechanical advantage.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ce57e9c2-ed5f-4919-88ae-2173c523c389"
+}

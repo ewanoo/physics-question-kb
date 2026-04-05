@@ -1,0 +1,17 @@
+{
+  "question_text": "Why is an iron core used inside an electromagnet coil instead of leaving it hollow?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "iron core",
+    "electromagnet strength",
+    "magnetic field"
+  ],
+  "options": null,
+  "correct_answer": "An iron core increases the strength of the magnetic field produced by the electromagnet. Iron is easily magnetized and amplifies the effect of the electric current in the coil.",
+  "explanation": "Iron is a ferromagnetic material that becomes magnetized very easily. When placed inside a coil, it greatly strengthens the magnetic field compared to an empty coil, making the electromagnet much more powerful.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6c9bd8d2-381e-4f02-bfcf-854af23fe27c"
+}

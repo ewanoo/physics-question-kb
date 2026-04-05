@@ -1,0 +1,17 @@
+{
+  "question_text": "A force of 500 N is applied to a surface with an area of 0.5 m\u00b2. Calculate the pressure exerted on the surface.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure calculation",
+    "force",
+    "area"
+  ],
+  "options": null,
+  "correct_answer": "1000 Pa (or 1000 N/m\u00b2)",
+  "explanation": "Pressure is calculated using the formula pressure = force \u00f7 area. So 500 N \u00f7 0.5 m\u00b2 = 1000 Pa. This shows how spreading a force over a larger area reduces pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4b154318-13c3-41ec-8a41-685266140aa1"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A see-saw has a pivot in the middle. A child of weight 400 N sits 1.5 m from the pivot on the left side. Calculate the moment produced by the child about the pivot.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment calculation",
+    "pivot",
+    "see-saw"
+  ],
+  "options": null,
+  "correct_answer": "600 N m",
+  "explanation": "Moment = force \u00d7 distance from pivot. The child's weight (400 N) is the force, and the distance is 1.5 m. So moment = 400 \u00d7 1.5 = 600 N m. This is the turning effect the child creates around the pivot.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7fa47567-7345-4f7a-afc4-5f5402117638"
+}

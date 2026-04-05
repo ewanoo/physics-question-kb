@@ -1,0 +1,17 @@
+{
+  "question_text": "An ammeter is connected in series with a light bulb in a circuit. The ammeter reads 0.5 A. Explain why the ammeter must be connected in series and not in parallel with the bulb.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ammeter",
+    "circuit connection",
+    "current measurement"
+  ],
+  "options": null,
+  "correct_answer": "An ammeter must be in series so that all the current flowing through the bulb passes through it to measure the current. If connected in parallel, it would provide an alternative path and not measure the actual current through the bulb.",
+  "explanation": "Ammeters measure the current flowing through a component, so they need to be part of the main circuit path (series). A parallel connection would bypass the component and give an incorrect reading.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "69590192-08f6-4fdc-a22f-c087dbadd08e"
+}

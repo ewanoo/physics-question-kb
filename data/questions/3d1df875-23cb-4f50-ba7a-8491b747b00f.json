@@ -1,0 +1,18 @@
+{
+  "question_text": "A book rests on a table. The book has a weight of 12 N downwards. A student claims that because the book is stationary, there are no forces acting on it. Evaluate this claim and explain what must be true about the forces for the book to remain stationary.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "equilibrium",
+    "weight",
+    "normal force",
+    "stationary"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect. Forces are still acting on the book (weight and normal force), but they are balanced. The table pushes up with a normal force of 12 N, so the resultant force is zero and the book remains stationary.",
+  "explanation": "A stationary object does not have no forces on it\u2014it has balanced forces. The downward weight of 12 N must be balanced by an equal upward normal force from the table, making the resultant force zero. This is why equilibrium and zero resultant force allow objects to stay at rest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3d1df875-23cb-4f50-ba7a-8491b747b00f"
+}

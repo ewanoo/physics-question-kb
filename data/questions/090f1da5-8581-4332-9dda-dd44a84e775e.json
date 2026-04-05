@@ -1,0 +1,18 @@
+{
+  "question_text": "A see-saw is balanced on a pivot. A child sits 2 metres from the pivot on one side. Where should another child of equal weight sit on the other side to keep the see-saw balanced?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "pivot",
+    "balanced",
+    "distance",
+    "lever"
+  ],
+  "options": null,
+  "correct_answer": "2 metres from the pivot (on the other side)",
+  "explanation": "For a lever to be balanced, the moments on both sides of the pivot must be equal. Since both children have equal weight (force), they must sit at equal distances from the pivot to produce equal moments and balance the see-saw.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "090f1da5-8581-4332-9dda-dd44a84e775e"
+}

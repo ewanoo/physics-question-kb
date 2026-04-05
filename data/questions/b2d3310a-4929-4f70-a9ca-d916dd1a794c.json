@@ -1,0 +1,38 @@
+{
+  "question_text": "A torch battery stores 12 000 J of chemical energy. The torch is switched on and left running until the battery is completely flat, producing 10 000 J of light energy. Which statement correctly explains what has happened?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "chemical energy",
+    "light energy",
+    "conservation of energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "2000 J of energy has been destroyed because the battery is now empty",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The remaining 2000 J has been transferred to heat energy in the torch and surroundings",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Only 10 000 J of energy ever existed in the battery",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The battery has created light energy from nothing as it ran down",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The law of conservation of energy states that energy cannot be created or destroyed. The 2000 J difference has been converted into heat energy through resistance in the bulb's filament and the battery itself, which is why the torch gets warm during use.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b2d3310a-4929-4f70-a9ca-d916dd1a794c"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Two boxes are stacked on top of each other on Earth. Box A (on top) has a mass of 5 kg, and Box B (on bottom) has a mass of 10 kg. Using g = 10 N/kg, calculate the total weight of both boxes and determine the normal force that the ground must exert on Box B to keep the system in equilibrium.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "normal force",
+    "equilibrium",
+    "combined systems"
+  ],
+  "options": null,
+  "correct_answer": "Total weight = 150 N. Normal force from ground on Box B = 150 N.",
+  "explanation": "Total mass = 5 + 10 = 15 kg, so total weight = 15 \u00d7 10 = 150 N. For the system to be in equilibrium (not accelerating), the upward normal force from the ground must equal the total downward weight force, which is 150 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "738a8b8a-4b46-4a98-9597-d5835cdcfd63"
+}

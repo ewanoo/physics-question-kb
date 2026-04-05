@@ -1,0 +1,17 @@
+{
+  "question_text": "Two bar magnets are placed with their north poles facing each other. Explain what will happen and why.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic poles",
+    "repulsion",
+    "like poles"
+  ],
+  "options": null,
+  "correct_answer": "The magnets will repel each other because like poles (both north) push away from each other.",
+  "explanation": "Magnetic poles that are the same (like poles) always repel each other and push away. This is why two north poles or two south poles will never attract\u2014they always force each other apart.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "1e416c9a-1db2-43ab-92c7-c64a9f402728"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A book has a mass of 2.5 kg. Calculate its weight on Earth, where the gravitational field strength is 10 N/kg.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight calculation",
+    "mass",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "25 N",
+  "explanation": "Weight is calculated using the formula W = m \u00d7 g. Here, W = 2.5 kg \u00d7 10 N/kg = 25 N. This tells us how hard gravity is pulling the book downwards.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6aec6ab9-3f62-469a-b277-cbb6bc15b7ef"
+}

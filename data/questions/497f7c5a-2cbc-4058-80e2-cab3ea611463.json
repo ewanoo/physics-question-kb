@@ -1,0 +1,38 @@
+{
+  "question_text": "Which circuit diagram symbol represents a switch?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit symbols",
+    "switches",
+    "diagram"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A circle with a cross inside it",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A gap in the wire with a lever that can open or close the circuit",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Two parallel lines close together",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A long thin rectangle",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "A switch is shown as a gap in a wire with a lever or arm that can swing to either break or complete the circuit. When the lever touches both sides of the gap, the circuit is closed (on); when it swings away, the circuit is open (off).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "497f7c5a-2cbc-4058-80e2-cab3ea611463"
+}

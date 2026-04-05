@@ -1,0 +1,38 @@
+{
+  "question_type": "multiple_choice",
+  "question_text": "A student is plotting the magnetic field lines around a bar magnet. Where should the field lines be closest together?",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic field lines",
+    "field strength",
+    "poles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "At the centre of the magnet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Near the poles of the magnet",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Far away from the magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Equally spaced everywhere around the magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Magnetic field lines are closest together where the magnetic field is strongest. The magnetic field is strongest at the poles of a magnet, so the field lines should be drawn closest together in these regions.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "657473d1-3975-444e-b838-5186abed9c0d"
+}

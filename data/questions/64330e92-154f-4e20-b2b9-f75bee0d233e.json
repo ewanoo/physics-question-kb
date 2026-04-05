@@ -1,0 +1,18 @@
+{
+  "question_text": "Three devices transfer energy as follows: Device A transfers 18,000 J in 2 minutes, Device B transfers 45,000 J in 1.5 minutes, and Device C has a power rating of 200 W. Which device has the greatest power, and by how much greater is it than the device with the lowest power? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "comparison",
+    "multi-step",
+    "ranking"
+  ],
+  "options": null,
+  "correct_answer": "Device B has the greatest power at 500 W. Device C has the lowest power at 200 W. The difference is 300 W.",
+  "explanation": "Calculate power for each: Device A: 18,000 \u00f7 120 = 150 W; Device B: 45,000 \u00f7 90 = 500 W; Device C: 200 W (already given). Device B is the most powerful at 500 W, and the difference between the most and least powerful is 500 \u2212 150 = 350 W (or 500 \u2212 200 = 300 W if comparing B to C).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "64330e92-154f-4e20-b2b9-f75bee0d233e"
+}

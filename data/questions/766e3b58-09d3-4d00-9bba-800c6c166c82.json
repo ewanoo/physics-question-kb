@@ -1,0 +1,18 @@
+{
+  "question_text": "A microwave oven has a power rating of 900 W and a kettle has a power rating of 2.4 kW. Both are switched on at the same time for 5 minutes. Calculate the total energy transferred by both appliances and explain which one transfers more energy.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "energy calculation",
+    "comparison",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "Microwave: 270,000 J (or 270 kJ); Kettle: 720,000 J (or 720 kJ). The kettle transfers more energy because it has a higher power rating.",
+  "explanation": "Convert 5 minutes to 300 seconds, then use E = P \u00d7 t. For the microwave: 900 \u00d7 300 = 270,000 J. For the kettle: 2,400 \u00d7 300 = 720,000 J. The kettle transfers more energy because power and energy are directly proportional when time is the same.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "766e3b58-09d3-4d00-9bba-800c6c166c82"
+}

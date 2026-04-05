@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes the pattern of a magnetic field around a bar magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic field lines",
+    "field patterns",
+    "bar magnet"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Field lines form circles around the middle of the magnet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Field lines curve from the north pole to the south pole, outside the magnet",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Field lines point inward toward the centre of the magnet from all directions",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Field lines only exist at the two poles and nowhere else",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Magnetic field lines always flow from the north pole to the south pole on the outside of a magnet. They form a pattern that curves around the magnet, which is why magnets can affect objects even when they're not touching.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e261eb71-8f81-4ff8-9223-33d6d49182b2"
+}

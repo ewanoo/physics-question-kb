@@ -1,0 +1,18 @@
+{
+  "question_text": "Two forces act on a box sliding across a frictionless floor at constant velocity: a forward push of 25 N and air resistance. The box has a mass of 10 kg and is moving at a constant 2 m/s. Calculate the magnitude of the air resistance force and explain why the box does not accelerate even though a push force is being applied.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "constant velocity",
+    "balanced forces",
+    "resultant force",
+    "air resistance"
+  ],
+  "options": null,
+  "correct_answer": "Air resistance = 25 N. The box does not accelerate because the forces are balanced (push = air resistance), so the resultant force is zero.",
+  "explanation": "When an object moves at constant velocity, its acceleration is zero, which means the resultant force must be zero. The forward push of 25 N must be balanced by the backward air resistance force of 25 N. Balanced forces mean no acceleration, even though forces are acting.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f17c4153-0121-4afd-91a2-d2ce228bc33a"
+}

@@ -200,13 +200,24 @@
 - Total questions: 2,046 (up from 1,966)
 - All 99 difficulty/subtopic slots now have ≥21 questions each
 
-## Statistics (Session 18 — CURRENT)
-- **Total questions (JSON files)**: 2,046
+### Session 19 (agent — 2026-04-05)
+- Rebuilt DB from 2,090 committed question JSON files
+- Identified `energy.conservation medium` as weakest slot (16 questions)
+- Generated **35 new questions** targeting 15 weak slots:
+  - energy.conservation medium (+6, now 22)
+  - electricity.circuits easy, electricity.current_voltage medium, electricity.electromagnets easy,
+    electricity.magnets easy+medium, electricity.static medium, energy.power easy+hard,
+    forces.balanced hard, forces.gravity medium+hard, forces.moments easy+medium,
+    forces.pressure medium (all +2 each)
+- Total questions: 2,125 (up from 2,090)
+- All 99 difficulty/subtopic slots now have ≥20 questions each
+
+## Statistics (Session 19 — CURRENT)
+- **Total questions (JSON files)**: 2,125
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy=683, medium=677, hard=686 (all >= 50)
-- **Min questions per subtopic**: 57 (waves.properties)
-- **Min questions per difficulty+subtopic slot**: 21
+- **By difficulty**: easy ~708, medium ~703, hard ~714 (all >= 50)
+- **Min questions per difficulty+subtopic slot**: 20
 - **Mean quality score**: ~4.70
 
 ## Scraper Status

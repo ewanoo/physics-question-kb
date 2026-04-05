@@ -1,0 +1,17 @@
+{
+  "question_text": "A wind turbine converts wind energy into electrical energy. During this process, 2500 J of wind energy is input to the turbine, but only 2000 J of electrical energy is produced. Where has the 'missing' 500 J of energy gone?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfers",
+    "conservation",
+    "energy loss"
+  ],
+  "options": null,
+  "correct_answer": "The 500 J has been converted to heat energy due to friction in the turbine's moving parts and air resistance.",
+  "explanation": "Energy cannot be created or destroyed, so the missing energy must have transferred to another store. In moving machinery, friction in bearings and gears, plus air resistance, convert some mechanical energy into heat energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "04d4019c-0ad3-49c7-a874-96367d584760"
+}

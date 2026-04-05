@@ -1,0 +1,38 @@
+{
+  "question_text": "In a hydraulic system, a small piston with an area of 2 cm\u00b2 is pushed with a force of 100 N. According to Pascal's principle, the pressure is transmitted equally throughout the fluid. What is the pressure in the hydraulic system?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulics",
+    "Pascal's principle",
+    "pressure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "50 Pa",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "500,000 Pa",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "200 Pa",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "0.02 Pa",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Using pressure = force \u00f7 area, we need to convert 2 cm\u00b2 to m\u00b2 first: 2 cm\u00b2 = 0.0002 m\u00b2. Then 100 N \u00f7 0.0002 m\u00b2 = 500,000 Pa. Hydraulic systems use small input forces on small areas to create high pressures that are transmitted through the fluid.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "18021139-b3d3-4e7f-9f61-bdc2e4b5e3b9"
+}

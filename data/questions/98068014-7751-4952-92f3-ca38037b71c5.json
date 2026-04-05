@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is a practical use of an electromagnet in everyday life?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet applications",
+    "relays",
+    "practical uses"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "In a doorbell to create a ringing sound when someone presses the button",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "To separate salt from seawater in desalination plants",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "To cool food in a refrigerator",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "To heat water in a kettle",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Electromagnets are used in doorbells because when the button is pressed, current flows through the coil, creating a magnetic field that attracts a metal striker to hit a bell or chime. The other options use different types of technology.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "98068014-7751-4952-92f3-ca38037b71c5"
+}

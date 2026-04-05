@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following best describes a moment?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "definition",
+    "turning effect",
+    "force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The amount of time it takes an object to fall",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The turning effect of a force around a pivot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object measured in kilograms",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which an object is moving",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "A moment is the turning effect produced when a force acts on an object at a distance from a pivot point. It is not related to time, weight, or speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "34946243-5644-4ca5-ba23-d27a91bf6ad3"
+}

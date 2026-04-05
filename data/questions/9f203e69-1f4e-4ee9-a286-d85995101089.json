@@ -1,0 +1,17 @@
+{
+  "question_text": "A mobile phone charger transfers 360 J of electrical energy to the phone's battery in one minute. However, the battery only stores 320 J of chemical energy. Explain what has happened to the missing 40 J of energy.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "electrical energy",
+    "chemical energy",
+    "energy dissipation"
+  ],
+  "options": null,
+  "correct_answer": "The 40 J has been converted to heat energy due to resistance in the charger cable and battery during the charging process.",
+  "explanation": "Not all electrical energy can be stored efficiently; some is always lost as heat due to electrical resistance in the wires and components. This is why phone chargers and batteries feel warm during use\u2014energy is being transferred to the thermal energy store.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9f203e69-1f4e-4ee9-a286-d85995101089"
+}

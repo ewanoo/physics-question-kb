@@ -1,0 +1,17 @@
+{
+  "question_text": "A student measures the voltage across a resistor using a voltmeter and records 12 V. The ammeter in the circuit shows a current of 3 A flowing through the resistor. Calculate the resistance of the resistor using the equation: resistance = voltage \u00f7 current.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "resistance",
+    "Ohm's law",
+    "voltage and current"
+  ],
+  "options": null,
+  "correct_answer": "4 \u03a9 (ohms)",
+  "explanation": "Using the formula R = V \u00f7 I, we divide 12 V by 3 A to get 4 \u03a9. This tells us how much the resistor opposes the flow of electrical current.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dafc4ebd-346c-49fc-9a21-819ae1c0b3c1"
+}

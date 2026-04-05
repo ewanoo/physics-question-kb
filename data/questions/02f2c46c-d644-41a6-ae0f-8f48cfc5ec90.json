@@ -1,0 +1,38 @@
+{
+  "question_text": "Two identical plastic rods are rubbed with identical cloths. Both rods become negatively charged with the same magnitude of charge. What will happen when the two rods are brought close together?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "like charges",
+    "repulsion",
+    "charge friction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They will attract each other because they are made of plastic.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They will repel each other because they have the same type of charge.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They will stick together because they were rubbed with the same cloth.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They will have no effect on each other because they are neutral.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Like charges (both negative) repel each other. Since both rods have the same type of charge from being rubbed in the same way, they will push away from each other when brought close together.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "02f2c46c-d644-41a6-ae0f-8f48cfc5ec90"
+}

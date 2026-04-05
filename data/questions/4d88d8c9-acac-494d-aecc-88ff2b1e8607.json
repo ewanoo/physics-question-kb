@@ -1,0 +1,39 @@
+{
+  "question_text": "Power is defined as the amount of energy transferred divided by the time taken. Which unit is used to measure power?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "units",
+    "watts",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Joules (J)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Watts (W)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Seconds (s)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Kilogrammes (kg)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Power is measured in watts (W). One watt is equal to one joule of energy transferred per second. Joules measure energy itself, not power, so option A is incorrect.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4d88d8c9-acac-494d-aecc-88ff2b1e8607"
+}

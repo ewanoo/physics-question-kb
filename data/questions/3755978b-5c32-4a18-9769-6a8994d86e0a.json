@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is dropped from a height of 10 metres. As it falls, gravitational potential energy is converted into kinetic energy. Assuming no energy is lost to air resistance, what can you say about the total mechanical energy of the ball throughout its fall?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "conservation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total mechanical energy decreases because kinetic energy is being used up",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The total mechanical energy stays the same because energy is transferred between stores, not created or destroyed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The total mechanical energy increases as the ball falls and gains speed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total mechanical energy becomes zero when the ball reaches the ground",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Energy cannot be created or destroyed\u2014it only transfers between different stores. As the ball falls, gravitational potential energy decreases while kinetic energy increases by exactly the same amount, keeping the total mechanical energy constant.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3755978b-5c32-4a18-9769-6a8994d86e0a"
+}

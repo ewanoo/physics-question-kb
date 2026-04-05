@@ -1,0 +1,39 @@
+{
+  "question_text": "Two astronauts have the same mass, but one is standing on the Moon (where g \u2248 1.6 N/kg) and one is on Earth (where g = 10 N/kg). Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field strength",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They have the same weight because they have the same mass.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The astronaut on Earth has a greater weight because Earth has a stronger gravitational field.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The astronaut on the Moon has a greater weight because the Moon is smaller.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Their weights are the same, but their masses are different.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Weight depends on both mass and gravitational field strength (W = m \u00d7 g). Although both astronauts have the same mass, Earth's gravitational field (10 N/kg) is stronger than the Moon's (1.6 N/kg), so the astronaut on Earth weighs more.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "38c24b39-d602-40cd-80ca-d0225f280a79"
+}

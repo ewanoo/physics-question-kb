@@ -1,0 +1,17 @@
+{
+  "question_text": "A student stretches a rubber band and then releases it. Describe the energy transfers that occur from when the rubber band is stretched until it stops moving.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "elastic potential energy",
+    "kinetic energy",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "Elastic potential energy is transferred to kinetic energy as the rubber band moves, then to heat/internal energy due to friction and air resistance until it stops.",
+  "explanation": "When stretched, the rubber band stores elastic potential energy. When released, this converts to kinetic energy as it moves. Eventually, friction and air resistance convert the kinetic energy into heat energy, which is why the rubber band stops moving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c8c783c0-6b4d-4bb7-af13-02abeb8198fa"
+}
