@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain why a football becomes harder (more inflated) on a hot day compared to a cold day, even though the same amount of air is inside it.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "particle model"
+  ],
+  "options": null,
+  "correct_answer": "When the temperature increases, the gas particles move faster and collide with the ball's walls more frequently and with greater force, increasing the pressure inside the ball.",
+  "explanation": "Higher temperature means gas particles have more kinetic energy and move around faster. These faster particles hit the sides of the football more often and harder, creating greater pressure. This makes the ball feel firmer even though no extra air has been added.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "093b3005-6eec-4a9c-9076-8fada5ab7461"
+}

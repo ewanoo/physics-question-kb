@@ -1,0 +1,17 @@
+{
+  "question_text": "What are the three states of matter?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "definitions",
+    "particle arrangement"
+  ],
+  "options": null,
+  "correct_answer": "Solid, liquid and gas",
+  "explanation": "Matter exists in three main states depending on how particles are arranged and how much energy they have. Solids have fixed shape, liquids flow and take the shape of their container, and gases spread out to fill any space.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f8147a82-1347-4ec8-843b-6a703026a664"
+}

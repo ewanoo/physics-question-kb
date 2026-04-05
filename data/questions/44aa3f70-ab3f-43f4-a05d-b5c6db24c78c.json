@@ -1,0 +1,17 @@
+{
+  "question_text": "Name one everyday example of where friction is useful and explain why it is helpful.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "applications",
+    "everyday examples"
+  ],
+  "options": null,
+  "correct_answer": "Any one of: Walking (friction between shoes and ground stops us slipping), brakes on a bicycle or car (friction stops them), a pencil writing on paper (friction creates marks), climbing a rope (friction prevents slipping). The explanation should mention that friction helps prevent slipping or allows grip/grip.",
+  "explanation": "Friction has many useful purposes in daily life. For example, friction between shoe soles and the ground prevents us from slipping when we walk, and friction in brakes helps stop vehicles safely.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "44aa3f70-ab3f-43f4-a05d-b5c6db24c78c"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A gas container has a pressure of 100 kPa at room temperature. The same container is heated until the temperature doubles (in Kelvin). Calculate the new pressure of the gas, assuming the volume stays constant.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "200 kPa",
+  "explanation": "For a gas at constant volume, pressure is directly proportional to absolute temperature (in Kelvin). If the temperature doubles, the pressure also doubles. So 100 kPa \u00d7 2 = 200 kPa. This follows Gay-Lussac's Law: P\u2081/T\u2081 = P\u2082/T\u2082.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "9c2faccb-7280-4495-90da-1583b07e42b5"
+}

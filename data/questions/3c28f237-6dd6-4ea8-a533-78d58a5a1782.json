@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the definition of power in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "definition",
+    "power",
+    "energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The rate at which energy is transferred or used",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The total amount of energy available in a system",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The force applied to move an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which an object moves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Power measures how quickly energy is being used or transferred. A powerful device transfers lots of energy in a short time, while a less powerful device transfers the same energy more slowly.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3c28f237-6dd6-4ea8-a533-78d58a5a1782"
+}

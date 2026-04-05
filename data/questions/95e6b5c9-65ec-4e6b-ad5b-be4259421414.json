@@ -1,0 +1,38 @@
+{
+  "question_text": "What does the law of conservation of energy state?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "definitions",
+    "fundamental principle"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy can be created and destroyed freely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy cannot be created or destroyed, only transferred or transformed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Energy always increases in a closed system",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy is only found in moving objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The law of conservation of energy is one of the most important rules in physics. It tells us that energy never disappears or appears from nowhere \u2014 it just changes from one form to another, like when chemical energy in fuel becomes heat energy when it burns.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "95e6b5c9-65ec-4e6b-ad5b-be4259421414"
+}

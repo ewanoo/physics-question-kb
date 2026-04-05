@@ -1,0 +1,17 @@
+{
+  "question_text": "A student investigates friction by pulling a wooden block across a table with a force meter. When the block is stationary, the force meter reads 2 N but the block doesn't move. When pulled harder, the force meter reads 2.5 N and the block begins to slide. Once sliding, the force meter only needs to read 1.8 N to keep the block moving at constant speed. Explain why less force is needed to keep the block sliding than to start it moving.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "static friction",
+    "kinetic friction",
+    "comparing forces"
+  ],
+  "options": null,
+  "correct_answer": "Static friction (when the block is stationary) is greater than kinetic friction (when the block is sliding). Once the block is moving, the surfaces are already in contact and sliding, so there is less resistance. Static friction must overcome the initial resistance between stationary surfaces, which requires more force than maintaining motion.",
+  "explanation": "When surfaces are stationary, friction builds up to prevent motion (static friction). Once surfaces are sliding, kinetic friction takes over and is weaker because the surfaces are already moving past each other. This is why it's easier to keep pushing something that's already moving than to get it started.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a2e48bce-12c2-4699-8990-7c9eb79048e4"
+}

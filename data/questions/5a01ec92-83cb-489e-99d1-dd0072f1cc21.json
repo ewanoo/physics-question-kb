@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following surfaces would produce the most friction when an object slides across it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "surfaces",
+    "rough vs smooth"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Polished ice",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Rough sandpaper",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Smooth glass",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Oiled metal",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction is greater on rough surfaces because the irregularities in rough materials grip and catch on the moving object more. Smooth, polished, and oiled surfaces have less friction because they create less resistance to motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5a01ec92-83cb-489e-99d1-dd0072f1cc21"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best describes the arrangement of particles in a solid?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "solids",
+    "particle arrangement",
+    "structure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are tightly packed in a fixed, regular pattern",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Particles are spread far apart with gaps between them",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Particles move freely and randomly throughout the material",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles are loosely arranged and can easily be rearranged",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In solids, particles are held in fixed positions by strong forces and vibrate in place. This tight, regular arrangement is why solids have a definite shape and volume that doesn't change easily.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "00ba8ba6-2dcf-4a60-b077-092aa24e911a"
+}

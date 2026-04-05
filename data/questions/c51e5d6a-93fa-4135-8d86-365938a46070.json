@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the name of the process by which a liquid changes into a gas?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "state changes",
+    "evaporation",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Evaporation",
+  "explanation": "Evaporation is the change of state from liquid to gas. This happens when particles gain energy and escape from the surface of a liquid, such as when water dries from a puddle or wet clothes dry on a line.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c51e5d6a-93fa-4135-8d86-365938a46070"
+}

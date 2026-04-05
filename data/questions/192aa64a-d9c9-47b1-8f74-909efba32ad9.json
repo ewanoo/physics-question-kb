@@ -1,0 +1,38 @@
+{
+  "question_text": "When a gas is heated in a sealed container, what happens to the gas pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "temperature",
+    "pressure increase",
+    "gas behaviour"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure decreases because the gas expands",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure stays the same because the container is sealed",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The pressure increases because the particles move faster and collide more often",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The pressure increases because the gas becomes denser",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When gas is heated, its particles gain more energy and move faster. These faster-moving particles collide with the container walls more frequently and with greater force, causing the pressure to increase.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "192aa64a-d9c9-47b1-8f74-909efba32ad9"
+}

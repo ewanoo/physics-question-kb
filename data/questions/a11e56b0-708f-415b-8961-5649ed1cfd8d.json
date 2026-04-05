@@ -1,0 +1,38 @@
+{
+  "question_text": "What happens to gas particles when the temperature of a gas increases?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "gas particles",
+    "temperature",
+    "particle motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They move more slowly and closer together",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They move faster and spread out more",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They stop moving completely",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They arrange themselves in a fixed pattern",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Temperature is a measure of how fast particles are moving. When temperature increases, gas particles gain energy and move faster, spreading out and taking up more space. This is why heated gas expands.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a11e56b0-708f-415b-8961-5649ed1cfd8d"
+}

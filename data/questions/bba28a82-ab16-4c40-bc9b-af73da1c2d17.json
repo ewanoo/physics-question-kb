@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the SI unit for measuring power?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "units",
+    "power",
+    "SI"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Joule (J)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Watt (W)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Newton (N)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Kilogram (kg)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The watt (W) is the SI unit for power. One watt means one joule of energy is transferred every second. You might see power ratings on appliances like '60W' light bulbs or '2000W' heaters.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bba28a82-ab16-4c40-bc9b-af73da1c2d17"
+}

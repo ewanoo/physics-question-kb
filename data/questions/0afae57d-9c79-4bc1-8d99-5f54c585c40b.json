@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is a characteristic of particles in a solid?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "solids",
+    "particle arrangement",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are tightly packed in fixed positions and vibrate in place",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Particles are spread far apart and move freely around the container",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Particles are touching but can slide past each other easily",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles have no forces between them and move at very high speeds",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In solids, particles are held tightly in fixed positions by strong forces. They can only vibrate in place, which is why solids have a fixed shape and volume. The other options describe liquids or gases incorrectly.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0afae57d-9c79-4bc1-8d99-5f54c585c40b"
+}

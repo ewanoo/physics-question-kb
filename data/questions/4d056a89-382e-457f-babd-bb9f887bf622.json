@@ -1,0 +1,17 @@
+{
+  "question_text": "Name the two main types of mechanical energy.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "mechanical energy",
+    "energy types",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Kinetic energy and gravitational potential energy (or potential energy)",
+  "explanation": "Mechanical energy has two main forms: kinetic energy, which is the energy something has because it is moving, and gravitational potential energy (or potential energy), which is the energy something has because of its position or height. Together they make up the total mechanical energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4d056a89-382e-457f-babd-bb9f887bf622"
+}

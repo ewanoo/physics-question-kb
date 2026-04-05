@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements best explains why a parachutist falling through the air eventually reaches terminal velocity?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "terminal velocity",
+    "forces",
+    "air resistance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The gravitational force increases as the parachutist falls faster",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Air resistance increases until it balances the gravitational force, so the net force becomes zero",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The parachutist runs out of gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed of the parachutist decreases because air resistance is stronger than gravity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Terminal velocity is reached when the upward force of air resistance equals the downward force of gravity, making the net force zero and stopping acceleration. Option A is incorrect because gravity doesn't change. Option D is backwards\u2014speed increases until forces balance. Option C confuses energy with forces.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c3e84b57-46f7-40a1-80aa-f6b1bc81fcd2"
+}

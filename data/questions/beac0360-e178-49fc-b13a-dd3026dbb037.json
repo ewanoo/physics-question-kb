@@ -1,0 +1,17 @@
+{
+  "question_text": "A wind farm produces 2,400 kW of electrical power on an average day. How much electrical energy does the wind farm generate in 5 hours?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "wind power",
+    "energy calculation"
+  ],
+  "options": null,
+  "correct_answer": "12,000 kWh or 12 MWh",
+  "explanation": "Energy is calculated using the formula: Energy (kWh) = Power (kW) \u00d7 Time (hours). So 2,400 kW \u00d7 5 hours = 12,000 kWh. This can also be written as 12 MWh (megawatt-hours).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "beac0360-e178-49fc-b13a-dd3026dbb037"
+}

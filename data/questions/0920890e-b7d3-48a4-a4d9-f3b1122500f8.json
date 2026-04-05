@@ -1,0 +1,17 @@
+{
+  "question_text": "A cyclist travels 8 kilometres in 20 minutes. Calculate her speed in metres per second (m/s).",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed calculation",
+    "unit conversion",
+    "distance-time"
+  ],
+  "options": null,
+  "correct_answer": "6.67 m/s (or 6.7 m/s)",
+  "explanation": "First convert units: 8 km = 8000 m and 20 minutes = 1200 seconds. Then use speed = distance \u00f7 time: 8000 m \u00f7 1200 s = 6.67 m/s. This requires applying the speed formula and converting between different units.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0920890e-b7d3-48a4-a4d9-f3b1122500f8"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A light ray hits a plane mirror at an angle of 30\u00b0 to the normal line. At what angle to the normal will the reflected ray leave the mirror?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "law of reflection",
+    "angles"
+  ],
+  "options": null,
+  "correct_answer": "30\u00b0",
+  "explanation": "The law of reflection states that the angle of incidence equals the angle of reflection, both measured from the normal line (the perpendicular to the surface). Since the incoming ray hits at 30\u00b0 to the normal, the reflected ray will also leave at 30\u00b0 to the normal, but on the opposite side.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1a1253d6-45fa-4dd2-a49a-a0ae4eeb7174"
+}

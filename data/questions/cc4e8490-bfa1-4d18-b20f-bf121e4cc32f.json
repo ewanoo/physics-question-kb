@@ -1,0 +1,38 @@
+{
+  "question_text": "A coal power station burns fossil fuel to generate electricity. Which of the following best describes why coal is classified as a non-renewable energy resource?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "non-renewable",
+    "fossil fuels",
+    "coal"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal produces too much pollution when burned",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Coal takes millions of years to form and we use it faster than it is replaced",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Coal is only found in the United Kingdom",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Coal cannot be recycled like other materials",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Non-renewable resources like coal are finite because they take millions of years to form from dead organisms, but we burn them much faster than nature can replace them. Even though coal does pollute and has other drawbacks, the key definition of non-renewable is about how quickly it can be replenished.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cc4e8490-bfa1-4d18-b20f-bf121e4cc32f"
+}

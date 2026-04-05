@@ -1,0 +1,38 @@
+{
+  "question_text": "White light passes through a prism and separates into different colours. Which colour of light has the longest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "dispersion",
+    "wavelength",
+    "spectrum"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Violet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Green",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Red",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Blue",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Red light has the longest wavelength in the visible spectrum (around 700 nanometres), while violet has the shortest (around 400 nanometres). Different colours refract by different amounts in a prism because they have different wavelengths; red bends the least and violet bends the most.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c41f6a8d-d80f-4118-93cd-374aff26cc4f"
+}

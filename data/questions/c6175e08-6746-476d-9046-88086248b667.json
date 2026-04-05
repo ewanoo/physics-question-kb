@@ -1,0 +1,17 @@
+{
+  "question_text": "Define gas pressure in your own words.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "definition",
+    "recall",
+    "gas particles"
+  ],
+  "options": null,
+  "correct_answer": "Gas pressure is the force produced by gas particles colliding with the walls of a container (or a surface). Acceptable variations: the force per unit area caused by moving gas particles hitting surfaces; the push or force that a gas exerts on the walls around it.",
+  "explanation": "This is a definition question that tests whether you understand what gas pressure actually is. The key idea is that it comes from particle collisions with surfaces, not from the weight of the gas or any other cause.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "c6175e08-6746-476d-9046-88086248b667"
+}

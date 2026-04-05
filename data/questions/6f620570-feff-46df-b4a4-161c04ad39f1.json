@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is thrown upwards into the air. Which of the following correctly describes the energy transformation as the ball rises?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "kinetic energy",
+    "gravitational potential energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy increases and gravitational potential energy decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy decreases and gravitational potential energy increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both kinetic energy and gravitational potential energy increase",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Kinetic energy becomes thermal energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As a ball rises upwards, it slows down, so its kinetic energy (energy of movement) decreases. At the same time, it gets higher, so its gravitational potential energy (energy due to position) increases. The total energy stays the same overall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6f620570-feff-46df-b4a4-161c04ad39f1"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "A car with a mass of 1200 kg is travelling at constant speed on a horizontal road. The engine provides a driving force of 1500 N. Which statement best explains why the car maintains constant speed rather than accelerating?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "balanced forces",
+    "terminal velocity",
+    "Newton's laws"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The friction and air resistance forces equal 1500 N, so the forces are balanced and acceleration is zero",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Friction is always equal to the driving force, no matter what speed the car travels at",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The car's mass is too large, so the driving force cannot overcome the total friction",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air resistance increases until it equals half the driving force, stopping acceleration",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At constant speed, the driving force and resistance forces (friction + air resistance) must be equal and opposite, creating balanced forces. When forces are balanced, there is no net force, so acceleration is zero and the car maintains constant speed. Option B is wrong because friction depends on speed; Option C misunderstands how mass and force interact; Option D incorrectly suggests air resistance equals half the driving force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9b57b788-8506-4e36-92a4-66d402059cbe"
+}

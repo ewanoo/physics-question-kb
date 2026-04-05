@@ -1,0 +1,38 @@
+{
+  "question_text": "What is friction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "definition",
+    "friction",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that opposes motion between two surfaces in contact",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A force that always makes objects move faster",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A force that only acts on smooth surfaces",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A force that pulls objects towards the Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction is a contact force that resists the movement of objects sliding past each other. It acts opposite to the direction of motion and is stronger on rough surfaces than smooth ones.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e3364613-60d6-4a12-a96b-b9936415748e"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A student pulls a 5 kg box across a wooden floor with a rope at an angle of 30\u00b0 above the horizontal. The pulling force in the rope is 20 N. The coefficient of friction between the box and floor is 0.4. Calculate the friction force acting on the box. (Gravitational field strength g = 10 N/kg. Hint: resolve the pulling force into horizontal and vertical components first.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction calculation",
+    "resolving forces",
+    "normal force"
+  ],
+  "options": null,
+  "correct_answer": "Friction force = 16 N",
+  "explanation": "First, find the normal force: The vertical component of the pulling force is 20 \u00d7 sin(30\u00b0) = 10 N upward. Weight = 5 \u00d7 10 = 50 N downward. Normal force = 50 - 10 = 40 N. Then calculate friction: friction = coefficient of friction \u00d7 normal force = 0.4 \u00d7 40 = 16 N. The angled pull reduces the normal force because part of it pushes upward, which decreases friction compared to pulling horizontally.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e255125a-4958-48ba-b2f9-85bebd01d264"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A gas is trapped in a sealed syringe. When the plunger is pushed in, the volume of the gas decreases. What happens to the pressure of the gas?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "volume",
+    "particle model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure increases because the gas particles are forced closer together and collide with the walls more frequently",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The pressure decreases because there is less space for the particles to move",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The pressure stays the same because the amount of gas has not changed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure increases because the particles move faster when compressed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When you reduce the volume of a gas in a sealed container, the gas particles are squashed into a smaller space. They collide with the walls more often per second, which causes the pressure to increase. This is why the syringe becomes harder to push.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "61fc0f54-a5a5-4319-bd01-9c6adf37d352"
+}

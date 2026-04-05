@@ -1,0 +1,17 @@
+{
+  "question_text": "A car travels 150 metres in 6 seconds at a constant speed. Calculate the speed of the car.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed calculation",
+    "distance-time",
+    "constant velocity"
+  ],
+  "options": null,
+  "correct_answer": "25 m/s",
+  "explanation": "Speed is calculated using the formula: speed = distance \u00f7 time. Here, 150 m \u00f7 6 s = 25 m/s. This is a straightforward application of the speed equation with simple numbers.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "edd3e9ec-e7b9-424b-8896-515742ee1f5c"
+}

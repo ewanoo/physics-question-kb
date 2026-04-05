@@ -1,0 +1,38 @@
+{
+  "question_text": "A light ray travels from air into glass at an angle. What is the name of the effect that occurs when light bends as it enters the glass?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light behaviour",
+    "media"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Refraction",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Reflection",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Diffraction",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Dispersion",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Refraction is the bending of light as it passes between different materials with different optical densities. When light enters glass from air, it slows down and bends towards the normal line. Reflection is bouncing back, diffraction is spreading around obstacles, and dispersion is splitting into colours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3fb3dbc4-cf76-4a10-a0db-3f61d1656a91"
+}

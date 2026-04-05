@@ -1,0 +1,38 @@
+{
+  "question_text": "Solar panels and wind turbines are both renewable energy resources. Which statement correctly explains why solar and wind energy are considered renewable?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "solar",
+    "wind"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They produce electricity without using any natural resources",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They are continuously replenished by natural processes and will not run out in the foreseeable future",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They can generate power 24 hours a day, every day",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They are cheaper to build than all other types of power station",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Renewable energy resources are called renewable because they are continuously replaced by nature\u2014the sun and wind will keep providing energy for billions of years. Although solar and wind have other advantages, the key defining feature of renewable resources is that they won't run out.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f3fbd037-be02-4feb-8d34-4af43ec0747c"
+}

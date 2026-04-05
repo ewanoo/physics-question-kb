@@ -1,0 +1,38 @@
+{
+  "question_text": "Which state of matter has a fixed volume but takes the shape of its container?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "liquids",
+    "properties",
+    "state characteristics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solid",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gas",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Plasma",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Liquids have a fixed volume because their particles are closely packed, but they flow to take the shape of their container because particles can move past each other. Solids keep their shape, gases fill all available space, and plasma is not studied at KS3.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3cb6e473-0135-4b88-ab06-0d09d525f062"
+}
