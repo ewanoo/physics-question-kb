@@ -1,0 +1,17 @@
+{
+  "question_text": "A ball is thrown upwards into the air and eventually falls back down. Describe what happens to the energy of the ball throughout this motion.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "kinetic energy",
+    "potential energy"
+  ],
+  "options": null,
+  "correct_answer": "As the ball goes up, kinetic energy converts to gravitational potential energy. At the top, it has maximum potential energy. As it falls, potential energy converts back to kinetic energy.",
+  "explanation": "Energy is conserved and changes form. Going up, the ball's moving energy (kinetic) transforms into stored energy due to height (potential). At the peak, all energy is potential. Falling, potential energy converts back to kinetic energy. Ignoring air resistance, the total energy stays the same.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a7a6fd43-4780-489c-ac5c-7a6bcea2e12e"
+}

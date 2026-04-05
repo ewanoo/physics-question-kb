@@ -1,0 +1,18 @@
+{
+  "question_text": "A student has a spring, a hot cup of water, a moving toy car, and a torch. Identify all the different energy stores present and explain in which object each one is found.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy stores",
+    "types of energy",
+    "multiple stores",
+    "hard"
+  ],
+  "options": null,
+  "correct_answer": "Elastic potential energy in the spring (when compressed or stretched), thermal energy in the hot water, kinetic energy in the moving car, and light energy from the torch",
+  "explanation": "Different objects store energy in different ways. A compressed spring stores elastic potential energy ready to be released. Hot water contains thermal energy due to its temperature. A moving car has kinetic energy because of its motion. A torch emits light energy. This question requires students to recognise that energy exists in multiple forms and to match forms to objects.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c38a3257-ddf4-495c-bda7-a333f42ffa58"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "What happens to an iron nail when it is placed inside a coil of wire carrying an electric current?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "magnetism",
+    "current"
+  ],
+  "options": null,
+  "correct_answer": "The iron nail becomes magnetised and acts as a magnet",
+  "explanation": "When electric current flows through a coil of wire wrapped around an iron nail, the magnetic field produced magnetises the iron, turning it into an electromagnet. This is how electromagnets work in devices like doorbells and electric motors.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9e72aa1e-c0d3-47cc-9a36-00a999b81d50"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A recording studio uses soft foam panels on the walls to reduce sound reflections, while a concert hall uses hard plaster and wooden surfaces. Evaluate which room would be better for recording speech and explain why, considering how sound behaves with different materials.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "sound absorption",
+    "reflection",
+    "diffusion",
+    "material properties"
+  ],
+  "options": null,
+  "correct_answer": "The recording studio with foam panels is better for recording speech because soft materials absorb sound waves instead of reflecting them. This prevents echoes and reverberation, making the speech clear and crisp without unwanted background reflections.",
+  "explanation": "Hard surfaces like plaster and wood reflect sound waves, causing echoes and making recordings sound hollow. Soft, porous materials like foam absorb sound energy, stopping reflections. This is why recording studios use acoustic padding while concert halls use reflective surfaces to project sound.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "211a0345-e53a-440c-9c2b-07a8b45a4469"
+}

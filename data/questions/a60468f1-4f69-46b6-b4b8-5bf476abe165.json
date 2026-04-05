@@ -1,0 +1,38 @@
+{
+  "question_text": "What happens to particles when a substance melts?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "state change",
+    "particles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles move closer together and stop moving",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles gain kinetic energy and break free from fixed positions",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles disappear completely",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles lose all their kinetic energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "During melting, heat energy is absorbed by the solid, giving particles more kinetic energy so they can break free from their fixed positions and flow as a liquid.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a60468f1-4f69-46b6-b4b8-5bf476abe165"
+}

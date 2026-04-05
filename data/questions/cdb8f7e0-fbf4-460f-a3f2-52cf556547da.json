@@ -1,0 +1,17 @@
+{
+  "question_text": "What are craters on the Moon formed by?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon craters",
+    "impact",
+    "surface features"
+  ],
+  "options": null,
+  "correct_answer": "Craters are formed by meteorites and asteroids crashing into the Moon's surface at high speed.",
+  "explanation": "Unlike Earth, the Moon has no atmosphere to burn up space rocks and no weathering to wear away craters, so impact craters remain visible for billions of years.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cdb8f7e0-fbf4-460f-a3f2-52cf556547da"
+}

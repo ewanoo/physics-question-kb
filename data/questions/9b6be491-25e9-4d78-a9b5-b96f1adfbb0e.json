@@ -1,0 +1,38 @@
+{
+  "question_text": "A student makes an electromagnet by wrapping wire around a steel rod and connecting it to a battery. What would happen if they increased the number of coils of wire?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "magnetic field strength",
+    "coils"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The electromagnet would become weaker",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The electromagnet would become stronger",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The electromagnet would change colour",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The electromagnet would stop working",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "More coils of wire mean more loops for the magnetic field to be created in. Each loop adds to the overall magnetic field, making the electromagnet stronger. This is why electromagnets with more turns are used when a stronger magnet is needed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9b6be491-25e9-4d78-a9b5-b96f1adfbb0e"
+}

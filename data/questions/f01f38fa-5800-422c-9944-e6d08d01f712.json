@@ -1,0 +1,17 @@
+{
+  "question_text": "Name two key differences between the properties of liquids and gases.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "liquid properties",
+    "gas properties",
+    "states of matter"
+  ],
+  "options": null,
+  "correct_answer": "Liquids have a fixed volume but take the shape of their container, while gases have no fixed volume or shape. Liquids are denser and less compressible than gases.",
+  "explanation": "These differences occur because liquid particles are closer together and have stronger forces between them compared to gas particles, which are spread far apart.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f01f38fa-5800-422c-9944-e6d08d01f712"
+}

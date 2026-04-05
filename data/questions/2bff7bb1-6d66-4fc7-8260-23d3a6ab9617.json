@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes friction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "contact force",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that always speeds up moving objects",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A non-contact force between magnets",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A contact force that opposes motion between surfaces",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "A force that only acts on smooth surfaces",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Friction is a contact force (surfaces must touch) that always opposes motion. It acts in the opposite direction to movement and cannot increase the speed of a moving object.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2bff7bb1-6d66-4fc7-8260-23d3a6ab9617"
+}

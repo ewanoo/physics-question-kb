@@ -1,0 +1,39 @@
+{
+  "question_text": "Why does the UK have longer daylight hours in summer than in winter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "daylight",
+    "tilt",
+    "axis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The UK is closer to the Sun in summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Earth's tilted axis means the UK is tilted towards the Sun in summer",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun moves faster across the sky in summer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Earth orbits the Sun faster in summer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Earth's axis is tilted 23.5\u00b0. In summer (June), the UK is tilted towards the Sun, so the Sun is higher in the sky and above the horizon for longer, creating longer daylight hours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "31cf440c-443d-4417-af32-2c15612f2a56"
+}

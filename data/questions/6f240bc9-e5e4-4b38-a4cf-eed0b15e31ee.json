@@ -1,0 +1,18 @@
+{
+  "question_text": "A student compares three objects at different heights on a shelf. Object A is heavy and high up, Object B is light and high up, and Object C is heavy and low down. Which object has the most gravitational potential energy stored, and explain why using the factors that affect gravitational potential energy.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "mass",
+    "height",
+    "hard"
+  ],
+  "options": null,
+  "correct_answer": "Object A has the most gravitational potential energy because it has both large mass and large height. Gravitational potential energy depends on both factors: the heavier an object and the higher it is, the more potential energy it stores.",
+  "explanation": "Gravitational potential energy is determined by two factors: mass and height. Object A scores highest on both\u2014it is the heaviest and the highest. Although Object B is also high, it is light, so it stores less energy. Object C is heavy but low down. The formula is GPE = mass \u00d7 gravity \u00d7 height, so both mass and height are crucial.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6f240bc9-e5e4-4b38-a4cf-eed0b15e31ee"
+}

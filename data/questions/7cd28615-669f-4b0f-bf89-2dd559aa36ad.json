@@ -1,0 +1,38 @@
+{
+  "question_text": "What causes the Moon's phases as seen from Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon phases",
+    "lunar cycle",
+    "position"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth's shadow falling on the Moon",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The different amounts of the Moon's lit side visible from Earth as it orbits",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Moon moving into Earth's atmosphere",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Changes in the Moon's distance from Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The Moon orbits Earth, and as it does, we see different amounts of its sunlit side. This is why the Moon appears to change shape throughout the month, even though it is always half-lit by the Sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7cd28615-669f-4b0f-bf89-2dd559aa36ad"
+}

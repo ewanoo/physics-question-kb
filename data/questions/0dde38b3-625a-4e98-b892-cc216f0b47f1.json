@@ -1,0 +1,17 @@
+{
+  "question_text": "A person eats a banana that contains 105 joules of chemical energy. Explain what happens to this energy in their body.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "cellular respiration",
+    "chemical energy"
+  ],
+  "options": null,
+  "correct_answer": "The chemical energy in the banana is converted into heat energy and energy for movement and body processes",
+  "explanation": "When you eat food, your body breaks down the chemical energy stored in it through digestion and respiration. This energy is released and used to power your muscles, keep your body warm, and power all your body's functions like thinking, growing, and moving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0dde38b3-625a-4e98-b892-cc216f0b47f1"
+}

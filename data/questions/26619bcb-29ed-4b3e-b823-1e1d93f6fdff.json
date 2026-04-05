@@ -1,0 +1,17 @@
+{
+  "question_text": "Name the two poles of a permanent magnet.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "magnetic poles",
+    "magnetism"
+  ],
+  "options": null,
+  "correct_answer": "North pole and South pole",
+  "explanation": "Every magnet has two poles: a North pole and a South pole. The North pole of one magnet is attracted to the South pole of another magnet, while two North poles (or two South poles) repel each other.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "26619bcb-29ed-4b3e-b823-1e1d93f6fdff"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A sound wave travels through air at 340 m/s. If a sound has a frequency of 170 Hz, calculate its wavelength.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "sound speed",
+    "frequency",
+    "wavelength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "2 m",
+  "explanation": "Use the wave equation: speed = frequency \u00d7 wavelength. Rearranging: wavelength = speed \u00f7 frequency = 340 \u00f7 170 = 2 m. This means each complete wave cycle is 2 metres long.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d1b6525e-55c6-462b-aa9c-20d794819628"
+}

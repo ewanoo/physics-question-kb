@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the main source of energy in food?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "chemical energy",
+    "nutrition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Carbohydrates, fats, and proteins",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Vitamins and minerals only",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Water and fibre",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Salt and sugar only",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The main energy-providing nutrients in food are carbohydrates, fats, and proteins. These contain chemical energy that your body releases and uses to power your cells and muscles. Vitamins and minerals are important but provide very little energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "14d952e3-7d22-4cef-9582-424edbb40164"
+}

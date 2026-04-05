@@ -1,0 +1,38 @@
+{
+  "question_text": "Two bar magnets are held near each other with their North poles facing each other. What will happen?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic poles",
+    "attraction and repulsion",
+    "permanent magnets"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The magnets will attract each other",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The magnets will repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The magnets will stick together firmly",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Nothing will happen",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Like poles repel each other. Since both magnets have their North poles facing each other, they push away from one another. Opposite poles (North and South) attract, but like poles always repel.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4754741e-f617-4d5c-97c8-265098263c38"
+}

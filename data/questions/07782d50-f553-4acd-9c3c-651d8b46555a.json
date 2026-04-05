@@ -1,0 +1,20 @@
+{
+  "question_text": "A book rests on a table. Identify all the forces acting on the book and explain whether each is a contact or non-contact force. Then explain why the book remains stationary.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "equilibrium",
+    "weight",
+    "normal force",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Weight (gravity) - non-contact force, acts downwards; Normal force - contact force, acts upwards from the table. The book is stationary because these forces are equal in size and opposite in direction, so the net force is zero (balanced forces).",
+  "explanation": "Two forces act on the book: weight (gravitational pull, non-contact) pulling down, and the normal force (contact force from the table) pushing up. Since these forces are balanced (equal and opposite), they cancel out and the book does not accelerate\u2014it remains at rest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "07782d50-f553-4acd-9c3c-651d8b46555a"
+}

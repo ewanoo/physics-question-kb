@@ -1,0 +1,42 @@
+{
+  "question_text": "A student investigates different types of forces by testing a magnet near a paperclip, pulling a rope, rubbing sandpaper on a block, and dropping a ball. Which of the following correctly identifies one contact force and one non-contact force from these examples?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "magnetism",
+    "gravity",
+    "friction",
+    "tension",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Contact: magnetism; Non-contact: friction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Contact: friction; Non-contact: magnetism",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Contact: gravity; Non-contact: pulling a rope",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Contact: tension; Non-contact: rubbing sandpaper",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Friction (sandpaper rubbing) is a contact force because surfaces must touch. Magnetism (magnet near paperclip) is a non-contact force because the magnet attracts the paperclip without touching it. Tension (rope) and gravity (falling ball) are both forces but require careful classification.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b0b9aead-7e84-4d4a-89fd-f64f62481932"
+}

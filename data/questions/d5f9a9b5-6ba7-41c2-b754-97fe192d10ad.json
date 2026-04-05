@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement about gravity is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "non-contact force",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity only acts on objects that are in contact with Earth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravity is a non-contact force that pulls objects towards Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravity makes all objects fall at different speeds",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravity is a contact force between two surfaces",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravity is a non-contact force because it acts over a distance without surfaces needing to touch. It pulls objects towards Earth and acts on all objects with mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d5f9a9b5-6ba7-41c2-b754-97fe192d10ad"
+}

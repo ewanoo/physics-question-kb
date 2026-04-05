@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the basic building block of all matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "atoms",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Atoms",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Molecules",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Elements",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Compounds",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Atoms are the smallest units of matter that make up all substances. Everything is made from atoms bonded together in different ways.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3f2f930d-ac7d-42c3-9caf-3b8f4a043983"
+}

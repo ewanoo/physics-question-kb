@@ -1,0 +1,40 @@
+{
+  "question_text": "Which of the following is an example of a physical change of state?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "states of matter",
+    "physical change",
+    "evaporation",
+    "condensation",
+    "freezing"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Burning wood to create ash",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Water boiling to become steam",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Rusting of iron",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Cooking an egg",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Boiling is a physical change where liquid water changes to a gas (steam) when heated. The water molecules are rearranged but remain water. Burning, rusting, and cooking are chemical changes that create new substances.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "98ba7b15-385b-4b55-b633-3a5227c81b11"
+}
