@@ -1,0 +1,25 @@
+{
+  "id": "77cd41c2-9308-480a-935d-7473013366c8",
+  "question_text": "Name one factor that affects the strength of the gravitational force between two objects.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational force",
+    "factors",
+    "mass",
+    "distance"
+  ],
+  "options": null,
+  "correct_answer": "The mass of the objects (or the distance between them). Gravitational force increases with mass and decreases with distance.",
+  "explanation": "The gravitational force depends on the masses of the two objects and the distance between them. Larger masses attract more strongly, and objects that are closer together experience stronger gravitational attraction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T19:07:21.727772",
+  "classified_at": "2026-04-05T19:07:21.727772",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5c53246b-ce7e-4cb7-ab46-353c20df59b2",
+  "question_text": "A gas occupies 2 m\u00b3 at a pressure of 300 kPa. The gas is compressed to half its original volume at constant temperature. Calculate the new pressure.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "gas pressure",
+    "compression"
+  ],
+  "options": null,
+  "correct_answer": "600 kPa",
+  "explanation": "Using Boyle's Law (P\u2081V\u2081 = P\u2082V\u2082) at constant temperature: 300 \u00d7 2 = P\u2082 \u00d7 1, so P\u2082 = 600 kPa. When volume is halved, pressure doubles because gas particles are forced into a smaller space, colliding with walls more frequently.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.gas_pressure/hard",
+  "scraped_at": "2026-04-05T19:07:21.727193",
+  "classified_at": "2026-04-05T19:07:21.727193",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

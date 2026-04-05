@@ -1,0 +1,45 @@
+{
+  "id": "0ed2309a-2d4f-4f94-a148-445416d47c96",
+  "question_text": "Which of the following best describes what gravity is?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "force",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that only acts downwards on objects",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An attractive force between all objects with mass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A type of friction that occurs on all surfaces",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The energy stored in falling objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravity is a universal attractive force that acts between any two objects with mass, not just downwards. Although it's most noticeable between Earth and objects on its surface, all objects attract each other gravitationally.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T19:07:21.727694",
+  "classified_at": "2026-04-05T19:07:21.727694",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

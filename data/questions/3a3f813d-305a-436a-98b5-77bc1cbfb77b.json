@@ -1,0 +1,24 @@
+{
+  "id": "3a3f813d-305a-436a-98b5-77bc1cbfb77b",
+  "question_text": "A cyclist inflates a tyre at sea level where atmospheric pressure is 101 kPa. They then cycle to a mountain top where atmospheric pressure is 80 kPa. The tyre's volume does not change significantly. Evaluate whether the pressure inside the tyre will be affected by the altitude change and explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric pressure",
+    "gauge pressure",
+    "altitude"
+  ],
+  "options": null,
+  "correct_answer": "The absolute pressure inside the tyre will remain essentially the same because it is determined by the amount of gas molecules inside (which hasn't changed) and the tyre's volume. However, the gauge pressure (pressure above atmospheric) will increase because the external atmospheric pressure has decreased. The tyre will feel firmer relative to the surroundings.",
+  "explanation": "The gas inside the tyre maintains its pressure because its quantity and volume haven't changed. What changes is the pressure difference between inside and outside, making the tyre's gauge pressure higher at altitude\u2014this is why tyres sometimes feel overinflated at high elevations.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.gas_pressure/hard",
+  "scraped_at": "2026-04-05T19:07:21.727248",
+  "classified_at": "2026-04-05T19:07:21.727248",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

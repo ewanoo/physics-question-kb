@@ -1,0 +1,24 @@
+{
+  "id": "9fe12974-7185-4079-a95b-29e0be2b6367",
+  "question_text": "A 50 kg astronaut is on Earth where the gravitational field strength is 10 N/kg. Calculate the astronaut's weight.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "Weight is calculated using W = mg, where m is mass and g is gravitational field strength. W = 50 \u00d7 10 = 500 N. Weight is the gravitational force acting on an object.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/medium",
+  "scraped_at": "2026-04-05T19:07:21.727830",
+  "classified_at": "2026-04-05T19:07:21.727830",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

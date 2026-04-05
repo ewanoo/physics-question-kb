@@ -1,0 +1,24 @@
+{
+  "id": "46ee128c-afee-4969-aed0-1df822bca98f",
+  "question_text": "On the Moon, the gravitational field strength is approximately 1.6 N/kg. A person has a mass of 60 kg. What is their weight on the Moon?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "Moon",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "96 N",
+  "explanation": "Using W = mg: W = 60 \u00d7 1.6 = 96 N. The person weighs much less on the Moon than on Earth because the Moon's gravitational field strength is much weaker.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/medium",
+  "scraped_at": "2026-04-05T19:07:21.727990",
+  "classified_at": "2026-04-05T19:07:21.727990",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

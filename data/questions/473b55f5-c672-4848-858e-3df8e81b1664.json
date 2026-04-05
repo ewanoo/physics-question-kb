@@ -1,0 +1,24 @@
+{
+  "id": "473b55f5-c672-4848-858e-3df8e81b1664",
+  "question_text": "Explain why an astronaut floats inside a spacecraft orbiting Earth, even though Earth's gravity is still acting on them.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weightlessness",
+    "orbiting",
+    "gravitational force"
+  ],
+  "options": null,
+  "correct_answer": "The astronaut and the spacecraft are both continuously falling towards Earth at the same rate. They orbit together, so there is no normal force between the astronaut and the spacecraft floor. Without this contact force, the astronaut appears weightless, even though gravity is still pulling them towards Earth.",
+  "explanation": "In orbit, both the spacecraft and astronaut fall towards Earth together at the same acceleration. Since nothing pushes up against the astronaut (no normal force), they experience apparent weightlessness. Gravity is still present and keeps them in orbit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/medium",
+  "scraped_at": "2026-04-05T19:07:21.728214",
+  "classified_at": "2026-04-05T19:07:21.728214",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

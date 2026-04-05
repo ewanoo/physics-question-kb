@@ -1,0 +1,45 @@
+{
+  "id": "ec41332b-4517-4165-93e1-c0e02c7547af",
+  "question_text": "What is the SI unit for gravitational field strength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field strength",
+    "SI units",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "N (newtons)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "N/kg (newtons per kilogram)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "kg/N (kilograms per newton)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "m/s\u00b2 (metres per second squared)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravitational field strength is measured in N/kg (newtons per kilogram), which is the gravitational force per unit mass. While m/s\u00b2 is equivalent, N/kg is the proper SI unit when discussing gravitational fields.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T19:07:21.727529",
+  "classified_at": "2026-04-05T19:07:21.727529",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

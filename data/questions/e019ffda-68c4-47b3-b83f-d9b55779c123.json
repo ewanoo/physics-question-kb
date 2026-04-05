@@ -1,0 +1,45 @@
+{
+  "id": "e019ffda-68c4-47b3-b83f-d9b55779c123",
+  "question_text": "A spring obeys Hooke's law up to a force of 50 N. Beyond this force, the spring becomes permanently deformed. A student stretches the spring with a force of 60 N. What will happen to the spring when the force is removed?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "elastic limit",
+    "permanent deformation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The spring will return to its original length exactly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The spring will return to its original length because the force has been removed",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The spring will remain permanently stretched because the elastic limit was exceeded",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The spring will break into two pieces",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "When the force applied exceeds the elastic limit (50 N), the spring undergoes plastic deformation and cannot return to its original shape. The 60 N force exceeds this limit, so the spring will remain permanently stretched even after the force is removed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/hard",
+  "scraped_at": "2026-04-05T19:07:21.726884",
+  "classified_at": "2026-04-05T19:07:21.726884",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

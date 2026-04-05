@@ -1,0 +1,25 @@
+{
+  "id": "991bd77f-6fca-4e31-a8f6-497342d69285",
+  "question_text": "A gas at 400 K occupies 0.5 m\u00b3 at a pressure of 200 kPa. If the temperature is increased to 800 K and the volume is reduced to 0.25 m\u00b3, what is the new pressure?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "combined gas law",
+    "pressure",
+    "temperature",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "800 kPa",
+  "explanation": "Using the combined gas law: (P\u2081V\u2081)/T\u2081 = (P\u2082V\u2082)/T\u2082. Substituting: (200 \u00d7 0.5)/400 = P\u2082 \u00d7 0.25/800. This gives 0.25 = P\u2082 \u00d7 0.25/800, so P\u2082 = 800 kPa. Doubling temperature increases pressure, and halving volume further increases pressure by a factor of 4.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.gas_pressure/hard",
+  "scraped_at": "2026-04-05T19:07:21.727309",
+  "classified_at": "2026-04-05T19:07:21.727309",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

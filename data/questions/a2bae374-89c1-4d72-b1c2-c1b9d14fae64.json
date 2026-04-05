@@ -1,0 +1,24 @@
+{
+  "id": "a2bae374-89c1-4d72-b1c2-c1b9d14fae64",
+  "question_text": "Two springs, A and B, are hanging vertically with identical masses attached. Spring A has a spring constant of 200 N/m and spring B has a spring constant of 100 N/m. Compare the extensions of the two springs.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "Hooke's law",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Spring B extends twice as much as Spring A. Since the force is the same (both support equal masses), and F = kx, a smaller spring constant means a larger extension. Spring B's constant is half that of Spring A, so its extension is doubled.",
+  "explanation": "Using F = kx with the same force on both springs, a smaller spring constant produces a larger extension. Spring B (k = 100 N/m) will stretch twice as much as Spring A (k = 200 N/m) because they experience the same weight force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/hard",
+  "scraped_at": "2026-04-05T19:07:21.726802",
+  "classified_at": "2026-04-05T19:07:21.726802",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

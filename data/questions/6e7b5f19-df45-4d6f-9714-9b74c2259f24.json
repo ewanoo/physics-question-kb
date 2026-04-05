@@ -1,0 +1,45 @@
+{
+  "id": "6e7b5f19-df45-4d6f-9714-9b74c2259f24",
+  "question_text": "Two planets have the same mass but Planet B has twice the radius of Planet A. How does the gravitational field strength on Planet B compare to Planet A?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field strength",
+    "radius",
+    "inverse square law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Planet B has the same gravitational field strength as Planet A",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Planet B has half the gravitational field strength of Planet A",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Planet B has one-quarter the gravitational field strength of Planet A",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Planet B has four times the gravitational field strength of Planet A",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Gravitational field strength is inversely proportional to the square of the distance from the centre. If the radius (and thus surface distance) doubles, the gravitational field strength becomes 1/(2\u00b2) = 1/4 of the original value. Planet B's surface is twice as far from the centre, so its field strength is one-quarter that of Planet A.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/medium",
+  "scraped_at": "2026-04-05T19:07:21.728132",
+  "classified_at": "2026-04-05T19:07:21.728132",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

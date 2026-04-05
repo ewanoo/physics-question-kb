@@ -1,0 +1,45 @@
+{
+  "id": "4567262a-be25-40b8-966a-d6bc7f2ae5fe",
+  "question_text": "On Earth, the gravitational field strength is approximately 10 N/kg. What does this mean?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field strength",
+    "weight",
+    "Earth"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A 1 kg mass experiences a gravitational force of 10 N",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A 1 kg mass weighs 1/10 of a newton",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gravity pulls objects downwards at 10 metres per second",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Earth's mass is 10 kilograms",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "A gravitational field strength of 10 N/kg means that every kilogram of mass experiences a gravitational force of 10 newtons. This is the definition of field strength: force per unit mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T19:07:21.727616",
+  "classified_at": "2026-04-05T19:07:21.727616",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
