@@ -1,0 +1,24 @@
+{
+  "id": "46e731f2-5bdc-4fdc-9afd-448bd5e79233",
+  "question_text": "A sample of ice at -5\u00b0C is heated steadily. It melts at 0\u00b0C and then the water is heated further until it boils at 100\u00b0C. During which process does the temperature remain constant even though heat energy is being added?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "melting point",
+    "boiling point",
+    "latent heat"
+  ],
+  "options": null,
+  "correct_answer": "The temperature remains constant during melting (at 0\u00b0C) and during boiling (at 100\u00b0C). At these points, the heat energy being added goes into breaking the bonds between particles rather than increasing their kinetic energy (which would raise temperature).",
+  "explanation": "During phase changes (melting and boiling), all the heat energy goes into changing the state of matter rather than increasing temperature. This is why the temperature plateaus on a heating curve.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/medium",
+  "scraped_at": "2026-04-05T19:06:03.019860",
+  "classified_at": "2026-04-05T19:06:03.019860",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

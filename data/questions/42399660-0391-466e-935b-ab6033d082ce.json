@@ -1,0 +1,24 @@
+{
+  "id": "42399660-0391-466e-935b-ab6033d082ce",
+  "question_text": "A wind farm generates 2.5 MW of power when operating at full capacity. However, due to variable wind conditions, it only operates at full capacity for 40% of the year. Calculate the average power output over a full year in MW.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "power calculation",
+    "capacity factor"
+  ],
+  "options": null,
+  "correct_answer": "Average power output = 2.5 MW \u00d7 0.40 = 1.0 MW",
+  "explanation": "The capacity factor (40%) shows what fraction of the year the wind farm operates at full capacity. To find the average power, we multiply the maximum power by the fraction of time it operates at that power.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/hard",
+  "scraped_at": "2026-04-05T19:06:03.019367",
+  "classified_at": "2026-04-05T19:06:03.019367",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3300cc27-189f-4220-a431-ea1019a9ed3c",
+  "question_text": "Explain, using the particle model, why a gas always fills the entire volume of its container, whereas a liquid always has a fixed volume but takes the shape of its container.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "gas properties",
+    "liquid properties"
+  ],
+  "options": null,
+  "correct_answer": "In a gas, particles have very weak or no forces between them and move rapidly in all directions at high speeds, so they spread throughout the entire container. In a liquid, particles have stronger attractive forces that hold them together, so they maintain a fixed volume, but the particles can still move and flow, allowing the liquid to take the shape of its container.",
+  "explanation": "The key difference is the strength of intermolecular forces: gases have negligible forces, so particles move freely everywhere; liquids have moderate forces that keep the volume constant but allow particles to rearrange.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/medium",
+  "scraped_at": "2026-04-05T19:06:03.020018",
+  "classified_at": "2026-04-05T19:06:03.020018",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

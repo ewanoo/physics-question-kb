@@ -1,0 +1,25 @@
+{
+  "id": "aa5070cd-4f8d-4476-ab02-caeb59621482",
+  "question_text": "Compare and contrast fossil fuels and biofuels in terms of sustainability, carbon emissions, and cost. Explain why neither is a perfect long-term energy solution on its own.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "biofuels",
+    "sustainability",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Fossil fuels: high carbon emissions, non-renewable, cheap to extract but cause climate change. Biofuels: renewable (from crops), lower net carbon if sustainably grown, but require large land areas, compete with food production, and may still produce emissions during processing. Neither is perfect alone because fossil fuels will run out and damage the climate, while large-scale biofuel production could harm ecosystems and food security. A mix of multiple renewable sources is needed.",
+  "explanation": "This question requires students to evaluate the pros and cons of different energy sources and understand that real-world energy solutions are complex with multiple trade-offs.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/hard",
+  "scraped_at": "2026-04-05T19:06:03.019613",
+  "classified_at": "2026-04-05T19:06:03.019613",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

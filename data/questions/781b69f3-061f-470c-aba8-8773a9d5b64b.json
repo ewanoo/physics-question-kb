@@ -1,0 +1,45 @@
+{
+  "id": "781b69f3-061f-470c-aba8-8773a9d5b64b",
+  "question_text": "Which energy resource relies on the movement of water to generate electricity?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "hydroelectric",
+    "water power",
+    "renewable"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Tidal energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Hydroelectric power",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Geothermal energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Biomass energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Hydroelectric power uses flowing or falling water to turn turbines and generate electricity. While tidal energy also uses water, hydroelectric specifically refers to freshwater dams and rivers.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/easy",
+  "scraped_at": "2026-04-05T19:06:03.019148",
+  "classified_at": "2026-04-05T19:06:03.019148",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

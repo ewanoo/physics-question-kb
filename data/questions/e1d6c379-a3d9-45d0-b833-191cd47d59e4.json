@@ -1,0 +1,24 @@
+{
+  "id": "e1d6c379-a3d9-45d0-b833-191cd47d59e4",
+  "question_text": "A solid metal block is heated until it melts into a liquid. What happens to the particles in the metal during this process?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "particle model",
+    "states of matter"
+  ],
+  "options": null,
+  "correct_answer": "The particles vibrate more vigorously and gain energy. The bonds between particles weaken, and they overcome the forces holding them in fixed positions. The particles can now move freely and slide past each other, changing the shape and flow like a liquid.",
+  "explanation": "During melting, heat energy causes particles to vibrate more, allowing them to break free from their fixed positions in the solid structure and move like a liquid.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/medium",
+  "scraped_at": "2026-04-05T19:06:03.019689",
+  "classified_at": "2026-04-05T19:06:03.019689",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

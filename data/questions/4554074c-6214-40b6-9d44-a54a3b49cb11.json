@@ -1,0 +1,45 @@
+{
+  "id": "4554074c-6214-40b6-9d44-a54a3b49cb11",
+  "question_text": "Which of the following statements correctly describes the difference between evaporation and boiling?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "evaporation",
+    "boiling",
+    "states of matter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Evaporation only happens at 100\u00b0C, while boiling can happen at any temperature",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Boiling happens at a specific temperature throughout the liquid, while evaporation happens at the surface at any temperature",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Evaporation produces steam while boiling produces water vapour",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Boiling is faster than evaporation because it uses more heat energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Boiling occurs at a fixed temperature (100\u00b0C for water) and happens throughout the liquid with vigorous bubbling. Evaporation happens at the surface at any temperature when particles have enough energy to escape.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/medium",
+  "scraped_at": "2026-04-05T19:06:03.019770",
+  "classified_at": "2026-04-05T19:06:03.019770",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

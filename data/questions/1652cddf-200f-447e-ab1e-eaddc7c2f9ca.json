@@ -1,0 +1,24 @@
+{
+  "id": "1652cddf-200f-447e-ab1e-eaddc7c2f9ca",
+  "question_text": "A country currently generates 70% of its electricity from coal power stations. The government wants to reduce carbon emissions by 50% within 10 years while maintaining the same total electricity output. Evaluate three different strategies the government could use, considering both environmental impact and practical feasibility.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "carbon emissions",
+    "renewable transition",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Any three strategies with evaluation, such as: (1) Replace coal plants with solar/wind farms - environmental benefit is very high, but requires large upfront investment and land; (2) Build nuclear power stations - produces low-carbon electricity reliably but is expensive and takes time to construct; (3) Invest in a mix of renewables (wind, solar, hydroelectric) - spreads risk, environmentally beneficial, but depends on weather and requires grid upgrades; (4) Improve energy efficiency and reduce demand - cheapest option and reduces overall emissions, but doesn't replace existing capacity.",
+  "explanation": "This requires students to think about multiple solutions, weigh pros and cons, and consider both the environmental benefits and practical challenges of different energy sources.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/hard",
+  "scraped_at": "2026-04-05T19:06:03.019282",
+  "classified_at": "2026-04-05T19:06:03.019282",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

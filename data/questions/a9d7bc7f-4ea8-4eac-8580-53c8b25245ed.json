@@ -1,0 +1,24 @@
+{
+  "id": "a9d7bc7f-4ea8-4eac-8580-53c8b25245ed",
+  "question_text": "Name two advantages of using renewable energy sources instead of fossil fuels.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "advantages",
+    "fossil fuels"
+  ],
+  "options": null,
+  "correct_answer": "Any two of the following: they do not run out (sustainable); they do not produce greenhouse gases or air pollution; they do not contribute to climate change; they are better for the environment.",
+  "explanation": "Renewable resources like solar, wind, and hydroelectric power are continuously replenished and produce little to no pollution, unlike burning fossil fuels which releases carbon dioxide and other harmful gases.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/easy",
+  "scraped_at": "2026-04-05T19:06:03.019043",
+  "classified_at": "2026-04-05T19:06:03.019043",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

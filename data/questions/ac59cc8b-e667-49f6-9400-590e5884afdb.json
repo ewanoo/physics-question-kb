@@ -1,0 +1,24 @@
+{
+  "id": "ac59cc8b-e667-49f6-9400-590e5884afdb",
+  "question_text": "A solar panel has a maximum power output of 300 W. Over a year, it receives an average of 4 hours of useful sunlight per day. Calculate how many watt-hours of energy the panel produces in one day.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "solar energy",
+    "energy calculation",
+    "power"
+  ],
+  "options": null,
+  "correct_answer": "Energy = Power \u00d7 Time = 300 W \u00d7 4 hours = 1200 Wh (or 1.2 kWh)",
+  "explanation": "Energy is calculated by multiplying power (in watts) by time (in hours). The solar panel operates at 300 W for 4 hours, giving 1200 watt-hours of energy per day.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/hard",
+  "scraped_at": "2026-04-05T19:06:03.019432",
+  "classified_at": "2026-04-05T19:06:03.019432",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
