@@ -185,13 +185,29 @@
 - Total questions: 1,952 (up from 1,906)
 - All 99 difficulty/subtopic slots now have ≥19 questions each (minimum raised from 17)
 
-## Statistics (Session 17 — CURRENT)
-- **Total questions (JSON files)**: 1,952
+### Session 18 (agent — 2026-04-05)
+- Rebuilt DB from 1,966 committed question JSON files (all 99 difficulty/subtopic slots at 19)
+- Identified all 40 slots sitting at exactly 19 questions (the minimum)
+- Generated **80 new questions** in 4 batches (2 per slot) covering:
+  - electricity: current_voltage easy/hard, magnets hard, static easy/hard
+  - energy: conservation easy, efficiency easy/medium/hard, food easy/medium/hard,
+    resources easy/hard, stores hard
+  - forces: balanced easy/medium, friction easy/medium/hard, gravity easy,
+    moments hard, pressure easy/hard, speed easy, springs easy/medium/hard, types hard
+  - matter: changes easy, density hard, gas_pressure hard, particles medium, states hard
+  - space: gravity hard, solar_system easy/hard
+  - waves: colour easy/medium/hard
+- Total questions: 2,046 (up from 1,966)
+- All 99 difficulty/subtopic slots now have ≥21 questions each
+
+## Statistics (Session 18 — CURRENT)
+- **Total questions (JSON files)**: 2,046
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy=650+, medium=648+, hard=650+ (all >= 50)
-- **Min questions per difficulty+subtopic slot**: 19
-- **Mean quality score**: 4.70
+- **By difficulty**: easy=683, medium=677, hard=686 (all >= 50)
+- **Min questions per subtopic**: 57 (waves.properties)
+- **Min questions per difficulty+subtopic slot**: 21
+- **Mean quality score**: ~4.70
 
 ## Scraper Status
 | Scraper | Status | Questions in DB |
@@ -204,8 +220,8 @@
 
 ## Completion Criteria Check
 - [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [x] `python -m src.cli.query stats` shows 1,952 questions (>= 500)
-- [x] All 33 subtopics have >= 5 questions each (minimum is 53 per subtopic)
+- [x] `python -m src.cli.query stats` shows 2,046 questions (>= 500)
+- [x] All 33 subtopics have >= 5 questions each (minimum is 57 per subtopic)
 - [x] Difficulty distribution: easy=590+, medium=620+, hard=590+ (all >= 50)
 - [x] 3 sources represented (>= 3 required)
 - [x] Mean quality score = 4.56 >= 3.5
