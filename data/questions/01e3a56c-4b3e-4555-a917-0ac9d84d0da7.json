@@ -1,0 +1,24 @@
+{
+  "id": "01e3a56c-4b3e-4555-a917-0ac9d84d0da7",
+  "question_text": "A student drops a ball from 5 metres high. At 2.5 metres high (halfway down), the ball has 200 J of kinetic energy. What is the total mechanical energy of the ball at the start? (Assume air resistance is negligible.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "multi-step",
+    "potential and kinetic energy",
+    "conservation"
+  ],
+  "options": null,
+  "correct_answer": "400 J",
+  "explanation": "At the midpoint, the ball has lost half its original gravitational potential energy (100 J) and gained kinetic energy (200 J). Using conservation: Initial PE = PE at midpoint + KE at midpoint = 200 J + 200 J = 400 J total.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/hard",
+  "scraped_at": "2026-04-05T12:07:40.701174",
+  "classified_at": "2026-04-05T12:07:40.701174",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a37ffae8-ab12-4f41-bc0f-ed8feb27adc6",
+  "question_text": "Name two types of mechanical waves.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "mechanical waves",
+    "types",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: sound waves, water waves, seismic waves, vibrations on a string. (Correct examples require a medium to travel through.)",
+  "explanation": "Mechanical waves need a medium (solid, liquid, or gas) to travel through. Sound and water waves are common everyday examples that Year 8 students encounter regularly.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/easy",
+  "scraped_at": "2026-04-05T12:08:00.335658",
+  "classified_at": "2026-04-05T12:08:00.335658",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

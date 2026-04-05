@@ -1,0 +1,45 @@
+{
+  "id": "1ffde457-1d03-4dcf-a823-f881c01ce53c",
+  "question_text": "Which of the following is part of the electromagnetic spectrum?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "electromagnetic spectrum",
+    "radiation types",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound waves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Radio waves",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Water waves",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Seismic waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Radio waves are a type of electromagnetic radiation and are part of the electromagnetic spectrum. Sound, water, and seismic waves are all mechanical waves that require a medium to travel through, not electromagnetic waves.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "scraped_at": "2026-04-05T12:08:18.678746",
+  "classified_at": "2026-04-05T12:08:18.678746",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

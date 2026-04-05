@@ -1,0 +1,25 @@
+{
+  "id": "f11f9d16-bc64-46a6-aa9e-a5a8dcd37908",
+  "question_text": "Describe what happens to the wavelength of a wave when its frequency increases, assuming the wave is travelling at a constant speed in the same medium.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "relationship",
+    "inverse"
+  ],
+  "options": null,
+  "correct_answer": "The wavelength decreases. Since speed = frequency \u00d7 wavelength, if speed is constant and frequency increases, wavelength must decrease to keep the equation balanced.",
+  "explanation": "The wave equation shows an inverse relationship between frequency and wavelength when speed is constant. As one increases, the other must decrease to maintain the same wave speed.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/medium",
+  "scraped_at": "2026-04-05T12:08:00.336001",
+  "classified_at": "2026-04-05T12:08:00.336001",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

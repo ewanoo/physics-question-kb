@@ -1,0 +1,24 @@
+{
+  "id": "2913e96f-2a87-4bc7-943d-a53e777038b1",
+  "question_text": "A sound wave has a frequency of 50 Hz. How many complete waves pass a point in 2 seconds?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "calculation",
+    "waves per time"
+  ],
+  "options": null,
+  "correct_answer": "100 waves (or 100 complete oscillations)",
+  "explanation": "Frequency is the number of waves per second. If the frequency is 50 Hz, that means 50 waves pass a point every second. In 2 seconds, 50 \u00d7 2 = 100 waves will pass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/medium",
+  "scraped_at": "2026-04-05T12:08:00.335874",
+  "classified_at": "2026-04-05T12:08:00.335874",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

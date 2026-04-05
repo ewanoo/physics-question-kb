@@ -1,0 +1,24 @@
+{
+  "id": "5be52440-1fcf-447d-8057-309d46a7f9f7",
+  "question_text": "A ray of light hits a plane (flat) mirror at an angle of 30\u00b0 to the normal. What will be the angle of reflection?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "angle of incidence",
+    "law of reflection"
+  ],
+  "options": null,
+  "correct_answer": "30\u00b0",
+  "explanation": "The law of reflection states that the angle of incidence equals the angle of reflection. Both angles are measured from the normal (perpendicular to the surface). Since the angle of incidence is 30\u00b0, the angle of reflection is also 30\u00b0.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.light/medium",
+  "scraped_at": "2026-04-05T12:08:18.679800",
+  "classified_at": "2026-04-05T12:08:18.679800",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

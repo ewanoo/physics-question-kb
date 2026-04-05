@@ -1,0 +1,45 @@
+{
+  "id": "0d6bd001-a594-43fd-ba01-b6accd123a13",
+  "question_text": "What is the amplitude of a wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "definition",
+    "wave properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The maximum displacement of a particle from its rest position",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The distance the wave travels in one complete oscillation",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The time taken for one complete wave to pass a point",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The number of peaks in the wave per second",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Amplitude is how far a particle moves from its resting position, either up or down. It determines the energy in the wave\u2014larger amplitude means more energy. Option B describes wavelength, C describes period, and D describes frequency.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/easy",
+  "scraped_at": "2026-04-05T12:08:00.335778",
+  "classified_at": "2026-04-05T12:08:00.335778",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

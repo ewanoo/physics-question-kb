@@ -1,0 +1,24 @@
+{
+  "id": "215aea46-2d45-469a-b3e0-e1c56e5a0c6a",
+  "question_text": "A wave travels at 20 m/s and has a wavelength of 4 m. What is its frequency?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "frequency calculation",
+    "speed wavelength"
+  ],
+  "options": null,
+  "correct_answer": "5 Hz",
+  "explanation": "Use the wave equation: speed = frequency \u00d7 wavelength. Rearranging: frequency = speed \u00f7 wavelength = 20 \u00f7 4 = 5 Hz. This means 5 complete waves pass a point every second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/medium",
+  "scraped_at": "2026-04-05T12:08:00.335939",
+  "classified_at": "2026-04-05T12:08:00.335939",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

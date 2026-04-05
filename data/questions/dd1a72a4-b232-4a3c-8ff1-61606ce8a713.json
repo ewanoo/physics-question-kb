@@ -1,0 +1,45 @@
+{
+  "id": "dd1a72a4-b232-4a3c-8ff1-61606ce8a713",
+  "question_text": "What happens to light when it passes from air into a glass block?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "glass",
+    "light behaviour"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It bends away from the normal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It bends towards the normal",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It travels in a straight line without bending",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It stops moving completely",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When light enters a denser medium like glass from a less dense medium like air, it slows down and bends towards the normal (an imaginary line perpendicular to the surface). This effect is called refraction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.light/easy",
+  "scraped_at": "2026-04-05T12:08:18.679425",
+  "classified_at": "2026-04-05T12:08:18.679425",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

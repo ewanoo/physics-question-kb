@@ -1,0 +1,46 @@
+{
+  "id": "93858a35-5120-48af-b4e9-b6a7a1022ccc",
+  "question_text": "Ultraviolet radiation can cause skin cancer. What is the main source of ultraviolet radiation that reaches Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "ultraviolet",
+    "sun",
+    "health effects",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mobile phone signals",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Sun",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "X-ray machines",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Radioactive materials",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The Sun is the main source of ultraviolet (UV) radiation reaching Earth. This is why we need to wear sunscreen and protective clothing when spending time in the sun, as UV radiation can damage skin cells and increase the risk of skin cancer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "scraped_at": "2026-04-05T12:08:18.679237",
+  "classified_at": "2026-04-05T12:08:18.679237",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

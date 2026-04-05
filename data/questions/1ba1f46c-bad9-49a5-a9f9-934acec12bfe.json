@@ -1,0 +1,45 @@
+{
+  "id": "1ba1f46c-bad9-49a5-a9f9-934acec12bfe",
+  "question_text": "In a pendulum at rest, all the energy is in one form. What form is it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "pendulum",
+    "energy forms",
+    "potential energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Heat energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Elastic potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When a pendulum is at rest (at its highest point), it has no motion so no kinetic energy. All its energy is stored as gravitational potential energy due to its height above the lowest point.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/easy",
+  "scraped_at": "2026-04-05T12:07:40.700403",
+  "classified_at": "2026-04-05T12:07:40.700403",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

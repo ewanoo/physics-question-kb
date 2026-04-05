@@ -1,0 +1,46 @@
+{
+  "id": "63a9f999-8724-4b39-a2a6-16b75951fd26",
+  "question_text": "A student looks at an object through a convex lens and sees an enlarged virtual image. Which of the following must be true about the object's position?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "lenses",
+    "magnifying glass",
+    "virtual image",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object is at the focal point of the lens",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The object is closer to the lens than the focal point",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The object is much further than twice the focal length",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object is exactly twice the focal length away",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When an object is placed closer to a convex lens than its focal point (within one focal length), it acts like a magnifying glass and produces an enlarged virtual image on the same side as the object. This is the principle used in magnifying glasses and reading lenses.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.light/medium",
+  "scraped_at": "2026-04-05T12:08:18.679644",
+  "classified_at": "2026-04-05T12:08:18.679644",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

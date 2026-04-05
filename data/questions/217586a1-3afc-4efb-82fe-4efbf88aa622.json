@@ -1,0 +1,45 @@
+{
+  "id": "217586a1-3afc-4efb-82fe-4efbf88aa622",
+  "question_text": "What is the definition of wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "definition",
+    "wave structure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The distance between two consecutive points that are in phase, such as from one peak to the next peak",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The maximum displacement of a particle from its rest position",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The number of complete waves that pass a point in one second",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which a wave travels through a medium",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Wavelength is the distance between two consecutive points in phase on a wave, commonly measured from peak to peak or trough to trough. The other options describe amplitude, frequency, and wave speed respectively.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/easy",
+  "scraped_at": "2026-04-05T12:08:00.335420",
+  "classified_at": "2026-04-05T12:08:00.335420",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

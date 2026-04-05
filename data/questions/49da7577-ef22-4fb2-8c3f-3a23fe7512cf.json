@@ -1,0 +1,24 @@
+{
+  "id": "49da7577-ef22-4fb2-8c3f-3a23fe7512cf",
+  "question_text": "A drum vibrates at a frequency of 100 Hz. How many complete oscillations does it make in 1 second?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "oscillations",
+    "Hz"
+  ],
+  "options": null,
+  "correct_answer": "100 oscillations (or 100 complete vibrations)",
+  "explanation": "Frequency is measured in Hertz (Hz), where 1 Hz means one complete oscillation per second. Therefore, 100 Hz means 100 complete oscillations in 1 second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/medium",
+  "scraped_at": "2026-04-05T12:08:36.990783",
+  "classified_at": "2026-04-05T12:08:36.990783",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

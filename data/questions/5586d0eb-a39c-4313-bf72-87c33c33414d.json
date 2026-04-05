@@ -1,0 +1,45 @@
+{
+  "id": "5586d0eb-a39c-4313-bf72-87c33c33414d",
+  "question_text": "Which of the following best describes what pitch means in sound?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "pitch",
+    "frequency",
+    "sound properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How loud or quiet a sound is",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How high or low a sound is",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "How long a sound lasts",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How fast a sound travels",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Pitch is a property of sound that describes whether it is high or low. It is determined by the frequency of the sound wave\u2014higher frequency means higher pitch.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/easy",
+  "scraped_at": "2026-04-05T12:08:36.990539",
+  "classified_at": "2026-04-05T12:08:36.990539",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

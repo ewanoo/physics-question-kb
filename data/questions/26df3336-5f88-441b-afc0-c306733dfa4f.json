@@ -1,0 +1,45 @@
+{
+  "id": "26df3336-5f88-441b-afc0-c306733dfa4f",
+  "question_text": "Approximately how long does it take the Moon to orbit the Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon",
+    "orbit",
+    "period"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "7 days",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "28 days",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "365 days",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "1 year",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The Moon takes approximately 28 days (more precisely 27.3 days) to orbit the Earth. This is why the Moon's phases repeat roughly every month.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.earth_moon/easy",
+  "scraped_at": "2026-04-05T12:08:36.991164",
+  "classified_at": "2026-04-05T12:08:36.991164",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

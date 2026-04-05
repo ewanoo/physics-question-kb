@@ -1,0 +1,45 @@
+{
+  "id": "7b0447d6-03c6-4a07-97e5-8e3896e24cfa",
+  "question_text": "Which type of electromagnetic radiation has the longest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "wavelength",
+    "spectrum order",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gamma rays",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Visible light",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Radio waves",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "X-rays",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Radio waves have the longest wavelengths in the electromagnetic spectrum, ranging from millimetres to several kilometres. Gamma rays have the shortest wavelengths, and visible light and X-rays fall between these extremes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "scraped_at": "2026-04-05T12:08:18.679034",
+  "classified_at": "2026-04-05T12:08:18.679034",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

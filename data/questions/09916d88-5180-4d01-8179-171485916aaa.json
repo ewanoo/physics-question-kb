@@ -1,0 +1,45 @@
+{
+  "id": "09916d88-5180-4d01-8179-171485916aaa",
+  "question_text": "A sound wave has a wavelength of 2 metres and a frequency of 170 Hz. Which statement correctly describes this sound?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "sound properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It is a high-pitched sound because it has a long wavelength",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It is a high-pitched sound because it has a high frequency",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It is a low-pitched sound because it has a long wavelength",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It is a low-pitched sound because it has a high frequency",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Pitch is determined by frequency, not wavelength. A higher frequency (170 Hz is relatively high) produces a higher pitch sound. The wavelength is less important for determining pitch than the frequency.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/medium",
+  "scraped_at": "2026-04-05T12:08:36.990903",
+  "classified_at": "2026-04-05T12:08:36.990903",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

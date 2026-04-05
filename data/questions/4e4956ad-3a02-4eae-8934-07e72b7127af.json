@@ -1,0 +1,24 @@
+{
+  "id": "4e4956ad-3a02-4eae-8934-07e72b7127af",
+  "question_text": "A mobile phone uses radio waves with a frequency of 2 \u00d7 10\u2079 Hz. The speed of electromagnetic waves is 3 \u00d7 10\u2078 m/s. Calculate the wavelength of the radio waves used by the phone.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "wavelength calculation",
+    "frequency",
+    "wave equation"
+  ],
+  "options": null,
+  "correct_answer": "0.15 m (or 15 cm)",
+  "explanation": "Using the wave equation: speed = frequency \u00d7 wavelength, we can rearrange to find wavelength = speed \u00f7 frequency. Therefore: wavelength = (3 \u00d7 10\u2078) \u00f7 (2 \u00d7 10\u2079) = 0.15 m. This corresponds to a wavelength of 15 centimetres, which is typical for mobile phone signals.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "scraped_at": "2026-04-05T12:08:18.679373",
+  "classified_at": "2026-04-05T12:08:18.679373",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

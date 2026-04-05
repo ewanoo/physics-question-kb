@@ -1,0 +1,24 @@
+{
+  "id": "bb6737b8-9a10-44c9-b9c1-e985d2eebaa5",
+  "question_text": "A skateboarder at the top of a ramp has 2000 J of gravitational potential energy. If friction removes 400 J of energy as the skater moves down, how much kinetic energy does the skater have at the bottom?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "friction",
+    "energy loss",
+    "kinetic energy"
+  ],
+  "options": null,
+  "correct_answer": "1600 J",
+  "explanation": "Using energy conservation: Initial potential energy minus energy lost to friction equals final kinetic energy. So 2000 J - 400 J = 1600 J of kinetic energy at the bottom.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/medium",
+  "scraped_at": "2026-04-05T12:07:40.700871",
+  "classified_at": "2026-04-05T12:07:40.700871",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

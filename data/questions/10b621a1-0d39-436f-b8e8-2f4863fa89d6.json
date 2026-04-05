@@ -1,0 +1,46 @@
+{
+  "id": "10b621a1-0d39-436f-b8e8-2f4863fa89d6",
+  "question_text": "Two waves have the same frequency but different wavelengths. What can you conclude about their speeds?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "speed",
+    "comparison",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They must have the same speed because frequency is constant",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They have different speeds because the wave equation shows speed depends on both frequency and wavelength",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "We cannot determine their speeds without knowing the medium",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The wave with the shorter wavelength travels faster",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Using the wave equation (speed = frequency \u00d7 wavelength), if frequency is the same but wavelengths differ, the speeds must be different. For example, if one wave has twice the wavelength, it must have twice the speed. The medium affects both waves equally, so option C is incorrect.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/hard",
+  "scraped_at": "2026-04-05T12:08:00.336138",
+  "classified_at": "2026-04-05T12:08:00.336138",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

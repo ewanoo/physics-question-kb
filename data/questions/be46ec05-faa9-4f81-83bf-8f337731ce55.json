@@ -1,0 +1,25 @@
+{
+  "id": "be46ec05-faa9-4f81-83bf-8f337731ce55",
+  "question_text": "The Moon's diameter is approximately 3,474 km. The Earth's diameter is approximately 12,742 km. How many times wider is the Earth compared to the Moon?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon",
+    "Earth",
+    "diameter",
+    "ratio"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 3.7 times (or between 3.5 and 3.8 times; accept 3.67 or 4 times as acceptable approximations)",
+  "explanation": "To find how many times wider Earth is, divide Earth's diameter by the Moon's diameter: 12,742 \u00f7 3,474 \u2248 3.67. This shows the Earth is roughly 3.7 times wider than the Moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.earth_moon/medium",
+  "scraped_at": "2026-04-05T12:08:36.991376",
+  "classified_at": "2026-04-05T12:08:36.991376",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "01230747-abd3-40c3-9fe9-80e0238f4bab",
+  "question_text": "Name one way in which the Moon is different from the Earth.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon",
+    "Earth",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Any one of: The Moon has no atmosphere; the Moon is much smaller; the Moon is not habitable; the Moon has no liquid water on its surface; the Moon has no magnetic field; the Moon is a satellite of Earth",
+  "explanation": "There are many differences between the Earth and the Moon. Key differences include size (Earth is much larger), atmosphere (Earth has one, Moon doesn't), water (Earth has abundant liquid water, Moon doesn't), and the fact that the Moon orbits Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.earth_moon/easy",
+  "scraped_at": "2026-04-05T12:08:36.991296",
+  "classified_at": "2026-04-05T12:08:36.991296",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

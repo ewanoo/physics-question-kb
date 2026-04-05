@@ -1,0 +1,25 @@
+{
+  "id": "1ea6e2fc-865b-425f-b350-c7ec2f733ef6",
+  "question_text": "Infrared radiation is used in thermal imaging cameras. Infrared radiation has a shorter wavelength than radio waves but a longer wavelength than visible light. Based on this information, what can we say about the frequency of infrared radiation?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "infrared",
+    "frequency",
+    "wavelength relationship",
+    "analysis"
+  ],
+  "options": null,
+  "correct_answer": "Infrared radiation has a higher frequency than radio waves but a lower frequency than visible light.",
+  "explanation": "Since all electromagnetic waves travel at the same speed in a vacuum, wavelength and frequency are inversely related (longer wavelength means lower frequency). As infrared fits between radio waves and visible light in terms of wavelength, it must also fit between them in terms of frequency.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "scraped_at": "2026-04-05T12:08:18.679315",
+  "classified_at": "2026-04-05T12:08:18.679315",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

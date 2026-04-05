@@ -1,0 +1,45 @@
+{
+  "id": "482a3d50-9407-4635-99b5-8944203cc84e",
+  "question_text": "Which of the following is a definition of energy conservation?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy",
+    "conservation",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy can be created and destroyed during chemical reactions",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy cannot be created or destroyed, only transferred or transformed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Energy always increases in a closed system",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy is only found in living organisms",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The law of conservation of energy states that energy cannot be created or destroyed, but can be transferred between objects or transformed from one form to another. This is a fundamental principle of physics.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/easy",
+  "scraped_at": "2026-04-05T12:07:40.700045",
+  "classified_at": "2026-04-05T12:07:40.700045",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a4edb418-a195-4141-8007-603d6c199883",
+  "question_text": "A ball is dropped from a height. Name two forms of energy involved in this process.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy",
+    "forms",
+    "gravity"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy and kinetic energy (accept any two of: gravitational potential energy, kinetic energy, heat energy)",
+  "explanation": "As a ball falls, its gravitational potential energy decreases while its kinetic energy increases. The total mechanical energy remains constant in an ideal situation without air resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/easy",
+  "scraped_at": "2026-04-05T12:07:40.700297",
+  "classified_at": "2026-04-05T12:07:40.700297",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

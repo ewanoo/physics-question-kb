@@ -1,0 +1,24 @@
+{
+  "id": "ed783ff9-e80a-426e-a03b-d0e735a8a738",
+  "question_text": "A battery stores 600 J of chemical energy. When connected to a light bulb, it releases all its energy as light and heat. How much total energy is released by the bulb?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "calculation",
+    "conservation"
+  ],
+  "options": null,
+  "correct_answer": "600 J",
+  "explanation": "According to energy conservation, the total energy released by the bulb must equal the chemical energy stored in the battery (600 J), distributed between light and heat energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/medium",
+  "scraped_at": "2026-04-05T12:07:40.700485",
+  "classified_at": "2026-04-05T12:07:40.700485",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

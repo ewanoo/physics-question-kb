@@ -1,0 +1,24 @@
+{
+  "id": "08e76d43-bb28-4dba-88c7-e1d9b11aea30",
+  "question_text": "Explain why high-frequency sound waves have shorter wavelengths than low-frequency sound waves, even though they both travel through air at approximately the same speed.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "frequency wavelength relationship",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Since speed = frequency \u00d7 wavelength, and the speed of sound in air is approximately constant, frequency and wavelength must be inversely proportional. When frequency increases, wavelength must decrease to maintain the same speed. Therefore, high-frequency waves have shorter wavelengths and low-frequency waves have longer wavelengths.",
+  "explanation": "This requires students to apply the wave equation and understand the inverse relationship between frequency and wavelength when speed is constant. It connects mathematical reasoning to physical properties of sound.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/hard",
+  "scraped_at": "2026-04-05T12:08:00.336283",
+  "classified_at": "2026-04-05T12:08:00.336283",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

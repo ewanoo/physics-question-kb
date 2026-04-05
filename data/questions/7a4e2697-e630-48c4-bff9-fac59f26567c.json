@@ -1,0 +1,24 @@
+{
+  "id": "7a4e2697-e630-48c4-bff9-fac59f26567c",
+  "question_text": "State one material through which sound can travel.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "medium",
+    "materials"
+  ],
+  "options": null,
+  "correct_answer": "Any one of: air, water, steel, wood, glass, concrete, or other solid/liquid materials",
+  "explanation": "Sound requires a medium to travel through. Common examples include air (gases), water (liquids), and metals or wood (solids). The key is that the material must be able to transmit vibrations.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/easy",
+  "scraped_at": "2026-04-05T12:08:36.990661",
+  "classified_at": "2026-04-05T12:08:36.990661",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

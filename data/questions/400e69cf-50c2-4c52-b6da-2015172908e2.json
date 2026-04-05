@@ -1,0 +1,24 @@
+{
+  "id": "400e69cf-50c2-4c52-b6da-2015172908e2",
+  "question_text": "A water wave has a speed of 2.5 m/s in shallow water but 5 m/s in deep water. A wave with frequency 2 Hz enters from shallow water to deep water. Calculate the change in wavelength.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "multi-step",
+    "wavelength change"
+  ],
+  "options": null,
+  "correct_answer": "The wavelength increases from 1.25 m to 2.5 m, a change of 1.25 m (or increase of 1.25 m).",
+  "explanation": "In shallow water: wavelength = speed \u00f7 frequency = 2.5 \u00f7 2 = 1.25 m. In deep water: wavelength = 5 \u00f7 2 = 2.5 m. The wavelength doubles because the wave speed doubles while frequency remains constant (frequency depends only on the source, not the medium).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/hard",
+  "scraped_at": "2026-04-05T12:08:00.336209",
+  "classified_at": "2026-04-05T12:08:00.336209",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

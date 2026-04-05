@@ -1,0 +1,45 @@
+{
+  "id": "6ddf8219-afac-45bd-9e23-073f4a4d5a3a",
+  "question_text": "What is the name of the material that sound travels through?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "medium",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A vacuum",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A medium",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "An echo",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A frequency",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Sound is a mechanical wave that requires a medium (such as air, water, or solids) to travel through. Without a medium, sound cannot propagate.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/easy",
+  "scraped_at": "2026-04-05T12:08:36.990270",
+  "classified_at": "2026-04-05T12:08:36.990270",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "d93aee63-fa1d-45a7-bf90-840992463ca7",
+  "question_text": "A student observes that when a drum is struck harder, the sound appears louder. Which wave property is being changed?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "loudness",
+    "energy",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Amplitude",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Frequency",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Wavelength",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Speed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Loudness of sound is determined by amplitude\u2014the greater the amplitude, the louder the sound. Striking the drum harder creates larger vibrations (greater displacement), increasing amplitude. Frequency would change the pitch, not loudness.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/medium",
+  "scraped_at": "2026-04-05T12:08:00.336061",
+  "classified_at": "2026-04-05T12:08:00.336061",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

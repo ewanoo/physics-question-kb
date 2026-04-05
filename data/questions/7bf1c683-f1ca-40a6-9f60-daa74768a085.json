@@ -1,0 +1,45 @@
+{
+  "id": "7bf1c683-f1ca-40a6-9f60-daa74768a085",
+  "question_text": "A car engine converts chemical energy from petrol. Which statement about energy conservation is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conversion",
+    "efficiency",
+    "heat"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All chemical energy in petrol becomes kinetic energy to move the car",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Total energy is conserved but some is converted to heat and sound rather than useful motion",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Some energy is destroyed in the engine to reduce pollution",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy conservation only applies to electrical devices, not engines",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Energy is always conserved, but car engines are inefficient. Much of the chemical energy from petrol is converted to heat (through the radiator) and sound, with only a fraction becoming kinetic energy to move the car.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/hard",
+  "scraped_at": "2026-04-05T12:07:40.700998",
+  "classified_at": "2026-04-05T12:07:40.700998",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

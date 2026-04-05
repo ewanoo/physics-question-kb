@@ -1,0 +1,45 @@
+{
+  "id": "9f674a1d-87d2-45ff-af84-8549b545334e",
+  "question_text": "Which of the following colours of visible light has the shortest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "visible spectrum",
+    "wavelength",
+    "colours"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Green light",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Violet light",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Yellow light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "In the visible spectrum, violet light has the shortest wavelength (around 380-420 nm) and red light has the longest wavelength (around 620-750 nm). This is remembered using the mnemonic ROYGBIV (Red, Orange, Yellow, Green, Blue, Indigo, Violet).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.light/easy",
+  "scraped_at": "2026-04-05T12:08:18.679583",
+  "classified_at": "2026-04-05T12:08:18.679583",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

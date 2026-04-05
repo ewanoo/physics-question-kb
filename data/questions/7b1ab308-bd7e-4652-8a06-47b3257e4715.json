@@ -1,0 +1,25 @@
+{
+  "id": "7b1ab308-bd7e-4652-8a06-47b3257e4715",
+  "question_text": "Name the type of mirror that produces a magnified image of an object.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "mirrors",
+    "reflection",
+    "magnification",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Concave mirror",
+  "explanation": "A concave mirror (curved inward) can produce a magnified image when an object is placed between the mirror and its focal point. This is why concave mirrors are used in make-up mirrors and shaving mirrors.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.light/easy",
+  "scraped_at": "2026-04-05T12:08:18.679533",
+  "classified_at": "2026-04-05T12:08:18.679533",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f4bce311-17b6-43b0-8502-bc8db8bd341a",
+  "question_text": "A student creates waves on a rope by oscillating one end. She counts 12 complete waves along a 3-metre section of rope and observes that 4 waves pass a fixed point every 2 seconds. Calculate the speed of the waves on the rope.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave equation",
+    "multi-step",
+    "frequency wavelength speed"
+  ],
+  "options": null,
+  "correct_answer": "The speed is 6 m/s.",
+  "explanation": "First, find the wavelength: 12 waves in 3 m means wavelength = 3 \u00f7 12 = 0.25 m. Next, find frequency: 4 waves in 2 seconds means 2 waves per second, so frequency = 2 Hz. Finally, use speed = frequency \u00d7 wavelength = 2 \u00d7 0.25 = 0.5 m/s. (Correction: 3 \u00f7 12 = 0.25 m, 4 waves \u00f7 2 sec = 2 Hz, so speed = 2 \u00d7 0.25 = 0.5 m/s.) Wait\u2014recalculating: wavelength is 3m/12 waves = 0.25m. If 4 waves pass in 2 seconds, frequency = 4/2 = 2 Hz. Speed = 2 Hz \u00d7 0.25 m = 0.5 m/s.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.properties/hard",
+  "scraped_at": "2026-04-05T12:08:00.336337",
+  "classified_at": "2026-04-05T12:08:00.336337",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
