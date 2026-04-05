@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the name of the energy store in a wound-up spring?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "energy stores",
+    "definition recall"
+  ],
+  "options": null,
+  "correct_answer": "Elastic potential energy",
+  "explanation": "A wound-up or stretched spring stores elastic potential energy. This is the energy stored in objects that can be stretched or compressed, such as springs, rubber bands, and trampolines. When released, this energy is converted into other forms of energy, usually kinetic energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ef46c24e-6415-46a9-a187-8794be0a4f73"
+}

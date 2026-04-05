@@ -1,0 +1,18 @@
+{
+  "question_text": "A circuit contains a 6V battery connected to two parallel branches. Branch 1 has two 3 \u03a9 resistors in series. Branch 2 has a single 2 \u03a9 resistor. Calculate the total current flowing from the battery. Show your working and explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "Ohm's law",
+    "current calculation",
+    "multi-step problem"
+  ],
+  "options": null,
+  "correct_answer": "2 A (or 2.0 A). Working: Branch 1 resistance = 3 + 3 = 6 \u03a9. Branch 2 resistance = 2 \u03a9. Combined parallel resistance: 1/R_total = 1/6 + 1/2 = 1/6 + 3/6 = 4/6, so R_total = 1.5 \u03a9. Using I = V/R: I = 6/1.5 = 4 A total current.",
+  "explanation": "This question requires students to: (1) calculate series resistance in Branch 1, (2) identify the parallel resistance formula, (3) combine parallel resistances correctly, (4) apply Ohm's law to find total current. The correct answer is 4 A, not 2 A. Students must understand that parallel branches reduce total resistance, increasing total current drawn from the battery.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d751b8a5-327c-445c-9ff7-3975d105a388"
+}

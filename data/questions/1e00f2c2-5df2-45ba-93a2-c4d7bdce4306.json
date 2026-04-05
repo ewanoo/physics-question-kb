@@ -1,0 +1,41 @@
+{
+  "question_text": "A student designs two electromagnets to lift iron filings. Electromagnet A has 200 coils of wire wrapped around an iron core, connected to a 6V battery with a 2\u03a9 resistor in the circuit. Electromagnet B has 400 coils around the same iron core, connected to the same 6V battery but with a 6\u03a9 resistor instead. Which electromagnet will be stronger, and explain your reasoning by considering both the number of coils and the current flowing through the wire.",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "coils",
+    "current",
+    "magnetic strength",
+    "circuit resistance",
+    "multi-step reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electromagnet A will be stronger because it has the larger current (3A) despite having fewer coils, and current is the dominant factor",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electromagnet B will be stronger because it has double the coils, which always makes an electromagnet twice as strong regardless of current",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Electromagnet A will be stronger because although it has fewer coils (200), its current of 3A is significantly greater than electromagnet B's current of 1A, and the product of coils and current (600) is larger than B's (400)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Both electromagnets will be equally strong because they use the same battery voltage and iron core",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "This question requires students to calculate current using Ohm's Law (I = V/R) for both circuits: Electromagnet A has current = 6V \u00f7 2\u03a9 = 3A, while Electromagnet B has current = 6V \u00f7 6\u03a9 = 1A. The strength of an electromagnet depends on both the number of coils AND the current flowing through them. Electromagnet A's advantage in current (3A vs 1A) outweighs electromagnet B's advantage in coil number (400 vs 200). The magnetic strength is proportional to the product of these factors: A = 200 \u00d7 3 = 600 (arbitrary units) versus B = 400 \u00d7 1 = 400 (arbitrary units). This tests understanding of circuit analysis, electromagnet principles, and comparative reasoning.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1e00f2c2-5df2-45ba-93a2-c4d7bdce4306"
+}

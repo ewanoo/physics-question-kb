@@ -1,0 +1,38 @@
+{
+  "question_text": "A spring is stretched and then released. What type of force brings the spring back to its original shape?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "restoring_force",
+    "elastic_force",
+    "springs"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Elastic restoring force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Friction force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When a spring is stretched, it experiences an elastic restoring force that acts to return it to its original shape. This is the characteristic property of elastic materials. Magnetic, gravitational, and friction forces are not responsible for this behaviour in springs.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "026d5dc4-bbe7-41e9-bd0a-59e5fcc91457"
+}

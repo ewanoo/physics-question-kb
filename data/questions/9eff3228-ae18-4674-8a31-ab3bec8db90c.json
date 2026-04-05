@@ -1,0 +1,40 @@
+{
+  "question_text": "A hydraulic system uses two cylinders with different cross-sectional areas. Cylinder A has an area of 0.5 m\u00b2 and cylinder B has an area of 0.02 m\u00b2. A force of 500 N is applied to cylinder A. Assuming the system is ideal and no energy is lost, which statement correctly compares the pressure and force in both cylinders?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulics",
+    "pressure",
+    "force",
+    "systems",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure in both cylinders is equal at 1000 Pa, and the force in cylinder B is 20 N",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure in both cylinders is equal at 1000 Pa, and the force in cylinder B is 20,000 N",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pressure in cylinder B is greater than in cylinder A, and the force in cylinder B is 12,500 N",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure in both cylinders is equal at 250 Pa, and the force in cylinder B is 5 N",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In a hydraulic system, pressure is transmitted equally throughout the fluid. Pressure in cylinder A = Force \u00f7 Area = 500 N \u00f7 0.5 m\u00b2 = 1000 Pa. Since pressure is equal in both cylinders, pressure in cylinder B = 1000 Pa. Using P = F/A rearranged to F = P \u00d7 A: Force in cylinder B = 1000 Pa \u00d7 0.02 m\u00b2 = 20,000 N. This demonstrates the mechanical advantage of hydraulic systems.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9eff3228-ae18-4674-8a31-ab3bec8db90c"
+}

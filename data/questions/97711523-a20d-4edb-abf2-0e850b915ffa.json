@@ -1,0 +1,21 @@
+{
+  "question_text": "A pendulum is released from rest at a height of 0.8 m above its lowest point. The bob has a mass of 2 kg. At the lowest point, the bob has a velocity of 3.5 m/s rather than the theoretical maximum velocity calculated from conservation of energy (g = 10 m/s\u00b2).\n\nCalculate:\n(a) The gravitational potential energy at the release point\n(b) The kinetic energy at the lowest point (using the actual velocity)\n(c) The amount of energy dissipated as heat and sound due to friction and air resistance\n(d) What percentage of the original potential energy was lost?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy_conservation",
+    "pendulum",
+    "potential_energy",
+    "kinetic_energy",
+    "energy_loss",
+    "friction",
+    "multi_step"
+  ],
+  "options": null,
+  "correct_answer": "(a) GPE = mgh = 2 \u00d7 10 \u00d7 0.8 = 16 J\n(b) KE = \u00bdmv\u00b2 = \u00bd \u00d7 2 \u00d7 3.5\u00b2 = 1 \u00d7 12.25 = 12.25 J\n(c) Energy dissipated = GPE - KE = 16 - 12.25 = 3.75 J\n(d) Percentage lost = (3.75 \u00f7 16) \u00d7 100 = 23.4% (or approximately 23%)",
+  "explanation": "This multi-step problem requires students to: (1) calculate initial gravitational potential energy; (2) calculate actual kinetic energy using measured velocity; (3) apply conservation of energy to find the difference (dissipated energy); and (4) express this as a percentage. The key insight is recognizing that the difference between theoretical and actual kinetic energy represents energy transferred to the surroundings. Students must understand that real-world energy conservation accounts for non-conservative forces and that total energy is conserved even when mechanical energy decreases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "97711523-a20d-4edb-abf2-0e850b915ffa"
+}

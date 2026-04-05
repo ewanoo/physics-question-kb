@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the definition of power in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "definition",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The rate at which energy is transferred or work is done",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The total amount of energy in a system",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The speed at which an object is moving",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force applied to an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Power is defined as the rate at which energy is transferred or work is done. It measures how quickly energy is being used or transferred. The SI unit of power is the Watt (W).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c1435952-ba62-48fb-99e9-81645cd1285f"
+}

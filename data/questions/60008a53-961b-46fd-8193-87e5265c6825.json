@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is the primary source of energy for living organisms?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "food chains",
+    "living organisms"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sunlight",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Food",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Food is the primary source of energy for living organisms. When organisms eat food, they obtain chemical energy that their bodies can use for growth, movement, and other life processes. While plants initially obtain energy from sunlight through photosynthesis, animals obtain their energy by consuming food.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "60008a53-961b-46fd-8193-87e5265c6825"
+}

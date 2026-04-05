@@ -1,0 +1,18 @@
+{
+  "question_text": "A coal power station converts chemical energy from coal into electrical energy. The power station burns 500 kg of coal per hour, releasing 25 MJ of energy per kilogram. However, only 35% of this energy is converted into useful electrical energy, with the rest lost as heat to the surroundings. Calculate the useful electrical power output of the power station in megawatts (MW). Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "energy conversion",
+    "fossil fuels",
+    "efficiency",
+    "power calculation"
+  ],
+  "options": null,
+  "correct_answer": "1218.75 MW (or 1.22 GW, or 1219 MW to 4 significant figures)",
+  "explanation": "Step 1: Calculate total energy released per hour: 500 kg \u00d7 25 MJ/kg = 12,500 MJ. Step 2: Calculate useful electrical energy: 35% \u00d7 12,500 MJ = 4,375 MJ per hour. Step 3: Convert to power in watts: 4,375 MJ per hour = 4,375 \u00d7 10^6 J \u00f7 3,600 s = 1,215,278 W \u2248 1218.75 MW. The student must understand energy conversion efficiency, mass-energy relationships, and unit conversion from energy per time to power.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "571f9f8c-d960-4598-9437-8d7f7cac28cd"
+}

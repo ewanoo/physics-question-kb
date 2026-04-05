@@ -1,0 +1,17 @@
+{
+  "question_text": "What is meant by the term 'fossil fuel'?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "definitions",
+    "non-renewable"
+  ],
+  "options": null,
+  "correct_answer": "A fossil fuel is a fuel formed from the remains of dead organisms (plants and animals) that died millions of years ago and have been buried and compressed under the Earth's surface.",
+  "explanation": "This is a definition question testing understanding of what fossil fuels are. Students should understand that fossil fuels like coal, oil, and natural gas come from ancient organic matter that has been fossilized over millions of years. Accept answers that convey the key idea that fossil fuels are made from dead organisms from long ago.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "28307669-9c56-417d-9633-f8dc609a6a86"
+}

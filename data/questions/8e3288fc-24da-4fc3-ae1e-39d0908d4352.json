@@ -1,0 +1,17 @@
+{
+  "question_text": "A cyclist travels 240 metres in 30 seconds at a constant speed. Calculate the speed of the cyclist in metres per second (m/s).",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed calculation",
+    "distance",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "8 m/s",
+  "explanation": "Speed is calculated using the formula: speed = distance \u00f7 time. In this case: speed = 240 m \u00f7 30 s = 8 m/s. This is a straightforward application of the speed equation where students must divide distance by time to find the constant speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8e3288fc-24da-4fc3-ae1e-39d0908d4352"
+}

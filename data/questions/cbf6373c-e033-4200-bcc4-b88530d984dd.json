@@ -1,0 +1,17 @@
+{
+  "question_text": "A force of 10 N is applied perpendicular to a lever at a distance of 0.5 m from the pivot. Calculate the moment produced. (Give your answer in N\u22c5m)",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment calculation",
+    "formula",
+    "lever"
+  ],
+  "options": null,
+  "correct_answer": "5 N\u22c5m",
+  "explanation": "Moment is calculated using the formula: Moment (N\u22c5m) = Force (N) \u00d7 Perpendicular distance from pivot (m). Therefore: Moment = 10 N \u00d7 0.5 m = 5 N\u22c5m. This is a straightforward application of the moment formula with no complications.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cbf6373c-e033-4200-bcc4-b88530d984dd"
+}

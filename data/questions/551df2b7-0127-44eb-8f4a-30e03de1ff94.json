@@ -1,0 +1,20 @@
+{
+  "question_text": "A student investigates how pressure changes with depth in water. She measures the pressure at three different depths: 2 m (pressure = 120,000 Pa), 4 m (pressure = 140,000 Pa), and 6 m (pressure = 160,000 Pa). The atmospheric pressure at the water surface is 100,000 Pa, and the density of water is 1000 kg/m\u00b3. Evaluate whether the pressure increases linearly with depth and explain any discrepancies you find. Use the equation P = \u03c1gh to support your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "depth",
+    "water",
+    "linear relationship",
+    "evaluation",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "The pressure does increase with depth, but the pattern suggests either experimental error or the data doesn't show a purely linear relationship. Using P = \u03c1gh: at 2 m, pressure due to water = 1000 \u00d7 10 \u00d7 2 = 20,000 Pa, total = 120,000 Pa \u2713; at 4 m, pressure due to water = 1000 \u00d7 10 \u00d7 4 = 40,000 Pa, total = 140,000 Pa \u2713; at 6 m, pressure due to water = 1000 \u00d7 10 \u00d7 6 = 60,000 Pa, total = 160,000 Pa \u2713. All measurements are consistent with the equation. The data is linear (pressure increases by 20,000 Pa for every 2 m depth), confirming that pressure increases linearly with depth in water.",
+  "explanation": "This question requires students to: (1) recall the relationship between pressure and depth, (2) perform calculations using P = \u03c1gh, (3) check experimental data against theoretical predictions, and (4) evaluate whether a linear relationship exists. Students must calculate expected pressures at each depth and compare them to the measurements. The data confirms the linear relationship, where each 2 m increase in depth adds 20,000 Pa of pressure from the water column alone (plus atmospheric pressure at the surface).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "551df2b7-0127-44eb-8f4a-30e03de1ff94"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A light bulb transfers 600 joules of energy in 3 seconds. Calculate the power of the light bulb.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "calculation",
+    "energy",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "200 W (watts)",
+  "explanation": "Power is calculated using the formula: Power = Energy \u00f7 Time. In this case: Power = 600 J \u00f7 3 s = 200 W. This is a straightforward application of the power formula where students divide the total energy transferred by the time taken.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "46bd1a62-a2d2-4b8b-a4ad-0e4a4285b4ee"
+}

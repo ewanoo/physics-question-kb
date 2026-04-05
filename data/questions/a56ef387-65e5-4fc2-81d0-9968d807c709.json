@@ -1,0 +1,17 @@
+{
+  "question_text": "A light bulb is switched on for 30 seconds and transfers 6000 joules of energy. Calculate the power of the light bulb.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "energy",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "200 W",
+  "explanation": "Power is calculated using the formula: Power = Energy \u00f7 Time. In this case, Power = 6000 J \u00f7 30 s = 200 W. This is a straightforward one-step calculation where students must apply the power formula to find the rate of energy transfer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a56ef387-65e5-4fc2-81d0-9968d807c709"
+}

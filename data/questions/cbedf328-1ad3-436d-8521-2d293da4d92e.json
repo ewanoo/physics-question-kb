@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is a renewable energy resource?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "energy resources",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Solar energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Natural gas",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Uranium",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Solar energy is a renewable energy resource because it comes from the sun and will not run out in the foreseeable future. Coal, natural gas, and uranium are non-renewable fossil fuels or radioactive materials that have limited supplies.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cbedf328-1ad3-436d-8521-2d293da4d92e"
+}

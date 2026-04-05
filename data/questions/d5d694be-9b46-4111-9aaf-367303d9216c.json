@@ -1,0 +1,19 @@
+{
+  "question_text": "A spring with a spring constant of 200 N/m is stretched by 0.15 m. A second spring is then connected in parallel (side-by-side) with the first spring, and together they are stretched by 0.10 m while supporting the same total load. Calculate the spring constant of the second spring. Show your working and explain why springs in parallel require a different analysis than springs in series.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "parallel springs",
+    "Hooke's Law",
+    "problem-solving",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Spring 2 has a spring constant of 100 N/m. Working: For spring 1 alone: F = 200 \u00d7 0.15 = 30 N. When springs are in parallel, they share the load but both stretch by the same amount (0.10 m). So F_total = 30 N (same load). For spring 2: F_2 = k_2 \u00d7 0.10, and since they're in parallel k_total = k_1 + k_2, therefore 300 = 200 + k_2, so k_2 = 100 N/m. In parallel, springs extend equally but share the force, whereas in series they carry the same force but extend differently.",
+  "explanation": "This problem requires multi-step reasoning: (1) Calculate the original force from spring 1's extension, (2) Recognize that in parallel springs the combined force equals the sum of individual forces while extension is the same, (3) Use the combined spring constant formula for parallel springs (k_total = k_1 + k_2), (4) Solve for the unknown spring constant, and (5) Compare with series behavior. The key insight is that parallel springs act as if they're stiffer (larger combined k) because forces add, while series springs act as if they're more flexible (smaller combined k) because the same force distributes across both.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d5d694be-9b46-4111-9aaf-367303d9216c"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "A student investigates Hooke's Law using two different springs, A and B. Spring A has a spring constant of 50 N/m, and spring B has a spring constant of 100 N/m. The student applies the same force to both springs and measures the extension. They then connect both springs in series (end-to-end) and apply the same force again. Which of the following correctly compares the total extension of the springs in series to the individual extensions?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "Hooke's Law",
+    "series springs",
+    "comparative analysis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The series extension equals the sum of individual extensions (spring A extension + spring B extension)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The series extension is greater than the sum of individual extensions because springs weaken when connected",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The series extension equals the sum of individual extensions, proving that springs in series behave as if they have a combined spring constant of 150 N/m",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The series extension is greater than either individual extension, but the equivalent spring constant (approximately 33.3 N/m) is less than either spring alone",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When springs are connected in series, the same force acts through each spring, but each spring extends according to F = ke. For series springs, 1/k_total = 1/k_A + 1/k_B, so 1/k_total = 1/50 + 1/100 = 3/100, giving k_total \u2248 33.3 N/m. Since the spring constant is smaller, the total extension is larger than either individual extension. The total extension equals the sum of individual extensions because the force is the same throughout the chain.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8d1718e8-3f21-49c2-bb8f-21507276c832"
+}

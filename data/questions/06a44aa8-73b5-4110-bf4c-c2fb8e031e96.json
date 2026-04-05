@@ -1,0 +1,19 @@
+{
+  "question_text": "Compare nuclear power and wind power as energy resources for generating electricity. In your answer, consider at least three of the following factors: reliability, environmental impact, cost of setup, waste products, and renewable status. Which would you recommend as the primary energy source for the UK in 2050? Justify your reasoning with evidence.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "non-renewable energy",
+    "evaluation",
+    "extended reasoning",
+    "sustainability"
+  ],
+  "options": null,
+  "correct_answer": "A comprehensive answer should include: Nuclear advantages (reliable baseload power, no CO2 emissions during operation, high energy density) and disadvantages (radioactive waste storage, high initial costs, long build times); Wind advantages (renewable, low operating costs, no emissions) and disadvantages (intermittent/unreliable, visual impact, requires storage solutions). A justified recommendation should acknowledge that a mixed approach combining both sources, plus other renewables, is likely optimal. Accept either well-justified position (nuclear-focused, wind-focused, or mixed) with supporting evidence.",
+  "explanation": "This is a hard question because it requires students to: (1) recall and compare multiple characteristics of two different energy resources, (2) critically evaluate trade-offs between different factors, (3) weigh evidence to form a reasoned judgment, and (4) communicate their reasoning clearly. It tests higher-order thinking beyond simple recall, requiring synthesis of knowledge and evaluation skills appropriate for high-achieving Year 8 students. Answers demonstrating understanding that real-world energy solutions are complex and multi-faceted score highest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "06a44aa8-73b5-4110-bf4c-c2fb8e031e96"
+}

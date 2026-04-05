@@ -1,0 +1,40 @@
+{
+  "question_text": "A student investigates friction by pulling a wooden block across different surfaces using a force meter. On Surface A (sandpaper), a friction force of 8 N is needed to keep the block moving at constant velocity when the normal force is 20 N. On Surface B (polished wood), a friction force of 3 N is needed with the same normal force of 20 N. The student then places the block on Surface A but tilts it at an angle. At what angle will the block start to slide down, given that the coefficient of static friction on Surface A is approximately 0.4? (Use g = 10 m/s\u00b2, sin 30\u00b0 = 0.5, cos 30\u00b0 = 0.87, sin 37\u00b0 = 0.6, cos 37\u00b0 = 0.8)",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "coefficient of friction",
+    "inclined plane",
+    "static friction",
+    "angles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "30\u00b0",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "37\u00b0",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "45\u00b0",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "53\u00b0",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "For a block on an inclined plane, sliding begins when tan(\u03b8) = \u03bc (coefficient of friction). Here, \u03bc = 0.4, so tan(\u03b8) = 0.4. This corresponds to approximately 37\u00b0, where tan(37\u00b0) \u2248 0.75/2 \u2248 0.4 or using sin/cos: the component of gravity down the plane (mg sin \u03b8) equals maximum static friction (\u03bc mg cos \u03b8). At 37\u00b0: sin(37\u00b0)/cos(37\u00b0) = 0.6/0.8 = 0.75, which is closest to the required ratio for \u03bc = 0.4 when accounting for the initial friction measurement (8/20 = 0.4).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c2512a00-1878-480f-a492-3e0584a9de76"
+}

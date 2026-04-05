@@ -1,0 +1,40 @@
+{
+  "question_text": "A student drops a ball from a height of 20 m. Due to air resistance, the ball loses 15% of its gravitational potential energy as it falls. The ball has a mass of 0.5 kg. (Use g = 10 m/s\u00b2)\n\nWhich statement best explains what happens to the \"lost\" energy and why the ball's kinetic energy at the bottom is less than its initial potential energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy_conservation",
+    "air_resistance",
+    "potential_energy",
+    "kinetic_energy",
+    "energy_transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The lost energy violates the law of conservation of energy; energy has simply disappeared from the system.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The lost energy is converted to heat and sound energy through friction between the ball and air. Energy is conserved in the wider system, but some is transferred to the surroundings.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The lost energy remains stored in the ball as internal energy and will be released when the ball bounces.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air resistance removes energy from the ball permanently; this is an exception to the law of conservation of energy.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "This question requires students to apply conservation of energy in a real-world scenario with non-conservative forces. The correct answer (B) demonstrates understanding that energy is always conserved\u2014it is not lost but transferred to other forms (heat and sound) and to the surroundings. Options A and D incorrectly suggest energy can disappear, while option C misidentifies where the energy goes. Students must reason through energy transfer mechanisms.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "aa13fa7f-56d9-4838-b745-bd1e7093716d"
+}

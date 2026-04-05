@@ -1,0 +1,39 @@
+{
+  "question_text": "What is pressure defined as?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "pressure",
+    "force",
+    "area"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of force applied to an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The force applied per unit area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object divided by its mass",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The distance a force travels over time",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Pressure is defined as force per unit area. It shows how concentrated a force is over a surface. The formula is: Pressure = Force \u00f7 Area.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a01947ee-7273-404e-987c-64bda691e5a8"
+}

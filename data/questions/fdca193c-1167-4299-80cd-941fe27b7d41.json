@@ -1,0 +1,19 @@
+{
+  "question_text": "Calculate the pressure when a force of 60 N is applied over an area of 3 m\u00b2. (Pressure = Force \u00f7 Area)",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "calculation",
+    "pressure",
+    "force",
+    "area",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "20 Pa (or 20 N/m\u00b2)",
+  "explanation": "Using the formula Pressure = Force \u00f7 Area: Pressure = 60 N \u00f7 3 m\u00b2 = 20 Pa (pascals). The unit for pressure is pascals (Pa) or newtons per square metre (N/m\u00b2).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fdca193c-1167-4299-80cd-941fe27b7d41"
+}

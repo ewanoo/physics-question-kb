@@ -1,0 +1,18 @@
+{
+  "question_text": "Two students, Alex and Jordan, each eat an identical lunch containing 3000 kJ of energy. Alex sits doing homework for 4 hours (using 100 kJ per hour), while Jordan plays football for 2 hours (using 800 kJ per hour) and then sits for 2 hours (using 100 kJ per hour). Which student will store more energy as fat, and by how much? Explain your reasoning using the principle of energy balance.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy balance",
+    "comparing energy",
+    "extended reasoning",
+    "lifestyle factors"
+  ],
+  "options": null,
+  "correct_answer": "Alex will store more energy as fat by 1200 kJ (approximately 32 grams of fat). Alex uses 400 kJ total (100 \u00d7 4), leaving 2600 kJ stored. Jordan uses 1800 kJ (800 \u00d7 2 + 100 \u00d7 2), leaving 1200 kJ stored. The difference is 2600 - 1200 = 1400 kJ stored by Alex compared to Jordan. Energy balance shows that when energy intake exceeds energy expenditure, the excess is stored as fat. Jordan's higher activity level increases energy expenditure, so less energy is available for storage.",
+  "explanation": "This question requires students to: (1) calculate energy expenditure for different activities, (2) apply the energy balance equation (energy in - energy out = energy stored), (3) compare two scenarios, and (4) explain the biological principle behind fat storage. It tests understanding that different activities use different amounts of energy and how lifestyle affects energy storage.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d3c63391-73a2-4ec4-9aff-215f40c57cc6"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "A student rubs a balloon on their hair and it becomes negatively charged. Which statement best explains why the balloon attracts small pieces of paper?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "charge",
+    "attraction",
+    "induction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The paper becomes positively charged and is attracted to the negative balloon",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The negative charge on the balloon induces a positive charge on the near side of the paper, causing attraction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The paper is repelled by the balloon's negative charge",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The balloon transfers electrons to the paper, making them both positively charged",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When a negatively charged object comes near a neutral conductor like paper, the negative charge on the balloon repels electrons in the paper away from the near side. This leaves a net positive charge on the side closest to the balloon, causing electrostatic attraction. The paper remains overall neutral but has an induced charge distribution.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "51ee279d-4ee6-4ac4-bff1-c32fa7200559"
+}

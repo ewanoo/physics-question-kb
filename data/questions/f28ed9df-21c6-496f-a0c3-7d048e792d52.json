@@ -1,0 +1,17 @@
+{
+  "question_text": "What is energy efficiency?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "definition",
+    "efficiency",
+    "energy"
+  ],
+  "options": null,
+  "correct_answer": "Energy efficiency is the ratio of useful energy output to total energy input, or the measure of how much useful work an appliance or device produces compared to the total energy it uses.",
+  "explanation": "Energy efficiency describes how well a device converts the energy it receives into useful energy. A more efficient device wastes less energy as heat or other forms.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f28ed9df-21c6-496f-a0c3-7d048e792d52"
+}

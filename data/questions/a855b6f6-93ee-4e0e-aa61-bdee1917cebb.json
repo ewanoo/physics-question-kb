@@ -1,0 +1,38 @@
+{
+  "question_text": "A student builds a circuit with three identical resistors. In Circuit A, all three resistors are connected in series. In Circuit B, two resistors are connected in parallel, and this combination is then connected in series with the third resistor. If the total resistance in Circuit A is 12 \u03a9, what is the total resistance in Circuit B?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series and parallel circuits",
+    "resistance",
+    "multi-step problem"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "2 \u03a9",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "6 \u03a9",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "8 \u03a9",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "10 \u03a9",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In Circuit A, three identical resistors in series: R_total = R + R + R = 3R = 12 \u03a9, so each resistor R = 4 \u03a9. In Circuit B, two 4 \u03a9 resistors in parallel: 1/R_parallel = 1/4 + 1/4 = 2/4, so R_parallel = 2 \u03a9. Then this is in series with the third 4 \u03a9 resistor: R_total = 2 + 4 = 6 \u03a9.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a855b6f6-93ee-4e0e-aa61-bdee1917cebb"
+}

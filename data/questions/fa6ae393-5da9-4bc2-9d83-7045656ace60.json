@@ -1,0 +1,19 @@
+{
+  "question_text": "A student investigates friction by pulling a wooden block across different surfaces at constant velocity. On surface A (rough carpet), a force of 8 N is needed. On surface B (polished wood), a force of 3 N is needed. The block has a weight of 20 N on both surfaces. Explain why different forces are required and calculate the coefficient of friction for each surface. Which surface has the greater friction and why might this be important when designing floors in a hospital?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "friction",
+    "normal_force",
+    "coefficient_of_friction",
+    "real-world_application",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Surface A (carpet) requires 8 N because it has a higher coefficient of friction (\u03bc = 8\u00f720 = 0.4) compared to surface B (\u03bc = 3\u00f720 = 0.15). Surface A has greater friction due to its rougher surface texture creating more contact points. In a hospital, higher friction on floors is important to prevent slipping hazards, reduce accidents, and improve safety for patients, staff, and equipment movement.",
+  "explanation": "This question requires students to: (1) understand that friction depends on both normal force and surface properties, (2) calculate coefficient of friction using F=\u03bcN, (3) compare results across surfaces, and (4) apply physics concepts to a real-world safety scenario. It tests extended reasoning by requiring explanation of causes and practical implications.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fa6ae393-5da9-4bc2-9d83-7045656ace60"
+}

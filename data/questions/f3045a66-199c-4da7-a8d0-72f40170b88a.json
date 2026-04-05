@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is the main reason why fossil fuels are considered non-renewable energy resources?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "renewable vs non-renewable",
+    "resource depletion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They produce too much pollution when burned",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They take millions of years to form, so they are used up faster than they are replaced",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They are only found in certain countries",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They cannot be transported easily",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Fossil fuels (coal, oil, natural gas) are non-renewable because they take millions of years to form from dead organisms, while we consume them much faster than nature can replenish them. This makes them a finite resource on human timescales, unlike renewable resources such as solar or wind energy that can be continuously replenished.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f3045a66-199c-4da7-a8d0-72f40170b88a"
+}

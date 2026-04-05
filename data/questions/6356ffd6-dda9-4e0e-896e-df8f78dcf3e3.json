@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes the Law of Conservation of Energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "definition",
+    "fundamental principle"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy can be created and destroyed in any process",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy cannot be created or destroyed, only transferred or transformed from one form to another",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Energy always increases in any system",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy can only exist in the form of heat",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Law of Conservation of Energy states that energy cannot be created or destroyed; it can only be transferred between objects or transformed from one form to another. This is a fundamental principle in physics.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6356ffd6-dda9-4e0e-896e-df8f78dcf3e3"
+}

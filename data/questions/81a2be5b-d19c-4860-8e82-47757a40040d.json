@@ -1,0 +1,20 @@
+{
+  "question_text": "An electromagnet is used in a scrapyard to lift scrap metal. When the electromagnet is switched on using a 12V power supply, it successfully lifts 50 kg of iron. A technician wants to upgrade the system to lift 200 kg (four times heavier) using the same power supply and iron core. Suggest two different modifications they could make to the electromagnet circuit to achieve this, and explain why each modification would increase the lifting force. Which modification would be more practical and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "practical application",
+    "circuit modification",
+    "current",
+    "coils",
+    "design evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Two valid modifications: (1) Increase the number of coils wound around the iron core\u2014doubling the coils doubles magnetic strength, so quadrupling them would quadruple the lifting force. (2) Reduce circuit resistance to increase current flowing through the coils\u2014reducing resistance by a factor of 4 (via Ohm's Law) quadruples current and thus magnetic strength. The more practical modification is reducing circuit resistance because: it requires minimal physical changes to the electromagnet, avoids time-consuming coil rewinding, works with the existing power supply, and only requires circuit adjustments.",
+  "explanation": "This extended-reasoning question requires students to: (1) understand that electromagnet strength depends on both coil number and current, (2) apply Ohm's Law to show how resistance reduction increases current, (3) calculate that quadrupling strength requires either 4\u00d7 coils or 4\u00d7 current, (4) evaluate the practical trade-offs between modifications, and (5) provide reasoned justification for their choice. This assesses deeper understanding of electromagnet design and real-world engineering considerations beyond simple recall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "81a2be5b-d19c-4860-8e82-47757a40040d"
+}

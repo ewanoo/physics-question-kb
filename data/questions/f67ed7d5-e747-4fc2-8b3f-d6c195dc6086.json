@@ -1,0 +1,18 @@
+{
+  "question_text": "A polythene rod is rubbed with a cloth and gains 240 excess electrons. Calculate the total charge gained by the rod. (The charge of one electron is 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "charge calculation",
+    "electrons",
+    "quantitative"
+  ],
+  "options": null,
+  "correct_answer": "-3.84 \u00d7 10\u207b\u00b9\u2077 C or -38.4 \u00d7 10\u207b\u00b9\u2078 C (negative sign indicates negative charge)",
+  "explanation": "To find the total charge, multiply the number of electrons by the charge of one electron: Q = n \u00d7 e = 240 \u00d7 1.6 \u00d7 10\u207b\u00b9\u2079 C = 384 \u00d7 10\u207b\u00b9\u2079 C = 3.84 \u00d7 10\u207b\u00b9\u2077 C. Since electrons carry negative charge, the polythene rod gains a charge of -3.84 \u00d7 10\u207b\u00b9\u2077 C. This is a one-step multiplication calculation applying the concept of charge quantization.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f67ed7d5-e747-4fc2-8b3f-d6c195dc6086"
+}

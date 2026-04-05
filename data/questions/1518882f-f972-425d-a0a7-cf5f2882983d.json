@@ -1,0 +1,38 @@
+{
+  "question_text": "A student uses a 2000 W kettle to boil water. Which of the following best describes what the power rating tells us?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy transfer",
+    "electrical appliances"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The kettle uses 2000 joules of energy every second",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The kettle converts 2000 joules into heat energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The kettle weighs 2000 watts",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The kettle takes 2000 seconds to boil water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Power is defined as the rate of energy transfer, measured in watts (W). A power rating of 2000 W means the kettle transfers 2000 joules of energy every second (since 1 W = 1 J/s). Option B is incomplete as it doesn't mention the time aspect. Option C confuses watts with mass (kilograms), and option D confuses power with time.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1518882f-f972-425d-a0a7-cf5f2882983d"
+}

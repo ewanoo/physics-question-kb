@@ -1,0 +1,18 @@
+{
+  "question_text": "A solar panel receives 1000 W of solar energy from the Sun. If the panel has an efficiency of 20%, how much electrical energy does it produce?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "solar power",
+    "efficiency",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "200 W",
+  "explanation": "To find the electrical energy produced, multiply the input energy by the efficiency: 1000 W \u00d7 20% = 1000 W \u00d7 0.20 = 200 W. This demonstrates that not all solar energy is converted to electricity due to energy losses.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0de7456a-d059-4cd9-a237-782f7bc443b6"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following represents the BEST example of an energy-efficient device?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "appliances",
+    "energy_waste"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "An old incandescent light bulb that produces light but generates a lot of heat",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An LED light bulb that produces bright light using very little electrical energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A kettle that takes 10 minutes to boil water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A refrigerator that leaves the door open",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "LED bulbs are much more energy-efficient than incandescent bulbs because they convert a higher proportion of electrical energy into useful light and waste less energy as heat. Option B represents the best efficiency.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6f2938c1-b0e8-49bf-86d1-8d6ac6b906ac"
+}

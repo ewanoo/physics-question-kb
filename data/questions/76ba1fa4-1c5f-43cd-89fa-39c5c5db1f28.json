@@ -1,0 +1,38 @@
+{
+  "question_text": "What is a moment in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "definition",
+    "moment",
+    "turning effect"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The turning effect of a force about a pivot or fulcrum",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The speed at which an object is moving",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The amount of matter in an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force pushing an object forward",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A moment is defined as the turning effect produced by a force acting at a distance from a pivot point. This is a key concept in understanding rotational forces and how levers work.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "76ba1fa4-1c5f-43cd-89fa-39c5c5db1f28"
+}

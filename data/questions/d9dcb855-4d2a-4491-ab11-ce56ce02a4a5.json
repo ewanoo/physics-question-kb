@@ -1,0 +1,16 @@
+{
+  "question_text": "Define what voltage is in an electrical circuit.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Voltage is the potential difference (or energy per unit charge) between two points in a circuit. It is the 'push' that drives electric current around the circuit.",
+  "explanation": "Voltage is a key concept in electricity - it represents the energy given to each unit of charge by the power source. It is measured in volts (V) and can be thought of as the 'electrical pressure' that causes current to flow.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d9dcb855-4d2a-4491-ab11-ce56ce02a4a5"
+}

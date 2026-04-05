@@ -1,0 +1,20 @@
+{
+  "question_text": "Two identical blocks are placed on a horizontal surface. Block X is pulled with a constant force of 15 N and slides across a rough surface with kinetic friction coefficient of 0.3. Block Y is pushed downward at an angle of 30\u00b0 below the horizontal with a force of 18 N on the same rough surface. Both blocks have a mass of 5 kg. (g = 10 m/s\u00b2) Calculate the acceleration of each block and explain which block accelerates faster and why. The friction force depends on the normal force between the surfaces.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "normal force",
+    "applied force",
+    "acceleration",
+    "force components",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Block X: Normal force = 50 N, Friction = 15 N, Net force = 0 N, Acceleration = 0 m/s\u00b2. Block Y: Normal force = 50 + 18 sin(30\u00b0) = 59 N, Friction = 17.7 N, Applied horizontal component = 18 cos(30\u00b0) = 15.6 N, Net force = 15.6 - 17.7 = -2.1 N. Block Y cannot accelerate forward; it would decelerate or not move. Block X moves at constant velocity. Neither accelerates, but this reveals that the downward component of the force on Block Y increases the normal force, thereby increasing friction, which opposes the reduced horizontal component of the applied force.",
+  "explanation": "This problem requires students to: (1) resolve forces into components when applied at an angle, (2) calculate normal forces considering all vertical forces, (3) calculate friction using the normal force, (4) find net force and acceleration, and (5) compare scenarios. For Block X, the pulling force equals the kinetic friction (15 N = 0.3 \u00d7 50 N), resulting in zero net force. For Block Y, the downward angle increases the normal force from 50 N to 59 N, increasing friction to 17.7 N, while the horizontal component is only 15.6 N. This demonstrates how the direction of applied force critically affects motion through its effect on normal force and the friction force it generates.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d48acf26-d847-4ff5-b835-487d83b7d58b"
+}

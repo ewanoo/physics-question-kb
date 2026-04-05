@@ -1,0 +1,41 @@
+{
+  "question_text": "A car of mass 1000 kg is being towed up a steep hill by a rope. The rope makes an angle of 30\u00b0 above the horizontal. The tension in the rope is 6000 N. Assuming the car moves at constant velocity (no acceleration), which statement best explains the forces acting on the car and why the car moves at constant velocity rather than accelerating?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "tension",
+    "friction",
+    "gravity",
+    "resultant_force",
+    "equilibrium",
+    "components"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The tension force alone is enough to overcome gravity and pull the car up the hill, so the car accelerates upward at constant rate.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The horizontal component of tension (5196 N) is balanced by friction and the component of weight along the hill (4905 N), resulting in zero resultant force, so the car moves at constant velocity.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The tension force is completely offset by the weight of the car, so there are no unbalanced forces and the car remains stationary.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The vertical component of tension (3000 N) reduces the normal force, which decreases friction enough that the car accelerates up the hill.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "This question requires students to: (1) resolve the tension force into components (6000 \u00d7 cos30\u00b0 \u2248 5196 N horizontal; 6000 \u00d7 sin30\u00b0 = 3000 N vertical), (2) calculate the component of weight along the slope (1000 \u00d7 10 \u00d7 sin30\u00b0 = 5000 N), (3) understand that constant velocity means zero acceleration and therefore balanced forces, and (4) recognize that friction and gravity components together equal the driving component of tension. It tests understanding of force resolution, equilibrium, and Newton's First Law applied to an angled scenario.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "22edaf50-6ef6-4c30-882b-01bfffd3f9bd"
+}

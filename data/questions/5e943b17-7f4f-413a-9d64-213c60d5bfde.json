@@ -1,0 +1,38 @@
+{
+  "question_text": "A car travels at a constant speed of 15 m/s for 8 seconds. Which of the following best describes the motion of the car during this time?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "constant speed",
+    "motion",
+    "kinematics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The car is accelerating because it is moving",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The car is moving at a constant velocity with no acceleration",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The car must be experiencing an unbalanced force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The car's speed is increasing at a rate of 15 m/s\u00b2",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When an object travels at a constant speed in a straight line, it is moving at constant velocity and has zero acceleration. According to Newton's first law, this means the forces acting on the car are balanced (net force = 0). There is no acceleration occurring.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5e943b17-7f4f-413a-9d64-213c60d5bfde"
+}

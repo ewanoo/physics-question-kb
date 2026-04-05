@@ -1,0 +1,17 @@
+{
+  "question_text": "What do we call the energy stored in food?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "chemical energy",
+    "food energy",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy",
+  "explanation": "The energy stored in food is called chemical energy. This is energy that is stored in the chemical bonds of food molecules. When organisms digest and break down food, this chemical energy is released and can be used by cells to power life processes such as movement, growth, and maintaining body temperature.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b7e345ff-691e-410c-88a4-e077545cd159"
+}

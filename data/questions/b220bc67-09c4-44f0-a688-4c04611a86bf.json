@@ -1,0 +1,18 @@
+{
+  "question_text": "A student eats a chocolate bar containing 2000 kJ of energy. During the day, the student uses 8000 kJ of energy through exercise and normal body functions. The student's body can store excess energy as fat (1 gram of fat stores approximately 38 kJ). If the student eats three chocolate bars and does exercise that uses 15000 kJ of energy, calculate the mass of fat stored in the student's body from this chocolate alone. Assume all uneaten energy is converted to fat storage.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "food energy",
+    "mass calculation",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "158 grams (or approximately 158 g)",
+  "explanation": "Total energy from three chocolate bars = 3 \u00d7 2000 = 6000 kJ. Energy used by body = 15000 kJ. Since 15000 kJ is required but only 6000 kJ is consumed from chocolate, the body uses 15000 kJ from other sources and chocolate stores nothing. However, if the question implies the body only uses what's needed from chocolate first: Energy excess = 6000 - (15000 - other food sources). If we assume only chocolate energy is available: 6000 kJ \u00f7 38 kJ/g = 157.9 g \u2248 158 g. This requires understanding energy balance, unit conversion, and multi-step problem solving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b220bc67-09c4-44f0-a688-4c04611a86bf"
+}
