@@ -1,0 +1,19 @@
+{
+  "id": "bf047b94-c915-4da0-8fd8-766cb6a144b8",
+  "question_text": "Use the data provided to determine the order of planets from the Sun and explain your reasoning: Jupiter (orbital period 12 years), Mercury (88 days), Earth (365 days), Saturn (29 years). You may include other planets you know.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital period",
+    "distance",
+    "order",
+    "planets",
+    "analysis"
+  ],
+  "options": null,
+  "correct_answer": "Order from Sun: Mercury, Earth, Jupiter, Saturn (correct relative order). Reasoning: planets closer to the Sun orbit faster and have shorter orbital periods. Mercury (88 days) is closest, Earth (365 days) is second, Jupiter (12 years) is further, Saturn (29 years) is furthest.",
+  "explanation": "There is a clear pattern: the closer a planet is to the Sun, the faster it orbits and the shorter its orbital period. Mercury's 88-day orbit means it's closest; Saturn's 29-year orbit means it's very far. This relationship is called Kepler's Third Law\u2014orbital period increases with distance from the Sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

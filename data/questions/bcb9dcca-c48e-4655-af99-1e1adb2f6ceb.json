@@ -1,0 +1,38 @@
+{
+  "id": "bcb9dcca-c48e-4655-af99-1e1adb2f6ceb",
+  "question_text": "Which of these objects is NOT a planet in our Solar System?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "solar system",
+    "identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Jupiter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pluto",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Saturn",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Neptune",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Pluto was reclassified as a 'dwarf planet' in 2006 because it is much smaller than Earth's Moon and hasn't cleared its orbital path of other objects. Jupiter, Saturn, and Neptune are all full planets.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4ae3ed2e-4960-454a-ba31-3601513c8ade",
+  "question_text": "If the Earth's axis tilt were increased from 23.5\u00b0 to 45\u00b0, how would this affect the seasons?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "axis tilt",
+    "climate",
+    "extreme"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Seasons would be less extreme, with milder summers and winters",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Seasons would remain unchanged because tilt direction matters, not the angle",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Seasons would be much more extreme, with much hotter summers and colder winters",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "There would be no seasons at all",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A larger tilt would mean the hemisphere tilted towards the Sun would receive much more direct energy (very hot summers), and the hemisphere tilted away would receive much less (very cold winters). The angle of tilt directly determines how extreme the seasons are.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

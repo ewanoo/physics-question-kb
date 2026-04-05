@@ -1,0 +1,18 @@
+{
+  "id": "292ec51b-9f6a-41d0-a17f-7fdd02e0126f",
+  "question_text": "In the Northern Hemisphere, why are the days longer in summer than in winter?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "day length",
+    "daylight",
+    "hemisphere"
+  ],
+  "options": null,
+  "correct_answer": "In summer, the Northern Hemisphere is tilted towards the Sun, so the Sun appears higher in the sky and is visible for more hours of the day.",
+  "explanation": "When the Northern Hemisphere is tilted towards the Sun (summer), the Sun takes a higher path across the sky and spends more time above the horizon. In winter, the tilt is away, so the Sun is lower and visible for fewer hours.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

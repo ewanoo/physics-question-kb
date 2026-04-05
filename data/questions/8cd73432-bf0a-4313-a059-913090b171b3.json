@@ -1,0 +1,18 @@
+{
+  "id": "8cd73432-bf0a-4313-a059-913090b171b3",
+  "question_text": "What is the name of the path that planets take around the Sun?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbit",
+    "planets",
+    "path",
+    "solar system"
+  ],
+  "options": null,
+  "correct_answer": "orbit or orbital path",
+  "explanation": "Planets follow curved paths around the Sun called orbits. The shape of these orbits is elliptical (slightly oval), not perfectly circular.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

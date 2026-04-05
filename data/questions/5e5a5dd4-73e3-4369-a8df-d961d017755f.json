@@ -1,0 +1,19 @@
+{
+  "id": "5e5a5dd4-73e3-4369-a8df-d961d017755f",
+  "question_text": "Explain why the UK receives less solar energy in winter than in summer, considering both day length and the angle of the Sun's rays.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "solar energy",
+    "angle",
+    "day length",
+    "energy concentration"
+  ],
+  "options": null,
+  "correct_answer": "In winter, there are fewer daylight hours AND the Sun's rays hit at a shallower angle, so energy is concentrated less and spread over a larger area, resulting in much less heat energy reaching the surface.",
+  "explanation": "Two factors reduce winter energy: first, the Sun is above the horizon for fewer hours each day; second, the shallow angle means the same amount of solar energy is spread over a larger surface area, like a torch beam at an angle. Together, these cause much less warming in winter.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

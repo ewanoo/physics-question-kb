@@ -1,0 +1,18 @@
+{
+  "id": "91917ce1-b27c-4fa2-8977-1fb1d41f5598",
+  "question_text": "If Mercury takes 88 Earth days to orbit the Sun and Venus takes 225 Earth days, which planet orbits faster around the Sun?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital period",
+    "speed",
+    "planets",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Mercury orbits faster because it completes an orbit in fewer days (88 days is less than 225 days).",
+  "explanation": "Mercury takes only 88 days to complete one orbit, while Venus takes 225 days. Since Mercury completes its orbit in less time, it must be moving faster around the Sun. Planets closer to the Sun orbit faster.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

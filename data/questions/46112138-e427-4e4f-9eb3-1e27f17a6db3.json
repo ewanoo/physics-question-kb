@@ -1,0 +1,18 @@
+{
+  "id": "46112138-e427-4e4f-9eb3-1e27f17a6db3",
+  "question_text": "What is the tilt angle of the Earth's axis?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth",
+    "axis",
+    "tilt",
+    "angle"
+  ],
+  "options": null,
+  "correct_answer": "approximately 23.5 degrees (accept 23-24 degrees)",
+  "explanation": "The Earth's axis is tilted at about 23.5 degrees from vertical. This tilt is what causes seasons as different parts of Earth receive different amounts of solar energy throughout the year.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

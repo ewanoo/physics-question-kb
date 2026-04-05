@@ -1,0 +1,18 @@
+{
+  "id": "a351e7a7-a98e-4aab-9329-b47fd42352ec",
+  "question_text": "A student claims that Earth experiences seasons because it is at different distances from the Sun. What evidence would you use to show this is incorrect?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "misconception",
+    "orbital distance",
+    "evidence"
+  ],
+  "options": null,
+  "correct_answer": "The Southern Hemisphere experiences winter when Earth is closest to the Sun (perihelion in January); if distance caused seasons, both hemispheres would have the same season.",
+  "explanation": "Earth's orbit is nearly circular, and the variation in distance is small. More importantly, the Southern Hemisphere has winter when Earth is actually closest to the Sun (January), which proves distance cannot be the main cause. The tilt of the axis is what matters.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

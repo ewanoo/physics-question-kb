@@ -1,0 +1,19 @@
+{
+  "id": "9861c3bf-5666-4993-b7cd-9907f649764c",
+  "question_text": "Compare the characteristics of terrestrial planets and gas giants. Why do you think the terrestrial planets are closer to the Sun and the gas giants are further away?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "terrestrial",
+    "gas giants",
+    "formation",
+    "comparison",
+    "solar system"
+  ],
+  "options": null,
+  "correct_answer": "Terrestrial: small, rocky, dense, few/no moons. Gas giants: large, low density, many moons, rings. Likely because inner regions were too hot for gases to condense when Solar System formed; gases and ice could only condense further out where it was colder.",
+  "explanation": "The Solar System formed from a disk of material. Near the hot Sun, only heavy rocky materials could condense to form planets\u2014the terrestrial planets. Further out, where it was cooler, lighter gases and water ice could accumulate, forming the massive gas giants. This explains why composition varies with distance from the Sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

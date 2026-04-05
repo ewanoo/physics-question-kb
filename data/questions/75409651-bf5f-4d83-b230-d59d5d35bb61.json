@@ -1,0 +1,18 @@
+{
+  "id": "75409651-bf5f-4d83-b230-d59d5d35bb61",
+  "question_text": "During the winter solstice in the Northern Hemisphere, where does the Sun appear in the sky, and how many hours of daylight occur?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "solstice",
+    "daylight",
+    "position",
+    "shortest day"
+  ],
+  "options": null,
+  "correct_answer": "The Sun is lowest in the sky (towards the south); approximately 9 hours of daylight in the UK (accept 8-9 hours)",
+  "explanation": "The winter solstice (around 21 December) is the shortest day of the year in the Northern Hemisphere. The Sun is at its lowest point in the sky, remaining visible for the fewest hours\u2014typically around 8-9 hours in the UK.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

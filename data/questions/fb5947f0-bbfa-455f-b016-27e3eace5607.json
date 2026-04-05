@@ -1,0 +1,18 @@
+{
+  "id": "fb5947f0-bbfa-455f-b016-27e3eace5607",
+  "question_text": "The eight planets of our Solar System can be divided into two groups. Name these groups and give an example of a planet in each group.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "terrestrial",
+    "gas giants",
+    "classification"
+  ],
+  "options": null,
+  "correct_answer": "Terrestrial (rocky) planets: Mercury, Venus, Earth, Mars; Gas giants: Jupiter, Saturn, Uranus, Neptune",
+  "explanation": "The inner planets (Mercury, Venus, Earth, Mars) are small, rocky, and dense\u2014called terrestrial planets. The outer planets (Jupiter, Saturn, Uranus, Neptune) are large, made mostly of gases, and have no solid surface\u2014called gas giants.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

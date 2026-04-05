@@ -1,0 +1,39 @@
+{
+  "id": "cac57fb2-1eef-4a88-a491-86cb9edcd6b9",
+  "question_text": "Why does the Earth experience seasons?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "Earth",
+    "tilt",
+    "axis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because the Earth is closer to the Sun in summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because the Earth's axis is tilted, changing the angle of the Sun's rays",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because the Earth orbits the Sun faster in summer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because the Sun moves around the Earth in different paths",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Earth's axis is tilted at about 23.5 degrees. As Earth orbits the Sun, this tilt means different parts of Earth receive the Sun's rays at different angles\u2014steeper angles in summer and shallower in winter, causing seasons.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

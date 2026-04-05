@@ -1,0 +1,17 @@
+{
+  "id": "d5af6fa0-eeac-4717-a954-7557ccb4a168",
+  "question_text": "How many planets are in our Solar System?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "count",
+    "solar system"
+  ],
+  "options": null,
+  "correct_answer": "8 planets",
+  "explanation": "There are 8 planets in our Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto is no longer classified as a full planet.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

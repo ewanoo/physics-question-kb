@@ -1,0 +1,39 @@
+{
+  "id": "ca176984-7494-4f58-bc9c-89999eb94e27",
+  "question_text": "How does the angle at which the Sun's rays hit the Earth's surface change between summer and winter?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "solar rays",
+    "angle",
+    "energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The rays are the same angle all year",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "In summer, rays hit at a steeper angle; in winter, they hit at a shallower angle",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "In summer, rays hit at a shallower angle; in winter, they hit at a steeper angle",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The angle changes randomly throughout the year",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When the Sun is high in the sky (summer), its rays hit Earth at a steeper angle, concentrating energy over a smaller area, making it warmer. In winter, the Sun is lower, rays hit at a shallower angle, and energy is spread over a larger area.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

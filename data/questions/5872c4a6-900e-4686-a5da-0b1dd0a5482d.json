@@ -1,0 +1,18 @@
+{
+  "id": "5872c4a6-900e-4686-a5da-0b1dd0a5482d",
+  "question_text": "Mars takes approximately 687 Earth days to orbit the Sun. How many Mars years (Martian orbits) would pass in 2,058 Earth days?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital period",
+    "calculation",
+    "Mars",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 3 Mars years (2,058 \u00f7 687 = 3)",
+  "explanation": "To find how many Mars years pass, divide the total Earth days by the number of Earth days in one Mars year: 2,058 \u00f7 687 = 3. This means 3 complete orbits of Mars around the Sun would occur in that time period.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

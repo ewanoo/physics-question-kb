@@ -1,0 +1,39 @@
+{
+  "id": "88ab5ab7-67f6-44e0-84c2-9b8bfe52279b",
+  "question_text": "Which planet is closest to the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "distance",
+    "closest",
+    "solar system"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Venus",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mercury",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mars",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Mercury is the closest planet to the Sun. It is also the smallest planet and experiences extreme temperatures because of its proximity to the Sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "03c88332-4699-4139-8c16-c9cdd41fe47d",
+  "question_text": "When it is summer in the Northern Hemisphere, what season is it in the Southern Hemisphere?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "hemispheres",
+    "opposite"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Spring",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Winter",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Autumn",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The hemispheres experience opposite seasons because when one hemisphere is tilted towards the Sun, the other is tilted away. So summer in the north means winter in the south.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}
