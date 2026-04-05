@@ -298,13 +298,29 @@
 - Total questions: 2,685 (up from 2,616)
 - All criteria remain met, KB is COMPLETE
 
-## Statistics (Session 26 — CURRENT)
-- **Total questions (JSON files)**: 2,685
+### Session 27 (agent — 2026-04-05)
+- Rebuilt DB from 2,685 committed question JSON files (all 99 slots at 25-30 each)
+- Identified 11 slots at exactly 25 questions, 13 slots at 26, and 25 slots at 27 questions
+- Generated **122 new questions** in 3 batches targeting all weakest slots:
+  - Batch 1 (33 q): electricity.current_voltage/medium, energy.efficiency/medium, energy.food/medium,
+    energy.power/hard, energy.stores/medium, forces.friction/medium, forces.speed/hard,
+    forces.springs/medium, forces.types/medium, matter.particles/hard, space.gravity/hard (×3 each)
+  - Batch 2 (39 q): electricity.circuits/medium, electricity.current_voltage/hard,
+    electricity.electromagnets/medium, energy.stores/hard, forces.balanced/medium,
+    forces.gravity/easy, forces.types/easy, matter.density (all 3 difficulties),
+    waves.colour/easy, waves.light/easy, waves.light/hard (×3 each)
+  - Batch 3 (50 q): 25 more slots (all at 27), 2 questions each across electricity,
+    energy, forces topics
+- Total questions: 2,807 (up from 2,685)
+- All 99 difficulty/subtopic slots now have ≥27 questions each
+
+## Statistics (Session 27 — CURRENT)
+- **Total questions (JSON files)**: 2,807
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~895, medium ~895, hard ~895 (all >= 50)
-- **Min questions per subtopic**: ~78 (waves.sound)
-- **Min questions per difficulty+subtopic slot**: ~25
+- **By difficulty**: easy ~935, medium ~935, hard ~935 (all >= 50)
+- **Min questions per subtopic**: ~81 (various)
+- **Min questions per difficulty+subtopic slot**: ~27
 - **Mean quality score**: ~4.70
 
 ## Scraper Status
