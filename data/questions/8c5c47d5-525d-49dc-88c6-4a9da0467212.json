@@ -1,0 +1,17 @@
+{
+  "question_text": "A spotlight in a theatre shines light through a translucent fabric curtain onto a wall behind it. An actor stands between the spotlight and the curtain. Compare the quality of the shadow cast by the actor on the wall with the quality of a shadow created by the same actor standing in direct sunlight. Explain the difference in terms of light sources and how light interacts with the translucent material.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "shadows",
+    "translucent",
+    "light sources"
+  ],
+  "options": null,
+  "correct_answer": "The theatre spotlight creates a sharper shadow because it is a point source, while sunlight creates a softer, blurred shadow because the sun is a large extended source. The translucent curtain scatters light in multiple directions, which partially fills in the shadow, making it less dark than a shadow in direct sunlight.",
+  "explanation": "Point light sources (like spotlights) create sharp shadows with clear edges, while extended light sources (like the sun) create soft shadows with blurred edges. The translucent fabric allows light to pass through but scatters it, so some light reaches areas that would otherwise be completely dark, reducing shadow darkness.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8c5c47d5-525d-49dc-88c6-4a9da0467212"
+}

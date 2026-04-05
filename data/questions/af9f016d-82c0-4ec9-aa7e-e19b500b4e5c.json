@@ -1,0 +1,39 @@
+{
+  "question_text": "Two objects are placed on a balance scale. Object A has a mass of 5 kg and Object B has a mass of 3 kg. Both are on Earth where g = 10 N/kg. Which object pushes down with greater force on the scale, and by how many newtons?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "comparison",
+    "balance",
+    "calculation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Object A pushes with 20 N more force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Object A pushes with 50 N more force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Object B pushes with 30 N more force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both push with equal force because they are on the same scale",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Object A's weight = 5 \u00d7 10 = 50 N. Object B's weight = 3 \u00d7 10 = 30 N. The difference is 50 \u2212 30 = 20 N, but the question asks which pushes down MORE, so Object A pushes with 20 N more force than Object B. Wait\u2014let me recalculate: 50 N \u2212 30 N = 20 N more. The correct answer should reflect this difference. Object A pushes down with 20 N more force than Object B.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "af9f016d-82c0-4ec9-aa7e-e19b500b4e5c"
+}

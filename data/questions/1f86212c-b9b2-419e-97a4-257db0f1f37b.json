@@ -1,0 +1,18 @@
+{
+  "question_text": "The diagram shows the orbits of four objects in our Solar System: Mercury, an asteroid in the asteroid belt, Jupiter, and a dwarf planet beyond Neptune. Rank these four objects in order of their average distance from the Sun, and explain how you determined the order using what you know about the structure of the Solar System.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "8 planets in order",
+    "asteroids",
+    "dwarf planets",
+    "orbits"
+  ],
+  "options": null,
+  "correct_answer": "Mercury, asteroid, Jupiter, dwarf planet. Mercury is the closest planet to the Sun, the asteroid belt lies between Mars and Jupiter, Jupiter is the fifth planet, and dwarf planets like Pluto are beyond Neptune in the outer Solar System.",
+  "explanation": "The Solar System has a clear structure: the eight planets orbit in order of distance from the Sun, asteroids are found in a belt between Mars and Jupiter, and dwarf planets exist in the outer regions beyond Neptune. By knowing the positions of these different types of objects, we can rank them by distance from the Sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1f86212c-b9b2-419e-97a4-257db0f1f37b"
+}

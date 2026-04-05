@@ -1,0 +1,17 @@
+{
+  "question_text": "A student shines white light through a prism and observes the spectrum ROYGBIV on a white screen. She then places a red colour filter between the prism and the screen. Explain what she will see on the screen and why this happens.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "prism dispersion",
+    "light absorption"
+  ],
+  "options": null,
+  "correct_answer": "She will only see red light on the screen. The red filter absorbs all other colours (orange, yellow, green, blue, indigo, violet) and only allows red light to pass through.",
+  "explanation": "A colour filter works by absorbing certain wavelengths of light and transmitting only its own colour. Since the prism separates white light into all colours, and the red filter only lets red wavelengths through, only the red part of the spectrum reaches the screen.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "318403b8-d6c5-4160-8a23-9098cfc9a6c8"
+}

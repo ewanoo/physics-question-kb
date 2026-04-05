@@ -1,0 +1,17 @@
+{
+  "question_text": "A submarine uses sonar to detect an underwater object. The sonar sends out a sound wave that travels at 1500 m/s in seawater. The echo returns after 4 seconds. Calculate the distance to the object, explaining why you must divide your answer by 2.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "echo",
+    "speed of sound",
+    "distance calculation"
+  ],
+  "options": null,
+  "correct_answer": "3000 m (or 3 km). The sound travels to the object AND back, so the total distance of 6000 m must be divided by 2.",
+  "explanation": "The sound wave travels to the object and back again, meaning it covers twice the distance we want to find. Using distance = speed \u00d7 time gives 1500 \u00d7 4 = 6000 m for the total journey, so we divide by 2 to get 3000 m to the object.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bf020b37-a933-45cb-a4a7-9851bba3f4ab"
+}

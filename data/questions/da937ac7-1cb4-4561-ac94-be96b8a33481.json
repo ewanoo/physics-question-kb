@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain the difference between boiling and evaporation.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "boiling",
+    "evaporation",
+    "state changes"
+  ],
+  "options": null,
+  "correct_answer": "Boiling happens at a fixed temperature throughout the liquid and involves bubbles forming inside. Evaporation happens at the surface at any temperature below the boiling point.",
+  "explanation": "Boiling is a rapid change of state that occurs when liquid reaches its boiling point and bubbles form throughout the liquid. Evaporation is a slower process where particles escape from the surface of a liquid at any temperature, and is why puddles dry up on cool days.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "da937ac7-1cb4-4561-ac94-be96b8a33481"
+}

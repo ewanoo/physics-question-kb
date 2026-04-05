@@ -1,0 +1,18 @@
+{
+  "question_text": "Two loudspeakers emit sound at different frequencies. Speaker A produces a high-pitched sound with a frequency of 4000 Hz, while Speaker B produces a low-pitched sound with a frequency of 250 Hz. Both speakers emit sound at the same amplitude. Explain which sound will have the longer wavelength and why, given that sound travels at 340 m/s in air.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "wavelength",
+    "pitch",
+    "wave equation"
+  ],
+  "options": null,
+  "correct_answer": "Speaker B (250 Hz) will have the longer wavelength because wavelength is inversely proportional to frequency. Using wavelength = speed \u00f7 frequency: Speaker B has wavelength 340 \u00f7 250 = 1.36 m, while Speaker A has 340 \u00f7 4000 = 0.085 m.",
+  "explanation": "The wave equation shows that as frequency decreases, wavelength increases (they are inversely related). Speaker B's lower frequency means its sound waves are stretched out more, creating a longer wavelength than Speaker A's high-frequency waves.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "549a872f-8c15-462e-911a-b8e78fdc9d64"
+}

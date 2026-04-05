@@ -1,0 +1,38 @@
+{
+  "question_text": "When light hits a mirror, the angle of incidence equals the angle of reflection. Both angles are measured from which line?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "law of reflection",
+    "ray diagrams",
+    "angles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The surface of the mirror",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The normal (a line perpendicular to the surface)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The incident ray itself",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A horizontal line parallel to the ground",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The law of reflection states that angles of incidence and reflection are always measured from the normal, which is an imaginary line perpendicular (at 90\u00b0) to the mirror's surface. This is the standard way physicists measure reflection angles.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "452c2f19-f2e6-4b70-93f1-4651b69c8ca5"
+}

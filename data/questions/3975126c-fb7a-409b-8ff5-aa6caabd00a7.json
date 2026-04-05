@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes a comet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "comets",
+    "definition",
+    "solar system objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A large ball of rock and metal that orbits the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A small icy body that orbits the Sun and develops a tail when it gets close to the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A small object in the asteroid belt between Mars and Jupiter",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A natural satellite that orbits a planet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Comets are icy bodies from the outer solar system that develop a bright tail of gas and dust when they approach the Sun. This tail is what makes them visible and distinctive from other solar system objects.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3975126c-fb7a-409b-8ff5-aa6caabd00a7"
+}

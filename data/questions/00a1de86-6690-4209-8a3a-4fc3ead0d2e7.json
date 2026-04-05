@@ -1,0 +1,17 @@
+{
+  "question_text": "A cyclist travels 45 km in 1.5 hours. Calculate her average speed in km/h, then convert it to m/s. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "unit conversion",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "30 km/h or 8.33 m/s (or 8.3 m/s)",
+  "explanation": "First, use speed = distance \u00f7 time: 45 \u00f7 1.5 = 30 km/h. To convert to m/s, divide by 3.6 (or convert: 30,000 m \u00f7 3600 s = 8.33 m/s). This shows you can apply the formula and handle unit conversions.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "00a1de86-6690-4209-8a3a-4fc3ead0d2e7"
+}

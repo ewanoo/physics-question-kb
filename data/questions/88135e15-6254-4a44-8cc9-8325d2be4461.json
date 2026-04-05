@@ -1,0 +1,17 @@
+{
+  "question_text": "A distance-time graph shows distance on the vertical axis and time on the horizontal axis. What does a steep line on this graph tell you about the object's motion?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "speed",
+    "gradient"
+  ],
+  "options": null,
+  "correct_answer": "A steep line means the object is moving quickly (or has a high speed).",
+  "explanation": "On a distance-time graph, the steeper the line, the greater the distance covered in the same amount of time, which means the object is moving faster. A flat horizontal line would mean the object is stationary.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "88135e15-6254-4a44-8cc9-8325d2be4461"
+}

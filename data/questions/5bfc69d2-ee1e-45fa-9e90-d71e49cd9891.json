@@ -1,0 +1,17 @@
+{
+  "question_text": "On Earth, the gravitational field strength is 10 N/kg. What does this value tell us?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational field strength",
+    "definition",
+    "Earth"
+  ],
+  "options": null,
+  "correct_answer": "It means that every 1 kg of mass experiences a gravitational force of 10 N on Earth.",
+  "explanation": "The gravitational field strength (g) tells us how much gravitational force acts on each kilogram of mass. A value of 10 N/kg means that 1 kg experiences a pull of 10 N towards Earth's centre.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5bfc69d2-ee1e-45fa-9e90-d71e49cd9891"
+}

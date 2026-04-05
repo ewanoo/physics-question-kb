@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes the difference between mass and weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mass is measured in kilograms and weight is measured in newtons; weight depends on gravity.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Mass and weight are the same thing, just different names for it.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Mass changes depending on where you are, but weight always stays the same.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Weight is how much space an object takes up, and mass is how heavy it feels.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Mass is a measure of how much material is in an object (measured in kg) and never changes. Weight is the gravitational force on that mass (measured in N), which changes depending on the gravitational field strength where you are. On Earth, we use g = 10 N/kg to calculate weight.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ae8e7a60-d76e-43f7-9433-d239bd8bb834"
+}

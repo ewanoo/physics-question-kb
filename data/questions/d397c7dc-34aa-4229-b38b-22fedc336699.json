@@ -1,0 +1,18 @@
+{
+  "question_text": "A banana appears yellow when white light shines on it. A student places the banana in a dark room and shines only blue light onto it. Describe what colour the banana appears to be and explain your reasoning using ideas about which colours of light are reflected and absorbed.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "object colour",
+    "reflection",
+    "light absorption",
+    "colour perception"
+  ],
+  "options": null,
+  "correct_answer": "The banana appears black (or very dark). A banana normally reflects yellow light and absorbs other colours including blue. Since only blue light is available and the banana absorbs blue light, very little light is reflected back, so it appears black.",
+  "explanation": "Objects appear coloured because they reflect certain wavelengths and absorb others. A yellow banana reflects yellow wavelengths from white light. When only blue light is present, the banana cannot reflect what isn't there\u2014it absorbs the blue instead\u2014so no colour reaches our eyes and it looks black.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d397c7dc-34aa-4229-b38b-22fedc336699"
+}

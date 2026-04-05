@@ -1,0 +1,18 @@
+{
+  "question_text": "Explain the difference between a transparent material and a translucent material, giving one example of each.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "transparent",
+    "translucent",
+    "opaque",
+    "light transmission"
+  ],
+  "options": null,
+  "correct_answer": "Transparent materials allow light to pass through clearly so you can see objects sharply (e.g. clear glass or water). Translucent materials let light through but scatter it, so you can see light but objects appear blurry (e.g. frosted glass or tracing paper).",
+  "explanation": "The key difference is how much light passes through and whether you can see clearly through it. Transparent = clear view; translucent = blurry/cloudy view. Both allow some light through, unlike opaque materials which block light completely.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "efd94760-38b8-4f49-8f74-33b4f6114760"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Sound travels as a longitudinal wave. Explain what this means.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "longitudinal waves",
+    "sound properties",
+    "wave motion"
+  ],
+  "options": null,
+  "correct_answer": "In a longitudinal wave, the particles vibrate back and forth in the same direction that the wave is travelling (parallel to the direction of wave travel).",
+  "explanation": "Longitudinal waves are different from transverse waves (like light) where particles move perpendicular to the direction of travel. Sound is a longitudinal wave because air particles compress and spread out along the direction the sound is moving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b40cb194-47a7-4de9-b6b2-4b16e76cddd5"
+}

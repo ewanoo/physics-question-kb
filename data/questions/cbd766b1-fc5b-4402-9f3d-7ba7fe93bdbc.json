@@ -1,0 +1,18 @@
+{
+  "question_text": "Compare and evaluate why clothes dry faster on a hot, windy day compared to a cold, still day. In your answer, explain the difference between evaporation and boiling, and how each process is affected by the conditions.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "boiling",
+    "temperature",
+    "air movement"
+  ],
+  "options": null,
+  "correct_answer": "On a hot day, particles have more kinetic energy, so more escape the surface as evaporation. Wind removes water vapour above the cloth, allowing more water to evaporate. Boiling requires a specific temperature (100\u00b0C for water) and happens throughout the liquid, whereas evaporation happens at the surface at any temperature. The hot, windy day provides both conditions for faster evaporation.",
+  "explanation": "Heat energy increases the movement of water particles, making it easier for them to escape as a gas. Wind continuously removes the water vapour layer, replacing it with drier air, which speeds up evaporation further. Evaporation is slower but occurs at lower temperatures than boiling, which only happens at 100\u00b0C.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cbd766b1-fc5b-4402-9f3d-7ba7fe93bdbc"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Name the four gas giants in our solar system in order from the Sun.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "order",
+    "gas giants"
+  ],
+  "options": null,
+  "correct_answer": "Jupiter, Saturn, Uranus, Neptune",
+  "explanation": "The four gas giants are the largest planets in our solar system and are located in the outer region. They appear in this order starting from the Sun: Jupiter (5th planet), Saturn (6th planet), Uranus (7th planet), and Neptune (8th planet).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ed00038e-12d7-4e3b-aa16-ce0f0beb600c"
+}

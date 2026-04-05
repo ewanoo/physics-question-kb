@@ -1,0 +1,18 @@
+{
+  "question_text": "An astronaut has a mass of 80 kg. On Earth, gravitational field strength is 10 N/kg, but on the Moon it is only 1.6 N/kg. Calculate the astronaut's weight on Earth and on the Moon, then explain why the astronaut's mass stays the same but weight changes.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravitational field strength",
+    "Moon",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Weight on Earth = 800 N; Weight on Moon = 128 N. Mass stays the same (80 kg) because it is the amount of material in an object, but weight changes because gravitational field strength is different on the Moon.",
+  "explanation": "Weight is calculated using W = m \u00d7 g. On Earth: 80 \u00d7 10 = 800 N. On the Moon: 80 \u00d7 1.6 = 128 N. Mass is constant but weight depends on the local gravitational field strength, which is weaker on the Moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1ce99a39-78d7-4dcf-9c5e-13003afccb7c"
+}

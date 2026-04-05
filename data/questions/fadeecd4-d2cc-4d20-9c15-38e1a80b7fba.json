@@ -1,0 +1,17 @@
+{
+  "question_text": "Two runners complete a 400 m race. Runner A finishes in 50 seconds. Runner B's distance-time graph shows she travels at a constant speed of 9 m/s. Which runner is faster, and by how much (in m/s)?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "speed comparison",
+    "distance-time graphs",
+    "interpreting data"
+  ],
+  "options": null,
+  "correct_answer": "Runner B is faster by 1 m/s (Runner A: 8 m/s; Runner B: 9 m/s; difference: 1 m/s)",
+  "explanation": "Calculate Runner A's speed: 400 m \u00f7 50 s = 8 m/s. Runner B's speed is given as 9 m/s from the graph. The difference is 9 - 8 = 1 m/s, so Runner B is faster. This requires you to calculate one speed and compare it with information from a graph.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fadeecd4-d2cc-4d20-9c15-38e1a80b7fba"
+}

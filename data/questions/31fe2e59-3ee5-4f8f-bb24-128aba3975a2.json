@@ -1,0 +1,17 @@
+{
+  "question_text": "A comet has an elliptical orbit that brings it close to the Sun every 76 years. During its last visit in 1986, it was visible from Earth. Based on the orbital patterns of comets, explain why this comet will not be visible from Earth again until approximately 2062, and identify what type of object this is.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "comets",
+    "orbits",
+    "periodic motion"
+  ],
+  "options": null,
+  "correct_answer": "This is Halley's Comet. It follows an elliptical orbit with a period of about 76 years, so it returns to the inner Solar System at predictable intervals. It will not be visible again until 2062 because it takes 76 years to complete one full orbit and return to the part of its path nearest Earth.",
+  "explanation": "Comets like Halley's Comet follow very stretched elliptical orbits and only become visible when they pass close to the Sun. The 76-year orbital period means it takes that long to return to the same position, so observers on Earth must wait about 76 years between visits.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "31fe2e59-3ee5-4f8f-bb24-128aba3975a2"
+}

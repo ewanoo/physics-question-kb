@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is the correct formula for calculating speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed formula",
+    "distance",
+    "time"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "speed = distance \u00d7 time",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "speed = distance \u00f7 time",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "speed = time \u00f7 distance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "speed = distance + time",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Speed is calculated by dividing the distance travelled by the time taken. This is the definition of speed and the key formula you need to remember for this topic.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f8bc79e1-9fe7-411c-a2ee-3d556dbb34f3"
+}

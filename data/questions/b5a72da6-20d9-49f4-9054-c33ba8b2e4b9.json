@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements about the relationship between frequency and pitch is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "pitch",
+    "sound properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "High frequency sound waves produce low pitch sounds.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "High frequency sound waves produce high pitch sounds.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Frequency and pitch are not related to each other.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Low frequency sound waves produce loud sounds.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Pitch is how high or low a sound seems to our ears, and it directly depends on the frequency of the sound wave. Higher frequency waves vibrate more times per second, which our ears detect as a higher pitch sound, like a whistle. Lower frequencies produce lower pitches, like a drum.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b5a72da6-20d9-49f4-9054-c33ba8b2e4b9"
+}

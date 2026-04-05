@@ -1,0 +1,39 @@
+{
+  "question_text": "A rope is vibrated to create a transverse wave with an amplitude of 5 cm and a frequency of 2 Hz. A second identical rope is vibrated with an amplitude of 10 cm and a frequency of 2 Hz. Which rope requires more energy to vibrate, and why? Assume both ropes have the same length and material.",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "energy",
+    "transverse waves",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The first rope (5 cm amplitude) because it vibrates at the same frequency and is easier to move",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The second rope (10 cm amplitude) because it requires the rope to move a greater distance with each vibration",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both ropes require the same energy because they vibrate at the same frequency",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The first rope because higher amplitude always means lower energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Larger amplitude means the rope vibrates a greater distance from its rest position, requiring more force and therefore more energy input. Since both ropes have the same frequency, frequency is not the determining factor here\u2014amplitude directly affects the energy needed to create the wave.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "935e6312-ed66-4614-99eb-a1a5ac17c4c6"
+}

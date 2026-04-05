@@ -1,0 +1,17 @@
+{
+  "question_text": "The Moon takes 28 days to orbit Earth and complete a full lunar cycle of phases. During this time, the Moon also rotates on its own axis. Explain why we always see the same face of the Moon from Earth, and use the lunar cycle length to support your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar cycle",
+    "Moon rotation",
+    "tidal locking"
+  ],
+  "options": null,
+  "correct_answer": "The Moon's rotation period equals its orbital period (both 28 days), so it is tidally locked to Earth. This synchronisation means the same hemisphere always faces Earth as it orbits.",
+  "explanation": "The Moon rotates at exactly the same rate it orbits Earth, which is why we see only one face. This is called tidal locking and is a result of Earth's gravity gradually slowing the Moon's rotation over billions of years until it matched the orbital period of 28 days.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4652ab88-737f-4a4f-80a6-9bcb2bd95d35"
+}

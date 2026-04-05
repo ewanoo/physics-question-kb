@@ -1,0 +1,17 @@
+{
+  "question_text": "A lunar eclipse occurs when Earth is positioned between the Sun and Moon. A student observes that lunar eclipses happen roughly every 6 months, but solar eclipses are much rarer and only visible from certain locations on Earth. Evaluate why solar eclipses are less frequent and harder to observe than lunar eclipses.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "solar eclipse",
+    "lunar eclipse",
+    "Moon's orbit"
+  ],
+  "options": null,
+  "correct_answer": "The Moon's orbit is tilted about 5\u00b0 to Earth's orbital plane, so the Moon usually passes above or below Earth's shadow, making lunar eclipses rare. Solar eclipses are rarer because the Moon's shadow is small and only covers a narrow path on Earth's surface, so they are only visible from limited locations.",
+  "explanation": "Although lunar eclipses can be seen from anywhere on the night-time side of Earth when they occur, solar eclipses require the observer to be in the Moon's shadow, which is a much smaller area. Additionally, the Moon's orbital tilt means perfect alignment for either eclipse type is uncommon, but the Moon's small shadow makes solar eclipses particularly rare for any given location.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "03c45175-3f89-44a1-8fbe-502899b6d76d"
+}

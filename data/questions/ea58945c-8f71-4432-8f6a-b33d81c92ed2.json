@@ -1,0 +1,18 @@
+{
+  "question_text": "A student heats ice in a beaker and measures the temperature every 30 seconds. The temperature stays at 0\u00b0C for 3 minutes, then rises to 20\u00b0C over the next 2 minutes. Explain why the temperature does not change during the first 3 minutes, even though energy is being supplied by the heat source.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "latent heat",
+    "energy",
+    "phase change"
+  ],
+  "options": null,
+  "correct_answer": "During melting, the energy supplied goes into breaking the bonds between particles rather than increasing temperature. This is called latent heat of fusion, so temperature remains constant until all the ice has melted.",
+  "explanation": "When ice melts, the heat energy is used to overcome the forces holding particles in a fixed structure, not to make them move faster (which would increase temperature). Once all ice has melted, the remaining heat can increase the temperature of the liquid water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ea58945c-8f71-4432-8f6a-b33d81c92ed2"
+}

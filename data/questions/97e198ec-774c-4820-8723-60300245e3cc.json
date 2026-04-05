@@ -1,0 +1,18 @@
+{
+  "question_text": "A loudspeaker produces two different sound waves. Wave A has a frequency of 440 Hz and a wavelength of 0.78 m. Wave B has a frequency of 880 Hz and a wavelength of 0.39 m. Calculate the wave speed for both waves and explain what your results tell you about how sound travels through air.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed",
+    "frequency",
+    "wavelength",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Wave A: 343.2 m/s; Wave B: 343.2 m/s. Both waves travel at the same speed because sound travels at a constant speed through the same medium (air), regardless of frequency or wavelength.",
+  "explanation": "Using wave speed = frequency \u00d7 wavelength, both calculations give approximately 343 m/s, which is the actual speed of sound in air. This shows that when frequency doubles, wavelength halves to keep the wave speed constant in the same material.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "97e198ec-774c-4820-8723-60300245e3cc"
+}

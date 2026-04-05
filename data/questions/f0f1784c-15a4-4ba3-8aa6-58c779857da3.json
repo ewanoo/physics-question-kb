@@ -1,0 +1,17 @@
+{
+  "question_text": "A sound wave travels through air. Describe the difference between the direction the sound wave travels and the direction the air particles move.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "longitudinal waves",
+    "particle motion",
+    "wave direction"
+  ],
+  "options": null,
+  "correct_answer": "The sound wave travels forwards, but the air particles vibrate back and forth in the same direction as the wave travels (parallel to the wave direction).",
+  "explanation": "Sound is a longitudinal wave, which means the particles oscillate in the same direction that the wave itself moves. This is different from transverse waves like light, where particles vibrate perpendicular to the wave direction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f0f1784c-15a4-4ba3-8aa6-58c779857da3"
+}

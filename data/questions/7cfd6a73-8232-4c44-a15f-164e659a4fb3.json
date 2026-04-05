@@ -1,0 +1,17 @@
+{
+  "question_text": "A student sets up an experiment with a transparent glass block, a light ray, and a protractor. The light ray hits the glass surface at an angle of 40\u00b0 to the normal. The refracted ray inside the glass travels at an angle of 25\u00b0 to the normal. Later, the student shines the same light ray from inside the glass block towards the surface at 25\u00b0 to the normal. Explain why the light ray will not exit the glass block at this angle, and describe what happens instead.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "law of reflection",
+    "critical angle"
+  ],
+  "options": null,
+  "correct_answer": "The angle of 25\u00b0 to the normal from inside the glass is less steep than the original angle of incidence (40\u00b0), so total internal reflection occurs instead of refraction. The light ray reflects back into the glass rather than passing through the surface.",
+  "explanation": "When light travels from a denser medium (glass) to a less dense medium (air), it bends away from the normal. If the angle is too steep (beyond the critical angle), the light cannot escape and instead reflects completely back into the glass. This is why diamond jewels sparkle\u2014total internal reflection traps light inside.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7cfd6a73-8232-4c44-a15f-164e659a4fb3"
+}

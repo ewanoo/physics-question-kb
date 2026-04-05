@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why the Moon orbits Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "natural satellite",
+    "gravity",
+    "orbits"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth's gravity pulls the Moon towards it, keeping it in orbit",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Moon is tied to Earth by invisible strings",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Moon wants to stay close to Earth for protection",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon orbits Earth because it is smaller",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The Moon is a natural satellite of Earth, meaning it orbits Earth due to gravitational attraction. Earth's gravity is strong enough to keep the Moon in a stable orbit around it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "40bd3bbd-2c4a-44c7-97e1-70a2b17b8965"
+}

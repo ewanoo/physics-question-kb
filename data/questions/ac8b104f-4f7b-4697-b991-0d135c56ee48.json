@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "wave properties",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The distance a wave travels in one second",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The distance from one point on a wave to the next identical point",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The maximum height of a wave from the centre line",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The number of complete waves passing a point per second",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Wavelength is the distance between two identical points on consecutive waves, such as from one peak to the next peak, or one trough to the next trough. Option A describes wave speed, option C describes amplitude, and option D describes frequency.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ac8b104f-4f7b-4697-b991-0d135c56ee48"
+}

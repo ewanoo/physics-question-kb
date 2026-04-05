@@ -1,0 +1,17 @@
+{
+  "question_text": "A red apple is placed under a blue light in a dark room. Explain why the apple appears to be a dark colour rather than red.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "light absorption",
+    "object colour"
+  ],
+  "options": null,
+  "correct_answer": "The apple only reflects red light, but the blue light cannot make red light appear. Since there is no red light being shone on it, the apple has no red light to reflect, so it appears dark.",
+  "explanation": "Objects appear coloured because they reflect certain colours of light and absorb others. A red apple reflects red light but absorbs blue light. When only blue light is available, the apple cannot reflect any light that we see as red, so it appears dark or black.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3e2a1aeb-63ee-484b-9fcb-eec8f532ef3a"
+}
