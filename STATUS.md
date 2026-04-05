@@ -162,13 +162,23 @@
 - Total questions: 1,839
 - Min subtopic count: 53 (matter.gas_pressure, matter.particles, matter.states, space.earth_moon, space.seasons)
 
-## Statistics (Session 15 — CURRENT)
-- **Total questions (JSON files)**: 1,839
+### Session 16 (agent — 2026-04-05)
+- Rebuilt DB from 1,839 committed question JSON files (all subtopics 53-58)
+- Generated **67 new questions** in 2 batches targeting weakest subtopics:
+  - Batch 1 (37 q): 7-8 questions each for matter.gas_pressure, matter.particles, matter.states,
+    space.earth_moon, space.seasons (all at 53, now ~60)
+  - Batch 2 (30 q): 7-8 questions each for energy.stores, forces.types, electricity.circuits,
+    electricity.electromagnets (all at 54-55, now ~62)
+- Total questions: 1,906
+- Min subtopic count: 55 (electricity.magnets, electricity.static, energy.resources, waves.sound)
+
+## Statistics (Session 16 — CURRENT)
+- **Total questions (JSON files)**: 1,906
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy=590+, medium=620+, hard=590+ (all >= 50)
-- **Min questions per subtopic**: 53 (all 33 subtopics well above minimum)
-- **Mean quality score**: 4.67
+- **By difficulty**: easy=615+, medium=611+, hard=613+ (all >= 50)
+- **Min questions per subtopic**: 55 (all 33 subtopics well above minimum)
+- **Mean quality score**: 4.70
 
 ## Scraper Status
 | Scraper | Status | Questions in DB |
