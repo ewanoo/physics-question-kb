@@ -212,12 +212,27 @@
 - Total questions: 2,125 (up from 2,090)
 - All 99 difficulty/subtopic slots now have ≥20 questions each
 
-## Statistics (Session 19 — CURRENT)
-- **Total questions (JSON files)**: 2,125
+### Session 20 (agent — 2026-04-05)
+- Rebuilt DB from 2,208 committed question JSON files (2,197 valid, 11 with schema errors)
+- Identified 7 slots at exactly 20 questions: matter.particles/hard, matter.states/medium,
+  space.earth_moon/hard, space.solar_system/medium, waves.em_spectrum/hard, waves.light/hard, waves.sound/hard
+- Fixed UUID collision issue (LLM reusing same fake UUIDs across batches) — now forces fresh uuid4
+- Generated **81 new questions** in 3 batches targeting 19 weak slots:
+  - Batch 1 (21 Qs): all 7 slots at 20 questions (+3 each)
+  - Batch 2 (24 Qs): electricity.circuits/hard, electricity.current_voltage/easy,
+    electricity.electromagnets/hard, energy.stores/easy, forces.types/hard (+3 each)
+  - Batch 3 (36 Qs): waves.sound/hard, electricity.static/easy+hard, energy.power/medium,
+    forces.friction/easy+hard, forces.gravity/easy, forces.pressure/easy+hard,
+    matter.gas_pressure/easy+medium, matter.states/easy (+3 each)
+- Total questions: 2,278 (up from 2,197)
+- All 99 difficulty/subtopic slots now have ≥21 questions each
+
+## Statistics (Session 20 — CURRENT)
+- **Total questions (JSON files)**: 2,278
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~708, medium ~703, hard ~714 (all >= 50)
-- **Min questions per difficulty+subtopic slot**: 20
+- **By difficulty**: easy ~760, medium ~760, hard ~758 (all >= 50)
+- **Min questions per difficulty+subtopic slot**: 21
 - **Mean quality score**: ~4.70
 
 ## Scraper Status
