@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of a non-contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "forces",
+    "non-contact forces",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction between a shoe and the ground",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pull of Earth's gravity on a falling object",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The normal force from a chair pushing upwards on you",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air resistance acting on a parachute",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravity is a non-contact force because it acts between objects even when they are not touching. The other options (friction, normal force, and air resistance) are all contact forces that require direct physical contact between surfaces.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4b3357b4-6cb2-4574-a4ee-b3111cf45b83"
+}

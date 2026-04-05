@@ -1,0 +1,38 @@
+{
+  "question_text": "A light ray travels from air into a glass block at an angle of incidence of 40\u00b0. The light bends towards the normal line as it enters the glass. This phenomenon is called:",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light bending",
+    "optical properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Reflection",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Refraction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Diffraction",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Dispersion",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Refraction is the bending of light as it moves between two different materials (or media) with different optical densities. When light enters a denser medium like glass from air, it slows down and bends towards the normal.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fc21011d-ee7f-4c73-8671-1225e1001fee"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Explain how a photocopier uses static electricity to transfer toner powder onto paper. Include in your answer how the powder is attracted to the paper.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "applications of static",
+    "photocopier",
+    "charge transfer",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "A photocopier uses static electricity by creating a negatively charged drum. An image is projected onto the drum, and where light hits, the charge is removed. Toner powder (negatively charged) is attracted to the positively charged areas of the drum. The paper is given a positive charge so it attracts the toner from the drum, transferring the image.",
+  "explanation": "Photocopiers exploit static electricity by using opposite charges to move toner powder precisely. The drum and toner share the same charge (repel), but the paper has the opposite charge (attract). This allows the toner to be lifted from the drum and stick to the paper, creating a copy of the original image.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0e49b531-42e5-41be-8ad2-85963c805c16"
+}

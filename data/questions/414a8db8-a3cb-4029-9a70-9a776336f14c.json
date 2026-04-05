@@ -1,0 +1,18 @@
+{
+  "question_text": "Two permanent magnets are placed near each other with their north poles facing. What will happen and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "repulsion",
+    "magnetic poles",
+    "field lines"
+  ],
+  "options": null,
+  "correct_answer": "The magnets will repel each other because like poles (both north) repel. The magnetic field lines from each magnet push against each other, creating a repulsive force.",
+  "explanation": "Like magnetic poles always repel each other, while opposite poles attract. This is because the magnetic field lines around a north pole push outward and cannot merge with the outward-pushing field lines of another north pole. This property is used in many applications like maglev trains.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "414a8db8-a3cb-4029-9a70-9a776336f14c"
+}

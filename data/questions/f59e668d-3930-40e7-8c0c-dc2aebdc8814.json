@@ -1,0 +1,17 @@
+{
+  "question_text": "A coal-fired power station generates 500 MW of electricity. The power station burns 1500 tonnes of coal per day. Coal contains 25 MJ of energy per kilogram. Calculate the efficiency of the power station. (Give your answer to 2 significant figures.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "efficiency calculation",
+    "non-renewable energy",
+    "energy conversion"
+  ],
+  "options": null,
+  "correct_answer": "33% or 0.33",
+  "explanation": "First convert mass to kg: 1500 tonnes = 1,500,000 kg. Total energy input = 1,500,000 \u00d7 25 = 37,500 MJ = 37.5 GJ per day. Convert to joules: 37.5 \u00d7 10\u2079 J. Energy output = 500 \u00d7 10\u2076 W \u00d7 86,400 s = 4.32 \u00d7 10\u00b9\u2076 J per day. Efficiency = (4.32 \u00d7 10\u00b9\u2076) / (3.75 \u00d7 10\u00b9\u2076) \u00d7 100 = 33%.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f59e668d-3930-40e7-8c0c-dc2aebdc8814"
+}

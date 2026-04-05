@@ -1,0 +1,18 @@
+{
+  "question_text": "Two identical light bulbs are connected to a 12V battery. In circuit A they are in series, and in circuit B they are in parallel. Which circuit will have brighter bulbs and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series",
+    "parallel",
+    "voltage distribution",
+    "brightness"
+  ],
+  "options": null,
+  "correct_answer": "Circuit B (parallel) will have brighter bulbs because each bulb receives the full 12V, whereas in series each bulb only receives 6V. Lower voltage means lower power and dimmer light.",
+  "explanation": "In a parallel circuit, each component receives the full supply voltage, so each bulb gets 12V. In a series circuit, the voltage is shared between components, so each bulb gets only 6V. Since brightness depends on power (which increases with voltage), the parallel bulbs are brighter.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8e76c886-595c-4e28-8ba9-498f20f0de69"
+}

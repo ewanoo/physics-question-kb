@@ -1,0 +1,18 @@
+{
+  "question_text": "A student wraps wire around an iron nail and connects it to a battery. When current flows through the wire, the nail becomes magnetic. What is this device called and what happens to the magnetic field when the current is switched off?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "temporary magnets",
+    "magnetic field",
+    "current switching"
+  ],
+  "options": null,
+  "correct_answer": "This is an electromagnet. When the current is switched off, the magnetic field around the nail disappears (or becomes very weak) because there is no current to create the magnetic field.",
+  "explanation": "An electromagnet is a temporary magnet that only produces a magnetic field when electric current flows through a coil of wire. Unlike permanent magnets, electromagnets can be switched on and off by controlling the current, making them very useful in devices like doorbells and electric motors.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "705f49ab-f9b3-47e5-a32c-134c8f9b0005"
+}

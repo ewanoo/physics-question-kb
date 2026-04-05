@@ -1,0 +1,18 @@
+{
+  "question_text": "A petrol tanker truck must be earthed (grounded) while filling at a petrol station. Why is this important and what hazard is it preventing?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity hazards",
+    "safety",
+    "earthing",
+    "grounding"
+  ],
+  "options": null,
+  "correct_answer": "Earthing the tanker prevents a dangerous buildup of static charge. Without earthing, friction from the flowing petrol could cause the truck to become highly negatively charged. A spark could jump between the truck and the nozzle, igniting the petrol vapour and causing a fire or explosion.",
+  "explanation": "As petrol flows through pipes, friction generates static electricity that builds up on the truck. If this charge is not safely discharged to the ground through an earthing cable, it could discharge suddenly as a spark, which is extremely dangerous in the presence of flammable petrol vapours. Earthing provides a safe path for the charge to flow away.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3b2e8369-20db-41e5-bfc7-6d77977d45b3"
+}

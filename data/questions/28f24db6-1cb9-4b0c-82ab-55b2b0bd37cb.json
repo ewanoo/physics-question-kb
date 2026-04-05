@@ -1,0 +1,18 @@
+{
+  "question_text": "A light ray hits a glass prism at an angle of incidence of 25\u00b0 at the first surface. Inside the prism, the angle of refraction is 15\u00b0. The light then hits the second surface of the prism from inside and undergoes total internal reflection. Draw a ray diagram showing the path of the light, and explain why total internal reflection occurred at the second surface.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "total internal reflection",
+    "ray diagrams",
+    "critical angle"
+  ],
+  "options": null,
+  "correct_answer": "Ray diagram showing: incident ray at 25\u00b0 to normal, refracted ray at 15\u00b0 to normal (bending towards normal), then second ray hitting the second surface at an angle greater than the critical angle and reflecting back inside the prism. Total internal reflection occurs when light travels from a denser medium (glass) to a less dense medium (air) at an angle greater than the critical angle.",
+  "explanation": "When light travels from glass (denser) to air (less dense) at too steep an angle, it cannot refract out into the air. Instead, all the light is reflected back into the glass\u2014this is total internal reflection. It only happens when the angle of incidence exceeds the critical angle, which for glass is typically around 42\u00b0.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "28f24db6-1cb9-4b0c-82ab-55b2b0bd37cb"
+}

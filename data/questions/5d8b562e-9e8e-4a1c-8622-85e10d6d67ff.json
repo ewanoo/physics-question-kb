@@ -1,0 +1,17 @@
+{
+  "question_text": "Name one advantage and one disadvantage of using wind turbines to generate electricity.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "wind power",
+    "advantages disadvantages"
+  ],
+  "options": null,
+  "correct_answer": "Advantage: Wind energy is renewable/free/does not produce greenhouse gases. Disadvantage: Wind turbines depend on weather/are unreliable/produce noise/take up land space.",
+  "explanation": "Wind turbines harness renewable wind energy with no fuel costs or emissions, making them environmentally friendly. However, they only generate electricity when the wind is strong enough, making them unreliable, and they can be noisy and visually intrusive.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "5d8b562e-9e8e-4a1c-8622-85e10d6d67ff"
+}

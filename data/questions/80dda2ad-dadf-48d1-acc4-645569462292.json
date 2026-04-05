@@ -1,0 +1,18 @@
+{
+  "question_text": "A beam of light enters a rectangular glass block at point A on the top surface with an angle of incidence of 30\u00b0. The angle of refraction inside the glass is 18\u00b0. The light then travels to point B on the right side of the block. At point B, the angle of incidence (measured from the normal) is 50\u00b0. Will the light exit the glass at point B, or will it undergo total internal reflection? The critical angle for this glass is 42\u00b0. Justify your answer.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "total internal reflection",
+    "critical angle",
+    "refraction",
+    "problem-solving"
+  ],
+  "options": null,
+  "correct_answer": "The light will undergo total internal reflection at point B because the angle of incidence (50\u00b0) is greater than the critical angle (42\u00b0).",
+  "explanation": "At point B, the light ray is travelling from glass (denser) to air (less dense). The angle of incidence is 50\u00b0, which exceeds the critical angle of 42\u00b0. According to the rules of total internal reflection, when the angle of incidence is greater than the critical angle, all light is reflected back into the denser medium. Therefore, the light will not exit at point B; instead it will reflect back into the glass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "80dda2ad-dadf-48d1-acc4-645569462292"
+}

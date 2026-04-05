@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the name of the process that occurs when you rub a balloon on your hair and it sticks to a wall?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "charging by friction",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Charging by conduction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Charging by induction",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Charging by friction",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Charging by heat",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Charging by friction occurs when two materials are rubbed together and electrons transfer from one material to another, creating static charge. The rubbing action between the balloon and hair causes electrons to move, giving the balloon a negative charge that attracts the neutral wall.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "cd4e4fc3-0b3d-454e-a1dd-23af23b8bfd8"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A student observes a mirage on a hot road, where the road appears to reflect the sky like a mirror. Explain what causes a mirage using your knowledge of refraction and light rays.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "total internal reflection",
+    "optical phenomena",
+    "real-world applications"
+  ],
+  "options": null,
+  "correct_answer": "Hot air near the road is less dense than cooler air above it. Light from the sky bends as it passes through layers of air with different temperatures and densities. When light rays hit the boundary between hot and cool air at a shallow angle, total internal reflection occurs, sending the light back upward. Our brain interprets this as light reflected from the road surface, creating the illusion of water or sky reflection.",
+  "explanation": "Mirages occur because hot air has a lower refractive index than cool air. Light rays from the sky bend continuously through the temperature gradient and eventually undergo total internal reflection, reaching the observer's eye as if bouncing off the ground. This is a real phenomenon caused by refraction in non-uniform media.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "355dcd08-98f1-4b8b-aa0a-31e0f3e0f36f"
+}

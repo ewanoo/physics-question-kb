@@ -1,0 +1,18 @@
+{
+  "question_text": "A renewable energy company is deciding between building a large hydroelectric dam or a wind farm. The dam would provide constant, reliable electricity but would flood a valley ecosystem. The wind farm would be clean but would depend on weather conditions. What is the main trade-off between these two options?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy comparison",
+    "environmental impact",
+    "reliability",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The trade-off is between reliability/constant power supply and environmental/ecological impact. The dam provides steady electricity but damages the ecosystem, while the wind farm is environmentally cleaner but less reliable.",
+  "explanation": "This question requires students to weigh environmental consequences against practical energy needs. Hydroelectric dams disrupt ecosystems but provide consistent power, while wind farms are renewable and cause less ecological damage but generate electricity intermittently. Students should recognise that energy decisions involve balancing multiple factors.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b762dd96-d12a-4aba-9ba4-45138c4eb3d0"
+}

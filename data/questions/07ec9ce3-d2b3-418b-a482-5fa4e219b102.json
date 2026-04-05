@@ -1,0 +1,18 @@
+{
+  "question_text": "Define static electricity and give one example of where it occurs naturally.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "definition",
+    "recall",
+    "examples"
+  ],
+  "options": null,
+  "correct_answer": "Static electricity is the buildup of electric charge on the surface of objects, usually caused by friction. An example is lightning during a thunderstorm, which occurs when charge builds up in clouds.",
+  "explanation": "Static electricity is different from current electricity because the charge stays in one place rather than flowing. Lightning is a natural example of static electricity where charge builds up in storm clouds and suddenly discharges to the ground with enormous energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "07ec9ce3-d2b3-418b-a482-5fa4e219b102"
+}

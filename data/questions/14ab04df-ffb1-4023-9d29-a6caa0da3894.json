@@ -1,0 +1,39 @@
+{
+  "question_text": "A wire carrying current downward is placed in a magnetic field pointing to the right. Using the left-hand rule, in which direction will the force on the wire act?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "left-hand rule",
+    "motor effect",
+    "force direction",
+    "magnetic field"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Into the page",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Out of the page",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Upward",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "To the left",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Using the left-hand rule: thumb points in the direction of current (downward), fingers point in the direction of the magnetic field (to the right), and the palm pushes in the direction of the force (into the page). This is the motor effect and explains how electric motors work.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "14ab04df-ffb1-4023-9d29-a6caa0da3894"
+}

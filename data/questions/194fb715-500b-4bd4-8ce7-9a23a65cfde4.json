@@ -1,0 +1,38 @@
+{
+  "question_text": "A bar magnet is cut in half. What will be true about each piece?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "magnetic poles",
+    "properties of magnets"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Each piece will have only a north pole or only a south pole",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Each piece will be a complete magnet with its own north and south poles",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pieces will lose all magnetic properties",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "One piece will have two north poles and one will have two south poles",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When a magnet is cut, each piece becomes a new magnet with its own north and south poles. You cannot create a magnet with only one pole; magnetic poles always exist in pairs. This happens because the atoms in each piece still have their magnetic properties aligned.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "194fb715-500b-4bd4-8ce7-9a23a65cfde4"
+}

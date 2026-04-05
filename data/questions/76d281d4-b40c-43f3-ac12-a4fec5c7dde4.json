@@ -1,0 +1,18 @@
+{
+  "question_text": "A circuit contains two resistors of 5\u03a9 and 10\u03a9 connected in series with a 6V power supply. Calculate the total resistance in the circuit and then use Ohm's Law to find the current flowing through the circuit.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "resistance",
+    "Ohm's Law",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Total resistance = 15\u03a9; Current = 0.4A",
+  "explanation": "In a series circuit, total resistance is found by adding all resistors: 5\u03a9 + 10\u03a9 = 15\u03a9. Using Ohm's Law (V = IR), we rearrange to find current: I = V/R = 6V/15\u03a9 = 0.4A. This shows how resistance affects current in a circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "76d281d4-b40c-43f3-ac12-a4fec5c7dde4"
+}
