@@ -1,0 +1,23 @@
+{
+  "id": "fd2d8842-f986-40c0-a191-f9c169766ceb",
+  "question_text": "Two moons orbit the same planet at different distances. Moon A is twice as far from the planet as Moon B. If Moon B has an orbital period of 10 days, approximately how long is Moon A's orbital period?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "calculation",
+    "Kepler's third law"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 28 days",
+  "explanation": "According to Kepler's third law, the square of the orbital period is proportional to the cube of the orbital distance: T\u00b2 \u221d r\u00b3. If Moon A is at distance 2r and Moon B at distance r, then T_A\u00b2/T_B\u00b2 = (2r)\u00b3/r\u00b3 = 8. Therefore, T_A\u00b2/100 = 8, so T_A\u00b2 = 800, and T_A \u2248 28 days. Moons farther away orbit much more slowly.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.505063",
+  "classified_at": "2026-04-05T08:03:09.505063",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/hard",
+  "raw_html": null
+}

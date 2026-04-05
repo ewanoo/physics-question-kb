@@ -1,0 +1,44 @@
+{
+  "id": "802f5ac3-7fb8-4134-87aa-6fa2db99da80",
+  "question_text": "Two identical kettles boil water at different locations. Kettle A is in a room at 20\u00b0C and Kettle B is in a room at 25\u00b0C. Both have the same efficiency rating of 80%. Which kettle wastes more energy as heat to the surroundings?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "critical thinking",
+    "environment"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kettle A, because the cooler room temperature increases relative heat loss",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kettle B, because the warmer room absorbs more energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both waste the same amount, because they have identical efficiency ratings and inputs",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Neither wastes heat if their efficiency is 80%",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Both waste the same amount, because they have identical efficiency ratings and inputs",
+  "explanation": "Efficiency depends on the device and its input, not the surrounding temperature. If both kettles receive the same electrical energy input and have 80% efficiency, they each waste the same 20% as heat. Room temperature affects how quickly heat dissipates, but not how much the device wastes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.503664",
+  "classified_at": "2026-04-05T08:03:09.503664",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/hard",
+  "raw_html": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1fe2f4c7-6586-4117-8fec-3b25df8a7006",
+  "question_text": "A swimmer experiences a pressure of 40,000 Pa at a certain depth in the ocean. If the pressure increases by 10,000 Pa for every 1 metre of depth, at what depth is the swimmer?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "calculation",
+    "depth"
+  ],
+  "options": null,
+  "correct_answer": "4 metres",
+  "explanation": "The additional pressure from water depth = 40,000 Pa - atmospheric pressure (approximately 10,000 Pa at surface) = 30,000 Pa. Dividing by 10,000 Pa per metre gives 30,000 / 10,000 = 3 metres below sea level, so total depth is approximately 4 metres including surface pressure.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.503938",
+  "classified_at": "2026-04-05T08:03:09.503938",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/medium",
+  "raw_html": null
+}

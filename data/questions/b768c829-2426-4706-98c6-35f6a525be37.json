@@ -1,0 +1,44 @@
+{
+  "id": "b768c829-2426-4706-98c6-35f6a525be37",
+  "question_text": "Astronomers observe a newly discovered exoplanet orbiting a distant star. The planet's orbital period is 3 years, while Earth's is 1 year. If the gravitational force from the star on the exoplanet is weaker than the Sun's force on Earth (due to greater distance), why doesn't the exoplanet fall into its star?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "conceptual",
+    "orbital mechanics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The exoplanet has stronger gravity than planets in our solar system",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The weaker gravitational force is balanced by the exoplanet's orbital velocity, keeping it in a stable, larger orbit",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The exoplanet's star is repelling rather than attracting it",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Exoplanets follow different physics rules than solar system planets",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The weaker gravitational force is balanced by the exoplanet's orbital velocity, keeping it in a stable, larger orbit",
+  "explanation": "All orbits require a balance between gravitational attraction and the orbiting object's sideways motion. A weaker gravitational force simply means the planet orbits at a greater distance and with a different velocity, resulting in a longer orbital period (3 years instead of 1 year). The physics is identical to our solar system.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504993",
+  "classified_at": "2026-04-05T08:03:09.504993",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/hard",
+  "raw_html": null
+}

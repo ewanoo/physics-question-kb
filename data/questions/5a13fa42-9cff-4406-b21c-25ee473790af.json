@@ -1,0 +1,23 @@
+{
+  "id": "5a13fa42-9cff-4406-b21c-25ee473790af",
+  "question_text": "A box with a weight of 600 N is placed on a table. Its contact area with the table is 0.5 m\u00b2. What is the pressure exerted by the box on the table?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "1200 Pa",
+  "explanation": "Pressure = Force / Area = 600 N / 0.5 m\u00b2 = 1200 Pa (Pascals). This is a straightforward application of the pressure formula, where force is the weight of the box and area is its contact surface.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.503865",
+  "classified_at": "2026-04-05T08:03:09.503865",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/easy",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1158975f-57ec-4246-ade0-b41da97a982b",
+  "question_text": "A heating system converts chemical energy from fuel into thermal energy. In winter, a home uses fuel with 2,000,000 J of chemical energy, but only 1,500,000 J heats the house; the rest escapes through walls and windows. In summer, the same fuel provides 1,800,000 J of useful heat with improved insulation. Which statement best explains the difference?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "evaluation",
+    "insulation",
+    "real-world"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The heating system uses less fuel in summer than winter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Improved insulation increases efficiency by reducing energy losses to the surroundings",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The fuel in summer contains more chemical energy than in winter",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Summer heating systems are fundamentally different machines than winter systems",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Improved insulation increases efficiency by reducing energy losses to the surroundings",
+  "explanation": "The same 2,000,000 J of fuel yields more useful heat (1,800,000 J) when insulation is better, because less energy escapes. This demonstrates that efficiency improves when waste is minimised, not by changing the fuel or the system type.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.503160",
+  "classified_at": "2026-04-05T08:03:09.503160",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/hard",
+  "raw_html": null
+}

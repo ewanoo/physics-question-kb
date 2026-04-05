@@ -1,0 +1,24 @@
+{
+  "id": "e15e60af-4b15-4760-beac-01f872276763",
+  "question_text": "A hydraulic press has a small piston with area 0.01 m\u00b2 and a large piston with area 0.5 m\u00b2. A force of 500 N is applied to the small piston. Assuming no energy loss, what is the maximum force that can be exerted by the large piston?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "calculation",
+    "hydraulics",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "25,000 N",
+  "explanation": "In a hydraulic press, pressure is transmitted equally through the fluid: P\u2081 = P\u2082. Therefore, F\u2081/A\u2081 = F\u2082/A\u2082. Rearranging: F\u2082 = F\u2081 \u00d7 (A\u2082/A\u2081) = 500 \u00d7 (0.5/0.01) = 500 \u00d7 50 = 25,000 N. This demonstrates how hydraulic systems can multiply force by using different piston areas.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504063",
+  "classified_at": "2026-04-05T08:03:09.504063",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/hard",
+  "raw_html": null
+}

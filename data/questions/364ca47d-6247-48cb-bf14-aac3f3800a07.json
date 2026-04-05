@@ -1,0 +1,23 @@
+{
+  "id": "364ca47d-6247-48cb-bf14-aac3f3800a07",
+  "question_text": "A light bulb converts 95 J of electrical energy into 5 J of light energy and 90 J of heat energy. What is its efficiency?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "5.3% or 0.053",
+  "explanation": "Efficiency = (useful energy output / total energy input) \u00d7 100%. Here, useful output is 5 J and total input is 95 J, so efficiency = (5/95) \u00d7 100 = 5.3%. This shows why old incandescent bulbs were inefficient at producing light.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.502995",
+  "classified_at": "2026-04-05T08:03:09.502995",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/easy",
+  "raw_html": null
+}

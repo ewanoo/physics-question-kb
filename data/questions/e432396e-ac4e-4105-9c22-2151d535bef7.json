@@ -1,0 +1,44 @@
+{
+  "id": "e432396e-ac4e-4105-9c22-2151d535bef7",
+  "question_text": "Why do objects fall towards Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because they are heavier than air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because Earth's gravity pulls them downwards",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because air resistance pushes them down",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because objects naturally move in circles",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Because Earth's gravity pulls them downwards",
+  "explanation": "Gravity is a force that attracts all objects with mass towards each other. Earth has a large mass, so it exerts a strong gravitational pull on smaller objects, making them fall downwards (towards Earth's centre).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504216",
+  "classified_at": "2026-04-05T08:03:09.504216",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/easy",
+  "raw_html": null
+}

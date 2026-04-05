@@ -1,0 +1,44 @@
+{
+  "id": "242859af-9dd1-4692-883b-ce454d5b91b2",
+  "question_text": "What is pressure in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total force acting on an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Force spread over an area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which an object moves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Force spread over an area",
+  "explanation": "Pressure is defined as force per unit area, measured in Pascals (Pa). A small force over a tiny area creates high pressure, while the same force over a large area creates low pressure. This is why drawing pins have sharp points\u2014to concentrate force into a small area.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.503783",
+  "classified_at": "2026-04-05T08:03:09.503783",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/easy",
+  "raw_html": null
+}

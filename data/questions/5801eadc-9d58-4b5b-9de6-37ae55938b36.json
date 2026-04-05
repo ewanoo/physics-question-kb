@@ -1,0 +1,44 @@
+{
+  "id": "5801eadc-9d58-4b5b-9de6-37ae55938b36",
+  "question_text": "A sharp-edged knife cuts food easily, but a blunt knife requires much more effort. Two identical knives are pushed with equal force into a tomato. The sharp knife creates a pressure of 50,000 Pa at its edge, while the blunt knife creates 5,000 Pa. Why does the pressure difference matter for cutting?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "evaluation",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Higher pressure exceeds the material's strength, allowing the blade to separate the tomato's cells",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The sharp knife uses more force than the blunt knife",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Tomatoes require a minimum force of 50,000 N to cut",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pressure has no effect on cutting; only force matters",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Higher pressure exceeds the material's strength, allowing the blade to separate the tomato's cells",
+  "explanation": "Materials have a pressure threshold\u2014the stress they can withstand before failing. The sharp knife's concentrated pressure (50,000 Pa) exceeds this threshold, rupturing cell walls and cutting cleanly. The blunt knife's lower pressure (5,000 Pa) merely crushes rather than cuts, as it doesn't overcome the material's strength.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504121",
+  "classified_at": "2026-04-05T08:03:09.504121",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/hard",
+  "raw_html": null
+}

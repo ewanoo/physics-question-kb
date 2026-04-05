@@ -1,0 +1,44 @@
+{
+  "id": "3482b623-c8b0-4f34-bd80-ec9f404a5cd9",
+  "question_text": "A satellite orbits Earth in a circular path. Which statement best explains why it doesn't fall straight down to Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "orbital motion",
+    "conceptual"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity doesn't act on objects in space",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The satellite's sideways velocity means it constantly falls towards Earth but misses it, creating a circular orbit",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The satellite is held up by atmospheric pressure",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The satellite has no weight in orbit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The satellite's sideways velocity means it constantly falls towards Earth but misses it, creating a circular orbit",
+  "explanation": "Gravity does act on satellites, constantly pulling them towards Earth. However, satellites have horizontal velocity. Gravity changes the direction of this velocity without stopping it, causing the satellite to follow a curved path around Earth\u2014it's always falling but always missing. This balance creates a stable orbit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504419",
+  "classified_at": "2026-04-05T08:03:09.504419",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/hard",
+  "raw_html": null
+}

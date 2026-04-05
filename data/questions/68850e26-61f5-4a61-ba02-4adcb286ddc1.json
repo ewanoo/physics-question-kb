@@ -1,0 +1,23 @@
+{
+  "id": "68850e26-61f5-4a61-ba02-4adcb286ddc1",
+  "question_text": "Earth takes 365 days to orbit the Sun, while Mars takes about 687 days. What does this tell you about Mars's orbit compared to Earth's?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "reasoning",
+    "orbital periods"
+  ],
+  "options": null,
+  "correct_answer": "Mars is farther from the Sun than Earth, so it travels a longer orbital path and moves more slowly, taking almost twice as long to complete one orbit.",
+  "explanation": "According to Kepler's laws, planets farther from the Sun orbit more slowly and take longer to complete one full orbit. Mars's 687-day orbit compared to Earth's 365-day orbit indicates that Mars travels in a larger orbit around the Sun, requiring more time to return to its starting position.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504932",
+  "classified_at": "2026-04-05T08:03:09.504932",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/medium",
+  "raw_html": null
+}

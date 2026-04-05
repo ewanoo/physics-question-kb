@@ -1,0 +1,44 @@
+{
+  "id": "9aafadc2-3609-4e4c-a11a-865d87c8c75e",
+  "question_text": "Which planet in our solar system is closest to the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "recall",
+    "solar system"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Venus",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mercury",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mars",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Mercury",
+  "explanation": "Mercury is the closest planet to the Sun in our solar system. It orbits at an average distance of about 58 million kilometres from the Sun, much closer than Venus, Earth, or Mars.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504861",
+  "classified_at": "2026-04-05T08:03:09.504861",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/easy",
+  "raw_html": null
+}

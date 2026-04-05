@@ -1,0 +1,23 @@
+{
+  "id": "61850f1f-74c9-49d3-98f2-8049b920cd10",
+  "question_text": "A nail and a wide-headed bolt are struck with equal force. The nail penetrates wood easily, but the bolt does not. Why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "application",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The nail has a smaller contact area, so the same force creates greater pressure, allowing it to penetrate the wood.",
+  "explanation": "Although both experience the same force, the nail's sharp point concentrates that force onto a much smaller area. Pressure = Force / Area, so smaller area means higher pressure. The high pressure at the nail's point exceeds the strength of wood fibres, allowing penetration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504007",
+  "classified_at": "2026-04-05T08:03:09.504007",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/medium",
+  "raw_html": null
+}

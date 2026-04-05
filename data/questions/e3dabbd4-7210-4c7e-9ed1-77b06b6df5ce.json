@@ -1,0 +1,44 @@
+{
+  "id": "e3dabbd4-7210-4c7e-9ed1-77b06b6df5ce",
+  "question_text": "What does energy efficiency measure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of energy produced by a device",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The ratio of useful energy output to total energy input",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed at which energy is transferred",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The cost of running an electrical device",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The ratio of useful energy output to total energy input",
+  "explanation": "Energy efficiency compares how much useful work or energy a device produces compared to how much energy you put into it. A more efficient device wastes less energy as heat or other losses.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.502723",
+  "classified_at": "2026-04-05T08:03:09.502723",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/easy",
+  "raw_html": null
+}

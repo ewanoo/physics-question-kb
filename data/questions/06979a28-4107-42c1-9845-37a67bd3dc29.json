@@ -1,0 +1,23 @@
+{
+  "id": "06979a28-4107-42c1-9845-37a67bd3dc29",
+  "question_text": "An astronaut on the Moon weighs 180 N, while on Earth she weighs 1080 N. The gravitational field strength on the Moon is 1.6 N/kg. What is the gravitational field strength on Earth?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "calculation",
+    "gravitational field"
+  ],
+  "options": null,
+  "correct_answer": "9.6 N/kg or 10 N/kg",
+  "explanation": "Weight = Mass \u00d7 Gravitational field strength. On the Moon: 180 = Mass \u00d7 1.6, so mass = 112.5 kg. On Earth: 1080 = 112.5 \u00d7 g, so g = 9.6 N/kg (approximately 10 N/kg). This shows that gravitational field strength varies depending on location.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504305",
+  "classified_at": "2026-04-05T08:03:09.504305",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/medium",
+  "raw_html": null
+}

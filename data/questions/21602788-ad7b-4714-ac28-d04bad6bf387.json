@@ -1,0 +1,44 @@
+{
+  "id": "21602788-ad7b-4714-ac28-d04bad6bf387",
+  "question_text": "A student drops a tennis ball from a height of 5 metres on Earth (g = 10 N/kg) and another identical ball from the same height on Jupiter (g = 25 N/kg). Ignoring air resistance, which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "calculation",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both balls hit the ground with the same speed because they fall from the same height",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Jupiter ball hits faster because the stronger gravity accelerates it more",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Earth ball hits faster because Earth's gravity is stronger overall",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The balls hit at the same time but with different speeds",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Jupiter ball hits faster because the stronger gravity accelerates it more",
+  "explanation": "Using v\u00b2 = 2gh: on Earth, v\u00b2 = 2 \u00d7 10 \u00d7 5 = 100, so v = 10 m/s. On Jupiter, v\u00b2 = 2 \u00d7 25 \u00d7 5 = 250, so v \u2248 15.8 m/s. The stronger gravitational field on Jupiter causes greater acceleration, resulting in higher impact speed. Both balls experience greater gravitational force proportional to their mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504759",
+  "classified_at": "2026-04-05T08:03:09.504759",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/hard",
+  "raw_html": null
+}

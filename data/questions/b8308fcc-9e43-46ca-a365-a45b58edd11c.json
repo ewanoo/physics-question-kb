@@ -1,0 +1,23 @@
+{
+  "id": "b8308fcc-9e43-46ca-a365-a45b58edd11c",
+  "question_text": "Planet A has twice the mass of Planet B, and Planet B has twice the radius of Planet A. How does the gravitational field strength at the surface of Planet A compare to that at Planet B?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "reasoning",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Planet A's gravitational field strength is 8 times greater than Planet B's.",
+  "explanation": "Gravitational field strength is proportional to mass and inversely proportional to the square of radius: g \u221d M/r\u00b2. If Planet A has mass 2M and radius r, and Planet B has mass M and radius 2r, then g_A/g_B = (2M/r\u00b2) / (M/(2r)\u00b2) = (2M/r\u00b2) \u00d7 (4r\u00b2/M) = 8. Planet A's higher mass and smaller radius both increase its surface gravity dramatically.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:03:09.504362",
+  "classified_at": "2026-04-05T08:03:09.504362",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/medium",
+  "raw_html": null
+}
