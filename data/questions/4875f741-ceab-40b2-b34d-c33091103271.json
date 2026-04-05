@@ -1,0 +1,38 @@
+{
+  "question_text": "A car travels 120 m in 8 seconds, then immediately travels a further 180 m in 12 seconds. Which statement correctly compares the two parts of the journey?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "comparison",
+    "multi-step"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The first part was faster because it covered less distance.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The first part was faster because the average speed was 15 m/s compared to 15 m/s in the second part.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The first part was faster because the average speed was 15 m/s compared to 15 m/s in the second part.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both parts had the same average speed of 15 m/s.",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "First part: 120 \u00f7 8 = 15 m/s. Second part: 180 \u00f7 12 = 15 m/s. Although the distances and times are different, dividing distance by time shows both sections had equal average speeds.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4875f741-ceab-40b2-b34d-c33091103271"
+}

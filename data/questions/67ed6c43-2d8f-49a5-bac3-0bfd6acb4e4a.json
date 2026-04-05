@@ -1,0 +1,17 @@
+{
+  "question_text": "A train travels at a constant speed of 25 m/s for 240 seconds, then decelerates uniformly to a stop over 40 seconds. Calculate the total distance travelled during the entire journey.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "constant speed",
+    "deceleration",
+    "total distance"
+  ],
+  "options": null,
+  "correct_answer": "6500 m",
+  "explanation": "Part 1 (constant speed): distance = speed \u00d7 time = 25 \u00d7 240 = 6000 m. Part 2 (deceleration): using the formula for uniform deceleration, distance = (initial speed + final speed) \u00f7 2 \u00d7 time = (25 + 0) \u00f7 2 \u00d7 40 = 500 m. Total distance = 6000 + 500 = 6500 m.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "67ed6c43-2d8f-49a5-bac3-0bfd6acb4e4a"
+}

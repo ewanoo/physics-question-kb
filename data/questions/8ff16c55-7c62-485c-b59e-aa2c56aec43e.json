@@ -1,0 +1,17 @@
+{
+  "question_text": "A chocolate bar contains 2000 kJ of chemical energy. Explain why the chemical energy stored in the chocolate cannot all be converted into kinetic energy if a person eats it and then runs.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "efficiency",
+    "energy loss"
+  ],
+  "options": null,
+  "correct_answer": "The human body is not 100% efficient. Some energy is lost as heat, used for maintaining body functions, and wasted during digestion, so not all the chemical energy can be converted into the kinetic energy of running.",
+  "explanation": "This tests understanding that energy transfers are never 100% efficient. The body loses energy through heat production, respiration, digestion, and maintaining bodily functions. Only a fraction of food energy becomes kinetic energy for movement.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8ff16c55-7c62-485c-b59e-aa2c56aec43e"
+}

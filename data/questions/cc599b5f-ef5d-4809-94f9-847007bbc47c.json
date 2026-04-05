@@ -1,0 +1,17 @@
+{
+  "question_text": "A student uses a voltmeter to measure the voltage across a resistor in a circuit. The voltmeter reads 12 V. The current flowing through the resistor is 2 A. Calculate the resistance of the resistor using the equation V = IR.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "resistance",
+    "ohm's law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "6 \u03a9",
+  "explanation": "Using V = IR, we can rearrange to find R: R = V \u00f7 I. Substituting the values: R = 12 V \u00f7 2 A = 6 \u03a9. The resistance of the component is 6 ohms.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cc599b5f-ef5d-4809-94f9-847007bbc47c"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "In a circuit, a 9 V battery is connected to a circuit element. An ammeter measures the current as 3 A. Is the circuit element likely to be a low resistance or high resistance component? Explain your answer.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "resistance",
+    "current",
+    "voltage"
+  ],
+  "options": null,
+  "correct_answer": "Low resistance. Using R = V \u00f7 I, the resistance is 9 \u00f7 3 = 3 \u03a9, which is a relatively low resistance value that allows a large current to flow.",
+  "explanation": "When voltage is fixed, a large current indicates low resistance (as I = V/R). With 3 A flowing from a 9 V source, we can calculate R = 3 \u03a9, which is considered low resistance. A high resistance would restrict current flow to a much smaller value.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "062ce51d-bce6-4631-b21d-1bb995b78567"
+}

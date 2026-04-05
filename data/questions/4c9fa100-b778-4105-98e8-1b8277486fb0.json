@@ -1,0 +1,38 @@
+{
+  "question_text": "A student connects a lamp to a 6 V power supply. The current flowing through the lamp is 0.5 A. Which statement correctly describes the relationship between voltage and current in this circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage",
+    "current",
+    "circuit"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Voltage and current are inversely proportional; higher voltage always means lower current",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The voltage of the power supply determines the potential difference, and the current depends on the resistance of the lamp",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Current and voltage are independent; voltage has no effect on how much current flows",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The 0.5 A current means the voltage must be 0.5 V regardless of the power supply",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Voltage is the potential difference provided by the power supply, while current is the flow of charge through a circuit. For a fixed resistor (like a lamp), the voltage and current are related by Ohm's Law: V = IR. The power supply voltage drives the current, but the actual current depends on the circuit's resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4c9fa100-b778-4105-98e8-1b8277486fb0"
+}

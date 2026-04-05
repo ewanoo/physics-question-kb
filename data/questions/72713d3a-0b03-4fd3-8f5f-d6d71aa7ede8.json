@@ -1,0 +1,17 @@
+{
+  "question_text": "The Moon orbits Earth, and Earth orbits the Sun. Both orbits are roughly circular. Explain why the Moon doesn't escape Earth's gravity and fly off into space, even though Earth is moving around the Sun.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational_force",
+    "orbital_motion",
+    "extended_reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The Moon stays in orbit around Earth because Earth's gravitational pull is strong enough to keep it in a circular path. Even though Earth moves around the Sun, Earth's gravity continuously pulls the Moon towards it, preventing it from escaping.",
+  "explanation": "This tests understanding that gravity acts continuously and that orbital motion requires a centripetal force. Year 8 students should recognize that an object in orbit is still under the influence of gravity\u2014it's not 'escaping' but rather falling towards the body while also moving sideways.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "72713d3a-0b03-4fd3-8f5f-d6d71aa7ede8"
+}

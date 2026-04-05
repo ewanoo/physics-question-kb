@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes what happens when a spring is stretched within its elastic limit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "spring behaviour",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The spring is permanently deformed and cannot return to its original shape",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The spring returns to its original length when the force is removed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The spring becomes stiffer and requires less force to extend further",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The spring breaks immediately when any force is applied",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Within the elastic limit, springs behave elastically, meaning they return to their original shape once the force is removed. Beyond this limit, permanent deformation occurs.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0ae40974-f080-4981-8f73-1f611263072f"
+}

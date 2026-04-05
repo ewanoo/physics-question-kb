@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following devices converts the highest percentage of energy into useful work?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy_conversion",
+    "devices"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "An incandescent light bulb (efficiency = 5%)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An electric motor (efficiency = 85%)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A traditional kettle (efficiency = 40%)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A petrol engine (efficiency = 25%)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An electric motor at 85% efficiency converts the most energy into useful work. The incandescent bulb and petrol engine waste most of their energy as heat, while the kettle, although reasonable, is less efficient than the motor.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "eb933919-5d13-4e5e-89e4-d1e98486c27a"
+}

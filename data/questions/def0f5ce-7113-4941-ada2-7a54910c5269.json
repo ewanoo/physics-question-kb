@@ -1,0 +1,39 @@
+{
+  "question_text": "Two light bulbs are connected to the same 230 V power supply. Bulb X has a power rating of 60 W, and Bulb Y has a power rating of 100 W. Which statement best explains why Bulb Y is brighter?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "brightness",
+    "energy transfer",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Bulb Y transfers more electrical energy to light energy per second than Bulb X.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Bulb Y uses a higher voltage than Bulb X.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Bulb Y has a lower resistance, so it is brighter.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Bulb Y transfers energy for a longer time than Bulb X.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Power is the rate of energy transfer per second. Since Bulb Y has a higher power rating (100 W vs 60 W), it transfers more energy each second, producing more light and appearing brighter. Both bulbs experience the same voltage, so option B is incorrect. Brightness depends on power (rate), not resistance or duration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "def0f5ce-7113-4941-ada2-7a54910c5269"
+}

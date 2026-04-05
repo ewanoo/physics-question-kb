@@ -1,0 +1,17 @@
+{
+  "question_text": "A student pushes a heavy box across the floor. Name the type of force that opposes the motion of the box as it slides.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "friction",
+    "contact forces",
+    "opposing motion"
+  ],
+  "options": null,
+  "correct_answer": "Friction (or sliding friction)",
+  "explanation": "Friction is the contact force that acts between two surfaces in contact and always opposes the direction of motion. It acts parallel to the surfaces and prevents the box from sliding freely.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8ebaa8d2-70fa-4c14-bfcf-fb1e02dca8e2"
+}

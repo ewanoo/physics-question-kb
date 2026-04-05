@@ -1,0 +1,38 @@
+{
+  "question_text": "A book is resting on a table. Which pair of forces are acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "weight",
+    "normal force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Weight acting downwards and normal force acting upwards",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Friction acting downwards and air resistance acting upwards",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Tension acting downwards and weight acting upwards",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Applied force acting downwards and normal force acting sideways",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Weight is the gravitational force pulling the book downwards, and the normal force is the contact force from the table pushing the book upwards. These two forces are balanced, which is why the book stays at rest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "27f6484f-d8bc-4482-b7d0-343be93d9bff"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A box is being pulled across a rough floor. The friction force acting on the box is 50 N. What is the size of the force needed to keep the box moving at a constant speed?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "forces",
+    "equilibrium",
+    "Newton's laws"
+  ],
+  "options": null,
+  "correct_answer": "50 N. To maintain constant speed, the pulling force must equal the friction force so the forces are balanced.",
+  "explanation": "When an object moves at constant speed, the net force is zero (the object is in equilibrium). This means the pulling force must be equal in size but opposite in direction to the friction force. Therefore, the pulling force must be 50 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cc2a1290-cb7d-419a-9e40-d1ccda2bf8e8"
+}

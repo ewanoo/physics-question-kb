@@ -1,0 +1,18 @@
+{
+  "question_text": "A car is driving along a road at a constant speed. Air resistance acts on the car with a force of 500 N. What is the driving force that the car's engine must provide to maintain this constant speed?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "friction",
+    "air resistance",
+    "balanced forces",
+    "constant velocity"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "When a car travels at constant speed, the driving force must equal the resistance forces (air resistance and friction). Since the net force is zero, the driving force = air resistance = 500 N. This is an application of Newton's first law: no acceleration means balanced forces.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c6091798-613f-48d6-8462-5f21fb525911"
+}

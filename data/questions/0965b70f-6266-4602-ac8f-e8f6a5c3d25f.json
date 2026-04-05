@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why a person needs to eat food regularly throughout the day?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "food energy",
+    "metabolism"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Food is needed to replace the chemical energy continuously used by the body for movement, heat production, and other processes",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Food needs to be eaten regularly because the stomach can only hold a certain amount at one time",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Eating regularly helps the body store more energy as fat for emergencies",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Food is only needed to build muscles and bones, not for energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The body continuously uses energy from food for vital processes like respiration, maintaining body temperature, and muscle activity. When energy stores are depleted, the body needs more food to replenish them. Options B, C, and D are either partially true but not the main reason or are incorrect.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0965b70f-6266-4602-ac8f-e8f6a5c3d25f"
+}

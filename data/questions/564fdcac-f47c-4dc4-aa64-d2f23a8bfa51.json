@@ -1,0 +1,17 @@
+{
+  "question_text": "A student eats a banana which contains 420 kJ of chemical energy. If the student's body is 25% efficient at converting food energy into useful work, how much useful energy can the student's body obtain from the banana?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "efficiency",
+    "food energy"
+  ],
+  "options": null,
+  "correct_answer": "105 kJ",
+  "explanation": "Using the efficiency formula: useful energy = efficiency \u00d7 total energy. Useful energy = 0.25 \u00d7 420 kJ = 105 kJ. This shows that not all food energy is converted to useful work; much is lost as heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "564fdcac-f47c-4dc4-aa64-d2f23a8bfa51"
+}

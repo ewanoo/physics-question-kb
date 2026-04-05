@@ -1,0 +1,19 @@
+{
+  "question_text": "A student investigates the density of different materials. They measure a block of aluminium with a mass of 270 g and a volume of 100 cm\u00b3. They then cut the aluminium block into 10 equal pieces. How does the density of each small piece compare to the original block, and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "density",
+    "mass",
+    "volume",
+    "particle model",
+    "properties of matter"
+  ],
+  "options": null,
+  "correct_answer": "The density remains the same (2.7 g/cm\u00b3). When matter is divided into smaller pieces, both mass and volume decrease proportionally, so the ratio (density) stays constant because the arrangement and spacing of particles does not change.",
+  "explanation": "This question requires students to understand that density is an intensive property that does not depend on the amount of material. Although the mass and volume both decrease by a factor of 10, their ratio remains the same because the internal particle structure and spacing remain unchanged.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2bc16fe0-4dd6-4022-b0f1-86d2a3f6c131"
+}

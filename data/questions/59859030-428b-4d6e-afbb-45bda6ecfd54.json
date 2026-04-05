@@ -1,0 +1,18 @@
+{
+  "question_text": "A block of ice slides across a frozen lake with very little friction. Why does the block eventually slow down and stop if friction is so small?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "forces",
+    "motion",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "Even though friction is very small, it still acts as a force opposing the motion. Over time, this small friction force removes energy from the block, causing it to gradually slow down until it stops.",
+  "explanation": "Friction, no matter how small, always opposes motion and removes energy. The ice has very low friction compared to other surfaces, but it is not zero. This small friction force continuously acts against the block's motion, gradually reducing its speed until the block comes to rest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "59859030-428b-4d6e-afbb-45bda6ecfd54"
+}

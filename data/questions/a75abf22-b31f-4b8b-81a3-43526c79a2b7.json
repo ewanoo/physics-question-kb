@@ -1,0 +1,17 @@
+{
+  "question_text": "A 2 kg book is lifted 1.5 metres onto a high shelf. Calculate the gravitational potential energy stored in the book. (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "calculation",
+    "formula application"
+  ],
+  "options": null,
+  "correct_answer": "30 J",
+  "explanation": "Using the formula E_p = m \u00d7 g \u00d7 h: E_p = 2 \u00d7 10 \u00d7 1.5 = 30 J. This is a straightforward one-step calculation requiring students to apply the gravitational potential energy formula with given values.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a75abf22-b31f-4b8b-81a3-43526c79a2b7"
+}

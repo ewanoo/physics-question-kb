@@ -1,0 +1,19 @@
+{
+  "question_text": "Three identical beakers contain: (A) ice at -5\u00b0C, (B) water at 20\u00b0C, and (C) steam at 100\u00b0C. All three beakers are left in a room at 15\u00b0C. Predict which substance will change state first and explain your reasoning using the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "particle model",
+    "temperature",
+    "energy transfer",
+    "phase change"
+  ],
+  "options": null,
+  "correct_answer": "Steam will change state first (condensing to liquid). Steam particles have the most kinetic energy and are furthest from the room temperature of 15\u00b0C, so they will lose energy and slow down most rapidly until particles can form stronger bonds and condense into liquid water.",
+  "explanation": "This question requires students to compare three different states and predict which will change based on energy differences between the substance and surroundings. It combines understanding of particle kinetic energy, temperature differences, and the conditions needed for phase changes\u2014all core Year 8 particle model concepts.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e2f8e3f8-6916-494d-bb5f-87b9caa64929"
+}

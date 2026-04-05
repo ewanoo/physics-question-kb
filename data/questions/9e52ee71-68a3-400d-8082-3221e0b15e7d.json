@@ -1,0 +1,17 @@
+{
+  "question_text": "A stretched rubber band is released and flies across the room. Explain which energy stores are involved in this process.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "kinetic energy",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "The stretched rubber band has elastic potential energy stored in it. When released, this elastic potential energy is transferred to kinetic energy as the rubber band moves across the room.",
+  "explanation": "This tests understanding of energy transfer between two specific stores. Students must identify elastic potential energy in the stretched object and recognise how it converts to kinetic energy during motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9e52ee71-68a3-400d-8082-3221e0b15e7d"
+}

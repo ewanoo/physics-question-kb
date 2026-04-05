@@ -1,0 +1,17 @@
+{
+  "question_text": "A light bulb converts 40 J of electrical energy into 10 J of light energy and 30 J of heat energy. What is the efficiency of the light bulb?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "calculation",
+    "energy_conversion"
+  ],
+  "options": null,
+  "correct_answer": "25% (or 0.25)",
+  "explanation": "Efficiency = (useful energy out \u00f7 total energy in) \u00d7 100. The useful energy is the light (10 J) and the total energy input is 40 J. So efficiency = (10 \u00f7 40) \u00d7 100 = 25%.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b636d5da-891e-4717-af2a-8df840240a6d"
+}

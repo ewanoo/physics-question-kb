@@ -1,0 +1,18 @@
+{
+  "question_text": "A motor with a power rating of 4800 W runs for 45 minutes to lift a heavy object. How much total energy does the motor transfer during this time? (Hint: Energy = Power \u00d7 Time, and convert minutes to seconds)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "calculation",
+    "time conversion"
+  ],
+  "options": null,
+  "correct_answer": "12,960,000 J or 12.96 MJ",
+  "explanation": "Formula: Energy = Power \u00d7 Time. First convert 45 minutes to seconds: 45 \u00d7 60 = 2700 s. Then E = 4800 W \u00d7 2700 s = 12,960,000 J. This can also be written as 12.96 MJ (megajoules). The multi-step process and unit conversion make this challenging.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7a09e7d2-ea99-40d2-aefa-4dc37deaea16"
+}

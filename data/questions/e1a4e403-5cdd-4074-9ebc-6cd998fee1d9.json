@@ -1,0 +1,38 @@
+{
+  "question_text": "A satellite orbits Earth at a height where gravitational force provides exactly the centripetal force needed for circular orbit. If the satellite were moved to twice this orbital height (but still in orbit), what would happen to its orbital speed? Choose the best answer.",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "orbital_motion",
+    "inverse_square_law",
+    "multi_step"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It would increase because there is less air resistance at higher altitudes.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It would decrease because gravitational force is weaker at greater distance, so less speed is needed to stay in orbit.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It would stay the same because orbital speed depends only on the satellite's mass.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It would double because the orbital height has doubled.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "For a circular orbit, gravitational force provides centripetal force. At greater distance, gravity is weaker (inverse square law), so a lower orbital speed is needed to maintain a circular path. Option B correctly identifies both the mechanism (weaker gravity) and the result (lower speed needed), avoiding the incorrect reasoning in other options.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e1a4e403-5cdd-4074-9ebc-6cd998fee1d9"
+}

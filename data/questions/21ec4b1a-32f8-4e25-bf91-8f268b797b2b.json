@@ -1,0 +1,38 @@
+{
+  "question_text": "A student slides a book across a wooden table. Which of the following would increase the friction force between the book and the table?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "forces",
+    "surfaces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sliding the book faster across the table",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Placing a heavy weight on top of the book",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Making the table surface smoother",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Reducing the area of the book in contact with the table",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction increases when the normal force (weight pressing down) increases. Adding a heavy weight on top of the book increases the force pressing the book onto the table, so friction increases. Speed, smoothness, and contact area do not significantly affect friction at this level.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "21ec4b1a-32f8-4e25-bf91-8f268b797b2b"
+}

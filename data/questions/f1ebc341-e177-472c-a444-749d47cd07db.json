@@ -1,0 +1,18 @@
+{
+  "question_text": "A student compares two kettles: Kettle A uses 2000 W and boils water in 5 minutes, while Kettle B uses 1500 W and boils water in 7 minutes. Which kettle is more energy-efficient, and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "efficiency",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Kettle A is more energy-efficient because it transfers the required energy in less time, meaning it wastes less heat to the surroundings during the boiling process.",
+  "explanation": "This requires comparing both power and time. Kettle A transfers energy faster (higher power) and completes the task more quickly, so less energy is lost as waste heat to the surroundings. Although it has higher power, the shorter duration means better overall efficiency.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f1ebc341-e177-472c-a444-749d47cd07db"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A cyclist accelerates from rest and reaches a speed of 8 m/s after 4 seconds. The cyclist then travels at this constant speed for 6 seconds before applying the brakes and coming to a stop in 2 seconds. Sketch a speed-time graph for this journey and explain what the area under the graph represents.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "speed-time graph",
+    "distance",
+    "interpretation"
+  ],
+  "options": null,
+  "correct_answer": "The graph shows three sections: a diagonal line from (0,0) to (4,8) representing acceleration, a horizontal line from (4,8) to (10,8) representing constant speed, and a diagonal line from (10,8) to (12,0) representing deceleration. The area under the graph represents the total distance travelled.",
+  "explanation": "A speed-time graph's area under the line always represents distance because distance = speed \u00d7 time. The three sections show acceleration (triangular area), constant speed (rectangular area), and braking (triangular area), with the total area giving the journey's total distance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7f861478-d170-4197-bb14-58639c19abeb"
+}

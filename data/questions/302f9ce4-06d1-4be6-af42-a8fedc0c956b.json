@@ -1,0 +1,19 @@
+{
+  "question_text": "A sealed glass container at room temperature contains a gas. The container is heated, and the gas pressure inside increases significantly. Using the particle model of matter, explain why the pressure increases and why the container does not expand.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "gas pressure",
+    "particle model",
+    "temperature",
+    "kinetic energy",
+    "container properties"
+  ],
+  "options": null,
+  "correct_answer": "Heating increases the kinetic energy and speed of gas particles, causing them to collide more frequently and forcefully with the container walls, increasing pressure. The container does not expand because glass is a rigid solid with strong intermolecular forces that resist deformation.",
+  "explanation": "This tests understanding of the particle model applied to gases and solids, and the relationship between temperature, particle motion, and pressure. Students must explain both why pressure increases (particle behavior) and why the container stays rigid (solid properties), demonstrating multi-step reasoning.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "302f9ce4-06d1-4be6-af42-a8fedc0c956b"
+}

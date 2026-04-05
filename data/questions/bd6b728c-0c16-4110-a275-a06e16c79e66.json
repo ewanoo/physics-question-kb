@@ -1,0 +1,17 @@
+{
+  "question_text": "A spring has a spring constant of 50 N/m. If a force of 10 N is applied to the spring, how much does it extend?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "Hooke's Law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.2 m (or 20 cm)",
+  "explanation": "Using Hooke's Law: F = k \u00d7 e. Rearranging: e = F \u00f7 k = 10 \u00f7 50 = 0.2 m. This shows how to apply the spring constant formula to find extension.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bd6b728c-0c16-4110-a275-a06e16c79e66"
+}

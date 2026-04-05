@@ -1,0 +1,17 @@
+{
+  "question_text": "A student compares two planets: Planet X has twice the mass of Earth but the same radius. Planet Y has the same mass as Earth but twice the radius. Based on the relationship between gravitational force, mass, and distance, which planet would have the strongest gravitational field at its surface? Explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational_field",
+    "mass_and_distance",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Planet X has the strongest gravitational field. Doubling mass doubles gravitational force, but doubling distance (radius) reduces it by a factor of 4 (inverse square law). Planet X: 2\u00d7 stronger. Planet Y: \u00f74 weaker. Therefore X is stronger.",
+  "explanation": "This requires students to apply the inverse square law and compare the relative effects of mass and distance changes. They must recognize that distance has a squared effect, making it more significant than a linear mass change.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1b756e54-7f05-4d51-a6a9-2ddbc85fd05b"
+}

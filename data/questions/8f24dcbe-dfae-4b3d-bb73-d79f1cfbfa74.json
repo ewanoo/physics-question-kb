@@ -1,0 +1,17 @@
+{
+  "question_text": "A student compresses a spring by 5 cm using a force of 25 N. What is the spring constant of the spring?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "Hooke's Law",
+    "compression"
+  ],
+  "options": null,
+  "correct_answer": "500 N/m",
+  "explanation": "Using Hooke's Law (F = k \u00d7 e), rearrange to find k = F \u00f7 e. Convert 5 cm to 0.05 m, then k = 25 \u00f7 0.05 = 500 N/m. The spring constant tells us the stiffness of the spring.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8f24dcbe-dfae-4b3d-bb73-d79f1cfbfa74"
+}

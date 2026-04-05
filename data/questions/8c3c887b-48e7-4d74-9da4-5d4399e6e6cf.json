@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is thrown upwards into the air. At the highest point of its journey, which energy store is at its maximum?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Elastic potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thermal energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At the highest point, the ball momentarily stops moving, so kinetic energy is zero. All the energy has been transferred to gravitational potential energy because the ball is at maximum height.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8c3c887b-48e7-4d74-9da4-5d4399e6e6cf"
+}
