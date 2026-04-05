@@ -1,0 +1,21 @@
+{
+  "question_text": "Describe the difference between amplitude and frequency of a wave. Use an example to help explain your answer.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "frequency",
+    "definitions",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Amplitude is the maximum distance a particle moves from its rest position (it measures how 'big' or 'tall' the wave is). Frequency is how many complete waves pass a point in one second (measured in Hz). For example, if you shake a rope gently, it has low amplitude but might have a frequency of 2 Hz; if you shake it hard and fast, it has high amplitude and a higher frequency like 5 Hz.",
+  "explanation": "Amplitude and frequency are two independent properties of waves. Amplitude affects the energy of the wave (bigger amplitude = more energy), while frequency affects how many waves occur per second. A wave can have high amplitude with low frequency, or low amplitude with high frequency. Both properties are important in describing wave behaviour.",
+  "quality_score": 5,
+  "id": "30faf1d9-c416-4f89-9001-b3bd1946e9f0",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:19.106039"
+}

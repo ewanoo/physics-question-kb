@@ -1,0 +1,41 @@
+{
+  "question_text": "A book is resting on a table. Which of the following best describes the forces acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "Newton's first law",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight force is much larger than the normal force from the table",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The weight force downwards equals the normal force upwards, so the forces are balanced",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There is only one force acting on the book: gravity",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The forces are unbalanced, which is why the book stays at rest",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When an object is at rest, the forces acting on it must be balanced. The downward pull of gravity (weight) is balanced by the upward push from the table (normal force), so the book doesn't accelerate.",
+  "quality_score": 4,
+  "id": "20a31ea9-920c-4e1b-af48-816da5e54534",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:00.811918"
+}

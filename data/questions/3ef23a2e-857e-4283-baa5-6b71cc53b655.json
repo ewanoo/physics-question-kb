@@ -1,0 +1,20 @@
+{
+  "question_text": "Why does the Earth experience seasons?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "seasons",
+    "axial tilt"
+  ],
+  "options": null,
+  "correct_answer": "The Earth's axis is tilted at about 23.5 degrees. As Earth orbits the Sun, different parts of Earth are tilted towards or away from the Sun, causing the hemisphere tilted towards the Sun to receive more direct sunlight and heat, creating summer, while the other hemisphere receives less direct sunlight, creating winter.",
+  "explanation": "The tilt of Earth's axis is the main reason we have seasons. When your hemisphere is tilted towards the Sun, the Sun's rays hit more directly and spend more hours in the sky each day, making it warmer (summer). When tilted away, rays are less direct and days are shorter, making it colder (winter).",
+  "quality_score": 4,
+  "id": "3ef23a2e-857e-4283-baa5-6b71cc53b655",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:01.425206"
+}

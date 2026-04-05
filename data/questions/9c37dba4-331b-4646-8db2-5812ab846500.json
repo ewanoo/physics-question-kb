@@ -1,0 +1,40 @@
+{
+  "question_text": "Which of the following statements about magnetic poles is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic poles",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Every magnet has only one pole.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Every magnet has a north pole and a south pole.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Magnetic poles can be separated by breaking a magnet in half.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A magnet's south pole is always stronger than its north pole.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Every magnet always has two poles: a north pole and a south pole. If you break a magnet in half, each piece will have its own north and south pole\u2014you cannot separate them.",
+  "quality_score": 4,
+  "id": "9c37dba4-331b-4646-8db2-5812ab846500",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:28.158254"
+}

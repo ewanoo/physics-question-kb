@@ -1,0 +1,22 @@
+{
+  "question_text": "A city is located on the equator. Explain why this city experiences roughly equal day and night lengths throughout the year, whereas a city in the far north experiences very different day lengths between summer and winter.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "day length",
+    "hemispheres",
+    "equator",
+    "axial tilt",
+    "latitude"
+  ],
+  "options": null,
+  "correct_answer": "At the equator, the Sun is always roughly directly overhead (or nearly so) throughout the year. Because the equator is perpendicular to Earth's axis tilt, the tilt does not cause the Sun to be significantly more or less direct at different times of year. Therefore, day length stays about 12 hours all year. At high latitudes (far north), the axial tilt has a much bigger effect: in summer, the hemisphere is tilted towards the Sun, causing very long days, and in winter, it is tilted away, causing very short days.",
+  "explanation": "The effect of Earth's tilt on day length depends on latitude. At the equator, the tilt effect is minimal, so day and night are always roughly equal. At high latitudes (north or south), the tilt creates huge differences in day length between seasons. The further from the equator you are, the more extreme the seasonal day length changes become.",
+  "quality_score": 4,
+  "id": "397ce006-41aa-47b4-810d-a08ae60a6c14",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:01.425546"
+}

@@ -1,0 +1,21 @@
+{
+  "question_text": "During June in the Northern Hemisphere, the day length is approximately 16 hours. What is the approximate day length at the same time in the Southern Hemisphere?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "day length",
+    "hemispheres",
+    "seasons",
+    "axial tilt"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 8 hours (or any answer between 7-9 hours is acceptable)",
+  "explanation": "In June, the Northern Hemisphere is tilted towards the Sun (summer), so day length is long (16 hours). At the same time, the Southern Hemisphere is tilted away from the Sun (winter), so day length is short. When it is summer in one hemisphere with long days, it is winter in the other with short days. The day lengths are roughly opposite, so approximately 24 - 16 = 8 hours.",
+  "quality_score": 4,
+  "id": "3ce61045-4d6d-4108-bd44-307749492a09",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:01.425392"
+}

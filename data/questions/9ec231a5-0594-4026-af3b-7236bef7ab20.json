@@ -1,0 +1,23 @@
+{
+  "question_text": "A sound wave travels through air at 330 m/s. The frequency of the sound is 220 Hz. A student calculates the wavelength using the equation: wavelength = wave speed \u00f7 frequency. The student then says 'A louder sound would have a shorter wavelength.' Evaluate whether this statement is correct. Explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave_speed",
+    "wavelength",
+    "frequency",
+    "longitudinal_waves",
+    "loudness",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The statement is incorrect. A louder sound has greater amplitude, not shorter wavelength. The wavelength depends only on wave speed and frequency (wavelength = speed \u00f7 frequency). If the wave speed and frequency stay the same, the wavelength stays the same, regardless of amplitude. A louder sound means the sound wave has higher amplitude (particles vibrate further), not a shorter wavelength.",
+  "explanation": "This is a hard question because it requires students to distinguish between amplitude (related to loudness) and wavelength (related to wave speed and frequency). Many students incorrectly link loudness directly to wavelength. The key insight is that amplitude and wavelength are independent properties. The equation wavelength = wave speed \u00f7 frequency shows that only speed and frequency affect wavelength, not amplitude. For a given frequency and speed, all sound waves have the same wavelength, whether they are quiet (low amplitude) or loud (high amplitude).",
+  "quality_score": 5,
+  "id": "9ec231a5-0594-4026-af3b-7236bef7ab20",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:19.106102"
+}

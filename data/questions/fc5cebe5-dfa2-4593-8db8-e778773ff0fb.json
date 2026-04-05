@@ -1,0 +1,41 @@
+{
+  "question_text": "A transverse wave is travelling along a rope. Which of the following best describes the direction of particle movement in a transverse wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "transverse_waves",
+    "particle_motion",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles move in the same direction as the wave travels",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles move perpendicular (at right angles) to the direction the wave travels",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles move backwards and forwards along the ground",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles move in circles around the wave",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a transverse wave, particles vibrate up and down (or side to side) while the wave energy travels horizontally along the rope. This is perpendicular (at right angles) to the direction of wave travel. Sound waves are different\u2014they are longitudinal waves where particles move back and forth in the same direction as the wave travels.",
+  "quality_score": 5,
+  "id": "fc5cebe5-dfa2-4593-8db8-e778773ff0fb",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:19.105711"
+}

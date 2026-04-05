@@ -1,0 +1,21 @@
+{
+  "question_text": "A student observes a pencil in a glass of water. The pencil appears bent at the water surface even though it is straight. Explain this observation using your knowledge of refraction, and state whether the pencil is actually bent.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light bending",
+    "apparent position",
+    "critical thinking"
+  ],
+  "options": null,
+  "correct_answer": "The pencil appears bent because light from the underwater part of the pencil refracts (bends) as it travels from water into air. This bending changes the direction of the light rays reaching the student's eyes, making the underwater part appear to be in a different position. The pencil is not actually bent; it only appears bent due to refraction.",
+  "explanation": "This is a classic refraction demonstration. Light bends when moving between two materials of different optical density (water and air). The light from the part of the pencil in water bends away from the normal as it exits into air, making that part appear displaced. This shows that refraction can create illusions about the true position of objects.",
+  "quality_score": 5,
+  "id": "a4fd495f-b16f-4012-ad3a-9509fc10226e",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:09.882146"
+}

@@ -1,0 +1,20 @@
+{
+  "question_text": "Two bar magnets are placed with their north poles facing each other, 5 cm apart. The force of repulsion between them is 0.8 N. If the magnets are moved so they are 10 cm apart, what will happen to the repulsive force?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "force between magnets",
+    "inverse square law",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The force will decrease to about 0.2 N (or one-quarter of the original force). When the distance doubles, the force becomes one-quarter because magnetic force follows an inverse square law: if distance doubles (\u00d72), force becomes 1/(2\u00b2) = 1/4 of the original.",
+  "explanation": "Magnetic force decreases with the square of the distance. When distance doubles from 5 cm to 10 cm, the force reduces by a factor of 2\u00b2 = 4, so 0.8 N \u00f7 4 = 0.2 N. This is why magnets are much weaker when farther apart.",
+  "quality_score": 4,
+  "id": "a8132adf-6ab4-47e9-8e3b-dbeb18e64e15",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:28.158563"
+}

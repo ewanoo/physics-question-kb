@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following is the correct definition of speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "definition",
+    "speed",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Speed is the change in direction of an object.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Speed is the distance travelled per unit time.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Speed is the force acting on an object.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Speed is the amount of time it takes to stop moving.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Speed is defined as how far something travels in a given time period. Option B is the correct definition; the others confuse speed with direction (velocity), force, and braking time.",
+  "quality_score": 4,
+  "id": "b8df666d-d40a-45ad-96d4-3385047e21e8",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:42.357640"
+}

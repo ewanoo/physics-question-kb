@@ -1,0 +1,21 @@
+{
+  "question_text": "Explain what happens to light when it travels from air into water, and why this happens.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light speed",
+    "density",
+    "water vs air"
+  ],
+  "options": null,
+  "correct_answer": "Light slows down when it enters water from air, causing it to bend (refract) towards the normal. This happens because water is denser than air, and light travels more slowly in denser materials.",
+  "explanation": "Refraction occurs because light travels at different speeds in different materials. Water is optically denser than air, so light slows down and bends towards the normal line. This is why objects underwater appear to be in a different position than they actually are.",
+  "quality_score": 4,
+  "id": "643699cf-3e9f-4102-8201-f5729bee5b51",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:09.882069"
+}

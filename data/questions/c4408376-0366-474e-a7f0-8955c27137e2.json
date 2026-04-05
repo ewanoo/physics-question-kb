@@ -1,0 +1,21 @@
+{
+  "question_text": "A student rubs a glass rod with silk and it becomes positively charged. The student then uses this rod to pick up small pieces of paper by static attraction. Explain why the paper pieces are attracted to the positively charged rod, and predict what would happen if the paper pieces touched the rod for several seconds.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "induction",
+    "charge transfer",
+    "attraction mechanism",
+    "electron movement"
+  ],
+  "options": null,
+  "correct_answer": "The paper is attracted because the positively charged rod creates an electric field that induces a negative charge (or causes electrons to move) on the nearest surface of the paper, causing opposite charges to attract. After several seconds of contact, electrons from the paper would transfer to the rod, so the paper would also become positively charged and would then be repelled.",
+  "explanation": "When the positively charged rod is near paper, it repels electrons in the paper towards the closest edge, making that edge negatively charged\u2014this creates attraction (opposite charges). However, when the paper touches the rod for a long time, electrons can flow from the paper to the rod. Once both are positively charged, repulsion occurs.",
+  "quality_score": 5,
+  "id": "c4408376-0366-474e-a7f0-8955c27137e2",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:36.028034"
+}

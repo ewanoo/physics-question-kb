@@ -1,0 +1,41 @@
+{
+  "question_text": "When you rub a balloon on your hair, electrons are transferred to the balloon. What type of charge does the balloon become?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "charging by friction",
+    "electron transfer",
+    "charge types"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Positive charge",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Negative charge",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Neutral charge",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both positive and negative charge",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When electrons (which carry negative charge) are transferred to the balloon, it gains extra electrons and becomes negatively charged. The hair loses electrons and becomes positively charged.",
+  "quality_score": 5,
+  "id": "c1a85fa6-d804-42fe-8956-c9a387c53c9d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:36.027442"
+}

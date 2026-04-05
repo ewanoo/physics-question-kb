@@ -1,0 +1,20 @@
+{
+  "question_text": "A student shines white light through a blue filter, then through a red filter placed directly after it. Predict what colour (if any) will emerge from the red filter and explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour subtraction",
+    "colour filters",
+    "multiple filters"
+  ],
+  "options": null,
+  "correct_answer": "No light (or darkness) will emerge. The blue filter only allows blue light to pass through. The red filter then blocks blue light because it only allows red light to pass. Since the blue light cannot pass through the red filter, no light emerges.",
+  "explanation": "This is colour subtraction with filters. The blue filter removes all colours except blue from the white light. The red filter then removes the blue light because it only transmits red. When filters are placed in series, the light must satisfy both filters' requirements. Since these filters have no overlapping colours, the result is darkness. This demonstrates that colour subtraction is about progressively removing wavelengths.",
+  "quality_score": 4,
+  "id": "9d864244-ba25-4b63-9f45-740a73860f2f",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:09.100004"
+}

@@ -1,0 +1,20 @@
+{
+  "question_text": "A student is plotting the magnetic field around a bar magnet. Describe how the student should draw the magnetic field lines and explain what the direction of the field lines tells us.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "field lines",
+    "plotting",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "The field lines should curve from the north pole to the south pole. The direction of the field lines shows the direction of the magnetic force that would act on a north pole placed at that point. The lines should be closer together near the poles (where the field is strongest) and further apart further away from the magnet (where the field is weaker).",
+  "explanation": "Magnetic field lines are drawn as curves running from north to south outside the magnet. The spacing and direction of these lines show us both the strength and direction of the magnetic field at different points.",
+  "quality_score": 4,
+  "id": "0ecab1ef-e515-43a1-adb3-0e41510bd0f4",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:28.158483"
+}

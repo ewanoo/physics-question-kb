@@ -1,0 +1,41 @@
+{
+  "question_text": "Which statement correctly describes what happens to the Earth's axis tilt as it orbits the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "axial tilt",
+    "orbit"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The axis tilt changes from 23.5 degrees to 0 degrees and back again each year.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The axis tilt stays at the same angle (about 23.5 degrees) and always points in the same direction in space.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The axis tilt increases by 1 degree every month.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The axis tilt only exists during winter.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The Earth's axis remains tilted at about 23.5 degrees throughout the entire year, and it always points towards the same direction in space (towards the North Star). This constant tilt is what causes seasons\u2014as Earth orbits, sometimes the Northern Hemisphere tilts towards the Sun and sometimes away from it, but the tilt angle itself does not change.",
+  "quality_score": 4,
+  "id": "140a1c16-7f8e-41f0-9db2-2c0b3e9ad007",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:01.425466"
+}

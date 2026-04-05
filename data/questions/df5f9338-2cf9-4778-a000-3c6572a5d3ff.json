@@ -1,0 +1,40 @@
+{
+  "question_text": "A spotlight uses red and blue light sources shining on the same area of a white wall. What colour will you see on the wall where the red and blue lights overlap?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour addition",
+    "mixing light"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Purple",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Black",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Brown",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "White",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When red and blue light are mixed together (colour addition), they combine to create purple light. This is different from mixing paints, where red and blue make a dark colour. Light colours add together, not subtract.",
+  "quality_score": 4,
+  "id": "df5f9338-2cf9-4778-a000-3c6572a5d3ff",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:09.099916"
+}

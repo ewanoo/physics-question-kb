@@ -1,0 +1,20 @@
+{
+  "question_text": "A distance-time graph shows a straight horizontal line at 20 metres for 10 seconds. What does this tell you about the object's motion?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graph",
+    "stationary",
+    "interpretation"
+  ],
+  "options": null,
+  "correct_answer": "The object is stationary (not moving) or at rest.",
+  "explanation": "A horizontal line on a distance-time graph means the distance is not changing over time, which means the object is not moving. The speed is 0 m/s.",
+  "quality_score": 4,
+  "id": "c16b3841-7aae-4e82-83a3-4c9792e02b7d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:42.357743"
+}

@@ -1,0 +1,21 @@
+{
+  "question_text": "Explain the difference between a reversible change and an irreversible change. Give one example of each.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "reversible",
+    "irreversible",
+    "definitions",
+    "examples"
+  ],
+  "options": null,
+  "correct_answer": "A reversible change can be undone to get the original material back (e.g. ice melting, dissolving salt in water, boiling water). An irreversible change cannot be undone (e.g. burning wood, cooking an egg, rusting metal).",
+  "explanation": "This tests understanding of key definitions. Reversible changes are temporary state changes where you can recover the original material. Irreversible changes create new substances that cannot be easily converted back. The examples should be clear and age-appropriate.",
+  "quality_score": 4,
+  "id": "b689bf2f-c3b2-486f-ba83-a892d31abc29",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:51.285279"
+}

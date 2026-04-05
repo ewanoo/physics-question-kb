@@ -1,0 +1,41 @@
+{
+  "question_text": "White light passes through a red filter. What colour of light is transmitted (allowed to pass through) by the filter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "white light",
+    "transmission"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Blue",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Red",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Green",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All colours equally",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A red filter absorbs (blocks) all colours of light except red. Only red light is transmitted through the filter, so the light that comes out appears red.",
+  "quality_score": 4,
+  "id": "3ae1d4ea-0e48-43c9-823d-cae0138b3c20",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:09.099602"
+}

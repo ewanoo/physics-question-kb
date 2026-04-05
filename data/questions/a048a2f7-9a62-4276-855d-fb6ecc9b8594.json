@@ -1,0 +1,21 @@
+{
+  "question_text": "A student pulls a toy across a smooth, frictionless floor with a rope. Explain why the toy accelerates even though the upward normal force from the floor balances the downward weight of the toy.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "unbalanced forces",
+    "Newton's first law",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "The toy accelerates because the pulling force (tension in the rope) is unbalanced. The vertical forces (weight and normal force) are balanced, but there is an unbalanced horizontal force pulling the toy forward, causing acceleration in that direction.",
+  "explanation": "Forces in different directions act independently. The vertical forces are balanced (toy doesn't move up or down), but the horizontal pulling force is not opposed by any equal force, so it is unbalanced and causes the toy to accelerate horizontally.",
+  "quality_score": 4,
+  "id": "a048a2f7-9a62-4276-855d-fb6ecc9b8594",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:00.812312"
+}

@@ -1,0 +1,41 @@
+{
+  "question_text": "A charged object creates an electric field around itself. Which statement best describes what an electric field is?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "electric fields",
+    "definition",
+    "field lines"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The area around a charged object where another charge would experience a force",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A region that only contains positive charges",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The movement of electrons through a conductor",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total amount of charge stored on an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An electric field is the region of space around a charged object where another charge would experience a force (attraction or repulsion). Field lines show the direction a positive charge would be pushed.",
+  "quality_score": 5,
+  "id": "1aaaf0d6-e060-4358-8bdd-a2bbe85a09f7",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:36.027934"
+}

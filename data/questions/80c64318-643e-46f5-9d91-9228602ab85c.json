@@ -1,0 +1,42 @@
+{
+  "question_text": "Which of the following materials is transparent?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "transparent",
+    "opaque",
+    "translucent",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Brick",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Clear glass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Frosted glass",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Wood",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Transparent materials allow light to pass through them so you can see clearly through them. Clear glass is transparent because light rays pass straight through without being scattered. Brick and wood are opaque (no light passes through), and frosted glass is translucent (some light passes through but is scattered).",
+  "quality_score": 4,
+  "id": "80c64318-643e-46f5-9d91-9228602ab85c",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:09.881707"
+}

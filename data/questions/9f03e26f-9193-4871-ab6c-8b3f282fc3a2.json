@@ -1,0 +1,21 @@
+{
+  "question_text": "Three forces act on a box: a push of 80 N to the right, a push of 50 N to the left, and friction of 30 N opposing the motion. Calculate the resultant force on the box and explain what will happen to the box's motion.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "unbalanced forces",
+    "Newton's first law",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Resultant force = 0 N. The box will move at constant velocity (or remain at rest if already stationary) because the forces are balanced.",
+  "explanation": "First, find the net push: 80 N (right) - 50 N (left) = 30 N to the right. Then subtract friction opposing this motion: 30 N - 30 N = 0 N resultant force. When the resultant force is zero, the object either stays at rest or continues moving at constant velocity (Newton's first law).",
+  "quality_score": 4,
+  "id": "9f03e26f-9193-4871-ab6c-8b3f282fc3a2",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:00.812384"
+}

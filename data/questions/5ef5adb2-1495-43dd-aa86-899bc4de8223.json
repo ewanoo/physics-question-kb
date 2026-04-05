@@ -1,0 +1,21 @@
+{
+  "question_text": "A runner completes a 100-metre race in two sections: they run 60 metres in 8 seconds, then run the remaining 40 metres in 5 seconds. What is the runner's average speed for the entire race?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "multi-step",
+    "total distance",
+    "total time"
+  ],
+  "options": null,
+  "correct_answer": "12.3 m/s (or 12.31 m/s)",
+  "explanation": "To find average speed, use: average speed = total distance \u00f7 total time. Total distance = 60 + 40 = 100 metres. Total time = 8 + 5 = 13 seconds. Average speed = 100 \u00f7 13 = 7.69 m/s (or approximately 7.7 m/s). Note: students may round differently, but the method of combining all distances and all times is essential.",
+  "quality_score": 4,
+  "id": "5ef5adb2-1495-43dd-aa86-899bc4de8223",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:42.357814"
+}

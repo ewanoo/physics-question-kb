@@ -1,0 +1,21 @@
+{
+  "question_text": "A student heats 50 grams of ice at 0\u00b0C. After adding 1000 joules of heat energy, some of the ice melts. If melting ice requires 334 joules per gram, how many grams of ice melted? (Give your answer to 1 decimal place.)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "energy",
+    "heat",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "2.99 grams (or 3.0 grams to 1 d.p.)",
+  "explanation": "Use the formula: mass melted = heat energy / energy per gram = 1000 / 334 = 2.99 grams. This tests the ability to apply the specific latent heat concept in a calculation, which is at the upper end of KS3 but within Year 8 stretch.",
+  "quality_score": 4,
+  "id": "9488c169-6a33-4128-a74d-1a23d262171d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:51.285361"
+}

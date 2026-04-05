@@ -1,0 +1,20 @@
+{
+  "question_text": "A car is being pushed by two people. One person pushes with a force of 150 N to the right, and another person pushes with a force of 150 N to the left. What is the resultant force on the car?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "balanced forces",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0 N (zero)",
+  "explanation": "The resultant force is found by adding all the forces together, taking direction into account. Since both forces are equal in size but opposite in direction, they cancel each other out. This means the resultant force is 0 N and the car will not accelerate.",
+  "quality_score": 4,
+  "id": "4ab7942f-8275-49e9-be85-333ede5ca653",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:00.812213"
+}

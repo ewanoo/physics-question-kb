@@ -1,0 +1,20 @@
+{
+  "question_text": "Explain why a red apple appears red when white light shines on it.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour of objects",
+    "reflection",
+    "absorption"
+  ],
+  "options": null,
+  "correct_answer": "The apple absorbs most colours of light from white light (such as blue and green) but reflects red light. The red light enters our eyes, so we see the apple as red.",
+  "explanation": "Objects appear to be a particular colour because they reflect that colour of light and absorb others. A red apple reflects red wavelengths and absorbs other wavelengths. This is why colour depends on which wavelengths are reflected, not emitted by the object itself.",
+  "quality_score": 4,
+  "id": "8c2c2f56-c8bd-4028-b4f7-183fb0e0092e",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:09.099810"
+}

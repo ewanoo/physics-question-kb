@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following is a chemical change?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "chemical changes",
+    "physical changes",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice melting into water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wood burning to form ash and smoke",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Salt dissolving in water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Water boiling to form steam",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A chemical change creates new substances. Wood burning forms ash and smoke (new substances), so this is chemical. Melting, boiling, and dissolving are physical changes because the material stays the same, just changes state or appearance.",
+  "quality_score": 4,
+  "id": "32e236fc-2ee0-40f1-8bab-5788e2e9cc0c",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:51.285049"
+}

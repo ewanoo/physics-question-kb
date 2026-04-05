@@ -1,0 +1,41 @@
+{
+  "question_text": "A compass needle is placed near a bar magnet with the magnet's north pole pointing east. Which direction will the compass needle point?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "compass",
+    "magnetic field",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The needle will point west, away from the magnet's north pole.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The needle will point east, towards the magnet's north pole.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The needle will stop moving because the compass is broken.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The needle will point north, following Earth's magnetic field.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The compass needle's north pole is repelled by the magnet's north pole, so it rotates to point away (west). Remember: like poles repel, so the north-seeking end of the compass needle points away from the magnet's north pole.",
+  "quality_score": 4,
+  "id": "66685016-555b-4532-a05f-62651719b994",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:11:28.158663"
+}
