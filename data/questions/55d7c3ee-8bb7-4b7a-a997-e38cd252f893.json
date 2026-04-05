@@ -1,0 +1,21 @@
+{
+  "question_text": "Jupiter has a diameter of approximately 143,000 km, while Earth has a diameter of approximately 12,700 km. Which statement best describes the size comparison?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "comparing planet sizes",
+    "scale calculation"
+  ],
+  "options": [
+    "Jupiter is about 5 times wider than Earth",
+    "Jupiter is about 11 times wider than Earth",
+    "Jupiter is about 20 times wider than Earth",
+    "Jupiter is about 50 times wider than Earth"
+  ],
+  "correct_answer": "Jupiter is about 11 times wider than Earth",
+  "explanation": "To compare sizes, you divide Jupiter's diameter by Earth's diameter: 143,000 \u00f7 12,700 \u2248 11. This means Jupiter is roughly 11 times wider across than Earth, showing why it is the largest planet in our solar system.",
+  "quality_score": 0.9,
+  "source_name": "KS3 Physics Curriculum - Planet Sizes",
+  "id": "55d7c3ee-8bb7-4b7a-a997-e38cd252f893"
+}

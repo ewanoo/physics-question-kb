@@ -1,0 +1,22 @@
+{
+  "question_text": "A kettle has a power rating of 2400 W and takes 150 seconds to boil water. A microwave has a power rating of 800 W and takes 300 seconds to heat the same amount of water. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power_calculation",
+    "energy_comparison",
+    "multi_step"
+  ],
+  "options": [
+    "The kettle transfers more energy because it has higher power",
+    "The microwave transfers more energy because it runs for longer",
+    "Both devices transfer exactly the same amount of energy",
+    "The kettle transfers 360,000 J while the microwave transfers 240,000 J"
+  ],
+  "correct_answer": "The kettle transfers 360,000 J while the microwave transfers 240,000 J",
+  "explanation": "Energy = Power \u00d7 Time. Kettle: 2400 W \u00d7 150 s = 360,000 J. Microwave: 800 W \u00d7 300 s = 240,000 J. Higher power over shorter time transfers more total energy than lower power over longer time.",
+  "quality_score": 0.92,
+  "source_name": "KS3_Physics_Energy_Hard_Q1",
+  "id": "b7adb7e2-1f6e-4563-9425-9896f243d39c"
+}

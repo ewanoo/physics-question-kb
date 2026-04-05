@@ -1,0 +1,18 @@
+{
+  "question_text": "A student draws a free body diagram for a 5 kg object being pulled by a rope with 25 N tension at an angle. The object experiences 10 N of friction opposing motion. After calculating the resultant force is 15 N, what is the acceleration? Also explain why knowing the resultant force is essential before using F = ma.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "free body diagram",
+    "Newton's second law",
+    "extended reasoning",
+    "resultant force"
+  ],
+  "options": null,
+  "correct_answer": "Acceleration = 3 m/s\u00b2. The resultant force must be calculated first because F = ma uses the NET force, not individual forces; using individual forces would give incorrect acceleration values.",
+  "explanation": "Using a = F/m with resultant force: a = 15 N \u00f7 5 kg = 3 m/s\u00b2. The key insight is that Newton's second law applies to the resultant (net) force only\u2014if you used the 25 N tension alone, you'd get the wrong answer. This is why free body diagrams and combining forces correctly are so important.",
+  "quality_score": 0.93,
+  "source_name": "KS3 Physics Conceptual Understanding",
+  "id": "6f3fbe66-8e8b-44e4-8ad1-9692de4a994a"
+}

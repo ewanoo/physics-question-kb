@@ -1,0 +1,21 @@
+{
+  "question_text": "Which of the following is the correct definition of speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed definition",
+    "recall"
+  ],
+  "options": [
+    "The rate at which an object changes direction",
+    "The distance travelled divided by the time taken",
+    "The amount of force acting on an object",
+    "The total distance an object can travel before stopping"
+  ],
+  "correct_answer": "The distance travelled divided by the time taken",
+  "explanation": "Speed measures how fast something is moving by comparing the distance covered to the time it took. This is the fundamental definition used in physics.",
+  "quality_score": 0.95,
+  "source_name": "KS3 Physics Curriculum - Speed and Velocity",
+  "id": "1b978a42-7123-497b-9d4d-a71ff7a80013"
+}

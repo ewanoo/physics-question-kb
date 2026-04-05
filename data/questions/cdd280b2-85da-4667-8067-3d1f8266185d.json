@@ -1,0 +1,21 @@
+{
+  "question_text": "What are the standard units for measuring density in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density units",
+    "recall"
+  ],
+  "options": [
+    "kg and m",
+    "kg/m\u00b3",
+    "g/cm",
+    "m\u00b3/kg"
+  ],
+  "correct_answer": "kg/m\u00b3",
+  "explanation": "The standard SI unit for density is kilograms per cubic metre (kg/m\u00b3). This shows mass divided by volume, which is what density measures.",
+  "quality_score": 0.95,
+  "source_name": "KS3 Physics Curriculum - Matter and Materials",
+  "id": "cdd280b2-85da-4667-8067-3d1f8266185d"
+}

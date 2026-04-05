@@ -1,0 +1,21 @@
+{
+  "question_text": "What is the standard SI unit used to measure speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "units of speed",
+    "recall"
+  ],
+  "options": [
+    "kilometres per hour (km/h)",
+    "metres per second (m/s)",
+    "miles per hour (mph)",
+    "centimetres per minute (cm/min)"
+  ],
+  "correct_answer": "metres per second (m/s)",
+  "explanation": "In science, we use the SI (International System) unit for speed, which is metres per second. This is the standard used in physics calculations and experiments.",
+  "quality_score": 0.95,
+  "source_name": "KS3 Physics Curriculum - Units and Measurement",
+  "id": "bac31a5c-3c79-4bb9-b5c2-4c3526dcebd9"
+}

@@ -1,0 +1,22 @@
+{
+  "question_text": "What is the SI unit of power?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "units",
+    "recall",
+    "SI_units"
+  ],
+  "options": [
+    "Joules (J)",
+    "Watts (W)",
+    "Newtons (N)",
+    "Volts (V)"
+  ],
+  "correct_answer": "Watts (W)",
+  "explanation": "The watt (W) is the standard SI unit for measuring power. One watt means one joule of energy is being transferred every second (1 W = 1 J/s).",
+  "quality_score": 0.95,
+  "source_name": "KS3 Physics Curriculum - Energy and Power",
+  "id": "fd45b269-fcd2-4250-b6f2-3b0aed578010"
+}

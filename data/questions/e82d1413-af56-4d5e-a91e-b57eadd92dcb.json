@@ -1,0 +1,21 @@
+{
+  "question_text": "Which of the following is the correct definition of density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density definition",
+    "recall"
+  ],
+  "options": [
+    "The amount of space an object takes up",
+    "The mass of a substance per unit volume",
+    "How heavy an object feels when you pick it up",
+    "The speed at which an object moves"
+  ],
+  "correct_answer": "The mass of a substance per unit volume",
+  "explanation": "Density is defined as how much mass is packed into a certain volume. It tells us how tightly packed the particles of a material are.",
+  "quality_score": 0.95,
+  "source_name": "KS3 Physics Curriculum - Matter and Materials",
+  "id": "e82d1413-af56-4d5e-a91e-b57eadd92dcb"
+}

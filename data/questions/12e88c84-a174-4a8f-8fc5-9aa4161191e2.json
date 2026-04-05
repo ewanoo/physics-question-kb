@@ -1,0 +1,23 @@
+{
+  "question_text": "A car of mass 1000 kg has four forces acting on it: engine force 3000 N (forward), air resistance 500 N (backward), friction from wheels 800 N (backward), and a push from a tailwind of 200 N (forward). Which statement about the resultant force is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "multiple forces",
+    "free body diagram",
+    "comparison"
+  ],
+  "options": [
+    "The resultant force is 1900 N forward and the car accelerates",
+    "The resultant force is 4300 N because all forces must be added together",
+    "The resultant force is zero so the car is stationary",
+    "The resultant force is 2900 N backward"
+  ],
+  "correct_answer": "The resultant force is 1900 N forward and the car accelerates",
+  "explanation": "Add forward forces: 3000 N + 200 N = 3200 N. Add backward forces: 500 N + 800 N = 1300 N. Resultant = 3200 N - 1300 N = 1900 N forward. Since the resultant is not zero, the forces are unbalanced and the car will accelerate forward.",
+  "quality_score": 0.94,
+  "source_name": "KS3 Physics Multi-Force Analysis",
+  "id": "12e88c84-a174-4a8f-8fc5-9aa4161191e2"
+}

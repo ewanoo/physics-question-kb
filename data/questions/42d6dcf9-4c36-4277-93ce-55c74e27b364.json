@@ -1,0 +1,21 @@
+{
+  "question_text": "Which of the following lists the planets in the correct order from the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "order of planets",
+    "solar system structure"
+  ],
+  "options": [
+    "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+    "Venus, Mercury, Earth, Mars, Jupiter, Saturn, Neptune, Uranus",
+    "Mercury, Earth, Venus, Mars, Saturn, Jupiter, Uranus, Neptune",
+    "Mercury, Venus, Mars, Earth, Jupiter, Saturn, Uranus, Neptune"
+  ],
+  "correct_answer": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+  "explanation": "The eight planets orbit the Sun in a specific order based on their distance from it. The inner rocky planets (Mercury, Venus, Earth, Mars) are closest, followed by the outer gas giants (Jupiter, Saturn, Uranus, Neptune). A helpful mnemonic is 'My Very Educated Mother Just Served Us Noodles'.",
+  "quality_score": 0.92,
+  "source_name": "KS3 Physics Curriculum - Solar System",
+  "id": "42d6dcf9-4c36-4277-93ce-55c74e27b364"
+}

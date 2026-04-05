@@ -1,0 +1,17 @@
+{
+  "question_text": "A light bulb transfers 600 joules of energy in 10 seconds. Calculate the power of the light bulb.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "calculation",
+    "power_formula",
+    "energy_and_time"
+  ],
+  "options": null,
+  "correct_answer": "60 W",
+  "explanation": "Power is calculated using the formula: Power = Energy \u00f7 Time. Here, 600 J \u00f7 10 s = 60 W. This means the bulb transfers 60 joules of energy every second.",
+  "quality_score": 0.92,
+  "source_name": "KS3 Physics Curriculum - Energy and Power",
+  "id": "bba25046-815f-4d44-bf54-a8789eb1d668"
+}

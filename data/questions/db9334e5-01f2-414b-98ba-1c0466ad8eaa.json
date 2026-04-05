@@ -1,0 +1,16 @@
+{
+  "question_text": "Explain the difference between average speed and instantaneous speed.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed vs instantaneous speed",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Average speed is the total distance divided by total time for a whole journey, while instantaneous speed is the speed at one exact moment in time.",
+  "explanation": "When you travel, your speed changes constantly \u2013 instantaneous speed is what a speedometer reads at any moment, but average speed smooths out all those changes over the whole trip. For example, a car's average speed on a motorway journey might be 60 m/s, but at one instant it might be going 70 m/s.",
+  "quality_score": 0.92,
+  "source_name": "KS3 Physics Curriculum - Speed Concepts",
+  "id": "db9334e5-01f2-414b-98ba-1c0466ad8eaa"
+}

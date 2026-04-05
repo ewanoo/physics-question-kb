@@ -1,0 +1,16 @@
+{
+  "question_text": "Iron has a density of 7,800 kg/m\u00b3 and cork has a density of 240 kg/m\u00b3. Which material is denser, and what does this tell us about how their particles are arranged?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "comparing densities",
+    "particle arrangement"
+  ],
+  "options": null,
+  "correct_answer": "Iron is denser; iron has particles packed more tightly together than cork",
+  "explanation": "Iron's higher density means its particles are much more closely packed together compared to cork. A denser material has more mass squeezed into the same volume of space.",
+  "quality_score": 0.92,
+  "source_name": "KS3 Physics Curriculum - Matter and Materials",
+  "id": "f3c2e17a-4aa7-4f36-a367-354d49581c39"
+}

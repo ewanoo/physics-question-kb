@@ -1,0 +1,23 @@
+{
+  "question_text": "Two devices both cost the same to buy. Device A uses 1800 W and runs for 3 hours daily. Device B uses 1200 W and runs for 5 hours daily. Electricity costs 15p per kilowatt-hour. Over 30 days, which device costs more to run, and by how much?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power_comparison",
+    "energy_calculation",
+    "cost_analysis",
+    "multi_step"
+  ],
+  "options": [
+    "Device A costs \u00a32.70 more",
+    "Device B costs \u00a32.70 more",
+    "Device A costs \u00a38.10 more",
+    "Both devices cost the same to run"
+  ],
+  "correct_answer": "Device A costs \u00a32.70 more",
+  "explanation": "Device A: Energy = 1.8 kW \u00d7 3 h \u00d7 30 days = 162 kWh. Cost = 162 \u00d7 \u00a30.15 = \u00a324.30. Device B: Energy = 1.2 kW \u00d7 5 h \u00d7 30 days = 180 kWh. Cost = 180 \u00d7 \u00a30.15 = \u00a327.00. Device B costs \u00a32.70 more, or Device A costs \u00a32.70 less.",
+  "quality_score": 0.91,
+  "source_name": "KS3_Physics_Energy_Hard_Q3",
+  "id": "bb398241-a450-463f-847b-49f3eb548e15"
+}

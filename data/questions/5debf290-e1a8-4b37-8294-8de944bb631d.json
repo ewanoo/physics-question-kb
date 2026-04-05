@@ -1,0 +1,18 @@
+{
+  "question_text": "A motor lifts a 50 kg mass 8 metres in 20 seconds. The motor's power input is 250 W. Calculate the efficiency of the motor. (Use g = 10 m/s\u00b2)",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "efficiency",
+    "power_calculation",
+    "gravitational_potential_energy",
+    "multi_step"
+  ],
+  "options": null,
+  "correct_answer": "80%",
+  "explanation": "Work output = mgh = 50 \u00d7 10 \u00d7 8 = 4000 J. Power output = Work \u00f7 Time = 4000 \u00f7 20 = 200 W. Efficiency = (Power output \u00f7 Power input) \u00d7 100% = (200 \u00f7 250) \u00d7 100% = 80%.",
+  "quality_score": 0.94,
+  "source_name": "KS3_Physics_Energy_Hard_Q2",
+  "id": "5debf290-e1a8-4b37-8294-8de944bb631d"
+}

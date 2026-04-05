@@ -1,0 +1,17 @@
+{
+  "question_text": "Mercury is approximately 58 million km from the Sun, and Earth is approximately 150 million km from the Sun. How many times further from the Sun is Earth than Mercury?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "distances in solar system",
+    "simple calculation",
+    "ratio"
+  ],
+  "options": null,
+  "correct_answer": "2.6 times (or approximately 2.6 or 150 \u00f7 58 = 2.59)",
+  "explanation": "To find how many times further Earth is from the Sun, you divide Earth's distance by Mercury's distance: 150 million \u00f7 58 million \u2248 2.6. This shows that Earth orbits nearly 2.6 times further away from the Sun than Mercury does.",
+  "quality_score": 0.88,
+  "source_name": "KS3 Physics Curriculum - Solar System Distances",
+  "id": "388c8b7a-428c-44a2-85ee-1838c42765ea"
+}

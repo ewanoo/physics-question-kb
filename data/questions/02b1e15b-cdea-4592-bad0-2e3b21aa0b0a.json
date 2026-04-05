@@ -1,0 +1,18 @@
+{
+  "question_text": "A 2 kg box is pushed across a rough table with a force of 15 N to the right. Friction acts with a force of 5 N to the left. Calculate the resultant force and then determine the acceleration of the box using F = ma.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "Newton's second law",
+    "multi-step",
+    "friction"
+  ],
+  "options": null,
+  "correct_answer": "Resultant force = 10 N; Acceleration = 5 m/s\u00b2",
+  "explanation": "First, subtract the friction force from the applied force to find the resultant: 15 N - 5 N = 10 N to the right. Then use F = ma, rearranging to a = F/m: a = 10 N \u00f7 2 kg = 5 m/s\u00b2. This shows how unbalanced forces cause acceleration.",
+  "quality_score": 0.92,
+  "source_name": "KS3 Physics Extended Reasoning",
+  "id": "02b1e15b-cdea-4592-bad0-2e3b21aa0b0a"
+}
