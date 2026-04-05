@@ -1,0 +1,46 @@
+{
+  "question_text": "A student plots a force-extension graph for a spring and finds that when 15 N is applied, the spring extends 0.3 m. What is the spring constant of this spring in N/m?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "force-extension graph",
+    "N/m units",
+    "F=ke"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "20 N/m",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "45 N/m",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "50 N/m",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "4.5 N/m",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Using F = ke, we rearrange to k = F/e. So k = 15 N \u00f7 0.3 m = 50 N/m. A higher spring constant means the spring is stiffer and harder to stretch. The N/m units show how many newtons of force are needed to extend the spring by 1 metre.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b86e3802-64b4-4996-9899-b6da78e3e081",
+  "scraped_at": "2026-04-05T00:41:32.400647",
+  "classified_at": "2026-04-05T00:41:32.400647",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

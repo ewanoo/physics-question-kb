@@ -1,0 +1,45 @@
+{
+  "question_text": "The Sankey diagram below shows energy transfers for a light bulb. The input is 100 J of electrical energy. The useful energy output as light is 15 J, and the rest is wasted as heat. Which statement correctly describes this energy transfer?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "Sankey diagram",
+    "wasted energy",
+    "light bulb efficiency"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The efficiency is 15% and 85 J of energy is wasted as heat",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The efficiency is 85% and 15 J of energy is useful",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The efficiency is 50% and 50 J of energy is wasted",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The efficiency is 100% because all energy is transferred",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "In a Sankey diagram, the width of arrows shows the amount of energy. The efficiency is useful output divided by total input: 15 / 100 = 0.15 = 15%. The wasted energy is the total input minus the useful output: 100 - 15 = 85 J of heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f42ceabb-3f0c-4a59-9ad2-5b8ec3d0128e",
+  "scraped_at": "2026-04-05T00:41:25.041672",
+  "classified_at": "2026-04-05T00:41:25.041672",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

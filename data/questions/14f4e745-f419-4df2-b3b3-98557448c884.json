@@ -1,0 +1,24 @@
+{
+  "question_text": "A kettle transfers 2000 J of electrical energy to heat water. However, only 1600 J of energy is used to heat the water and 400 J is wasted as heat through the kettle's sides. Calculate the efficiency of the kettle.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "energy transfer",
+    "kettle"
+  ],
+  "options": null,
+  "correct_answer": "80%",
+  "explanation": "Efficiency is calculated using the formula: efficiency = (useful energy output / total energy input) \u00d7 100. In this case: (1600 / 2000) \u00d7 100 = 80%. This means the kettle converts 80% of electrical energy into useful heat for the water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "14f4e745-f419-4df2-b3b3-98557448c884",
+  "scraped_at": "2026-04-05T00:41:25.041672",
+  "classified_at": "2026-04-05T00:41:25.041672",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

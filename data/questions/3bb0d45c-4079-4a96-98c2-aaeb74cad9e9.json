@@ -1,0 +1,45 @@
+{
+  "question_text": "A spring is stretched by a force. According to Hooke's law, what is the relationship between the force applied to a spring and how far it stretches?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "definition",
+    "spring_extension"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The force is inversely proportional to the extension",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The force is directly proportional to the extension",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The force has no relationship to the extension",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force is equal to the extension",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Hooke's law states that the force applied to a spring is directly proportional to its extension, meaning if you double the force, the spring stretches twice as far. This relationship only works up to the elastic limit of the spring.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3bb0d45c-4079-4a96-98c2-aaeb74cad9e9",
+  "scraped_at": "2026-04-05T00:41:28.517031",
+  "classified_at": "2026-04-05T00:41:28.517031",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

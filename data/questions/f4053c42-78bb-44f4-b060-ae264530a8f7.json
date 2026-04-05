@@ -1,0 +1,25 @@
+{
+  "question_text": "A spring has a spring constant of 50 N/m. If a force of 10 N is applied to the spring, calculate the extension of the spring using Hooke's law (F = k \u00d7 e).",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "spring_constant",
+    "calculation",
+    "extension"
+  ],
+  "options": null,
+  "correct_answer": "0.2 m or 20 cm",
+  "explanation": "Using the formula F = k \u00d7 e, we rearrange to find e = F \u00f7 k. So e = 10 N \u00f7 50 N/m = 0.2 m. The spring constant k tells us how stiff the spring is, with higher values meaning stiffer springs that extend less.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f4053c42-78bb-44f4-b060-ae264530a8f7",
+  "scraped_at": "2026-04-05T00:41:28.517031",
+  "classified_at": "2026-04-05T00:41:28.517031",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

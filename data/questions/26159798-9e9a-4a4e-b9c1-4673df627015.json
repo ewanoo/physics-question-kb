@@ -1,0 +1,45 @@
+{
+  "question_text": "What does efficiency mean in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "definition",
+    "efficiency",
+    "energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How much energy is wasted as heat",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How much of the total energy input is converted into useful energy output",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The total amount of energy used by a device",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How fast a device uses up its energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Efficiency measures what fraction of the total energy input becomes useful output. The rest is wasted, often as heat. A more efficient device wastes less energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "26159798-9e9a-4a4e-b9c1-4673df627015",
+  "scraped_at": "2026-04-05T00:41:19.868983",
+  "classified_at": "2026-04-05T00:41:19.868983",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A light bulb has a total energy input of 100 J. It produces 20 J of light energy and 80 J of heat energy. Calculate the efficiency of the light bulb. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "calculation",
+    "heat",
+    "wasted energy"
+  ],
+  "options": null,
+  "correct_answer": "20%",
+  "explanation": "Efficiency = useful output / total input x 100. The useful output is the light energy (20 J), and the total input is 100 J. So efficiency = 20/100 x 100 = 20%. The 80 J of heat is wasted energy that does not produce light.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "92892458-bb4a-4db8-8607-01b9b12e63b7",
+  "scraped_at": "2026-04-05T00:41:19.868983",
+  "classified_at": "2026-04-05T00:41:19.868983",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}
