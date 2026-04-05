@@ -273,12 +273,25 @@
 - Total questions: 2,553 (up from 2,485)
 - Weakest subtopic now: forces.friction=73
 
-## Statistics (Session 24 — CURRENT)
-- **Total questions (JSON files)**: 2,553
+### Session 25 (agent — 2026-04-05)
+- Rebuilt DB from 2,553 committed question JSON files (all 99 slots at 24-29)
+- Identified 11 slots at exactly 24 questions and 10 slots at 25 questions
+- Generated **63 new questions** in 2 batches targeting all 21 weakest slots:
+  - Batch 1 (33 q): energy.conservation/easy, energy.power/easy, energy.resources/medium,
+    forces.friction/easy+hard, forces.speed/medium, matter.gas_pressure/easy+medium,
+    matter.particles/easy, matter.states/easy, waves.light/medium (3 each)
+  - Batch 2 (30 q): electricity.circuits/easy, electricity.electromagnets/easy,
+    electricity.magnets/hard, electricity.static/easy+hard, energy.conservation/medium,
+    forces.balanced/easy+hard, forces.gravity/medium+hard (3 each)
+- Total questions: 2,616 (up from 2,553)
+- All 99 difficulty/subtopic slots now have 25-30 questions each (min raised from 24)
+
+## Statistics (Session 25 — CURRENT)
+- **Total questions (JSON files)**: 2,616
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~851, medium ~851, hard ~851 (all >= 50)
-- **Min questions per difficulty+subtopic slot**: 23+
+- **By difficulty**: easy ~872, medium ~872, hard ~872 (all >= 50)
+- **Min questions per difficulty+subtopic slot**: 25
 - **Mean quality score**: ~4.70
 
 ## Scraper Status
