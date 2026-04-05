@@ -77,12 +77,21 @@
 - All 33 subtopics now have ≥25 questions each (minimum: 25)
 - Total questions: 941 (up from 881)
 
-## Statistics (Session 7 — CURRENT)
-- **Total questions in DB**: 941
+### Session 8 (agent — 2026-04-05)
+- Rebuilt DB from 941 committed question JSON files
+- Identified weakest topic+difficulty combos (minimum was 6: energy.food easy, forces.balanced medium, matter.density medium)
+- Generated **179 new questions** in 2 batches targeting 22 weak combos:
+  - Batch 1 (83 q): energy.food easy, forces.balanced medium, matter.density medium, electricity.circuits medium, energy.efficiency hard, energy.stores easy/hard, forces.types easy, matter.states easy/hard
+  - Batch 2 (96 q): energy.resources easy/medium, forces.friction/speed/springs/types medium, matter.changes/gas_pressure medium/hard, waves.light/properties hard, waves.sound medium
+- Total questions: 1,120 (up from 941)
+- All difficulty+subtopic combos now have ≥8 questions each
+
+## Statistics (Session 8 — CURRENT)
+- **Total questions in DB**: 1,120
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy=308, medium=290, hard=335 (all >= 50)
-- **Min questions per subtopic**: 25 (all 33 subtopics ≥25)
+- **By difficulty**: easy=353, medium=368, hard=399 (all >= 50)
+- **Min questions per subtopic**: ~24 (all 33 subtopics well above 5)
 
 ## Scraper Status
 | Scraper | Status | Questions in DB |
@@ -95,9 +104,9 @@
 
 ## Completion Criteria Check
 - [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [x] `python -m src.cli.query stats` shows 941 questions (>= 500)
-- [x] All 33 subtopics have >= 5 questions each (minimum is 25 per subtopic)
-- [x] Difficulty distribution: easy=308, medium=290, hard=335 (all >= 50)
+- [x] `python -m src.cli.query stats` shows 1,120 questions (>= 500)
+- [x] All 33 subtopics have >= 5 questions each (minimum is ~24 per subtopic)
+- [x] Difficulty distribution: easy=353, medium=368, hard=399 (all >= 50)
 - [x] 3 sources represented (>= 3 required)
 - [x] Mean quality score = 4.56 >= 3.5
 - [x] `data/coverage_report.json` exists with `is_complete: true`
