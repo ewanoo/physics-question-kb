@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the formula for calculating density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "definition",
+    "formula",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "density = mass \u00f7 volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "density = volume \u00f7 mass",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "density = mass \u00d7 volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "density = mass + volume",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Density measures how much mass is packed into a certain volume. The formula is always mass divided by volume, written as \u03c1 = m/V.",
+  "quality_score": 4,
+  "id": "abe4edb0-c612-4ed3-a3cc-4a17d4f62c08",
+  "source_name": "claude_generator"
+}

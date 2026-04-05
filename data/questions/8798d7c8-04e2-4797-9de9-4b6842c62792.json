@@ -1,0 +1,17 @@
+{
+  "question_text": "A loudspeaker produces a sound with a frequency of 440 Hz. What does this frequency tell us about the sound?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "pitch",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "It tells us the pitch of the sound (how high or low it sounds). 440 Hz is the frequency of the musical note A.",
+  "explanation": "Frequency measures how many complete waves pass a point per second, measured in Hz. A higher frequency means a higher pitch (like a whistle), while a lower frequency means a lower pitch (like a drum).",
+  "quality_score": 4,
+  "id": "8798d7c8-04e2-4797-9de9-4b6842c62792",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A force of 50 N is applied to a surface area of 2 m\u00b2. What is the pressure exerted?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "force",
+    "area",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "25 Pa",
+  "explanation": "Pressure = force \u00f7 area. So 50 N \u00f7 2 m\u00b2 = 25 Pa. Pressure tells us how concentrated or spread out a force is over a surface.",
+  "quality_score": 4,
+  "id": "400f375c-9a49-4a6a-bba0-ea215dc28d49",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Arrange these electromagnetic waves in order from longest to shortest wavelength: ultraviolet, infrared, visible light, microwaves.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "em spectrum",
+    "wavelength",
+    "ordering"
+  ],
+  "options": null,
+  "correct_answer": "Microwaves, infrared, visible light, ultraviolet",
+  "explanation": "The electromagnetic spectrum is ordered by wavelength: radio waves have the longest wavelengths, then microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays have the shortest. Remember: 'Roy G Biv' is the visible light order (red has longest, violet has shortest).",
+  "quality_score": 4,
+  "id": "bd48b802-5e40-42c4-b62b-0c23f792ba74",
+  "source_name": "claude_generator"
+}

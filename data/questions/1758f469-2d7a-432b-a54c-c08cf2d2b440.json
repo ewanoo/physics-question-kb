@@ -1,0 +1,38 @@
+{
+  "question_text": "Why does an object float in water?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "floating",
+    "sinking",
+    "density comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because it is lighter in weight than water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because its density is less than the density of water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because it has a small volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because water pushes it up with a force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Objects float when their density is lower than the fluid they're in. Water has a density of 1 g/cm\u00b3, so anything less dense will float on top.",
+  "quality_score": 4,
+  "id": "1758f469-2d7a-432b-a54c-c08cf2d2b440",
+  "source_name": "claude_generator"
+}

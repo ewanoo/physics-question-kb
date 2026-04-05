@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the efficiency formula?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "definition",
+    "formula",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "efficiency = useful output \u00f7 total input \u00d7 100%",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "efficiency = total input \u00f7 useful output \u00d7 100%",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "efficiency = useful output - total input",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "efficiency = total input + useful output",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Efficiency compares how much useful energy we get out compared to the total energy we put in. The percentage tells us what fraction is actually useful.",
+  "quality_score": 4,
+  "id": "c047edf6-b103-4b31-b720-9631b366c120",
+  "source_name": "claude_generator"
+}

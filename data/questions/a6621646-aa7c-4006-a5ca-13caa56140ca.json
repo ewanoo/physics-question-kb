@@ -1,0 +1,38 @@
+{
+  "question_text": "Which law of reflection is demonstrated when a light ray hits a mirror?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "laws of reflection",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The angle of incidence equals the angle of refraction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The angle of incidence equals the angle of reflection",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The incident ray bends towards the normal",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed of light changes when hitting the mirror",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The law of reflection states that the angle of incidence (angle between incoming ray and normal) equals the angle of reflection (angle between outgoing ray and normal). The normal is an imaginary line perpendicular to the surface.",
+  "quality_score": 4,
+  "id": "a6621646-aa7c-4006-a5ca-13caa56140ca",
+  "source_name": "claude_generator"
+}

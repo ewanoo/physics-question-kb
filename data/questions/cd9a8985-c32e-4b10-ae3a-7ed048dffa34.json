@@ -1,0 +1,17 @@
+{
+  "question_text": "A light bulb uses 100 J of electrical energy and produces 20 J of light energy. Calculate its efficiency.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "calculation",
+    "percentage",
+    "energy loss"
+  ],
+  "options": null,
+  "correct_answer": "20%",
+  "explanation": "Using efficiency = useful output \u00f7 total input \u00d7 100%: efficiency = 20 \u00f7 100 \u00d7 100% = 20%. The remaining 80 J is wasted as heat.",
+  "quality_score": 4,
+  "id": "cd9a8985-c32e-4b10-ae3a-7ed048dffa34",
+  "source_name": "claude_generator"
+}

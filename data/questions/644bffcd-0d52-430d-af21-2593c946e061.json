@@ -1,0 +1,38 @@
+{
+  "question_text": "A distance-time graph shows a straight horizontal line. What does this tell you about the object's motion?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "stationary",
+    "speed"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object is accelerating",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The object is stationary (not moving)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The object is moving at increasing speed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object is moving backwards",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "A horizontal line on a distance-time graph means the distance from the starting point is not changing, so the object is not moving. A horizontal line always indicates zero speed.",
+  "quality_score": 4,
+  "id": "644bffcd-0d52-430d-af21-2593c946e061",
+  "source_name": "claude_generator"
+}

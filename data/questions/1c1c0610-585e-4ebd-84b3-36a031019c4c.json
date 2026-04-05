@@ -1,0 +1,17 @@
+{
+  "question_text": "A car travels 120 metres in 10 seconds. What is its average speed?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "distance-time",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "12 m/s",
+  "explanation": "Average speed = distance \u00f7 time. So 120 m \u00f7 10 s = 12 m/s. This is the total distance covered divided by the total time taken.",
+  "quality_score": 4,
+  "id": "1c1c0610-585e-4ebd-84b3-36a031019c4c",
+  "source_name": "claude_generator"
+}

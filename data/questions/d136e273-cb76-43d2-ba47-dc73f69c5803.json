@@ -1,0 +1,18 @@
+{
+  "question_text": "A sound wave has a frequency of 250 Hz and travels through air at 340 m/s. Calculate the wavelength of this sound wave. (Use: wavelength = speed \u00f7 frequency)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "speed",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "1.36 m (or 1.4 m to 2 significant figures)",
+  "explanation": "Using the wave equation: wavelength = speed \u00f7 frequency = 340 \u00f7 250 = 1.36 m. This is a relatively long wavelength, typical of a low-frequency sound like a bass note in music.",
+  "quality_score": 4,
+  "id": "d136e273-cb76-43d2-ba47-dc73f69c5803",
+  "source_name": "claude_generator"
+}

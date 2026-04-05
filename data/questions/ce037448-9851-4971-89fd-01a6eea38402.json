@@ -1,0 +1,17 @@
+{
+  "question_text": "A light ray hits a glass block at an angle. The ray bends towards the normal as it enters the glass. What is the name of this phenomenon, and why does it happen?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "application",
+    "explanation"
+  ],
+  "options": null,
+  "correct_answer": "Refraction. Light bends because it slows down when entering a denser medium (glass). The change in speed causes the change in direction.",
+  "explanation": "Refraction is the bending of light when it enters a different material and changes speed. Light travels slower in glass than in air, so when light enters glass from air at an angle, it bends towards the normal (the perpendicular line). This is why objects underwater appear closer than they really are.",
+  "quality_score": 4,
+  "id": "ce037448-9851-4971-89fd-01a6eea38402",
+  "source_name": "claude_generator"
+}

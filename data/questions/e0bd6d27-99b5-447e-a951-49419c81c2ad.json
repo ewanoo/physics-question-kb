@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is a longitudinal wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "longitudinal waves",
+    "wave types",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound wave",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Light wave",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Water wave",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Radio wave",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Sound waves are longitudinal waves because the particles vibrate parallel to the direction of wave travel, creating compressions and rarefactions. Light, water, and radio waves are all transverse waves.",
+  "quality_score": 4,
+  "id": "e0bd6d27-99b5-447e-a951-49419c81c2ad",
+  "source_name": "claude_generator"
+}

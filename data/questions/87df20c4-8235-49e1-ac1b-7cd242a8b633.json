@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is the SI unit for pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "units",
+    "pascals"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Newton (N)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pascal (Pa)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Joule (J)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Kilogram (kg)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Pascal (Pa) is the standard SI unit for pressure. It is defined as force in newtons divided by area in square metres.",
+  "quality_score": 4,
+  "id": "87df20c4-8235-49e1-ac1b-7cd242a8b633",
+  "source_name": "claude_generator"
+}

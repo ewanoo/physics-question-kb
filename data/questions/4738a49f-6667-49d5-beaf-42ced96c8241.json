@@ -1,0 +1,38 @@
+{
+  "question_text": "Two objects, A and B, have the same volume but object A has more mass than object B. Which statement is true?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density comparison",
+    "application",
+    "reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Object A is less dense and will float higher in water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Object A is denser and will sink below object B in water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both objects have the same density because their volumes are equal",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Object B is denser because it has less mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Since both have the same volume but A has more mass, object A must be denser (density = mass \u00f7 volume). Higher density means it will sink further in water compared to object B.",
+  "quality_score": 4,
+  "id": "4738a49f-6667-49d5-beaf-42ced96c8241",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A distance-time graph shows a line with a steep gradient followed by a gentle gradient. What does this represent?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "gradient",
+    "speed changes"
+  ],
+  "options": null,
+  "correct_answer": "The object was moving quickly at first (steep gradient = high speed) and then slowed down (gentle gradient = lower speed).",
+  "explanation": "On a distance-time graph, the gradient (steepness) represents speed. A steeper line means faster speed, and a gentler line means slower speed. This graph shows the object decelerating.",
+  "quality_score": 4,
+  "id": "031e9a3f-330b-4e37-b0ed-fd5de4106c64",
+  "source_name": "claude_generator"
+}

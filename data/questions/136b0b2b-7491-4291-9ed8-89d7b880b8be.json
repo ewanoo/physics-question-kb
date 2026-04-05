@@ -1,0 +1,17 @@
+{
+  "question_text": "A block of wood has a mass of 600 g and a volume of 800 cm\u00b3. Calculate its density in g/cm\u00b3.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "calculation",
+    "g/cm\u00b3",
+    "basic"
+  ],
+  "options": null,
+  "correct_answer": "0.75 g/cm\u00b3",
+  "explanation": "Using density = mass \u00f7 volume: density = 600 \u00f7 800 = 0.75 g/cm\u00b3. This density is less than water (1 g/cm\u00b3), so the wood would float.",
+  "quality_score": 4,
+  "id": "136b0b2b-7491-4291-9ed8-89d7b880b8be",
+  "source_name": "claude_generator"
+}

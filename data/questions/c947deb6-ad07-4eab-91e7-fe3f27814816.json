@@ -1,0 +1,17 @@
+{
+  "question_text": "A hydraulic press applies a 500 N force to a small piston with an area of 0.01 m\u00b2. This creates pressure that acts on a larger piston with an area of 1 m\u00b2. What force is exerted on the large piston?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "hydraulics",
+    "force multiplication"
+  ],
+  "options": null,
+  "correct_answer": "50,000 N (or 50 kN)",
+  "explanation": "First, find the pressure from the small piston: 500 N \u00f7 0.01 m\u00b2 = 50,000 Pa. This pressure acts on the large piston: force = pressure \u00d7 area = 50,000 Pa \u00d7 1 m\u00b2 = 50,000 N. Hydraulic systems use pressure to multiply force over larger areas.",
+  "quality_score": 4,
+  "id": "c947deb6-ad07-4eab-91e7-fe3f27814816",
+  "source_name": "claude_generator"
+}

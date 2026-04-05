@@ -1,0 +1,17 @@
+{
+  "question_text": "A moment is calculated using the formula moment = force \u00d7 distance. What does the 'distance' represent in this formula?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "definition",
+    "pivot"
+  ],
+  "options": null,
+  "correct_answer": "The perpendicular distance from the pivot (or fulcrum) to the line of action of the force.",
+  "explanation": "The distance in the moment formula is the perpendicular distance measured from the pivot point to where the force is applied. This is sometimes called the 'moment arm' or 'lever arm'.",
+  "quality_score": 4,
+  "id": "9ac5104d-6c0c-4fab-a1f8-1be0629bb573",
+  "source_name": "claude_generator"
+}

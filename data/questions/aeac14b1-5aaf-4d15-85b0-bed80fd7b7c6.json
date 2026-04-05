@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement about Sankey diagrams is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "Sankey diagrams",
+    "energy flow",
+    "visualization"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The width of arrows shows the amount of energy at each stage",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Sankey diagrams show how long energy takes to transfer",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Wider arrows always mean the energy is more useful",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Sankey diagrams can only be used for electrical energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "In a Sankey diagram, the width of each arrow is proportional to the amount of energy it represents. This makes it easy to see how energy is distributed and wasted.",
+  "quality_score": 4,
+  "id": "aeac14b1-5aaf-4d15-85b0-bed80fd7b7c6",
+  "source_name": "claude_generator"
+}

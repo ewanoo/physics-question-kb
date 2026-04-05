@@ -1,0 +1,17 @@
+{
+  "question_text": "What happens to gas particles when pressure increases in a container?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas particles",
+    "pressure",
+    "particle model"
+  ],
+  "options": null,
+  "correct_answer": "The particles are squeezed closer together and collide with the container walls more frequently, increasing pressure.",
+  "explanation": "Gas pressure is caused by particles bouncing off container walls. When pressure increases, either the volume decreases (squeezing particles closer) or more particles are added, both causing more frequent collisions.",
+  "quality_score": 4,
+  "id": "570d5ba1-804c-480c-a131-6c69afce872d",
+  "source_name": "claude_generator"
+}

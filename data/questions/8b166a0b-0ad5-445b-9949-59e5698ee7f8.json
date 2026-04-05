@@ -1,0 +1,38 @@
+{
+  "question_text": "Sound travels at different speeds through different media. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "speed of sound",
+    "media",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound travels fastest through air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Sound travels fastest through water",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Sound travels fastest through solid materials like steel",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Sound travels at the same speed in all materials",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Sound travels through solids fastest (about 5000 m/s in steel), then through liquids like water (about 1500 m/s), then slowest through gases like air (about 340 m/s). This is because particles are closer together in solids.",
+  "quality_score": 4,
+  "id": "8b166a0b-0ad5-445b-9949-59e5698ee7f8",
+  "source_name": "claude_generator"
+}

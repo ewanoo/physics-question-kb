@@ -1,0 +1,18 @@
+{
+  "question_text": "A seesaw is balanced with a 40 N force applied 2 metres from the pivot on one side. To balance it, a 20 N force is applied on the other side. How far from the pivot should the 20 N force be applied?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "balance",
+    "lever",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "4 metres",
+  "explanation": "For a balanced seesaw, the moments on both sides must be equal. Moment 1 = 40 N \u00d7 2 m = 80 Nm. For the other side: 20 N \u00d7 distance = 80 Nm, so distance = 80 \u00f7 20 = 4 metres from the pivot.",
+  "quality_score": 4,
+  "id": "92e9c866-bb32-4afd-b8e3-53e46f8647ae",
+  "source_name": "claude_generator"
+}

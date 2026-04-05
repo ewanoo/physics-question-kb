@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain what total internal reflection is and describe one practical application of it.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "total internal reflection",
+    "critical angle",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "Total internal reflection occurs when light travels from a denser medium (like glass or water) to a less dense medium (like air) at an angle greater than the critical angle, and all the light is reflected back into the denser medium instead of refracting out. Application: optical fibres use total internal reflection to transmit light signals over long distances for internet and telecommunications.",
+  "explanation": "When light hits the boundary from the denser side at a steep enough angle, it bounces back completely rather than exiting. This happens in fibre optics, where light bounces along the glass fibre, and in diamond gemstones, which sparkle because light bounces inside them repeatedly.",
+  "quality_score": 4,
+  "id": "4a28e47b-1056-42b4-ac34-debfa96834dd",
+  "source_name": "claude_generator"
+}

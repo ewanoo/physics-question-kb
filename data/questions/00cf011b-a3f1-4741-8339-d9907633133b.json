@@ -1,0 +1,17 @@
+{
+  "question_text": "A gas is compressed from a volume of 2 m\u00b3 to 1 m\u00b3 at constant temperature. If the original pressure was 100 kPa, what is the new pressure?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "pressure-volume",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "200 kPa",
+  "explanation": "Using Boyle's Law (P\u2081V\u2081 = P\u2082V\u2082): 100 \u00d7 2 = P\u2082 \u00d7 1, so P\u2082 = 200 kPa. When volume halves at constant temperature, pressure doubles because particles collide more frequently.",
+  "quality_score": 4,
+  "id": "00cf011b-a3f1-4741-8339-d9907633133b",
+  "source_name": "claude_generator"
+}

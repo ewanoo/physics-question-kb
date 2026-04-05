@@ -1,0 +1,38 @@
+{
+  "question_text": "Why does a needle exert more pressure than a finger when pushed with the same force?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "area",
+    "everyday examples"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Because a needle is made of metal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Because a needle has a much smaller contact area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Because a needle experiences less force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Because a needle is sharper than a finger",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Pressure = force \u00f7 area. A needle concentrates the same force over a tiny contact area, creating much higher pressure than a finger, which spreads the force over a larger area.",
+  "quality_score": 4,
+  "id": "0bf0c1b0-24bf-4ebf-91fc-0e62fff56599",
+  "source_name": "claude_generator"
+}

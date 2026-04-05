@@ -1,0 +1,17 @@
+{
+  "question_text": "A runner completes a 400 metre lap in 80 seconds. What is their average speed? (Give your answer to 1 decimal place)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "distance",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "5.0 m/s",
+  "explanation": "Average speed = distance \u00f7 time = 400 m \u00f7 80 s = 5 m/s. This represents the distance the runner covers per second on average.",
+  "quality_score": 4,
+  "id": "d4a4ea96-c6c7-4f7e-a6b7-d2389014778d",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,19 @@
+{
+  "question_text": "The electromagnetic spectrum includes radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. (a) Which two types are ionizing radiations and dangerous to human cells? (b) Which type is used for cooking food? (c) Order radio, visible light, and X-rays by frequency from lowest to highest.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "em spectrum",
+    "ionizing radiation",
+    "uses",
+    "dangers",
+    "frequency ordering"
+  ],
+  "options": null,
+  "correct_answer": "(a) Ultraviolet, X-rays, and gamma rays are ionizing (any two correct). (b) Microwaves. (c) Radio waves, visible light, X-rays (lowest to highest frequency).",
+  "explanation": "Ionizing radiations have enough energy to remove electrons from atoms, damaging DNA. UV causes sunburn and skin cancer; X-rays and gamma rays are more dangerous. Microwaves heat food by making water molecules vibrate. The electromagnetic spectrum is ordered by frequency: radio (lowest) to gamma rays (highest)\u2014this is the reverse of wavelength order.",
+  "quality_score": 4,
+  "id": "c4474ff5-b4bf-45b2-ab4f-fbc0dadd3fc6",
+  "source_name": "claude_generator"
+}
