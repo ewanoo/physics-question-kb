@@ -263,11 +263,21 @@
 - Total questions: 2,485 (up from 2,431)
 - New weakest subtopics: forces.balanced=72, waves.light=72, waves.properties=72
 
-## Statistics (Session 23 — CURRENT)
-- **Total questions (JSON files)**: 2,485
+### Session 24 (agent — 2026-04-05)
+- Rebuilt DB from 2,485 committed question JSON files (all subtopics at 72-80)
+- Generated **68 new questions** in 2 batches targeting weakest subtopics:
+  - Batch 1 (36 q): forces.balanced, waves.light, waves.properties, electricity.magnets,
+    electricity.static, forces.speed, matter.changes, space.seasons, waves.colour (4 each)
+  - Batch 2 (32 q): energy.conservation, matter.density, forces.moments, forces.pressure,
+    electricity.magnets, space.solar_system, space.earth_moon, waves.colour (4 each)
+- Total questions: 2,553 (up from 2,485)
+- Weakest subtopic now: forces.friction=73
+
+## Statistics (Session 24 — CURRENT)
+- **Total questions (JSON files)**: 2,553
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~828, medium ~828, hard ~828 (all >= 50)
+- **By difficulty**: easy ~851, medium ~851, hard ~851 (all >= 50)
 - **Min questions per difficulty+subtopic slot**: 23+
 - **Mean quality score**: ~4.70
 
