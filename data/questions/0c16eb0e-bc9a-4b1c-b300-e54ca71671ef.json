@@ -1,0 +1,38 @@
+{
+  "question_text": "A book is resting on a table and not moving. Which statement best explains why the book stays stationary?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's first law",
+    "equilibrium",
+    "stationary objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The forces acting on the book are balanced, so there is no resultant force",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "There are no forces acting on the book at all",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gravity is stronger than the normal force from the table",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The book has no mass so it cannot move",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "According to Newton's first law, an object stays at rest if the forces on it are balanced. The weight of the book (downward) is balanced by the normal force from the table (upward), so the resultant force is zero and the book doesn't move.",
+  "quality_score": 5,
+  "id": "0c16eb0e-bc9a-4b1c-b300-e54ca71671ef",
+  "source_name": "claude_generator"
+}

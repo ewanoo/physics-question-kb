@@ -1,0 +1,18 @@
+{
+  "question_text": "A car is travelling along a horizontal road and experiences four forces: weight (5000 N downward), normal reaction force (5000 N upward), an engine thrust of 1500 N forward, and friction of 1200 N backward. Calculate the net force acting on the car and state which forces are contact forces.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "net force",
+    "contact vs non-contact",
+    "force calculation",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "Net force = 300 N forward. Contact forces: normal reaction force (5000 N) and friction (1200 N). Non-contact force: weight (5000 N). The engine thrust (1500 N) is also a contact force.",
+  "explanation": "To find the net force, you only consider forces in the same direction: 1500 N forward \u2013 1200 N backward = 300 N forward. The vertical forces (weight and normal reaction) are balanced so they cancel out. Contact forces require the car/road/engine to be touching (normal reaction, friction, thrust), while weight is a non-contact gravitational force.",
+  "quality_score": 5,
+  "id": "208fbc2b-34ab-4878-aa66-47a559d0e395",
+  "source_name": "claude_generator"
+}

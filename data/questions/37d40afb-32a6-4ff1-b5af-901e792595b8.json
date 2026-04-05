@@ -1,0 +1,17 @@
+{
+  "question_text": "A student observes smoke particles moving randomly under a microscope. What is the name of this random motion, and what causes it?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "Brownian motion",
+    "evidence for particles",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "Brownian motion. It is caused by smoke particles being bombarded by invisible air molecules moving randomly.",
+  "explanation": "This is Brownian motion, which is the evidence that particles (molecules and atoms) are really moving. The smoke particles are hit from all sides by fast-moving air molecules, but because hits are uneven, the smoke particles move in a jerky, random path. This proves particles exist and are always moving.",
+  "quality_score": 5,
+  "id": "37d40afb-32a6-4ff1-b5af-901e792595b8",
+  "source_name": "claude_generator"
+}

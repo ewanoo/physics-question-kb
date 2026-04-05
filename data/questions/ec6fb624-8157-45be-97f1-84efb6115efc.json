@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly explains what happens to an object in free fall?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "free fall",
+    "acceleration",
+    "gravity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object falls at a constant speed because gravity pulls with constant force.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The object accelerates downwards because the only force acting on it is gravity (ignoring air resistance).",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The object's weight decreases as it falls towards Earth.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object falls faster on Earth than on the Moon because Earth's gravity is stronger, but the acceleration is different.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In free fall, gravity is the only force acting on an object, so it accelerates downwards at 10 m/s\u00b2 on Earth. This means it gets faster and faster, not at constant speed. The weight doesn't change during the fall\u2014it's the gravitational force pulling the object down.",
+  "quality_score": 5,
+  "id": "ec6fb624-8157-45be-97f1-84efb6115efc",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is the process where a liquid turns directly into a gas without becoming a solid first?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "states of matter",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Condensation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Evaporation",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Sublimation",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Freezing",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Sublimation is when a solid changes directly into a gas, skipping the liquid state. Evaporation is liquid to gas, and condensation is gas to liquid.",
+  "quality_score": 4,
+  "id": "8559573b-66ed-4a01-ad3e-0498e28c0089",
+  "source_name": "claude_generator"
+}

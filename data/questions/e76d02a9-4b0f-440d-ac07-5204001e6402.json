@@ -1,0 +1,38 @@
+{
+  "question_text": "Two identical permanent magnets are placed with their north poles facing each other, 5 cm apart. They repel with a certain force. If the magnets are moved so they are only 2.5 cm apart (half the distance), which of the following best describes what happens to the repulsive force?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic field",
+    "force",
+    "distance relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The repulsive force doubles",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The repulsive force increases by four times or more",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The repulsive force stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The repulsive force halves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Magnetic force depends on the strength of the magnetic field, which decreases very rapidly with distance (following an inverse square law at KS4+, but students should understand forces get much stronger when poles are closer). When distance is halved, the field strength increases significantly more than twice\u2014roughly by a factor of 4 or more depending on the exact geometry.",
+  "quality_score": 4,
+  "id": "e76d02a9-4b0f-440d-ac07-5204001e6402",
+  "source_name": "claude_generator"
+}

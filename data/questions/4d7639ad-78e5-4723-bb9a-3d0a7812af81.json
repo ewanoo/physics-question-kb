@@ -1,0 +1,18 @@
+{
+  "question_text": "A gas diffuses faster at higher temperatures. Explain this observation using the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "diffusion",
+    "particle movement",
+    "temperature",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "At higher temperatures, gas particles move faster and have more kinetic energy. Faster-moving particles spread out and mix more quickly, so diffusion happens faster.",
+  "explanation": "Diffusion is when particles spread from where there are many to where there are fewer. Heat makes particles vibrate and move more, so they travel further and faster, and mix up more quickly. This shows that temperature directly affects how fast particles move, which is evidence that the particle model is correct.",
+  "quality_score": 5,
+  "id": "4d7639ad-78e5-4723-bb9a-3d0a7812af81",
+  "source_name": "claude_generator"
+}

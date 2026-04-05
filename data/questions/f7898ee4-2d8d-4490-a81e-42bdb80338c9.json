@@ -1,0 +1,17 @@
+{
+  "question_text": "An electromagnet is used in a scrapyard crane to lift crushed cars. Which two factors would make the electromagnet stronger so it can lift heavier loads?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "factors",
+    "applications"
+  ],
+  "options": null,
+  "correct_answer": "Increasing the current (or voltage) through the coil and/or increasing the number of coils (turns) in the electromagnet.",
+  "explanation": "Both increasing current and increasing the number of coils increase the magnetic field strength. In a scrapyard, engineers would use both methods to make the electromagnet powerful enough to lift heavy metal scraps.",
+  "quality_score": 5,
+  "id": "f7898ee4-2d8d-4490-a81e-42bdb80338c9",
+  "source_name": "claude_generator"
+}

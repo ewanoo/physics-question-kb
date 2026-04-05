@@ -1,0 +1,17 @@
+{
+  "question_text": "A steel paperclip is held near a permanent magnet and becomes magnetised. When the paperclip is removed from the magnet, it loses most of its magnetism. What type of magnet is the steel paperclip, and why does it lose its magnetism?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "induced magnetism",
+    "temporary magnets",
+    "materials"
+  ],
+  "options": null,
+  "correct_answer": "The paperclip is a temporary magnet because steel becomes magnetised when placed in a magnetic field but loses its magnetism when removed. This happens because the magnetic domains (groups of atoms) in steel are only weakly held in alignment and return to random positions once the external magnetic field is removed.",
+  "explanation": "Materials like steel and iron can be magnetised temporarily when placed in a magnetic field, but the effect doesn't last because the atoms' magnetic properties are not permanent. When the external field is gone, thermal motion scrambles the domains back to disorder.",
+  "quality_score": 5,
+  "id": "3fb9d3b1-3aca-4cd5-a34e-9314aa6b28b7",
+  "source_name": "claude_generator"
+}

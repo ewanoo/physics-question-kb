@@ -1,0 +1,38 @@
+{
+  "question_text": "How long does it take for the Moon to complete one full cycle of phases as seen from Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar cycle",
+    "period",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "7 days",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "14 days",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "28 days",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "365 days",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "The lunar cycle, from new Moon back to new Moon, takes approximately 28 days. This is why some people call a lunar month about 4 weeks long.",
+  "quality_score": 4,
+  "id": "62d7af0f-44db-4f59-9fb2-29fffbb14be2",
+  "source_name": "claude_generator"
+}

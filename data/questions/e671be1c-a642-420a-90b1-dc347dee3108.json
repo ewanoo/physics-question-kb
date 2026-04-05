@@ -1,0 +1,17 @@
+{
+  "question_text": "A rock with a mass of 2 kg is dropped from a cliff on Earth (g = 10 N/kg). A student claims the rock will fall faster than a feather dropped from the same height because the rock is heavier. Evaluate this claim and explain why the rock and feather accelerate at the same rate in free fall (ignoring air resistance).",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "free fall",
+    "mass vs acceleration",
+    "gravity myth"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect. Although the rock has a larger weight (W = 2 \u00d7 10 = 20 N) compared to the feather, it also has a larger mass. The acceleration in free fall depends on the ratio of weight to mass (a = W/m = g), which is the same for all objects (10 m/s\u00b2). So both fall with the same acceleration, regardless of mass or weight.",
+  "explanation": "This is a common misconception! Heavier objects do have more gravitational force pulling them down, but they also have more mass to accelerate. These two effects exactly balance out, so all objects accelerate at 10 m/s\u00b2 on Earth. In reality, the feather falls slower due to air resistance, not because it's lighter.",
+  "quality_score": 5,
+  "id": "e671be1c-a642-420a-90b1-dc347dee3108",
+  "source_name": "claude_generator"
+}

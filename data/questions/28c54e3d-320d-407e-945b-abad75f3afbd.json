@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements about magnetic poles is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "poles",
+    "attraction",
+    "repulsion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Two north poles will attract each other",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A north pole and a south pole will repel each other",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Two south poles will repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "All magnetic poles attract all other magnetic poles",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Like poles repel each other and unlike poles attract. Since both south poles are the same, they repel. This is a fundamental rule of magnetism that applies to all magnets.",
+  "quality_score": 5,
+  "id": "28c54e3d-320d-407e-945b-abad75f3afbd",
+  "source_name": "claude_generator"
+}

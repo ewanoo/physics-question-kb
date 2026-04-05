@@ -1,0 +1,18 @@
+{
+  "question_text": "A lunar eclipse occurs when the Moon passes through Earth's shadow. Explain why a lunar eclipse can only happen at a full Moon and not at other phases.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar eclipse",
+    "Moon's orbit",
+    "Earth's shadow",
+    "alignment"
+  ],
+  "options": null,
+  "correct_answer": "At a full Moon, the Moon is on the opposite side of Earth from the Sun, so it is positioned directly behind Earth in space. This is the only time the Moon can pass through Earth's shadow. At other phases, the Moon is at an angle and doesn't line up with Earth's shadow.",
+  "explanation": "For a lunar eclipse to happen, the Sun, Earth, and Moon must be in a straight line with Earth in the middle. This alignment only occurs at full Moon. At other phases like quarter or crescent, the Moon orbits at an angle to the Sun-Earth line, so it misses Earth's shadow.",
+  "quality_score": 5,
+  "id": "e35f4022-2958-4345-a5e8-c9e65b235701",
+  "source_name": "claude_generator"
+}

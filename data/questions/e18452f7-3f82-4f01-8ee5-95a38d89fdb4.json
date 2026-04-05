@@ -1,0 +1,17 @@
+{
+  "question_text": "A substance is heated continuously. It is a solid at 0\u00b0C. The heating causes it to melt at 50\u00b0C, and then boil at 120\u00b0C. If the substance absorbs 4000 J of heat energy to melt completely, and then absorbs 12,000 J to boil completely, calculate the total energy needed to change the solid at 50\u00b0C into steam at 120\u00b0C. Assume no heat is lost and the energy to heat the liquid from 50\u00b0C to 120\u00b0C is 2000 J.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "heating curve",
+    "energy calculation",
+    "latent heat"
+  ],
+  "options": null,
+  "correct_answer": "18,000 J",
+  "explanation": "You need to add three amounts of energy together: the energy to melt the solid (4000 J) + the energy to heat the liquid from 50\u00b0C to 120\u00b0C (2000 J) + the energy to boil the liquid (12,000 J) = 4000 + 2000 + 12,000 = 18,000 J total. The largest amount of energy is needed for boiling because that's when particles must move far apart from liquid spacing to gas spacing.",
+  "quality_score": 4,
+  "id": "e18452f7-3f82-4f01-8ee5-95a38d89fdb4",
+  "source_name": "claude_generator"
+}

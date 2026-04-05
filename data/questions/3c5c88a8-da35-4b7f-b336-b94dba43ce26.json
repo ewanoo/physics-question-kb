@@ -1,0 +1,38 @@
+{
+  "question_text": "A car is travelling along a straight road at a constant speed of 20 m/s. What can you conclude about the forces acting on the car?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's first law",
+    "constant velocity",
+    "balanced forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The driving force is greater than the friction and air resistance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces are balanced and the resultant force is zero",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There are no forces acting on the car",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The driving force is less than the friction and air resistance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When an object moves at constant velocity, its speed and direction don't change. This means the acceleration is zero, so by Newton's second law, the resultant force must be zero. This only happens when all forces are balanced.",
+  "quality_score": 5,
+  "id": "3c5c88a8-da35-4b7f-b336-b94dba43ce26",
+  "source_name": "claude_generator"
+}

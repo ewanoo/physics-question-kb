@@ -1,0 +1,38 @@
+{
+  "question_text": "A red apple appears red because it:",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour appearance",
+    "absorption",
+    "reflection"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Reflects red light and absorbs other colours",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Absorbs red light and reflects other colours",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Produces its own red light",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Refracts red light through its surface",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Objects appear to be a certain colour because they reflect that colour of light towards our eyes and absorb all the other colours. A red apple reflects red light but absorbs green and blue light, which is why we see it as red.",
+  "quality_score": 5,
+  "id": "fd1d3edd-8057-4e06-9653-f82ae6918dfe",
+  "source_name": "claude_generator"
+}

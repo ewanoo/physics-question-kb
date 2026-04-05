@@ -1,0 +1,17 @@
+{
+  "question_text": "A student heats an ice cube and measures its temperature every 30 seconds until it becomes steam. The graph shows a flat section between 0\u00b0C and 100\u00b0C where the temperature doesn't change even though heating continues. Explain why the temperature stays constant during this flat section using the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "heating curve",
+    "particle model",
+    "phase change"
+  ],
+  "options": null,
+  "correct_answer": "During the flat section, the heat energy being added is not increasing the temperature of the substance. Instead, the energy is being used to break the bonds between particles and allow them to move apart. The particles are changing from being in fixed positions (solid) to being able to slide past each other (liquid), or from liquid to gas, rather than moving faster. Only after all the substance has changed state does the temperature increase again.",
+  "explanation": "At phase changes (melting or boiling), added heat energy goes into breaking apart the structure that holds particles in place, not into making them move faster (which is what temperature measures). Once the change of state is complete, further heating makes particles move faster again, so temperature rises.",
+  "quality_score": 5,
+  "id": "ffd81760-e714-40a3-8959-264b4add84ed",
+  "source_name": "claude_generator"
+}

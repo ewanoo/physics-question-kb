@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the main purpose of adding an iron core to an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet design",
+    "iron core",
+    "magnetic strength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "To increase the strength of the magnetic field",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "To make the wire thicker and stronger",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "To reduce the amount of current needed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "To change the direction of the magnetic field",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "An iron core becomes magnetised when current flows through the coil around it, which greatly strengthens the overall magnetic field produced. Without the iron core, the electromagnet would be much weaker.",
+  "quality_score": 5,
+  "id": "ea3ce639-2c6e-4d22-a3fc-bc438d3b88be",
+  "source_name": "claude_generator"
+}

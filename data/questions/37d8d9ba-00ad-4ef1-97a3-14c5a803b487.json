@@ -1,0 +1,38 @@
+{
+  "question_text": "Which unit is used to measure the energy stored in food?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "energy units",
+    "food energy",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Joules (J)",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Watts (W)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Newtons (N)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Volts (V)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Joules are the SI unit for energy in physics. Watts measure power (energy per second), Newtons measure force, and Volts measure electrical potential. Food energy is always expressed in joules or kilojoules (kJ).",
+  "quality_score": 5,
+  "id": "37d8d9ba-00ad-4ef1-97a3-14c5a803b487",
+  "source_name": "claude_generator"
+}

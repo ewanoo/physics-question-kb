@@ -1,0 +1,18 @@
+{
+  "question_text": "A skier waxes the bottom of their skis before racing. Explain why this improves their speed down the slope.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "lubrication",
+    "kinetic friction",
+    "surface texture",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "Wax is a lubricant that smooths the surface of the skis, reducing friction between the skis and the snow. Less friction means less resistance, so the skier experiences a smaller force opposing their motion and can move faster.",
+  "explanation": "Lubrication works by creating a smooth layer that reduces contact between surfaces. When friction is reduced, there is less force opposing movement, allowing the skier to accelerate and maintain higher speeds. This is why skiers, swimmers, and many athletes use lubricants.",
+  "quality_score": 5,
+  "id": "acbf9e76-59b3-4bc5-aade-6425fa47235a",
+  "source_name": "claude_generator"
+}

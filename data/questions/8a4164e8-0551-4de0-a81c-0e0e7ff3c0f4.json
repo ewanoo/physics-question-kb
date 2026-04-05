@@ -1,0 +1,17 @@
+{
+  "question_text": "What happens to a spring when it is stretched beyond its elastic limit? Describe what you observe.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic_limit",
+    "spring_behavior",
+    "deformation"
+  ],
+  "options": null,
+  "correct_answer": "The spring becomes permanently deformed and does not return to its original length when the force is removed. It no longer obeys Hooke's law.",
+  "explanation": "The elastic limit is the maximum force a spring can take before it stops being elastic. Beyond this point, the spring's material is permanently damaged, so it stays stretched out even when you let go. Before the elastic limit, springs are 'elastic' meaning they spring back to their original shape.",
+  "quality_score": 4,
+  "id": "8a4164e8-0551-4de0-a81c-0e0e7ff3c0f4",
+  "source_name": "claude_generator"
+}

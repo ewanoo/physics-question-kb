@@ -1,0 +1,17 @@
+{
+  "question_text": "An electric bell works using an electromagnet. Explain how the electromagnet causes the bell to ring repeatedly.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet applications",
+    "electric bell",
+    "switching mechanism"
+  ],
+  "options": null,
+  "correct_answer": "When current flows, the electromagnet becomes magnetic and attracts an iron armature, which hits the bell. As the armature moves, it breaks the electrical circuit (opens a switch), so the electromagnet loses its magnetism. The armature springs back, closing the circuit again. This cycle repeats, causing repeated bell strikes.",
+  "explanation": "An electric bell is an example of a device that uses an electromagnet as an automatic switch. The key is the feedback loop: the electromagnet switches itself on and off by moving the very armature it attracts, creating continuous ringing.",
+  "quality_score": 5,
+  "id": "91c776c4-e119-4456-8887-0e713b214a65",
+  "source_name": "claude_generator"
+}

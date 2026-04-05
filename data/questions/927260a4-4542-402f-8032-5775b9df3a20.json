@@ -1,0 +1,18 @@
+{
+  "question_text": "A student observes that high tides occur roughly every 12 hours and 25 minutes, not every 12 hours. Using the fact that the lunar day (the time between consecutive high tides caused by the Moon) is about 24 hours 50 minutes, explain why high tides do not occur at exactly 12-hour intervals.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal effects",
+    "Moon's gravity",
+    "lunar day",
+    "timing"
+  ],
+  "options": null,
+  "correct_answer": "The Moon moves around Earth as Earth rotates, so it takes longer for the same point on Earth to return to being directly under (or opposite to) the Moon than it takes Earth to rotate once. A lunar day is about 50 minutes longer than a solar day (24 hours). Since there are two high tides per lunar day (one on the near side and one on the far side of Earth), each high tide is delayed by about 25 minutes compared to the previous day.",
+  "explanation": "The Moon orbits Earth while Earth spins, so a location on Earth has to rotate a bit extra to face the Moon again\u2014this is why the lunar day is longer than 24 hours. This 50-minute delay per day gets split between two high tides, giving about a 25-minute shift each time. This is why tides happen at different times each day.",
+  "quality_score": 5,
+  "id": "927260a4-4542-402f-8032-5775b9df3a20",
+  "source_name": "claude_generator"
+}

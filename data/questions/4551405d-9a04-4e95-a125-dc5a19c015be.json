@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes a key difference between solids and gases?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "properties",
+    "states of matter",
+    "shape and volume"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solids have a fixed shape and fixed volume, but gases have no fixed shape and no fixed volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Solids are always denser than gases because they are heavier",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gases have a fixed shape but solids do not",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Solids and gases both have fixed volumes but different shapes",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Solids keep their shape because particles are tightly packed in fixed positions. Gases spread out to fill whatever space they're in, so they have no fixed shape or volume. This is one of the most important differences between the three states of matter.",
+  "quality_score": 5,
+  "id": "4551405d-9a04-4e95-a125-dc5a19c015be",
+  "source_name": "claude_generator"
+}

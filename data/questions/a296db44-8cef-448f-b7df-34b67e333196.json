@@ -1,0 +1,17 @@
+{
+  "question_text": "It takes 334,000 J of energy to melt 1 kg of ice at 0\u00b0C. How much energy is released when 500 g of water freezes at 0\u00b0C?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "latent heat",
+    "freezing",
+    "energy calculations"
+  ],
+  "options": null,
+  "correct_answer": "167,000 J (or 167 kJ)",
+  "explanation": "The latent heat of fusion is 334,000 J/kg. For 500 g (0.5 kg), the energy is 334,000 \u00d7 0.5 = 167,000 J. Freezing releases the same amount of energy that melting absorbs.",
+  "quality_score": 4,
+  "id": "a296db44-8cef-448f-b7df-34b67e333196",
+  "source_name": "claude_generator"
+}

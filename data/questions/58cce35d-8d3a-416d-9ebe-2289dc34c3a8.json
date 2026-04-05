@@ -1,0 +1,18 @@
+{
+  "question_text": "A student measures a wave on a string and finds that 3 complete wavelengths fit into a distance of 60 cm. The wave completes 4 oscillations in 2 seconds. Use this information to calculate the wave speed.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed equation",
+    "wavelength measurement",
+    "frequency calculation",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "0.4 m/s",
+  "explanation": "First, find the wavelength: 3 wavelengths = 60 cm, so \u03bb = 20 cm = 0.2 m. Next, find the frequency: 4 oscillations in 2 seconds means f = 4 \u00f7 2 = 2 Hz. Finally, use v = f\u03bb: v = 2 \u00d7 0.2 = 0.4 m/s. This requires multiple steps and understanding of both wavelength measurement and frequency calculation.",
+  "quality_score": 5,
+  "id": "58cce35d-8d3a-416d-9ebe-2289dc34c3a8",
+  "source_name": "claude_generator"
+}

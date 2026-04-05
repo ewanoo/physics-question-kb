@@ -1,0 +1,17 @@
+{
+  "question_text": "A maglev train uses electromagnets to levitate above the track. If one electromagnet in the train has 500 coils and produces a lifting force of 8000 N, calculate the approximate lifting force if the number of coils is increased to 750, assuming all other factors stay the same.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "coil number",
+    "proportionality"
+  ],
+  "options": null,
+  "correct_answer": "12,000 N (or 12 kN). The lifting force is proportional to the number of coils, so: 8000 N \u00f7 500 = 16 N per coil; 16 N \u00d7 750 = 12,000 N.",
+  "explanation": "The strength of an electromagnet increases proportionally with the number of coils. By increasing coils from 500 to 750 (a factor of 1.5), the force also increases by a factor of 1.5: 8000 N \u00d7 1.5 = 12,000 N. This is why maglev trains use many coils to generate strong lifting forces.",
+  "quality_score": 5,
+  "id": "95512fba-983f-4526-aa66-fd4d6777bfca",
+  "source_name": "claude_generator"
+}

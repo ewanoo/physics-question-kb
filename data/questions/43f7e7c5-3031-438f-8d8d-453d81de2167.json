@@ -1,0 +1,17 @@
+{
+  "question_text": "A student draws a magnetic field diagram for a bar magnet. The field lines are closer together on one side of the magnet and spread further apart on the other side. What does the spacing of the field lines represent?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "field lines",
+    "magnetic field strength",
+    "field diagrams"
+  ],
+  "options": null,
+  "correct_answer": "The spacing of field lines shows the strength of the magnetic field. Where lines are close together, the field is stronger; where they are spread apart, the field is weaker.",
+  "explanation": "In magnetic field diagrams, the density of field lines indicates how strong the magnetic field is in that region. Lines drawn close together mean the field is powerful, while widely spaced lines mean the field is weak.",
+  "quality_score": 4,
+  "id": "43f7e7c5-3031-438f-8d8d-453d81de2167",
+  "source_name": "claude_generator"
+}

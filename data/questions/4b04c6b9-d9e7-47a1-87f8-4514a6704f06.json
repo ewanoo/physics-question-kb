@@ -1,0 +1,18 @@
+{
+  "question_text": "A lamp uses 180,000 joules of energy over 2 minutes. Calculate the power in watts and then convert your answer to kilowatts.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "calculation",
+    "unit conversion",
+    "P=E/t",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "1,500 W or 1.5 kW",
+  "explanation": "First, convert 2 minutes to seconds: 2 \u00d7 60 = 120 seconds. Then use P = E \u00f7 t: P = 180,000 \u00f7 120 = 1,500 W. Finally, convert to kilowatts by dividing by 1,000: 1,500 \u00f7 1,000 = 1.5 kW. This multi-step problem requires unit conversion before calculating power.",
+  "quality_score": 5,
+  "id": "4b04c6b9-d9e7-47a1-87f8-4514a6704f06",
+  "source_name": "claude_generator"
+}

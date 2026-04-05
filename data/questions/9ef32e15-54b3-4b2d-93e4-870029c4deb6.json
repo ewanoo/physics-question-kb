@@ -1,0 +1,17 @@
+{
+  "question_text": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Calculate the wave speed using the equation v = f\u03bb.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed equation",
+    "frequency",
+    "wavelength"
+  ],
+  "options": null,
+  "correct_answer": "100 m/s",
+  "explanation": "Using v = f\u03bb, where f = 50 Hz and \u03bb = 2 m, we multiply: v = 50 \u00d7 2 = 100 m/s. This is a straightforward application of the wave speed equation.",
+  "quality_score": 5,
+  "id": "9ef32e15-54b3-4b2d-93e4-870029c4deb6",
+  "source_name": "claude_generator"
+}

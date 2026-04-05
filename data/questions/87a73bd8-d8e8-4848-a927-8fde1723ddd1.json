@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of friction being useful?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "useful friction",
+    "everyday examples",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction slowing down a car when brakes are applied",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Friction between a ball and the air as it flies through the sky",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Friction between gears in a machine, causing energy loss",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Friction in a door hinge making it harder to open",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Friction is useful when it helps us do things we want, like stopping a car safely with the brakes. The other options show friction being wasteful or unhelpful\u2014air resistance slows objects we want to move, worn gears lose energy, and rusty hinges make doors difficult to open.",
+  "quality_score": 5,
+  "id": "87a73bd8-d8e8-4848-a927-8fde1723ddd1",
+  "source_name": "claude_generator"
+}

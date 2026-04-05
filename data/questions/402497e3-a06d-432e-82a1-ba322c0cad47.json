@@ -1,0 +1,17 @@
+{
+  "question_text": "A colour filter appears blue when white light shines through it. Explain what happens to the other colours of light (red and green) when they try to pass through the blue filter.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "absorption",
+    "transmission"
+  ],
+  "options": null,
+  "correct_answer": "The blue filter absorbs (or blocks) the red and green colours of light, only allowing blue light to pass through.",
+  "explanation": "A colour filter works by absorbing certain colours of light and transmitting (letting through) others. A blue filter absorbs the red and green light but transmits the blue light, so only blue light comes out the other side.",
+  "quality_score": 5,
+  "id": "402497e3-a06d-432e-82a1-ba322c0cad47",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A kettle is rated at 2 kW and a toaster is rated at 800 W. Explain which appliance transfers energy faster and why.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "comparison",
+    "units"
+  ],
+  "options": null,
+  "correct_answer": "The kettle transfers energy faster because it has a higher power rating (2 kW = 2,000 W, which is greater than 800 W). A higher power rating means energy is transferred more quickly.",
+  "explanation": "When comparing power ratings, the appliance with the higher power rating transfers energy more quickly. We need to convert 2 kW to 2,000 W to compare fairly, since 1 kilowatt (kW) = 1,000 watts (W).",
+  "quality_score": 5,
+  "id": "48ad43e7-fdaa-4ade-b83f-e24bfafa1396",
+  "source_name": "claude_generator"
+}

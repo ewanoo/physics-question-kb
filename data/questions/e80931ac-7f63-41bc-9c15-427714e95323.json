@@ -1,0 +1,17 @@
+{
+  "question_text": "A food label states that a cereal bar contains 840 kJ of energy. What is this energy in joules?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy conversion",
+    "units",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "840,000 J or 8.4 \u00d7 10\u2075 J",
+  "explanation": "To convert from kilojoules to joules, multiply by 1000 because 'kilo' means 1000. So 840 kJ = 840 \u00d7 1000 = 840,000 J. This can also be written in standard form as 8.4 \u00d7 10\u2075 J.",
+  "quality_score": 5,
+  "id": "e80931ac-7f63-41bc-9c15-427714e95323",
+  "source_name": "claude_generator"
+}

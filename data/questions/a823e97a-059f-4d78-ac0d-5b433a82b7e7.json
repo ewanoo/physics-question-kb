@@ -1,0 +1,18 @@
+{
+  "question_text": "Describe two ways to reduce friction between a moving object and the surface it slides on.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction reduction",
+    "lubrication",
+    "surface texture",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "Any two of the following: (1) Use a lubricant like oil or grease to smooth the surfaces and reduce contact; (2) Polish or smooth the surfaces so they are less rough (texture reduces friction); (3) Reduce the weight/normal force pressing the surfaces together (if possible).",
+  "explanation": "Friction depends on both the texture of surfaces and the weight pushing them together. Making surfaces smoother or adding slippery lubricants both reduce friction. We can also reduce the normal force by removing weight, though this isn't always practical. All three methods are used in real situations\u2014engines use oil, ice skates are polished, and cyclists try to keep their bikes light.",
+  "quality_score": 5,
+  "id": "a823e97a-059f-4d78-ac0d-5b433a82b7e7",
+  "source_name": "claude_generator"
+}

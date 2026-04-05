@@ -1,0 +1,17 @@
+{
+  "question_text": "A student is pulling a rope to lift a bucket of water. Which type of force does the rope exert on the bucket?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "tension",
+    "contact forces",
+    "applications"
+  ],
+  "options": null,
+  "correct_answer": "Tension (a contact force).",
+  "explanation": "The rope exerts a tension force on the bucket. Tension is a contact force because the rope must be touching the bucket to pull it. The rope transmits the pulling force from the student to the bucket.",
+  "quality_score": 4,
+  "id": "7d486754-c8e2-4fd4-b7a9-a3bd7d1ef17a",
+  "source_name": "claude_generator"
+}

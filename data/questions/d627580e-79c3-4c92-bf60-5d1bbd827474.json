@@ -1,0 +1,38 @@
+{
+  "question_text": "A student stretches two identical springs by the same amount. Spring A is stretched within its elastic limit and Spring B is stretched beyond its elastic limit. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic_limit",
+    "hookes_law",
+    "spring_behavior"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both springs will return to their original length when released, and both required the same force to stretch.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Spring A will return to its original length; Spring B will not. Spring A obeyed Hooke's law while being stretched, but Spring B did not.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Spring B will return to its original length but Spring A will not because Spring B is stronger.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both springs will remain stretched permanently and neither will return to its original length.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Spring A stays within its elastic limit, so it behaves elastically (returns to original length) and follows Hooke's law (F = ke). Spring B is stretched past its elastic limit, causing permanent deformation, so it doesn't return to its original shape and no longer follows Hooke's law. This tests understanding of the relationship between elastic limit and elastic behaviour.",
+  "quality_score": 5,
+  "id": "d627580e-79c3-4c92-bf60-5d1bbd827474",
+  "source_name": "claude_generator"
+}

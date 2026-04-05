@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the difference between mass and weight?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Mass is the amount of matter in an object (measured in kg) and stays the same everywhere. Weight is the force of gravity pulling on an object (measured in N) and changes depending on the gravitational field strength.",
+  "explanation": "Mass is 'how much stuff' you have, while weight is 'how hard gravity pulls on you'. Your mass never changes, but your weight would be different on the Moon because the gravitational field is weaker there.",
+  "quality_score": 5,
+  "id": "9d783c92-d26b-487a-87e1-7e74ae287c9d",
+  "source_name": "claude_generator"
+}

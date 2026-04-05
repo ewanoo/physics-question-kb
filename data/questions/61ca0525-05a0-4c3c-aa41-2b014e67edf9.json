@@ -1,0 +1,17 @@
+{
+  "question_text": "A microwave uses 9,000 joules of energy in 30 seconds. Calculate the power of the microwave in watts.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "calculation",
+    "power formula",
+    "P=E/t"
+  ],
+  "options": null,
+  "correct_answer": "300 W (or 300 watts)",
+  "explanation": "Use the formula P = E \u00f7 t, where E = 9,000 J and t = 30 s. So P = 9,000 \u00f7 30 = 300 W. The watt (W) is the unit of power and equals one joule per second.",
+  "quality_score": 5,
+  "id": "61ca0525-05a0-4c3c-aa41-2b014e67edf9",
+  "source_name": "claude_generator"
+}

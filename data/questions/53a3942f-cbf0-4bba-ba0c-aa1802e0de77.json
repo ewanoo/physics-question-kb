@@ -1,0 +1,17 @@
+{
+  "question_text": "A tug-of-war rope has forces acting on it from both teams. Team A pulls with a force of 800 N to the left, and Team B pulls with a force of 800 N to the right. Describe what happens to the rope and explain your answer using the concept of resultant force.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "equilibrium",
+    "balanced forces"
+  ],
+  "options": null,
+  "correct_answer": "The rope remains stationary (does not move). The resultant force is zero because the two forces are equal in size but opposite in direction, so they balance each other out.",
+  "explanation": "When two equal forces act in opposite directions, they cancel each other out completely, giving a resultant force of zero. According to Newton's first law, the rope will remain at rest because there is no unbalanced force to cause it to accelerate in any direction.",
+  "quality_score": 5,
+  "id": "53a3942f-cbf0-4bba-ba0c-aa1802e0de77",
+  "source_name": "claude_generator"
+}

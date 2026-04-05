@@ -1,0 +1,17 @@
+{
+  "question_text": "A teenager has a BMR of 6,000 kJ per day. They eat 9,500 kJ of food daily and use 2,500 kJ during sport. How much energy is left over each day? What happens to this energy?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy balance",
+    "BMR",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "1,000 kJ is left over. This excess energy is stored as fat in the body (or could be used for growth and repair if the person is still developing).",
+  "explanation": "Total energy needed = BMR + energy for sport = 6,000 + 2,500 = 8,500 kJ. Energy consumed = 9,500 kJ. Energy left over = 9,500 - 8,500 = 1,000 kJ. When the body has more energy than it needs, the surplus is stored as fat deposits for future use.",
+  "quality_score": 5,
+  "id": "abb39fd6-4414-45bb-9fa1-0ce131e014a3",
+  "source_name": "claude_generator"
+}

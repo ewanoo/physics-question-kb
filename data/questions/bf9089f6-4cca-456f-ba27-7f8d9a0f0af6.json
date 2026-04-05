@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why we see different phases of the Moon throughout the lunar cycle?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "phases of the Moon",
+    "lunar cycle",
+    "light reflection"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon produces its own light, which varies in brightness each night",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The amount of the Moon's sunlit side that we can see changes as the Moon orbits Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth's shadow gradually covers and uncovers the Moon each month",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon moves closer to and farther from Earth, making it appear brighter or dimmer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The Moon doesn't produce its own light\u2014it reflects sunlight. As the Moon orbits Earth, different amounts of its illuminated surface face towards us, creating the phases we see. A full cycle takes about 28 days.",
+  "quality_score": 5,
+  "id": "bf9089f6-4cca-456f-ba27-7f8d9a0f0af6",
+  "source_name": "claude_generator"
+}

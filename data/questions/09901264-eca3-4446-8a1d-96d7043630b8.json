@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is a contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "force classification",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Magnetism",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electrostatic force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Friction is a contact force because it only acts when two surfaces are touching each other. Gravity, magnetism, and electrostatic forces are non-contact forces that can act at a distance without touching.",
+  "quality_score": 5,
+  "id": "09901264-eca3-4446-8a1d-96d7043630b8",
+  "source_name": "claude_generator"
+}

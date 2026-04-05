@@ -1,0 +1,38 @@
+{
+  "question_text": "What is power defined as in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "definition",
+    "power",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of energy used by an appliance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The rate at which energy is transferred or used",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The time taken for an appliance to use energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force applied to move an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Power tells us how fast energy is being transferred or used. A higher power means energy is transferred more quickly. It's the rate of energy transfer, not the total amount or the time taken.",
+  "quality_score": 5,
+  "id": "01a3194d-e7c3-4ce4-b17b-2f1f99a66ea1",
+  "source_name": "claude_generator"
+}

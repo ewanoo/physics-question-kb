@@ -1,0 +1,17 @@
+{
+  "question_text": "Three horizontal forces act on a stationary crate on a frictionless surface: Force A = 50 N to the right, Force B = 30 N to the left, and Force C acts to the left. Calculate the size of Force C if the crate is in equilibrium.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force calculation",
+    "equilibrium",
+    "multiple forces"
+  ],
+  "options": null,
+  "correct_answer": "20 N (to the left)",
+  "explanation": "For the crate to be in equilibrium, the resultant force must be zero. First, find the net force to the right: 50 N right minus 30 N left = 20 N to the right. To balance this, Force C must be 20 N to the left. Check: 50 N right = 30 N left + 20 N left, so the forces balance and the resultant is zero.",
+  "quality_score": 5,
+  "id": "b1b0ce42-58b4-43b2-8768-b2de5a937747",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain the difference between amplitude and wavelength, and describe what each one tells us about a wave.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "wavelength",
+    "wave properties"
+  ],
+  "options": null,
+  "correct_answer": "Amplitude is the maximum displacement of a particle from its rest position (height of the wave), while wavelength is the distance between two consecutive identical points on a wave (e.g., peak to peak). Amplitude tells us how strong or intense the wave is, while wavelength tells us the size of the wave pattern.",
+  "explanation": "These are two different measurements of a wave. Amplitude (measured vertically) affects the energy of the wave, while wavelength (measured horizontally) is one of the properties used in the wave speed equation. Both are important for describing waves fully.",
+  "quality_score": 5,
+  "id": "891287b7-5ae0-4262-899f-2327473c2d26",
+  "source_name": "claude_generator"
+}

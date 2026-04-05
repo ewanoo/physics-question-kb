@@ -1,0 +1,18 @@
+{
+  "question_text": "A perfume bottle is opened in one corner of a room. After some time, the smell reaches the other side of the room. Using diffusion and the particle model, explain how this happens and why it takes longer in a cold room than a warm room.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "diffusion",
+    "particle model",
+    "temperature effect",
+    "multi-step reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Perfume particles evaporate into gas particles that spread throughout the room by diffusion. They move from high concentration (near bottle) to low concentration (rest of room). In a cold room, particles move slower and collide more, so diffusion is slower. In a warm room, particles have more energy and move faster, so they spread out and mix more quickly.",
+  "explanation": "This question tests understanding of how particles move and spread (diffusion), and how temperature affects particle motion. In a warm room, particles move faster so the smell spreads quicker. In a cold room, particles move slower so it takes longer for the smell to reach the other side. This is multi-step because it combines diffusion, evaporation, and temperature effects.",
+  "quality_score": 4,
+  "id": "39d660db-bb5e-43f1-bb88-5bdf50665b95",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A delivery lorry has a boxy shape, but a sports car is streamlined (smooth and pointed). Using ideas about air resistance and friction, explain why streamlining helps the sports car use less fuel than the boxy lorry at high speeds.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "air resistance",
+    "streamlining",
+    "kinetic friction",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "A streamlined shape reduces air resistance by allowing air to flow smoothly around the car instead of pushing against a flat surface. This means the engine has to work less hard to overcome the friction/drag forces from air, so less fuel is burned. The boxy lorry has more surface area exposed to air and air cannot flow smoothly around it, creating greater air resistance and requiring more engine power.",
+  "explanation": "Air resistance is a type of friction that increases dramatically at high speeds, especially with boxy shapes that disturb the air flow. Streamlining reduces drag by letting air move past the object with less turbulence. This is why racing cars, dolphins, and rockets are all streamlined\u2014it saves energy. At low speeds, air resistance is small, so shape matters less, but at motorway speeds it becomes the main force the engine must overcome.",
+  "quality_score": 5,
+  "id": "08ed741c-32d0-4adc-b813-099c59dd46ac",
+  "source_name": "claude_generator"
+}

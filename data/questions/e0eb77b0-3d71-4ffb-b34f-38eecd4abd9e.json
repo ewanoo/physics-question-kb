@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain why clothes dry faster on a warm, windy day than on a cold, still day, using the concept of evaporation.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "temperature",
+    "everyday applications"
+  ],
+  "options": null,
+  "correct_answer": "Warm temperatures give water molecules more energy to escape as a gas (evaporate). Wind carries away the water vapour, preventing it from condensing back onto the clothes. Together, these increase the rate of evaporation.",
+  "explanation": "Evaporation speeds up with heat and air movement. Warmth gives molecules more kinetic energy to escape the liquid, and wind removes the vapour so it cannot condense back.",
+  "quality_score": 5,
+  "id": "e0eb77b0-3d71-4ffb-b34f-38eecd4abd9e",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A person's basal metabolic rate (BMR) is 5,500 kJ per day. What does this tell us about their body?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "basal metabolic rate",
+    "BMR",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "It is the minimum amount of energy their body needs each day to carry out essential functions (like breathing, heartbeat, and cell processes) even at rest.",
+  "explanation": "BMR is the energy required to keep your body functioning when you are completely at rest. This energy goes into maintaining body temperature, keeping your heart beating, allowing your brain to work, and other vital processes. Everyone needs this energy even if they don't exercise.",
+  "quality_score": 5,
+  "id": "4ffff76e-5fb9-4243-8754-6b31efd6abc1",
+  "source_name": "claude_generator"
+}

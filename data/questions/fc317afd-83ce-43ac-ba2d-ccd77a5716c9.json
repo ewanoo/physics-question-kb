@@ -1,0 +1,18 @@
+{
+  "question_text": "White light is shone through a prism and separates into a spectrum of colours from red to violet. A student observes that red light bends the least and violet light bends the most when passing through the prism. Explain why violet light bends more than red light, and describe what this tells us about the relationship between wavelength and how much light bends.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "dispersion",
+    "prism",
+    "wavelength",
+    "refraction"
+  ],
+  "options": null,
+  "correct_answer": "Violet light has a shorter wavelength than red light. The prism bends violet light more because shorter wavelengths are refracted more than longer wavelengths. This shows that the amount of bending (refraction) is inversely related to wavelength\u2014shorter wavelengths bend more.",
+  "explanation": "Different colours of light have different wavelengths: red has the longest wavelength and violet has the shortest. When light passes through a prism, shorter wavelengths are bent (refracted) more than longer wavelengths, which is why the spectrum separates with red on one end and violet on the other. This property is called dispersion.",
+  "quality_score": 5,
+  "id": "fc317afd-83ce-43ac-ba2d-ccd77a5716c9",
+  "source_name": "claude_generator"
+}

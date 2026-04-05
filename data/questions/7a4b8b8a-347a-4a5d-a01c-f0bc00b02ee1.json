@@ -1,0 +1,38 @@
+{
+  "question_text": "What are the units for spring constant in Hooke's law?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "spring_constant",
+    "units"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "N/m",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "N/cm",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "kg/m",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "m/N",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Spring constant is measured in Newtons per metre (N/m) because it tells us how many Newtons of force are needed to stretch or compress a spring by 1 metre. This comes directly from Hooke's law: F = ke.",
+  "quality_score": 5,
+  "id": "7a4b8b8a-347a-4a5d-a01c-f0bc00b02ee1",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A student has a mass of 50 kg on Earth where g = 10 N/kg. Calculate the student's weight. Then calculate what their weight would be on the Moon where g = 1.6 N/kg.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight calculation",
+    "W=mg",
+    "moon gravity"
+  ],
+  "options": null,
+  "correct_answer": "Weight on Earth: W = mg = 50 \u00d7 10 = 500 N. Weight on Moon: W = mg = 50 \u00d7 1.6 = 80 N.",
+  "explanation": "Use the formula W = mg for both calculations. The mass stays the same (50 kg), but because the Moon's gravitational field is much weaker, the weight is much smaller. The student would feel much lighter on the Moon!",
+  "quality_score": 5,
+  "id": "4ab3ab95-6fd9-43f0-839b-ac3a6b2a7399",
+  "source_name": "claude_generator"
+}

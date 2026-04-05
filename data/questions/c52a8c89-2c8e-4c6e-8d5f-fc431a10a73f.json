@@ -1,0 +1,38 @@
+{
+  "question_text": "Which three colours are the primary colours of light?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "primary colours",
+    "light",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red, green and blue",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Red, yellow and blue",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Red, orange and yellow",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Cyan, magenta and yellow",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Red, green and blue (RGB) are the primary colours of light and can be mixed together to make any other colour. This is different from primary colours of paint (which are red, yellow and blue) because light mixes differently than pigments.",
+  "quality_score": 5,
+  "id": "c52a8c89-2c8e-4c6e-8d5f-fc431a10a73f",
+  "source_name": "claude_generator"
+}

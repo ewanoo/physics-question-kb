@@ -1,0 +1,17 @@
+{
+  "question_text": "A spring has a spring constant of 50 N/m. Calculate the force needed to stretch the spring by 0.4 m.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "calculation",
+    "spring_constant"
+  ],
+  "options": null,
+  "correct_answer": "20 N",
+  "explanation": "Using Hooke's law F = ke, we multiply the spring constant (50 N/m) by the extension (0.4 m): F = 50 \u00d7 0.4 = 20 N. This is a straightforward application of the formula.",
+  "quality_score": 5,
+  "id": "ae6eac79-1c33-4052-9f67-b4cbe9330cb3",
+  "source_name": "claude_generator"
+}

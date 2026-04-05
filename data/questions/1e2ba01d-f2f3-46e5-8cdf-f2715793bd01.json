@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is a longitudinal wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "transverse vs longitudinal",
+    "wave types",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A sound wave travelling through air",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A light wave travelling from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A wave on the surface of water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A wave on a guitar string",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Sound waves are longitudinal because the particles vibrate back and forth in the same direction as the wave travels. Light waves, water waves, and guitar string waves are all transverse because the particles vibrate at right angles to the direction of travel.",
+  "quality_score": 5,
+  "id": "1e2ba01d-f2f3-46e5-8cdf-f2715793bd01",
+  "source_name": "claude_generator"
+}

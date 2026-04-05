@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why gases are much easier to compress than liquids, using the particle model?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "compressibility",
+    "particle model",
+    "particle spacing"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas particles are much lighter than liquid particles, so they require less force to push together",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles are far apart with large spaces between them, so they can be pushed closer together; liquid particles are already close together and touching, so there is little space to reduce",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gases have higher temperatures than liquids, which makes them easier to compress",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Liquid particles are held together by stronger forces, which stops them from being compressed at all",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In gases, particles are spread far apart with lots of empty space between them. When you apply pressure, you can push them closer together relatively easily. In liquids, the particles are already touching or very close, so there's almost no space left to reduce. This is why you can squeeze a gas into a smaller volume but not a liquid.",
+  "quality_score": 5,
+  "id": "311dfa86-af62-4df6-8d76-dec1e35da1f1",
+  "source_name": "claude_generator"
+}

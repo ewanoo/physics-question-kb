@@ -1,0 +1,39 @@
+{
+  "question_text": "A student heats ice from \u221210\u00b0C until it becomes steam at 110\u00b0C. During which part of this process is the temperature NOT increasing, even though heat energy is being added?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "latent heat",
+    "melting",
+    "boiling",
+    "energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "When the ice is warming from \u221210\u00b0C to 0\u00b0C",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "When the water is warming from 0\u00b0C to 100\u00b0C",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "When ice is melting at 0\u00b0C and when water is boiling at 100\u00b0C",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "When steam is warming above 100\u00b0C",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "During changes of state (melting and boiling), all the heat energy goes into breaking bonds and changing the state, not into raising temperature. This is called latent heat.",
+  "quality_score": 5,
+  "id": "e9c19e3a-0484-4993-8679-23b87f0c57bb",
+  "source_name": "claude_generator"
+}
