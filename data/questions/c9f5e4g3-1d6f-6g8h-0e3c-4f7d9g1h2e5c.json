@@ -1,0 +1,17 @@
+{
+  "id": "c9f5e4g3-1d6f-6g8h-0e3c-4f7d9g1h2e5c",
+  "question_text": "What is the unit of electric current and what symbol is used to represent it?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "units",
+    "ampere"
+  ],
+  "options": null,
+  "correct_answer": "The unit is the ampere (or amp), and the symbol is A.",
+  "explanation": "Electric current is measured in amperes, often shortened to 'amps' in everyday language. The capital letter A is used as the symbol for amperes. For example, a torch bulb might use a current of 0.5 A.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

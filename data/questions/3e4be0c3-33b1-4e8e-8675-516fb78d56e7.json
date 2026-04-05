@@ -1,0 +1,38 @@
+{
+  "id": "3e4be0c3-33b1-4e8e-8675-516fb78d56e7",
+  "question_text": "Which of the following is an example of friction being useful?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "useful friction",
+    "examples",
+    "everyday applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction making it difficult to slide a box across the floor",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction helping shoes grip the ground so we don't slip",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Friction slowing down a bicycle when we want to go faster",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Friction causing wear on car tyres",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction between shoes and the ground is useful because it prevents us from slipping and allows us to walk safely. The other examples show friction as a nuisance or something we want to reduce.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

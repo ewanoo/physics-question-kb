@@ -1,0 +1,17 @@
+{
+  "id": "55f27408-6575-454f-959a-83ffe483a2c3",
+  "question_text": "Describe what happens to the particles in a liquid when it changes into a gas during evaporation.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "particles",
+    "evaporation",
+    "state change"
+  ],
+  "options": null,
+  "correct_answer": "The particles gain energy and move faster. The forces between particles weaken and they spread apart, escaping into the air as a gas.",
+  "explanation": "During evaporation, particles at the surface of a liquid gain enough energy to overcome the forces holding them in the liquid state. They then move freely and far apart as a gas.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

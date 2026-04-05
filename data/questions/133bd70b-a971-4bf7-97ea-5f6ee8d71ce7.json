@@ -1,0 +1,38 @@
+{
+  "id": "133bd70b-a971-4bf7-97ea-5f6ee8d71ce7",
+  "question_text": "A balloon contains helium gas at atmospheric pressure (101 kPa) with a volume of 2000 cm\u00b3. The balloon rises to a height where the atmospheric pressure drops to 81 kPa. Which statement best explains what happens to the balloon's volume?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "real-world application",
+    "atmospheric pressure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The volume stays the same because helium is lighter than air.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The volume increases to approximately 2500 cm\u00b3 because the external pressure decreases.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The volume decreases because helium expands when it gets colder.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The volume increases to 5000 cm\u00b3 because the pressure doubles.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Using Boyle's law, when external pressure decreases from 101 kPa to 81 kPa, the gas expands. Calculating: 101 \u00d7 2000 = 81 \u00d7 V\u2082, so V\u2082 = 202000 \u00f7 81 \u2248 2494 cm\u00b3 (approximately 2500 cm\u00b3). The balloon expands because there is less external pressure pushing inward on it.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

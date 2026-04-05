@@ -1,0 +1,17 @@
+{
+  "id": "b2c4f8d1-5a9e-4f3b-8e2d-4c7a6f9b3d2e",
+  "question_text": "Name the type of energy store in a battery.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "energy sources",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy",
+  "explanation": "A battery stores energy in the chemicals inside it. When you connect a battery to a device, the chemical energy is released and converted into other forms of energy like electrical energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

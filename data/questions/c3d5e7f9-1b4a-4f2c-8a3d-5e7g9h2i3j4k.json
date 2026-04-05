@@ -1,0 +1,39 @@
+{
+  "id": "c3d5e7f9-1b4a-4f2c-8a3d-5e7g9h2i3j4k",
+  "question_text": "A circuit has a fault. A student measures that when a 12V power supply is connected, the ammeter shows 3A flowing. When they add another 4\u03a9 resistor in series, the current drops to 1.5A. What is the resistance of the original circuit, and what does this tell you about whether there might be a short circuit or other fault?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "Ohm's law troubleshooting",
+    "circuit faults",
+    "problem solving",
+    "resistance calculation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Original resistance is 4\u03a9; this suggests a short circuit because the resistance is unusually low",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Original resistance is 4\u03a9; this is a normal healthy circuit with no faults",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Original resistance is 8\u03a9; the circuit has a broken connection",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Original resistance cannot be calculated from this information alone",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Using Ohm's law (R = V/I), the original resistance is 12V \u00f7 3A = 4\u03a9. When 4\u03a9 is added in series, total resistance becomes 8\u03a9, so current should be 12V \u00f7 8\u03a9 = 1.5A, which matches the measurement. However, 4\u03a9 is very low for a normal circuit, suggesting a short circuit or damaged insulation causing excessive current draw.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

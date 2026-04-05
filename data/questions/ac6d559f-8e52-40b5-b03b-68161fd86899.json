@@ -1,0 +1,17 @@
+{
+  "id": "ac6d559f-8e52-40b5-b03b-68161fd86899",
+  "question_text": "A smartphone charger transfers 7200 joules of energy to charge the phone's battery. The charger has a power rating of 10 W. How long does it take to transfer this energy?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "rearranging P=E/t",
+    "time calculation"
+  ],
+  "options": null,
+  "correct_answer": "720 seconds (or 12 minutes)",
+  "explanation": "Using the formula P = E \u00f7 t, we can rearrange to find time: t = E \u00f7 P. Therefore, t = 7200 \u00f7 10 = 720 seconds, which equals 12 minutes.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c1d4e5f6-7a8b-4c9d-0e1f-2g3h4i5j6k7l",
+  "question_text": "A rope is used to pull a box across a rough floor at a constant velocity. The rope makes an angle of 30\u00b0 above the horizontal. The tension in the rope is 50 N. Explain why the box continues to move at constant velocity despite friction acting on it, and identify which force must be equal to friction for this to happen.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "Newton's first law",
+    "equilibrium",
+    "resultant forces",
+    "friction"
+  ],
+  "options": null,
+  "correct_answer": "The box moves at constant velocity because the resultant force is zero (Newton's first law). The horizontal component of tension (approximately 43.3 N) must equal the friction force for the box to maintain constant velocity.",
+  "explanation": "When an object moves at constant velocity, its acceleration is zero, meaning the resultant force must be zero (Newton's first law of motion). Only the horizontal component of the tension force opposes friction (the vertical component acts upward), so this horizontal component must exactly balance the friction force. This requires understanding force resolution, equilibrium, and Newton's laws combined.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

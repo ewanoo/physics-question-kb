@@ -1,0 +1,18 @@
+{
+  "id": "8c24656b-5a05-4f09-9cf2-26d8762eda31",
+  "question_text": "Two identical polystyrene rods are rubbed with cloth: Rod A is rubbed with a woollen cloth and becomes negatively charged with 8\u00d710\u00b9\u2078 excess electrons. Rod B is rubbed with a silk cloth and becomes positively charged. Which rod experienced a greater transfer of electrons, and why? Explain your reasoning using electron transfer principles.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "electron transfer",
+    "static electricity",
+    "charging",
+    "materials"
+  ],
+  "options": null,
+  "correct_answer": "Both rods experienced the same transfer of electrons (8\u00d710\u00b9\u2078 electrons). When Rod A is rubbed with wool, electrons transfer from the wool to the rod, making the rod negative and the wool positive. When Rod B is rubbed with silk, electrons transfer from the rod to the silk, making the rod positive and the silk negative. In both cases, the same number of electrons were transferred\u2014the difference is the direction of transfer. The number of electrons lost by the positive rod equals the number gained by the negative rod.",
+  "explanation": "Static electricity involves the transfer of electrons between materials. Rod A gains electrons (becoming negative), while Rod B loses electrons (becoming positive). Since the rods are identical and end up with equal but opposite charges, the same number of electrons must have been transferred in each case\u2014just in opposite directions.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

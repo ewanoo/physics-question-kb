@@ -1,0 +1,17 @@
+{
+  "id": "cd4c79a7-31e9-4f7c-bd4a-124ee4444bcc",
+  "question_text": "What is the definition of gravity?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "definition",
+    "fundamental force"
+  ],
+  "options": null,
+  "correct_answer": "Gravity is a force that attracts all objects with mass towards each other. On Earth, it pulls objects downwards towards the centre of the planet.",
+  "explanation": "Gravity is one of the fundamental forces in the universe. It acts on all objects that have mass and always pulls them together. On Earth, we experience this as a downward pull.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

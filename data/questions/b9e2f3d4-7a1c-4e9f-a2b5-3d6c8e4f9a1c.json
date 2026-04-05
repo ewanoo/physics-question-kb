@@ -1,0 +1,18 @@
+{
+  "id": "b9e2f3d4-7a1c-4e9f-a2b5-3d6c8e4f9a1c",
+  "question_text": "Two identical bulbs are connected in a series circuit with a 6V battery. A voltmeter measures 3V across the first bulb. What voltage would be measured across the second bulb, and what can you deduce about the resistance of each bulb?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "voltage distribution",
+    "equal resistances",
+    "circuit analysis"
+  ],
+  "options": null,
+  "correct_answer": "The voltage across the second bulb is 3V. Both bulbs have equal resistance because they are identical and the voltage is split equally between them.",
+  "explanation": "In a series circuit, the total voltage equals the sum of voltages across each component. Since 3V is measured across the first bulb and the total is 6V, the second bulb must have 6V - 3V = 3V across it. The equal voltage split indicates equal resistance, since in series with the same current flowing through both, equal resistance means equal voltage drop.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

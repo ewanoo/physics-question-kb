@@ -1,0 +1,18 @@
+{
+  "id": "a7f3c2e1-9b4d-4c8e-b2a1-5d8f3e9c1b2a",
+  "question_text": "A student builds two electromagnets using identical iron cores and the same length of copper wire. Electromagnet A has the wire wrapped around the core 50 times and is connected to a 6V battery. Electromagnet B has the wire wrapped around the core 100 times and is connected to a 3V battery. Which electromagnet will be stronger, and explain your reasoning by considering both the number of turns and the voltage applied.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "turns",
+    "voltage",
+    "multi-factor reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Electromagnet B will be stronger. Although it has half the voltage (3V vs 6V), it has twice as many turns of wire (100 vs 50). The number of turns has a greater effect on electromagnet strength than voltage. More turns create a stronger magnetic field because the magnetic effects of each loop add together.",
+  "explanation": "Electromagnet strength depends on both the number of wire turns and the current flowing through the wire. While Electromagnet A has higher voltage, Electromagnet B's double number of turns significantly increases the strength of the magnetic field, and this effect outweighs the lower voltage.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

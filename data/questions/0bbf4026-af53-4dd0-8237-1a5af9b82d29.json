@@ -1,0 +1,18 @@
+{
+  "id": "0bbf4026-af53-4dd0-8237-1a5af9b82d29",
+  "question_text": "A student walks across a carpet in winter and accumulates a charge of 24 \u03bcC (microcoulombs). When they touch a metal doorknob, they receive a small shock. Explain what happens during the shock in terms of electron movement, why winter conditions make this worse, and suggest two practical methods to prevent this dangerous discharge.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "safety",
+    "electron transfer",
+    "discharge"
+  ],
+  "options": null,
+  "correct_answer": "During the shock, excess electrons rapidly flow from the student's body through the metal doorknob to the ground, creating a spark that can be felt and hurt. Winter conditions make this worse because cold air has lower humidity\u2014moisture in the air normally allows charges to leak away slowly. Without moisture, charges build up more easily. Two prevention methods are: (1) touch a grounded metal object slowly (like a radiator) to allow electrons to flow safely before touching the doorknob, or (2) wear anti-static shoes or use anti-static mats that allow charge to dissipate gradually to the ground.",
+  "explanation": "Static shocks happen when excess electrons suddenly discharge to the ground. Winter air is dry, so charges can't leak away safely and build up instead. Gradual discharge to ground or using conductive pathways prevents dangerous sparks from forming.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

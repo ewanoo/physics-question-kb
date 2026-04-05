@@ -1,0 +1,38 @@
+{
+  "id": "f037f4ce-49ac-4052-86d2-ae3e0e958bc3",
+  "question_text": "Two light bulbs are switched on. Bulb A has a power of 40 W and Bulb B has a power of 10 W. Both are left on for 5 minutes. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power comparison",
+    "energy transfer",
+    "household devices"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Bulb A transfers 4 times more energy than Bulb B",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Bulb B transfers more energy because it is on longer",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both bulbs transfer the same amount of energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Bulb A transfers twice as much energy as Bulb B",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since both bulbs are on for the same time (5 minutes), the one with higher power transfers more energy. Bulb A (40 W) has 4 times the power of Bulb B (10 W), so it transfers 4 times more energy in the same time.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

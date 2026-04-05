@@ -1,0 +1,17 @@
+{
+  "id": "436a5b4e-5b67-4cbe-804f-98d11953e0fc",
+  "question_text": "A gas is contained in a syringe with a volume of 50 cm\u00b3 at a pressure of 100 kPa. The plunger is pushed in until the volume is reduced to 25 cm\u00b3. Assuming the temperature stays constant, what is the new pressure of the gas?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "pressure calculation",
+    "inverse relationship"
+  ],
+  "options": null,
+  "correct_answer": "200 kPa",
+  "explanation": "Using Boyle's law (P\u2081V\u2081 = P\u2082V\u2082), we have: 100 \u00d7 50 = P\u2082 \u00d7 25. Solving for P\u2082 gives 5000 \u00f7 25 = 200 kPa. When the volume decreases, the pressure increases because the same number of gas particles are now in a smaller space, hitting the walls more frequently.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

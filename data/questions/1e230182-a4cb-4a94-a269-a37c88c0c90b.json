@@ -1,0 +1,17 @@
+{
+  "id": "1e230182-a4cb-4a94-a269-a37c88c0c90b",
+  "question_text": "A cyclist is travelling at 8 m/s on a wet road when they apply the brakes. The friction force from the brakes is 400 N and the cyclist and bike have a combined mass of 80 kg. Calculate the deceleration of the cyclist and determine how far they will travel before coming to a complete stop.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction and deceleration",
+    "braking distance",
+    "motion equations"
+  ],
+  "options": null,
+  "correct_answer": "Deceleration = 5 m/s\u00b2 (using F = ma: 400 = 80 \u00d7 a). Braking distance = 6.4 m (using v\u00b2 = u\u00b2 + 2as: 0 = 64 + 2 \u00d7 (-5) \u00d7 s).",
+  "explanation": "First, use Newton's second law (F = ma) to find how quickly friction slows the cyclist down. Then use motion equations to calculate the stopping distance. Friction is the only horizontal force, so it causes the deceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

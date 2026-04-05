@@ -1,0 +1,17 @@
+{
+  "id": "a769818d-dd27-4534-933c-b0439953815b",
+  "question_text": "A negatively charged rod is brought near a neutral (uncharged) piece of paper. The paper is attracted to the rod. Explain why this happens.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "attraction",
+    "induced charge",
+    "neutral objects"
+  ],
+  "options": null,
+  "correct_answer": "The negative charge on the rod repels/pushes the electrons in the paper away, leaving the near side positive. The opposite charges attract. / The electrons in the paper are pushed away from the rod, making the nearest side positive, which attracts the negative rod.",
+  "explanation": "Even though the paper is neutral overall, the negative charge on the rod pushes the electrons inside the paper away from it. This leaves the side nearest the rod with a positive charge, and opposite charges attract. This is why charged objects can pick up small neutral objects like paper scraps.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

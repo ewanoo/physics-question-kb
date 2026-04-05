@@ -1,0 +1,17 @@
+{
+  "id": "a7f3c2e1-9b4d-4e6f-8c1a-2d5b7e9f0c3a",
+  "question_text": "What is electric current?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "definition",
+    "electrons"
+  ],
+  "options": null,
+  "correct_answer": "Electric current is the flow of electrons (or electrical charge) through a conductor.",
+  "explanation": "Current describes how much electrical charge is moving through a circuit. It is measured in amperes (amps) and represents the movement of electrons along a wire or through a component.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

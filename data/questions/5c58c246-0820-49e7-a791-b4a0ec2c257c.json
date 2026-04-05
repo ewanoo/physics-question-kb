@@ -1,0 +1,17 @@
+{
+  "id": "5c58c246-0820-49e7-a791-b4a0ec2c257c",
+  "question_text": "What causes gas pressure according to the particle model of matter?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "particle model",
+    "gas pressure",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Gas particles moving rapidly and colliding with the walls of the container",
+  "explanation": "Gas pressure is created by gas particles constantly moving around and bumping into container walls. The more collisions that happen, the greater the pressure. This is the key idea behind understanding gas pressure using the particle model.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "724d3f5e-ca84-4026-a2bc-4177655a4083",
+  "question_text": "Name one factor that affects the pressure of a gas in a container.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "factors affecting pressure",
+    "particle model"
+  ],
+  "options": null,
+  "correct_answer": "Temperature (or volume, or amount of gas)",
+  "explanation": "Gas pressure can be affected by several factors: increasing temperature makes particles move faster and increase pressure; decreasing volume forces particles into a smaller space causing more collisions; or adding more particles increases the number of collisions. Any one of these correct answers shows understanding of how particles affect pressure.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

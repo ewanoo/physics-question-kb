@@ -1,0 +1,38 @@
+{
+  "id": "8030f3d2-0289-4dbf-b7f2-d72ac742f047",
+  "question_text": "When a gas is heated, what happens to the movement of its particles?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "temperature",
+    "particle movement",
+    "heating"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The particles slow down and move more slowly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The particles speed up and move faster",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The particles stay the same speed but change direction",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The particles stop moving completely",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When a gas is heated, the particles gain energy and move faster. This increased movement means more frequent and forceful collisions with container walls, which increases pressure. Temperature and particle speed are directly linked in the particle model.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "256e0c16-3157-47fd-96fd-959e18b08a25",
+  "question_text": "A kettle transfers 180,000 joules of energy to heat water. If it takes 60 seconds to boil the water, what is the power of the kettle?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "P=E/t",
+    "household appliances"
+  ],
+  "options": null,
+  "correct_answer": "3000 W (or 3 kW)",
+  "explanation": "Power is calculated using the formula P = E \u00f7 t. Here, P = 180,000 \u00f7 60 = 3000 watts. This is the rate at which the kettle transfers energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

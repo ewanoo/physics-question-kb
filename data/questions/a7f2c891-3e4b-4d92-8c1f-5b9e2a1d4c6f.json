@@ -1,0 +1,18 @@
+{
+  "id": "a7f2c891-3e4b-4d92-8c1f-5b9e2a1d4c6f",
+  "question_text": "A book of mass 2 kg is placed on a table. A student pushes the book horizontally with a force of 5 N to the right, and friction acts on the book with a force of 8 N to the left. Another student pulls the book with a rope at an angle, applying a force of 6 N horizontally to the right. What is the resultant force acting on the book, and in which direction does it act?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "vector addition",
+    "friction",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "3 N to the left",
+  "explanation": "First, identify all horizontal forces: push = 5 N right, pull = 6 N right, friction = 8 N left. Add forces in the same direction: 5 + 6 = 11 N right. Subtract friction (opposite direction): 11 - 8 = 3 N net force. Since friction (8 N left) is greater than the combined pushes and pulls (11 N right), the resultant force is 3 N to the left.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

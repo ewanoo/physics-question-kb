@@ -1,0 +1,17 @@
+{
+  "id": "31db1125-95ce-4744-91fe-46728030b420",
+  "question_text": "A rectangular water tank has a base area of 2 m\u00b2 and contains water to a depth of 3 m. A diver enters the tank at the bottom. Compare the pressure exerted by the water on: (a) the bottom of the tank, and (b) the side walls at a depth of 1 m below the surface. The density of water is 1000 kg/m\u00b3 and g = 10 N/kg. Explain your results and state which surface experiences the greater force in total.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure comparison",
+    "hydrostatic pressure",
+    "force calculation"
+  ],
+  "options": null,
+  "correct_answer": "(a) Pressure at bottom = \u03c1gh = 1000 \u00d7 10 \u00d7 3 = 30,000 Pa. (b) Pressure at 1 m depth on side walls = 1000 \u00d7 10 \u00d7 1 = 10,000 Pa. The pressure is different because pressure in a fluid depends on depth below the surface. The bottom experiences 3 times greater pressure. However, the total force on the bottom is greater (F = P \u00d7 A = 30,000 \u00d7 2 = 60,000 N) because although the side walls experience pressure over a larger area, the bottom has both the greatest pressure and sufficient area to produce a larger total force.",
+  "explanation": "This question requires students to calculate pressure at different depths, recognize that pressure varies with depth, compare values, and understand the difference between pressure (force per unit area) and total force. It demonstrates that deeper surfaces experience higher pressure but also requires consideration of the areas involved.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

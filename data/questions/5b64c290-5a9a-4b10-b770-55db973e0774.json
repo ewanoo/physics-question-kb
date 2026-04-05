@@ -1,0 +1,17 @@
+{
+  "id": "5b64c290-5a9a-4b10-b770-55db973e0774",
+  "question_text": "A wooden box with a mass of 20 kg is being pushed across a concrete floor. The friction force between the box and floor is 80 N. A student then places another identical 20 kg box on top of the first one and pushes both boxes together across the same concrete floor. Calculate the friction force now acting on the two stacked boxes and explain why it has changed.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction calculation",
+    "normal force",
+    "stacked objects"
+  ],
+  "options": null,
+  "correct_answer": "160 N. The friction force doubles because the normal force doubles when the second box is placed on top (total mass increases from 20 kg to 40 kg), and friction is directly proportional to normal force.",
+  "explanation": "Friction depends on how hard surfaces are pressed together (normal force). When you double the mass, the normal force doubles (more weight pushing down), so the friction force also doubles. This shows the direct relationship between normal force and friction.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

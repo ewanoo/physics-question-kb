@@ -1,0 +1,17 @@
+{
+  "id": "cac2303f-e831-461c-be05-fa7be70f2686",
+  "question_text": "What is pressure?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "pressure",
+    "force"
+  ],
+  "options": null,
+  "correct_answer": "Pressure is the force acting on a surface per unit area, or the force spread over an area.",
+  "explanation": "Pressure describes how concentrated or spread out a force is. A small force on a tiny area creates high pressure, while the same force spread over a large area creates low pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

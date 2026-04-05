@@ -1,0 +1,38 @@
+{
+  "id": "92487345-dacc-4b7d-991d-565070563ed2",
+  "question_text": "Two identical plastic rods are both rubbed with wool and become negatively charged. What will happen when the two rods are brought close together?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "repulsion",
+    "like charges",
+    "force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They will attract each other",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They will repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They will have no effect on each other",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They will stick together permanently",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Both rods have the same type of charge (negative), and like charges always repel each other. This is one of the fundamental rules of static electricity: charges that are the same push away from each other.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

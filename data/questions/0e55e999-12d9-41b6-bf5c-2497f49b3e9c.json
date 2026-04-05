@@ -1,0 +1,17 @@
+{
+  "id": "0e55e999-12d9-41b6-bf5c-2497f49b3e9c",
+  "question_text": "What is gravitational field strength, and what is its unit of measurement?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational field strength",
+    "definition",
+    "units"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational field strength is the measure of how strong the pull of gravity is in a particular location. It is measured in newtons per kilogram (N/kg).",
+  "explanation": "Gravitational field strength tells us how much gravitational force acts on each kilogram of mass at a particular location. On Earth's surface, it is approximately 10 N/kg, meaning a 1 kg object experiences a 10 N gravitational force.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

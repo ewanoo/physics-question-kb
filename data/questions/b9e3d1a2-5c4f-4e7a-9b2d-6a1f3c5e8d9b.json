@@ -1,0 +1,38 @@
+{
+  "id": "b9e3d1a2-5c4f-4e7a-9b2d-6a1f3c5e8d9b",
+  "question_text": "A student investigates four different forces acting on objects: gravitational force on a falling ball, elastic force in a stretched spring, normal force on a book on a table, and magnetic force between two magnets. Which of these forces can act on an object WITHOUT the two objects being in direct contact?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "contact and non-contact forces",
+    "force classification",
+    "evaluation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Only the elastic force and normal force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Only the gravitational force and magnetic force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Only the normal force and elastic force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All four forces can act without direct contact",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational force and magnetic force are non-contact forces that can act across a distance without objects touching. The elastic force requires a spring to be stretched (contact), and normal force requires objects to be in contact with a surface. This question requires students to classify and compare force types based on their fundamental properties.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

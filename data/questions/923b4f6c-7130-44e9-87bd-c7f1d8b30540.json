@@ -1,0 +1,17 @@
+{
+  "id": "923b4f6c-7130-44e9-87bd-c7f1d8b30540",
+  "question_text": "A hydraulic lift system has two pistons. The input piston has an area of 0.5 m\u00b2 and the output piston has an area of 5 m\u00b2. A force of 1000 N is applied to the input piston. Calculate: (a) the pressure created in the hydraulic fluid, and (b) the force produced at the output piston. Explain why hydraulic systems are useful for lifting heavy objects.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulic systems",
+    "pressure calculation",
+    "force multiplication"
+  ],
+  "options": null,
+  "correct_answer": "(a) Pressure = Force \u00f7 Area = 1000 \u00f7 0.5 = 2000 Pa (or 2 kPa). (b) Force at output = Pressure \u00d7 Area = 2000 \u00d7 5 = 10,000 N. Hydraulic systems are useful because the pressure is the same throughout the fluid, so a small force on a small area can create a large force on a large area, allowing us to lift heavy objects with less effort.",
+  "explanation": "This question requires students to use the pressure formula (P = F/A) twice: first to find the pressure created by the input piston, then to find the output force using the same pressure. It combines calculation skills with understanding how hydraulic systems work as force multipliers.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

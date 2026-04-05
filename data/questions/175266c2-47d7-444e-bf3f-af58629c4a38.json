@@ -1,0 +1,17 @@
+{
+  "id": "175266c2-47d7-444e-bf3f-af58629c4a38",
+  "question_text": "A submarine is designed to operate safely at depths where the water pressure does not exceed 500,000 Pa. The density of seawater is 1025 kg/m\u00b3 and the gravitational field strength is 10 N/kg. Calculate the maximum safe depth for this submarine. If the submarine descends to twice this depth, what would be the pressure at that depth, and explain why the submarine would be in danger.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure in fluids",
+    "density",
+    "depth calculation"
+  ],
+  "options": null,
+  "correct_answer": "Using P = \u03c1gh: 500,000 = 1025 \u00d7 10 \u00d7 h, so h = 500,000 \u00f7 10,250 \u2248 48.8 m. At twice this depth (97.6 m), pressure = 1025 \u00d7 10 \u00d7 97.6 = 1,000,400 Pa (approximately 1,000 kPa or 1 MPa). The submarine would be in danger because the pressure would exceed the design limit, potentially causing the hull to crack and allowing water to flood inside.",
+  "explanation": "This multi-step question requires students to rearrange the pressure equation P = \u03c1gh to find depth, then apply the formula again at a different depth. It combines calculation skills with understanding pressure limits and safety in engineering contexts.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

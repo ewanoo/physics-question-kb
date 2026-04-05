@@ -1,0 +1,17 @@
+{
+  "id": "3aa140b0-016d-43de-8996-a9fd35255906",
+  "question_text": "A student stands 340 metres from a cliff face and shouts. The speed of sound in air is 340 m/s. Calculate the total time taken for the student to hear the echo of their shout. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "speed of sound",
+    "echoes",
+    "distance-time calculations"
+  ],
+  "options": null,
+  "correct_answer": "2 seconds",
+  "explanation": "The sound must travel to the cliff (340 m) and back to the student (another 340 m), giving a total distance of 680 m. Using time = distance \u00f7 speed: time = 680 \u00f7 340 = 2 seconds. This is a common exam question testing understanding that echoes require the sound to travel twice the distance.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

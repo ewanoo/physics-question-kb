@@ -1,0 +1,17 @@
+{
+  "id": "88a23723-9425-4468-9531-5be1c8d3861c",
+  "question_text": "State the formula for calculating pressure and identify what each symbol represents.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "formula",
+    "pressure",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "P = F/A, where P is pressure (measured in Pascals or N/m\u00b2), F is force (measured in Newtons), and A is area (measured in square metres).",
+  "explanation": "The pressure formula shows that pressure increases when force increases or when the area decreases. This explains why sharp objects create higher pressure than blunt ones with the same force.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

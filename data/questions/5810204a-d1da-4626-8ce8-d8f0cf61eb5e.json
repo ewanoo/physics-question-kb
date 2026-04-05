@@ -1,0 +1,17 @@
+{
+  "id": "5810204a-d1da-4626-8ce8-d8f0cf61eb5e",
+  "question_text": "A sealed container holds oxygen gas at a pressure of 150 kPa and occupies a volume of 80 cm\u00b3. The container is compressed so that the pressure increases to 300 kPa. What is the new volume of the gas, assuming temperature remains constant?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "volume calculation",
+    "gas compression"
+  ],
+  "options": null,
+  "correct_answer": "40 cm\u00b3",
+  "explanation": "Using Boyle's law (P\u2081V\u2081 = P\u2082V\u2082), we have: 150 \u00d7 80 = 300 \u00d7 V\u2082. Solving for V\u2082 gives 12000 \u00f7 300 = 40 cm\u00b3. When pressure doubles, the volume is halved because the gas particles are forced into half the space, demonstrating the inverse proportionality between pressure and volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

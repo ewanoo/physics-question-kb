@@ -1,0 +1,18 @@
+{
+  "id": "b8e4d3f2-0c5e-5d9f-c3b2-6e9f4f0d2c3b",
+  "question_text": "An electromagnetic relay is used in a car to control a high-power headlight circuit. The relay has a small electromagnet (low current circuit) that switches a much larger current through the headlight. Explain why the relay must have an iron core, and what would happen to the relay's function if the iron core was removed and replaced with a plastic rod.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet applications",
+    "relay",
+    "iron core",
+    "circuit control"
+  ],
+  "options": null,
+  "correct_answer": "The iron core is essential because it greatly amplifies the magnetic field strength created by the small current in the electromagnet. Without the iron core, the magnetic field would be too weak to attract the switch mechanism inside the relay. With a plastic rod instead, the electromagnet would produce almost no magnetic field, so it would be unable to close the switch and control the headlight circuit.",
+  "explanation": "Iron cores are crucial for electromagnets because iron is ferromagnetic and concentrates and strengthens the magnetic field lines. Without it, the tiny current in a relay coil would generate insufficient magnetic force to operate the switching mechanism.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "a1f3e9c2-4b7d-4e2a-9f1c-3d8b5e6a2c1f",
+  "question_text": "A ball is rolling down a hill. Which energy store is increasing as the ball rolls down?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "gravitational potential energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thermal energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As the ball rolls down the hill, it speeds up, so its kinetic energy (energy of movement) increases. Gravitational potential energy decreases because the ball is lower down the hill.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

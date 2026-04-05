@@ -1,0 +1,17 @@
+{
+  "id": "a2472c3b-ee57-4f3e-ab50-1b36a45ca67a",
+  "question_text": "A tuning fork vibrating at 256 Hz is held above an open tube partly filled with water. As the water level is gradually lowered, the loudness of the sound suddenly increases dramatically at certain water levels. Explain why this happens and describe what happens to the air column length when this occurs.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "resonance",
+    "standing waves",
+    "frequency"
+  ],
+  "options": null,
+  "correct_answer": "Resonance occurs when the length of the air column equals a multiple of half-wavelengths (quarter-wavelengths for open-closed pipes). At these specific lengths, standing waves form and the air column vibrates in phase with the tuning fork, amplifying the sound. The air column length must be 1/4, 3/4, 5/4, etc. of the wavelength for resonance.",
+  "explanation": "This is a resonance problem where standing waves are created in the tube. When the air column length matches certain fractions of the sound wave's wavelength, the reflected sound waves interfere constructively with incoming waves, causing dramatic amplification. This is why organs and musical instruments use tubes of specific lengths\u2014they're designed for resonance at particular frequencies.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

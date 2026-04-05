@@ -1,0 +1,38 @@
+{
+  "id": "eef0563d-d2d6-40cd-a511-85f91e82bd4a",
+  "question_text": "A police officer with a siren drives towards a stationary person at high speed. Compared to when the car is stationary, the person observes that the siren sound has a higher frequency and shorter wavelength. Which of the following best explains this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "Doppler effect",
+    "frequency",
+    "wavelength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The moving car produces sound waves with more energy, so the frequency increases.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The car compresses the sound waves as it moves towards the observer, reducing the wavelength and increasing the frequency heard.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed of sound increases when the car moves, causing the frequency to increase.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The siren's actual frequency increases when the car accelerates towards the observer.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "This is the Doppler effect\u2014when a sound source moves towards an observer, the sound waves are compressed (wavelength decreases) and more waves reach the observer per second (frequency increases), making the sound appear higher-pitched. The speed of sound and the siren's actual frequency remain unchanged.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

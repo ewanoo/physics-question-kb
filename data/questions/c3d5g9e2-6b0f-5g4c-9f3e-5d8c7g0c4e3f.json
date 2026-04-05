@@ -1,0 +1,38 @@
+{
+  "id": "c3d5g9e2-6b0f-5g4c-9f3e-5d8c7g0c4e3f",
+  "question_text": "Which statement correctly describes the energy store of a hot cup of tea?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "thermal energy",
+    "heat",
+    "energy identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It has kinetic energy because the cup is not moving",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It has thermal energy because the tea is hot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It has gravitational potential energy because it is above the ground",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It has chemical energy because tea leaves were used",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Thermal energy is the energy of heat stored in an object because of its temperature. A hot cup of tea has thermal energy because it is warm. The other energy stores do not correctly describe a hot cup of tea.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c9f5e4g3-1d6f-6e0g-d4c3-7f0g5g1e3d4c",
+  "question_text": "A student measures the pulling force of an electromagnet under three different conditions: (1) 50 turns, 2A current; (2) 100 turns, 2A current; (3) 100 turns, 1A current. Rank these three electromagnets from strongest to weakest, and calculate the relative strength compared to condition (1) if electromagnet strength is proportional to (number of turns \u00d7 current).",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "turns",
+    "current",
+    "proportionality"
+  ],
+  "options": null,
+  "correct_answer": "Condition (1): 50 \u00d7 2 = 100 units. Condition (2): 100 \u00d7 2 = 200 units (twice as strong). Condition (3): 100 \u00d7 1 = 100 units (same strength). Ranking from strongest to weakest: (2), then (1) and (3) tied. Condition (2) is 2 times stronger than condition (1); conditions (1) and (3) are equal in strength.",
+  "explanation": "Electromagnet strength depends on the product of turns and current. By multiplying these factors for each condition, you can compare their relative strengths. Condition (2) produces the strongest field because it has both high turns and high current, while condition (3) is weakened by the lower current despite having more turns.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

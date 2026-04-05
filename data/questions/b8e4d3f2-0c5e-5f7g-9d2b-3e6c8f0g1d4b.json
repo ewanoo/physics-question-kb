@@ -1,0 +1,38 @@
+{
+  "id": "b8e4d3f2-0c5e-5f7g-9d2b-3e6c8f0g1d4b",
+  "question_text": "Which statement correctly describes voltage?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage",
+    "definition",
+    "potential difference"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Voltage is the amount of charge flowing past a point each second.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Voltage is the energy per unit charge that pushes electrons around a circuit.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Voltage is the resistance to the flow of electrons in a wire.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Voltage is the time it takes for electrons to travel through a conductor.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Voltage (measured in volts) represents the energy that pushes electrons around the circuit. It is the 'push' or 'pressure' that drives current through a circuit. Option A describes current, option C describes resistance, and option D describes time\u2014none of these are voltage.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

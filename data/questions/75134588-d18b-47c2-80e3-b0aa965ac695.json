@@ -1,0 +1,18 @@
+{
+  "id": "75134588-d18b-47c2-80e3-b0aa965ac695",
+  "question_text": "A petrol tanker truck becomes negatively charged as it moves along a motorway due to friction with the air. Explain why this could be dangerous when the truck is refuelling at a petrol station, and describe what happens to electrons during this process.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "electron transfer",
+    "safety",
+    "applications"
+  ],
+  "options": null,
+  "correct_answer": "The negatively charged truck has excess electrons. When refuelling, if the truck suddenly discharges (loses electrons rapidly) to the ground or petrol pump, a spark could be created. This spark could ignite the flammable petrol vapours, causing a fire or explosion. During the discharge, electrons rapidly flow from the truck (which has excess) to the ground (which has fewer electrons), creating the dangerous spark.",
+  "explanation": "Static electricity on a tanker truck is dangerous because excess electrons can suddenly discharge as a spark when the truck connects to the ground or pump. Since petrol vapours are highly flammable, this spark could cause a serious fire. Grounding cables allow electrons to flow safely and slowly rather than creating a dangerous spark.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

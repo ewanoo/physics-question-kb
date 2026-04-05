@@ -1,0 +1,18 @@
+{
+  "id": "a7c4f2e1-9b3d-4c8f-b1a6-2e5d9c3f7a2b",
+  "question_text": "A student builds a circuit with a 12V power supply. They connect three resistors: a 4\u03a9 resistor in series with two 6\u03a9 resistors in parallel with each other. Calculate the total resistance of the circuit and then use Ohm's law to find the total current flowing from the power supply.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "Ohm's law",
+    "series and parallel",
+    "total resistance",
+    "current calculation"
+  ],
+  "options": null,
+  "correct_answer": "Total resistance = 7\u03a9; Total current = 1.71A (or 12/7 A)",
+  "explanation": "First, find the equivalent resistance of the two 6\u03a9 resistors in parallel: 1/R = 1/6 + 1/6 = 2/6, so R = 3\u03a9. Then add the 4\u03a9 series resistor: 4\u03a9 + 3\u03a9 = 7\u03a9 total. Using Ohm's law (V = IR), rearranged as I = V/R: I = 12V \u00f7 7\u03a9 = 1.71A.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

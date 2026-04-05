@@ -1,0 +1,17 @@
+{
+  "id": "2371bf7e-47c5-47d1-a416-f346b313aeac",
+  "question_text": "Two identical metal blocks are sliding across different surfaces at the same initial speed. Block A slides on ice (friction coefficient 0.02) and Block B slides on sandpaper (friction coefficient 0.4). Both blocks have a mass of 5 kg. Explain which block will experience a greater friction force and calculate how many times greater it is. Why might someone use sandpaper instead of ice to stop a sliding object?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction coefficients",
+    "comparing friction",
+    "practical applications"
+  ],
+  "options": null,
+  "correct_answer": "Block B experiences greater friction. The friction force on Block A is approximately 1 N (0.02 \u00d7 5 \u00d7 10 = 1 N) and on Block B is approximately 20 N (0.4 \u00d7 5 \u00d7 10 = 20 N), so Block B's friction is 20 times greater. Sandpaper provides much greater friction, so it stops objects more quickly and effectively.",
+  "explanation": "Friction depends on the friction coefficient and the normal force. Even though both blocks are identical and on a horizontal surface, the sandpaper has a much higher friction coefficient than ice. This is why sandpaper is useful for safety\u2014it creates stronger friction to slow down or stop sliding objects quickly.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c0f0bae1-3625-43a0-a450-42ca00c07f79",
+  "question_text": "Name one property that both liquids and gases share, based on the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "liquids",
+    "gases",
+    "particle model",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "Both liquids and gases have particles that can move and flow (or: both have no fixed shape, or: both can flow).",
+  "explanation": "Liquids and gases are fluids because their particles are free to move past each other, allowing them to flow and take the shape of their container. Solids cannot do this because their particles are fixed in position.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

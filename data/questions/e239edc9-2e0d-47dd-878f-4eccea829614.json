@@ -1,0 +1,17 @@
+{
+  "id": "e239edc9-2e0d-47dd-878f-4eccea829614",
+  "question_text": "Name two factors that affect how much friction acts between two surfaces.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "factors affecting friction",
+    "surface properties",
+    "normal force"
+  ],
+  "options": null,
+  "correct_answer": "The roughness/texture of the surfaces and the force pressing the surfaces together (normal force), or any two of: surface roughness, normal force, type of material, speed of movement.",
+  "explanation": "The main factors affecting friction are how rough the surfaces are (rougher surfaces create more friction) and how hard the surfaces are pressed together (more force pressing down means more friction). Different materials also create different amounts of friction.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}
