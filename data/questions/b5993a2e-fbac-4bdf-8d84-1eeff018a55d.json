@@ -1,0 +1,18 @@
+{
+  "question_text": "A car is moving at a constant speed on a straight road. What can you conclude about the forces acting on the car?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "constant velocity",
+    "Newton's first law",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The forces are balanced (or the resultant force is zero). The driving force equals the resistance forces (friction and air resistance).",
+  "explanation": "When velocity is constant, acceleration is zero, which means the resultant (net) force must be zero. This only happens when forces are balanced\u2014the forward driving force must equal the backward resistance forces.",
+  "quality_score": 4,
+  "id": "b5993a2e-fbac-4bdf-8d84-1eeff018a55d",
+  "source_name": "claude_generator"
+}

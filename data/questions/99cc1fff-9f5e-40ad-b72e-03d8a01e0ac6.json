@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following materials is NOT attracted to a magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic materials",
+    "ferromagnetic",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Iron",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Cobalt",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Aluminium",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Nickel",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Iron, cobalt, and nickel are ferromagnetic materials that are strongly attracted to magnets. Aluminium is non-magnetic and is not attracted to magnets.",
+  "quality_score": 4,
+  "id": "99cc1fff-9f5e-40ad-b72e-03d8a01e0ac6",
+  "source_name": "claude_generator"
+}

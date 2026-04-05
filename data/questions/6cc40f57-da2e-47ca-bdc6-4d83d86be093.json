@@ -1,0 +1,38 @@
+{
+  "question_text": "Two identical bar magnets are placed horizontally on a frictionless table, end to end, 10 cm apart. The north pole of magnet A faces the south pole of magnet B. If the force between them is 0.5 N, which of the following statements is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "force between magnets",
+    "Newton's third law",
+    "evaluate"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnet A experiences a 0.5 N force, but magnet B experiences a different force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both magnets experience 0.5 N attractive forces on each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Magnet B experiences a 0.5 N force, but magnet A experiences no force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The forces are equal only if the magnets are the same size",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "By Newton's third law, the forces that two magnets exert on each other are equal in magnitude and opposite in direction. Both magnets experience the same 0.5 N force (attractive, since unlike poles attract).",
+  "quality_score": 4,
+  "id": "6cc40f57-da2e-47ca-bdc6-4d83d86be093",
+  "source_name": "claude_generator"
+}

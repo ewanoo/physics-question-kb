@@ -1,0 +1,18 @@
+{
+  "question_text": "Two identical containers hold equal volumes of oxygen gas and nitrogen gas at the same temperature and pressure. Explain why the containers have the same mass using the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "gas laws",
+    "particle theory",
+    "avogadro's law",
+    "equal conditions"
+  ],
+  "options": null,
+  "correct_answer": "At the same temperature and pressure, the containers hold the same number of gas particles. Although oxygen and nitrogen particles have different individual masses, the difference in particle mass is balanced by the difference in particle size, resulting in equal total mass.",
+  "explanation": "This question requires students to apply Avogadro's principle (at constant T and P, equal volumes contain equal numbers of particles) and understand that while individual particle masses differ, gases behave similarly under identical conditions. This is a deeper conceptual application suitable for Year 8 stretch.",
+  "quality_score": 4,
+  "id": "17e0900f-eb56-4c77-9d9c-09fc8d91d09d",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "Which statement best describes an unbalanced force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "unbalanced forces",
+    "definition",
+    "acceleration",
+    "Newton's laws"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Two forces of different sizes acting in opposite directions",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A resultant force that causes an object to accelerate or change direction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Any force that acts alone on an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Forces that are not in contact with the object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An unbalanced force means the resultant (net) force is not zero, so the object will accelerate, decelerate, or change direction. This is the key difference from balanced forces, which produce no change in motion.",
+  "quality_score": 4,
+  "id": "75ba5761-6658-4176-9e13-be5d2454e3d8",
+  "source_name": "claude_generator"
+}

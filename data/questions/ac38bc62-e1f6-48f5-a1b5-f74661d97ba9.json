@@ -1,0 +1,17 @@
+{
+  "question_text": "A student observes that a magnetic field is stronger at the poles of a magnet and weaker further away. If the field strength at the poles is 8 units and at the centre is 2 units, calculate the ratio of field strength at the poles to the field strength at the centre.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "field strength",
+    "ratio",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "4:1 or 4",
+  "explanation": "The ratio is calculated by dividing the field strength at the poles by the field strength at the centre: 8 \u00f7 2 = 4. Therefore, the field at the poles is 4 times stronger than at the centre.",
+  "quality_score": 4,
+  "id": "ac38bc62-e1f6-48f5-a1b5-f74661d97ba9",
+  "source_name": "claude_generator"
+}

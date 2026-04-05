@@ -1,0 +1,16 @@
+{
+  "question_text": "A smartphone battery stores 14,400 joules of energy. If the phone uses power at a rate of 3 watts while idle, approximately how many hours could the phone last on a full charge?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "multi-step calculation",
+    "unit conversion"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 1.33 hours (or 1 hour 20 minutes)",
+  "explanation": "Using P = E \u00f7 t, we can rearrange to find t = E \u00f7 P. Time = 14,400 \u00f7 3 = 4800 seconds. Convert to hours: 4800 \u00f7 3600 = 1.33 hours (approximately). In reality, phone batteries last longer because phones use less power when idle than when actively in use.",
+  "quality_score": 4,
+  "id": "96077b20-d0bf-4e0d-97ef-f13dd5f70963",
+  "source_name": "claude_generator"
+}

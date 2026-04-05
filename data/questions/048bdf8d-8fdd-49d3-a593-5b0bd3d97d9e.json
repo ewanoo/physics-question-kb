@@ -1,0 +1,18 @@
+{
+  "question_text": "A microwave oven uses electromagnetic radiation with a frequency of 2.45 \u00d7 10\u2079 Hz. Given that the speed of electromagnetic waves is 3 \u00d7 10\u2078 m/s, calculate the wavelength of the microwave radiation.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "microwaves",
+    "wave equation",
+    "frequency",
+    "wavelength"
+  ],
+  "options": null,
+  "correct_answer": "0.122 m or 12.2 cm (accept 0.12 m or 12 cm)",
+  "explanation": "Using the wave equation v = f \u00d7 \u03bb, we rearrange to get \u03bb = v / f = (3 \u00d7 10\u2078 m/s) / (2.45 \u00d7 10\u2079 Hz) = 0.122 m. This wavelength of about 12 cm is typical for microwave ovens.",
+  "quality_score": 4,
+  "id": "048bdf8d-8fdd-49d3-a593-5b0bd3d97d9e",
+  "source_name": "claude_generator"
+}

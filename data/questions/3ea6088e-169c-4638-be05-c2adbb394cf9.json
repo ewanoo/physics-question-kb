@@ -1,0 +1,17 @@
+{
+  "question_text": "A roller coaster car at the top of a 50 m hill has a gravitational potential energy of 400,000 J (ignoring friction). What will be its kinetic energy at the bottom of the hill?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conversion",
+    "calculation",
+    "roller coaster"
+  ],
+  "options": null,
+  "correct_answer": "400,000 J",
+  "explanation": "By conservation of energy, the potential energy at the top is converted into kinetic energy at the bottom. Since we ignore friction (no energy is lost), the kinetic energy at the bottom equals the potential energy at the top: 400,000 J.",
+  "quality_score": 4,
+  "id": "3ea6088e-169c-4638-be05-c2adbb394cf9",
+  "source_name": "claude_generator"
+}

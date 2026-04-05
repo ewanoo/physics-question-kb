@@ -1,0 +1,17 @@
+{
+  "question_text": "A seesaw is balanced with a 40 N force 1.5 m from the pivot on the left. A 30 N force is applied on the right side. How far from the pivot should the 30 N force be applied to keep the seesaw balanced?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "principle of moments",
+    "balanced",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "2 m (or 2 metres)",
+  "explanation": "For a balanced seesaw, moments must be equal. Left moment = 40 N \u00d7 1.5 m = 60 N m. Right moment must also = 60 N m. So 30 N \u00d7 distance = 60 N m, therefore distance = 60 \u00f7 30 = 2 m.",
+  "quality_score": 4,
+  "id": "147d8632-0e51-4aca-8c73-2e392af1cc5d",
+  "source_name": "claude_generator"
+}

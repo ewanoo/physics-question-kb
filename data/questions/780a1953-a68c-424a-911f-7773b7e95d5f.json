@@ -1,0 +1,17 @@
+{
+  "question_text": "A toy car rolling down a ramp has 250 J of kinetic energy when it reaches the bottom. If friction removed 50 J of energy during the journey, what was its gravitational potential energy at the top?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy loss",
+    "friction",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "300 J",
+  "explanation": "The potential energy at the top must equal the kinetic energy at the bottom plus the energy lost to friction: PE = 250 J + 50 J = 300 J. This shows that the initial energy is split between useful kinetic energy and wasted heat energy.",
+  "quality_score": 4,
+  "id": "780a1953-a68c-424a-911f-7773b7e95d5f",
+  "source_name": "claude_generator"
+}

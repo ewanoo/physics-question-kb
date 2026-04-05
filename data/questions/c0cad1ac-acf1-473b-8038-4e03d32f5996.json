@@ -1,0 +1,18 @@
+{
+  "question_text": "A ball is thrown vertically upward. At the highest point of its flight, explain whether the forces on the ball are balanced or unbalanced.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "unbalanced forces",
+    "projectile motion",
+    "gravity",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The forces are unbalanced. Only gravity (weight) acts on the ball; there is no upward force to balance it. This unbalanced force causes the ball to accelerate downward and begin falling.",
+  "explanation": "Many students think that because the ball stops momentarily at the highest point, the forces must be balanced. However, the only force is gravity pulling downward\u2014there is no upward force. This unbalanced downward force is what causes the ball to start accelerating downward and falling back down.",
+  "quality_score": 4,
+  "id": "c0cad1ac-acf1-473b-8038-4e03d32f5996",
+  "source_name": "claude_generator"
+}

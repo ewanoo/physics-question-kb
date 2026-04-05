@@ -1,0 +1,39 @@
+{
+  "question_text": "A sealed container holds a gas at room temperature. When the container is heated, the pressure inside increases. Which explanation uses the particle model to explain this?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "particle motion",
+    "kinetic energy",
+    "temperature",
+    "pressure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Heating makes the container larger, so there is more space for particles",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Heating makes particles move faster, so they collide with the walls more frequently and forcefully, increasing pressure",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Heating creates new particles inside the container",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Heating causes the particles to expand and take up more individual space",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When temperature increases, particles gain kinetic energy and move faster. Faster particles hit the container walls with greater frequency and force, which increases pressure. This is a direct application of the particle model linking temperature to particle motion.",
+  "quality_score": 4,
+  "id": "0934bcce-271c-42b0-b67e-262fbbb9b590",
+  "source_name": "claude_generator"
+}

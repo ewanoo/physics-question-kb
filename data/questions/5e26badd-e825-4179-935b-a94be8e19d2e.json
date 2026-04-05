@@ -1,0 +1,17 @@
+{
+  "question_text": "Describe one practical application of infrared radiation in everyday life.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "infrared",
+    "applications",
+    "everyday"
+  ],
+  "options": null,
+  "correct_answer": "Infrared radiation is used in thermal imaging cameras, heat lamps, or infrared thermometers to detect heat/temperature. (Accept: remote controls, oven grills, heat therapy, night vision)",
+  "explanation": "Infrared radiation has wavelengths slightly longer than visible light and is felt as heat. Many devices use infrared to detect or emit heat energy in practical applications.",
+  "quality_score": 4,
+  "id": "5e26badd-e825-4179-935b-a94be8e19d2e",
+  "source_name": "claude_generator"
+}

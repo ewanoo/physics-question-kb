@@ -1,0 +1,18 @@
+{
+  "question_text": "Gamma rays are produced by radioactive decay and are the most energetic form of electromagnetic radiation. Explain why gamma rays have more energy than visible light, using information about the electromagnetic spectrum.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "gamma rays",
+    "energy",
+    "frequency",
+    "wavelength"
+  ],
+  "options": null,
+  "correct_answer": "Gamma rays have much shorter wavelengths and higher frequencies than visible light. Since energy is proportional to frequency (E = hf), the higher frequency of gamma rays means they carry significantly more energy per photon.",
+  "explanation": "In the electromagnetic spectrum, gamma rays are at the high-energy end with the shortest wavelengths and highest frequencies. The relationship E = hf (where h is Planck's constant) directly links frequency to energy, explaining why gamma rays are so dangerous and energetic.",
+  "quality_score": 4,
+  "id": "f82488c8-cf44-4b4c-8ab9-d66e768570bd",
+  "source_name": "claude_generator"
+}

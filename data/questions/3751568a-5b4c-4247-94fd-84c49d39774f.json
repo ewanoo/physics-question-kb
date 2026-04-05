@@ -1,0 +1,17 @@
+{
+  "question_text": "A skateboarder rides down a ramp from rest. Ignoring friction, describe the energy transformations that occur.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "gravitational potential energy",
+    "kinetic energy"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy is converted into kinetic energy as the skateboarder descends the ramp.",
+  "explanation": "At the top of the ramp, the skateboarder has maximum potential energy (due to height) and zero kinetic energy. As they slide down, potential energy decreases and kinetic energy increases, with the total energy remaining constant.",
+  "quality_score": 4,
+  "id": "3751568a-5b4c-4247-94fd-84c49d39774f",
+  "source_name": "claude_generator"
+}

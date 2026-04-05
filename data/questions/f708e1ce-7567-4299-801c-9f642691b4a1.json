@@ -1,0 +1,17 @@
+{
+  "question_text": "A compass needle always points towards the north. Explain what this tells us about the Earth.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "Earth's magnetic field",
+    "compass",
+    "apply"
+  ],
+  "options": null,
+  "correct_answer": "The Earth has a magnetic field, with a magnetic south pole near the geographic north pole. The compass needle is a magnet that aligns with this field.",
+  "explanation": "The compass needle points north because the Earth itself acts like a giant magnet. The Earth's magnetic south pole is located near the geographic North Pole, which attracts the north pole of the compass needle.",
+  "quality_score": 4,
+  "id": "f708e1ce-7567-4299-801c-9f642691b4a1",
+  "source_name": "claude_generator"
+}

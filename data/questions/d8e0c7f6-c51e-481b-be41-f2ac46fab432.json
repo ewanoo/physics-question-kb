@@ -1,0 +1,37 @@
+{
+  "question_text": "Which of the following is NOT a form of electromagnetic radiation?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "classification",
+    "identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound waves",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gamma rays",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Visible light",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Radio waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Sound waves are mechanical waves that require a medium (like air or water) to travel through and cannot travel in a vacuum. Electromagnetic waves do not need a medium and can travel through empty space.",
+  "quality_score": 4,
+  "id": "d8e0c7f6-c51e-481b-be41-f2ac46fab432",
+  "source_name": "claude_generator"
+}

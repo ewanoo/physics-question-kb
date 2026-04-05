@@ -1,0 +1,37 @@
+{
+  "question_text": "Which of the following is the correct formula for power?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "formula",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Power = Energy \u00f7 Time",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Power = Energy \u00d7 Time",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Power = Time \u00f7 Energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Power = Force \u00d7 Distance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Power is calculated by dividing the energy transferred by the time taken. The formula is P = E \u00f7 t, where P is power in watts, E is energy in joules, and t is time in seconds.",
+  "quality_score": 4,
+  "id": "a1ee431e-2813-4507-a30c-538f92a235ac",
+  "source_name": "claude_generator"
+}

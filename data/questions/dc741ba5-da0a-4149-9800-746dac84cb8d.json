@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is dropped from a height. As it falls, what happens to its gravitational potential energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "potential energy",
+    "kinetic energy",
+    "falling objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It decreases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It becomes zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As the ball falls, it loses height, so its gravitational potential energy decreases. This energy is converted into kinetic energy, which is why the ball speeds up.",
+  "quality_score": 4,
+  "id": "dc741ba5-da0a-4149-9800-746dac84cb8d",
+  "source_name": "claude_generator"
+}

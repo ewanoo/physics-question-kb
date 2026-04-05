@@ -1,0 +1,17 @@
+{
+  "question_text": "A pendulum swings back and forth. Explain why the pendulum will eventually come to rest, even though energy is supposed to be conserved.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "friction",
+    "energy dissipation",
+    "real-world systems"
+  ],
+  "options": null,
+  "correct_answer": "Friction and air resistance cause the mechanical energy to be converted into heat energy. The energy is not lost, but transferred to the surroundings.",
+  "explanation": "In real life, friction between the pivot and air resistance remove mechanical energy from the pendulum system. This energy is converted into thermal energy (heat), which spreads into the surroundings. The total energy is still conserved when we include the heat.",
+  "quality_score": 4,
+  "id": "49a4a0cb-6449-437b-9aed-683c3f12746a",
+  "source_name": "claude_generator"
+}

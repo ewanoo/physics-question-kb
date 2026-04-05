@@ -1,0 +1,16 @@
+{
+  "question_text": "A light bulb transfers 600 joules of energy in 2 seconds. Calculate the power of the light bulb.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "calculation",
+    "formula application"
+  ],
+  "options": null,
+  "correct_answer": "300 W (watts)",
+  "explanation": "Using P = E \u00f7 t: Power = 600 \u00f7 2 = 300 watts. This means the light bulb transfers 300 joules of energy every second.",
+  "quality_score": 4,
+  "id": "5b4dfd18-0b73-4d9e-a963-065ab7d7d142",
+  "source_name": "claude_generator"
+}

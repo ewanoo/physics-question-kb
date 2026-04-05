@@ -1,0 +1,18 @@
+{
+  "question_text": "A student claims that because radio waves have longer wavelengths than visible light, they must travel slower. Evaluate this claim.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "misconception",
+    "wave speed",
+    "properties",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect. All electromagnetic waves, regardless of wavelength or frequency, travel at the same speed in a vacuum (3 \u00d7 10\u2078 m/s). The relationship v = f \u00d7 \u03bb shows that if wavelength increases, frequency must decrease to keep speed constant.",
+  "explanation": "This is a common misconception. While longer wavelengths correspond to lower frequencies, the product of frequency and wavelength always equals the speed of light in a vacuum. Wavelength alone does not determine speed for electromagnetic waves.",
+  "quality_score": 4,
+  "id": "05296ea4-aca8-47d6-93f9-0ee6f6f90da7",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "A book is resting on a table. Which pair of forces are balanced?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "weight",
+    "normal force",
+    "everyday examples"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Weight pulling down and normal force pushing up",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Weight pulling down and friction pushing sideways",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Normal force pushing up and air resistance pushing down",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Weight pulling down and applied force pushing sideways",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When an object is at rest, the downward pull of weight (gravity) is balanced by the upward push of the normal force from the surface. These equal and opposite forces mean the book doesn't accelerate.",
+  "quality_score": 4,
+  "id": "9667c030-14b9-4b0f-b09d-9a985cb16025",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is thrown upwards with a velocity of 20 m/s. At the highest point, what can be said about its energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "kinetic energy",
+    "potential energy",
+    "projectile motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It has maximum kinetic energy and minimum potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It has minimum kinetic energy and maximum potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both kinetic and potential energy are zero",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It has maximum kinetic and potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At the highest point, the ball momentarily stops (kinetic energy = 0) before falling back down. All the initial kinetic energy has been converted to gravitational potential energy at this point.",
+  "quality_score": 4,
+  "id": "e295e38c-4345-4259-a64b-5578508803d8",
+  "source_name": "claude_generator"
+}

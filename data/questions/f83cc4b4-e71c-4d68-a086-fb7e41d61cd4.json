@@ -1,0 +1,17 @@
+{
+  "question_text": "Why is it easier to open a door by pushing near the handle (far from the hinge) rather than near the hinge?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "application",
+    "everyday example",
+    "evaluate"
+  ],
+  "options": null,
+  "correct_answer": "Pushing near the handle increases the perpendicular distance from the hinge (pivot), so a smaller force produces a larger moment, making the door easier to push.",
+  "explanation": "Moment depends on both force and distance from the pivot. By pushing further away, you increase the distance and therefore the moment produced, even with a smaller effort. This is why lever arms work better when they are longer.",
+  "quality_score": 4,
+  "id": "f83cc4b4-e71c-4d68-a086-fb7e41d61cd4",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Three forces act on a box: 12 N to the right, 8 N to the left, and 5 N downward. What is the resultant force?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "vector addition",
+    "multi-step calculation",
+    "unbalanced forces"
+  ],
+  "options": null,
+  "correct_answer": "4 N to the right and 5 N downward (or approximately 6.4 N at an angle, or state components separately)",
+  "explanation": "First, find the resultant horizontal force: 12 N right \u2212 8 N left = 4 N to the right. The vertical forces are only 5 N downward, which is unbalanced. The overall resultant is 4 N horizontal and 5 N vertical, giving a combined resultant of about 6.4 N. Accepting component form or magnitude with direction is appropriate for Year 8.",
+  "quality_score": 4,
+  "id": "5fd445db-a1cc-44ca-898c-62b5926b915f",
+  "source_name": "claude_generator"
+}

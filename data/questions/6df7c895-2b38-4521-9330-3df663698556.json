@@ -1,0 +1,17 @@
+{
+  "question_text": "Which type of electromagnetic radiation is used in medical imaging to see inside the human body without surgery, and why is it suitable for this purpose?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "X-rays",
+    "medical applications",
+    "penetration"
+  ],
+  "options": null,
+  "correct_answer": "X-rays are used for medical imaging (e.g., X-ray photographs). They are suitable because they have high energy and can penetrate soft tissue but are absorbed differently by bones and dense materials, creating an image.",
+  "explanation": "X-rays have short wavelengths and high energy, allowing them to pass through soft tissue but be absorbed more by dense materials like bone. This creates a useful contrast for medical diagnosis. (Note: modern hospitals also use gamma rays in PET scans and CT scanners.)",
+  "quality_score": 4,
+  "id": "6df7c895-2b38-4521-9330-3df663698556",
+  "source_name": "claude_generator"
+}

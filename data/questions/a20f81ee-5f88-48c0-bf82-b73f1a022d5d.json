@@ -1,0 +1,16 @@
+{
+  "question_text": "A motor transfers 4000 joules of energy in 10 seconds. How long would it take this motor to transfer 8000 joules of energy at the same power?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "multi-step calculation",
+    "problem-solving"
+  ],
+  "options": null,
+  "correct_answer": "20 seconds",
+  "explanation": "First, calculate the power: P = 4000 \u00f7 10 = 400 W. Then use P = E \u00f7 t to find time: 400 = 8000 \u00f7 t, so t = 8000 \u00f7 400 = 20 seconds. Since the power is constant, doubling the energy doubles the time needed.",
+  "quality_score": 4,
+  "id": "a20f81ee-5f88-48c0-bf82-b73f1a022d5d",
+  "source_name": "claude_generator"
+}

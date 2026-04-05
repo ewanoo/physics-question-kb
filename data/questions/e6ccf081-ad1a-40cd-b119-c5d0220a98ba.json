@@ -1,0 +1,18 @@
+{
+  "question_text": "A metal block has a mass of 400 g and a volume of 50 cm\u00b3. Calculate the density of the metal.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "density",
+    "calculation",
+    "particle density",
+    "metals"
+  ],
+  "options": null,
+  "correct_answer": "8 g/cm\u00b3",
+  "explanation": "Density = mass \u00f7 volume = 400 g \u00f7 50 cm\u00b3 = 8 g/cm\u00b3. Metals are dense because their particles are closely packed together with strong forces holding them in place. This high particle packing creates the high density observed in metals.",
+  "quality_score": 4,
+  "id": "e6ccf081-ad1a-40cd-b119-c5d0220a98ba",
+  "source_name": "claude_generator"
+}

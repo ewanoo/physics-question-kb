@@ -1,0 +1,18 @@
+{
+  "question_text": "Dry ice (solid carbon dioxide) is stored at very low temperatures. When left at room temperature, it gradually disappears without becoming a liquid. Explain this observation using the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "sublimation",
+    "state change",
+    "particle energy",
+    "direct transitions"
+  ],
+  "options": null,
+  "correct_answer": "At room temperature, solid carbon dioxide particles gain enough energy to break free and escape directly into the air as gas particles, without passing through the liquid state. This process is called sublimation. The forces between particles in dry ice are weak enough that particles can jump directly from solid to gas.",
+  "explanation": "This answer demonstrates understanding of sublimation as a direct state transition explained by particle theory. Students must recognise that when intermolecular forces are weak, particles can gain sufficient energy at certain temperatures to become gaseous without forming a liquid intermediate state.",
+  "quality_score": 4,
+  "id": "d428a4a5-c3e3-4695-81d3-694d404158dd",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A magnetic field is represented by lines drawn around a magnet. What do the arrows on these field lines indicate?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic field lines",
+    "field direction",
+    "apply"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The direction of electric current flowing through the magnet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The direction from south pole to north pole",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The direction from north pole to south pole",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The strength of the magnetic field in different regions",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Magnetic field lines show the direction of the magnetic field, which is defined as pointing from the south pole to the north pole outside the magnet (and from north to south inside the magnet).",
+  "quality_score": 4,
+  "id": "03c8e0bf-250f-491c-8a4a-4d5693a9721c",
+  "source_name": "claude_generator"
+}

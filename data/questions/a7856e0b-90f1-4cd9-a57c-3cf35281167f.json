@@ -1,0 +1,16 @@
+{
+  "question_text": "A force of 10 N is applied 2 m away from a pivot. Calculate the moment produced.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "calculation",
+    "moment formula"
+  ],
+  "options": null,
+  "correct_answer": "20 N m (or 20 newton-metres)",
+  "explanation": "Moment = force \u00d7 perpendicular distance from pivot. So 10 N \u00d7 2 m = 20 N m. Remember to include units in your answer.",
+  "quality_score": 4,
+  "id": "a7856e0b-90f1-4cd9-a57c-3cf35281167f",
+  "source_name": "claude_generator"
+}

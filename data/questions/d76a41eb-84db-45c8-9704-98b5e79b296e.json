@@ -1,0 +1,18 @@
+{
+  "question_text": "Why is ultraviolet radiation more dangerous to human skin than visible light?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "ultraviolet",
+    "energy",
+    "biological effects",
+    "safety"
+  ],
+  "options": null,
+  "correct_answer": "Ultraviolet radiation has shorter wavelengths and higher frequency than visible light, so it carries more energy per photon. This higher energy can damage DNA in skin cells and cause sunburn or skin cancer.",
+  "explanation": "In the electromagnetic spectrum, shorter wavelength = higher frequency = higher energy. UV photons have enough energy to ionise molecules and damage living tissue, while visible light photons do not.",
+  "quality_score": 4,
+  "id": "d76a41eb-84db-45c8-9704-98b5e79b296e",
+  "source_name": "claude_generator"
+}

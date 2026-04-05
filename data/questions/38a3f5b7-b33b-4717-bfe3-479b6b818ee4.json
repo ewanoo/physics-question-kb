@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best describes the particle model of matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "states of matter",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All matter is made of tiny particles that are always moving and have spaces between them",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "All matter is solid and particles are packed tightly with no movement",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Particles only exist in liquids and gases, not in solids",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The particle model only applies to metals and not to other materials",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The particle model states that all matter consists of tiny particles in constant random motion with spaces between them. This applies to all three states of matter: solids, liquids, and gases.",
+  "quality_score": 4,
+  "id": "38a3f5b7-b33b-4717-bfe3-479b6b818ee4",
+  "source_name": "claude_generator"
+}

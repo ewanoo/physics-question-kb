@@ -1,0 +1,37 @@
+{
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "comparison",
+    "real-world context"
+  ],
+  "question_text": "Which device transfers the most energy per second?",
+  "options": [
+    {
+      "label": "A",
+      "text": "A 60 W light bulb",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A 500 W microwave oven",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A 20 W laptop charger",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A 100 W toaster",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Power is the rate of energy transfer per second. The device with the highest power rating (500 W) transfers the most energy per second. The microwave oven transfers 500 joules every second.",
+  "quality_score": 4,
+  "id": "3df47566-361e-4157-802e-2137e1cffc91",
+  "source_name": "claude_generator"
+}

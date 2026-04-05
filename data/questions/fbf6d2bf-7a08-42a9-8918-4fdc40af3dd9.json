@@ -1,0 +1,39 @@
+{
+  "question_text": "A skydiver has reached terminal velocity (constant falling speed). Which of the following is true?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "air resistance",
+    "terminal velocity",
+    "real-world application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air resistance is much smaller than weight, so the skydiver accelerates downward",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Weight and air resistance are balanced, so there is no resultant force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Weight is much larger than air resistance, causing rapid acceleration",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There are no forces acting on the skydiver at terminal velocity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At terminal velocity, the skydiver's speed is constant, meaning acceleration is zero. This only happens when weight (downward) and air resistance (upward) are equal and balanced, giving a resultant force of zero.",
+  "quality_score": 4,
+  "id": "fbf6d2bf-7a08-42a9-8918-4fdc40af3dd9",
+  "source_name": "claude_generator"
+}

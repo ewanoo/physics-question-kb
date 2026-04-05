@@ -1,0 +1,39 @@
+{
+  "question_text": "A student observes that water evaporates from a puddle over several days. Which statement correctly describes this using particle theory?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "evaporation",
+    "state change",
+    "particle energy",
+    "kinetic theory"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Water particles at the surface gain energy and escape into the air as individual particles",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "All water particles turn into ice before becoming a gas",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Water particles break apart into hydrogen and oxygen atoms",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The water disappears because the particles are too small to see",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Evaporation occurs when particles at the liquid surface gain enough energy to overcome attractive forces and escape as gas particles. This is a physical change, not a chemical one, and particles remain intact as water molecules throughout the process.",
+  "quality_score": 4,
+  "id": "bfc2f0aa-6277-4349-bad4-f2028fdcd3d3",
+  "source_name": "claude_generator"
+}

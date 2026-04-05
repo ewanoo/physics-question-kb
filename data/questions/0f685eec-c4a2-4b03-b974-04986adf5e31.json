@@ -1,0 +1,18 @@
+{
+  "question_text": "Two ropes pull on a box in opposite directions. One rope pulls with 75 N to the left, and the other pulls with 75 N to the right. The box does not move. What is the resultant force, and what does this tell you about the forces?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "resultant force",
+    "opposite directions",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "The resultant force is 0 N. This shows the forces are balanced/in equilibrium.",
+  "explanation": "When forces act in opposite directions and have equal magnitudes (75 N left \u2212 75 N right = 0 N), they cancel out completely, giving a resultant of zero. Balanced forces mean the object remains at rest or continues moving at constant velocity.",
+  "quality_score": 4,
+  "id": "0f685eec-c4a2-4b03-b974-04986adf5e31",
+  "source_name": "claude_generator"
+}

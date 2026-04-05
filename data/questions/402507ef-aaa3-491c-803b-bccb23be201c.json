@@ -1,0 +1,17 @@
+{
+  "question_text": "Two forces act on a rotating wheel: a 12 N force 0.4 m from the centre turning it clockwise, and an 8 N force 0.6 m from the centre turning it anticlockwise. Which direction will the wheel turn and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "principle of moments",
+    "direction",
+    "compare moments"
+  ],
+  "options": null,
+  "correct_answer": "The wheel will turn anticlockwise. The clockwise moment is 4.8 N m (12 \u00d7 0.4), and the anticlockwise moment is 4.8 N m (8 \u00d7 0.6). Actually, they are balanced so the wheel will not turn. (Accept: The moments are equal so the wheel is in equilibrium/balanced.)",
+  "explanation": "Calculate each moment: clockwise = 12 \u00d7 0.4 = 4.8 N m; anticlockwise = 8 \u00d7 0.6 = 4.8 N m. Since the moments are equal and opposite, they balance, and the wheel will not turn (it's in rotational equilibrium).",
+  "quality_score": 4,
+  "id": "402507ef-aaa3-491c-803b-bccb23be201c",
+  "source_name": "claude_generator"
+}

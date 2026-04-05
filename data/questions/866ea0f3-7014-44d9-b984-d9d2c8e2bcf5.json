@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following would increase the moment produced by a force?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "application",
+    "distance",
+    "force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Decreasing the force applied",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Moving the pivot closer to the force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Applying the force parallel to the lever",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Reducing the length of the lever arm",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Moment increases when either the force increases or the perpendicular distance from the pivot increases. Moving the pivot closer to the force means the distance increases, so the moment increases.",
+  "quality_score": 4,
+  "id": "866ea0f3-7014-44d9-b984-d9d2c8e2bcf5",
+  "source_name": "claude_generator"
+}

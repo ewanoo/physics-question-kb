@@ -1,0 +1,16 @@
+{
+  "question_text": "A 5 N force is applied at different distances from a pivot. At which distance would the moment be 30 N m?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "calculation",
+    "rearranging formula"
+  ],
+  "options": null,
+  "correct_answer": "6 m (or 6 metres)",
+  "explanation": "Using moment = force \u00d7 distance, we can rearrange to find distance = moment \u00f7 force. So distance = 30 N m \u00f7 5 N = 6 m.",
+  "quality_score": 4,
+  "id": "8db9962e-2249-4b66-8874-ac342b8c00fa",
+  "source_name": "claude_generator"
+}

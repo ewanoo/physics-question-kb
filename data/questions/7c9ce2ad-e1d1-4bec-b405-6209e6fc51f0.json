@@ -1,0 +1,16 @@
+{
+  "question_text": "Describe what happens when two equal and opposite moments act on an object.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "balanced moments",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "The object remains in rotational equilibrium and does not rotate (or continues to rotate at constant speed if already rotating).",
+  "explanation": "When moments are balanced (equal and opposite), their turning effects cancel out, so there is no net turning effect. This is the principle of moments used in balanced seesaws and lever systems.",
+  "quality_score": 4,
+  "id": "7c9ce2ad-e1d1-4bec-b405-6209e6fc51f0",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,16 @@
+{
+  "question_text": "A hairdryer has a power rating of 1500 W. What does this tell you about the hairdryer?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "interpretation",
+    "real-world application"
+  ],
+  "options": null,
+  "correct_answer": "It means the hairdryer transfers 1500 joules of electrical energy into heat and kinetic energy every second. It is a high-power device that uses a lot of energy quickly.",
+  "explanation": "The power rating tells us the rate of energy transfer. A 1500 W hairdryer uses energy much faster than a lower power device like a small lamp (maybe 40 W), so it heats up and dries hair more quickly.",
+  "quality_score": 4,
+  "id": "863805be-07a3-453a-9f77-91f98a1710cb",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following correctly lists electromagnetic waves in order from longest to shortest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "ordering",
+    "wavelength",
+    "spectrum"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gamma rays, X-rays, ultraviolet, visible light, infrared, microwaves, radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Radio waves, infrared, microwaves, visible light, ultraviolet, X-rays, gamma rays",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Visible light, infrared, radio waves, microwaves, ultraviolet, X-rays, gamma rays",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The electromagnetic spectrum is ordered by wavelength from longest (radio waves) to shortest (gamma rays). A useful memory aid is 'ROYGBIV + UV/X/G' for the visible part, but radio waves are much longer than all visible light.",
+  "quality_score": 4,
+  "id": "70f050f2-10f9-4542-b8d8-c174d7df209b",
+  "source_name": "claude_generator"
+}

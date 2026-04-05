@@ -1,0 +1,38 @@
+{
+  "question_text": "The magnetic field strength around a bar magnet is strongest at which location?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "field strength",
+    "magnetic poles",
+    "apply"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "At the centre of the magnet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "At the magnetic poles",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "At equal distance from both poles",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The field strength is uniform everywhere around the magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The magnetic field is strongest at the poles of a magnet, where the field lines are closest together. The field becomes weaker further away from the magnet.",
+  "quality_score": 4,
+  "id": "6ea42920-48f2-4a61-8327-71a8316f8b98",
+  "source_name": "claude_generator"
+}

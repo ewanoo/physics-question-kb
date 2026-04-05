@@ -1,0 +1,18 @@
+{
+  "question_text": "Use the particle model to explain why a solid has a fixed shape but a liquid does not.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "solids",
+    "liquids",
+    "particle arrangement",
+    "forces between particles"
+  ],
+  "options": null,
+  "correct_answer": "In a solid, particles are held in fixed positions by strong forces and vibrate in place, so the shape is fixed. In a liquid, particles can move past each other because the forces between them are weaker, so the liquid takes the shape of its container.",
+  "explanation": "This answer shows understanding that particle arrangement and the strength of attractive forces between particles determine the properties of solids and liquids. The key difference is particle mobility, not the presence of spaces between particles.",
+  "quality_score": 4,
+  "id": "7190e2f5-b9b6-444d-9b30-242c02a6fb60",
+  "source_name": "claude_generator"
+}

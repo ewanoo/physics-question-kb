@@ -1,0 +1,37 @@
+{
+  "question_text": "Which of the following is an example of energy being transferred rather than created?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "energy forms"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A battery creating electrical energy from nothing",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A light bulb converting electrical energy into light and heat energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A moving car creating kinetic energy from nowhere",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A microwave creating heat energy without using electricity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The light bulb converts electrical energy (from the power supply) into light and heat energy. No energy is created\u2014it is simply transformed from one form into other forms.",
+  "quality_score": 4,
+  "id": "474d30a8-4087-4ccf-90fb-77213a74ddda",
+  "source_name": "claude_generator"
+}
