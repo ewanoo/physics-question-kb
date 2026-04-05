@@ -1,0 +1,39 @@
+{
+  "id": "c9f5e4g3-1d6f-6g8h-0e4c-3f7h1g5d9e6c",
+  "question_text": "A teacher sets up an experiment comparing two electromagnets. Electromagnet X is wrapped tightly around a solid iron core, while Electromagnet Y is wrapped around a hollow plastic tube. Both have identical coils with the same number of turns and carry the same current. Which statement best explains the difference in their magnetic strengths?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "magnetic core material",
+    "ferromagnetic properties",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electromagnet X is stronger because iron is ferromagnetic and becomes magnetised, greatly amplifying the magnetic field produced by the coil.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Electromagnet Y is stronger because the hollow tube allows the magnetic field to spread out more effectively.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both electromagnets produce exactly the same strength because they have identical coils and current.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electromagnet X is stronger only because it is made of solid material rather than hollow material.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The iron core in Electromagnet X is ferromagnetic, meaning it becomes magnetised when placed in a magnetic field and significantly amplifies the electromagnet's strength. The plastic tube in Electromagnet Y cannot be magnetised, so only the coil's own magnetic field is produced. This demonstrates why selecting the correct core material is crucial for electromagnet design.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "a7c2f1e3-9b4d-4a2c-8f1d-2e5b9c3d6a1f",
+  "question_text": "A block of ice at 0\u00b0C is heated continuously. The temperature stays at 0\u00b0C for 5 minutes while the ice melts into water. Using the particle model, explain why the temperature does not increase during melting even though energy is being added.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "particle_model",
+    "energy",
+    "state_change"
+  ],
+  "options": null,
+  "correct_answer": "During melting, the energy added breaks the bonds holding particles in fixed positions, rather than making them move faster. Temperature only increases when particle movement increases, so the temperature stays constant until all the ice has melted.",
+  "explanation": "During a state change like melting, the heat energy goes into breaking the structure of the solid, not into making particles move faster (which would increase temperature). Once melting is complete, the added energy can then increase the movement of particles, raising the temperature.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "a7b8c9d0-e1f2-4a3b-5c6d-7e8f9a0b1c2d",
+  "question_text": "Name the energy store that is being used when a runner sprints down a track at high speed.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "moving objects",
+    "energy stores"
+  ],
+  "options": null,
+  "correct_answer": "Kinetic energy store",
+  "explanation": "Kinetic energy is the energy stored in moving objects. When the runner is moving at high speed, they have kinetic energy stored due to their motion. The faster an object moves, the more kinetic energy it has stored.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

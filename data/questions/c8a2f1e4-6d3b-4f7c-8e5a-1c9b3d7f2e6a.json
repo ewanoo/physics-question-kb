@@ -1,0 +1,38 @@
+{
+  "id": "c8a2f1e4-6d3b-4f7c-8e5a-1c9b3d7f2e6a",
+  "question_text": "A student has a 6V battery and three identical resistors of 2\u03a9 each. They want to create a circuit where the total current from the battery is exactly 2A. Which arrangement of these resistors would achieve this?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit_design",
+    "ohms_law",
+    "series_parallel_circuits"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All three resistors in series",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All three resistors in parallel",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Two resistors in parallel, then in series with the third resistor",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Two resistors in series, then in parallel with the third resistor",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Using Ohm's law (R = V/I), the required total resistance is 6V \u00f7 2A = 3\u03a9. Option C: two 2\u03a9 resistors in parallel give 1\u03a9, plus one 2\u03a9 in series gives 3\u03a9 total. Option A gives 6\u03a9 (current = 1A), Option B gives 0.67\u03a9 (current = 9A), and Option D gives 1.33\u03a9 (current = 4.5A).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "a7f3c2e1-9b4d-4e6f-8c2a-1d5f9e3b7c4a",
+  "question_text": "A student builds two electromagnets using identical iron cores and the same length of wire. Electromagnet A has the wire wrapped around the core 50 times with a 2A current flowing through it. Electromagnet B has the wire wrapped around the core 100 times with a 1A current flowing through it. Which electromagnet will be stronger and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "coil turns",
+    "current",
+    "multi-factor analysis"
+  ],
+  "options": null,
+  "correct_answer": "Electromagnet B will be stronger. Although it has half the current (1A vs 2A), it has twice as many turns of wire (100 vs 50). Since electromagnet strength increases with the number of turns AND current, and B has double the turns, the increase in turns outweighs the decrease in current, making B stronger overall.",
+  "explanation": "Electromagnet strength depends on both the number of coil turns and the current flowing through it. Electromagnet B has twice as many turns which more than compensates for its lower current, making it the stronger magnet. This shows that factors affecting electromagnet strength must be considered together, not separately.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

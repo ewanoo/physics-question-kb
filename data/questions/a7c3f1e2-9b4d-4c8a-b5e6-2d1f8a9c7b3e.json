@@ -1,0 +1,18 @@
+{
+  "id": "a7c3f1e2-9b4d-4c8a-b5e6-2d1f8a9c7b3e",
+  "question_text": "A student carries out a diffusion experiment by placing a drop of food colouring in a beaker of water at 20\u00b0C and another identical drop in a beaker of water at 60\u00b0C. After 5 minutes, the colour spreads much further in the hot water than the cold water. Using the particle model, explain why diffusion is faster at higher temperatures and predict what would happen if the experiment was repeated at 0\u00b0C.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "diffusion",
+    "particle motion",
+    "temperature effects",
+    "kinetic theory"
+  ],
+  "options": null,
+  "correct_answer": "At higher temperatures, particles move faster and have more kinetic energy, so they collide more frequently and spread out more quickly. At 0\u00b0C (near freezing), diffusion would be very slow because the particles would have less kinetic energy and move more slowly, taking much longer to spread throughout the water.",
+  "explanation": "This question requires students to link the particle model to observable diffusion rates, understand that temperature affects particle speed, and apply this reasoning to predict an outcome at a different temperature. It tests multi-step reasoning about how microscopic particle behaviour explains macroscopic observations.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

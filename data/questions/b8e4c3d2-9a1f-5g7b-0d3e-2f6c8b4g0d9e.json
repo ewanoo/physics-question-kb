@@ -1,0 +1,39 @@
+{
+  "id": "b8e4c3d2-9a1f-5g7b-0d3e-2f6c8b4g0d9e",
+  "question_text": "A car of mass 1000 kg is being pulled by a rope with a tension force of 4000 N at an angle of 30\u00b0 above the horizontal. Air resistance acts horizontally with a force of 500 N opposing the motion. Which of the following best describes the direction of the resultant force on the car?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "tension",
+    "vector components",
+    "resistance forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Vertically upward",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "At an angle above the horizontal (forward and upward)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Horizontally forward",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "At an angle below the horizontal (forward and downward)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The tension force has both horizontal and vertical components. The horizontal component (4000 N \u00d7 cos 30\u00b0 \u2248 3464 N) minus air resistance (500 N) gives a net horizontal force of about 3000 N forward. The vertical component (4000 N \u00d7 sin 30\u00b0 = 2000 N) acts upward unopposed. The resultant combines both, pointing forward and upward at an angle.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

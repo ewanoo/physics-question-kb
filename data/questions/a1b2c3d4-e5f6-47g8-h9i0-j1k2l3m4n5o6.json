@@ -1,45 +1,38 @@
 {
   "id": "a1b2c3d4-e5f6-47g8-h9i0-j1k2l3m4n5o6",
-  "question_text": "Which statement best describes the law of conservation of energy?",
+  "question_text": "What is electric current measured in?",
   "question_type": "multiple_choice",
   "difficulty": "easy",
-  "topic": "energy.conservation",
+  "topic": "electricity.current_voltage",
   "tags": [
-    "conservation of energy",
-    "law of conservation",
-    "energy transfer"
+    "current",
+    "units",
+    "definition"
   ],
   "options": [
     {
       "label": "A",
-      "text": "Energy can be created and destroyed easily",
+      "text": "Volts (V)",
       "is_correct": false
     },
     {
       "label": "B",
-      "text": "Energy cannot be created or destroyed, only transferred or transformed",
+      "text": "Amperes (A)",
       "is_correct": true
     },
     {
       "label": "C",
-      "text": "Energy is only found in moving objects",
+      "text": "Ohms (\u03a9)",
       "is_correct": false
     },
     {
       "label": "D",
-      "text": "Energy always stays in the same form",
+      "text": "Watts (W)",
       "is_correct": false
     }
   ],
   "correct_answer": null,
-  "explanation": "The law of conservation of energy is a fundamental physics principle stating that energy cannot be created or destroyed; it can only be transferred between objects or transformed from one form to another. This means the total amount of energy in a closed system always stays the same.",
+  "explanation": "Electric current is the flow of charge through a circuit and is measured in amperes (A), often shortened to 'amps'. Volts measure voltage (potential difference), ohms measure resistance, and watts measure power.",
   "quality_score": 5,
-  "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:10.669071",
-  "classified_at": "2026-04-05T02:11:10.669071",
-  "classification_confidence": 0.95,
-  "year_group": "year8",
-  "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/easy",
-  "raw_html": null
+  "source_name": "claude_generator"
 }

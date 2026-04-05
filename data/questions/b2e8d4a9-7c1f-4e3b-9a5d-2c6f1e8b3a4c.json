@@ -1,0 +1,18 @@
+{
+  "id": "b2e8d4a9-7c1f-4e3b-9a5d-2c6f1e8b3a4c",
+  "question_text": "A hospital uses three different types of electromagnetic radiation for medical purposes: X-rays for bone imaging, infrared for thermal imaging, and microwaves for diathermy (heating tissue). Compare the penetration depth and potential dangers of each radiation type, and explain why X-rays require lead shielding while infrared and microwaves do not.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "ionizing radiation",
+    "medical applications",
+    "safety hazards",
+    "penetration"
+  ],
+  "options": null,
+  "correct_answer": "X-rays penetrate deep into tissue and can damage cells/DNA because they are ionizing radiation with high energy, requiring lead shielding. Infrared only heats the surface (low penetration) and is non-ionizing, so it's safe. Microwaves penetrate a few centimetres but are non-ionizing; they heat by making molecules vibrate rather than damaging DNA. X-rays need shielding because ionizing radiation causes cellular damage, while infrared and microwaves cause only thermal effects which can be controlled.",
+  "explanation": "The key difference is ionization: X-rays have enough energy to knock electrons off atoms, damaging DNA and cells. Infrared and microwaves only transfer thermal energy and cannot ionize atoms. X-rays penetrate deeply, making them both useful for imaging and dangerous to living tissue, so lead blocks them. Infrared and microwaves don't penetrate as far and can't damage cells at the atomic level, making them safer for medical use.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

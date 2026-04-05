@@ -1,0 +1,17 @@
+{
+  "id": "a7c2f3e1-9b4d-4e8c-b1a2-3d5f7c8e9b0a",
+  "question_text": "Earth orbits the Sun once every 365 days. Mars takes approximately 687 days to orbit the Sun. How many times does Earth orbit the Sun while Mars completes one orbit?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital_periods",
+    "calculation",
+    "comparative_astronomy"
+  ],
+  "options": null,
+  "correct_answer": "approximately 0.53 times (or about half an orbit)",
+  "explanation": "To find how many times Earth orbits while Mars orbits once, divide Earth's orbital period by Mars's orbital period: 365 \u00f7 687 \u2248 0.53. This shows that Mars takes much longer to orbit the Sun because it is further away.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

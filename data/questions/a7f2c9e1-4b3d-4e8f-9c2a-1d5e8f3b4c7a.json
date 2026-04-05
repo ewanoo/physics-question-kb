@@ -1,0 +1,17 @@
+{
+  "id": "a7f2c9e1-4b3d-4e8f-9c2a-1d5e8f3b4c7a",
+  "question_text": "The Moon orbits Earth every 27.3 days, and during this time it goes through a complete cycle of phases from new moon to full moon and back to new moon. A student observes a full moon on 1st January. Assuming the Moon's orbit is perfectly regular, on which date would the student expect to see the next full moon, and explain why the actual date might be slightly different.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon phases",
+    "orbital period",
+    "multi-step reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Around 29th January (27-30 January acceptable). The actual full moon occurs approximately every 29.5 days (synodic period) rather than 27.3 days because Earth is also moving around the Sun, so the Moon needs extra time to return to the same phase relative to Earth and Sun.",
+  "explanation": "The 27.3-day period is how long the Moon takes to orbit Earth, but a full moon occurs when the Sun, Earth, and Moon are aligned in a specific way. Because Earth moves around the Sun during the Moon's orbit, the Moon must travel a bit further to reach the same alignment again, making the actual phase cycle about 29.5 days.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

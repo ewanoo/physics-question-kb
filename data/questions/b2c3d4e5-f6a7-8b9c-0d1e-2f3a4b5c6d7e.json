@@ -1,0 +1,38 @@
+{
+  "id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+  "question_text": "Which energy store does a lump of coal contain before it is burned?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "fuel",
+    "energy stores"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy store",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy store",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Gravitational potential energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Coal stores energy in its chemical energy store. Chemical energy is released when coal is burned. Fuels like coal, petrol, and natural gas all contain chemical energy that can be released through combustion (burning).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

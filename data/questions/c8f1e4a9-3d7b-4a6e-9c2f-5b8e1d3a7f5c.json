@@ -1,0 +1,17 @@
+{
+  "id": "c8f1e4a9-3d7b-4a6e-9c2f-5b8e1d3a7f5c",
+  "question_text": "A light ray hits a diamond surface at an angle of incidence of 30\u00b0. The critical angle for diamond is approximately 24\u00b0. A second ray hits at 20\u00b0. For each ray, determine whether total internal reflection occurs, and explain the physical reason why diamonds sparkle more than glass.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "total internal reflection",
+    "critical angle",
+    "optical properties"
+  ],
+  "options": null,
+  "correct_answer": "Ray 1 (30\u00b0): Total internal reflection occurs because 30\u00b0 > 24\u00b0 (critical angle). Ray 2 (20\u00b0): Total internal reflection does not occur because 20\u00b0 < 24\u00b0. Diamonds sparkle more because their lower critical angle (due to high refractive index of 2.4) means more light undergoes total internal reflection inside the stone, bouncing around and exiting as bright flashes.",
+  "explanation": "Total internal reflection only happens when the angle of incidence exceeds the critical angle. Diamond has a much higher refractive index than glass, creating a smaller critical angle, so light bounces internally more easily, creating the characteristic sparkle and 'fire' of diamonds.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

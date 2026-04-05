@@ -1,0 +1,18 @@
+{
+  "id": "c5b1a8f3-2e9d-4a7c-b3f6-1d4e5c2a9f8b",
+  "question_text": "A student investigates whether ultraviolet (UV) light is more dangerous than visible light. She learns that UV has a frequency of 1.5 \u00d7 10\u00b9\u2075 Hz and visible light has a frequency of 5.0 \u00d7 10\u00b9\u2074 Hz. Using the concept of photon energy (higher frequency = higher energy per photon), explain why UV light damages skin cells while visible light does not, even though both are forms of electromagnetic radiation.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "frequency and energy",
+    "ionizing effects",
+    "health hazards",
+    "photon concept"
+  ],
+  "options": null,
+  "correct_answer": "UV light has a frequency 3 times higher than visible light (1.5 \u00d7 10\u00b9\u2075 \u00f7 5.0 \u00d7 10\u00b9\u2074 = 3), so each UV photon carries 3 times more energy. This higher energy allows UV photons to break chemical bonds in DNA and proteins, damaging and killing skin cells (or causing mutations). Visible light photons don't have enough energy to break these bonds, so they pass through or are absorbed without causing cellular damage.",
+  "explanation": "Photon energy is directly proportional to frequency\u2014higher frequency means higher energy per photon. UV has roughly 3 times the frequency of visible light, giving it 3 times more energy per photon. This extra energy is enough to damage DNA molecules in cells, causing burns, aging, and cancer risk. Visible light simply doesn't have enough energy per photon to cause this kind of molecular damage.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

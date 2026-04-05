@@ -1,0 +1,39 @@
+{
+  "id": "c9e5f3g4-1d6f-4e0c-a7g8-4f3h0c1e9d5g",
+  "question_text": "Which of the following best explains why a gas exerts pressure on the walls of its container, according to the particle model?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "gas pressure",
+    "particle model",
+    "sub-atomic particles",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas particles have negative charge that repels the container walls.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles are constantly moving in random directions and colliding with the container walls; each collision exerts a small force, and the total of all collisions creates pressure.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gas particles stick to the container walls and their weight pushes down on the surface.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The nucleus of each gas atom releases energy that pushes outward against the container.",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Option B is correct because it applies the kinetic particle model: gas particles move rapidly and randomly, hitting container walls constantly. Each collision transfers momentum (force), and billions of collisions per second create measurable pressure. The other options contain common misconceptions: gases aren't charged (A), particles don't stick (C), and nuclei don't release pressure (D).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

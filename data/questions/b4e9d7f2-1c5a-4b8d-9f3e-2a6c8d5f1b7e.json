@@ -1,0 +1,17 @@
+{
+  "id": "b4e9d7f2-1c5a-4b8d-9f3e-2a6c8d5f1b7e",
+  "question_text": "A converging lens has a focal length of 20 cm. An object is placed 30 cm away from the lens. Using the lens formula (1/f = 1/u + 1/v), calculate the image distance and determine whether the image is real or virtual. Explain your reasoning.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "lenses",
+    "lens formula",
+    "image formation"
+  ],
+  "options": null,
+  "correct_answer": "The image distance is 60 cm. The image is real because the image distance is positive, which means light converges at this point on the opposite side of the lens from the object.",
+  "explanation": "Rearranging the lens formula: 1/v = 1/f - 1/u = 1/20 - 1/30 = 1/60, so v = 60 cm. A positive image distance indicates the image forms on the opposite side of the lens from the object, which is a real image that can be projected onto a screen.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

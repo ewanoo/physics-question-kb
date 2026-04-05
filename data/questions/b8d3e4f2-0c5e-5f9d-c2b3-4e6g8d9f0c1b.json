@@ -1,0 +1,38 @@
+{
+  "id": "b8d3e4f2-0c5e-5f9d-c2b3-4e6g8d9f0c1b",
+  "question_text": "Which of the following correctly describes the order of planets from the Sun and their main characteristics?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "planet_order",
+    "planet_properties",
+    "solar_system_structure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury, Venus, Earth, Mars are rocky planets; Jupiter, Saturn, Uranus, Neptune are gas giants",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Mercury, Venus, Earth, Mars are gas giants; Jupiter, Saturn, Uranus, Neptune are rocky planets",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "All planets from Mercury to Neptune are the same type and size",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Venus, Earth, Mars, Mercury are gas giants; Jupiter, Saturn, Uranus, Neptune are rocky planets",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The inner four planets (Mercury, Venus, Earth, Mars) are small, rocky planets with solid surfaces. The outer four planets (Jupiter, Saturn, Uranus, Neptune) are much larger gas and ice giants with no solid surface to stand on.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

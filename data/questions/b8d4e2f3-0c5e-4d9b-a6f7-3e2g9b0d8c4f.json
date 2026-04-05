@@ -1,0 +1,18 @@
+{
+  "id": "b8d4e2f3-0c5e-4d9b-a6f7-3e2g9b0d8c4f",
+  "question_text": "Copper has an atomic mass of 64. If one copper atom has a mass of 1.06 \u00d7 10\u207b\u00b2\u00b2 grams, calculate how many copper atoms are in a pure copper wire with a total mass of 6.4 grams. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "atoms",
+    "mass calculations",
+    "Avogadro's number",
+    "molar mass"
+  ],
+  "options": null,
+  "correct_answer": "6.0 \u00d7 10\u00b2\u00b2 atoms (or 60 sextillion atoms). Working: Number of atoms = Total mass \u00f7 Mass of one atom = 6.4 g \u00f7 (1.06 \u00d7 10\u207b\u00b2\u00b2 g) = 6.04 \u00d7 10\u00b2\u00b2 atoms \u2248 6.0 \u00d7 10\u00b2\u00b2 atoms",
+  "explanation": "This calculation requires students to apply division with very small numbers in scientific notation, bridging the gap between the macroscopic mass they can measure and the huge number of atoms present. It demonstrates why we need the mole concept in chemistry by showing how many particles make up ordinary amounts of matter.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

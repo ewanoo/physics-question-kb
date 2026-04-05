@@ -1,0 +1,17 @@
+{
+  "id": "b2e5c9d3-7a1f-4c6e-9d8b-2f4a8c1e5b7a",
+  "question_text": "A circuit contains two light bulbs. Bulb A has a resistance of 10\u03a9 and Bulb B has a resistance of 15\u03a9. When connected in series to a 12V battery, Bulb A is much brighter than Bulb B. Explain why this happens and predict what would change if the bulbs were connected in parallel instead.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series_parallel_circuits",
+    "resistance",
+    "brightness_comparison"
+  ],
+  "options": null,
+  "correct_answer": "In series: the same current flows through both bulbs, but Bulb A (lower resistance) has a lower voltage drop across it, so it dissipates less power and is dimmer. Bulb B (higher resistance) has a higher voltage drop and dissipates more power, making it brighter. This is opposite to the question's claim. In parallel: both bulbs experience the same 12V, so Bulb A (lower resistance) draws more current and dissipates more power, becoming brighter than Bulb B.",
+  "explanation": "In a series circuit, voltage divides across resistors\u2014the higher resistance gets more voltage. In a parallel circuit, voltage is the same across all branches, but lower resistance draws more current and uses more power, producing more brightness.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

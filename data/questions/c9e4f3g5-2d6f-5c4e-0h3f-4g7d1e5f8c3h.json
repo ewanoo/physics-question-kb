@@ -1,0 +1,39 @@
+{
+  "id": "c9e4f3g5-2d6f-5c4e-0h3f-4g7d1e5f8c3h",
+  "question_text": "Which of the following statements correctly describes what happens to particles during condensation using the particle model?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "condensation",
+    "particle_model",
+    "state_change",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles move faster and closer together as the gas becomes a liquid.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles move slower and the attractive forces between them pull them into a fixed arrangement.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles stop moving completely and freeze in place.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles increase in size as they bond together.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "During condensation, energy is removed from the gas, so particles slow down and move closer together. The attractive forces between particles become strong enough to hold them in close contact (like in a liquid), but they still move around within the liquid\u2014they don't stop moving or form a fixed solid structure.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

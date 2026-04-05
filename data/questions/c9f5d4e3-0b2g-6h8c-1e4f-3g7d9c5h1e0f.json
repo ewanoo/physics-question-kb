@@ -1,0 +1,18 @@
+{
+  "id": "c9f5d4e3-0b2g-6h8c-1e4f-3g7d9c5h1e0f",
+  "question_text": "Two forces act on a box on a frictionless surface: Force A is 8 N to the east, and Force B is 6 N to the north. A third force C is then applied. After Force C is applied, the resultant force on the box is zero (the box is in equilibrium). Calculate the magnitude of Force C and explain which direction it must act.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "vector addition",
+    "equilibrium",
+    "Pythagoras theorem"
+  ],
+  "options": null,
+  "correct_answer": "Force C must have a magnitude of 10 N and act at an angle of approximately 217\u00b0 (or southwest, at 37\u00b0 south of west). This is calculated using Pythagoras' theorem: \u221a(8\u00b2 + 6\u00b2) = \u221a(64 + 36) = \u221a100 = 10 N. Force C must be opposite and equal to the resultant of Forces A and B.",
+  "explanation": "For equilibrium, all forces must cancel out, meaning the resultant must be zero. Forces A and B combine to create a resultant of 10 N to the northeast (using Pythagoras). Force C must be equal in magnitude but opposite in direction to balance this, so it acts at 10 N to the southwest. This is an example of Newton's First Law where zero net force means no acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

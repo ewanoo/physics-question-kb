@@ -1,0 +1,17 @@
+{
+  "id": "a7f2c8e1-9b3d-4c6f-8e2a-1d5b9f3c7e4a",
+  "question_text": "A ray of light travels from glass (refractive index 1.5) into air (refractive index 1.0). The angle of incidence is 50\u00b0. Calculate the angle of refraction, and explain whether total internal reflection occurs at this angle.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "critical angle",
+    "snell's law"
+  ],
+  "options": null,
+  "correct_answer": "The angle of refraction is approximately 77.4\u00b0. Total internal reflection does not occur because the angle of incidence (50\u00b0) is less than the critical angle (41.8\u00b0).",
+  "explanation": "Using Snell's law (n\u2081 sin \u03b8\u2081 = n\u2082 sin \u03b8\u2082), we get 1.5 \u00d7 sin(50\u00b0) = 1.0 \u00d7 sin(\u03b8\u2082), giving \u03b8\u2082 \u2248 77.4\u00b0. The critical angle is found using sin(\u03b8c) = 1.0/1.5 \u2248 41.8\u00b0, so total internal reflection only occurs when the angle of incidence exceeds this value.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

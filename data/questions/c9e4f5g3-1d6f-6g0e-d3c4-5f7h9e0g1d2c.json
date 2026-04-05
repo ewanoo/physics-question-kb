@@ -1,0 +1,17 @@
+{
+  "id": "c9e4f5g3-1d6f-6g0e-d3c4-5f7h9e0g1d2c",
+  "question_text": "The distance from Earth to the Sun is approximately 150 million kilometres. Mercury is about 0.39 times this distance from the Sun. Calculate the approximate distance from Mercury to the Sun in millions of kilometres.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "distance_calculation",
+    "planetary_distances",
+    "multiplication"
+  ],
+  "options": null,
+  "correct_answer": "approximately 59 million kilometres (or 58.5 million km)",
+  "explanation": "To find Mercury's distance from the Sun, multiply Earth's distance by 0.39: 150 \u00d7 0.39 = 58.5 million kilometres. This shows that Mercury orbits much closer to the Sun than Earth does, which is why it experiences much higher temperatures.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

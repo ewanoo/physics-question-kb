@@ -1,0 +1,18 @@
+{
+  "id": "b8d3e2f4-1c5e-4b3d-9g2e-3f6c0d4e7b2g",
+  "question_text": "Water boils at 100\u00b0C at sea level. A student observes that 2 kg of water takes 10 minutes to boil away completely once it reaches 100\u00b0C. How many kilograms of water would you expect to boil away in 5 minutes at the same conditions?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "boiling",
+    "evaporation",
+    "rate",
+    "proportional_reasoning"
+  ],
+  "options": null,
+  "correct_answer": "1 kg",
+  "explanation": "If 2 kg boils away in 10 minutes, the rate of boiling is 2 \u00f7 10 = 0.2 kg per minute. In 5 minutes, the mass that boils away is 0.2 \u00d7 5 = 1 kg. This assumes the conditions (heat source, container) remain constant.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

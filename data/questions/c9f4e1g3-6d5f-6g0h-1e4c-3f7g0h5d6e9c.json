@@ -1,0 +1,18 @@
+{
+  "id": "c9f4e1g3-6d5f-6g0h-1e4c-3f7g0h5d6e9c",
+  "question_text": "The gravitational force between Earth and the Moon creates tides in Earth's oceans. The tidal force depends on the Moon's distance from Earth and follows an inverse cube law (F \u221d 1/d\u00b3). If the Moon were moved to twice its current distance from Earth, by what factor would the tidal force change? Show your calculation and explain the consequence for ocean tides.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tides",
+    "gravitational force",
+    "inverse square law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "The tidal force would decrease by a factor of 8 (or become 1/8 of its current value). Calculation: if distance is doubled (d becomes 2d), then F \u221d 1/(2d)\u00b3 = 1/8d\u00b3, so the force becomes 1/8 of the original. This would result in much smaller ocean tides, with lower high tides and higher low tides, significantly affecting coastal ecosystems and marine life.",
+  "explanation": "The inverse cube relationship means that when distance doubles, you cube the factor 2 (which is 2\u00b3 = 8), so the force becomes 1/8. This dramatic reduction occurs because tidal forces depend on the difference in the Moon's gravitational pull across Earth's diameter, making them more sensitive to distance changes than simple gravity.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

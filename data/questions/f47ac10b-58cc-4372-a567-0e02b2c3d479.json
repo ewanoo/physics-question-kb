@@ -1,0 +1,38 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "question_text": "Which of the following is an example of an object storing energy in its gravitational potential energy store?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "energy stores",
+    "identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A book resting on a high shelf",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A battery inside a torch",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A ball rolling along the ground",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A cup of hot tea",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational potential energy is stored when an object is lifted up against gravity. The book on the high shelf has gravitational potential energy because it is above ground level and could fall down, releasing that energy. The higher an object is, the more gravitational potential energy it stores.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

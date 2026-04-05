@@ -1,24 +1,38 @@
 {
   "id": "c3d4e5f6-g7h8-49i0-j1k2-l3m4n5o6p7q8",
-  "question_text": "In a mobile phone, electrical energy from the battery is converted into sound energy and heat energy. Which form of energy is useful and which is wasted?",
-  "question_type": "short_answer",
+  "question_text": "Which of the following best describes what happens when you increase the voltage in a circuit while keeping resistance constant?",
+  "question_type": "multiple_choice",
   "difficulty": "easy",
-  "topic": "energy.conservation",
+  "topic": "electricity.current_voltage",
   "tags": [
-    "useful energy",
-    "wasted energy",
-    "energy transformation"
+    "voltage",
+    "current",
+    "relationship"
   ],
-  "options": null,
-  "correct_answer": "Sound energy is useful; heat energy is wasted.",
-  "explanation": "Useful energy is the energy that does the job we want (sound from the speaker). Wasted energy is energy that is lost as heat, which doesn't help the phone function as intended. However, both forms of energy still obey conservation of energy\u2014total energy is conserved.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The current decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The current stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The resistance increases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When voltage increases and resistance stays the same, the current must increase because voltage is the driving force that pushes charges through the circuit. A higher push means more charge flows, so more current.",
   "quality_score": 5,
-  "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:10.669071",
-  "classified_at": "2026-04-05T02:11:10.669071",
-  "classification_confidence": 0.95,
-  "year_group": "year8",
-  "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/easy",
-  "raw_html": null
+  "source_name": "claude_generator"
 }

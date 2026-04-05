@@ -1,0 +1,18 @@
+{
+  "id": "a7f3d2c1-8b9e-4f6a-9c2d-1e5b7a3f9c8d",
+  "question_text": "A book rests on a table. The book has a weight of 12 N due to gravity. The normal force from the table acting on the book is 12 N upward. A student then pushes the book horizontally with a force of 5 N to the right, and friction acts with a force of 3 N to the left. Calculate the resultant force on the book and describe its direction.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "resultant forces",
+    "vector addition",
+    "friction",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "The resultant force is 2 N to the right (horizontally). The vertical forces (12 N weight and 12 N normal force) are balanced, so they cancel out. Only the horizontal forces matter: 5 N right minus 3 N left = 2 N net force to the right.",
+  "explanation": "To find the resultant force, you must identify all forces acting on the book, then add those in the same direction while subtracting opposite forces. The vertical forces cancel because they are equal and opposite, leaving only the horizontal component. The push force (5 N) is larger than friction (3 N), so there is a net force of 2 N to the right.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

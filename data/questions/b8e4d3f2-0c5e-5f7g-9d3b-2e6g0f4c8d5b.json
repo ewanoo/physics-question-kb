@@ -1,0 +1,18 @@
+{
+  "id": "b8e4d3f2-0c5e-5f7g-9d3b-2e6g0f4c8d5b",
+  "question_text": "An electromagnet is used in a relay circuit to switch on a high-power motor. When the electromagnet's coil has 200 turns and carries a 0.5A current, it produces enough magnetic force to close the switch and activate the motor. A technician needs to double the magnetic strength of the electromagnet. If the maximum current available in the circuit is 0.7A, what minimum number of turns would be needed? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "relay circuits",
+    "calculation",
+    "proportional reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 286 turns (or between 280-290). Working: Original strength = 200 turns \u00d7 0.5A = 100 units. New strength needed = 200 units (double). Using new current of 0.7A: 200 \u00f7 0.7 = 285.7 turns, which rounds to 286 turns.",
+  "explanation": "To double the electromagnet's strength, we need to consider how both turns and current contribute to overall strength (they multiply together). Since we can only increase current from 0.5A to 0.7A, we must increase the number of turns to make up the difference. This is a real-world relay design problem where technicians must balance practical constraints.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

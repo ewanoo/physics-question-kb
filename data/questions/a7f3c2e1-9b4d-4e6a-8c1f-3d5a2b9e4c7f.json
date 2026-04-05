@@ -1,0 +1,17 @@
+{
+  "id": "a7f3c2e1-9b4d-4e6a-8c1f-3d5a2b9e4c7f",
+  "question_text": "A mobile phone transmits data using microwaves with a frequency of 2.4 \u00d7 10\u2079 Hz. Radio waves used for FM broadcasting have a frequency of 1.0 \u00d7 10\u2078 Hz. Calculate the ratio of the wavelength of the FM radio wave to the wavelength of the microwave, and explain why this difference matters for antenna design.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "wavelength calculation",
+    "frequency comparison",
+    "practical applications"
+  ],
+  "options": null,
+  "correct_answer": "The ratio is 24:1 (or 24). The FM radio wave has a wavelength 24 times larger than the microwave. This matters because antennas must be similar in size to the wavelength they receive, so FM radio antennas are much longer than mobile phone antennas.",
+  "explanation": "Using the wave equation v = f\u03bb, and since all EM waves travel at the same speed (3 \u00d7 10\u2078 m/s), the wavelength is inversely proportional to frequency. The ratio of wavelengths equals the inverse ratio of frequencies: (1.0 \u00d7 10\u2078)/(2.4 \u00d7 10\u2079) = 1/24, so the FM wavelength is 24 times larger. Antenna size is crucial for efficient signal reception, which is why mobile antennas are tiny while FM radio antennas are much longer.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "b8e3d0f2-5c4e-5f9g-0d3b-2e6f9g4c5d8b",
+  "question_text": "A lunar eclipse occurs when Earth is positioned between the Sun and Moon, casting Earth's shadow on the Moon. However, lunar eclipses do not happen every full moon, even though the Moon is in the same relative position to Earth and Sun. What is the primary reason why lunar eclipses are relatively rare events, and what would need to be true about the Moon's orbital plane for a lunar eclipse to definitely occur at every full moon?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar eclipse",
+    "orbital mechanics",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The Moon's orbital plane is tilted at approximately 5\u00b0 to Earth's orbital plane (the ecliptic). Therefore, most full moons occur when the Moon passes above or below Earth's shadow, missing the eclipse. For a lunar eclipse to occur at every full moon, the Moon's orbital plane would need to be in the same plane as Earth's orbit around the Sun (0\u00b0 inclination).",
+  "explanation": "Even though the Moon is opposite Earth from the Sun during a full moon, Earth's shadow is only in the plane of Earth's orbit. Because the Moon's orbit is tilted, the Moon often passes through a position above or below this shadow, so no eclipse occurs. This tilt is why eclipses only happen when the full moon coincides with the Moon crossing Earth's orbital plane (at nodes).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}
