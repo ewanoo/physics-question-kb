@@ -7,10 +7,26 @@
     "instruments"
   ],
   "options": [
-    "A voltmeter",
-    "An ammeter",
-    "A thermometer",
-    "A multimeter only"
+    {
+      "label": "A",
+      "text": "voltmeter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An ammeter",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "thermometer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "multimeter only",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "An ammeter is the instrument designed to measure electric current in a circuit, and it must be connected in series (in line with) the component. A voltmeter measures voltage instead, and a thermometer measures temperature.",

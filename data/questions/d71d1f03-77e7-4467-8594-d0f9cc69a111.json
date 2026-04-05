@@ -7,12 +7,28 @@
     "evaluate"
   ],
   "options": [
-    "A) Energy is destroyed because bouncing always wastes energy that disappears from the universe",
-    "B) Energy is conserved but converted into other forms like heat, sound, and deformation of the ball; some energy is also absorbed by the ground",
-    "C) The ball loses gravitational potential energy which turns into kinetic energy, but gravity becomes weaker on the second bounce",
-    "D) Half the energy is lost because the ball is falling downwards, which uses up energy reserves"
+    {
+      "label": "A",
+      "text": "Energy is destroyed because bouncing always wastes energy that disappears from the universe",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy is conserved but converted into other forms like heat, sound, and deformation of the ball; some energy is also absorbed by the ground",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The ball loses gravitational potential energy which turns into kinetic energy, but gravity becomes weaker on the second bounce",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Half the energy is lost because the ball is falling downwards, which uses up energy reserves",
+      "is_correct": false
+    }
   ],
-  "correct_answer": "B",
+  "correct_answer": null,
   "explanation": "Energy is never destroyed\u2014it is conserved and transformed. When the ball bounces, not all the gravitational potential energy converts back to kinetic energy; instead, some is converted into heat (warming the ball and ground), sound (the bounce noise), and energy used to deform the ball slightly. This is why it doesn't return to the original height. Options A, C, and D incorrectly suggest energy is destroyed or that gravity changes.",
   "quality_score": 5,
   "source_name": "claude_generator",

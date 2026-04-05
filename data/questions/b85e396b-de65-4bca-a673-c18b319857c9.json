@@ -8,12 +8,28 @@
     "evaluation"
   ],
   "options": [
-    "A) Wind and solar are cheaper per unit of electricity produced than coal and nuclear",
-    "B) Renewable sources don't produce radioactive waste or CO\u2082 emissions, reducing long-term environmental and health costs, even though battery storage and backup systems are needed",
-    "C) Wind turbines and solar panels never need replacing, making them a one-time investment",
-    "D) Renewable energy produces more power per hour than fossil fuels and nuclear combined"
+    {
+      "label": "A",
+      "text": "Wind and solar are cheaper per unit of electricity produced than coal and nuclear",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Renewable sources don't produce radioactive waste or CO\u2082 emissions, reducing long-term environmental and health costs, even though battery storage and backup systems are needed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Wind turbines and solar panels never need replacing, making them a one-time investment",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Renewable energy produces more power per hour than fossil fuels and nuclear combined",
+      "is_correct": false
+    }
   ],
-  "correct_answer": "B",
+  "correct_answer": null,
   "explanation": "Option B correctly identifies that despite reliability challenges, renewables avoid long-term environmental damage (no greenhouse gases, no radioactive waste) and health costs from pollution, making them worth the investment in supporting technology like batteries. Options A, C, and D are false\u2014renewables aren't always cheaper upfront, do need replacement, and don't produce more power overall.",
   "quality_score": 5,
   "source_name": "claude_generator",

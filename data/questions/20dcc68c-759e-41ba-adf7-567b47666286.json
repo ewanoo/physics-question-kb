@@ -8,10 +8,26 @@
     "orbital-mechanics"
   ],
   "options": [
-    "A) 0.32 meters",
-    "B) 3.2 meters",
-    "C) 12.5 meters",
-    "D) 20 meters"
+    {
+      "label": "A",
+      "text": "0.32 meters",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "3.2 meters",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "12.5 meters",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "20 meters",
+      "is_correct": false
+    }
   ],
   "correct_answer": "A) 0.32 meters",
   "explanation": "First, find the initial velocity on the Moon using v\u00b2 = 2gh: v\u00b2 = 2 \u00d7 1.6 \u00d7 2 = 6.4, so v \u2248 2.5 m/s. Then use this same velocity on Earth with h = v\u00b2/2g: h = 6.4/(2 \u00d7 10) = 0.32 m. The astronaut jumps much lower on Earth because stronger gravity pulls them down faster.",

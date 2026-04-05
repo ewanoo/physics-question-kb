@@ -6,12 +6,28 @@
     "loudness",
     "sound"
   ],
-  "options": {
-    "A": "The amplitude stays the same",
-    "B": "The amplitude decreases",
-    "C": "The amplitude increases",
-    "D": "The amplitude becomes a different sound"
-  },
+  "options": [
+    {
+      "label": "A",
+      "text": "The amplitude stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The amplitude decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The amplitude increases",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The amplitude becomes a different sound",
+      "is_correct": false
+    }
+  ],
   "correct_answer": null,
   "explanation": "Amplitude is the size of the vibration. When the drum is hit harder, it vibrates with a bigger motion (larger amplitude), which creates a louder sound. A gentle hit produces smaller vibrations (smaller amplitude) and a quieter sound.",
   "quality_score": 5,

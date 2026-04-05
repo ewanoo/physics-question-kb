@@ -7,10 +7,26 @@
     "KS3"
   ],
   "options": [
-    "A) Gas particles sitting still at the bottom of a container",
-    "B) Gas particles moving randomly and colliding with the container walls",
-    "C) The weight of the gas pushing down from above",
-    "D) Heat energy stored inside the gas particles"
+    {
+      "label": "A",
+      "text": "Gas particles sitting still at the bottom of a container",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles moving randomly and colliding with the container walls",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The weight of the gas pushing down from above",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Heat energy stored inside the gas particles",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "Gas pressure is created by billions of tiny particles moving rapidly in all directions and constantly bumping into the walls of their container. These collisions push on the walls and create the pressure we measure. This is why inflating a balloon makes it firm\u2014more particles inside means more collisions and higher pressure.",

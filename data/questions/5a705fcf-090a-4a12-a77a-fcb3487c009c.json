@@ -8,12 +8,28 @@
     "evaluation"
   ],
   "options": [
-    "A: Box A experiences more friction because it's on carpet, so more force is needed to keep it moving at constant velocity.",
-    "B: Both boxes experience the same friction force because they're being pulled at constant velocity, and the applied force equals friction in both cases.",
-    "C: Box B experiences more friction because ice is slippier, so it needs more force to overcome resistance.",
-    "D: Box A needs less force than Box B because carpet is rougher and provides better grip."
+    {
+      "label": "A",
+      "text": "Box A experiences more friction because it's on carpet, so more force is needed to keep it moving at constant velocity.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both boxes experience the same friction force because they're being pulled at constant velocity, and the applied force equals friction in both cases.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Box B experiences more friction because ice is slippier, so it needs more force to overcome resistance.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Box A needs less force than Box B because carpet is rougher and provides better grip.",
+      "is_correct": false
+    }
   ],
-  "correct_answer": "B",
+  "correct_answer": null,
   "explanation": "At constant velocity, acceleration is zero, so the applied force must equal the friction force (Newton's first law). Box A has friction = 0.5 \u00d7 50 = 25 N and Box B has friction = 0.1 \u00d7 50 = 5 N, but since both are pulled with 40 N at constant velocity, the friction adjusts to match: the 40 N applied force equals the friction force in each case. This shows that applied force doesn't directly determine friction alone\u2014the surface properties do, but friction equals applied force only when velocity is constant.",
   "quality_score": 5,
   "source_name": "claude_generator",

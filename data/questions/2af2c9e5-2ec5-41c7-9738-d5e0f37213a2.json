@@ -7,13 +7,29 @@
     "colour",
     "light properties"
   ],
-  "options": {
-    "A": "The blue filter reflects all green light away",
-    "B": "The blue filter absorbs the green light because green photons have different energy/wavelength than blue light that the filter allows through",
-    "C": "Green and blue light cannot travel through the same space",
-    "D": "The filter changes the wavelength of green light into blue light"
-  },
-  "correct_answer": "B",
+  "options": [
+    {
+      "label": "A",
+      "text": "The blue filter reflects all green light away",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The blue filter absorbs the green light because green photons have different energy/wavelength than blue light that the filter allows through",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Green and blue light cannot travel through the same space",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The filter changes the wavelength of green light into blue light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
   "explanation": "Filters work by absorbing light of certain colours (wavelengths) and allowing only their own colour to pass through. A blue filter absorbs most wavelengths of light except blue, so when green light hits it, almost all the green photons are absorbed because they don't match the filter's transmission wavelength. The filter doesn't change wavelengths or reflect\u2014it absorbs unwanted colours.",
   "quality_score": 5,
   "source_name": "claude_generator",

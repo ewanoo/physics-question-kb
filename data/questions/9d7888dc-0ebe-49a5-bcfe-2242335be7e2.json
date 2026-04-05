@@ -7,10 +7,26 @@
     "hemisphere"
   ],
   "options": [
-    "The Earth is closest to the Sun in July",
-    "The Northern Hemisphere is tilted towards the Sun",
-    "The Sun moves closer to the UK",
-    "The Earth spins faster in summer"
+    {
+      "label": "A",
+      "text": "The Earth is closest to the Sun in July",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Northern Hemisphere is tilted towards the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Sun moves closer to the UK",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Earth spins faster in summer",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "The UK has summer when the Northern Hemisphere tilts towards the Sun, not because Earth gets closer. This tilt causes the Sun to be higher in the sky and daylight to last longer, making it warmer.",

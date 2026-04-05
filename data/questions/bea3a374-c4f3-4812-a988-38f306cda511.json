@@ -8,12 +8,28 @@
     "extreme_seasons"
   ],
   "options": [
-    "A) The Sun orbits the Arctic Circle twice per year, creating periods of constant visibility and invisibility.",
-    "B) The Earth's 23.5\u00b0 axial tilt means the Arctic Circle tilts away from the Sun in winter (polar night) and towards the Sun in summer (midnight sun), so the horizon never blocks the Sun.",
-    "C) The Arctic is closer to the Sun in summer and farther away in winter, affecting whether the Sun can be seen.",
-    "D) The magnetic poles shift position throughout the year, changing the angle at which sunlight reaches the Arctic."
+    {
+      "label": "A",
+      "text": "The Sun orbits the Arctic Circle twice per year, creating periods of constant visibility and invisibility.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Earth's 23.5\u00b0 axial tilt means the Arctic Circle tilts away from the Sun in winter (polar night) and towards the Sun in summer (midnight sun), so the horizon never blocks the Sun.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Arctic is closer to the Sun in summer and farther away in winter, affecting whether the Sun can be seen.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The magnetic poles shift position throughout the year, changing the angle at which sunlight reaches the Arctic.",
+      "is_correct": false
+    }
   ],
-  "correct_answer": "B",
+  "correct_answer": null,
   "explanation": "The Arctic Circle's latitude (66.5\u00b0N) combined with Earth's 23.5\u00b0 tilt means that in summer (June), this region tilts so far towards the Sun that the Sun never dips below the horizon\u2014it circles around all day (midnight sun). In winter (December), the same region tilts so far away that the Sun never rises above the horizon\u201424-hour darkness. Distance and magnetic poles don't explain this; only the tilt does.",
   "quality_score": 5,
   "source_name": "claude_generator",

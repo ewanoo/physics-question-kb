@@ -7,10 +7,26 @@
     "distance"
   ],
   "options": [
-    "Runner A is faster because they run for the same time",
-    "Runner B is faster because they cover more distance in the same time",
-    "They run at the same speed",
-    "Runner A is faster because 60 is less than 80"
+    {
+      "label": "A",
+      "text": "Runner A is faster because they run for the same time",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Runner B is faster because they cover more distance in the same time",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "They run at the same speed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Runner A is faster because 60 is less than 80",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "Runner B covers more distance (80 m) than Runner A (60 m) in the same time (10 seconds), so Runner B is faster. When two objects travel for the same time, the one covering more distance is moving faster.",

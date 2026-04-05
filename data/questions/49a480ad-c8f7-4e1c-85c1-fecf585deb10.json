@@ -7,10 +7,26 @@
     "colours"
   ],
   "options": [
-    "Violet",
-    "Red",
-    "Green",
-    "Orange"
+    {
+      "label": "A",
+      "text": "Violet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Red",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Green",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Orange",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "Red light has the longest wavelength in the visible spectrum and always appears at one end when white light splits. The other end shows violet, which has the shortest wavelength.",

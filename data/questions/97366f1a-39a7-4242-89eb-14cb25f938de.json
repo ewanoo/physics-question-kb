@@ -7,12 +7,28 @@
     "applications"
   ],
   "options": [
-    "A) Shock absorbers in cars",
-    "B) Mattresses for comfort",
-    "C) Conducting electricity in circuits",
-    "D) Door hinges and closers"
+    {
+      "label": "A",
+      "text": "Shock absorbers in cars",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mattresses for comfort",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Conducting electricity in circuits",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Door hinges and closers",
+      "is_correct": false
+    }
   ],
-  "correct_answer": "C",
+  "correct_answer": null,
   "explanation": "Springs are used in many devices to absorb shock, provide comfort, and control movement, but their main function is mechanical rather than electrical. Springs do not conduct electricity as their primary purpose, making option C the correct answer.",
   "quality_score": 5,
   "source_name": "claude_generator",

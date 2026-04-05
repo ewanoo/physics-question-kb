@@ -8,10 +8,26 @@
     "evaluation"
   ],
   "options": [
-    "A and B",
-    "A and D",
-    "B and C",
-    "C and D"
+    {
+      "label": "A",
+      "text": "and B",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "and D",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "and C",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "and D",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "Increasing voltage (A) or adding batteries in series (D) both increase current through the coils, strengthening the magnetic field and lifting power. Reducing coils (B) weakens the field, and plastic cores don't magnetise (C), so both would decrease force. Either A or D alone doubles the voltage/current, roughly doubling the lifting force from 2kg to 4kg.",

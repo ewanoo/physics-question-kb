@@ -6,12 +6,28 @@
     "medium",
     "waves"
   ],
-  "options": {
-    "A": "Only air",
-    "B": "A medium like air, water, or solids",
-    "C": "Only empty space",
-    "D": "Only solids"
-  },
+  "options": [
+    {
+      "label": "A",
+      "text": "Only air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A medium like air, water, or solids",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Only empty space",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Only solids",
+      "is_correct": false
+    }
+  ],
   "correct_answer": null,
   "explanation": "Sound is a vibration that needs a medium (material) to travel through. It can move through air, water, wood, or other materials, but cannot travel through a vacuum (empty space with no particles).",
   "quality_score": 5,

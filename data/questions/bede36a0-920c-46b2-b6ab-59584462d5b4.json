@@ -7,10 +7,26 @@
     "everyday examples"
   ],
   "options": [
-    "The weight of the book pushing down and the normal force of the table pushing up",
-    "The weight of the book and the friction from the air",
-    "The normal force pushing up and friction pushing sideways",
-    "The gravitational force and the force you use to pick it up"
+    {
+      "label": "A",
+      "text": "The weight of the book pushing down and the normal force of the table pushing up",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The weight of the book and the friction from the air",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The normal force pushing up and friction pushing sideways",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The gravitational force and the force you use to pick it up",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "Balanced forces are equal in size but opposite in direction. The book's weight (downward) and the table's normal force (upward) are equal and opposite, so they balance and the book stays still.",

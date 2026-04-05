@@ -8,10 +8,26 @@
     "recall"
   ],
   "options": [
-    "The Moon produces its own light like the Sun does",
-    "The Moon reflects sunlight towards Earth",
-    "The Moon is made of a material that glows in the dark",
-    "Light from stars bounces off the Moon's surface"
+    {
+      "label": "A",
+      "text": "The Moon produces its own light like the Sun does",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon reflects sunlight towards Earth",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Moon is made of a material that glows in the dark",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Light from stars bounces off the Moon's surface",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "The Moon doesn't produce its own light - it's a natural satellite that reflects sunlight. We see the Moon because sunlight bounces off its surface and reaches our eyes on Earth. This is why the Moon appears bright at night even though it doesn't generate light itself.",

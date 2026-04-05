@@ -7,10 +7,26 @@
     "recall"
   ],
   "options": [
-    "A force that pushes objects upwards",
-    "A force that pulls objects towards Earth",
-    "A force that only affects heavy objects",
-    "A force that prevents objects from moving"
+    {
+      "label": "A",
+      "text": "force that pushes objects upwards",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "force that pulls objects towards Earth",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "force that only affects heavy objects",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "force that prevents objects from moving",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "Gravity is a pulling force that acts on all objects, pulling them towards Earth. This is why when you drop something, it falls downwards rather than floating away.",

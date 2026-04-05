@@ -7,10 +7,26 @@
     "identify"
   ],
   "options": [
-    "A skydiver falling at terminal velocity with air resistance equal to their weight",
-    "A bicycle accelerating from rest",
-    "A ball being kicked across a field",
-    "A rocket launching upwards from the ground"
+    {
+      "label": "A",
+      "text": "skydiver falling at terminal velocity with air resistance equal to their weight",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "bicycle accelerating from rest",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "ball being kicked across a field",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "rocket launching upwards from the ground",
+      "is_correct": false
+    }
   ],
   "correct_answer": null,
   "explanation": "A skydiver at terminal velocity experiences balanced forces: their weight pulls down and air resistance pushes up with equal force. This means zero resultant force and no acceleration, so they fall at constant speed.",
