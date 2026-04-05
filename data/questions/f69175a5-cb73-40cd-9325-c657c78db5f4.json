@@ -1,0 +1,45 @@
+{
+  "id": "f69175a5-cb73-40cd-9325-c657c78db5f4",
+  "question_text": "What does gravity do to all objects?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "force",
+    "weight"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It pushes them upward",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It pulls them toward the Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It makes them move faster",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It only affects heavy objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It pulls them toward the Earth",
+  "explanation": "Gravity is an attractive force between Earth and all objects. It always pulls objects downward toward the center of the Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374318",
+  "classified_at": "2026-04-05T08:04:12.374318",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/easy",
+  "raw_html": null
+}

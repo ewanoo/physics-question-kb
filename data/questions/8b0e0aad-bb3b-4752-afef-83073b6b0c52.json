@@ -1,0 +1,24 @@
+{
+  "id": "8b0e0aad-bb3b-4752-afef-83073b6b0c52",
+  "question_text": "A rubber band is stretched to 15 cm (elastic potential energy stored) and then released. The band does not return to its original 10 cm length but stays at 12 cm. Explain why using the concept of elastic limit.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "plastic deformation",
+    "elasticity"
+  ],
+  "options": null,
+  "correct_answer": "The rubber band was stretched beyond its elastic limit. Beyond this point, the material undergoes permanent plastic deformation and cannot fully return to its original shape. Some of the elastic potential energy was converted to other forms during the deformation",
+  "explanation": "When materials are stretched beyond their elastic limit, the bonds within them are permanently altered, causing permanent deformation. Not all elastic potential energy is recovered because some energy goes into rearranging the material's structure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375374",
+  "classified_at": "2026-04-05T08:04:12.375374",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/hard",
+  "raw_html": null
+}

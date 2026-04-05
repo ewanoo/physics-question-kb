@@ -1,0 +1,24 @@
+{
+  "id": "8fdb98c0-28bb-4cee-ab01-9f68f592bd64",
+  "question_text": "Astronauts appear to float inside spacecraft orbiting Earth. Some people think there is no gravity in space. Explain why this is wrong and what is really happening.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "orbits",
+    "weightlessness"
+  ],
+  "options": null,
+  "correct_answer": "Gravity is still present and pulls the spacecraft toward Earth. The spacecraft is in free fall around Earth, so both the spacecraft and astronauts are accelerating toward Earth at the same rate, creating the illusion of weightlessness. They appear to float because there is no normal force supporting them",
+  "explanation": "Weightlessness in orbit occurs when an object and everything inside it fall together toward Earth. Since they all accelerate at the same rate, there is no relative motion and nothing feels heavy\u2014but gravity is still acting.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374508",
+  "classified_at": "2026-04-05T08:04:12.374508",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/hard",
+  "raw_html": null
+}

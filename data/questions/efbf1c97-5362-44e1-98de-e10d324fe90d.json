@@ -1,0 +1,24 @@
+{
+  "id": "efbf1c97-5362-44e1-98de-e10d324fe90d",
+  "question_text": "A pendulum swings back and forth. Explain why it eventually stops swinging, even though energy should be conserved.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "friction",
+    "energy loss",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "Friction and air resistance convert mechanical energy into heat energy, which is lost to the surroundings",
+  "explanation": "Energy is still conserved, but friction at the pivot and air resistance gradually transfer kinetic and potential energy into heat. This energy doesn't disappear\u2014it just becomes less useful and spreads into the environment.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373416",
+  "classified_at": "2026-04-05T08:04:12.373416",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/medium",
+  "raw_html": null
+}

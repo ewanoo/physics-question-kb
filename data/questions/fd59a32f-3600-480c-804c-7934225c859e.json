@@ -1,0 +1,24 @@
+{
+  "id": "fd59a32f-3600-480c-804c-7934225c859e",
+  "question_text": "A piece of chalk dissolves completely in vinegar, producing bubbles and warmth. Classify this change and explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "chemical change",
+    "reaction",
+    "evidence"
+  ],
+  "options": null,
+  "correct_answer": "This is a chemical change. Chalk (calcium carbonate) reacts with vinegar (acetic acid) to produce new substances: calcium acetate, water, and carbon dioxide gas (the bubbles). Heat release and bubble production are evidence of a new chemical reaction occurring, not just a physical change",
+  "explanation": "The production of gas bubbles and heat, along with the complete dissolution and transformation of the chalk, indicate new substances are formed. The original chalk is no longer present\u2014it has been chemically converted.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375597",
+  "classified_at": "2026-04-05T08:04:12.375597",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/hard",
+  "raw_html": null
+}

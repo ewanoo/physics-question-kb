@@ -1,0 +1,24 @@
+{
+  "id": "fcf76384-08a6-468a-bc8f-30f6002623c3",
+  "question_text": "A student stretches a rubber band and measures the following data:\nForce (N): 0, 1, 2, 3, 4, 5\nExtension (cm): 0, 2.5, 5, 7.5, 10, 12.5\nDoes the rubber band obey Hooke's Law over this range? Calculate the spring constant and explain what would happen if the force continued to increase beyond 5 N.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "elasticity",
+    "elastic limit"
+  ],
+  "options": null,
+  "correct_answer": "Yes, the rubber band obeys Hooke's Law in this range (extension increases proportionally with force). Spring constant = 1 N \u00f7 0.025 m = 40 N/m. Beyond 5 N, the rubber band would likely reach its elastic limit and begin to permanently deform or break rather than continue stretching proportionally",
+  "explanation": "The constant ratio between force and extension shows Hooke's Law applies here. However, all materials have an elastic limit beyond which they no longer obey Hooke's Law. Rubber bands typically deform permanently once overstretched.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375314",
+  "classified_at": "2026-04-05T08:04:12.375314",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/hard",
+  "raw_html": null
+}

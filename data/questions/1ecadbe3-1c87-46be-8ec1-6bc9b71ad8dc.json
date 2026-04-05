@@ -1,0 +1,24 @@
+{
+  "id": "1ecadbe3-1c87-46be-8ec1-6bc9b71ad8dc",
+  "question_text": "Two hairdryers have the same power rating of 1500 W. One is used for 5 minutes and the other for 10 minutes. Calculate how much more energy the second hairdryer uses.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "energy",
+    "power",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "450 kJ or 450,000 J",
+  "explanation": "Energy = Power \u00d7 Time. First hairdryer: 1500 W \u00d7 300 s = 450,000 J. Second: 1500 W \u00d7 600 s = 900,000 J. Difference = 450,000 J = 450 kJ. The second hairdryer uses 450 kJ more energy because it runs twice as long.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373882",
+  "classified_at": "2026-04-05T08:04:12.373882",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

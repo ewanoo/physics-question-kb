@@ -1,0 +1,24 @@
+{
+  "id": "47a333b8-a38f-498d-9cf9-b403aa0a9b31",
+  "question_text": "A crowbar is used to lift a heavy stone. The stone sits 0.1 m from the pivot, and the effort is applied 0.9 m from the pivot. The crowbar is a simple machine that gives a mechanical advantage. Explain why the crowbar makes lifting easier and calculate the mechanical advantage.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "lever",
+    "mechanical advantage",
+    "simple machines"
+  ],
+  "options": null,
+  "correct_answer": "The crowbar makes lifting easier because the effort is applied much further from the pivot than the load, so a small effort force creates a large moment. Mechanical advantage = 0.9 \u00f7 0.1 = 9, so a 9:1 advantage (a small force can lift 9 times heavier load)",
+  "explanation": "Levers are simple machines that multiply force by increasing the distance from the pivot. The further the effort is from the pivot, the greater the mechanical advantage. In this case, the effort arm is 9 times longer than the load arm.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374823",
+  "classified_at": "2026-04-05T08:04:12.374823",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/hard",
+  "raw_html": null
+}

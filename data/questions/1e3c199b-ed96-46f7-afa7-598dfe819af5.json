@@ -1,0 +1,24 @@
+{
+  "id": "1e3c199b-ed96-46f7-afa7-598dfe819af5",
+  "question_text": "A teenager eats a banana containing 400 kJ of food energy. She uses 200 kJ to stay warm and carry out bodily functions. What happens to the remaining 200 kJ?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "metabolism",
+    "heat"
+  ],
+  "options": null,
+  "correct_answer": "It is stored as fat (chemical energy) in the body or released as heat during activity",
+  "explanation": "Food energy not immediately used for body functions and movement is stored as fat molecules or converted to heat. The exact fate depends on how active the person is.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373634",
+  "classified_at": "2026-04-05T08:04:12.373634",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/medium",
+  "raw_html": null
+}

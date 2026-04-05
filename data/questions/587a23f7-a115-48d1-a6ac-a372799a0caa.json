@@ -1,0 +1,45 @@
+{
+  "id": "587a23f7-a115-48d1-a6ac-a372799a0caa",
+  "question_text": "What is the main source of energy for all living organisms on Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "sun",
+    "photosynthesis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The moon's gravity",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Sun",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Fossil fuels",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electricity from the Earth's core",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Sun",
+  "explanation": "Plants capture energy from sunlight through photosynthesis. Animals eat plants or other animals, so all food energy ultimately comes from the Sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373564",
+  "classified_at": "2026-04-05T08:04:12.373564",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/easy",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "085bfe1c-9f1f-43c4-b427-c00959836da2",
+  "question_text": "On the Moon, the gravitational field strength is 1.6 N/kg compared to 10 N/kg on Earth. A person of mass 60 kg experiences different weights in each location. Calculate the difference in their weight between Earth and the Moon.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravity",
+    "moon",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "504 N",
+  "explanation": "On Earth: Weight = 60 \u00d7 10 = 600 N. On Moon: Weight = 60 \u00d7 1.6 = 96 N. Difference = 600 - 96 = 504 N. The person weighs much less on the Moon because gravity is weaker there.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374451",
+  "classified_at": "2026-04-05T08:04:12.374451",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/medium",
+  "raw_html": null
+}

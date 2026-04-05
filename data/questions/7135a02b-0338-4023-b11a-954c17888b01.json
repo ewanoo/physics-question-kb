@@ -1,0 +1,24 @@
+{
+  "id": "7135a02b-0338-4023-b11a-954c17888b01",
+  "question_text": "A candle burns, releasing light and heat. Wax also turns to liquid. Explain which of these changes are physical and which are chemical, and justify your answer.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "physical change",
+    "chemical change",
+    "combustion"
+  ],
+  "options": null,
+  "correct_answer": "Wax melting is a physical change (reversible, same substance). Burning is a chemical change (wax reacts with oxygen to produce new substances like carbon dioxide and water). The light and heat are evidence of chemical change",
+  "explanation": "Chemical changes produce new substances with different properties and are generally not reversible. Burning is a chemical reaction that transforms wax into completely different compounds, while melting just changes its state.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375542",
+  "classified_at": "2026-04-05T08:04:12.375542",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/medium",
+  "raw_html": null
+}

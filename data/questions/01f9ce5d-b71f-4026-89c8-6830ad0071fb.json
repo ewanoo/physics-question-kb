@@ -1,0 +1,24 @@
+{
+  "id": "01f9ce5d-b71f-4026-89c8-6830ad0071fb",
+  "question_text": "A student compares a 100 W solar panel with a 100 W wind turbine in the same location over one year. The solar panel actually produces 150 kWh while the wind turbine produces 350 kWh. Explain this difference and what it reveals about real-world power output.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "efficiency",
+    "power rating",
+    "renewable energy"
+  ],
+  "options": null,
+  "correct_answer": "The power rating (100 W) is the maximum power output under ideal conditions. Real-world output depends on weather conditions. The wind turbine produces more because there is more consistent wind than sunshine in that location, or the wind resource is better than the solar resource",
+  "explanation": "Power rating is the maximum output under perfect conditions, but actual energy production depends on how often those conditions occur. In many locations, wind resource may be more reliable or stronger than solar resource, leading to higher real-world energy output.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373996",
+  "classified_at": "2026-04-05T08:04:12.373996",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/hard",
+  "raw_html": null
+}

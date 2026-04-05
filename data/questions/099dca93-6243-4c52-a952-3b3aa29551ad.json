@@ -1,0 +1,25 @@
+{
+  "id": "099dca93-6243-4c52-a952-3b3aa29551ad",
+  "question_text": "A cyclist's speed-time graph shows they accelerate from 0 to 8 m/s in 4 seconds, then maintain 8 m/s for 10 seconds, then decelerate to 2 m/s over 3 seconds. Calculate the total distance traveled and describe the journey.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "acceleration",
+    "distance",
+    "graphs"
+  ],
+  "options": null,
+  "correct_answer": "123 m",
+  "explanation": "Phase 1 (acceleration): Area of triangle = \u00bd \u00d7 4 \u00d7 8 = 16 m. Phase 2 (constant speed): Area of rectangle = 8 \u00d7 10 = 80 m. Phase 3 (deceleration): Area of trapezoid = \u00bd \u00d7 (8 + 2) \u00d7 3 = 15 m. Wait, let me recalculate phase 3: \u00bd \u00d7 (8+2) \u00d7 3 = 15 m. Total = 16 + 80 + 15 = 111 m. The cyclist accelerates, cruises at constant speed, then slows down.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375069",
+  "classified_at": "2026-04-05T08:04:12.375069",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/hard",
+  "raw_html": null
+}

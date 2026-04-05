@@ -1,0 +1,24 @@
+{
+  "id": "13b2fd88-fd73-47f7-811a-188fa03f56b2",
+  "question_text": "A jogger runs at a constant speed of 4 m/s. How far will they run in 10 minutes?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "distance",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "2400 m or 2.4 km",
+  "explanation": "First convert time: 10 minutes = 600 seconds. Then Distance = Speed \u00d7 Time = 4 m/s \u00d7 600 s = 2400 m = 2.4 km. A jogger moving at 4 m/s covers significant distance in 10 minutes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375013",
+  "classified_at": "2026-04-05T08:04:12.375013",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/medium",
+  "raw_html": null
+}

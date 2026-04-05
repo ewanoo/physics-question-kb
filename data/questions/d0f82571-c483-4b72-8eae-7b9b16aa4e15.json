@@ -1,0 +1,24 @@
+{
+  "id": "d0f82571-c483-4b72-8eae-7b9b16aa4e15",
+  "question_text": "A student has three materials: copper (density 8.9 g/cm\u00b3), ice (density 0.92 g/cm\u00b3), and oil (density 0.9 g/cm\u00b3). In a container of water (1 g/cm\u00b3), predict which will float and which will sink. Explain your reasoning and describe what would happen if all three were placed in the water together.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "flotation",
+    "layering"
+  ],
+  "options": null,
+  "correct_answer": "Copper (8.9 g/cm\u00b3) will sink because it is denser than water. Ice (0.92 g/cm\u00b3) and oil (0.9 g/cm\u00b3) will float because they are less dense than water. In the container together, from bottom to top: copper (sunk), water, ice and oil (floated with oil below ice since oil is slightly denser)",
+  "explanation": "Objects float if they are less dense than the fluid they're in, and sink if they are more dense. If multiple materials float together, they arrange by relative density, with the denser floating object below the less dense one.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375834",
+  "classified_at": "2026-04-05T08:04:12.375834",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/hard",
+  "raw_html": null
+}

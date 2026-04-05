@@ -1,0 +1,24 @@
+{
+  "id": "3c28b619-0123-4d07-b898-88fd8efcd70e",
+  "question_text": "An electric kettle transfers energy at a rate of 2000 watts. How long will it take to transfer 60,000 joules of energy to the water?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "time",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "30 seconds",
+  "explanation": "Using Time = Energy \u00f7 Power: 60,000 J \u00f7 2000 W = 30 seconds. The more powerful the kettle, the faster it transfers energy to the water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373943",
+  "classified_at": "2026-04-05T08:04:12.373943",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

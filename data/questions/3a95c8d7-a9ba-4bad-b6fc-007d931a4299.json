@@ -1,0 +1,45 @@
+{
+  "id": "3a95c8d7-a9ba-4bad-b6fc-007d931a4299",
+  "question_text": "A light bulb uses 60 watts of power. What does this tell you about the bulb?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "watts",
+    "energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It uses 60 joules of energy per second",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "It uses 60 joules of energy per hour",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It produces light with 60% efficiency",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It costs 60 pounds per year to run",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "It uses 60 joules of energy per second",
+  "explanation": "Power is measured in watts, and one watt means one joule of energy used per second. So a 60 W bulb uses 60 J every second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373817",
+  "classified_at": "2026-04-05T08:04:12.373817",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/easy",
+  "raw_html": null
+}

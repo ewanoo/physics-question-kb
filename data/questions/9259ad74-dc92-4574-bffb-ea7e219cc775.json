@@ -1,0 +1,45 @@
+{
+  "id": "9259ad74-dc92-4574-bffb-ea7e219cc775",
+  "question_text": "What does Hooke's Law describe?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "springs",
+    "elasticity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How springs store heat",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The relationship between force and extension in springs",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "How springs break under stress",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How springs transfer energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The relationship between force and extension in springs",
+  "explanation": "Hooke's Law states that the extension of a spring is directly proportional to the force applied to it (F = kx), as long as the elastic limit is not exceeded.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375121",
+  "classified_at": "2026-04-05T08:04:12.375121",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/easy",
+  "raw_html": null
+}

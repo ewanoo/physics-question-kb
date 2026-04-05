@@ -1,0 +1,24 @@
+{
+  "id": "da75792f-861c-4a7b-899e-8ed7236ecc31",
+  "question_text": "A box is harder to push on rough concrete than on smooth ice. Explain why in terms of friction.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "surfaces",
+    "roughness"
+  ],
+  "options": null,
+  "correct_answer": "The rough concrete surface has greater friction because its uneven texture creates more resistance to motion. Ice is smooth so there is less friction",
+  "explanation": "Friction depends on the nature of the surfaces in contact. Rougher surfaces have larger friction forces because the irregularities grip and resist motion more strongly.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374117",
+  "classified_at": "2026-04-05T08:04:12.374117",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/medium",
+  "raw_html": null
+}

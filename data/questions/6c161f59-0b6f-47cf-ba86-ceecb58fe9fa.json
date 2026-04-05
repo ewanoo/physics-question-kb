@@ -1,0 +1,45 @@
+{
+  "id": "6c161f59-0b6f-47cf-ba86-ceecb58fe9fa",
+  "question_text": "What is a physical change in matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "physical change",
+    "states of matter",
+    "reversible"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A change where the substance becomes a completely different material",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A change in shape, size, or state without creating a new substance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A change that always releases energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A change that cannot be reversed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A change in shape, size, or state without creating a new substance",
+  "explanation": "Physical changes alter the form or appearance of matter (like melting ice or tearing paper) but the substance remains the same. Most physical changes are reversible.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375426",
+  "classified_at": "2026-04-05T08:04:12.375426",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/easy",
+  "raw_html": null
+}

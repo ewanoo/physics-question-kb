@@ -1,0 +1,25 @@
+{
+  "id": "f3540742-dcaf-4901-8c96-3c7adfe0fe9d",
+  "question_text": "A block of wood has a mass of 500 g and a volume of 1000 cm\u00b3. Calculate its density.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "mass",
+    "volume",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.5 g/cm\u00b3",
+  "explanation": "Density = Mass \u00f7 Volume = 500 g \u00f7 1000 cm\u00b3 = 0.5 g/cm\u00b3. This wood is less dense than water (1 g/cm\u00b3), which is why it floats.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375710",
+  "classified_at": "2026-04-05T08:04:12.375710",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/medium",
+  "raw_html": null
+}

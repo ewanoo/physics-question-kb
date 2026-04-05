@@ -1,0 +1,45 @@
+{
+  "id": "54a49c5e-a51f-431a-ad01-d9ba18891b54",
+  "question_text": "What is speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "distance",
+    "time"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How fast something is moving",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The direction an object is moving",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "How heavy something is",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The acceleration of an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "How fast something is moving",
+  "explanation": "Speed measures how quickly something covers distance. It tells you the rate at which distance is covered but doesn't include direction information.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374884",
+  "classified_at": "2026-04-05T08:04:12.374884",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/easy",
+  "raw_html": null
+}

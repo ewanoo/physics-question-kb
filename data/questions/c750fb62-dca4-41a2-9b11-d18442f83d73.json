@@ -1,0 +1,45 @@
+{
+  "id": "c750fb62-dca4-41a2-9b11-d18442f83d73",
+  "question_text": "What is a moment in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "turning effect",
+    "lever"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A very short amount of time",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The turning effect of a force about a pivot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed of rotation",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The weight of an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The turning effect of a force about a pivot",
+  "explanation": "A moment (or torque) describes how effectively a force causes rotation around a pivot point. It depends on both the size of the force and how far it is from the pivot.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374562",
+  "classified_at": "2026-04-05T08:04:12.374562",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/easy",
+  "raw_html": null
+}

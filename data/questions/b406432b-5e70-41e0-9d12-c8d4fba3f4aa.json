@@ -1,0 +1,45 @@
+{
+  "id": "b406432b-5e70-41e0-9d12-c8d4fba3f4aa",
+  "question_text": "What is friction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "force",
+    "surfaces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that pushes objects forward",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A force that opposes motion between two surfaces in contact",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A force that only acts on metals",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The weight of an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A force that opposes motion between two surfaces in contact",
+  "explanation": "Friction is a resistive force that acts between two surfaces when one tries to move past the other. It always opposes the direction of motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374049",
+  "classified_at": "2026-04-05T08:04:12.374049",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/easy",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d7ecdeb2-4fa9-4a69-92a6-8ab97e7752f8",
+  "question_text": "A ball is thrown upwards. At the highest point of its flight, what has happened to its kinetic energy?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "kinetic energy",
+    "potential energy",
+    "motion"
+  ],
+  "options": null,
+  "correct_answer": "It has been converted to gravitational potential energy",
+  "explanation": "As the ball rises, it slows down because kinetic energy is continuously converted into gravitational potential energy. At the highest point, velocity is zero so kinetic energy is zero, and all the original kinetic energy has become potential energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373325",
+  "classified_at": "2026-04-05T08:04:12.373325",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/medium",
+  "raw_html": null
+}

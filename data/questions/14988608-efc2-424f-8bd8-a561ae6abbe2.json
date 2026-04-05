@@ -1,0 +1,45 @@
+{
+  "id": "14988608-efc2-424f-8bd8-a561ae6abbe2",
+  "question_text": "A student burns 500 J of food energy during a 10-second sprint. Where does most of this energy go?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "heat",
+    "human body"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Into making the muscles contract and move the body, with some converted to heat",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Only into movement with no energy wasted",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Into the student's bones and joints",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Into the air as sound energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Into making the muscles contract and move the body, with some converted to heat",
+  "explanation": "Muscles are only about 25% efficient, meaning most food energy becomes heat (which is why you get hot when exercising), while the rest does mechanical work to move the body. This demonstrates energy conservation\u2014energy isn't lost, just transferred and transformed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373483",
+  "classified_at": "2026-04-05T08:04:12.373483",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/hard",
+  "raw_html": null
+}

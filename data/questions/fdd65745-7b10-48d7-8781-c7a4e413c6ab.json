@@ -1,0 +1,24 @@
+{
+  "id": "fdd65745-7b10-48d7-8781-c7a4e413c6ab",
+  "question_text": "Two children sit on a seesaw. Child A (30 kg) sits 2 m from the pivot. Child B (25 kg) sits 2.4 m from the pivot on the opposite side. Calculate the moment for each child (g = 10 N/kg) and determine if the seesaw will balance.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "balance",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "Child A moment = 600 N\u00b7m, Child B moment = 600 N\u00b7m, seesaw will balance",
+  "explanation": "Child A: Moment = Weight \u00d7 Distance = (30 \u00d7 10) \u00d7 2 = 600 N\u00b7m. Child B: Moment = (25 \u00d7 10) \u00d7 2.4 = 600 N\u00b7m. Since the moments are equal, the seesaw is balanced. For equilibrium, clockwise and counterclockwise moments must be equal.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374688",
+  "classified_at": "2026-04-05T08:04:12.374688",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/hard",
+  "raw_html": null
+}

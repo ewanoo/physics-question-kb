@@ -1,0 +1,24 @@
+{
+  "id": "2af18da0-dce4-4f43-babf-655e6277b066",
+  "question_text": "A student pushes on a door handle 0.8 m from the hinge with a force of 10 N perpendicular to the door. Calculate the moment about the hinge.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "calculation",
+    "lever arm"
+  ],
+  "options": null,
+  "correct_answer": "8 N\u00b7m",
+  "explanation": "Moment = Force \u00d7 Distance from pivot. Moment = 10 N \u00d7 0.8 m = 8 N\u00b7m. A larger moment is produced by either a greater force or a greater distance from the pivot.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374629",
+  "classified_at": "2026-04-05T08:04:12.374629",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/medium",
+  "raw_html": null
+}

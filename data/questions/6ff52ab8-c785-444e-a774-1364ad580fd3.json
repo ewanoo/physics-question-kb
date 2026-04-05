@@ -1,0 +1,24 @@
+{
+  "id": "6ff52ab8-c785-444e-a774-1364ad580fd3",
+  "question_text": "A student heats ice until it becomes steam. Identify the physical changes that occur and explain what remains constant throughout these changes.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "states of matter",
+    "melting",
+    "evaporation"
+  ],
+  "options": null,
+  "correct_answer": "Ice melts to water (melting) and water evaporates to steam (evaporation). The substance remains water (H\u2082O) throughout; only the state (solid to liquid to gas) and the arrangement of particles change",
+  "explanation": "These are phase changes\u2014physical changes where the state of matter changes but the chemical composition stays the same. The molecular structure (H\u2082O) is identical in ice, water, and steam.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375492",
+  "classified_at": "2026-04-05T08:04:12.375492",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/medium",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "390ee118-d8dd-4323-a7eb-8c3850f31127",
+  "question_text": "An ice skater glides across ice with almost no friction. A colleague then adds a thin layer of fine sand to increase friction for safety. However, too much sand makes skating impossible. Evaluate the competing effects of friction in sports.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "sports",
+    "optimization"
+  ],
+  "options": null,
+  "correct_answer": "Friction must be balanced: some friction is needed to control movement and prevent slipping, but too much friction prevents smooth motion and increases effort. The optimal amount allows control without excessive resistance",
+  "explanation": "Friction is not simply good or bad\u2014it depends on the application. Athletes need enough friction to control their movement, but excessive friction wastes energy and prevents efficient motion. The right balance is key.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374173",
+  "classified_at": "2026-04-05T08:04:12.374173",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/hard",
+  "raw_html": null
+}

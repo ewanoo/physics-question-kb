@@ -1,0 +1,24 @@
+{
+  "id": "991f16fd-22f4-4cf0-a83e-70aa166de4a9",
+  "question_text": "A car's wheels spin on wet roads, reducing grip and making it skid. Explain this in terms of friction and suggest how to reduce this dangerous situation.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "safety",
+    "vehicles"
+  ],
+  "options": null,
+  "correct_answer": "Water acts as a lubricant between the tire and road, reducing friction. The car should slow down and avoid sudden acceleration or braking to allow more contact between tire and road, or tread patterns help remove water. Anti-lock braking systems (ABS) prevent wheel locking",
+  "explanation": "When water is between the tire and road, friction is greatly reduced. Drivers can restore friction by reducing speed, which allows water to escape from under the tire and increases contact pressure on dry areas.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.374260",
+  "classified_at": "2026-04-05T08:04:12.374260",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/hard",
+  "raw_html": null
+}

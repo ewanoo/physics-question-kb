@@ -1,0 +1,45 @@
+{
+  "id": "2a19fed9-a2d7-4268-8dea-2381b859c192",
+  "question_text": "What is density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "mass",
+    "volume"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How much space an object takes up",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How heavy an object is",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The mass of a substance per unit volume",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "How tightly packed atoms are in a material",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The mass of a substance per unit volume",
+  "explanation": "Density is calculated as mass divided by volume. It tells you how much mass is packed into a given amount of space.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375645",
+  "classified_at": "2026-04-05T08:04:12.375645",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/easy",
+  "raw_html": null
+}

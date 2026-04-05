@@ -1,0 +1,45 @@
+{
+  "id": "88102af7-1d13-41be-ad6f-1a1cd22e1e4e",
+  "question_text": "Which of the following is an example of energy conservation in everyday life?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy",
+    "conservation",
+    "everyday"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy is created when you burn fuel",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy changes from one form to another but the total amount stays the same",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Energy disappears when an object stops moving",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy can only exist as heat",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Energy changes from one form to another but the total amount stays the same",
+  "explanation": "Energy conservation means the total energy in a closed system never changes; it only transforms between different forms like kinetic, potential, and thermal energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373040",
+  "classified_at": "2026-04-05T08:04:12.373040",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/easy",
+  "raw_html": null
+}

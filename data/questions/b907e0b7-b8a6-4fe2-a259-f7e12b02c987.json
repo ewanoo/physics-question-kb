@@ -1,0 +1,24 @@
+{
+  "id": "b907e0b7-b8a6-4fe2-a259-f7e12b02c987",
+  "question_text": "A scientist studies two populations of rabbits: one in a cold desert and one in a warm forest. The desert rabbits must eat 30% more food than the forest rabbits despite similar activity levels. Suggest and explain why.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "thermoregulation",
+    "energy loss",
+    "environment"
+  ],
+  "options": null,
+  "correct_answer": "Desert rabbits lose more heat to their cold environment, so they need more food energy to maintain body temperature",
+  "explanation": "Animals must use food energy to maintain a constant body temperature. In cold environments, more heat is lost to surroundings, so more food energy is needed for thermoregulation. This is an example of how environmental conditions affect energy requirements.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.373693",
+  "classified_at": "2026-04-05T08:04:12.373693",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "11949e12-54e7-4a32-a86a-2c71a5f3acf6",
+  "question_text": "A spring has a spring constant of 200 N/m. A force of 50 N is applied to the spring. Calculate the extension of the spring.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "extension"
+  ],
+  "options": null,
+  "correct_answer": "0.25 m or 25 cm",
+  "explanation": "Using Hooke's Law: F = kx, so x = F \u00f7 k = 50 N \u00f7 200 N/m = 0.25 m. The spring stretches 25 cm when this force is applied.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T08:04:12.375212",
+  "classified_at": "2026-04-05T08:04:12.375212",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/medium",
+  "raw_html": null
+}
