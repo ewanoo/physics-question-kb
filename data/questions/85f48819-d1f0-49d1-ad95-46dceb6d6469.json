@@ -1,0 +1,24 @@
+{
+  "id": "85f48819-d1f0-49d1-ad95-46dceb6d6469",
+  "question_text": "A wind farm produces 250 kW of electrical power. If it runs continuously for 8 hours, how much electrical energy does it generate? Give your answer in kWh.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "wind energy",
+    "energy calculation",
+    "power"
+  ],
+  "options": null,
+  "correct_answer": "2000 kWh",
+  "explanation": "Energy = Power \u00d7 Time. Energy = 250 kW \u00d7 8 hours = 2000 kWh. This uses the standard formula for calculating electrical energy from power and time duration.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/medium",
+  "scraped_at": "2026-04-05T14:13:53.232869",
+  "classified_at": "2026-04-05T14:13:53.232869",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

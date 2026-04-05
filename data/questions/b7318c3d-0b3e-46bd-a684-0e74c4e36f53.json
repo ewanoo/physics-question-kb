@@ -1,0 +1,44 @@
+{
+  "id": "b7318c3d-0b3e-46bd-a684-0e74c4e36f53",
+  "question_text": "A Sankey diagram shows energy flow through a system. What does the width of each arrow represent?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "Sankey diagrams",
+    "energy flow"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The speed at which energy is transferred",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The amount or quantity of energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The type of energy being transferred",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The time taken for energy transfer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The amount or quantity of energy",
+  "explanation": "In a Sankey diagram, the width of each arrow is proportional to the amount of energy it represents. Thicker arrows show more energy, and thinner arrows show less energy, making it easy to see where energy is wasted.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/medium",
+  "scraped_at": "2026-04-05T14:14:08.358854",
+  "classified_at": "2026-04-05T14:14:08.358854",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

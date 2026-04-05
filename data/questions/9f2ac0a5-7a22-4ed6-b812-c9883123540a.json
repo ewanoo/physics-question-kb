@@ -1,0 +1,45 @@
+{
+  "id": "9f2ac0a5-7a22-4ed6-b812-c9883123540a",
+  "question_text": "At the winter solstice in the Northern Hemisphere, which hemisphere experiences the longest day?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "solstice",
+    "hemisphere_differences",
+    "length_of_day"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Northern Hemisphere, because it is tilted away from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Southern Hemisphere, because it is tilted towards the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both hemispheres have equal day length at the solstice",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Northern Hemisphere, because it is further from the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Southern Hemisphere, because it is tilted towards the Sun",
+  "explanation": "At the winter solstice in the Northern Hemisphere (around 21 December), the Southern Hemisphere is tilted towards the Sun, so it experiences summer with the longest day. The hemispheres have opposite seasons due to the 23.5\u00b0 axial tilt.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/medium",
+  "scraped_at": "2026-04-05T14:14:01.068993",
+  "classified_at": "2026-04-05T14:14:01.068993",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

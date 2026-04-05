@@ -1,0 +1,24 @@
+{
+  "id": "85f73e4f-db6b-439e-ab7b-9db0a7d70407",
+  "question_text": "A satellite has a mass of 400 kg. Calculate its weight on Earth (g = 10 N/kg). Then calculate its weight on Mars, where g = 3.7 N/kg. What is the difference between the two weights?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "weight calculation",
+    "gravity on different planets",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Weight on Earth = 4000 N; Weight on Mars = 1480 N; Difference = 2520 N",
+  "explanation": "Use weight = mass \u00d7 g for both planets. Earth: 400 \u00d7 10 = 4000 N. Mars: 400 \u00d7 3.7 = 1480 N. Difference: 4000 \u2212 1480 = 2520 N. The satellite is much heavier on Earth because Earth's gravitational field is stronger.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/hard",
+  "scraped_at": "2026-04-05T14:14:31.846771",
+  "classified_at": "2026-04-05T14:14:31.846771",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

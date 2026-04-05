@@ -1,0 +1,25 @@
+{
+  "id": "b6bb49ed-92bf-41cc-b7e7-199cd7ab000b",
+  "question_text": "A metal cube has a mass of 270 g and a volume of 30 cm\u00b3. A second metal cube made of a different material has a mass of 400 g and a volume of 50 cm\u00b3. Which cube is denser, and by how much? (Give your answer in g/cm\u00b3.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "calculation",
+    "comparison",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "The first cube is denser. It has a density of 9 g/cm\u00b3 compared to 8 g/cm\u00b3 for the second cube, so it is 1 g/cm\u00b3 denser.",
+  "explanation": "First cube: density = 270 \u00f7 30 = 9 g/cm\u00b3. Second cube: density = 400 \u00f7 50 = 8 g/cm\u00b3. The difference is 9 \u2212 8 = 1 g/cm\u00b3, making the first cube denser.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/hard",
+  "scraped_at": "2026-04-05T14:14:26.513057",
+  "classified_at": "2026-04-05T14:14:26.513057",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

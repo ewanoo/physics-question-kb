@@ -1,0 +1,25 @@
+{
+  "id": "d684e4ea-c008-4229-83d0-68ecae4bd27d",
+  "question_text": "A student eats a meal containing 2,100 kJ of energy. She then goes for a 30-minute run which uses 1,800 kJ, and does homework which uses 400 kJ. Calculate the net energy change (in kJ) for the student.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy balance",
+    "metabolism",
+    "activities",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "-100 kJ (or energy deficit of 100 kJ)",
+  "explanation": "Energy in = 2,100 kJ. Total energy used = 1,800 kJ + 400 kJ = 2,200 kJ. Net change = 2,100 - 2,200 = -100 kJ. A negative value means the student used more energy than consumed, so the body must use stored energy (like from fat) to make up the difference.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/hard",
+  "scraped_at": "2026-04-05T14:14:14.736278",
+  "classified_at": "2026-04-05T14:14:14.736278",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

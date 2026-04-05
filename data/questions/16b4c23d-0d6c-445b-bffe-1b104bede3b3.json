@@ -1,0 +1,24 @@
+{
+  "id": "16b4c23d-0d6c-445b-bffe-1b104bede3b3",
+  "question_text": "On 21 June, the North Pole receives 24 hours of daylight (midnight sun). At the same time, a location at 60\u00b0N latitude receives 18 hours of daylight. Calculate how many hours of darkness this location at 60\u00b0N experiences on 21 June.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "length_of_day",
+    "midnight_sun",
+    "solstice"
+  ],
+  "options": null,
+  "correct_answer": "6 hours of darkness (24 hours \u2212 18 hours = 6 hours)",
+  "explanation": "On the summer solstice (21 June), day length varies with latitude in the Northern Hemisphere. While the North Pole has continuous daylight (24 hours), locations further south have progressively shorter days. At 60\u00b0N, if daylight is 18 hours, the remaining time must be darkness: 24 \u2212 18 = 6 hours. This shows how the midnight sun phenomenon is latitude-dependent.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/hard",
+  "scraped_at": "2026-04-05T14:14:01.068993",
+  "classified_at": "2026-04-05T14:14:01.068993",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

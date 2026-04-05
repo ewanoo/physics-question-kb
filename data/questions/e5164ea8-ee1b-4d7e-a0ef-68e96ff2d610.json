@@ -1,0 +1,44 @@
+{
+  "id": "e5164ea8-ee1b-4d7e-a0ef-68e96ff2d610",
+  "question_text": "Which of the following best describes gravity?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity as a force",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that pushes objects away from planets",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A force of attraction between all objects with mass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A force that only acts on very heavy objects",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A force that increases with temperature",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A force of attraction between all objects with mass",
+  "explanation": "Gravity is a universal force of attraction that acts between any two objects that have mass, pulling them towards each other.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T14:14:31.846771",
+  "classified_at": "2026-04-05T14:14:31.846771",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

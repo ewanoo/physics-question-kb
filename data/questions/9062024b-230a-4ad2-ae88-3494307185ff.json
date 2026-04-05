@@ -1,0 +1,24 @@
+{
+  "id": "9062024b-230a-4ad2-ae88-3494307185ff",
+  "question_text": "Explain one environmental advantage and one environmental disadvantage of using geothermal energy compared to burning fossil fuels.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "geothermal",
+    "environmental impact",
+    "renewable energy"
+  ],
+  "options": null,
+  "correct_answer": "Advantage: Geothermal energy produces little or no greenhouse gases or air pollution, unlike fossil fuels which produce CO\u2082 and cause climate change. Disadvantage: Geothermal power plants can only be built in specific locations with hot underground rocks, limiting where they can be used.",
+  "explanation": "Geothermal energy is clean and doesn't contribute to global warming, but it is location-dependent, unlike fossil fuels which can be transported and used anywhere. Accept other valid answers such as: geothermal has minimal waste compared to fossil fuels, or geothermal may cause minor earthquakes.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/medium",
+  "scraped_at": "2026-04-05T14:13:53.232869",
+  "classified_at": "2026-04-05T14:13:53.232869",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

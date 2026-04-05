@@ -1,0 +1,45 @@
+{
+  "id": "873e9857-56c2-449a-8f46-2b653302ee5a",
+  "question_text": "Ice at 0\u00b0C is left in a warm room. The ice melts into water, and then the water slowly evaporates. Which statement correctly describes these changes?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "evaporation",
+    "reversible_changes"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both melting and evaporation are irreversible changes",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Melting is reversible but evaporation is irreversible",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both melting and evaporation are reversible changes",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Neither melting nor evaporation are physical changes",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Both melting and evaporation are reversible changes",
+  "explanation": "Both melting and evaporation are reversible physical changes. Water vapour can condense back to liquid water, and liquid water can freeze back to ice. The substance remains water throughout\u2014only its state changes.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/medium",
+  "scraped_at": "2026-04-05T14:13:45.989906",
+  "classified_at": "2026-04-05T14:13:45.989906",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

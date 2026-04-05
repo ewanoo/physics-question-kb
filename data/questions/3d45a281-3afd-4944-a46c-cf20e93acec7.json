@@ -1,0 +1,45 @@
+{
+  "id": "3d45a281-3afd-4944-a46c-cf20e93acec7",
+  "question_text": "Why does the Northern Hemisphere experience summer when the Earth's North Pole is tilted towards the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "axial_tilt",
+    "seasons",
+    "hemisphere_differences"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Earth is closer to the Sun during summer",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The tilt causes the Sun's rays to hit at a steeper angle, concentrating energy over a smaller area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The tilt causes the Sun to shine for 24 hours continuously",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The tilt reduces the distance between the Earth and the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The tilt causes the Sun's rays to hit at a steeper angle, concentrating energy over a smaller area",
+  "explanation": "When a hemisphere is tilted towards the Sun, the Sun's rays hit at a steeper angle, spreading the same energy over a smaller area, making it hotter. The Earth's distance from the Sun barely changes during the year, so distance is not the cause of seasons.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/easy",
+  "scraped_at": "2026-04-05T14:14:01.068993",
+  "classified_at": "2026-04-05T14:14:01.068993",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "b00fbb56-5618-4a50-a287-d80150812f81",
+  "question_text": "Energy in food can be measured in both kilojoules (kJ) and kilocalories (kcal). Which of the following is true about these units?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy units",
+    "kJ",
+    "kcal",
+    "food energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "1 kcal is larger than 1 kJ",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "1 kJ and 1 kcal are the same size",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "1 kJ is larger than 1 kcal",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "kcal is only used for measuring heat, not food energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "1 kcal is larger than 1 kJ",
+  "explanation": "1 kilocalorie equals approximately 4.2 kilojoules, so a kilocalorie is a larger unit. Both are used to measure food energy, but kilojoules are now more commonly used in the UK.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/medium",
+  "scraped_at": "2026-04-05T14:14:14.736278",
+  "classified_at": "2026-04-05T14:14:14.736278",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

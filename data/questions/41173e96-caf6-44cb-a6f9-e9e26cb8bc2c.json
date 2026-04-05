@@ -1,0 +1,25 @@
+{
+  "id": "41173e96-caf6-44cb-a6f9-e9e26cb8bc2c",
+  "question_text": "A student measures the density of an irregular rock by water displacement. The rock has a mass of 150 g. When placed in a measuring cylinder, the water level rises from 40 cm\u00b3 to 100 cm\u00b3. What is the density of the rock in g/cm\u00b3?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "displacement",
+    "calculation",
+    "measurement"
+  ],
+  "options": null,
+  "correct_answer": "2.5 g/cm\u00b3",
+  "explanation": "The volume of the rock is found by water displacement: 100 cm\u00b3 \u2212 40 cm\u00b3 = 60 cm\u00b3. Using density = mass \u00f7 volume: density = 150 \u00f7 60 = 2.5 g/cm\u00b3.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/medium",
+  "scraped_at": "2026-04-05T14:14:26.513057",
+  "classified_at": "2026-04-05T14:14:26.513057",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

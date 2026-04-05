@@ -1,0 +1,25 @@
+{
+  "id": "afb9a8d1-5c92-4160-9275-1ca2ed7d388e",
+  "question_text": "A hydroelectric dam stores 500 million cubic metres of water behind it. The water drops 80 metres to the turbines. A student claims this dam produces the same amount of energy regardless of how fast the water flows. Is the student correct? Explain your answer using relevant physics concepts.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "hydroelectric",
+    "potential energy",
+    "power vs energy",
+    "energy resources"
+  ],
+  "options": null,
+  "correct_answer": "No, the student is incorrect. The total gravitational potential energy available depends only on the mass of water and height (E = mgh), not flow rate. However, the rate of energy transfer (power) depends on how fast water flows through the turbines. Faster flow = more power output, even though total available energy is the same.",
+  "explanation": "This question tests understanding that energy and power are different concepts. The potential energy available is fixed by the water volume and height, but power (energy per unit time) increases with faster flow. A slower flow rate produces less power output over the same time period.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/hard",
+  "scraped_at": "2026-04-05T14:13:53.232869",
+  "classified_at": "2026-04-05T14:13:53.232869",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

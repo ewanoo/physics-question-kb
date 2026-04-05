@@ -1,0 +1,44 @@
+{
+  "id": "8209fbfc-cb1d-437e-8239-ca0c3c9f4199",
+  "question_text": "What is the formula for calculating energy efficiency?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy efficiency",
+    "formula"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "efficiency = total input \u00f7 useful output \u00d7 100%",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "efficiency = useful output \u00f7 total input \u00d7 100%",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "efficiency = useful output + total input \u00d7 100%",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "efficiency = total input - useful output \u00d7 100%",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "efficiency = useful output \u00f7 total input \u00d7 100%",
+  "explanation": "Energy efficiency is calculated by dividing the useful energy output by the total energy input and multiplying by 100 to get a percentage. This shows what fraction of the input energy is actually used for its intended purpose.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/easy",
+  "scraped_at": "2026-04-05T14:14:08.358854",
+  "classified_at": "2026-04-05T14:14:08.358854",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ec7ba4b2-2d55-4b02-acf9-8676d3a4ae08",
+  "question_text": "An electric heater has a total energy input of 5000 J. It converts 4000 J into useful heat energy and the rest is wasted as sound. Calculate the efficiency of the heater and determine what percentage of energy is wasted.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy efficiency",
+    "calculation",
+    "waste energy"
+  ],
+  "options": null,
+  "correct_answer": "Efficiency = 4000 \u00f7 5000 \u00d7 100% = 80%. Wasted energy = 5000 - 4000 = 1000 J, which is 20% (or 100% - 80% = 20%).",
+  "explanation": "Apply the efficiency formula: useful output (4000 J) \u00f7 total input (5000 J) \u00d7 100% = 80%. The wasted energy is the difference (1000 J), which represents 20% of the input. This shows that 80% of the energy is used usefully and 20% is wasted as sound.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T14:14:08.358854",
+  "classified_at": "2026-04-05T14:14:08.358854",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

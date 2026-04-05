@@ -1,0 +1,25 @@
+{
+  "id": "501fe6e9-9a0b-4955-a0e9-ddb889e28bef",
+  "question_text": "A wooden block has a density of 0.6 g/cm\u00b3 and water has a density of 1.0 g/cm\u00b3. Explain why the wooden block will float in water.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "The wooden block has a lower density than water, so it is less dense. Objects that are less dense than the liquid they are placed in will float because they are lighter for their size.",
+  "explanation": "Objects float when their density is lower than the density of the liquid they are in. Since wood (0.6 g/cm\u00b3) is less dense than water (1.0 g/cm\u00b3), the wood floats to the surface.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/medium",
+  "scraped_at": "2026-04-05T14:14:26.513057",
+  "classified_at": "2026-04-05T14:14:26.513057",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5d4b7b4e-ea6f-498f-9784-93f4e524c014",
+  "question_text": "Explain why day length changes throughout the year. In your answer, refer to the axial tilt of the Earth.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "length_of_day",
+    "axial_tilt",
+    "seasons"
+  ],
+  "options": null,
+  "correct_answer": "The Earth's axial tilt of 23.5\u00b0 causes different parts of the Earth to receive different amounts of daylight as the Earth orbits the Sun. When a hemisphere is tilted towards the Sun, it experiences longer days because more of the hemisphere is exposed to sunlight. When tilted away, it experiences shorter days.",
+  "explanation": "The key concept is that the 23.5\u00b0 tilt means the day/night terminator (the line between day and night) cuts through the Earth at different angles as it orbits. When your hemisphere tilts towards the Sun, the terminator intersects your latitude at a shallower angle, giving a longer day. The reverse happens when tilted away.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/medium",
+  "scraped_at": "2026-04-05T14:14:01.068993",
+  "classified_at": "2026-04-05T14:14:01.068993",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

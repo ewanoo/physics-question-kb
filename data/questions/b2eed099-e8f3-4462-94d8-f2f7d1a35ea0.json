@@ -1,0 +1,45 @@
+{
+  "id": "b2eed099-e8f3-4462-94d8-f2f7d1a35ea0",
+  "question_text": "A distance-time graph shows a straight line that is gradually getting less steep over time. What does this tell us about the object's speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "speed",
+    "interpretation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object is speeding up (accelerating)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The object is moving at a constant speed",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The object is slowing down (decelerating)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The object has stopped moving",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The object is slowing down (decelerating)",
+  "explanation": "On a distance-time graph, a less steep line means less distance is covered in the same time interval, so the speed is decreasing. A line that gradually becomes less steep shows the object is slowing down.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.speed/hard",
+  "scraped_at": "2026-04-05T14:13:38.154625",
+  "classified_at": "2026-04-05T14:13:38.154625",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

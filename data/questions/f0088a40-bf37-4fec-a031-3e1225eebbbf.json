@@ -1,0 +1,24 @@
+{
+  "id": "f0088a40-bf37-4fec-a031-3e1225eebbbf",
+  "question_text": "A teenage boy needs approximately 9,600 kJ of energy per day. A slice of bread provides 800 kJ of energy. How many slices of bread would he need to eat to meet his daily energy requirement?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy requirements",
+    "food energy",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "12 slices",
+  "explanation": "Divide the total daily energy requirement by the energy per slice: 9,600 kJ \u00f7 800 kJ = 12 slices. This shows that we need a variety of foods to meet our energy needs, not just bread.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/medium",
+  "scraped_at": "2026-04-05T14:14:14.736278",
+  "classified_at": "2026-04-05T14:14:14.736278",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

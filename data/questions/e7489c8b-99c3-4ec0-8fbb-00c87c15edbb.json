@@ -1,0 +1,44 @@
+{
+  "id": "e7489c8b-99c3-4ec0-8fbb-00c87c15edbb",
+  "question_text": "What is the gravitational field strength on Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field strength",
+    "Earth"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "5 N/kg",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "10 N/kg",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "20 N/kg",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "100 N/kg",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "10 N/kg",
+  "explanation": "The gravitational field strength on Earth is defined as 10 N/kg. This is used in the formula weight = mass \u00d7 g to calculate the weight of objects.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T14:14:31.846771",
+  "classified_at": "2026-04-05T14:14:31.846771",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

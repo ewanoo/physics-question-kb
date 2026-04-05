@@ -1,0 +1,24 @@
+{
+  "id": "c2a81368-9a37-4f4e-a69d-8c4211b7f5b8",
+  "question_text": "A container holds 200 g of water at 25\u00b0C. It is heated until 40 g of water evaporates. The remaining liquid is cooled and then frozen completely. Calculate the total mass of ice formed. (Assume no other substances are lost.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "freezing",
+    "conservation_of_mass"
+  ],
+  "options": null,
+  "correct_answer": "160 g",
+  "explanation": "Starting mass: 200 g. After evaporation: 200 g - 40 g = 160 g of water remains. Freezing is a physical change that only changes the state, not the mass. Therefore, 160 g of water becomes 160 g of ice. Evaporation and freezing are both physical changes, so the mass of the remaining substance is conserved.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/hard",
+  "scraped_at": "2026-04-05T14:13:45.989906",
+  "classified_at": "2026-04-05T14:13:45.989906",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

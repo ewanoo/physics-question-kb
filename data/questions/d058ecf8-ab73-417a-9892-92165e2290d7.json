@@ -1,0 +1,24 @@
+{
+  "id": "d058ecf8-ab73-417a-9892-92165e2290d7",
+  "question_text": "A student collects data from stretching a spring and plots a force-extension graph. The graph is a straight line up to 8 N, then curves upward sharply. Explain what the sharp curve indicates and what it means for the spring.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic_limit",
+    "force_extension_graph",
+    "hookes_law_limits"
+  ],
+  "options": null,
+  "correct_answer": "The sharp curve shows that the elastic limit has been exceeded. Beyond this point, the spring is undergoing inelastic deformation and will not return to its original length when the force is removed.",
+  "explanation": "When a force-extension graph is linear, Hooke's Law is being obeyed. When the graph curves sharply, it indicates the elastic limit has been reached. Beyond the elastic limit, the spring deforms permanently (inelastically) and does not fully recover its shape.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/hard",
+  "scraped_at": "2026-04-05T14:14:20.846191",
+  "classified_at": "2026-04-05T14:14:20.846191",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

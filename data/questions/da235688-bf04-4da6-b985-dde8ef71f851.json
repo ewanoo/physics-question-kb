@@ -1,0 +1,23 @@
+{
+  "id": "da235688-bf04-4da6-b985-dde8ef71f851",
+  "question_text": "A student heats a piece of copper metal in air using a Bunsen burner. The copper surface gradually turns black. Explain why this is a chemical change and not a physical change.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "chemical_changes",
+    "signs_of_chemical_change"
+  ],
+  "options": null,
+  "correct_answer": "A new substance (copper oxide) is formed. The copper reacts with oxygen in the air, creating a completely different material with different properties. Physical changes only alter the state or appearance but don't create new substances.",
+  "explanation": "This demonstrates a chemical change because a new substance (copper oxide) is produced through a chemical reaction. A physical change would only change the appearance or state without creating a new substance. The black coating has different properties from the original copper.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/medium",
+  "scraped_at": "2026-04-05T14:13:45.989906",
+  "classified_at": "2026-04-05T14:13:45.989906",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dcf564d7-b0ba-469c-91c4-8ad8a55db6bb",
+  "question_text": "A spring has a spring constant of 40 N/m. Calculate the force needed to extend the spring by 0.5 m. Use the equation F = ke.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "force_extension"
+  ],
+  "options": null,
+  "correct_answer": "20 N",
+  "explanation": "Using F = ke, where k = 40 N/m and e = 0.5 m: F = 40 \u00d7 0.5 = 20 N. Remember to include the unit (Newtons) in your answer.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/medium",
+  "scraped_at": "2026-04-05T14:14:20.846191",
+  "classified_at": "2026-04-05T14:14:20.846191",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

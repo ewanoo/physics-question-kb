@@ -1,0 +1,23 @@
+{
+  "id": "8af46f3f-9e07-46db-9296-5ff9a936a640",
+  "question_text": "Describe two ways that we can reduce waste energy in a home. For each method, explain why it reduces waste energy.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "reducing waste energy",
+    "insulation"
+  ],
+  "options": null,
+  "correct_answer": "Accept any two from: (1) Insulation (e.g. loft insulation, wall insulation, draught excluders) - reduces heat loss through walls, roof, windows/doors so less energy wasted as heat. (2) Using LED bulbs instead of incandescent bulbs - LED bulbs convert more of the electrical energy into light rather than heat, so less energy wasted as unwanted heat. (3) Lagging pipes - reduces heat loss from hot water pipes. (4) Double glazing - reduces heat loss through windows. (5) Turning off appliances/lights when not in use - prevents energy being wasted unnecessarily.",
+  "explanation": "Any two valid methods with correct explanations should be accepted. Key point is that reducing waste energy means either preventing energy loss (insulation) or using devices that waste less energy (LEDs).",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/medium",
+  "scraped_at": "2026-04-05T14:14:08.358854",
+  "classified_at": "2026-04-05T14:14:08.358854",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

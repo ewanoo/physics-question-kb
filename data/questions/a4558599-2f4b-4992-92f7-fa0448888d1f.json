@@ -1,0 +1,24 @@
+{
+  "id": "a4558599-2f4b-4992-92f7-fa0448888d1f",
+  "question_text": "A student walks 400 metres in 8 minutes, and then runs 600 metres in 4 minutes. Explain why the student's average speed for the entire journey is not the same as their running speed.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "relative speed",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Average speed uses the total distance and total time for the entire journey. Walking speed = 400\u00f78 = 50 m/min, running speed = 600\u00f74 = 150 m/min, but average speed = (400+600)\u00f7(8+4) = 1000\u00f712 = 83.3 m/min. This is different from running speed because the student spent time walking at a slower speed, which brings down the overall average.",
+  "explanation": "Average speed is calculated using total distance and total time for the whole journey, not just the fastest part. Since the student walked at a slower speed for part of the journey, this reduces their average speed compared to their running speed.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.speed/medium",
+  "scraped_at": "2026-04-05T14:13:38.154625",
+  "classified_at": "2026-04-05T14:13:38.154625",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "dba677fa-c756-4234-9af2-14889243f7e3",
+  "question_text": "What does the spring constant (k) tell us about a spring?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "spring_constant",
+    "hookes_law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How much the spring weighs",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How stiff the spring is",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "How long the spring is",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How many times the spring can be stretched",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "How stiff the spring is",
+  "explanation": "The spring constant (k) measures the stiffness of a spring. A larger k means the spring is stiffer and requires more force to extend it by the same amount.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/easy",
+  "scraped_at": "2026-04-05T14:14:20.846191",
+  "classified_at": "2026-04-05T14:14:20.846191",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

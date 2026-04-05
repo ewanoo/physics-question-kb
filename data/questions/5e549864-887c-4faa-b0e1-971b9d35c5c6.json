@@ -1,0 +1,44 @@
+{
+  "id": "5e549864-887c-4faa-b0e1-971b9d35c5c6",
+  "question_text": "Which of the following is a physical change?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "physical_changes",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Burning wood to produce ash and smoke",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Melting ice to form water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Rusting of iron in moist air",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Cooking an egg until it becomes solid",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Melting ice to form water",
+  "explanation": "Melting is a physical change because the water molecules remain the same\u2014only the state changes from solid to liquid. Burning, rusting, and cooking are all chemical changes because they create completely new substances.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/easy",
+  "scraped_at": "2026-04-05T14:13:45.989906",
+  "classified_at": "2026-04-05T14:13:45.989906",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
