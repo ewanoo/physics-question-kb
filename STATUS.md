@@ -133,12 +133,24 @@
 - Total questions: 1,689 (up from 1,659)
 - All subtopics now have 50-53 questions each (minimum: 50)
 
-## Statistics (Session 12 — CURRENT)
-- **Total questions in DB**: 1,689
+### Session 13 (agent — 2026-04-05)
+- Rebuilt DB from 1,689 committed question JSON files (all subtopics at 50-53 each)
+- Identified subtopics with lowest totals (50 questions): electricity.current_voltage, forces.moments,
+  forces.balanced, matter.gas_pressure, waves.em_spectrum, waves.colour, waves.properties
+- Generated **51 new questions** in 2 batches targeting weakest subtopics + difficulty combos:
+  - Batch 1 (33 q): electricity.current_voltage easy/hard, forces.moments medium, forces.balanced easy/hard,
+    matter.gas_pressure easy, waves.colour easy/hard, waves.properties easy/hard, waves.em_spectrum easy/hard
+  - Batch 2 (18 q): forces.balanced hard (retry), energy.power easy/hard, forces.speed easy,
+    matter.density easy, space.solar_system medium
+- Total questions: 1,740 JSON files (DB needs rebuild)
+- All subtopics now have 51-56 questions each
+
+## Statistics (Session 13 — CURRENT)
+- **Total questions (JSON files)**: 1,740
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy=546+, medium=567+, hard=546+ (all >= 50)
-- **Min questions per subtopic**: 50 (all 33 subtopics at 50-53)
+- **By difficulty**: easy=560+, medium=580+, hard=560+ (all >= 50)
+- **Min questions per subtopic**: 51 (all 33 subtopics well above minimum)
 - **Mean quality score**: 4.67
 
 ## Scraper Status
