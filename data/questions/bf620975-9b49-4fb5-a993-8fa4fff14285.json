@@ -1,0 +1,24 @@
+{
+  "question_text": "A student sets up a circuit with a 12V battery connected to a resistor. An ammeter shows the current is 0.5A. Using Ohm's law (V=IR), calculate the resistance of the resistor.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "resistance_calculation",
+    "V=IR"
+  ],
+  "options": null,
+  "correct_answer": "24\u03a9",
+  "explanation": "Using Ohm's law V=IR, we need to rearrange to find R. R = V\u00f7I = 12V \u00f7 0.5A = 24\u03a9. This means the resistor opposes the flow of electrical charge by 24 ohms.",
+  "quality_score": 5,
+  "id": "bf620975-9b49-4fb5-a993-8fa4fff14285",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "scraped_at": "2026-04-05T10:09:16.901133",
+  "classified_at": "2026-04-05T10:09:16.901146",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "On the spring equinox (21 March), night and day are roughly equal length (12 hours each) across most of the Earth. However, on 21 May (about 61 days later), in London (51.5\u00b0N), the Sun rises at approximately 04:43 and sets at 21:07. Calculate: (a) the length of daylight on 21 May, and (b) explain why daylight is significantly longer than on the equinox, despite the Sun's daily path across the sky being geometrically similar in length.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "daylight hours",
+    "equinox",
+    "Earth's orbit",
+    "latitude effects"
+  ],
+  "options": null,
+  "correct_answer": "(a) From 04:43 to 21:07 is 16 hours and 24 minutes (or 16.4 hours). (b) Although the Sun travels a similar circular arc across the sky each day, as the Northern Hemisphere tilts more towards the Sun between March and May, the Sun's daily path becomes higher and more northward. This means the Sun spends more time above the horizon in the Northern Hemisphere\u2014it rises in the northeast (not due east) and sets in the northwest (not due west), stretching the sunlit period.",
+  "explanation": "Between the spring equinox and late May, Earth's tilt causes the Northern Hemisphere to lean increasingly towards the Sun. This doesn't change the Sun's orbital path much, but it does change where the Sun rises and sets relative to locations at higher latitudes like London. The Sun follows a higher, longer arc across the northern sky, so it stays above the horizon for much longer than 12 hours. By the summer solstice (21 June), this effect is maximised, giving the longest day of the year.",
+  "quality_score": 5,
+  "id": "0c73b721-69a2-4382-ad42-f36d132d167b",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/hard",
+  "scraped_at": "2026-04-05T10:08:31.325960",
+  "classified_at": "2026-04-05T10:08:31.325962",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

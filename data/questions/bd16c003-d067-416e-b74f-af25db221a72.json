@@ -1,0 +1,24 @@
+{
+  "question_text": "Describe what happens when a sound wave travels from air into water. Does it speed up or slow down?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "speed in different media",
+    "sound properties",
+    "wave behaviour"
+  ],
+  "options": null,
+  "correct_answer": "The sound wave speeds up when entering water. Sound travels faster in denser media like water than in air.",
+  "explanation": "Sound travels at different speeds depending on the material it moves through. In water, particles are closer together and more densely packed than in air, so sound waves travel faster through water (about 1500 m/s) compared to air (about 340 m/s).",
+  "quality_score": 4,
+  "id": "bd16c003-d067-416e-b74f-af25db221a72",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/easy",
+  "scraped_at": "2026-04-05T10:07:40.267023",
+  "classified_at": "2026-04-05T10:07:40.267025",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

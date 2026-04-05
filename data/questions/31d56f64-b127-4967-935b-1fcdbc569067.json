@@ -1,0 +1,25 @@
+{
+  "question_text": "A light bulb is rated at 60 W. Of the electrical energy supplied, 5 W is converted to useful light energy and the rest is converted to heat. A student uses the light bulb for 2 hours. Calculate: (a) the total electrical energy supplied in joules, and (b) the percentage of energy wasted as heat. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "power calculation",
+    "wasted energy",
+    "efficiency"
+  ],
+  "options": null,
+  "correct_answer": "(a) 432,000 J (or 4.32 \u00d7 10\u2075 J); (b) 91.67% (or approximately 92%)",
+  "explanation": "To find total energy, you multiply power by time: 60 W \u00d7 (2 \u00d7 3600) seconds = 432,000 J. To find percentage wasted, you calculate how much energy becomes heat (55 W out of 60 W) and divide by total: (55 \u00f7 60) \u00d7 100 = 91.67%. This shows that most of the electrical energy is wasted as unwanted heat, not converted to useful light.",
+  "quality_score": 5,
+  "id": "31d56f64-b127-4967-935b-1fcdbc569067",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/hard",
+  "scraped_at": "2026-04-05T10:09:23.724092",
+  "classified_at": "2026-04-05T10:09:23.724103",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

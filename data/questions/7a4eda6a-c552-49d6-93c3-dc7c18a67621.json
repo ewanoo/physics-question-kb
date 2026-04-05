@@ -1,0 +1,45 @@
+{
+  "question_text": "During a thunderstorm, a lightning strike occurs between a storm cloud and the ground. Which statement best explains why this happens?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "lightning",
+    "charge separation",
+    "electrical discharge"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The storm cloud becomes positively charged and the ground becomes negatively charged, so a huge electric current flows between them.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The storm cloud becomes negatively charged and the ground becomes positively charged, so a huge electric current flows between them to neutralise the charges.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Lightning occurs because the air inside the cloud is moving very fast and creates friction.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The storm cloud loses all its electrons, leaving it with no charge, and this causes lightning.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Storm clouds become negatively charged through friction between water droplets and ice crystals. The ground becomes positively charged by induction. The large potential difference causes a massive electrical discharge (lightning) that neutralises both charges.",
+  "quality_score": 5,
+  "id": "7a4eda6a-c552-49d6-93c3-dc7c18a67621",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.static/medium",
+  "scraped_at": "2026-04-05T10:07:17.331585",
+  "classified_at": "2026-04-05T10:07:17.331587",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

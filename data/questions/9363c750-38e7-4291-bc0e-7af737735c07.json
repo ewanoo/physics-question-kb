@@ -1,0 +1,24 @@
+{
+  "question_text": "A ship uses sonar to detect an underwater object. The sound wave travels down through seawater at 1500 m/s, bounces off an object, and returns to the ship. The total time taken is 4 seconds. Calculate the distance from the ship to the object.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "echo",
+    "speed of sound",
+    "distance calculation"
+  ],
+  "options": null,
+  "correct_answer": "3000 m",
+  "explanation": "The sound travels down to the object and back up again, so the total distance travelled is speed \u00d7 time = 1500 \u00d7 4 = 6000 m. Since this is the round trip, the distance to the object is 6000 \u00f7 2 = 3000 m. Remember: echo problems always involve a return journey!",
+  "quality_score": 5,
+  "id": "9363c750-38e7-4291-bc0e-7af737735c07",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/hard",
+  "scraped_at": "2026-04-05T10:07:45.420008",
+  "classified_at": "2026-04-05T10:07:45.420018",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

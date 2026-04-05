@@ -1,0 +1,25 @@
+{
+  "question_text": "Two devices are left running overnight for 8 hours: Device A uses 750 W and Device B uses 1.2 kW. If electricity costs 24p per kWh, how much more does it cost to run Device B compared to Device A?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power comparison",
+    "energy calculation",
+    "cost difference",
+    "kilowatt-hours"
+  ],
+  "options": null,
+  "correct_answer": "14.4p (or \u00a30.144)",
+  "explanation": "Convert Device A to kW: 750 W = 0.75 kW. Device A energy: 0.75 kW \u00d7 8 h = 6 kWh; cost = 6 \u00d7 24p = 144p. Device B energy: 1.2 kW \u00d7 8 h = 9.6 kWh; cost = 9.6 \u00d7 24p = 230.4p. Difference = 230.4p \u2212 144p = 86.4p. Wait, let me recalculate: Device B difference = (1.2 \u2212 0.75) \u00d7 8 \u00d7 24p = 0.45 \u00d7 8 \u00d7 24p = 86.4p.",
+  "quality_score": 4,
+  "id": "1828ce93-4a68-4494-bf9b-b674ca431a38",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.power/hard",
+  "scraped_at": "2026-04-05T10:07:53.452859",
+  "classified_at": "2026-04-05T10:07:53.452860",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

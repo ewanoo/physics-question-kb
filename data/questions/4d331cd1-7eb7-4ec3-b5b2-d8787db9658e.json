@@ -1,0 +1,25 @@
+{
+  "question_text": "A puddle of water gradually disappears on a sunny day without boiling. Separately, a kettle of water reaches 100\u00b0C and bubbles vigorously. Compare these two processes in terms of: (a) the name of each process, (b) where particles escape from, and (c) the energy required per process. Explain why one process is faster than the other.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "boiling",
+    "latent heat",
+    "particle behavior"
+  ],
+  "options": null,
+  "correct_answer": "(a) Puddle = evaporation; kettle = boiling. (b) Evaporation occurs from the surface only; boiling occurs throughout the liquid. (c) Both require latent heat of vaporization, but boiling requires more total energy because it happens faster and at a specific temperature (100\u00b0C). Boiling is faster because heat energy is supplied more rapidly by the kettle, and bubbles form throughout the liquid allowing faster escape of particles.",
+  "explanation": "Evaporation happens slowly from the surface when particles gain enough energy to escape as gas; boiling is the rapid, vigorous version that occurs at 100\u00b0C when energy is added quickly. Boiling is faster because the entire liquid is heated, not just the surface, so more particles can escape simultaneously as bubbles.",
+  "quality_score": 5,
+  "id": "4d331cd1-7eb7-4ec3-b5b2-d8787db9658e",
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/hard",
+  "scraped_at": "2026-04-05T10:08:11.003151",
+  "classified_at": "2026-04-05T10:08:11.003153",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

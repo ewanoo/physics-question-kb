@@ -1,0 +1,25 @@
+{
+  "question_text": "A cyclist accelerates uniformly from rest, reaching 8 m/s after 4 seconds. They then maintain this speed for 6 seconds before decelerating uniformly to a stop over 5 seconds. Draw or describe a speed-time graph for this journey and calculate the total distance travelled during all three stages.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "speed-time graphs",
+    "acceleration",
+    "area under graph",
+    "multi-stage motion"
+  ],
+  "options": null,
+  "correct_answer": "Stage 1 (acceleration): distance = \u00bd \u00d7 8 \u00d7 4 = 16 m. Stage 2 (constant speed): distance = 8 \u00d7 6 = 48 m. Stage 3 (deceleration): distance = \u00bd \u00d7 8 \u00d7 5 = 20 m. Total distance = 16 + 48 + 20 = 84 m. Graph shows a triangle rising to 8 m/s over 4s, a flat line at 8 m/s for 6s, then a triangle falling to 0 m/s over 5s.",
+  "explanation": "On a speed-time graph, the area under the line represents distance. You must calculate the area of each section separately: two triangles (for acceleration and deceleration) and a rectangle (for constant speed), then add them together. Understanding that acceleration means the velocity is changing helps you find the distance using the triangle area formula.",
+  "quality_score": 5,
+  "id": "34406095-00cc-4ab2-a94d-ae6c5aa4cb03",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.speed/hard",
+  "scraped_at": "2026-04-05T10:09:29.461264",
+  "classified_at": "2026-04-05T10:09:29.461267",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

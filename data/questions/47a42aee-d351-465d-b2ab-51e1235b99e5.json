@@ -1,0 +1,45 @@
+{
+  "question_text": "Light travels from air into a glass block. Which statement correctly describes what happens to the light?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light bending",
+    "boundaries"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The light speeds up and bends away from the normal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The light slows down and bends towards the normal",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The light slows down and bends away from the normal",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The light continues at the same speed and does not bend",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When light enters a denser material like glass from air, it slows down because the material has a higher refractive index. As light slows down, it bends towards the normal (the perpendicular line to the surface). This is refraction.",
+  "quality_score": 5,
+  "id": "47a42aee-d351-465d-b2ab-51e1235b99e5",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.light/medium",
+  "scraped_at": "2026-04-05T10:07:34.972634",
+  "classified_at": "2026-04-05T10:07:34.972636",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A student heats 500 g of ice at 0\u00b0C until it completely melts to water at 0\u00b0C. The latent heat of fusion for ice is 334,000 J/kg. Calculate the energy required for this process, then explain why the temperature does not increase during melting even though energy is being supplied.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "latent heat",
+    "melting",
+    "energy calculation",
+    "state change"
+  ],
+  "options": null,
+  "correct_answer": "167,000 J (or 167 kJ). The temperature remains constant during melting because all the supplied energy is used to break the bonds holding particles in fixed positions in the solid structure, rather than increasing the kinetic energy of the particles.",
+  "explanation": "To find energy, multiply mass (in kg) by latent heat: 0.5 kg \u00d7 334,000 J/kg = 167,000 J. During a change of state, energy goes into rearranging particles rather than making them move faster, which is what temperature measures.",
+  "quality_score": 5,
+  "id": "853cea31-91e9-4ee6-85d9-86307d1fa160",
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/hard",
+  "scraped_at": "2026-04-05T10:08:11.002918",
+  "classified_at": "2026-04-05T10:08:11.002928",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

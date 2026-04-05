@@ -1,0 +1,25 @@
+{
+  "question_text": "The Earth is tilted at 23.5\u00b0 to its orbital plane. On 21 June (summer solstice in the Northern Hemisphere), the North Pole is tilted directly towards the Sun. Using this information, explain why:\n(a) The Northern Hemisphere experiences summer\n(b) The Southern Hemisphere experiences winter\n(c) The length of daylight is longest in the Northern Hemisphere on this date",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "solstice",
+    "seasonal variation",
+    "daylight hours"
+  ],
+  "options": null,
+  "correct_answer": "(a) The North Pole tilts towards the Sun, so the Northern Hemisphere receives more direct (concentrated) sunlight and the Sun is higher in the sky, delivering more energy per unit area. (b) When the North Pole tilts towards the Sun, the South Pole tilts away, so the Southern Hemisphere receives less direct sunlight at a lower angle, resulting in winter. (c) The tilt means locations in the Northern Hemisphere are on the sunlit side of Earth for longer during each 24-hour rotation, so daylight hours are longer than darkness.",
+  "explanation": "The Earth's 23.5\u00b0 tilt is the key to understanding seasons. When the Northern Hemisphere tilts towards the Sun, it receives more direct sunlight (which is more concentrated and energetic), experiences higher Sun angles in the sky, and has longer days. Meanwhile, the Southern Hemisphere tilts away and gets the opposite effect. This tilt remains fixed as Earth orbits, so the seasons reverse every six months.",
+  "quality_score": 5,
+  "id": "2f95428d-dff9-46bf-ada7-b9e47f4dc68c",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/hard",
+  "scraped_at": "2026-04-05T10:08:31.325742",
+  "classified_at": "2026-04-05T10:08:31.325752",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

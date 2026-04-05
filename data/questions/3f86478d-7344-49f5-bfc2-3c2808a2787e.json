@@ -1,0 +1,25 @@
+{
+  "question_text": "A car of mass 1200 kg is travelling at constant velocity on a motorway. The driving force from the engine is 2400 N. A strong wind then exerts a horizontal force of 800 N against the direction of motion. The driver immediately increases the engine force to 3200 N to maintain the same velocity. Calculate the magnitude of the friction and air resistance forces acting on the car before the wind started blowing.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "Newton's first law",
+    "equilibrium",
+    "friction"
+  ],
+  "options": null,
+  "correct_answer": "2400 N",
+  "explanation": "Since the car is moving at constant velocity, it is in equilibrium and the resultant force is zero. This means the driving force must equal the total resistance forces (friction and air resistance combined). Therefore, friction and air resistance = 2400 N. When the wind starts, the driver must increase engine force to 3200 N to balance the wind force (800 N) plus the original resistance (2400 N), which equals 3200 N total resistance.",
+  "quality_score": 5,
+  "id": "3f86478d-7344-49f5-bfc2-3c2808a2787e",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.balanced/hard",
+  "scraped_at": "2026-04-05T10:08:04.746301",
+  "classified_at": "2026-04-05T10:08:04.746312",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

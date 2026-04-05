@@ -1,0 +1,25 @@
+{
+  "question_text": "A student draws two Sankey diagrams for different appliances: Appliance A converts 100 J of input energy with an arrow of 80 J for useful energy and 20 J for wasted heat. Appliance B converts 100 J of input energy with an arrow of 30 J for useful energy and 70 J for wasted heat. Explain which appliance is more efficient and use the principle of conservation of energy to explain why the total output energy (useful + wasted) must equal the input energy in both cases.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "Sankey diagrams",
+    "energy efficiency",
+    "conservation principle",
+    "energy transfers"
+  ],
+  "options": null,
+  "correct_answer": "Appliance A is more efficient (80% compared to 30%). The total output equals input energy in both cases because energy cannot be created or destroyed\u2014it can only be transferred or converted from one form to another. Even though some energy is 'wasted' as heat, it still exists; it's just not in a useful form. Therefore, 100 J in always produces 100 J out (80 J + 20 J for A, and 30 J + 70 J for B).",
+  "explanation": "Efficiency is the proportion of input energy converted to useful energy: Appliance A = 80/100 = 80%, Appliance B = 30/100 = 30%. The conservation of energy law states that energy cannot disappear\u2014it must go somewhere. Even 'wasted' heat energy still counts toward the total output, which is why input always equals useful energy plus wasted energy.",
+  "quality_score": 5,
+  "id": "cb035b12-351e-4c0a-aa5b-2bd7aa66707f",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/hard",
+  "scraped_at": "2026-04-05T10:09:23.724335",
+  "classified_at": "2026-04-05T10:09:23.724337",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "A student compares ultrasound waves (frequency 40 000 Hz) with normal hearing sound (frequency 5000 Hz). Both travel through air at the same speed of 330 m/s. Which statement correctly compares these waves?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "ultrasound",
+    "frequency",
+    "wavelength",
+    "wave equation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The ultrasound has a longer wavelength and a higher pitch than the hearing sound.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The ultrasound has a shorter wavelength and a higher pitch than the hearing sound.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The ultrasound has a shorter wavelength but lower pitch than the hearing sound.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The ultrasound has the same wavelength as the hearing sound because they travel at the same speed.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Using wave speed = frequency \u00d7 wavelength, the ultrasound with higher frequency must have a shorter wavelength (since speed is constant). Higher frequency also means higher pitch. You can calculate: ultrasound wavelength = 330 \u00f7 40,000 = 0.00825 m, while hearing sound wavelength = 330 \u00f7 5000 = 0.066 m, confirming the ultrasound wavelength is much shorter.",
+  "quality_score": 5,
+  "id": "eb360a5a-0951-48d4-872d-48ea99a3d0bf",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/hard",
+  "scraped_at": "2026-04-05T10:07:45.420265",
+  "classified_at": "2026-04-05T10:07:45.420268",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

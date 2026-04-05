@@ -1,0 +1,25 @@
+{
+  "question_text": "A household uses a 2.4 kW electric shower for 8 minutes per day. Electricity costs 28p per kWh. Calculate the total cost of using this shower for 30 days.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "energy cost",
+    "kilowatt-hours",
+    "electricity bills"
+  ],
+  "options": null,
+  "correct_answer": "\u00a31.61 (or 161p)",
+  "explanation": "First, convert 8 minutes to hours: 8 \u00f7 60 = 0.133 hours. Energy per day = 2.4 kW \u00d7 0.133 h = 0.32 kWh. Energy for 30 days = 0.32 \u00d7 30 = 9.6 kWh. Cost = 9.6 kWh \u00d7 28p = 268.8p = \u00a32.69. (Common error: students may forget to convert minutes to hours, or multiply by the wrong time period.)",
+  "quality_score": 5,
+  "id": "3b5e0c56-ae39-4eca-be54-56cf7eb6a524",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.power/hard",
+  "scraped_at": "2026-04-05T10:07:53.452658",
+  "classified_at": "2026-04-05T10:07:53.452670",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

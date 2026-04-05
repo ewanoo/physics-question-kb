@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is the main disadvantage of using solar panels to generate electricity in the UK?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "solar power",
+    "advantages disadvantages"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They produce no electricity at night and generate less in winter when days are shorter",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "They cause pollution when manufacturing the panels",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "They require constant fuel input like fossil fuels do",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They are too heavy to install on most buildings",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The UK has limited sunlight, especially in winter, so solar panels are less reliable here than in sunnier countries. This intermittency is a key challenge for renewable energy sources in the UK.",
+  "quality_score": 5,
+  "id": "c3d28f72-d3e5-427a-a6fa-33241f66e77a",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/medium",
+  "scraped_at": "2026-04-05T10:07:23.833293",
+  "classified_at": "2026-04-05T10:07:23.833295",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

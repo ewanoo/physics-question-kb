@@ -1,0 +1,24 @@
+{
+  "question_text": "A wire is heated to a high temperature. Explain why the resistance of the wire increases when it is heated.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "resistance",
+    "temperature",
+    "particle_motion"
+  ],
+  "options": null,
+  "correct_answer": "When the wire is heated, the atoms vibrate more vigorously. These vibrating atoms collide more frequently with the electrons moving through the wire, causing greater opposition to the flow of current, so resistance increases.",
+  "explanation": "Heat makes atoms in the wire vibrate faster. When electrons try to move through the wire to carry current, they bump into these vibrating atoms more often, which slows them down and increases resistance. This is why light bulbs get hot\u2014the resistance of the filament increases as it heats up.",
+  "quality_score": 5,
+  "id": "bb1aab41-f89a-47d8-b0ad-f2b5398d12b1",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "scraped_at": "2026-04-05T10:09:16.901364",
+  "classified_at": "2026-04-05T10:09:16.901366",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

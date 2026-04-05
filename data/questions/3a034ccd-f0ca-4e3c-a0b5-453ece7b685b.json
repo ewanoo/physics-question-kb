@@ -1,0 +1,24 @@
+{
+  "question_text": "A coal-fired power station burns 500 kg of coal per hour. If coal releases 25 MJ of energy per kilogram when burned, how much total energy is released in one hour?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "energy calculation",
+    "non-renewable"
+  ],
+  "options": null,
+  "correct_answer": "12,500 MJ (or 12.5 GJ)",
+  "explanation": "To find the total energy, multiply the mass of coal by the energy released per kilogram: 500 kg \u00d7 25 MJ/kg = 12,500 MJ. This shows how much chemical energy is available from burning fossil fuels.",
+  "quality_score": 5,
+  "id": "3a034ccd-f0ca-4e3c-a0b5-453ece7b685b",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/medium",
+  "scraped_at": "2026-04-05T10:07:23.833076",
+  "classified_at": "2026-04-05T10:07:23.833086",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

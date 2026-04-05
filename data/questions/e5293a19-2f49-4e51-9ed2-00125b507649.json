@@ -1,0 +1,46 @@
+{
+  "question_text": "Pluto was reclassified from a planet to a dwarf planet in 2006. Which of the following best explains why Pluto no longer meets the definition of a planet?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "dwarf planets",
+    "Pluto",
+    "classification",
+    "Solar System"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pluto is too small and does not have enough gravity to clear its orbital path of other objects",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Pluto is made of ice instead of rock, so it cannot be classified as a planet",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Pluto orbits the Sun too slowly compared to the eight main planets",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pluto does not have any moons orbiting around it",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "A planet must orbit the Sun, be massive enough to be round, and clear its orbital path of other debris. Pluto fails the third requirement because it shares its orbital region with many other icy objects in the Kuiper Belt and hasn't cleared them away. This is why it's now classified as a dwarf planet instead.",
+  "quality_score": 5,
+  "id": "e5293a19-2f49-4e51-9ed2-00125b507649",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/medium",
+  "scraped_at": "2026-04-05T10:09:39.621215",
+  "classified_at": "2026-04-05T10:09:39.621220",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

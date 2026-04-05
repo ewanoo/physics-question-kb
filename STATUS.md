@@ -172,12 +172,25 @@
 - Total questions: 1,906
 - Min subtopic count: 55 (electricity.magnets, electricity.static, energy.resources, waves.sound)
 
-## Statistics (Session 16 — CURRENT)
-- **Total questions (JSON files)**: 1,906
+### Session 17 (agent — 2026-04-05)
+- Rebuilt DB from 1,906 committed question JSON files (all subtopics 55-62)
+- Identified 16 difficulty/subtopic combos at 17-18 questions (weakest slots)
+- Generated **46 new questions** in 2 batches targeting all weak combos:
+  - Batch 1 (36 q): electricity.static/medium, energy.resources/medium, waves.em_spectrum/medium,
+    waves.light/medium (×3 each at 17); waves.sound/easy+hard, energy.power/easy+hard,
+    forces.gravity/hard, forces.balanced/hard, matter.changes/hard, electricity.magnets/easy+medium,
+    forces.moments/easy, space.seasons/hard, space.gravity/easy (×2 each at 18)
+  - Batch 2 (10 q): electricity.current_voltage/medium, energy.conservation/hard,
+    forces.speed/hard, matter.density/medium, space.solar_system/medium (×2 each, remaining 18-slots)
+- Total questions: 1,952 (up from 1,906)
+- All 99 difficulty/subtopic slots now have ≥19 questions each (minimum raised from 17)
+
+## Statistics (Session 17 — CURRENT)
+- **Total questions (JSON files)**: 1,952
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy=615+, medium=611+, hard=613+ (all >= 50)
-- **Min questions per subtopic**: 55 (all 33 subtopics well above minimum)
+- **By difficulty**: easy=650+, medium=648+, hard=650+ (all >= 50)
+- **Min questions per difficulty+subtopic slot**: 19
 - **Mean quality score**: 4.70
 
 ## Scraper Status
@@ -191,7 +204,7 @@
 
 ## Completion Criteria Check
 - [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [x] `python -m src.cli.query stats` shows 1,839 questions (>= 500)
+- [x] `python -m src.cli.query stats` shows 1,952 questions (>= 500)
 - [x] All 33 subtopics have >= 5 questions each (minimum is 53 per subtopic)
 - [x] Difficulty distribution: easy=590+, medium=620+, hard=590+ (all >= 50)
 - [x] 3 sources represented (>= 3 required)

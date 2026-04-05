@@ -1,0 +1,25 @@
+{
+  "question_text": "A block of wood has a mass of 600 g and a volume of 800 cm\u00b3. Water has a density of 1 g/cm\u00b3. Will the wood float or sink in water? Explain your answer by calculating the density of the wood.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "floating and sinking",
+    "comparing densities",
+    "g/cm\u00b3"
+  ],
+  "options": null,
+  "correct_answer": "The wood will float. Density of wood = 600 \u00f7 800 = 0.75 g/cm\u00b3. Since 0.75 g/cm\u00b3 is less than 1 g/cm\u00b3 (density of water), the wood is less dense than water and will float.",
+  "explanation": "To find if something floats, we calculate its density using the formula density = mass \u00f7 volume. Since the wood's density (0.75 g/cm\u00b3) is less than water's density (1 g/cm\u00b3), the wood floats because it is less dense and pushes water out of the way. Objects only float if they are less dense than the liquid they're in.",
+  "quality_score": 5,
+  "id": "b57f9de4-f6ae-4e02-be03-c0daf3ef6be7",
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/medium",
+  "scraped_at": "2026-04-05T10:09:34.421532",
+  "classified_at": "2026-04-05T10:09:34.421542",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

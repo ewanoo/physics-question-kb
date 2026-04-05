@@ -1,0 +1,25 @@
+{
+  "question_text": "The ancient geocentric model placed Earth at the centre of the Solar System. Explain why the heliocentric model is now accepted by scientists, and name one piece of evidence that helped replace the geocentric model.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "geocentric",
+    "heliocentric",
+    "models",
+    "evidence"
+  ],
+  "options": null,
+  "correct_answer": "The heliocentric model is accepted because observations (such as Venus showing phases, or moons orbiting Jupiter) provide evidence that Earth is not at the centre. The heliocentric model better explains the motion of planets and is simpler.",
+  "explanation": "Scientists rejected the geocentric model when they made observations that couldn't be explained if Earth was at the centre. For example, telescopes showed that Venus has phases like the Moon, which only makes sense if Venus orbits the Sun, not Earth. The heliocentric model explained observations more simply and accurately.",
+  "quality_score": 5,
+  "id": "32b92474-3448-4bb6-9822-7cebe80ba13d",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/medium",
+  "scraped_at": "2026-04-05T10:09:39.620922",
+  "classified_at": "2026-04-05T10:09:39.620932",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is a ferromagnetic material that can be made into a permanent magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "ferromagnetic materials",
+    "permanent magnets",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Iron",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Aluminium",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Copper",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Plastic",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Iron is a ferromagnetic material, which means it can be strongly magnetised and made into a permanent magnet. Aluminium, copper, and plastic are not ferromagnetic and cannot be made into permanent magnets.",
+  "quality_score": 5,
+  "id": "f41ea35b-d6f7-488f-b896-c0840417eae9",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.magnets/easy",
+  "scraped_at": "2026-04-05T10:08:14.450288",
+  "classified_at": "2026-04-05T10:08:14.450307",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

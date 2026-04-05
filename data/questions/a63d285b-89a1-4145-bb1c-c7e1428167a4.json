@@ -1,0 +1,45 @@
+{
+  "question_text": "Two planets have the same gravitational field strength of 10 N/kg. Planet A has a mass of 6 \u00d7 10\u00b2\u2074 kg and Planet B has a mass of 3 \u00d7 10\u00b2\u2074 kg. A 50 kg object is placed on each planet. Which of the following statements is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass vs weight",
+    "gravitational field strength",
+    "weight"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object weighs more on Planet A because Planet A has greater mass.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The object weighs the same on both planets because gravitational field strength is the same on both.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The object weighs more on Planet B because the smaller planet exerts stronger gravity on nearby objects.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object's mass is different on each planet, so its weight must be different.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Weight depends on both mass and gravitational field strength, calculated using W = mg. Since both planets have g = 10 N/kg and the object has the same mass (50 kg) on each planet, the weight is 50 \u00d7 10 = 500 N on both. The planet's total mass doesn't directly affect the gravitational field strength at its surface in this case\u2014what matters is the field strength itself.",
+  "quality_score": 5,
+  "id": "a63d285b-89a1-4145-bb1c-c7e1428167a4",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.gravity/hard",
+  "scraped_at": "2026-04-05T10:07:58.922860",
+  "classified_at": "2026-04-05T10:07:58.922861",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A bar magnet is broken in half. What happens to the two pieces?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "magnetic poles",
+    "magnet properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Each piece becomes a magnet with one north pole and one south pole",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "One piece has both poles and the other piece has no magnetic properties",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both pieces lose all their magnetic properties",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "One piece becomes a north pole and one becomes a south pole",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "When you break a magnet, you don't separate the poles\u2014instead, each piece develops its own north and south pole. This is because magnetism comes from the alignment of electrons throughout the entire material, not from two separate poles at the ends.",
+  "quality_score": 5,
+  "id": "b0be645b-ed72-4fa7-afaa-60173dcd4218",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.magnets/medium",
+  "scraped_at": "2026-04-05T10:08:19.129318",
+  "classified_at": "2026-04-05T10:08:19.129331",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

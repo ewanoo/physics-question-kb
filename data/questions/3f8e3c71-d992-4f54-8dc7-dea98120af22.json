@@ -1,0 +1,24 @@
+{
+  "question_text": "A student uses a compass near a ferromagnetic iron nail that is not magnetised. The compass needle does not move. She then repeatedly strikes the nail with a hammer in a north-south direction. Explain why the compass needle now deflects towards the nail.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "ferromagnetic materials",
+    "temporary magnets",
+    "magnetic field"
+  ],
+  "options": null,
+  "correct_answer": "The repeated striking in a north-south direction aligns the magnetic domains in the iron nail. This turns the nail into a temporary magnet, which creates a magnetic field around it that affects the compass needle.",
+  "explanation": "Iron is ferromagnetic, meaning its internal magnetic domains (tiny atomic magnets) can be aligned in the same direction. Striking in the direction of Earth's magnetic field helps align these domains, creating a temporary magnet. The magnetic field around this magnetised nail then causes the compass needle to move.",
+  "quality_score": 5,
+  "id": "3f8e3c71-d992-4f54-8dc7-dea98120af22",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.magnets/medium",
+  "scraped_at": "2026-04-05T10:08:19.129603",
+  "classified_at": "2026-04-05T10:08:19.129606",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

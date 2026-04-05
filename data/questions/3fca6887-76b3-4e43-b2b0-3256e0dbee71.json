@@ -1,0 +1,25 @@
+{
+  "question_text": "A microwave oven heats food by emitting microwaves with a frequency of 2.45 GHz. Calculate the wavelength of these microwaves. (Use the equation: wave speed = frequency \u00d7 wavelength. The speed of all electromagnetic waves is 3 \u00d7 10\u2078 m/s)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "microwaves",
+    "wavelength",
+    "calculation",
+    "frequency"
+  ],
+  "options": null,
+  "correct_answer": "0.122 m (or 12.2 cm)",
+  "explanation": "To find wavelength, rearrange the equation to: wavelength = wave speed \u00f7 frequency. First convert 2.45 GHz to 2.45 \u00d7 10\u2079 Hz. Then: wavelength = (3 \u00d7 10\u2078) \u00f7 (2.45 \u00d7 10\u2079) = 0.122 m. This wavelength matches the size needed to excite water molecules in food.",
+  "quality_score": 5,
+  "id": "3fca6887-76b3-4e43-b2b0-3256e0dbee71",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "scraped_at": "2026-04-05T10:07:30.008900",
+  "classified_at": "2026-04-05T10:07:30.008914",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

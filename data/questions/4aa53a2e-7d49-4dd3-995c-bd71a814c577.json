@@ -1,0 +1,45 @@
+{
+  "question_text": "What is the SI unit of power?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "units",
+    "SI"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Joule",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Watt",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Newton",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ampere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The watt (W) is the standard SI unit for measuring power. A joule is a unit of energy, a newton is a unit of force, and an ampere is a unit of electric current. Power measures how quickly energy is transferred or used.",
+  "quality_score": 5,
+  "id": "4aa53a2e-7d49-4dd3-995c-bd71a814c577",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.power/easy",
+  "scraped_at": "2026-04-05T10:07:48.647718",
+  "classified_at": "2026-04-05T10:07:48.647729",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

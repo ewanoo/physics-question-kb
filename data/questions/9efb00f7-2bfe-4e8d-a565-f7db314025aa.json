@@ -1,0 +1,24 @@
+{
+  "question_text": "What happens when the north pole of one magnet is brought close to the north pole of another magnet?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic poles",
+    "attraction and repulsion",
+    "magnet behaviour"
+  ],
+  "options": null,
+  "correct_answer": "The magnets repel each other (or push away from each other)",
+  "explanation": "Like magnetic poles (north to north or south to south) always repel each other and push apart. Only opposite poles (north to south) attract and pull towards each other.",
+  "quality_score": 5,
+  "id": "9efb00f7-2bfe-4e8d-a565-f7db314025aa",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.magnets/easy",
+  "scraped_at": "2026-04-05T10:08:14.450520",
+  "classified_at": "2026-04-05T10:08:14.450522",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

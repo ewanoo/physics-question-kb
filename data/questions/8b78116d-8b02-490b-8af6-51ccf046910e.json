@@ -1,0 +1,24 @@
+{
+  "question_text": "Two identical containers are filled with different liquids. Container A has liquid with a density of 0.8 g/cm\u00b3 and Container B has liquid with a density of 1.2 g/cm\u00b3. A steel ball with a density of 7.8 g/cm\u00b3 is placed in each container. What will happen to the steel ball in each container?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density comparison",
+    "floating and sinking",
+    "applied reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The steel ball will sink in both containers. In Container A, the ball (7.8 g/cm\u00b3) is denser than the liquid (0.8 g/cm\u00b3), so it sinks. In Container B, the ball (7.8 g/cm\u00b3) is also denser than the liquid (1.2 g/cm\u00b3), so it sinks in both cases.",
+  "explanation": "An object sinks when its density is greater than the density of the liquid it's placed in. Since the steel ball (7.8 g/cm\u00b3) is much denser than both liquids, it will sink in both containers. The density of the liquid doesn't need to be exactly the same as the object\u2014only the comparison matters.",
+  "quality_score": 5,
+  "id": "8b78116d-8b02-490b-8af6-51ccf046910e",
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/medium",
+  "scraped_at": "2026-04-05T10:09:34.421752",
+  "classified_at": "2026-04-05T10:09:34.421754",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

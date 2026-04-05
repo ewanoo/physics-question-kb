@@ -1,0 +1,24 @@
+{
+  "question_text": "A convex lens is used as a magnifying glass to view a coin. Explain why the coin appears larger when viewed through the lens.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "convex lens",
+    "refraction",
+    "magnification"
+  ],
+  "options": null,
+  "correct_answer": "The convex lens refracts (bends) light rays towards the normal as they enter the lens, causing the rays to converge. This creates a magnified virtual image of the coin. The curved shape of the lens causes light to bend more than a flat surface would, making the image appear larger.",
+  "explanation": "A convex lens has curved sides that refract light inwards. When light from the coin passes through the lens, it bends towards the centre, making the light rays spread out as if they came from a larger object. Your eye sees these spread-out rays and interprets them as a bigger image.",
+  "quality_score": 5,
+  "id": "baa730d6-effb-4893-994f-565bf3001e1a",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.light/medium",
+  "scraped_at": "2026-04-05T10:07:34.972737",
+  "classified_at": "2026-04-05T10:07:34.972738",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

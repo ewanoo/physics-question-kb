@@ -1,0 +1,45 @@
+{
+  "question_text": "What is the name of the region in a sound wave where particles are pushed close together?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "compression",
+    "longitudinal waves",
+    "sound structure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Rarefaction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Compression",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Amplitude",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Wavelength",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In a sound wave, particles vibrate back and forth. A compression is the part where particles are squeezed together closely. The opposite region, where particles are spread apart, is called a rarefaction.",
+  "quality_score": 5,
+  "id": "fe2f34f1-2190-49be-ab7a-966dd65995f1",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/easy",
+  "scraped_at": "2026-04-05T10:07:40.266778",
+  "classified_at": "2026-04-05T10:07:40.266788",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

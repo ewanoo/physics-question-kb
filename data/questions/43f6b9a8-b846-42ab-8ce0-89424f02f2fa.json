@@ -1,0 +1,24 @@
+{
+  "question_text": "Name the three classes of levers and give one everyday example of a Class 1 lever.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "classes of levers",
+    "examples",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "The three classes are: Class 1 (pivot in the middle), Class 2 (load in the middle), and Class 3 (effort in the middle). Example of Class 1: a seesaw, crowbar, scissors, or plank over a rock.",
+  "explanation": "Levers are grouped into three classes based on the position of the pivot (fulcrum), the effort (force applied), and the load (object being moved). A seesaw is a common Class 1 lever because the pivot is between the two people pushing down.",
+  "quality_score": 4,
+  "id": "43f6b9a8-b846-42ab-8ce0-89424f02f2fa",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.moments/easy",
+  "scraped_at": "2026-04-05T10:08:23.054991",
+  "classified_at": "2026-04-05T10:08:23.054992",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

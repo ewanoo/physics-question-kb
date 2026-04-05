@@ -1,0 +1,25 @@
+{
+  "question_text": "Two spheres, X and Y, are dropped simultaneously from the same height in a vacuum chamber where air resistance is negligible. Sphere X has a mass of 0.5 kg and sphere Y has a mass of 2 kg. Both experience the same gravitational force per unit mass (g = 10 m/s\u00b2). Using F = ma and Newton's second law, explain why both spheres hit the ground at the same time, and calculate the acceleration of each sphere.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's second law",
+    "F=ma",
+    "acceleration",
+    "gravity"
+  ],
+  "options": null,
+  "correct_answer": "Both spheres accelerate at 10 m/s\u00b2. Sphere X experiences a gravitational force of 5 N (F = 0.5 \u00d7 10), and sphere Y experiences 20 N (F = 2 \u00d7 10). Using a = F/m: sphere X has a = 5/0.5 = 10 m/s\u00b2 and sphere Y has a = 20/2 = 10 m/s\u00b2. Since both have the same acceleration, they take the same time to fall.",
+  "explanation": "Even though sphere Y is heavier and experiences a larger gravitational force, its greater mass means the same acceleration results. Newton's second law (F = ma) shows that when force increases proportionally with mass, acceleration stays constant. This is why all objects fall at the same rate in a vacuum.",
+  "quality_score": 5,
+  "id": "daf1ac67-a5c8-4e27-99b1-7deff772ca84",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.balanced/hard",
+  "scraped_at": "2026-04-05T10:08:04.746530",
+  "classified_at": "2026-04-05T10:08:04.746532",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

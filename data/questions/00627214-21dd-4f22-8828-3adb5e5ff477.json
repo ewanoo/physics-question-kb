@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following correctly ranks three types of electromagnetic radiation in order of increasing wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "wavelength",
+    "ordering",
+    "spectrum"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves, infrared, visible light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "X-rays, ultraviolet, visible light",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gamma rays, X-rays, radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Visible light, microwaves, infrared",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The electromagnetic spectrum is ordered by wavelength from shortest to longest: gamma rays, X-rays, ultraviolet, visible light, infrared, microwaves, and radio waves. Option B correctly shows X-rays (shortest) \u2192 ultraviolet \u2192 visible light (longest), in increasing order of wavelength.",
+  "quality_score": 5,
+  "id": "00627214-21dd-4f22-8828-3adb5e5ff477",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "scraped_at": "2026-04-05T10:07:30.009162",
+  "classified_at": "2026-04-05T10:07:30.009165",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

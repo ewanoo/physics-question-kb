@@ -1,0 +1,45 @@
+{
+  "question_text": "A moment is the turning effect of a force. Which of the following is the correct formula for calculating a moment?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "formula",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Moment = force \u00f7 distance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Moment = force \u00d7 distance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Moment = force + distance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Moment = distance \u00f7 force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "A moment is calculated by multiplying the force applied by the perpendicular distance from the pivot point. The further away the force is applied from the pivot, the greater the turning effect (moment).",
+  "quality_score": 5,
+  "id": "2fae36d7-1d58-4313-b945-755c2b646369",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.moments/easy",
+  "scraped_at": "2026-04-05T10:08:23.054762",
+  "classified_at": "2026-04-05T10:08:23.054771",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

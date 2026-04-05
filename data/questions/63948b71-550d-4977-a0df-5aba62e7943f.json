@@ -1,0 +1,25 @@
+{
+  "question_text": "A car travels 120 km in the first 2 hours, then 80 km in the next 1.5 hours. A motorbike travels at a constant speed of 60 km/h for the entire 3.5 hours. Calculate the difference between the car's average speed and the motorbike's speed, and explain which vehicle travels further overall.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "distance-time calculations",
+    "multi-step problem",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Car's average speed = 200 km \u00f7 3.5 hours = 57.14 km/h. Motorbike's speed = 60 km/h. Difference = 60 - 57.14 = 2.86 km/h (motorbike faster). Motorbike travels 210 km (60 \u00d7 3.5), car travels 200 km, so the motorbike travels 10 km further.",
+  "explanation": "You need to find the car's total distance (120 + 80 = 200 km) and divide by total time to get average speed. Compare this to the motorbike's constant speed, then calculate how far each travels to see which covers more ground. This requires multiple steps and understanding that average speed isn't the same as constant speed.",
+  "quality_score": 5,
+  "id": "63948b71-550d-4977-a0df-5aba62e7943f",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.speed/hard",
+  "scraped_at": "2026-04-05T10:09:29.461007",
+  "classified_at": "2026-04-05T10:09:29.461018",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

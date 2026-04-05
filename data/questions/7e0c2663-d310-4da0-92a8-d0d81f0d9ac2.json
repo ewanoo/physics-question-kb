@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement best describes what keeps a satellite orbiting Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "satellites",
+    "orbital motion",
+    "gravitational force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The satellite is pushed by engines that fire continuously to keep it moving",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Earth's gravity pulls the satellite towards it, but the satellite's forward motion makes it keep missing Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The satellite is held up by the atmosphere pushing against it",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The satellite orbits because it is weightless and floats around Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "A satellite orbits because gravity constantly pulls it downward (towards Earth), but the satellite is also moving sideways very quickly. This combination means the satellite is always falling towards Earth, but it keeps missing it and curves around instead\u2014creating a stable orbit.",
+  "quality_score": 5,
+  "id": "7e0c2663-d310-4da0-92a8-d0d81f0d9ac2",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T10:08:36.006350",
+  "classified_at": "2026-04-05T10:08:36.006351",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

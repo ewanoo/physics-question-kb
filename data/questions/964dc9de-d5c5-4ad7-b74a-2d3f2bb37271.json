@@ -1,0 +1,24 @@
+{
+  "question_text": "Why do planets orbit around the Sun rather than floating away into space?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational attraction",
+    "planetary orbits",
+    "why planets orbit"
+  ],
+  "options": null,
+  "correct_answer": "The Sun's gravity pulls on the planets, keeping them in orbit. The planet's forward motion balances this pull, creating a stable circular (or elliptical) path.",
+  "explanation": "Gravity is a force of attraction between all objects with mass. The Sun's huge mass creates a strong gravitational pull that keeps planets in their orbits. If gravity didn't exist, planets would fly off in straight lines, but gravity constantly pulls them inward, making them curve around the Sun.",
+  "quality_score": 5,
+  "id": "964dc9de-d5c5-4ad7-b74a-2d3f2bb37271",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T10:08:36.006143",
+  "classified_at": "2026-04-05T10:08:36.006154",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
