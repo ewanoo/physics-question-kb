@@ -251,11 +251,23 @@
 - Total questions: 2,431 (up from 2,370)
 - All 99 difficulty/subtopic slots now have ≥23 questions each (min raised from 21)
 
-## Statistics (Session 22 — CURRENT)
-- **Total questions (JSON files)**: 2,431
+### Session 23 (agent — 2026-04-05)
+- Rebuilt DB from 2,431 committed question JSON files (all 99 slots at ≥23 each)
+- Identified 7 weakest subtopics (70-71 total): energy.resources=70, matter.states=70,
+  energy.efficiency=71, energy.food=71, forces.springs=71, matter.gas_pressure=71, space.gravity=71
+- Generated **54 new questions** in 4 batches targeting the weakest subtopics:
+  - Batch 1 (12 q): energy.resources easy/hard, matter.states medium
+  - Batch 2 (13 q): matter.states hard, energy.efficiency easy/hard
+  - Batch 3 (12 q): energy.food easy/hard, forces.springs easy
+  - Batch 4 (17 q): forces.springs hard, matter.gas_pressure hard, space.gravity easy/medium
+- Total questions: 2,485 (up from 2,431)
+- New weakest subtopics: forces.balanced=72, waves.light=72, waves.properties=72
+
+## Statistics (Session 23 — CURRENT)
+- **Total questions (JSON files)**: 2,485
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~810, medium ~810, hard ~810 (all >= 50)
+- **By difficulty**: easy ~828, medium ~828, hard ~828 (all >= 50)
 - **Min questions per difficulty+subtopic slot**: 23+
 - **Mean quality score**: ~4.70
 
@@ -270,8 +282,8 @@
 
 ## Completion Criteria Check
 - [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [x] `python -m src.cli.query stats` shows 2,046 questions (>= 500)
-- [x] All 33 subtopics have >= 5 questions each (minimum is 57 per subtopic)
+- [x] `python -m src.cli.query stats` shows 2,485 questions (>= 500)
+- [x] All 33 subtopics have >= 5 questions each (minimum is 72 per subtopic)
 - [x] Difficulty distribution: easy=590+, medium=620+, hard=590+ (all >= 50)
 - [x] 3 sources represented (>= 3 required)
 - [x] Mean quality score = 4.56 >= 3.5
