@@ -1,0 +1,24 @@
+{
+  "id": "e5f6g7h8-i9j0-51k2-l3m4-n5o6p7q8r9s0",
+  "question_text": "Define what is meant by 'wasted energy' in an energy transfer.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "wasted energy",
+    "energy efficiency",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "Wasted energy is energy that is transferred in a form that is not useful for the intended purpose, often as heat.",
+  "explanation": "Wasted energy is not 'lost' in the sense that it disappears (energy is always conserved), but rather it is transferred into forms we cannot use, such as heat escaping from a machine. This energy still exists but cannot do the job we want it to do.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:10.669071",
+  "classified_at": "2026-04-05T02:11:10.669071",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/easy",
+  "raw_html": null
+}

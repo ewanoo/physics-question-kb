@@ -1,0 +1,24 @@
+{
+  "question_text": "Two electromagnets, A and B, are made from identical wire coils and iron cores. Electromagnet A uses a 6V battery, and Electromagnet B uses a 12V battery. Both are switched on for the same time period. Which electromagnet will be stronger, and explain why in terms of current and magnetic field?",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnets",
+    "current and magnetism",
+    "voltage effects"
+  ],
+  "options": null,
+  "correct_answer": "Electromagnet B will be stronger. A higher voltage (12V) drives a larger current through the coil compared to 6V. A larger current creates a stronger magnetic field around the iron core, which causes greater induced magnetism in the iron. Therefore, electromagnet B will pick up more magnetic objects.",
+  "explanation": "Higher voltage makes more current flow through the wire, and more current creates a stronger magnetic field in the electromagnet.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0d635802-de35-445f-acca-3b59a77ab3a8",
+  "topic": "electricity.magnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:01.727157",
+  "classified_at": "2026-04-05T02:13:01.727157",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/hard",
+  "raw_html": null
+}

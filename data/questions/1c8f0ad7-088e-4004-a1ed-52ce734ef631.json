@@ -1,0 +1,25 @@
+{
+  "question_text": "An object has a weight of 200 N on Earth. Using g = 10 N/kg, what is its mass?",
+  "question_type": "calculation",
+  "tags": [
+    "weight",
+    "mass",
+    "rearrangement",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "20 kg",
+  "explanation": "To find mass from weight, rearrange W = mg to get m = W \u00f7 g. So 200 \u00f7 10 = 20 kg. This shows that mass and weight are linked by the gravitational field strength.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1c8f0ad7-088e-4004-a1ed-52ce734ef631",
+  "topic": "forces.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:46.462543",
+  "classified_at": "2026-04-05T02:13:46.462544",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/medium",
+  "raw_html": null
+}

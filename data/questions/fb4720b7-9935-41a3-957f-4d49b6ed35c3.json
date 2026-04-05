@@ -1,0 +1,24 @@
+{
+  "question_text": "A balloon is rubbed with a woollen cloth and becomes negatively charged. What does this tell us about the electrons on the balloon?",
+  "question_type": "short_answer",
+  "tags": [
+    "friction charging",
+    "positive/negative charge",
+    "everyday static examples"
+  ],
+  "options": null,
+  "correct_answer": "The balloon has gained extra electrons (or has more electrons than protons)",
+  "explanation": "A negatively charged object has more electrons than protons. When the balloon is rubbed with wool, electrons transfer from the wool to the balloon, giving it a negative charge.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "fb4720b7-9935-41a3-957f-4d49b6ed35c3",
+  "topic": "electricity.static",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:13:11.073616",
+  "classified_at": "2026-04-05T02:13:11.073618",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/easy",
+  "raw_html": null
+}

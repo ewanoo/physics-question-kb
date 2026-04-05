@@ -1,0 +1,24 @@
+{
+  "question_text": "A 1500 kg car accelerates at 2 m/s\u00b2 while being pulled by an engine force of 5000 N. Using F = ma, calculate the total resistance forces (friction and air resistance) acting against the car's motion.",
+  "question_type": "calculation",
+  "tags": [
+    "Newton's second law",
+    "resultant force",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Net force needed = ma = 1500 \u00d7 2 = 3000 N. Engine force - resistance forces = net force. Therefore: 5000 - resistance = 3000. Resistance forces = 5000 - 3000 = 2000 N.",
+  "explanation": "Newton's second law tells us the net (resultant) force needed to cause acceleration. By rearranging the equation, we can find the unknown resistance forces acting against the motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "331db87e-7581-4fb0-996e-766f35a98fd2",
+  "topic": "forces.balanced",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:36.372966",
+  "classified_at": "2026-04-05T02:13:36.372967",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/hard",
+  "raw_html": null
+}

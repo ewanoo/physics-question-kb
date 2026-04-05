@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following statements correctly describes the difference between mass and weight?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "mass",
+    "weight",
+    "definitions",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mass is measured in newtons and weight is measured in kilograms",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mass is the amount of matter in an object and does not change, while weight is the gravitational force on an object and can change",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Mass and weight are exactly the same thing",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Weight is always larger than mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Mass (measured in kg) is the amount of matter in something and stays the same everywhere. Weight (measured in N) is the force of gravity on that mass, so it changes depending on the gravitational field strength of the place you're in.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "416b3740-6e4c-44af-a946-78b6abfb052b",
+  "topic": "forces.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:46.462450",
+  "classified_at": "2026-04-05T02:13:46.462452",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/medium",
+  "raw_html": null
+}

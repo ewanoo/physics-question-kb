@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following correctly defines speed?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "speed definition",
+    "recall",
+    "fundamental concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The rate at which an object changes direction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The distance travelled divided by the time taken",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The force acting on an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total distance an object has travelled",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Speed is a measure of how fast something is moving, calculated by dividing the distance travelled by the time taken. The other options describe different physics concepts.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2d0bed1e-79cc-4bd0-bb5e-b1e6d152ab2f",
+  "topic": "forces.speed",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:55.472697",
+  "classified_at": "2026-04-05T02:13:55.472702",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/medium",
+  "raw_html": null
+}

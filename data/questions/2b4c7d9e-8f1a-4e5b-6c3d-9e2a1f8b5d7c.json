@@ -1,0 +1,45 @@
+{
+  "id": "2b4c7d9e-8f1a-4e5b-6c3d-9e2a1f8b5d7c",
+  "question_text": "In a parallel circuit, how does adding another branch affect the total current from the battery?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "parallel circuit",
+    "current",
+    "components"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total current decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The total current increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The total current stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The current in each branch increases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a parallel circuit, adding more branches provides more paths for current to flow. This reduces total resistance, so more current flows from the battery overall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:48.749628",
+  "classified_at": "2026-04-05T02:09:48.749628",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "raw_html": null
+}

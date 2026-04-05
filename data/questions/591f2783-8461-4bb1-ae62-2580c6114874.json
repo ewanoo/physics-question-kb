@@ -1,0 +1,24 @@
+{
+  "question_text": "A 2 kg ball is pushed horizontally with a force of 12 N. Friction opposing the motion is 4 N. Using F = ma, calculate the acceleration of the ball. Then explain what would happen to the acceleration if friction increased to 12 N.",
+  "question_type": "calculation",
+  "tags": [
+    "Newton's second law",
+    "resultant force",
+    "friction"
+  ],
+  "options": null,
+  "correct_answer": "Resultant force = 12 - 4 = 8 N. Acceleration = F/m = 8/2 = 4 m/s\u00b2. If friction increased to 12 N, resultant force = 12 - 12 = 0 N, so acceleration would be 0 m/s\u00b2 and the ball would move at constant velocity.",
+  "explanation": "Newton's second law (F = ma) shows that acceleration depends on the resultant force. When friction equals the pushing force, the resultant force becomes zero and there is no acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "591f2783-8461-4bb1-ae62-2580c6114874",
+  "topic": "forces.balanced",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:36.372836",
+  "classified_at": "2026-04-05T02:13:36.372837",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/hard",
+  "raw_html": null
+}

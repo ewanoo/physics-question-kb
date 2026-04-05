@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following devices typically has the highest energy efficiency?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "energy efficiency",
+    "real-world devices",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Traditional incandescent light bulb",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electric motor",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Coal power station",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Petrol engine",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Electric motors can be 85-95% efficient because they convert electrical energy directly into movement with minimal losses. In contrast, incandescent bulbs waste most energy as heat, power stations lose heat in cooling, and petrol engines waste energy as heat and in exhaust.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "b3c57233-a2df-4539-828c-36d77865db73",
+  "topic": "energy.efficiency",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:22.045146",
+  "classified_at": "2026-04-05T02:13:22.045148",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/medium",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following would be measured in newtons?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "weight",
+    "force",
+    "units",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The mass of a football",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The weight of a football",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The amount of material in a football",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How heavy the football feels to hold",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Weight is a force caused by gravity, and all forces are measured in newtons (N). Mass would be measured in kilograms (kg). 'How heavy it feels' describes weight subjectively, but the scientific measurement is in newtons.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "f5f94655-c782-4c5f-b026-0f52cfb22c38",
+  "topic": "forces.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:46.462841",
+  "classified_at": "2026-04-05T02:13:46.462842",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/medium",
+  "raw_html": null
+}

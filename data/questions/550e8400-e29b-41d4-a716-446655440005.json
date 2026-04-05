@@ -1,0 +1,45 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "question_text": "Which of the following best explains why all devices eventually transfer some energy to heat?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "heat",
+    "friction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Heat is a type of energy that is produced whenever any device operates",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction and resistance in all devices cause some energy to be transferred to heat",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Devices are designed to waste energy as heat to be environmentally friendly",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy conservation laws require that some energy must become heat",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "All real devices have friction (moving parts rubbing) and electrical resistance, which convert some of the input energy into heat energy. This is unavoidable in real devices, though we try to minimize it to improve efficiency.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:25.195374",
+  "classified_at": "2026-04-05T02:11:25.195374",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/medium",
+  "raw_html": null
+}

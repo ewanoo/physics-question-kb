@@ -1,0 +1,24 @@
+{
+  "question_text": "A car of mass 1200 kg is being pulled by a rope with a force of 800 N to the right. At the same time, friction acts with a force of 500 N to the left, and air resistance acts with a force of 200 N to the left. Calculate the resultant force on the car and determine whether it is accelerating or moving at constant velocity.",
+  "question_type": "calculation",
+  "tags": [
+    "resultant force",
+    "multiple forces",
+    "Newton's first law"
+  ],
+  "options": null,
+  "correct_answer": "Resultant force = 800 - 500 - 200 = 100 N to the right. The car is accelerating because the resultant force is not zero.",
+  "explanation": "To find the resultant force, add all forces in the same direction and subtract forces in opposite directions. When the resultant force is not zero, an object must accelerate according to Newton's first law.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c87bdafa-f7e2-49ba-8aa9-25e95515af06",
+  "topic": "forces.balanced",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:36.372372",
+  "classified_at": "2026-04-05T02:13:36.372385",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/hard",
+  "raw_html": null
+}

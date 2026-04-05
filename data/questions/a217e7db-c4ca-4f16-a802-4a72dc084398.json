@@ -1,0 +1,24 @@
+{
+  "question_text": "What is the symbol used to represent a resistor in a circuit diagram?",
+  "question_type": "short_answer",
+  "tags": [
+    "circuit symbols",
+    "resistor",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "A rectangle (or: a rectangle with zigzag lines, or: a box shape)",
+  "explanation": "A resistor is shown as a rectangle (sometimes with zigzag lines) in circuit diagrams. It represents a component that reduces the flow of current in a circuit.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a217e7db-c4ca-4f16-a802-4a72dc084398",
+  "topic": "electricity.circuits",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:12:36.455321",
+  "classified_at": "2026-04-05T02:12:36.455322",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.circuits/easy",
+  "raw_html": null
+}

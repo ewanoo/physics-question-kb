@@ -1,0 +1,24 @@
+{
+  "id": "b2c3d4e5-f6g7-48h9-i0j1-k2l3m4n5o6p7",
+  "question_text": "A light bulb transforms electrical energy into light energy and heat energy. Explain what happens to the total energy according to the law of conservation of energy.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "conservation of energy",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "The total energy remains the same. The electrical energy is transformed into light and heat, but no energy is lost or created; it is only changed into different forms.",
+  "explanation": "This question tests understanding that energy is conserved during transformation. When electrical energy enters the bulb, it is converted into light (useful energy) and heat (wasted energy), but the total amount of energy is conserved\u2014nothing is lost or gained, just transformed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:10.669071",
+  "classified_at": "2026-04-05T02:11:10.669071",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/easy",
+  "raw_html": null
+}

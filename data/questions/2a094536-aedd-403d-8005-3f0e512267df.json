@@ -1,0 +1,25 @@
+{
+  "question_text": "A student has a mass of 50 kg. What is their weight on Earth? (Use g = 10 N/kg)",
+  "question_type": "calculation",
+  "tags": [
+    "weight",
+    "mass",
+    "calculation",
+    "W=mg"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "Weight is calculated using W = mg, where m is mass in kg and g is gravitational field strength. So 50 \u00d7 10 = 500 N. Weight is always measured in newtons, not kilograms.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2a094536-aedd-403d-8005-3f0e512267df",
+  "topic": "forces.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:46.462205",
+  "classified_at": "2026-04-05T02:13:46.462218",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/medium",
+  "raw_html": null
+}

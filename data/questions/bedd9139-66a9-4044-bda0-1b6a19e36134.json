@@ -1,0 +1,44 @@
+{
+  "question_text": "Which of these is NOT an example of static electricity?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "everyday static examples",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Lightning striking during a thunderstorm",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Getting a shock from a metal door handle",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Current flowing through a light bulb",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "A balloon sticking to a wall after being rubbed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Current flowing through a light bulb is an example of moving electric current (dynamic electricity), not static electricity. Static electricity involves charges that are stationary and build up on objects.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bedd9139-66a9-4044-bda0-1b6a19e36134",
+  "topic": "electricity.static",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:13:11.073743",
+  "classified_at": "2026-04-05T02:13:11.073743",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/easy",
+  "raw_html": null
+}

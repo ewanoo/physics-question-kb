@@ -1,0 +1,24 @@
+{
+  "id": "9c4e6g03-5f0f-6d4g-be3c-7f8g0h2d4e6c",
+  "question_text": "A circuit contains a 24V power supply connected to three resistors in series with resistances of 2\u03a9, 4\u03a9, and 6\u03a9. What is the voltage across the 4\u03a9 resistor?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage_division",
+    "series_circuits",
+    "ohms_law"
+  ],
+  "options": null,
+  "correct_answer": "6.4V (or 32/5 V)",
+  "explanation": "Total resistance = 2 + 4 + 6 = 12\u03a9. Current through circuit: I = 24V \u00f7 12\u03a9 = 2A. Voltage across the 4\u03a9 resistor: V = IR = 2A \u00d7 4\u03a9 = 8V.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:36.698913",
+  "classified_at": "2026-04-05T02:09:36.698913",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "raw_html": null
+}

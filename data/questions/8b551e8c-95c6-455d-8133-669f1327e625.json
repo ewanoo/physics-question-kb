@@ -1,0 +1,24 @@
+{
+  "question_text": "A student investigates the magnetic field around a bar magnet using iron filings. The pattern shows field lines closer together near the poles and further apart in the middle. What does the spacing of the field lines tell us about the strength of the magnetic field in different regions?",
+  "question_type": "short_answer",
+  "tags": [
+    "magnetic field patterns",
+    "field line density",
+    "field strength"
+  ],
+  "options": null,
+  "correct_answer": "Where the field lines are closer together, the magnetic field is stronger. Where the field lines are further apart, the magnetic field is weaker. This is why the field is strongest at the poles (where lines are crowded) and weakest in the middle of the magnet (where lines are spread out).",
+  "explanation": "The spacing between field lines shows us the strength of the magnetic field\u2014crowded lines mean a strong field, while spread-out lines mean a weak field.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8b551e8c-95c6-455d-8133-669f1327e625",
+  "topic": "electricity.magnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:01.727008",
+  "classified_at": "2026-04-05T02:13:01.727011",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/hard",
+  "raw_html": null
+}

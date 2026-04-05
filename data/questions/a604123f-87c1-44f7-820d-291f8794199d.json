@@ -1,0 +1,25 @@
+{
+  "question_text": "A 5 kg bag of sugar has a weight of 50 N on Earth. What is the gravitational field strength?",
+  "question_type": "calculation",
+  "tags": [
+    "gravitational field strength",
+    "W=mg",
+    "rearrangement",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "10 N/kg",
+  "explanation": "Rearranging W = mg to find g: g = W \u00f7 m = 50 \u00f7 5 = 10 N/kg. This confirms the gravitational field strength on Earth is 10 N/kg.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a604123f-87c1-44f7-820d-291f8794199d",
+  "topic": "forces.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:46.462791",
+  "classified_at": "2026-04-05T02:13:46.462792",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/medium",
+  "raw_html": null
+}

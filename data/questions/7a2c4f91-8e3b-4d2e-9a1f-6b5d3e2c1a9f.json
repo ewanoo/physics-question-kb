@@ -1,0 +1,24 @@
+{
+  "id": "7a2c4f91-8e3b-4d2e-9a1f-6b5d3e2c1a9f",
+  "question_text": "A lamp has a resistance of 12 \u03a9 and a current of 2 A flowing through it. Calculate the voltage across the lamp using the equation V = IR.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "V=IR",
+    "calculation",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "24 V",
+  "explanation": "Using V = IR, we multiply the current (2 A) by the resistance (12 \u03a9) to get 24 V. This is a direct application of Ohm's law.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:48.749628",
+  "classified_at": "2026-04-05T02:09:48.749628",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "raw_html": null
+}

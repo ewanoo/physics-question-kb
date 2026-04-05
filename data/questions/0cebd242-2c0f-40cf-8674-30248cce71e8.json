@@ -1,0 +1,24 @@
+{
+  "question_text": "A magnetic compass is placed next to a wire carrying electric current. The compass needle deflects. Explain this observation using at least two scientific concepts.",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnets",
+    "magnetic field direction",
+    "induced fields"
+  ],
+  "options": null,
+  "correct_answer": "A current-carrying wire creates a magnetic field around it (electromagnetic induction). This magnetic field is strong enough to affect the compass needle, which normally aligns with Earth's magnetic field. The needle deflects because the wire's magnetic field interferes with and overpowers the weaker Earth's magnetic field at that location.",
+  "explanation": "Electric current creates its own magnetic field, and when this field is strong enough, it can push the compass needle away from North because the wire's field is stronger than Earth's field nearby.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0cebd242-2c0f-40cf-8674-30248cce71e8",
+  "topic": "electricity.magnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:01.727098",
+  "classified_at": "2026-04-05T02:13:01.727100",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "Name the circuit symbol that controls whether current can flow or not.",
+  "question_type": "short_answer",
+  "tags": [
+    "circuit symbols",
+    "switch",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "A switch (or: switch symbol)",
+  "explanation": "A switch is a device that can break or complete a circuit. When it is open, current cannot flow and bulbs will not light up. When it is closed, current can flow normally.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "33046c5a-0f22-4a44-8493-a86bd937ca2e",
+  "topic": "electricity.circuits",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:12:36.455188",
+  "classified_at": "2026-04-05T02:12:36.455189",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.circuits/easy",
+  "raw_html": null
+}

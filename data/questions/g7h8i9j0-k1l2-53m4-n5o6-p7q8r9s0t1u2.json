@@ -1,0 +1,24 @@
+{
+  "id": "g7h8i9j0-k1l2-53m4-n5o6-p7q8r9s0t1u2",
+  "question_text": "A wind turbine converts wind energy into electrical energy. Name one form of energy that is wasted in this process.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "wasted energy",
+    "renewable energy"
+  ],
+  "options": null,
+  "correct_answer": "Heat energy (or sound energy/friction energy). Accept any one of these.",
+  "explanation": "In a wind turbine, some energy is always lost as heat due to friction in the moving parts and resistance in the system. Sound from the turbine blades is also wasted energy. Although energy is conserved (it doesn't disappear), some is transferred into forms that are not useful for generating electricity.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:10.669071",
+  "classified_at": "2026-04-05T02:11:10.669071",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/easy",
+  "raw_html": null
+}

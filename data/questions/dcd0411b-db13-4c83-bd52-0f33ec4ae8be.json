@@ -1,0 +1,45 @@
+{
+  "question_text": "What happens to the brightness of bulbs when you add more bulbs in series?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "series circuits",
+    "bulbs",
+    "effect of adding components"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All bulbs get brighter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All bulbs get dimmer",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The bulbs stay the same brightness",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Only the new bulb gets dimmer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When you add more bulbs in series, the total resistance increases, so the current flowing through the circuit decreases. This means less current flows through each bulb, making them all dimmer than before.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dcd0411b-db13-4c83-bd52-0f33ec4ae8be",
+  "topic": "electricity.circuits",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:12:36.455095",
+  "classified_at": "2026-04-05T02:12:36.455097",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.circuits/easy",
+  "raw_html": null
+}

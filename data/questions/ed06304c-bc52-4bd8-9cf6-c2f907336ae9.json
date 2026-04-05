@@ -1,0 +1,24 @@
+{
+  "question_text": "A skydiver falling through the air experiences three forces: weight (downward) = 800 N, air resistance (upward) = 300 N initially, and then = 800 N after 30 seconds. Explain what happens to the skydiver's acceleration during this time and why.",
+  "question_type": "short_answer",
+  "tags": [
+    "terminal velocity",
+    "balanced forces",
+    "Newton's second law"
+  ],
+  "options": null,
+  "correct_answer": "Initially, the resultant force is 800 - 300 = 500 N downward, so the skydiver accelerates downward. After 30 seconds, air resistance equals weight (800 N upward vs 800 N downward), so the resultant force is zero and acceleration becomes zero. The skydiver reaches terminal velocity.",
+  "explanation": "When forces are unbalanced, an object accelerates in the direction of the resultant force. When air resistance increases to equal the weight, forces become balanced and the skydiver stops accelerating, moving at a constant maximum speed called terminal velocity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ed06304c-bc52-4bd8-9cf6-c2f907336ae9",
+  "topic": "forces.balanced",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:36.372771",
+  "classified_at": "2026-04-05T02:13:36.372772",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440007",
+  "question_text": "Describe what the width of the arrows in a Sankey diagram represents and explain how you can use a Sankey diagram to identify which device is more efficient.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "Sankey diagram",
+    "efficiency",
+    "energy flow"
+  ],
+  "options": null,
+  "correct_answer": "The width of the arrows represents the amount of energy being transferred. A more efficient device will have a wider arrow for useful energy output (and a narrower arrow for wasted energy) compared to a less efficient device that has more energy lost as heat.",
+  "explanation": "In a Sankey diagram, thicker arrows show more energy. If two devices receive the same input energy, the one with the thicker 'useful output' arrow and thinner 'wasted energy' arrow is more efficient because it converts more of its input into useful forms.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:25.195374",
+  "classified_at": "2026-04-05T02:11:25.195374",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/medium",
+  "raw_html": null
+}

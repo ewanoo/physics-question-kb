@@ -1,0 +1,45 @@
+{
+  "question_text": "What is the correct symbol for a battery in a circuit diagram?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "circuit symbols",
+    "battery",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A circle with a cross inside",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Two parallel lines of different lengths",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A single straight line",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A circle with an arrow",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A battery is shown as two parallel lines, with the longer line representing the positive terminal and the shorter line representing the negative terminal. This symbol tells us the battery provides electrical energy to the circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7f6c78b6-5c07-44e5-8769-c837fb0074cd",
+  "topic": "electricity.circuits",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:12:36.454714",
+  "classified_at": "2026-04-05T02:12:36.454732",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.circuits/easy",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5e2f8a3c-6b1d-4f9a-8c2e-7d4a1b5f9e3c",
+  "question_text": "A student connects a 6 V battery to a circuit with a bulb of resistance 3 \u03a9. What is the current flowing through the bulb?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "V=IR",
+    "calculation",
+    "battery"
+  ],
+  "options": null,
+  "correct_answer": "2 A",
+  "explanation": "Using I = V/R, we divide the voltage (6 V) by the resistance (3 \u03a9) to get a current of 2 A flowing through the bulb.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:48.749628",
+  "classified_at": "2026-04-05T02:09:48.749628",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "raw_html": null
+}

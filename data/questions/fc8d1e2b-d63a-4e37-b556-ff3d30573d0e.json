@@ -1,0 +1,24 @@
+{
+  "question_text": "In which direction does conventional current flow in a circuit?",
+  "question_type": "short_answer",
+  "tags": [
+    "current direction",
+    "conventional current",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "From the positive terminal of the battery to the negative terminal (or: from positive to negative)",
+  "explanation": "Conventional current is defined as flowing from the positive terminal of a battery, through the circuit, and back to the negative terminal. This is the direction we use in physics, even though electrons actually flow the opposite way.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fc8d1e2b-d63a-4e37-b556-ff3d30573d0e",
+  "topic": "electricity.circuits",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:12:36.455010",
+  "classified_at": "2026-04-05T02:12:36.455012",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.circuits/easy",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following will increase the strength of an electromagnet?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "electromagnet strength",
+    "factors affecting",
+    "coils"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Decreasing the number of coils",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increasing the current flowing through the coil",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Removing the iron core",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Using a thinner wire",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An electromagnet becomes stronger when more current flows through it because more current creates a stronger magnetic field. The number of coils, iron core, and wire thickness all affect strength, but only increasing current directly strengthens the magnet from this list.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1e374dc3-7659-410a-aa87-5d849bfbcb01",
+  "topic": "electricity.electromagnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:12:48.195935",
+  "classified_at": "2026-04-05T02:12:48.195949",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "raw_html": null
+}

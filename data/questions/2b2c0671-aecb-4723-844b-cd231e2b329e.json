@@ -1,0 +1,24 @@
+{
+  "question_text": "A Sankey diagram shows that a device receives 100 J of energy input. The diagram shows 70 J as useful output and the rest as wasted energy. What percentage of energy is wasted?",
+  "question_type": "calculation",
+  "tags": [
+    "Sankey diagrams",
+    "energy loss",
+    "percentages"
+  ],
+  "options": null,
+  "correct_answer": "30%",
+  "explanation": "If 70 J out of 100 J is useful output, then 100 - 70 = 30 J is wasted. As a percentage: 30 \u00f7 100 \u00d7 100 = 30%. Sankey diagrams show energy flows visually, with wider arrows representing more energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2b2c0671-aecb-4723-844b-cd231e2b329e",
+  "topic": "energy.efficiency",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:22.045367",
+  "classified_at": "2026-04-05T02:13:22.045368",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/medium",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A book rests on a table. The book has a weight of 25 N. Which statement best explains why the book remains stationary despite having a downward force acting on it?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "balanced forces",
+    "Newton's first law",
+    "free body diagram"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The table is not exerting any force on the book",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The normal force from the table equals the weight, creating a balanced resultant force of zero",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The book is too heavy to move, so friction prevents all motion",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravity only acts downward and there are no upward forces",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A stationary object has balanced forces where all forces cancel out. The table pushes up on the book (normal force) with exactly the same magnitude as the weight pushing down, so the resultant force is zero.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8ab7c534-ce80-40f2-871e-a28d3a713647",
+  "topic": "forces.balanced",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:36.372660",
+  "classified_at": "2026-04-05T02:13:36.372663",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "9c6d2e5f-1a4b-4c8d-7e3f-5a9b2c8d1e6f",
+  "question_text": "What happens to the current in a series circuit when you add another resistor in series?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series circuit",
+    "current",
+    "resistor"
+  ],
+  "options": null,
+  "correct_answer": "The current decreases because the total resistance increases.",
+  "explanation": "In a series circuit, adding more resistors increases the total resistance. Since V = IR and voltage stays constant in a battery, higher resistance means lower current flows through the circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:48.749628",
+  "classified_at": "2026-04-05T02:09:48.749628",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "raw_html": null
+}

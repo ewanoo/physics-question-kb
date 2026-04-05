@@ -1,0 +1,24 @@
+{
+  "id": "8b3d5f92-4e9e-5c3f-ad2b-6e7f9g1c3d5b",
+  "question_text": "In a parallel circuit, two identical resistors of 4\u03a9 each are connected across a 8V power supply. What is the total current drawn from the power supply?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "parallel_circuits",
+    "equivalent_resistance"
+  ],
+  "options": null,
+  "correct_answer": "4A",
+  "explanation": "For resistors in parallel, use 1/R_total = 1/4 + 1/4 = 2/4, so R_total = 2\u03a9. Then I = V/R = 8V \u00f7 2\u03a9 = 4A. Alternatively, find current through each resistor (2A each) and add them: 2A + 2A = 4A.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:36.698913",
+  "classified_at": "2026-04-05T02:09:36.698913",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "raw_html": null
+}

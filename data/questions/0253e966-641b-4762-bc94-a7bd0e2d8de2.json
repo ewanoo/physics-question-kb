@@ -1,0 +1,24 @@
+{
+  "question_text": "A cyclist travels 90 kilometres in 3 hours. What is the cyclist's average speed in km/h?",
+  "question_type": "calculation",
+  "tags": [
+    "average speed",
+    "kilometres per hour",
+    "v=d/t"
+  ],
+  "options": null,
+  "correct_answer": "30 km/h",
+  "explanation": "Using v = d/t, we divide 90 kilometres by 3 hours to get 30 kilometres per hour. This means the cyclist travels 30 km in every hour on average.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0253e966-641b-4762-bc94-a7bd0e2d8de2",
+  "topic": "forces.speed",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:55.472967",
+  "classified_at": "2026-04-05T02:13:55.472969",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/medium",
+  "raw_html": null
+}

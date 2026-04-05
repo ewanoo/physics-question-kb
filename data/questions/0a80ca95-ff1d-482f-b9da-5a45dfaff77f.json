@@ -1,0 +1,45 @@
+{
+  "question_text": "Two forces act on an object: Force A = 50 N to the right and Force B = 30 N to the left. A third force C is then applied. After all three forces act, the object moves at constant velocity in a straight line. What must be true about Force C?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "balanced forces",
+    "resultant force",
+    "Newton's first law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Force C must be 20 N to the right",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Force C must be 20 N to the left",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Force C can be any magnitude as long as it points left",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Force C is not needed because the object already moves at constant velocity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "For constant velocity motion, all forces must be balanced (resultant = 0). The resultant of A and B is 50 - 30 = 20 N to the right. Force C must exactly cancel this by being 20 N to the left.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0a80ca95-ff1d-482f-b9da-5a45dfaff77f",
+  "topic": "forces.balanced",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:36.372896",
+  "classified_at": "2026-04-05T02:13:36.372897",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/hard",
+  "raw_html": null
+}

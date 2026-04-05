@@ -1,0 +1,24 @@
+{
+  "id": "1d6e4f9a-7c2b-5e8d-3f1a-6b9c4e2d7f5a",
+  "question_text": "When two identical resistors are connected in series with a 12 V battery, a voltmeter placed across one resistor reads 6 V. Explain why each resistor has 6 V across it.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series circuit",
+    "voltage",
+    "resistor"
+  ],
+  "options": null,
+  "correct_answer": "In a series circuit, voltage divides equally across identical resistors. Since both resistors have the same resistance and the same current flows through both, the 12 V is split evenly (6 V each).",
+  "explanation": "The same current flows through both resistors in series, and since V = IR and the resistances are equal, the voltage drop across each must be equal. Therefore, each receives half of the 12 V supply.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:48.749628",
+  "classified_at": "2026-04-05T02:09:48.749628",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "raw_html": null
+}

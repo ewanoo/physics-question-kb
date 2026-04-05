@@ -1,0 +1,24 @@
+{
+  "question_text": "A runner completes a 400-metre race in 50 seconds. Calculate the runner's average speed.",
+  "question_type": "calculation",
+  "tags": [
+    "average speed",
+    "calculation",
+    "v=d/t"
+  ],
+  "options": null,
+  "correct_answer": "8 m/s",
+  "explanation": "Using the formula v = d/t, we divide 400 metres by 50 seconds to get 8 metres per second. This is the runner's average speed throughout the entire race.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0534b0f3-8e89-46e4-9cfe-c7bca8b91602",
+  "topic": "forces.speed",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:55.472847",
+  "classified_at": "2026-04-05T02:13:55.472849",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/medium",
+  "raw_html": null
+}

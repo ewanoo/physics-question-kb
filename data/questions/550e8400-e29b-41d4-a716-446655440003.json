@@ -1,0 +1,24 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "question_text": "Look at the Sankey diagram for an electric motor. The input is 200 J of electrical energy. The diagram shows 160 J transferred to kinetic energy and 40 J to heat energy. Explain why the motor is not 100% efficient.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "Sankey diagram",
+    "efficiency",
+    "energy loss"
+  ],
+  "options": null,
+  "correct_answer": "The motor is not 100% efficient because some of the input electrical energy (40 J) is transferred to heat energy due to friction, rather than all of it being converted to useful kinetic energy. No real device can be perfectly efficient.",
+  "explanation": "In a perfect motor, all 200 J would become kinetic energy. However, friction in the motor causes some energy to become heat. The 40 J of wasted heat shows that only 160 J out of 200 J becomes useful movement energy, making it 80% efficient.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:25.195374",
+  "classified_at": "2026-04-05T02:11:25.195374",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/medium",
+  "raw_html": null
+}

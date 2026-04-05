@@ -1,0 +1,24 @@
+{
+  "question_text": "An electromagnet has 150 coils and uses 3A of current. To make it twice as strong, what two different changes could you make?",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnet strength",
+    "factors affecting",
+    "multiple solutions"
+  ],
+  "options": null,
+  "correct_answer": "You could (1) increase the current to 6A, or (2) increase the number of coils to 300, or (3) add an iron core (if there isn't one). Any two of these methods would double the strength.",
+  "explanation": "Electromagnet strength depends on current, number of coils, and having an iron core. Doubling any of these factors (if not already maximized) will double the strength.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3459b220-76e3-402c-a981-63b96860c1bf",
+  "topic": "electricity.electromagnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:12:48.196560",
+  "classified_at": "2026-04-05T02:12:48.196561",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "raw_html": null
+}

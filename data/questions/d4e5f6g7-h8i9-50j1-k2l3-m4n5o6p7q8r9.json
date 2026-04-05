@@ -1,0 +1,45 @@
+{
+  "id": "d4e5f6g7-h8i9-50j1-k2l3-m4n5o6p7q8r9",
+  "question_text": "A roller coaster at the top of a hill has gravitational potential energy. As it moves down the hill, what happens to this energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "potential energy",
+    "kinetic energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It disappears completely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It is transformed into kinetic energy as the roller coaster moves faster",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It becomes electrical energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It stays as potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As the roller coaster descends, gravitational potential energy is converted into kinetic energy (energy of movement), making the roller coaster go faster. The total energy is conserved because potential energy transforms into kinetic energy rather than disappearing.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:10.669071",
+  "classified_at": "2026-04-05T02:11:10.669071",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/easy",
+  "raw_html": null
+}

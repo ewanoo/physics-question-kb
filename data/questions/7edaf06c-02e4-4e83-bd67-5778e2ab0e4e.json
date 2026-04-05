@@ -1,0 +1,24 @@
+{
+  "question_text": "An electromagnet has 200 coils of wire wrapped around an iron core. If you increase the number of coils to 400, how will this affect the electromagnet's strength?",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnet strength",
+    "number of coils",
+    "proportional"
+  ],
+  "options": null,
+  "correct_answer": "The electromagnet will become twice as strong (or double in strength). Doubling the number of coils doubles the magnetic field strength.",
+  "explanation": "The strength of an electromagnet is directly proportional to the number of coils. When you double the coils from 200 to 400, you double the strength because there are twice as many loops to create the magnetic field.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7edaf06c-02e4-4e83-bd67-5778e2ab0e4e",
+  "topic": "electricity.electromagnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:12:48.196201",
+  "classified_at": "2026-04-05T02:12:48.196203",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "raw_html": null
+}

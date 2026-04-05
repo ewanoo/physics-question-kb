@@ -1,0 +1,25 @@
+{
+  "question_text": "An electromagnet is connected to a 6V power supply with a current of 2A flowing through it. If you increase the voltage to 12V, what current now flows through the electromagnet (assuming the resistance stays the same)?",
+  "question_type": "calculation",
+  "tags": [
+    "current",
+    "voltage",
+    "Ohm's law",
+    "electromagnet strength"
+  ],
+  "options": null,
+  "correct_answer": "4A. Using V = IR, if V doubles and R stays the same, then I must double. So 2A \u00d7 2 = 4A.",
+  "explanation": "When you double the voltage and resistance stays the same, the current doubles according to Ohm's Law (V = IR). A stronger current makes the electromagnet stronger.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9d31a3f9-af9a-42b0-809d-c7f67b0447ca",
+  "topic": "electricity.electromagnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:12:48.196359",
+  "classified_at": "2026-04-05T02:12:48.196360",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "raw_html": null
+}

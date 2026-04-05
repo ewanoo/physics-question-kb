@@ -1,0 +1,24 @@
+{
+  "question_text": "Explain two ways you could improve the efficiency of a solar panel system.",
+  "question_type": "short_answer",
+  "tags": [
+    "improving efficiency",
+    "renewable energy",
+    "design"
+  ],
+  "options": null,
+  "correct_answer": "Any two from: Clean the panel surface to allow more light to reach the cells; Angle the panel towards the sun; Use better quality materials/newer technology; Reduce heat loss by improving insulation; Use a reflector to concentrate sunlight onto the panel.",
+  "explanation": "Solar panels lose efficiency when they're dirty (blocks light), poorly angled (receives less sunlight), or poorly designed (loses heat or doesn't absorb light well). Improving any of these factors increases the useful energy output for the same solar input.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "6e56fc02-f3f4-4787-871f-9204657ebff5",
+  "topic": "energy.efficiency",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:22.045306",
+  "classified_at": "2026-04-05T02:13:22.045307",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/medium",
+  "raw_html": null
+}

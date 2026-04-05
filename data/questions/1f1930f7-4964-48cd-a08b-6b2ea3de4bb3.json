@@ -1,0 +1,24 @@
+{
+  "question_text": "Why is an iron core more effective in an electromagnet than an air core?",
+  "question_type": "short_answer",
+  "tags": [
+    "iron core",
+    "electromagnet strength",
+    "materials"
+  ],
+  "options": null,
+  "correct_answer": "Iron is a ferromagnetic material that becomes magnetized easily and amplifies the magnetic field created by the electric current. An air core cannot be magnetized, so the iron core greatly increases the electromagnet's strength.",
+  "explanation": "Iron atoms can be aligned by the magnetic field from the coil, which adds to the overall magnetic strength. Air cannot do this, making iron cores essential for strong electromagnets.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1f1930f7-4964-48cd-a08b-6b2ea3de4bb3",
+  "topic": "electricity.electromagnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:12:48.196282",
+  "classified_at": "2026-04-05T02:12:48.196284",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "raw_html": null
+}

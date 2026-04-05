@@ -1,0 +1,45 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "question_text": "A light bulb transfers 100 J of electrical energy into 15 J of light energy and 85 J of heat energy. Which statement best describes what happens to the energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "energy transfer",
+    "light bulb"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy is lost because only 15 J becomes useful light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy is destroyed as heat so the total is not conserved",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "All 100 J is transferred into different forms of energy; none is lost",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The heat energy proves the light bulb is inefficient and breaks the conservation law",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Energy conservation means energy cannot be created or destroyed, only transferred from one form to another. The 100 J input becomes 15 J of light and 85 J of heat\u2014the total is still 100 J, so energy is conserved. The heat is 'wasted' energy in terms of usefulness, but it still exists.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:25.195374",
+  "classified_at": "2026-04-05T02:11:25.195374",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/medium",
+  "raw_html": null
+}

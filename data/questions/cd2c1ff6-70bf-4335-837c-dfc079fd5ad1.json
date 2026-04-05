@@ -1,0 +1,24 @@
+{
+  "question_text": "Name two practical applications of electromagnets and explain why an electromagnet is better than a permanent magnet for each application.",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnet applications",
+    "advantages",
+    "compare magnets"
+  ],
+  "options": null,
+  "correct_answer": "Examples: (1) Doorbells - electromagnet turns on only when needed; (2) Scrapyard crane - can pick up and release metal by switching on/off; (3) Electric motors - strength can be controlled. Any two with explanations about on/off control or adjustable strength are correct.",
+  "explanation": "Electromagnets are useful wherever you need to turn magnetism on and off, or control its strength. Permanent magnets cannot do this, so electromagnets are essential for many modern devices.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cd2c1ff6-70bf-4335-837c-dfc079fd5ad1",
+  "topic": "electricity.electromagnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:12:48.196504",
+  "classified_at": "2026-04-05T02:12:48.196505",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "raw_html": null
+}

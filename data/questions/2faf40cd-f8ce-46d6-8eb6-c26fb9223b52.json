@@ -1,0 +1,44 @@
+{
+  "question_text": "Which statement about electric charges is correct?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "positive/negative charge",
+    "attraction/repulsion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Two positive charges repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Two positive charges attract each other",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A positive charge and a negative charge repel each other",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All charges attract each other",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Like charges (both positive or both negative) repel each other, while opposite charges (positive and negative) attract each other. This is a fundamental rule of static electricity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2faf40cd-f8ce-46d6-8eb6-c26fb9223b52",
+  "topic": "electricity.static",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:13:11.073272",
+  "classified_at": "2026-04-05T02:13:11.073275",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/easy",
+  "raw_html": null
+}

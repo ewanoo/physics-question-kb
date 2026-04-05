@@ -1,0 +1,24 @@
+{
+  "question_text": "A train travels 250 metres in 10 seconds, then 300 metres in 15 seconds. Explain why you cannot simply add these speeds together to find the total average speed.",
+  "question_type": "short_answer",
+  "tags": [
+    "average speed",
+    "misconception",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "You must calculate the total distance divided by total time (550 m \u00f7 25 s = 22 m/s). You cannot add speeds because they were measured over different time periods. Average speed requires total distance and total time.",
+  "explanation": "To find average speed, you must use the total distance and total time together, not add individual speeds. The correct average speed is (250 + 300) \u00f7 (10 + 15) = 550 \u00f7 25 = 22 m/s.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "431e519e-3564-45ca-bf6d-7a446a470a84",
+  "topic": "forces.speed",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:55.473359",
+  "classified_at": "2026-04-05T02:13:55.473360",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/medium",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A car travels 120 metres in 8 seconds. What is the car's speed?",
+  "question_type": "calculation",
+  "tags": [
+    "speed calculation",
+    "distance-time",
+    "v=d/t"
+  ],
+  "options": null,
+  "correct_answer": "15 m/s",
+  "explanation": "Speed is calculated using the formula v = d/t. Dividing 120 metres by 8 seconds gives 15 metres per second. This is the distance the car covers every second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "69eeea44-c5cc-4b0d-ac2e-4771619b7715",
+  "topic": "forces.speed",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:55.472401",
+  "classified_at": "2026-04-05T02:13:55.472414",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/medium",
+  "raw_html": null
+}

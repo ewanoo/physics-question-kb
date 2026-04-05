@@ -1,0 +1,46 @@
+{
+  "question_text": "A book has a mass of 2 kg. What is its weight on Earth? (g = 10 N/kg)",
+  "question_type": "multiple_choice",
+  "tags": [
+    "weight",
+    "calculation",
+    "W=mg",
+    "everyday objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "2 N",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "12 N",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "20 N",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "200 N",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Using W = mg: Weight = 2 kg \u00d7 10 N/kg = 20 N. Remember to multiply mass by the gravitational field strength, not add or divide.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "8b70c66b-766b-45c3-af7f-72c8e7e52bd5",
+  "topic": "forces.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:46.462646",
+  "classified_at": "2026-04-05T02:13:46.462648",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/medium",
+  "raw_html": null
+}

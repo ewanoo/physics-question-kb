@@ -1,0 +1,46 @@
+{
+  "question_text": "Compare electromagnets and permanent magnets. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "electromagnet",
+    "permanent magnet",
+    "comparison",
+    "applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Permanent magnets can be switched on and off, but electromagnets cannot",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electromagnets can be switched on and off, and their strength can be controlled",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Electromagnets are always stronger than permanent magnets",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Permanent magnets need electricity to work, but electromagnets do not",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The key advantage of electromagnets is that you can control them\u2014turn them on/off with a switch and adjust strength by changing current. Permanent magnets cannot be controlled like this, making electromagnets better for many applications.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fa4de17c-5550-489d-8293-a0292ccbc50d",
+  "topic": "electricity.electromagnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:12:48.196435",
+  "classified_at": "2026-04-05T02:12:48.196436",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "raw_html": null
+}

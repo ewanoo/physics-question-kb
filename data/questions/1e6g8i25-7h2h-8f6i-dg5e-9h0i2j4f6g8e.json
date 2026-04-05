@@ -1,0 +1,24 @@
+{
+  "id": "1e6g8i25-7h2h-8f6i-dg5e-9h0i2j4f6g8e",
+  "question_text": "A light bulb has a resistance of 20\u03a9. When connected to a 5V power supply, what is the power dissipated by the bulb? (Use P = IV or P = I\u00b2R or P = V\u00b2/R)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "power",
+    "ohms_law",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "1.25W",
+  "explanation": "Using P = V\u00b2/R: P = (5V)\u00b2 \u00f7 20\u03a9 = 25 \u00f7 20 = 1.25W. Alternatively, find current first (I = 5V \u00f7 20\u03a9 = 0.25A) then use P = IV = 0.25A \u00d7 5V = 1.25W.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:36.698913",
+  "classified_at": "2026-04-05T02:09:36.698913",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "raw_html": null
+}

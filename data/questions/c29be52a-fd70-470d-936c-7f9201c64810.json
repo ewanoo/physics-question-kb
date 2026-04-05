@@ -1,0 +1,24 @@
+{
+  "question_text": "A parachutist jumps from a plane. At the moment of jump, weight = 900 N and air resistance = 100 N. After 40 seconds, weight = 900 N and air resistance = 900 N. Draw a free body diagram for each moment and explain which moment represents balanced forces and which represents unbalanced forces.",
+  "question_type": "short_answer",
+  "tags": [
+    "free body diagram",
+    "balanced vs unbalanced",
+    "terminal velocity"
+  ],
+  "options": null,
+  "correct_answer": "At jump: weight (900 N down) and air resistance (100 N up) are unbalanced, resultant = 800 N down. After 40 seconds: weight (900 N down) and air resistance (900 N up) are balanced, resultant = 0 N. Unbalanced forces cause acceleration downward; balanced forces mean the parachutist has reached terminal velocity and moves at constant speed.",
+  "explanation": "Free body diagrams show all forces acting on an object. When forces are unbalanced, there is acceleration. When they are balanced, the object moves at constant velocity or stays still.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "c29be52a-fd70-470d-936c-7f9201c64810",
+  "topic": "forces.balanced",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:36.373018",
+  "classified_at": "2026-04-05T02:13:36.373019",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.balanced/hard",
+  "raw_html": null
+}

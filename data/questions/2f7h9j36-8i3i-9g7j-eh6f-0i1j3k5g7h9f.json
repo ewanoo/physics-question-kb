@@ -1,0 +1,24 @@
+{
+  "id": "2f7h9j36-8i3i-9g7j-eh6f-0i1j3k5g7h9f",
+  "question_text": "A 6V power supply is connected to a circuit with a 2\u03a9 resistor in series with a parallel combination of a 3\u03a9 and a 6\u03a9 resistor. Calculate the total current from the power supply.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series_parallel_circuits",
+    "equivalent_resistance",
+    "ohms_law"
+  ],
+  "options": null,
+  "correct_answer": "2A",
+  "explanation": "First, find the parallel resistance: 1/R_parallel = 1/3 + 1/6 = 3/6, so R_parallel = 2\u03a9. Total resistance = 2\u03a9 + 2\u03a9 = 4\u03a9. Total current: I = 6V \u00f7 4\u03a9 = 1.5A.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:36.698913",
+  "classified_at": "2026-04-05T02:09:36.698913",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "raw_html": null
+}

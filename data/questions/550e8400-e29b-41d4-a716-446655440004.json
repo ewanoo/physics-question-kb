@@ -1,0 +1,24 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "question_text": "A mobile phone charger inputs 50 J of electrical energy. The phone battery stores 45 J of chemical energy. How much energy is wasted as heat during charging?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "energy loss",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "5 J",
+  "explanation": "By conservation of energy, the total input energy must equal useful energy stored plus wasted energy. So: 50 J = 45 J (stored) + wasted energy. Therefore, wasted energy = 50 - 45 = 5 J. This is why chargers get warm during use.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:25.195374",
+  "classified_at": "2026-04-05T02:11:25.195374",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/medium",
+  "raw_html": null
+}

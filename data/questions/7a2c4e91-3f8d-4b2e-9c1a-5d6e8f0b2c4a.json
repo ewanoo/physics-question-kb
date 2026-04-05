@@ -1,0 +1,24 @@
+{
+  "id": "7a2c4e91-3f8d-4b2e-9c1a-5d6e8f0b2c4a",
+  "question_text": "A circuit contains a 12V power supply connected to two resistors in series: one with resistance 3\u03a9 and one with resistance 6\u03a9. Calculate the current flowing through the circuit using Ohm's law (V = IR).",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "series_circuits",
+    "total_resistance"
+  ],
+  "options": null,
+  "correct_answer": "1.33A (or 4/3 A)",
+  "explanation": "First, find the total resistance in series by adding: 3\u03a9 + 6\u03a9 = 9\u03a9. Then use Ohm's law: I = V/R = 12V \u00f7 9\u03a9 = 1.33A. This current is the same throughout a series circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:36.698913",
+  "classified_at": "2026-04-05T02:09:36.698913",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "raw_html": null
+}

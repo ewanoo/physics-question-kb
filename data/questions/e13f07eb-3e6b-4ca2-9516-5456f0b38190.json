@@ -1,0 +1,24 @@
+{
+  "question_text": "Look at this distance-time graph. What does the slope (gradient) of the line tell us about the object's motion?",
+  "question_type": "short_answer",
+  "tags": [
+    "distance-time graph",
+    "slope",
+    "speed interpretation"
+  ],
+  "options": null,
+  "correct_answer": "The slope shows the speed of the object. A steeper slope means faster speed.",
+  "explanation": "On a distance-time graph, the slope or gradient of the line represents the speed of the object. A steeper line means the object covered more distance in less time, so it was moving faster.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "e13f07eb-3e6b-4ca2-9516-5456f0b38190",
+  "topic": "forces.speed",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:55.472914",
+  "classified_at": "2026-04-05T02:13:55.472915",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/medium",
+  "raw_html": null
+}

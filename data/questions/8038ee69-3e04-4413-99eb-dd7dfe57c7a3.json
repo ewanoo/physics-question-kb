@@ -1,0 +1,25 @@
+{
+  "question_text": "A crane uses an electromagnet to pick up scrap metal in a junkyard. The operator notices that on very hot days, the electromagnet becomes weaker even though the voltage remains the same. Suggest why this happens and explain the physics involved.",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnets",
+    "resistance",
+    "temperature effects",
+    "real-world application"
+  ],
+  "options": null,
+  "correct_answer": "When temperature increases, the resistance of the wire increases. This means less current flows through the wire even at the same voltage (Ohm's law: current = voltage \u00f7 resistance). With less current, the magnetic field produced by the electromagnet is weaker, so it cannot pick up as much metal.",
+  "explanation": "Heat makes the wire's resistance increase, which reduces the current flowing through it, which makes the magnetic field weaker.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8038ee69-3e04-4413-99eb-dd7dfe57c7a3",
+  "topic": "electricity.magnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:01.727211",
+  "classified_at": "2026-04-05T02:13:01.727212",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/hard",
+  "raw_html": null
+}

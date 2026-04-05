@@ -1,0 +1,24 @@
+{
+  "question_text": "In a series circuit, if the current is 2 amperes before a resistor, what is the current after the resistor?",
+  "question_type": "calculation",
+  "tags": [
+    "series circuits",
+    "current",
+    "conservation of charge"
+  ],
+  "options": null,
+  "correct_answer": "2 amperes (or: 2A)",
+  "explanation": "In a series circuit, the current is the same everywhere because charge cannot be created or destroyed. All the current that flows through one component must flow through the next component. A resistor slows down the current but doesn't change its value in a series circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "895b7ca7-78f8-4c19-985e-fcb51a57b5d8",
+  "topic": "electricity.circuits",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:12:36.455400",
+  "classified_at": "2026-04-05T02:12:36.455401",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.circuits/easy",
+  "raw_html": null
+}

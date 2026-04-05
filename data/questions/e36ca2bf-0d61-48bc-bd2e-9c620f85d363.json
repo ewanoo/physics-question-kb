@@ -1,0 +1,25 @@
+{
+  "question_text": "Explain why an astronaut's mass stays the same on the Moon but their weight changes compared to Earth.",
+  "question_type": "short_answer",
+  "tags": [
+    "mass",
+    "weight",
+    "gravitational field",
+    "Moon"
+  ],
+  "options": null,
+  "correct_answer": "Mass stays the same because it is the amount of matter in the astronaut's body, which doesn't change. Weight changes because the Moon has a weaker gravitational field than Earth, so the gravitational force (weight) on the astronaut is less.",
+  "explanation": "Mass is a property of the object itself (how much 'stuff' it contains) and never changes. Weight depends on the gravitational field strength where you are, so it changes on different planets or moons.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e36ca2bf-0d61-48bc-bd2e-9c620f85d363",
+  "topic": "forces.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:46.462730",
+  "classified_at": "2026-04-05T02:13:46.462731",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.gravity/medium",
+  "raw_html": null
+}

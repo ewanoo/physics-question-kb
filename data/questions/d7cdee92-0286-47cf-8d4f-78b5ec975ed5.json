@@ -1,0 +1,24 @@
+{
+  "question_text": "Why do modern LED light bulbs have higher efficiency than older incandescent bulbs?",
+  "question_type": "short_answer",
+  "tags": [
+    "efficiency comparison",
+    "light technology",
+    "energy conservation"
+  ],
+  "options": null,
+  "correct_answer": "LED bulbs convert a much higher proportion of electrical energy into light rather than heat. Incandescent bulbs waste about 90% of their energy as heat, while LEDs waste much less. LEDs use a different mechanism (light emission from semiconductors) rather than heating a filament.",
+  "explanation": "Incandescent bulbs work by heating a wire until it glows, which wastes enormous amounts of energy as unwanted heat. LEDs directly emit light using a semiconductor, so they're designed to produce light efficiently. This is why LEDs are better for saving energy and reducing electricity bills.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "d7cdee92-0286-47cf-8d4f-78b5ec975ed5",
+  "topic": "energy.efficiency",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:22.045690",
+  "classified_at": "2026-04-05T02:13:22.045692",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/medium",
+  "raw_html": null
+}

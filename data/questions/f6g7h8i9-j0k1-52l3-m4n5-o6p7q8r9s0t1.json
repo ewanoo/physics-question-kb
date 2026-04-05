@@ -1,0 +1,45 @@
+{
+  "id": "f6g7h8i9-j0k1-52l3-m4n5-o6p7q8r9s0t1",
+  "question_text": "A kettle uses 1000 J of electrical energy to heat water. Some of this energy heats the water (useful) and some heats the kettle itself (wasted). Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "useful and wasted energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The useful energy plus wasted energy equals less than 1000 J",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The useful energy plus wasted energy equals exactly 1000 J",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The wasted energy disappears",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Only the useful energy comes from the electricity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "According to conservation of energy, all the electrical energy (1000 J) is accounted for\u2014it is either transferred usefully (heating water) or wasted (heating the kettle). The total is always conserved; nothing is lost or created.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:10.669071",
+  "classified_at": "2026-04-05T02:11:10.669071",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/easy",
+  "raw_html": null
+}

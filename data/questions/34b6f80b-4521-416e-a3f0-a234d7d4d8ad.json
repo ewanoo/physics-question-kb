@@ -1,0 +1,24 @@
+{
+  "question_text": "A light bulb converts 60 J of electrical energy into 12 J of light energy. The rest is wasted as heat. What is the efficiency of the light bulb?",
+  "question_type": "calculation",
+  "tags": [
+    "efficiency formula",
+    "energy conversion",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "20%",
+  "explanation": "Efficiency = useful energy output \u00f7 total energy input \u00d7 100%. Here, useful output is 12 J and total input is 60 J, so 12 \u00f7 60 \u00d7 100 = 20%. This means only one-fifth of the energy becomes light; the rest becomes wasted heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "34b6f80b-4521-416e-a3f0-a234d7d4d8ad",
+  "topic": "energy.efficiency",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:22.044913",
+  "classified_at": "2026-04-05T02:13:22.044924",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/medium",
+  "raw_html": null
+}

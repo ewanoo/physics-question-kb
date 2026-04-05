@@ -1,0 +1,24 @@
+{
+  "question_text": "A microwave uses 2000 J of electrical energy to heat some food. If 1500 J of energy is transferred to the food as heat, what is the efficiency of the microwave?",
+  "question_type": "calculation",
+  "tags": [
+    "efficiency calculation",
+    "energy transfer",
+    "domestic appliances"
+  ],
+  "options": null,
+  "correct_answer": "75%",
+  "explanation": "Efficiency = useful energy output \u00f7 total energy input \u00d7 100%. The useful output is 1500 J (heat to food) and total input is 2000 J, so 1500 \u00f7 2000 \u00d7 100 = 75%. This is a relatively high efficiency because most of the electrical energy reaches the food.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6b8a64d9-84c4-445f-a0d9-1617174f2d99",
+  "topic": "energy.efficiency",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:22.045249",
+  "classified_at": "2026-04-05T02:13:22.045250",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/medium",
+  "raw_html": null
+}

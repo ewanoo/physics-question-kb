@@ -1,0 +1,45 @@
+{
+  "id": "a1b2c3d4-e5f6-47g8-h9i0-j1k2l3m4n5o6",
+  "question_text": "Which statement best describes the law of conservation of energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "law of conservation",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy can be created and destroyed easily",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy cannot be created or destroyed, only transferred or transformed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Energy is only found in moving objects",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy always stays in the same form",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The law of conservation of energy is a fundamental physics principle stating that energy cannot be created or destroyed; it can only be transferred between objects or transformed from one form to another. This means the total amount of energy in a closed system always stays the same.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:10.669071",
+  "classified_at": "2026-04-05T02:11:10.669071",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/easy",
+  "raw_html": null
+}

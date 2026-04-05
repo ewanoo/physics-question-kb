@@ -1,0 +1,24 @@
+{
+  "question_text": "Calculate the current flowing through an electromagnet if the voltage is 9V and the resistance of the coil is 3\u03a9. Then explain how doubling this current would affect the strength of the magnetic field.",
+  "question_type": "calculation",
+  "tags": [
+    "electromagnets",
+    "Ohm's law",
+    "current and field strength"
+  ],
+  "options": null,
+  "correct_answer": "Current = Voltage \u00f7 Resistance = 9V \u00f7 3\u03a9 = 3A. If the current is doubled to 6A, the magnetic field would become approximately twice as strong because magnetic field strength is directly proportional to the current flowing through the coil.",
+  "explanation": "We use Ohm's law to find the current, and then remember that more current always means a stronger magnetic field in an electromagnet.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "034e8d92-0628-44d0-a9ac-83a4706296ec",
+  "topic": "electricity.magnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:01.727263",
+  "classified_at": "2026-04-05T02:13:01.727264",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "An electromagnet is made by wrapping wire around an iron nail and connecting it to a battery. Explain why the electromagnet loses its magnetism when the battery is disconnected, but a permanent magnet does not.",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnets",
+    "induced magnetism",
+    "permanent vs temporary magnets"
+  ],
+  "options": null,
+  "correct_answer": "When the battery is connected, electric current flows through the wire and creates a magnetic field that magnetises the iron nail (induced magnetism). When the battery is disconnected, the current stops, so the magnetic field disappears and the nail loses its magnetism. A permanent magnet has atoms already aligned in one direction, so it keeps its magnetism without needing electricity.",
+  "explanation": "Electromagnets only work when electricity flows through them, but permanent magnets have their atoms already arranged to create magnetism, so they don't need electricity to keep their magnetic field.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "51c44f70-40e7-4535-b109-c2fac7451685",
+  "topic": "electricity.magnets",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:13:01.726778",
+  "classified_at": "2026-04-05T02:13:01.726790",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/hard",
+  "raw_html": null
+}

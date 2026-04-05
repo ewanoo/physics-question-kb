@@ -1,0 +1,24 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "question_text": "A kettle has an efficiency of 80%. If 2000 J of electrical energy is supplied to the kettle, how much energy is transferred to heat the water?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "efficiency",
+    "energy transfer",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "1600 J",
+  "explanation": "Efficiency = (useful energy output \u00f7 total energy input) \u00d7 100. Rearranging: useful energy = efficiency \u00d7 total energy \u00f7 100. So 80 \u00d7 2000 \u00f7 100 = 1600 J of energy heats the water. The remaining 400 J is lost to the surroundings.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:11:25.195374",
+  "classified_at": "2026-04-05T02:11:25.195374",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.conservation/medium",
+  "raw_html": null
+}

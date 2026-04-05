@@ -1,0 +1,45 @@
+{
+  "question_text": "Two objects are shown on distance-time graphs. Object A has a steep line, and Object B has a gentle slope. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "distance-time graph",
+    "speed comparison",
+    "gradient"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Object B is travelling faster than Object A",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Object A is travelling faster than Object B",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both objects are travelling at the same speed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Neither object is moving",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "On a distance-time graph, the steeper the line, the faster the object is moving. Object A has a steep line, so it covers more distance in the same time as Object B, making it faster.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cd6355d9-4984-41f5-8d49-99bbb4be10b2",
+  "topic": "forces.speed",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:55.473243",
+  "classified_at": "2026-04-05T02:13:55.473245",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.speed/medium",
+  "raw_html": null
+}

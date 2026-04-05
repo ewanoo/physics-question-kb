@@ -1,0 +1,45 @@
+{
+  "id": "0d5f7h14-6g1g-7e5h-cf4d-8g9h1i3e5f7d",
+  "question_text": "Two resistors are connected in parallel with a 10V power supply. Resistor A has a resistance of 5\u03a9 and resistor B has a resistance of 10\u03a9. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "parallel_circuits",
+    "current_distribution",
+    "ohms_law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The current through resistor A is half the current through resistor B",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current through resistor A is twice the current through resistor B",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The voltage across resistor A is twice the voltage across resistor B",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total current is less than the current through either resistor",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In parallel, voltage is the same (10V) across both resistors. Current through A: I = 10V \u00f7 5\u03a9 = 2A. Current through B: I = 10V \u00f7 10\u03a9 = 1A. So current through A is twice the current through B because it has half the resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:36.698913",
+  "classified_at": "2026-04-05T02:09:36.698913",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A washing machine has an efficiency of 80%. If the washing machine uses 4000 J of electrical energy, how much useful energy does it transfer to wash the clothes?",
+  "question_type": "calculation",
+  "tags": [
+    "efficiency rearrangement",
+    "calculation",
+    "domestic appliances"
+  ],
+  "options": null,
+  "correct_answer": "3200 J",
+  "explanation": "Rearranging the efficiency formula: useful energy output = efficiency \u00d7 total input. So useful output = 0.80 \u00d7 4000 = 3200 J. The remaining 800 J is wasted as heat and sound during the wash cycle.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "81fbbe86-e04c-4aff-8fc5-6afb16a77ab9",
+  "topic": "energy.efficiency",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:13:22.045588",
+  "classified_at": "2026-04-05T02:13:22.045590",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.efficiency/medium",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3f8e1c4a-7b2d-4e9f-a5c8-2d6f1e3a9b7c",
+  "question_text": "An ammeter in a circuit reads 0.5 A and the voltmeter connected across a resistor reads 10 V. What is the resistance of this component?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "V=IR",
+    "calculation",
+    "ammeter",
+    "voltmeter"
+  ],
+  "options": null,
+  "correct_answer": "20 \u03a9",
+  "explanation": "Rearranging V = IR to R = V/I, we divide voltage (10 V) by current (0.5 A) to find resistance is 20 \u03a9.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "scraped_at": "2026-04-05T02:09:48.749628",
+  "classified_at": "2026-04-05T02:09:48.749628",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "raw_html": null
+}
