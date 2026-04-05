@@ -1,0 +1,24 @@
+{
+  "question_text": "A paint sprayer uses static electricity to coat car parts. Both the paint droplets and the car part are given opposite charges. Calculate the type of force between them if the paint droplets have a charge of +50 units and the car part has a charge of -50 units.",
+  "question_type": "calculation",
+  "tags": [
+    "paint sprayer",
+    "opposite charges",
+    "attraction"
+  ],
+  "options": null,
+  "correct_answer": "Attractive force / The forces attract each other",
+  "explanation": "Opposite charges attract each other. The positively charged paint droplets are attracted to the negatively charged car part, pulling the paint onto the surface evenly and efficiently.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bfd2d7aa-627c-436a-ac6f-4e7d51613c3b",
+  "topic": "electricity.static",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:03.974022",
+  "classified_at": "2026-04-05T02:21:03.974023",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/medium",
+  "raw_html": null
+}

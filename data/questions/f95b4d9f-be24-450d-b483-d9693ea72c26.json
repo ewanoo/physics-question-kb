@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement about magnetic poles is correct?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "magnet basics",
+    "poles",
+    "attraction repulsion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Like poles repel each other and unlike poles repel each other",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Like poles attract each other and unlike poles repel each other",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Like poles repel each other and unlike poles attract each other",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Both like and unlike poles always attract each other",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Like poles push each other away (repel), so north-north and south-south repel. Unlike poles pull towards each other (attract), so north-south attract. This is a key rule in magnetism.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f95b4d9f-be24-450d-b483-d9693ea72c26",
+  "topic": "electricity.magnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:44.403781",
+  "classified_at": "2026-04-05T02:20:44.403785",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/easy",
+  "raw_html": null
+}

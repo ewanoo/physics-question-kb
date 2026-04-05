@@ -1,0 +1,45 @@
+{
+  "question_text": "Which lunar phase occurs when the Moon is positioned between the Sun and Earth?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "lunar phases",
+    "moon position",
+    "sunlight"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Full moon",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "New moon",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "First quarter",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Waning gibbous",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When the Moon is between the Sun and Earth, the Sun's light shines on the far side of the Moon (away from us), so the Moon is invisible from Earth. This is called a new moon.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "b3711be1-4607-4978-bf93-858750b5074d",
+  "topic": "space.earth_moon",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:52.193050",
+  "classified_at": "2026-04-05T02:21:52.193051",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/medium",
+  "raw_html": null
+}

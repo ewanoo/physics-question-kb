@@ -1,0 +1,24 @@
+{
+  "question_text": "A drop of blue dye is added to a beaker of hot water and a beaker of cold water. The dye spreads much faster in the hot water. Using the particle model, explain why.",
+  "question_type": "short_answer",
+  "tags": [
+    "diffusion",
+    "temperature",
+    "particle speed"
+  ],
+  "options": null,
+  "correct_answer": "In hot water, particles move faster due to higher kinetic energy. This includes both the dye particles and water particles, which collide more frequently. Faster random motion causes the dye to spread throughout the hot water more quickly through diffusion.",
+  "explanation": "Higher temperature means particles have more kinetic energy and move faster. Faster-moving particles collide more frequently and spread out more quickly, so diffusion is a temperature-dependent process. This is why food colors mix faster in hot water than cold water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "89fb65d6-08a0-452f-a13e-5bb829069ed3",
+  "topic": "matter.particles",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:28.104658",
+  "classified_at": "2026-04-05T02:21:28.104659",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/medium",
+  "raw_html": null
+}

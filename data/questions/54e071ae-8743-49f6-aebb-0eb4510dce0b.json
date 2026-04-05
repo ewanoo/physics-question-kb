@@ -1,0 +1,24 @@
+{
+  "question_text": "An electromagnet has 200 turns of wire. If you increase the number of turns to 400, what happens to the strength of the electromagnet?",
+  "question_type": "calculation",
+  "tags": [
+    "electromagnet",
+    "strength",
+    "turns of wire"
+  ],
+  "options": null,
+  "correct_answer": "The electromagnet becomes twice as strong (or stronger)",
+  "explanation": "More turns of wire in the coil means the magnetic field is stronger because there are more loops for the current to flow through. Doubling the turns from 200 to 400 makes the electromagnet twice as strong.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "54e071ae-8743-49f6-aebb-0eb4510dce0b",
+  "topic": "electricity.electromagnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:35.968454",
+  "classified_at": "2026-04-05T02:20:35.968455",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/easy",
+  "raw_html": null
+}

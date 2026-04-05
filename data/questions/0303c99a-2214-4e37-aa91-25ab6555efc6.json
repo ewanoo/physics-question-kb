@@ -1,0 +1,25 @@
+{
+  "question_text": "A fuel tanker is being filled at a petrol station. Explain why the tanker must be earthed (connected to the ground) during this process, and describe what could happen if it wasn't earthed.",
+  "question_type": "short_answer",
+  "tags": [
+    "static electricity",
+    "earthing",
+    "hazards",
+    "fuel safety"
+  ],
+  "options": null,
+  "correct_answer": "The tanker must be earthed to allow static charge to flow safely to the ground. As fuel flows through the pipe, friction causes negative charge to build up on the tanker. Without earthing, this charge could accumulate to a very high level and suddenly discharge as a spark when the pipe is removed. This spark could ignite the petrol vapour, causing an explosion.",
+  "explanation": "When liquids flow through pipes, they rub against the sides and create static charge. Without an earth connection, this charge has nowhere to go and builds up dangerously. Earthing provides a safe path for the charge to escape before it can create a deadly spark.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0303c99a-2214-4e37-aa91-25ab6555efc6",
+  "topic": "electricity.static",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:16.722962",
+  "classified_at": "2026-04-05T02:21:16.722975",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/hard",
+  "raw_html": null
+}

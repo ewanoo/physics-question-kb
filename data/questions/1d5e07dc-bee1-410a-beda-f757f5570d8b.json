@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is the best example of food acting as an energy store?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "energy store",
+    "food",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Carbohydrates in bread can be broken down to release energy for movement",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Vitamins in fruit help your eyes see better",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Minerals in milk make your bones white",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Fiber in vegetables helps food pass through your stomach",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Energy stores in food are nutrients that can be broken down by the body to release energy. Carbohydrates, fats, and proteins all store chemical energy that your body uses for movement, heat, and growth. The other options describe different roles of food but not energy storage.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1d5e07dc-bee1-410a-beda-f757f5570d8b",
+  "topic": "energy.food",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:19:55.637012",
+  "classified_at": "2026-04-05T02:19:55.637028",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/medium",
+  "raw_html": null
+}

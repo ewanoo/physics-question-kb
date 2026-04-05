@@ -1,0 +1,24 @@
+{
+  "question_text": "Which food would be the best choice to eat before a long run, and why?",
+  "question_type": "short_answer",
+  "tags": [
+    "energy content",
+    "food choice",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "A food high in carbohydrates (like pasta, rice, or a banana) because carbohydrates store energy that the body can quickly release during exercise.",
+  "explanation": "Carbohydrates are the body's preferred quick energy source and are stored as glycogen in muscles and the liver. Eating carbohydrate-rich foods before exercise provides accessible energy for sustained activity.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "75d84fea-d892-4c52-9146-1d6424fc9ca3",
+  "topic": "energy.food",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:19:55.637512",
+  "classified_at": "2026-04-05T02:19:55.637514",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/medium",
+  "raw_html": null
+}

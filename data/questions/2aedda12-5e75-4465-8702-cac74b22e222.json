@@ -1,0 +1,25 @@
+{
+  "question_text": "A rock has a weight of 50 N on Earth where g = 10 N/kg. What is the mass of the rock?",
+  "question_type": "calculation",
+  "tags": [
+    "weight",
+    "mass",
+    "earth",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "5 kg",
+  "explanation": "Rearrange the weight formula: W = m \u00d7 g becomes m = W \u00f7 g. So 50 N \u00f7 10 N/kg = 5 kg. Mass stays the same everywhere in space, but weight changes depending on gravity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2aedda12-5e75-4465-8702-cac74b22e222",
+  "topic": "space.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:22:00.490020",
+  "classified_at": "2026-04-05T02:22:00.490021",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/medium",
+  "raw_html": null
+}

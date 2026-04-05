@@ -1,0 +1,24 @@
+{
+  "question_text": "A student plots the magnetic field around a bar magnet and draws the field lines 2 cm apart at the magnet's surface and 5 cm apart at a distance of 10 cm. What does this tell you?",
+  "question_type": "short_answer",
+  "tags": [
+    "field strength",
+    "line density",
+    "interpretation"
+  ],
+  "options": null,
+  "correct_answer": "The magnetic field is stronger at the surface of the magnet than at 10 cm away, because the field lines are closer together at the surface.",
+  "explanation": "Field line spacing directly shows field strength\u2014closer spacing means stronger field. By comparing the two spacings, we can see that the field has weakened with distance, which is what we expect from a magnet.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "5dc4265a-6eed-48aa-8695-0f466c408a9d",
+  "topic": "electricity.magnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:53.949052",
+  "classified_at": "2026-04-05T02:20:53.949053",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/medium",
+  "raw_html": null
+}

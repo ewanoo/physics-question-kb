@@ -1,0 +1,46 @@
+{
+  "question_text": "A student observes smoke particles under a microscope and sees them moving randomly in all directions. Which statement best explains this Brownian motion and what it tells us about air?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "brownian_motion",
+    "evidence",
+    "particle_model",
+    "gas_behavior"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The smoke particles are alive and moving by themselves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Invisible air particles are constantly colliding with the smoke particles from random directions, causing the random zigzag motion",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The microscope lens is vibrating, making everything appear to move randomly",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Heat energy is making the smoke particles expand and contract continuously",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Brownian motion proves that gases are made of tiny, fast-moving particles we cannot see. The smoke particles get knocked around by billions of invisible air particles hitting them from all directions, creating the random 'jittery' motion\u2014this is key evidence for the particle model.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a73bb8b1-91fd-45b6-b389-7a50fd9c4a02",
+  "topic": "matter.particles",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:40.533549",
+  "classified_at": "2026-04-05T02:21:40.533552",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/hard",
+  "raw_html": null
+}

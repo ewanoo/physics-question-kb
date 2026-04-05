@@ -1,0 +1,25 @@
+{
+  "question_text": "A sealed syringe contains air at room temperature. When you push the plunger in, the volume of gas decreases from 50 cm\u00b3 to 10 cm\u00b3. Using the particle model, explain what happens to the pressure inside the syringe and why.",
+  "question_type": "short_answer",
+  "tags": [
+    "gas_laws",
+    "particle_model",
+    "pressure",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "The pressure increases. When the volume decreases, the gas particles are squeezed into a smaller space, so they collide with the walls of the syringe more frequently. More frequent collisions mean greater pressure.",
+  "explanation": "This requires understanding that pressure depends on how often particles hit the container walls. When volume decreases, particles are closer together and collide more often, increasing pressure\u2014this is Boyle's Law explained using particles.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7efe9516-51e8-46f5-9b11-2c6910ffda7d",
+  "topic": "matter.particles",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:40.533281",
+  "classified_at": "2026-04-05T02:21:40.533294",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/hard",
+  "raw_html": null
+}

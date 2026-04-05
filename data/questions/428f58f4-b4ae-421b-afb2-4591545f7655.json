@@ -1,0 +1,24 @@
+{
+  "question_text": "Compare the energy content of 100g of almonds (2400 kJ) and 100g of apple (200 kJ). How many times more energy does the almonds contain?",
+  "question_type": "calculation",
+  "tags": [
+    "comparing foods",
+    "energy content",
+    "division"
+  ],
+  "options": null,
+  "correct_answer": "12 times (or 12\u00d7)",
+  "explanation": "To compare, divide the larger energy value by the smaller one: 2400 \u00f7 200 = 12. Almonds contain 12 times more energy than apples per 100g. This is because nuts are high in fats, which store more energy than the water-rich flesh of apples.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "428f58f4-b4ae-421b-afb2-4591545f7655",
+  "topic": "energy.food",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:19:55.637573",
+  "classified_at": "2026-04-05T02:19:55.637574",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/medium",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement correctly compares gravitational field strength on Earth and Jupiter?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gravitational field strength",
+    "planets",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth has a stronger gravitational field than Jupiter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Jupiter has a stronger gravitational field than Earth because it is much larger and more massive",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both planets have the same gravitational field strength",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The gravitational field strength depends only on the planet's distance from the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Jupiter is much larger and more massive than Earth, so it has a much stronger gravitational field. Objects experience greater gravitational pull on Jupiter, making them weigh much more there.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "17c3b57b-14fd-469a-85b1-565bee5d6881",
+  "topic": "space.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:22:00.489924",
+  "classified_at": "2026-04-05T02:22:00.489927",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/medium",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A fixed container of helium gas at 20\u00b0C has a pressure of 100 kPa. The temperature is increased to 40\u00b0C. Calculate the new pressure, assuming the volume and amount of gas remain constant. (Hint: use absolute temperature in Kelvin)",
+  "question_type": "calculation",
+  "tags": [
+    "gas_laws",
+    "pressure",
+    "temperature",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "106.7 kPa (or approximately 107 kPa). Convert to Kelvin: 20\u00b0C = 293 K, 40\u00b0C = 313 K. Using P\u2081/T\u2081 = P\u2082/T\u2082: 100/293 = P\u2082/313, so P\u2082 = (100 \u00d7 313)/293 = 106.8 kPa",
+  "explanation": "This is a multi-step problem requiring conversion to absolute temperature (Kelvin), then applying Gay-Lussac's Law. When temperature increases, particles move faster and hit the container walls harder and more often, increasing pressure proportionally.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8ceb5c20-f722-4bd4-940f-8f628644ecd4",
+  "topic": "matter.particles",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:40.533744",
+  "classified_at": "2026-04-05T02:21:40.533749",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/hard",
+  "raw_html": null
+}

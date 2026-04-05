@@ -1,0 +1,45 @@
+{
+  "question_text": "A magnetic field exists around a magnet. Which statement is true?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "magnetic field",
+    "space around magnet",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A magnetic field only exists at the poles of a magnet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A magnetic field is the space around a magnet where magnetic forces can be detected",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A magnetic field is only visible to the human eye",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A magnetic field exists inside a magnet but not outside it",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A magnetic field is an invisible region of space around a magnet where magnetic forces can act on other magnets or magnetic materials. We can visualise it using iron filings or a compass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "24cd562b-58ca-4007-9972-334b486d456f",
+  "topic": "electricity.magnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:44.404048",
+  "classified_at": "2026-04-05T02:20:44.404049",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/easy",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A kettle has a power rating of 2400 W and takes 2 minutes to boil water. An electric heater has a power rating of 1500 W. How long would the heater take to supply the same amount of energy as the kettle?",
+  "question_type": "calculation",
+  "tags": [
+    "energy",
+    "power",
+    "time",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "3 minutes 12 seconds (or 3.2 minutes)",
+  "explanation": "First, calculate energy from the kettle using E = Pt: E = 2400 \u00d7 120s = 288,000 J. Then use E = Pt again with the heater's power to find time: 288,000 = 1500 \u00d7 t, so t = 192 seconds (3 minutes 12 seconds). The lower power appliance takes longer to deliver the same energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a495da4c-de51-440f-949d-0c782c6933ef",
+  "topic": "energy.power",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:20:27.588320",
+  "classified_at": "2026-04-05T02:20:27.588334",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/hard",
+  "raw_html": null
+}

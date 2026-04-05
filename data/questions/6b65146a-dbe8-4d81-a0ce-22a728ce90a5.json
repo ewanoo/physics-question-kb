@@ -1,0 +1,24 @@
+{
+  "question_text": "If the magnetic field strength at a distance of 3 cm from a magnet's pole is 40 mT (millitesla), and at 6 cm the field strength is 10 mT, calculate how many times stronger the field is at 3 cm compared to 6 cm.",
+  "question_type": "calculation",
+  "tags": [
+    "field strength",
+    "calculation",
+    "distance"
+  ],
+  "options": null,
+  "correct_answer": "4 times stronger (or 40 \u00f7 10 = 4)",
+  "explanation": "To find how many times stronger one field is than another, we divide the larger value by the smaller value: 40 mT \u00f7 10 mT = 4. This shows that the magnetic field decreases significantly as distance increases.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "6b65146a-dbe8-4d81-a0ce-22a728ce90a5",
+  "topic": "electricity.magnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:53.949194",
+  "classified_at": "2026-04-05T02:20:53.949196",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/medium",
+  "raw_html": null
+}

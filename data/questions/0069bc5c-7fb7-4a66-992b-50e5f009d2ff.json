@@ -1,0 +1,24 @@
+{
+  "question_text": "Explain why perfume sprayed in one corner of a room eventually spreads throughout the whole room.",
+  "question_type": "short_answer",
+  "tags": [
+    "diffusion",
+    "particle model",
+    "gas behavior"
+  ],
+  "options": null,
+  "correct_answer": "Perfume particles move randomly in all directions due to collisions with air particles. Over time, they spread throughout the room through diffusion as they move from high concentration to low concentration areas.",
+  "explanation": "Diffusion occurs because gas particles are constantly moving and colliding randomly. The perfume particles gradually spread out to fill the available space. This happens faster in warm rooms because particles move faster at higher temperatures.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0069bc5c-7fb7-4a66-992b-50e5f009d2ff",
+  "topic": "matter.particles",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:28.104454",
+  "classified_at": "2026-04-05T02:21:28.104456",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/medium",
+  "raw_html": null
+}

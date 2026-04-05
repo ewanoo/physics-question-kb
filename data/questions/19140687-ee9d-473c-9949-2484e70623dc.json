@@ -1,0 +1,45 @@
+{
+  "question_text": "Two devices are compared: Device X transfers 6,000 J in 10 seconds, and Device Y transfers 8,000 J in 20 seconds. Which device has greater power?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "power comparison",
+    "calculation",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Device X (600 W)",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Device Y (400 W)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both devices have equal power",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Cannot determine without knowing the type of device",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Device X: P = 6,000 J \u00f7 10 s = 600 W. Device Y: P = 8,000 J \u00f7 20 s = 400 W. Device X is more powerful because it transfers more energy per second, even though it transfers less total energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "19140687-ee9d-473c-9949-2484e70623dc",
+  "topic": "energy.power",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:13.891647",
+  "classified_at": "2026-04-05T02:20:13.891648",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

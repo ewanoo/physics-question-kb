@@ -1,0 +1,24 @@
+{
+  "question_text": "What does power tell us about energy?",
+  "question_type": "short_answer",
+  "tags": [
+    "power",
+    "energy",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Power is the rate at which energy is transferred or used (how fast energy is being used)",
+  "explanation": "Power measures how quickly energy is being transferred from one place to another or being converted from one form to another. A high-power device transfers energy faster than a low-power device.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bae18478-d21e-49a4-995a-294d8cfe6833",
+  "topic": "energy.power",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:05.525373",
+  "classified_at": "2026-04-05T02:20:05.525375",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/easy",
+  "raw_html": null
+}

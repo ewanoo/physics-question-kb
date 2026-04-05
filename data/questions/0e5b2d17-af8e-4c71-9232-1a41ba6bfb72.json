@@ -1,0 +1,45 @@
+{
+  "question_text": "A syringe contains air at room temperature. The plunger is pushed in, reducing the volume to half. What happens to the pressure inside the syringe?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "pressure",
+    "volume",
+    "particle collisions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure stays the same because the temperature hasn't changed",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure doubles because particles are forced into half the space and collide more often with the walls",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pressure halves because there is less air",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure increases slightly but not to double",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When volume decreases, particles are packed more closely together. They collide more frequently with the syringe walls, causing pressure to increase. If volume is halved, pressure doubles (assuming temperature stays constant).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0e5b2d17-af8e-4c71-9232-1a41ba6bfb72",
+  "topic": "matter.particles",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:28.104522",
+  "classified_at": "2026-04-05T02:21:28.104523",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/medium",
+  "raw_html": null
+}

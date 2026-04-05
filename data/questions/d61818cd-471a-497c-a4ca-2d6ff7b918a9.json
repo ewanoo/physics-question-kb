@@ -1,0 +1,24 @@
+{
+  "question_text": "Describe what happens to the spacing of magnetic field lines as you move away from a bar magnet.",
+  "question_type": "short_answer",
+  "tags": [
+    "field strength",
+    "field lines",
+    "distance"
+  ],
+  "options": null,
+  "correct_answer": "The field lines become more spaced out / further apart as you move away from the magnet. This shows the magnetic field is weaker further away.",
+  "explanation": "The density of field lines represents field strength\u2014closely packed lines mean a strong field, while widely spaced lines mean a weak field. Since the magnetic field gets weaker further away, the lines spread out.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d61818cd-471a-497c-a4ca-2d6ff7b918a9",
+  "topic": "electricity.magnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:53.948979",
+  "classified_at": "2026-04-05T02:20:53.948982",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/medium",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "Name three materials that can be magnetised.",
+  "question_type": "short_answer",
+  "tags": [
+    "magnetic materials",
+    "magnetisation",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Iron, steel, and nickel (or cobalt)",
+  "explanation": "Only certain metals can be magnetised. Iron, steel, nickel, and cobalt are the main ones. Metals like copper and aluminium cannot be magnetised no matter how hard you try.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "7ab6567a-7a46-4093-a8bc-b9d0b3185497",
+  "topic": "electricity.magnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:44.403981",
+  "classified_at": "2026-04-05T02:20:44.403983",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/easy",
+  "raw_html": null
+}

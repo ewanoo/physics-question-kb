@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following best explains why aircraft are fitted with conducting strips called 'static dischargers' on their wings and tail?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "static electricity",
+    "earthing",
+    "applications",
+    "aircraft safety"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They keep the aircraft cool during flight",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They allow static charge built up from air friction to leak away gradually into the air, preventing dangerous spark discharge",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They attract lightning away from the engines",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They reduce air resistance and improve fuel efficiency",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Aircraft moving through the air experience friction that builds up static charge. Static dischargers are thin conducting wires that bleed this charge away slowly into the surrounding air, preventing the dangerous buildup that could cause a spark near flammable fuel vapours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c7e07856-1816-41de-91d0-46f7bb0372b6",
+  "topic": "electricity.static",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:16.723213",
+  "classified_at": "2026-04-05T02:21:16.723215",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/hard",
+  "raw_html": null
+}

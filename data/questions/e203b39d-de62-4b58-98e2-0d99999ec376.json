@@ -1,0 +1,45 @@
+{
+  "question_text": "A balloon is filled with air and left in the sun. The air inside gets warmer. According to the particle model, what happens to the air particles?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "temperature",
+    "particle motion",
+    "kinetic energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They move slower and collide less often",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They move faster and collide more often with the balloon walls",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They stop moving completely",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They increase in size",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When temperature increases, particles gain kinetic energy and move faster. Faster particles collide more frequently with the balloon walls, creating greater pressure. This is why the balloon expands in the sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e203b39d-de62-4b58-98e2-0d99999ec376",
+  "topic": "matter.particles",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:28.104078",
+  "classified_at": "2026-04-05T02:21:28.104090",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/medium",
+  "raw_html": null
+}

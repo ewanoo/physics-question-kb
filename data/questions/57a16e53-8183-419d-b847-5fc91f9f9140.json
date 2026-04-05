@@ -1,0 +1,46 @@
+{
+  "question_text": "Which statement best explains why a 60 W LED light bulb and a 60 W incandescent bulb both transfer 60 joules of energy per second, but the LED appears brighter?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "power",
+    "efficiency",
+    "energy transfer",
+    "light"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The LED bulb has a higher power rating than the incandescent bulb",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The LED bulb converts a higher percentage of electrical energy into light, while the incandescent bulb wastes more energy as heat",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The LED bulb uses less power so it produces brighter light more efficiently",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The LED bulb has been on for longer, so it produces accumulated brightness",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Both bulbs have the same power rating (60 W), so they transfer the same amount of energy per second. However, the LED converts more of this energy directly into visible light (higher efficiency), while the incandescent bulb wastes much of its energy as heat. This is why LEDs are considered more efficient and appear brighter at the same power rating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "57a16e53-8183-419d-b847-5fc91f9f9140",
+  "topic": "energy.power",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:20:27.588698",
+  "classified_at": "2026-04-05T02:20:27.588700",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A space probe has a mass of 500 kg. Calculate its weight on Mars where the gravitational field strength is 3.7 N/kg.",
+  "question_type": "calculation",
+  "tags": [
+    "mars",
+    "weight",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "1850 N",
+  "explanation": "Use the formula W = m \u00d7 g. So 500 kg \u00d7 3.7 N/kg = 1850 N. Mars has weaker gravity than Earth, so objects weigh less there, but this probe still has significant weight.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e85a08ff-9bdc-47be-982e-2c82726dce2d",
+  "topic": "space.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:22:00.490313",
+  "classified_at": "2026-04-05T02:22:00.490314",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/medium",
+  "raw_html": null
+}

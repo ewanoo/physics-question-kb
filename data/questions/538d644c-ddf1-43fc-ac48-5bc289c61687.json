@@ -1,0 +1,24 @@
+{
+  "question_text": "A photocopier uses static electricity to transfer toner powder onto paper. Why is static electricity (rather than a liquid ink) useful for this application?",
+  "question_type": "short_answer",
+  "tags": [
+    "photocopier",
+    "application",
+    "static electricity uses"
+  ],
+  "options": null,
+  "correct_answer": "Static charge attracts the toner powder precisely / The charged toner follows the pattern on the drum / This allows detailed, accurate copying without liquid mess / No drying time needed",
+  "explanation": "Static electricity allows toner powder to be attracted to specific areas of the photocopier drum in the exact pattern needed, creating a precise copy without the mess or drying time of liquid ink.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "538d644c-ddf1-43fc-ac48-5bc289c61687",
+  "topic": "electricity.static",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:03.973961",
+  "classified_at": "2026-04-05T02:21:03.973962",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/medium",
+  "raw_html": null
+}

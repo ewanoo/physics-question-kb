@@ -1,0 +1,24 @@
+{
+  "question_text": "A student rubs a balloon on their hair. The balloon becomes negatively charged. What does this tell us about the electrons in the hair?",
+  "question_type": "short_answer",
+  "tags": [
+    "charge transfer",
+    "friction",
+    "electrons"
+  ],
+  "options": null,
+  "correct_answer": "Electrons were transferred from the hair to the balloon / The hair lost electrons to the balloon",
+  "explanation": "When a balloon becomes negatively charged, it has gained extra electrons. These electrons must have come from the hair through friction, leaving the hair positively charged.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "eb0b45df-bad6-4924-8e3a-d492347e8f81",
+  "topic": "electricity.static",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:03.973479",
+  "classified_at": "2026-04-05T02:21:03.973492",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/medium",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "Two phone chargers are compared: Charger A outputs 5 V at 2 A, and Charger B outputs 20 V at 0.5 A. Both charge the same phone battery (3.7 V, 2500 mAh) to full capacity. If Charger A is 85% efficient and Charger B is 92% efficient, explain which charger would cost less to operate over one year if used daily, considering a typical electricity cost of 15p per kWh.",
+  "question_type": "short_answer",
+  "tags": [
+    "power",
+    "efficiency",
+    "cost analysis",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Charger B costs less to operate. Charger A costs approximately \u00a30.39 per year while Charger B costs approximately \u00a30.21 per year (answers within \u00b1\u00a30.05 acceptable due to rounding assumptions).",
+  "explanation": "Calculate input power for each: Charger A: P = 5 \u00d7 2 = 10 W; Charger B: P = 20 \u00d7 0.5 = 10 W. Both have the same input power, but Charger B is more efficient (92% vs 85%), so it wastes less energy as heat. Over a year: energy = 10 W \u00d7 365 days \u00d7 24 hours = 87.6 kWh. Charger A useful energy \u2248 74.46 kWh (cost \u00a311.17), Charger B useful energy \u2248 80.59 kWh (cost \u00a312.09). Since the same useful energy reaches the phone, Charger B operating cost is lower because less total energy is drawn from the supply. Note: This advanced question requires understanding that efficiency affects total energy consumption, not just the useful output.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "faae43a3-8321-4d68-8216-5672368e125c",
+  "topic": "energy.power",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:20:27.588867",
+  "classified_at": "2026-04-05T02:20:27.588868",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/hard",
+  "raw_html": null
+}

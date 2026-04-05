@@ -1,0 +1,24 @@
+{
+  "question_text": "An electric oven has a power rating of 2,500 W. How much energy does it transfer in 30 minutes?",
+  "question_type": "calculation",
+  "tags": [
+    "power",
+    "energy",
+    "time conversion"
+  ],
+  "options": null,
+  "correct_answer": "4,500,000 J (or 4.5 MJ or 4.5 \u00d7 10\u2076 J)",
+  "explanation": "Using E = P \u00d7 t, first convert 30 minutes to 1,800 seconds. Then E = 2,500 W \u00d7 1,800 s = 4,500,000 J. Always convert time to seconds when calculating energy in joules.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f66751c8-455f-41ed-b3e0-9baec7a6a2c0",
+  "topic": "energy.power",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:13.891848",
+  "classified_at": "2026-04-05T02:20:13.891851",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

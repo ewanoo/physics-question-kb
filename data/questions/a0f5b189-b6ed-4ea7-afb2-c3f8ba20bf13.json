@@ -1,0 +1,24 @@
+{
+  "question_text": "Two magnets are pushed towards each other. The first magnet has its north pole facing the second magnet's north pole. Will they move together or push apart? Explain why.",
+  "question_type": "short_answer",
+  "tags": [
+    "magnet basics",
+    "poles",
+    "repulsion"
+  ],
+  "options": null,
+  "correct_answer": "They will push apart. Like poles repel each other, so north pole repels north pole.",
+  "explanation": "When two magnets have the same poles facing each other (both north or both south), they repel because like poles always push each other away. The magnetic force keeps them from moving together.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a0f5b189-b6ed-4ea7-afb2-c3f8ba20bf13",
+  "topic": "electricity.magnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:44.404119",
+  "classified_at": "2026-04-05T02:20:44.404120",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/easy",
+  "raw_html": null
+}

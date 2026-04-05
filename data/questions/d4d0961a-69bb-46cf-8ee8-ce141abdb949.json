@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of these appliances has the highest power rating?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "power",
+    "appliances",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "LED light bulb (10W)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mobile phone charger (5W)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Electric kettle (3000W)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Computer mouse (1W)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An electric kettle uses 3000 watts, which is much higher than the other appliances. High-power appliances like kettles, ovens, and heaters transfer energy very quickly, which is why they can heat water or food fast.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d4d0961a-69bb-46cf-8ee8-ce141abdb949",
+  "topic": "energy.power",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:05.525279",
+  "classified_at": "2026-04-05T02:20:05.525281",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/easy",
+  "raw_html": null
+}

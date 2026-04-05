@@ -1,0 +1,45 @@
+{
+  "question_text": "When a compass is placed near the north pole of a bar magnet, which direction does the compass needle point?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "compass",
+    "direction",
+    "magnetic poles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Towards the north pole of the magnet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Towards the south pole of the magnet",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Upwards towards the sky",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It does not point in any particular direction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Compass needles always align with the direction of magnetic field lines. Since field lines point from north to south, the compass needle points towards the south pole of the magnet. The south pole of the magnet attracts the north pole of the compass needle.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9405340c-242a-4e58-892c-cf64436bbb2f",
+  "topic": "electricity.magnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:53.949123",
+  "classified_at": "2026-04-05T02:20:53.949124",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/medium",
+  "raw_html": null
+}

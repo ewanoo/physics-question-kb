@@ -1,0 +1,45 @@
+{
+  "question_text": "Which appliance uses the least energy over one hour?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "power",
+    "energy",
+    "appliances"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "100W light bulb",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "2000W oven",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "5W nightlight",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "1500W heater",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A 5W nightlight uses the least power, so it transfers the least energy over the same time period. Even though all devices run for one hour, the low-power nightlight uses much less energy than the others.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cee573a0-cd55-4de5-b78c-2c497ebe45a7",
+  "topic": "energy.power",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:05.525530",
+  "classified_at": "2026-04-05T02:20:05.525531",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/easy",
+  "raw_html": null
+}

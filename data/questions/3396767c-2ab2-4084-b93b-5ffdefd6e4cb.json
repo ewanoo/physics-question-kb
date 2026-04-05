@@ -1,0 +1,24 @@
+{
+  "question_text": "The Moon's gravitational pull on Earth is weaker than Earth's pull on the Moon. Explain why the Moon still manages to create significant tides in Earth's oceans.",
+  "question_type": "short_answer",
+  "tags": [
+    "tides",
+    "gravity",
+    "forces"
+  ],
+  "options": null,
+  "correct_answer": "Although the Moon's gravity is weaker overall, it is strong enough to pull on the loose water in the oceans (which can move easily), creating bulges. The solid Earth doesn't move as much because it is rigid. The difference in the Moon's gravitational pull across Earth's diameter (between near and far sides) is what creates the tidal effect.",
+  "explanation": "Water is fluid and responds to even small gravitational forces by flowing. The key is that the Moon pulls more strongly on the near side of Earth than the far side, creating a stretching effect that raises the water in two places.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3396767c-2ab2-4084-b93b-5ffdefd6e4cb",
+  "topic": "space.earth_moon",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:52.193120",
+  "classified_at": "2026-04-05T02:21:52.193121",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/medium",
+  "raw_html": null
+}

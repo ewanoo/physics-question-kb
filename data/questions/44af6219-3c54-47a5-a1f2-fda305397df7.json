@@ -1,0 +1,24 @@
+{
+  "question_text": "A kettle uses 180,000 joules of energy to boil water in 60 seconds. Calculate the power of the kettle.",
+  "question_type": "calculation",
+  "tags": [
+    "power calculation",
+    "energy",
+    "appliances"
+  ],
+  "options": null,
+  "correct_answer": "3000 W (or 3 kW)",
+  "explanation": "Power is calculated using P = E/t. So P = 180,000 J \u00f7 60 s = 3,000 W. This is a typical kettle power rating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "44af6219-3c54-47a5-a1f2-fda305397df7",
+  "topic": "energy.power",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:13.891209",
+  "classified_at": "2026-04-05T02:20:13.891221",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following best explains why we always see the same side of the Moon from Earth?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "moon rotation",
+    "tidal locking",
+    "orbital mechanics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate at all",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon's rotation period equals its orbital period around Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth's gravity stops the Moon from rotating",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon is too far away for us to see it rotate",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon is tidally locked to Earth, meaning it rotates once on its axis in exactly the same time it takes to orbit Earth (about 28 days). This synchronisation means the same hemisphere always faces us.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "268a909a-6e2f-486e-81ac-d1bd0501202f",
+  "topic": "space.earth_moon",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:52.192835",
+  "classified_at": "2026-04-05T02:21:52.192838",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/medium",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "The Moon's gravity pulls on Earth's oceans, creating tides. Why are there usually two high tides and two low tides each day rather than just one of each?",
+  "question_type": "short_answer",
+  "tags": [
+    "tides",
+    "moon gravity",
+    "earth rotation"
+  ],
+  "options": null,
+  "correct_answer": "Because Earth rotates (spins) once per day. The Moon pulls on the ocean on the side facing it (creating one bulge/high tide) and also pulls on Earth's body, leaving the ocean on the opposite side behind (creating a second bulge/high tide). As Earth rotates through these two bulges, we experience two high tides.",
+  "explanation": "Imagine Earth is covered with water and the Moon pulls it outward on one side. The opposite side also rises because the Moon pulls Earth away from that water. As a location on Earth rotates through both bulges in about 24 hours, it experiences two high tides.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "38e611e6-b48c-4118-90e0-c392eadad1e7",
+  "topic": "space.earth_moon",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:52.193000",
+  "classified_at": "2026-04-05T02:21:52.193001",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/medium",
+  "raw_html": null
+}

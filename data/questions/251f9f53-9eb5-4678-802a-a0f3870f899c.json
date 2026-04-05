@@ -1,0 +1,24 @@
+{
+  "question_text": "Why do foods containing more fat generally have higher energy content than foods with more water?",
+  "question_type": "short_answer",
+  "tags": [
+    "energy density",
+    "food composition",
+    "understanding"
+  ],
+  "options": null,
+  "correct_answer": "Fat stores more energy per gram than other nutrients. Water contains no chemical energy, so foods with high water content have lower energy density.",
+  "explanation": "Fats release about 38 kJ per gram when broken down, while carbohydrates and proteins only release about 17 kJ per gram. Water has zero energy value, so watery foods like cucumber or lettuce are very low in energy compared to fatty foods like nuts or oils.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "251f9f53-9eb5-4678-802a-a0f3870f899c",
+  "topic": "energy.food",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:19:55.637653",
+  "classified_at": "2026-04-05T02:19:55.637655",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/medium",
+  "raw_html": null
+}

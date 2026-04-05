@@ -1,0 +1,24 @@
+{
+  "question_text": "What happens to an electromagnet when you switch off the electric current?",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnet",
+    "switching off",
+    "magnetic field"
+  ],
+  "options": null,
+  "correct_answer": "The electromagnet stops being magnetic (or the magnetic field disappears/turns off)",
+  "explanation": "An electromagnet only creates a magnetic field when electric current flows through the coil. As soon as you switch off the current, there is no energy to create the magnetic field, so it stops being magnetic.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "68ae51b4-627d-4493-8bdd-ceb0adddcd8a",
+  "topic": "electricity.electromagnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:35.968386",
+  "classified_at": "2026-04-05T02:20:35.968388",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/easy",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "An electric motor lifts a 50 kg mass vertically upwards at a constant speed of 0.5 m/s. The motor is connected to a 230 V power supply and draws a current of 2 A. Calculate the efficiency of the motor. (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "tags": [
+    "power",
+    "efficiency",
+    "P=IV",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 54.3% (or between 50-55%)",
+  "explanation": "First, find electrical power input: P = IV = 230 \u00d7 2 = 460 W. Next, calculate the useful power output needed to lift the mass at constant speed using F = mg = 50 \u00d7 10 = 500 N, and P_useful = F \u00d7 v = 500 \u00d7 0.5 = 250 W. Efficiency = (useful output \u00f7 total input) \u00d7 100% = (250 \u00f7 460) \u00d7 100% \u2248 54.3%. The remaining energy is lost as heat and friction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8f6b3b78-46bf-4802-8b7e-8f9c87a9b4e4",
+  "topic": "energy.power",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:20:27.588792",
+  "classified_at": "2026-04-05T02:20:27.588793",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/hard",
+  "raw_html": null
+}

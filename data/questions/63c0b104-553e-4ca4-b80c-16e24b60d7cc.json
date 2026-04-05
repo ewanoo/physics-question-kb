@@ -1,0 +1,25 @@
+{
+  "question_text": "A negatively charged rod is brought near (but not touching) a neutral conducting sphere on an insulating stand. The sphere is then earthed by connecting it to the ground. Without removing the earth wire, the rod is taken away. Describe what charge the sphere now has and explain why, step by step.",
+  "question_type": "short_answer",
+  "tags": [
+    "static electricity",
+    "induction",
+    "earthing",
+    "multi-step reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The sphere now has a positive charge. Step 1: The negative rod repels electrons in the sphere, pushing them towards the ground. Step 2: Since the sphere is earthed, these electrons flow into the ground (away from the sphere). Step 3: The sphere now has a deficit of electrons, leaving it with a net positive charge. Step 4: When the earth connection is removed and then the rod is taken away, the positive charge remains trapped on the sphere.",
+  "explanation": "This is induction with earthing. The negative rod pushes electrons out of the sphere into the ground. Once those electrons are gone and the earth wire is removed, the sphere is left permanently positively charged. It's a clever way to give something a charge without direct contact.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "63c0b104-553e-4ca4-b80c-16e24b60d7cc",
+  "topic": "electricity.static",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:16.723721",
+  "classified_at": "2026-04-05T02:21:16.723723",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/hard",
+  "raw_html": null
+}

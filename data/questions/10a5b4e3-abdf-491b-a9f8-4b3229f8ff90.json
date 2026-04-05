@@ -1,0 +1,24 @@
+{
+  "question_text": "A student draws a diagram showing the magnetic field around two bar magnets. One magnet has field lines spaced 1 cm apart, and the other has field lines spaced 3 cm apart. Which magnet is stronger, and how can you tell?",
+  "question_type": "short_answer",
+  "tags": [
+    "field strength",
+    "comparison",
+    "line density"
+  ],
+  "options": null,
+  "correct_answer": "The first magnet (1 cm spacing) is stronger because it has more densely packed field lines, which indicates a stronger magnetic field.",
+  "explanation": "The closer together the field lines are drawn, the stronger the magnetic field in that region. Density of field lines is directly related to field strength, so the magnet with lines only 1 cm apart has a stronger field than the one with 3 cm spacing.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "10a5b4e3-abdf-491b-a9f8-4b3229f8ff90",
+  "topic": "electricity.magnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:53.949247",
+  "classified_at": "2026-04-05T02:20:53.949248",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/medium",
+  "raw_html": null
+}

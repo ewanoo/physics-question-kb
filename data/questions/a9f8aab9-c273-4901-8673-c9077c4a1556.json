@@ -1,0 +1,25 @@
+{
+  "question_text": "A computer manufacturing factory uses special anti-static flooring and wrist straps for all workers. A worker picks up a component and their wrist strap is not connected to earth. Calculate the risk level (low/medium/high) and justify your reasoning with reference to charge buildup.",
+  "question_type": "short_answer",
+  "tags": [
+    "static electricity",
+    "earthing",
+    "workplace safety",
+    "risk evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Risk level: HIGH. Without the wrist strap being earthed, static charge will build up on the worker's body as they move across the anti-static floor and handle components. When they pick up a sensitive electronic component, a sudden discharge from their body could damage the component's delicate circuits. Earthing the wrist strap provides a continuous path for charge to leak away safely, preventing dangerous buildup.",
+  "explanation": "Even anti-static flooring only works if workers are properly earthed through wrist straps. Without that earth connection, charge accumulates on the worker and can destroy expensive electronics when they touch them. A disconnected strap leaves the worker unprotected.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a9f8aab9-c273-4901-8673-c9077c4a1556",
+  "topic": "electricity.static",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:16.723612",
+  "classified_at": "2026-04-05T02:21:16.723613",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/hard",
+  "raw_html": null
+}

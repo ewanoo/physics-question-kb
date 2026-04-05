@@ -1,0 +1,24 @@
+{
+  "question_text": "Describe how an electromagnet is used in an electric bell.",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnet",
+    "electric bell",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "When the button is pressed, current flows through the electromagnet, which attracts a metal arm/clapper that hits the bell. When the arm moves, it breaks the circuit, switching off the electromagnet, which releases the arm. The process repeats, creating a ringing sound.",
+  "explanation": "An electric bell uses an electromagnet that turns on and off repeatedly. This repeated switching makes the clapper hit the bell many times per second, creating the ringing sound we hear.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d42dbe2a-0eab-4e48-a3e1-b5a3c2366ec3",
+  "topic": "electricity.electromagnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:35.968581",
+  "classified_at": "2026-04-05T02:20:35.968581",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/easy",
+  "raw_html": null
+}

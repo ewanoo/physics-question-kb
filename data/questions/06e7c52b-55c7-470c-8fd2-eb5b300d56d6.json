@@ -1,0 +1,24 @@
+{
+  "question_text": "Why do objects weigh less on the Moon than on Earth?",
+  "question_type": "short_answer",
+  "tags": [
+    "moon",
+    "weight",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "The Moon has a weaker gravitational field strength than Earth (or the Moon is less massive/smaller than Earth), so the gravitational force pulling on objects is smaller.",
+  "explanation": "The Moon's mass and size are much smaller than Earth's, so its gravitational field is weaker. This means objects experience less gravitational force on the Moon, making them weigh less, even though their mass stays the same.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "06e7c52b-55c7-470c-8fd2-eb5b300d56d6",
+  "topic": "space.gravity",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:22:00.490081",
+  "classified_at": "2026-04-05T02:22:00.490082",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/medium",
+  "raw_html": null
+}

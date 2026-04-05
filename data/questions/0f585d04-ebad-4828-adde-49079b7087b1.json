@@ -1,0 +1,45 @@
+{
+  "question_text": "Which device uses an electromagnet to lift heavy pieces of metal in a scrapyard?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "electromagnet",
+    "uses",
+    "applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electric bell",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electromagnetic crane",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Permanent magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Compass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An electromagnetic crane is ideal for lifting heavy metal because the electromagnet can be switched on to pick up the metal and switched off to drop it. A permanent magnet cannot be turned off, making it unsuitable.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0f585d04-ebad-4828-adde-49079b7087b1",
+  "topic": "electricity.electromagnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:35.968507",
+  "classified_at": "2026-04-05T02:20:35.968508",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/easy",
+  "raw_html": null
+}

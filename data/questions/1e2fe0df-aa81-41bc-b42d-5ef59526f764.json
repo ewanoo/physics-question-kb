@@ -1,0 +1,24 @@
+{
+  "question_text": "A chocolate bar contains 2000 kJ of energy. How much energy does it contain in kilocalories (kcal)? (Hint: 1 kcal = 4.2 kJ)",
+  "question_type": "calculation",
+  "tags": [
+    "energy calculation",
+    "kJ to kcal conversion",
+    "food energy"
+  ],
+  "options": null,
+  "correct_answer": "476 kcal (or approximately 476 to 478 kcal)",
+  "explanation": "To convert from kJ to kcal, you divide the energy in kJ by 4.2. So 2000 \u00f7 4.2 = 476 kcal. This is why food labels often show energy in both units\u2014they measure the same thing but in different scales.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1e2fe0df-aa81-41bc-b42d-5ef59526f764",
+  "topic": "energy.food",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:19:55.637329",
+  "classified_at": "2026-04-05T02:19:55.637332",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/medium",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A student rubs a balloon on their hair and it sticks to the wall. Explain the complete process of charge transfer and attraction, including what type of charge is on both the balloon and the wall surface.",
+  "question_type": "short_answer",
+  "tags": [
+    "static electricity",
+    "charge transfer",
+    "electrostatic attraction",
+    "explanation"
+  ],
+  "options": null,
+  "correct_answer": "When the balloon is rubbed on hair, electrons transfer from the hair to the balloon, making the balloon negatively charged and the hair positively charged. The negatively charged balloon repels electrons in the wall surface, leaving the near side of the wall positively charged. Opposite charges attract, so the positively charged wall surface attracts the negatively charged balloon, causing it to stick.",
+  "explanation": "Rubbing causes electrons to move from one material to another. The balloon becomes negatively charged and pushes away electrons in the wall, making the wall's surface positive. Since opposite charges attract, the balloon sticks to the wall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4b5176f3-d734-470c-8cf4-2cf461dc30a8",
+  "topic": "electricity.static",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:16.723541",
+  "classified_at": "2026-04-05T02:21:16.723543",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/hard",
+  "raw_html": null
+}

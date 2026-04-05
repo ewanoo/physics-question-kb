@@ -1,0 +1,45 @@
+{
+  "question_text": "Which direction do magnetic field lines point outside a bar magnet?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "magnetic field lines",
+    "direction",
+    "bar magnet"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "From south pole to north pole",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "From north pole to south pole",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "In circles around the magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Randomly in all directions",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Magnetic field lines always point from the north pole to the south pole outside the magnet. This is the convention we use to show the direction of the magnetic field, and a compass needle aligns with these lines.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ec6085dc-a1d3-4881-b177-1402d494286c",
+  "topic": "electricity.magnets",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:53.948733",
+  "classified_at": "2026-04-05T02:20:53.948746",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/medium",
+  "raw_html": null
+}

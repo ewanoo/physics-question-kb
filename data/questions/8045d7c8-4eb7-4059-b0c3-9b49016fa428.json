@@ -1,0 +1,24 @@
+{
+  "question_text": "A toaster transfers 36,000 joules of energy in 12 seconds. What is its power in watts?",
+  "question_type": "calculation",
+  "tags": [
+    "power formula",
+    "energy transfer",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "3,000 W",
+  "explanation": "Using P = E/t, we get P = 36,000 J \u00f7 12 s = 3,000 W. Remember to check your units\u2014the answer should be in watts when energy is in joules and time is in seconds.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "8045d7c8-4eb7-4059-b0c3-9b49016fa428",
+  "topic": "energy.power",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:13.891534",
+  "classified_at": "2026-04-05T02:20:13.891535",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

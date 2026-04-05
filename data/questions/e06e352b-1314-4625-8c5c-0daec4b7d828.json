@@ -1,0 +1,45 @@
+{
+  "question_text": "Two identical metal spheres both have a negative charge. Sphere A has a charge of -8 units and Sphere B has a charge of -3 units. What type of force will act between them?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "like charges",
+    "repulsion",
+    "force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Attractive force, because both are negatively charged",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Repulsive force, because both spheres have the same type of charge",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "No force, because the charges are different amounts",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Attractive force, because negative charges are stronger",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Like charges always repel each other. Since both spheres are negatively charged, they will push away from each other. The magnitude of the charge doesn't matter\u2014only that the charges are the same type.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e06e352b-1314-4625-8c5c-0daec4b7d828",
+  "topic": "electricity.static",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:03.974071",
+  "classified_at": "2026-04-05T02:21:03.974072",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/medium",
+  "raw_html": null
+}

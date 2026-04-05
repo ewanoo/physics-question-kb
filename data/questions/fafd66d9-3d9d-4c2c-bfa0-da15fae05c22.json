@@ -1,0 +1,24 @@
+{
+  "question_text": "What are the three main parts needed to make an electromagnet?",
+  "question_type": "short_answer",
+  "tags": [
+    "electromagnet",
+    "components",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "A coil of wire, an iron core, and a source of electric current (or battery/power supply)",
+  "explanation": "An electromagnet needs all three parts to work: the coil creates a magnetic field when current flows through it, the iron core strengthens this field, and the electric current is needed to make the magnetic field in the first place.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fafd66d9-3d9d-4c2c-bfa0-da15fae05c22",
+  "topic": "electricity.electromagnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:35.968065",
+  "classified_at": "2026-04-05T02:20:35.968077",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.electromagnets/easy",
+  "raw_html": null
+}

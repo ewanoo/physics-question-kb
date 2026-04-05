@@ -1,0 +1,25 @@
+{
+  "question_text": "A microwave oven rated at 1000 W is 65% efficient at heating food. A conventional oven rated at 2000 W is 45% efficient. If you need to supply 10,000 J of energy to food, which appliance requires less electrical energy input and by how much?",
+  "question_type": "calculation",
+  "tags": [
+    "efficiency",
+    "power",
+    "energy transfer",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The microwave requires less energy by approximately 6,154 J (or the microwave needs ~15,385 J compared to the oven's ~22,222 J)",
+  "explanation": "For the microwave: useful energy = 65% of input, so 10,000 = 0.65 \u00d7 input, giving input = 15,385 J. For the oven: 10,000 = 0.45 \u00d7 input, giving input = 22,222 J. The microwave needs less total electrical energy because it's more efficient, even though it has lower power. Efficiency matters more than power rating when comparing energy requirements.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a49a5afd-386c-4233-a13a-8384ad7399cf",
+  "topic": "energy.power",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:20:27.588589",
+  "classified_at": "2026-04-05T02:20:27.588591",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/hard",
+  "raw_html": null
+}

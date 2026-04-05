@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following appliances would have the highest power rating?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "power rating",
+    "appliances",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A smartphone charger (5 W)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A hairdryer (1,500 W)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A desk lamp (40 W)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A microwave (800 W)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A hairdryer requires 1,500 W to produce heat and air movement, making it much more powerful than a phone charger, lamp, or microwave. Higher power means more energy is transferred per second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0658fc7f-bea0-4f72-9370-ba9de0559dcf",
+  "topic": "energy.power",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:13.891444",
+  "classified_at": "2026-04-05T02:20:13.891446",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

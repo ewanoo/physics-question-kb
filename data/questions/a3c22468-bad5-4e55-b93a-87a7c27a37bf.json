@@ -1,0 +1,24 @@
+{
+  "question_text": "During a thunderstorm, lightning forms when charge builds up between clouds and the ground. Explain why the lightning is so powerful and dangerous.",
+  "question_type": "short_answer",
+  "tags": [
+    "lightning",
+    "discharge",
+    "large charge"
+  ],
+  "options": null,
+  "correct_answer": "Enormous amounts of charge build up between the cloud and ground / The electrical potential difference is extremely large / This causes a massive electrical discharge through the air",
+  "explanation": "Lightning occurs when static charge accumulates to an enormous level between clouds and the Earth. When this charge is released as a discharge, it travels through the air at extremely high speed and temperature, making it very dangerous.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a3c22468-bad5-4e55-b93a-87a7c27a37bf",
+  "topic": "electricity.static",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:03.973891",
+  "classified_at": "2026-04-05T02:21:03.973892",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/medium",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "During a full moon, the Moon appears bright because it receives sunlight. Describe what happens to the Moon's appearance as it moves from a full moon to a new moon over two weeks.",
+  "question_type": "short_answer",
+  "tags": [
+    "lunar phases",
+    "moon position",
+    "light and shadow"
+  ],
+  "options": null,
+  "correct_answer": "The Moon gradually appears less illuminated/brighter, showing less of its lit side to Earth. It appears as a waning gibbous, then half moon (last quarter), then crescent, finally disappearing as a new moon. This happens because the Moon's position relative to Earth and Sun changes.",
+  "explanation": "As the Moon orbits Earth, the angle between the Sun, Earth, and Moon changes, so we see different amounts of the Moon's lit side. The sequence goes from full (fully lit) \u2192 waning gibbous \u2192 last quarter \u2192 waning crescent \u2192 new moon (not visible).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "25f9f0c8-ea99-401b-a779-c31470c606d6",
+  "topic": "space.earth_moon",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:52.192932",
+  "classified_at": "2026-04-05T02:21:52.192933",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.earth_moon/medium",
+  "raw_html": null
+}

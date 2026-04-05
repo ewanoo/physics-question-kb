@@ -1,0 +1,24 @@
+{
+  "question_text": "A light bulb has a power rating of 60 W. How much energy does it use in 5 minutes?",
+  "question_type": "calculation",
+  "tags": [
+    "power calculation",
+    "energy",
+    "rearranging formula"
+  ],
+  "options": null,
+  "correct_answer": "18,000 J (or 18 kJ)",
+  "explanation": "Rearranging P = E/t gives E = P \u00d7 t. First convert 5 minutes to 300 seconds, then E = 60 W \u00d7 300 s = 18,000 J. This shows how energy depends on both power and time.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0181f124-cb89-4467-88e6-77e751151617",
+  "topic": "energy.power",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:20:13.891593",
+  "classified_at": "2026-04-05T02:20:13.891594",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/medium",
+  "raw_html": null
+}

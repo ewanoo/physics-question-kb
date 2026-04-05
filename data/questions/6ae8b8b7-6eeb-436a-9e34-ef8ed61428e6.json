@@ -1,0 +1,24 @@
+{
+  "question_text": "A teenage girl needs about 8400 kJ of energy per day. Her breakfast provides 1800 kJ. How much energy does she still need for the rest of the day?",
+  "question_type": "calculation",
+  "tags": [
+    "balanced diet",
+    "energy needs",
+    "subtraction"
+  ],
+  "options": null,
+  "correct_answer": "6600 kJ",
+  "explanation": "To find how much energy is still needed, subtract the breakfast energy from the daily total: 8400 - 1800 = 6600 kJ. This energy should come from lunch, dinner, and snacks throughout the day.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6ae8b8b7-6eeb-436a-9e34-ef8ed61428e6",
+  "topic": "energy.food",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:19:55.637429",
+  "classified_at": "2026-04-05T02:19:55.637430",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.food/medium",
+  "raw_html": null
+}

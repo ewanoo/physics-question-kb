@@ -1,0 +1,24 @@
+{
+  "question_text": "A steel paper clip is placed 5 cm away from a bar magnet. The paper clip is attracted to the magnet and moves towards it. How far does the paper clip move?",
+  "question_type": "calculation",
+  "tags": [
+    "magnetic field",
+    "attraction",
+    "distance"
+  ],
+  "options": null,
+  "correct_answer": "5 cm (the paper clip moves the full distance to reach the magnet)",
+  "explanation": "The paper clip starts 5 cm away from the magnet. Since it is attracted and moves towards the magnet, it travels the entire 5 cm distance until it touches the magnet. Steel is a magnetic material, so it will be pulled across the gap.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "84328b6d-bddb-4340-82c6-5c08161552d0",
+  "topic": "electricity.magnets",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:44.404175",
+  "classified_at": "2026-04-05T02:20:44.404176",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.magnets/easy",
+  "raw_html": null
+}

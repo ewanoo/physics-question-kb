@@ -1,0 +1,24 @@
+{
+  "question_text": "A gas is trapped in a sealed container. The temperature of the gas is increased from 20\u00b0C to 40\u00b0C. Calculate the increase in kinetic energy of the particles as a percentage. (Hint: use absolute temperature in Kelvin: K = \u00b0C + 273)",
+  "question_type": "calculation",
+  "tags": [
+    "temperature",
+    "kinetic energy",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "6.7% (or approximately 7%)",
+  "explanation": "Convert to Kelvin: 20\u00b0C = 293K, 40\u00b0C = 313K. The kinetic energy is proportional to absolute temperature. Increase = (313 - 293)/293 \u00d7 100 = 20/293 \u00d7 100 = 6.8%. Using absolute temperature is essential because the kinetic energy of particles depends on how fast they move, which relates directly to Kelvin temperature.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f2f070b9-6b1c-46b1-821f-53fb4a3894a1",
+  "topic": "matter.particles",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:28.104367",
+  "classified_at": "2026-04-05T02:21:28.104369",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/medium",
+  "raw_html": null
+}

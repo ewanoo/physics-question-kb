@@ -1,0 +1,25 @@
+{
+  "question_text": "A balloon filled with nitrogen gas at sea level (101 kPa) is taken up a mountain where atmospheric pressure is 80 kPa. Assuming temperature stays constant and the balloon is flexible, what happens to the balloon and explain why using the particle model.",
+  "question_type": "short_answer",
+  "tags": [
+    "pressure",
+    "particle_model",
+    "gas_expansion",
+    "real_world_application"
+  ],
+  "options": null,
+  "correct_answer": "The balloon expands. At lower atmospheric pressure, there is less external force pushing on the balloon, so the gas particles inside push outward with greater net force. The particles are still moving at the same speed (constant temperature) but now there's less pressure opposing them from outside.",
+  "explanation": "This requires understanding that pressure is about particle collisions and that the net effect depends on pressure differences. Lower external pressure means less opposition to the internal gas pushing outward, so the balloon inflates\u2014a real-world application of the particle model.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "431871c2-955e-4b9e-8380-140473c52549",
+  "topic": "matter.particles",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:21:40.533864",
+  "classified_at": "2026-04-05T02:21:40.533866",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/hard",
+  "raw_html": null
+}

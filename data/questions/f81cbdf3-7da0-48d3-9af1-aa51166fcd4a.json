@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following best explains why a van de Graaff generator can produce a large static charge?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "van de Graaff",
+    "charge accumulation",
+    "static electricity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It uses friction to transfer many electrons onto a metal dome",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "It uses a battery to create electricity",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It attracts electrons from the surrounding air",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It converts heat energy into electrical charge",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A van de Graaff generator continuously transfers electrons via friction between a moving belt and the dome, allowing charge to build up to very high levels over time.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f81cbdf3-7da0-48d3-9af1-aa51166fcd4a",
+  "topic": "electricity.static",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:03.973790",
+  "classified_at": "2026-04-05T02:21:03.973793",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://electricity.static/medium",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "Name one appliance in your home that has a high power rating and explain why it needs to be high-power.",
+  "question_type": "short_answer",
+  "tags": [
+    "power",
+    "appliances",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Acceptable answers: electric kettle (boils water quickly), oven (heats up quickly), washing machine (needs to heat and spin fast), tumble dryer (heats clothes quickly), or similar. Explanation should mention needing to transfer energy quickly.",
+  "explanation": "High-power appliances like kettles and ovens need to transfer energy very quickly to do their job efficiently. For example, an electric kettle uses 3000W to boil water in just a few minutes rather than over a longer period.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "8732b519-1ee0-43f5-b9c2-fce0e9399fb1",
+  "topic": "energy.power",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:05.525707",
+  "classified_at": "2026-04-05T02:20:05.525709",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/easy",
+  "raw_html": null
+}

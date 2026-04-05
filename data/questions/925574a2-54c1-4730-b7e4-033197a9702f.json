@@ -1,0 +1,24 @@
+{
+  "question_text": "A microwave has a power rating of 800W. How much energy does it transfer in 10 seconds?",
+  "question_type": "calculation",
+  "tags": [
+    "power",
+    "energy",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "8000 joules (or 8 kJ)",
+  "explanation": "Power = Energy \u00f7 Time, so Energy = Power \u00d7 Time. Energy = 800W \u00d7 10s = 8000J. This shows that a higher-power appliance transfers more energy in the same amount of time.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "925574a2-54c1-4730-b7e4-033197a9702f",
+  "topic": "energy.power",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:05.525476",
+  "classified_at": "2026-04-05T02:20:05.525477",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/easy",
+  "raw_html": null
+}

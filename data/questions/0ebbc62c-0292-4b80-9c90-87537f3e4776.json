@@ -1,0 +1,45 @@
+{
+  "question_text": "What is power measured in?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "power",
+    "units",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Joules",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Watts",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Newtons",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Metres per second",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Power is the rate at which energy is transferred or used, and it is measured in watts (W). One watt equals one joule of energy transferred per second.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0ebbc62c-0292-4b80-9c90-87537f3e4776",
+  "topic": "energy.power",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:20:05.524990",
+  "classified_at": "2026-04-05T02:20:05.525009",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://energy.power/easy",
+  "raw_html": null
+}

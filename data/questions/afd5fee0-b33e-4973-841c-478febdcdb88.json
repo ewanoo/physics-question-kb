@@ -1,0 +1,24 @@
+{
+  "question_text": "Two identical containers hold different gases at the same temperature and pressure: Container A has nitrogen gas and Container B has carbon dioxide gas. Compare the average kinetic energy of the particles in each container.",
+  "question_type": "short_answer",
+  "tags": [
+    "kinetic energy",
+    "temperature",
+    "particle model"
+  ],
+  "options": null,
+  "correct_answer": "The average kinetic energy is the same in both containers because kinetic energy depends only on temperature, not on the type of gas or mass of particles.",
+  "explanation": "Kinetic energy is directly related to temperature alone. Since both gases are at the same temperature, their particles have the same average kinetic energy. The fact that carbon dioxide particles are heavier doesn't matter\u2014they just move slower on average to have the same kinetic energy as the lighter nitrogen particles.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "afd5fee0-b33e-4973-841c-478febdcdb88",
+  "topic": "matter.particles",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:21:28.104595",
+  "classified_at": "2026-04-05T02:21:28.104597",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/medium",
+  "raw_html": null
+}
