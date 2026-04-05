@@ -31,15 +31,27 @@ def generate_questions(topic: str, difficulty: str, count: int, question_types: 
         "forces.gravity": "gravity, weight = mass × gravitational field strength, g = 10 N/kg on Earth",
         "forces.moments": "moments = force × distance, levers, pivots, turning effect",
         "forces.pressure": "pressure = force / area, units Pa or N/m², hydraulics",
-        "forces.speed": "speed = distance / time, distance-time graphs, average speed",
-        "matter.changes": "physical and chemical changes, melting, boiling, dissolving, burning",
+        "forces.speed": "speed = distance / time, distance-time graphs, average speed, units m/s and km/h",
+        "forces.friction": "friction force, surfaces, lubrication, grip, heat from friction",
+        "forces.types": "contact and non-contact forces, gravity, magnetism, electrostatic, tension, normal reaction",
+        "forces.springs": "Hooke's law, spring constant, extension = force / k, elastic limit",
+        "matter.changes": "melting, freezing, evaporation, condensation, sublimation, boiling vs evaporation, latent heat",
         "matter.density": "density = mass / volume, g/cm³ or kg/m³, floating and sinking",
         "matter.particles": "particle model, atoms, molecules, arrangement in solids/liquids/gases",
         "matter.states": "states of matter, melting point, boiling point, changes of state",
-        "space.gravity": "gravity in space, orbits, Moon's gravity vs Earth, weightlessness",
-        "space.solar_system": "planets, Sun, moons, asteroids, order of planets, sizes and distances",
-        "waves.em_spectrum": "electromagnetic spectrum, radio waves to gamma rays, uses and dangers",
-        "waves.sound": "sound waves, frequency, amplitude, pitch, loudness, speed in media",
+        "matter.gas_pressure": "gas pressure, Boyle's law concept, pressure and temperature, compression",
+        "space.gravity": "gravity in space, orbits, Moon's gravity vs Earth, weightlessness, tides",
+        "space.solar_system": "8 planets in order, dwarf planets, asteroids, comets, moons, orbits, Milky Way",
+        "space.earth_moon": "Moon phases, lunar cycle 28 days, tides, solar/lunar eclipses, Moon as natural satellite",
+        "space.seasons": "seasons caused by Earth's tilt, not distance from Sun, solstice, equinox, day length",
+        "waves.em_spectrum": "electromagnetic spectrum, radio waves to gamma rays, uses and dangers, speed of light",
+        "waves.sound": "sound as longitudinal waves, speed of sound, pitch and frequency, loudness and amplitude, echo",
+        "waves.light": "reflection, refraction, law of reflection, ray diagrams, transparent/translucent/opaque, shadows",
+        "waves.colour": "white light dispersion, prism, ROYGBIV, colour filters, why objects appear coloured",
+        "waves.properties": "amplitude, frequency, wavelength, wave speed = f × λ, transverse vs longitudinal waves",
+        "energy.efficiency": "efficiency = useful energy out / total energy in × 100%, Sankey diagrams",
+        "energy.food": "food as energy store, calories/joules, energy in diet, metabolic rate, food chains",
+        "energy.stores": "kinetic, gravitational potential, elastic, thermal, chemical, nuclear, magnetic energy stores",
     }
 
     topic_note = subtopic_notes.get(topic, topic.replace(".", " ").replace("_", " "))
@@ -116,24 +128,35 @@ def save_questions(questions: list[dict]) -> int:
 
 def main():
     # Target slots: (topic, difficulty, count)
+    # Targeting the 9 weakest subtopics (68-69 questions each)
     targets = [
-        # energy.conservation medium is weakest at 16 — bring it to 22
-        ("energy.conservation", "medium", 6),
-        # 20-count slots — add 2 each, selecting a spread across topics
-        ("electricity.circuits", "easy", 2),
-        ("electricity.current_voltage", "medium", 2),
-        ("electricity.electromagnets", "easy", 2),
-        ("electricity.magnets", "easy", 2),
-        ("electricity.magnets", "medium", 2),
-        ("electricity.static", "medium", 2),
-        ("energy.power", "easy", 2),
-        ("energy.power", "hard", 2),
-        ("forces.balanced", "hard", 2),
-        ("forces.gravity", "medium", 2),
+        # waves.light (68) — add 4
+        ("waves.light", "easy", 2),
+        ("waves.light", "hard", 2),
+        # waves.properties (68) — add 4
+        ("waves.properties", "easy", 2),
+        ("waves.properties", "hard", 2),
+        # waves.sound (68) — add 4
+        ("waves.sound", "easy", 2),
+        ("waves.sound", "hard", 2),
+        # forces.gravity (69) — add 4
+        ("forces.gravity", "easy", 2),
         ("forces.gravity", "hard", 2),
-        ("forces.moments", "easy", 2),
-        ("forces.moments", "medium", 2),
-        ("forces.pressure", "medium", 2),
+        # forces.speed (69) — add 4
+        ("forces.speed", "easy", 2),
+        ("forces.speed", "hard", 2),
+        # matter.changes (69) — add 4
+        ("matter.changes", "easy", 2),
+        ("matter.changes", "hard", 2),
+        # space.earth_moon (69) — add 4
+        ("space.earth_moon", "easy", 2),
+        ("space.earth_moon", "hard", 2),
+        # space.solar_system (69) — add 4
+        ("space.solar_system", "easy", 2),
+        ("space.solar_system", "hard", 2),
+        # waves.colour (69) — add 4
+        ("waves.colour", "easy", 2),
+        ("waves.colour", "hard", 2),
     ]
 
     total = 0
