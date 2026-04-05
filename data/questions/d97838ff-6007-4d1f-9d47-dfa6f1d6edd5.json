@@ -1,0 +1,24 @@
+{
+  "id": "d97838ff-6007-4d1f-9d47-dfa6f1d6edd5",
+  "question_text": "A student stretches a spring with a force of 12 N and measures an extension of 0.3 m. Calculate the spring constant of the spring. (Use F = ke)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "spring_constant",
+    "hookes_law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "k = 40 N/m",
+  "explanation": "Using F = ke, rearrange to find k = F/e. Therefore k = 12 N / 0.3 m = 40 N/m. The spring constant tells us that 40 newtons of force would stretch this spring by 1 metre.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/medium",
+  "scraped_at": "2026-04-05T14:13:05.736588",
+  "classified_at": "2026-04-05T14:13:05.736588",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

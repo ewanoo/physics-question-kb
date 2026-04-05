@@ -1,0 +1,44 @@
+{
+  "id": "7c4af00a-3536-4746-8870-859e2a1979a4",
+  "question_text": "Which of the following is a physical change?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "physical_changes",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wood burning in a fire",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ice melting into water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A nail rusting in oxygen",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Bread dough rising when baked",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Ice melting into water",
+  "explanation": "Melting is a physical change because the water molecules remain the same, only their arrangement changes from solid to liquid. The other options involve chemical reactions that create new substances.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/easy",
+  "scraped_at": "2026-04-05T14:12:30.363909",
+  "classified_at": "2026-04-05T14:12:30.363909",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

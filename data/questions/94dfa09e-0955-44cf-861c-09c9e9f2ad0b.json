@@ -1,0 +1,24 @@
+{
+  "id": "94dfa09e-0955-44cf-861c-09c9e9f2ad0b",
+  "question_text": "A student has a mass of 50 kg on Earth where g = 10 N/kg. Calculate the student's weight on Earth.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "calculation",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "Use the formula: Weight = mass \u00d7 g. Weight = 50 kg \u00d7 10 N/kg = 500 N. The answer is in newtons because weight is a force.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/medium",
+  "scraped_at": "2026-04-05T14:13:19.798689",
+  "classified_at": "2026-04-05T14:13:19.798689",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

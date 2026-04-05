@@ -1,0 +1,45 @@
+{
+  "id": "a32917a0-f293-4ef0-ba64-fcd99af9692b",
+  "question_text": "A nutritionist is comparing two breakfast options:\nOption 1: Cereal with milk (350 kcal)\nOption 2: Toast with butter and jam (420 kcal)\n\nWhich statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy_measurement",
+    "balanced_diet",
+    "food_energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Option 1 stores more chemical energy because milk is a liquid",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Option 2 stores 70 kcal more chemical energy than Option 1",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Option 1 has more energy because cereal is a grain",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Neither option stores chemical energy\u2014energy is only in hot drinks",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Option 2 stores 70 kcal more chemical energy than Option 1",
+  "explanation": "The difference in energy content is 420 \u2212 350 = 70 kcal. Both foods store chemical energy regardless of their physical state or type. A balanced breakfast would consider both energy content and nutritional value.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/medium",
+  "scraped_at": "2026-04-05T14:12:59.496311",
+  "classified_at": "2026-04-05T14:12:59.496311",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "e881ff31-c582-4173-a2d6-d24764c19e85",
+  "question_text": "Which of the following is the correct formula for density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "formula"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "density = volume \u00f7 mass",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "density = mass \u00f7 volume",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "density = mass \u00d7 volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "density = volume - mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "density = mass \u00f7 volume",
+  "explanation": "Density tells us how much mass is packed into a certain volume, so we divide mass by volume. The formula is \u03c1 = m/V.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/easy",
+  "scraped_at": "2026-04-05T14:13:13.365651",
+  "classified_at": "2026-04-05T14:13:13.365651",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

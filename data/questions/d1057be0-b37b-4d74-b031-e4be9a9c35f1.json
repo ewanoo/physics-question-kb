@@ -1,0 +1,24 @@
+{
+  "id": "d1057be0-b37b-4d74-b031-e4be9a9c35f1",
+  "question_text": "The UK receives 16 hours of daylight on the summer solstice. If the Earth rotates once every 24 hours, calculate how many hours of darkness the UK experiences on the summer solstice.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "length_of_day",
+    "solstices",
+    "Earth_orbit"
+  ],
+  "options": null,
+  "correct_answer": "8 hours",
+  "explanation": "The total hours in a day is 24 hours. If daylight = 16 hours, then darkness = 24 - 16 = 8 hours. This demonstrates that on the summer solstice, the UK has significantly more daylight than darkness because the Northern Hemisphere is tilted towards the Sun.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/hard",
+  "scraped_at": "2026-04-05T14:12:43.124455",
+  "classified_at": "2026-04-05T14:12:43.124455",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

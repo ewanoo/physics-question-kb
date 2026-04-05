@@ -1,0 +1,24 @@
+{
+  "id": "3ed2046e-386f-4cfc-bcb6-04d732ad96cf",
+  "question_text": "A student heats ice in a beaker and observes it turning into water. Is this change reversible or irreversible? Explain your answer.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "reversible_changes",
+    "melting",
+    "freezing"
+  ],
+  "options": null,
+  "correct_answer": "This change is reversible. The water can be frozen back into ice by cooling it down, so the original substance can be recovered.",
+  "explanation": "A reversible change is one where the original substance can be recovered by undoing the process. Since frozen water can be melted and then refrozen, melting is reversible. This is different from irreversible changes like burning, which cannot easily be undone.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/medium",
+  "scraped_at": "2026-04-05T14:12:30.363909",
+  "classified_at": "2026-04-05T14:12:30.363909",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "7d21f3f0-822a-4018-914a-f66dc90bf4e5",
+  "question_text": "What does the formula for energy efficiency measure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy efficiency",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How much energy is wasted as heat",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How much useful energy output you get from the total energy input",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The total amount of energy supplied to a device",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The amount of energy lost through insulation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "How much useful energy output you get from the total energy input",
+  "explanation": "Energy efficiency compares useful output to total input as a percentage, showing how well a device converts energy into useful forms rather than wasting it.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/easy",
+  "scraped_at": "2026-04-05T14:12:50.777297",
+  "classified_at": "2026-04-05T14:12:50.777297",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

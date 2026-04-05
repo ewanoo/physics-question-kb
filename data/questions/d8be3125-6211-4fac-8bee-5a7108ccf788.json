@@ -1,0 +1,45 @@
+{
+  "id": "d8be3125-6211-4fac-8bee-5a7108ccf788",
+  "question_text": "What is the main form of energy stored in food?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food",
+    "chemical_energy",
+    "energy_stores"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Chemical energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Elastic potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Chemical energy",
+  "explanation": "Food stores energy as chemical energy in the bonds between atoms in food molecules. When we eat and digest food, our bodies release this energy for use.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/easy",
+  "scraped_at": "2026-04-05T14:12:59.496311",
+  "classified_at": "2026-04-05T14:12:59.496311",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

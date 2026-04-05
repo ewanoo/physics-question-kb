@@ -1,0 +1,45 @@
+{
+  "id": "dd22f630-5d50-4b82-bbee-4ac72f3b8e90",
+  "question_text": "What is the relationship between mass and weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Weight and mass are the same thing",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Weight is the force of gravity acting on an object's mass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Mass depends on the gravitational field strength, but weight does not",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Weight is always measured in kilograms",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Weight is the force of gravity acting on an object's mass",
+  "explanation": "Weight is a force caused by gravity pulling on mass. Mass stays the same everywhere, but weight changes depending on the gravitational field strength of the planet or location.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/easy",
+  "scraped_at": "2026-04-05T14:13:19.798689",
+  "classified_at": "2026-04-05T14:13:19.798689",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

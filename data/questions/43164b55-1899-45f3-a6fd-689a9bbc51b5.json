@@ -1,0 +1,24 @@
+{
+  "id": "43164b55-1899-45f3-a6fd-689a9bbc51b5",
+  "question_text": "A student measures the density of a liquid and gets a result of 0.8 g/cm\u00b3. Explain why this liquid would float on water (density of water = 1.0 g/cm\u00b3).",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "The liquid has a lower density (0.8 g/cm\u00b3) than water (1.0 g/cm\u00b3). Objects or liquids with lower density float on denser liquids, so this liquid would float on water.",
+  "explanation": "When a substance is less dense than the liquid it is placed in, it will float to the surface. The liquid's density of 0.8 g/cm\u00b3 is less than water's 1.0 g/cm\u00b3, so it is less dense and will float.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/medium",
+  "scraped_at": "2026-04-05T14:13:13.365651",
+  "classified_at": "2026-04-05T14:13:13.365651",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

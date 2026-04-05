@@ -1,0 +1,46 @@
+{
+  "id": "f747ec6f-fa56-4841-ac0a-5a5be785e5d7",
+  "question_text": "Which statement best compares fossil fuels and nuclear energy in terms of carbon dioxide emissions?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "nuclear",
+    "environmental impact",
+    "CO2 emissions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Fossil fuels produce no CO\u2082, but nuclear energy produces large amounts",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Fossil fuels produce large amounts of CO\u2082 during combustion, while nuclear energy produces very little CO\u2082 during operation",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both fossil fuels and nuclear energy produce equal amounts of CO\u2082",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Nuclear energy produces more CO\u2082 than fossil fuels because of radioactive waste",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Fossil fuels produce large amounts of CO\u2082 during combustion, while nuclear energy produces very little CO\u2082 during operation",
+  "explanation": "Burning fossil fuels releases stored carbon as CO\u2082, contributing to climate change. Nuclear energy generates electricity without burning fuel, so it produces negligible CO\u2082 during operation, though some is produced during construction and uranium mining.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/medium",
+  "scraped_at": "2026-04-05T14:12:36.963695",
+  "classified_at": "2026-04-05T14:12:36.963695",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

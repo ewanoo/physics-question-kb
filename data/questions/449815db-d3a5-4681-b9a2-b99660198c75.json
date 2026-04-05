@@ -1,0 +1,46 @@
+{
+  "id": "449815db-d3a5-4681-b9a2-b99660198c75",
+  "question_text": "A wooden block floats in water, but an iron block of the same volume sinks. What does this tell us about their densities?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wood is denser than water, iron is less dense than water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wood and iron have the same density",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Wood is less dense than water, iron is denser than water",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Density has no effect on whether objects float or sink",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Wood is less dense than water, iron is denser than water",
+  "explanation": "Objects float when they are less dense than the liquid they are in, and sink when they are denser. Since wood floats and iron sinks in water, wood must be less dense than water and iron must be denser than water.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/medium",
+  "scraped_at": "2026-04-05T14:13:13.365651",
+  "classified_at": "2026-04-05T14:13:13.365651",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

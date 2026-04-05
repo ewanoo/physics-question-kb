@@ -1,0 +1,45 @@
+{
+  "id": "a9b983c5-0594-432c-be5f-e5d68645c34e",
+  "question_text": "Which of the following best describes the difference between a reversible change and an irreversible change?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "reversible_changes",
+    "irreversible_changes",
+    "comparing"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A reversible change happens quickly, while an irreversible change happens slowly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A reversible change can be undone to recover the original substance, while an irreversible change cannot be easily undone",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A reversible change involves heating, while an irreversible change involves cooling",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A reversible change is a physical change, while an irreversible change is always a chemical change",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A reversible change can be undone to recover the original substance, while an irreversible change cannot be easily undone",
+  "explanation": "The key difference is whether the original substance can be recovered. Reversible changes like melting and freezing can be undone, but irreversible changes like burning create new substances that cannot be easily reversed.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/medium",
+  "scraped_at": "2026-04-05T14:12:30.363909",
+  "classified_at": "2026-04-05T14:12:30.363909",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

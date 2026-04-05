@@ -1,0 +1,24 @@
+{
+  "id": "296a60d7-289f-464d-b5bd-e103bceb12f3",
+  "question_text": "Two springs, A and B, are tested. Spring A requires 5 N to extend by 0.1 m, while spring B requires 10 N to extend by 0.2 m. Which spring is stiffer and by how much? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring_constant",
+    "comparison",
+    "hookes_law"
+  ],
+  "options": null,
+  "correct_answer": "Spring A has k = 50 N/m; Spring B has k = 50 N/m. Both springs have the same spring constant, so neither is stiffer than the other.",
+  "explanation": "For spring A: k = F/e = 5/0.1 = 50 N/m. For spring B: k = F/e = 10/0.2 = 50 N/m. Although spring B needs more force to extend, it extends more, so the spring constants are equal. A higher spring constant means a stiffer spring.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/hard",
+  "scraped_at": "2026-04-05T14:13:05.736588",
+  "classified_at": "2026-04-05T14:13:05.736588",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

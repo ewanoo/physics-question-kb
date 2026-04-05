@@ -1,0 +1,44 @@
+{
+  "id": "9ecedb49-816a-4658-883d-0dcf594a81b3",
+  "question_text": "What is the axial tilt of Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "axial_tilt",
+    "Earth_orbit"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "0\u00b0",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "23.5\u00b0",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "45\u00b0",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "90\u00b0",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "23.5\u00b0",
+  "explanation": "Earth's axis is tilted at 23.5\u00b0 to the plane of its orbit around the Sun. This tilt is the main reason we experience seasons.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/easy",
+  "scraped_at": "2026-04-05T14:12:43.124455",
+  "classified_at": "2026-04-05T14:12:43.124455",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

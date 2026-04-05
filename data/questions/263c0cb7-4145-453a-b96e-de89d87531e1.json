@@ -1,0 +1,24 @@
+{
+  "id": "263c0cb7-4145-453a-b96e-de89d87531e1",
+  "question_text": "A kettle has a total energy input of 3000 J. It wastes 600 J as heat through its sides. A student improves the kettle's insulation. After insulation, only 150 J is wasted. Calculate the change in energy efficiency as a percentage.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy efficiency",
+    "insulation",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "15% increase in efficiency (from 80% to 95%)",
+  "explanation": "Before insulation: useful output = 3000 - 600 = 2400 J, so efficiency = (2400/3000) \u00d7 100% = 80%. After insulation: useful output = 3000 - 150 = 2850 J, so efficiency = (2850/3000) \u00d7 100% = 95%. The change is 95% - 80% = 15% increase.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T14:12:50.777297",
+  "classified_at": "2026-04-05T14:12:50.777297",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

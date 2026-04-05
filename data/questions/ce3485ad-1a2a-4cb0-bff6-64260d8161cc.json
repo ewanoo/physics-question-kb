@@ -1,0 +1,25 @@
+{
+  "id": "ce3485ad-1a2a-4cb0-bff6-64260d8161cc",
+  "question_text": "A cyclist travels 8 km in the first 20 minutes of a journey, then 12 km in the next 40 minutes. Calculate the average speed for the entire journey in km/h.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "distance",
+    "time",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "12 km/h",
+  "explanation": "Total distance = 8 + 12 = 20 km. Total time = 20 + 40 = 60 minutes = 1 hour. Average speed = 20 km \u00f7 1 h = 12 km/h. Remember to add all distances and times together before calculating average speed.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.speed/hard",
+  "scraped_at": "2026-04-05T14:12:22.978286",
+  "classified_at": "2026-04-05T14:12:22.978286",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

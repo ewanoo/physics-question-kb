@@ -1,0 +1,24 @@
+{
+  "id": "fc2c13af-c452-4394-9406-7bc0ad680699",
+  "question_text": "LED bulbs have an efficiency of 80%, while older incandescent bulbs have an efficiency of only 5%. Explain why LEDs are better for saving energy in the home.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy efficiency",
+    "LED vs incandescent",
+    "comparing efficiency"
+  ],
+  "options": null,
+  "correct_answer": "LEDs convert 80% of energy input into useful light, while incandescent bulbs only convert 5% to light and waste 95% as heat. This means LEDs use much less electricity to produce the same amount of light, reducing energy consumption and electricity bills.",
+  "explanation": "The much higher efficiency of LEDs means far less energy is wasted, making them more economical and environmentally friendly. The low efficiency of incandescent bulbs means most energy is wasted as unwanted heat.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/medium",
+  "scraped_at": "2026-04-05T14:12:50.777297",
+  "classified_at": "2026-04-05T14:12:50.777297",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

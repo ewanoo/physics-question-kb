@@ -1,0 +1,45 @@
+{
+  "id": "0ebf3052-fd83-45cd-a402-c32aa1f7e5ae",
+  "question_text": "During the winter solstice in the Northern Hemisphere, which hemisphere receives more direct sunlight and has longer days?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "solstices",
+    "hemisphere_differences",
+    "seasons"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Northern Hemisphere, because it is tilted towards the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Southern Hemisphere, because it is tilted away from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Southern Hemisphere, because it is tilted towards the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Neither hemisphere receives more direct sunlight at the solstice",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The Southern Hemisphere, because it is tilted towards the Sun",
+  "explanation": "When the Northern Hemisphere experiences winter solstice, it is tilted away from the Sun. At the same time, the Southern Hemisphere is tilted towards the Sun, so it receives more direct sunlight and experiences summer.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/medium",
+  "scraped_at": "2026-04-05T14:12:43.124455",
+  "classified_at": "2026-04-05T14:12:43.124455",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

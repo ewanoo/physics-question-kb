@@ -1,0 +1,26 @@
+{
+  "id": "8329fa3f-bca4-4599-95bc-94c87b420bf1",
+  "question_text": "A rectangular block of metal has a mass of 240 g. When placed in a measuring cylinder containing 50 cm\u00b3 of water, the water level rises to 80 cm\u00b3. Calculate the density of the metal in g/cm\u00b3. Will this metal float or sink in water? Explain your answer.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "displacement",
+    "floating",
+    "sinking",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Volume of metal = 80 - 50 = 30 cm\u00b3. Density = mass \u00f7 volume = 240 \u00f7 30 = 8 g/cm\u00b3. The metal will sink because its density (8 g/cm\u00b3) is greater than the density of water (1.0 g/cm\u00b3).",
+  "explanation": "First, find the volume using displacement: the difference between final and initial water levels. Then use \u03c1 = m/V to calculate density. Since 8 g/cm\u00b3 > 1.0 g/cm\u00b3, the metal is denser than water and will sink.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/hard",
+  "scraped_at": "2026-04-05T14:13:13.365651",
+  "classified_at": "2026-04-05T14:13:13.365651",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

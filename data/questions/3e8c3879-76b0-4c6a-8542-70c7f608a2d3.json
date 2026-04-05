@@ -1,0 +1,24 @@
+{
+  "id": "3e8c3879-76b0-4c6a-8542-70c7f608a2d3",
+  "question_text": "Look at the distance-time graph below. Between which two points is the object moving fastest? Point A to B, Point B to C, or Point C to D? Explain your answer.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graph",
+    "speed",
+    "gradient"
+  ],
+  "options": null,
+  "correct_answer": "Point A to B. The gradient (slope) of the line is steepest between A and B, which means the object covers more distance in the same amount of time, so it is moving fastest.",
+  "explanation": "On a distance-time graph, the steeper the gradient, the faster the object is moving. A steeper line means greater distance covered in a shorter time interval, indicating higher speed.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.speed/medium",
+  "scraped_at": "2026-04-05T14:12:22.978286",
+  "classified_at": "2026-04-05T14:12:22.978286",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

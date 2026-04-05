@@ -1,0 +1,24 @@
+{
+  "id": "648d06e0-4683-4ed0-9793-18702a2ee502",
+  "question_text": "Explain why the UK experiences longer days in summer than in winter.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "length_of_day",
+    "axial_tilt"
+  ],
+  "options": null,
+  "correct_answer": "In summer, the Northern Hemisphere is tilted towards the Sun. This means the UK experiences a longer period of daylight because the Sun is in the sky for more hours. In winter, the Northern Hemisphere is tilted away from the Sun, so the Sun is in the sky for fewer hours, resulting in shorter days.",
+  "explanation": "The tilt of Earth means that in summer the Northern Hemisphere is angled towards the Sun, so locations like the UK have the Sun above the horizon for a longer time each day. In winter, the opposite is true, and days are shorter.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/medium",
+  "scraped_at": "2026-04-05T14:12:43.124455",
+  "classified_at": "2026-04-05T14:12:43.124455",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

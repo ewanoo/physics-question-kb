@@ -1,0 +1,24 @@
+{
+  "id": "f8c1bcb2-798c-41f3-ba7a-9b2b0408a7bb",
+  "question_text": "A wind farm produces 150 MW of power. If the wind farm operates at full capacity for 6 hours per day, how much electrical energy (in MWh) does it generate in one day? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "wind",
+    "energy calculation",
+    "power"
+  ],
+  "options": null,
+  "correct_answer": "900 MWh",
+  "explanation": "Energy = Power \u00d7 Time. Energy = 150 MW \u00d7 6 hours = 900 MWh. This calculation requires students to apply the relationship between power, energy, and time, and understand that wind farms don't always operate at full capacity due to variable wind conditions.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/hard",
+  "scraped_at": "2026-04-05T14:12:36.963695",
+  "classified_at": "2026-04-05T14:12:36.963695",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "86a210ec-c2b2-44ba-918f-80ff1dc04123",
+  "question_text": "Geothermal energy comes from heat inside the Earth. Explain why geothermal energy is considered a renewable energy source.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "geothermal",
+    "renewable",
+    "advantages"
+  ],
+  "options": null,
+  "correct_answer": "Geothermal energy is renewable because the heat from inside the Earth is continuously produced and will not run out on a human timescale. It is naturally replenished by radioactive decay within the Earth's crust.",
+  "explanation": "Unlike fossil fuels which have finite reserves, Earth's internal heat is constantly generated and available, making it renewable. Students should recognise that 'renewable' means the resource replenishes itself naturally.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/medium",
+  "scraped_at": "2026-04-05T14:12:36.963695",
+  "classified_at": "2026-04-05T14:12:36.963695",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

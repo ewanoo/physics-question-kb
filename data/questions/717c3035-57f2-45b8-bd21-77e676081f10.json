@@ -1,0 +1,25 @@
+{
+  "id": "717c3035-57f2-45b8-bd21-77e676081f10",
+  "question_text": "A planet has a gravitational field strength of 25 N/kg. An object has a mass of 8 kg. What would the object's weight be on this planet, and how does this compare to its weight on Earth (g = 10 N/kg)?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "gravitational field strength",
+    "gravity on different planets",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Weight on the planet = 200 N. This is 2.5 times heavier than on Earth (where weight = 80 N).",
+  "explanation": "Step 1: Calculate weight on the planet: W = 8 kg \u00d7 25 N/kg = 200 N. Step 2: Calculate weight on Earth: W = 8 kg \u00d7 10 N/kg = 80 N. Step 3: Compare: 200 N \u00f7 80 N = 2.5, so the object is 2.5 times heavier on the planet. This shows that stronger gravitational fields produce greater weights.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/hard",
+  "scraped_at": "2026-04-05T14:13:19.798689",
+  "classified_at": "2026-04-05T14:13:19.798689",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
