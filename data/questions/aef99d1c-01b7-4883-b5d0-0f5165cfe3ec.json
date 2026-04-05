@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best explains what happens when you rub a balloon on your hair?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "static charge",
+    "friction",
+    "charging"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electrons are transferred from your hair to the balloon, making the balloon negatively charged",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Protons move from the balloon to your hair",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The balloon becomes positively charged and repels your hair",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Heat energy creates the static charge",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "When materials rub together, electrons (negative charges) can be transferred from one material to another. Your hair loses electrons to the balloon, so the balloon becomes negatively charged.",
+  "quality_score": 4,
+  "id": "aef99d1c-01b7-4883-b5d0-0f5165cfe3ec",
+  "source_name": "claude_generator"
+}

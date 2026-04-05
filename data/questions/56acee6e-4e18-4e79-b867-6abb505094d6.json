@@ -1,0 +1,17 @@
+{
+  "question_text": "A student rubs two identical plastic rods with wool. Both become negatively charged. When brought close together, the rods repel each other. Explain this observation and predict what would happen if one rod was rubbed with silk instead, which would make it positively charged.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static charge",
+    "attraction repulsion",
+    "like and opposite charges"
+  ],
+  "options": null,
+  "correct_answer": "Both rods are negatively charged, so like charges repel each other. If one rod became positively charged (by rubbing with silk), opposite charges would attract, so the rods would attract instead.",
+  "explanation": "The rule is: like charges repel and opposite charges attract. Two negative charges repel because they are the same type. A positive and negative charge would attract because they are opposite types.",
+  "quality_score": 4,
+  "id": "56acee6e-4e18-4e79-b867-6abb505094d6",
+  "source_name": "claude_generator"
+}

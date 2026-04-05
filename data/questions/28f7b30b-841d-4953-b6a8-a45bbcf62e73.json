@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the main reason the Arctic experiences the midnight sun in summer?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "midnight sun",
+    "Earth tilt",
+    "polar regions"
+  ],
+  "options": null,
+  "correct_answer": "During summer, the Arctic region is tilted towards the Sun for 24 hours as Earth rotates, so the Sun never sets below the horizon.",
+  "explanation": "Earth's 23.5\u00b0 axial tilt means that during summer, the Arctic Circle is tilted so steeply towards the Sun that the Sun remains above the horizon for a full 24-hour rotation. This only happens above the Arctic Circle (66.5\u00b0N) during the summer solstice.",
+  "quality_score": 4,
+  "id": "28f7b30b-841d-4953-b6a8-a45bbcf62e73",
+  "source_name": "claude_generator"
+}

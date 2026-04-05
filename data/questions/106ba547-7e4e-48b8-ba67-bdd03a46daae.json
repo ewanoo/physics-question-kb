@@ -1,0 +1,17 @@
+{
+  "question_text": "A hydroelectric power station generates electricity. What energy transfers occur?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "hydroelectric energy",
+    "energy transfer",
+    "renewable energy"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy of water \u2192 kinetic energy as water falls \u2192 mechanical energy in turbine \u2192 electrical energy in generator",
+  "explanation": "In a hydroelectric power station, water stored at height has gravitational potential energy. As it falls, this converts to kinetic energy. The moving water turns turbines (mechanical energy), which drives generators to produce electricity (electrical energy).",
+  "quality_score": 4,
+  "id": "106ba547-7e4e-48b8-ba67-bdd03a46daae",
+  "source_name": "claude_generator"
+}

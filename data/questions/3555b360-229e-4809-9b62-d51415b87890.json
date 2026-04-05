@@ -1,0 +1,38 @@
+{
+  "question_text": "If day length in the UK on 21 December is approximately 8 hours, what is the day length on 21 June (summer solstice)?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "day length",
+    "seasons",
+    "solstice"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "8 hours (stays the same)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "12 hours (equal day and night)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Approximately 16 hours",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "24 hours (sun never sets)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "On the summer solstice (21 June), the Northern Hemisphere is tilted most towards the Sun, giving the longest day. In the UK, this results in about 16 hours of daylight, compared to about 8 hours in winter. Day length varies with latitude and the tilt of Earth's axis.",
+  "quality_score": 4,
+  "id": "3555b360-229e-4809-9b62-d51415b87890",
+  "source_name": "claude_generator"
+}

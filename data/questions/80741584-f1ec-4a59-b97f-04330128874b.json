@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the correct order of the planets from the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "order",
+    "solar system"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Venus, Mercury, Earth, Mars, Jupiter, Saturn, Neptune, Uranus",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Mercury, Earth, Venus, Mars, Jupiter, Saturn, Uranus, Neptune",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mercury, Venus, Mars, Earth, Jupiter, Saturn, Uranus, Neptune",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The eight planets orbit the Sun in a specific order based on their distance from it. The mnemonic 'My Very Educated Mother Just Served Us Noodles' helps remember this sequence. Mercury is closest and Neptune is furthest.",
+  "quality_score": 4,
+  "id": "80741584-f1ec-4a59-b97f-04330128874b",
+  "source_name": "claude_generator"
+}

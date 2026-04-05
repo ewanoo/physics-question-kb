@@ -1,0 +1,18 @@
+{
+  "question_text": "A spring is compressed and then released. Describe the energy transfers that occur.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "elastic potential energy",
+    "kinetic energy",
+    "energy transfer",
+    "energy conservation"
+  ],
+  "options": null,
+  "correct_answer": "Elastic potential energy converts to kinetic energy. The compressed spring transfers its stored energy to an object, giving it movement.",
+  "explanation": "When a compressed spring is released, the elastic potential energy stored in the spring is converted into kinetic energy of the object it pushes. Energy is conserved\u2014no energy is lost, just converted from one store to another.",
+  "quality_score": 4,
+  "id": "5753f0a6-1b2b-4aa4-9279-7e0f16fdd56b",
+  "source_name": "claude_generator"
+}

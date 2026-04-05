@@ -1,0 +1,17 @@
+{
+  "question_text": "A student builds a circuit with a 6 V battery and measures the voltage across one resistor as 2 V. In a series circuit, what would be the voltage across a second identical resistor, and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuit",
+    "voltage distribution",
+    "identical components"
+  ],
+  "options": null,
+  "correct_answer": "2 V. In a series circuit with identical resistors, the voltage divides equally between them, so each identical resistor has the same voltage drop.",
+  "explanation": "In a series circuit, voltage is shared between components based on their resistance. Since identical resistors have equal resistance, they share the voltage equally. If one has 2 V, the other must also have 2 V (total 4 V for two resistors, leaving 2 V for other components or if there are only two, this accounts for the full 6 V minus any other resistances).",
+  "quality_score": 4,
+  "id": "ce2ca51d-ab62-4ec5-9763-a39dcc401a75",
+  "source_name": "claude_generator"
+}

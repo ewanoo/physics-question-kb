@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of kinetic energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "energy stores",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A ball rolling down a hill",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A stretched spring",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A book sitting on a shelf",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Heat from a fire",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Kinetic energy is the energy of movement. A ball rolling down a hill is moving, so it has kinetic energy. A stretched spring has elastic potential energy, a book on a shelf has gravitational potential energy, and heat from a fire is thermal energy.",
+  "quality_score": 4,
+  "id": "5a4ed120-f3d9-419c-a547-ae647eb551d8",
+  "source_name": "claude_generator"
+}

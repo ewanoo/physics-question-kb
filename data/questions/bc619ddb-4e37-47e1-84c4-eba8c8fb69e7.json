@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains the difference between mass and weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "gravity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mass and weight are the same thing, just different names",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mass is the amount of matter in an object; weight is the gravitational force acting on that mass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Mass is measured in Newtons; weight is measured in kilograms",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Weight stays the same everywhere; mass changes on different planets",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Mass is an intrinsic property of an object that doesn't change\u2014it's the amount of matter. Weight is the force of gravity pulling on that mass, so it changes depending on the gravitational field strength of the planet you're on.",
+  "quality_score": 4,
+  "id": "bc619ddb-4e37-47e1-84c4-eba8c8fb69e7",
+  "source_name": "claude_generator"
+}

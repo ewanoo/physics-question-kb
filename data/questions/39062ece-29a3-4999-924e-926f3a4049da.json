@@ -1,0 +1,18 @@
+{
+  "question_text": "Calculate the weight of a 50 kg student on Earth (use g = 10 N/kg).",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "calculation",
+    "g=10"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "Use the formula W = mg. Weight = mass \u00d7 gravitational field strength. W = 50 kg \u00d7 10 N/kg = 500 N. Weight is always measured in Newtons (N), while mass is in kilograms (kg).",
+  "quality_score": 4,
+  "id": "39062ece-29a3-4999-924e-926f3a4049da",
+  "source_name": "claude_generator"
+}

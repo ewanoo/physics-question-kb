@@ -1,0 +1,17 @@
+{
+  "question_text": "A car of mass 1000 kg is travelling at 10 m/s. Calculate its kinetic energy using the formula KE = \u00bdmv\u00b2.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "50,000 J (or 50 kJ)",
+  "explanation": "Using KE = \u00bdmv\u00b2, we substitute m = 1000 kg and v = 10 m/s. KE = \u00bd \u00d7 1000 \u00d7 10\u00b2 = \u00bd \u00d7 1000 \u00d7 100 = 50,000 J. Always remember to square the velocity and divide the mass by 2.",
+  "quality_score": 4,
+  "id": "da6957ef-8567-4bc6-9b26-5908d66e7201",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "In a parallel circuit with three identical bulbs, if one bulb burns out, what happens to the other two bulbs?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuit",
+    "branches",
+    "fault tolerance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They both go out completely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They both stay at the same brightness as before",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They both get brighter",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "One stays on and one goes dimmer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In a parallel circuit, each bulb has its own separate path for current. If one bulb burns out, it only breaks that branch, so the other branches remain unaffected and the bulbs stay the same brightness.",
+  "quality_score": 4,
+  "id": "0cd0fd80-f081-49ba-8aca-06cb1326e271",
+  "source_name": "claude_generator"
+}

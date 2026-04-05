@@ -1,0 +1,38 @@
+{
+  "question_text": "Which energy resource is renewable?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "non-renewable energy",
+    "energy resources"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wind energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Natural gas",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Nuclear fuel",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Wind energy is renewable because the wind is constantly produced by the sun heating the Earth's atmosphere. Coal, natural gas, and nuclear fuel are non-renewable because they take millions of years to form or are finite resources.",
+  "quality_score": 4,
+  "id": "8156831d-cde5-4999-a9f3-408deef44db4",
+  "source_name": "claude_generator"
+}

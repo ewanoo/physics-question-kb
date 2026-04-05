@@ -1,0 +1,19 @@
+{
+  "question_text": "Compare fossil fuels and nuclear energy as power sources. Include their advantages and disadvantages.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "nuclear energy",
+    "non-renewable",
+    "comparison",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Fossil fuels are non-renewable and produce greenhouse gases but are easy to transport and use. Nuclear energy is non-renewable but produces large amounts of energy with no greenhouse gases; however, it produces radioactive waste that is difficult to dispose of safely.",
+  "explanation": "Both fossil fuels and nuclear energy are non-renewable resources. Fossil fuels release carbon dioxide contributing to climate change, but nuclear power has no direct emissions. However, nuclear waste remains dangerous for thousands of years. Students should demonstrate understanding of trade-offs between efficiency and environmental impact.",
+  "quality_score": 4,
+  "id": "b10ec70b-ad85-4204-820f-0c4166a2c013",
+  "source_name": "claude_generator"
+}

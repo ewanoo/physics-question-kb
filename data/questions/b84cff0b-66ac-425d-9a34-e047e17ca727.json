@@ -1,0 +1,37 @@
+{
+  "question_text": "Which of the following correctly shows the symbol for a variable resistor (rheostat) in a circuit diagram?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit diagram symbols",
+    "variable resistor"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A rectangle with an arrow pointing through it at an angle",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A simple rectangle",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A circle with an X inside",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A zigzag line",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The standard circuit diagram symbol for a variable resistor (rheostat) is a rectangle with an arrow pointing diagonally through it, showing that resistance can be changed.",
+  "quality_score": 4,
+  "id": "b84cff0b-66ac-425d-9a34-e047e17ca727",
+  "source_name": "claude_generator"
+}

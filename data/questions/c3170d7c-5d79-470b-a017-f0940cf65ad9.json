@@ -1,0 +1,17 @@
+{
+  "question_text": "Why does the UK experience summer when the Northern Hemisphere is tilted towards the Sun?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "Earth tilt",
+    "solar radiation"
+  ],
+  "options": null,
+  "correct_answer": "When the Northern Hemisphere tilts towards the Sun, the Sun's rays are more direct and concentrated, providing more energy. Also, the days are longer, so there is more time for the Sun to heat the Earth.",
+  "explanation": "Earth's axial tilt of 23.5\u00b0 means that different parts receive different amounts of solar energy throughout the year. When tilted towards the Sun, rays hit at a steeper angle and days are longer, both causing warmer temperatures.",
+  "quality_score": 4,
+  "id": "c3170d7c-5d79-470b-a017-f0940cf65ad9",
+  "source_name": "claude_generator"
+}

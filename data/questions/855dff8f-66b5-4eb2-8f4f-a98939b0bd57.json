@@ -1,0 +1,16 @@
+{
+  "question_text": "A student measures the current through a resistor as 2 A and the voltage across it as 6 V. What is the resistance? (Use R = V \u00f7 I)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "resistance calculation"
+  ],
+  "options": null,
+  "correct_answer": "3 \u03a9 (ohms)",
+  "explanation": "Using Ohm's law R = V \u00f7 I: R = 6 V \u00f7 2 A = 3 \u03a9. Resistance is measured in ohms (\u03a9).",
+  "quality_score": 4,
+  "id": "855dff8f-66b5-4eb2-8f4f-a98939b0bd57",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Calculate the weight of a 75 kg astronaut on the Moon, where the gravitational field strength is 1.6 N/kg.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "moon",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "120 N",
+  "explanation": "Use W = mg. Weight on Moon = 75 kg \u00d7 1.6 N/kg = 120 N. Notice the astronaut weighs much less on the Moon than on Earth (where they would weigh 750 N) because the Moon's gravity is weaker.",
+  "quality_score": 4,
+  "id": "639d5d6f-6f46-4038-b01f-64d2980e1ee9",
+  "source_name": "claude_generator"
+}

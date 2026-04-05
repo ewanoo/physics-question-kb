@@ -1,0 +1,16 @@
+{
+  "question_text": "A wire has a resistance of 4 \u03a9. If a voltage of 12 V is applied across it, what current flows through the wire? (Use I = V \u00f7 R)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "current calculation"
+  ],
+  "options": null,
+  "correct_answer": "3 A (amperes)",
+  "explanation": "Using Ohm's law I = V \u00f7 R: I = 12 V \u00f7 4 \u03a9 = 3 A. Current is measured in amperes (A).",
+  "quality_score": 4,
+  "id": "159e95c0-82ae-45e7-8146-f6a7006c5720",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,16 @@
+{
+  "question_text": "What is the purpose of a switch in an electric circuit?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "switch",
+    "circuit control"
+  ],
+  "options": null,
+  "correct_answer": "A switch allows you to turn the circuit on and off by breaking or completing the circuit (or allowing/preventing current flow).",
+  "explanation": "A switch is a component that can open or close a circuit. When open, it breaks the circuit and stops current flowing; when closed, it completes the circuit and allows current to flow.",
+  "quality_score": 4,
+  "id": "0a39dc64-804c-49e0-a804-e6f64efbaf67",
+  "source_name": "claude_generator"
+}

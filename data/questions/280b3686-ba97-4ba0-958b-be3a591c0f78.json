@@ -1,0 +1,17 @@
+{
+  "question_text": "A student drops a ball from a height. As it falls, what happens to its gravitational potential energy?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "energy transfer",
+    "falling objects"
+  ],
+  "options": null,
+  "correct_answer": "It decreases as the ball falls",
+  "explanation": "Gravitational potential energy depends on height. As the ball falls, its height decreases, so its gravitational potential energy decreases. This energy is converted into kinetic energy and thermal energy (friction with air).",
+  "quality_score": 4,
+  "id": "280b3686-ba97-4ba0-958b-be3a591c0f78",
+  "source_name": "claude_generator"
+}

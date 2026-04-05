@@ -1,0 +1,38 @@
+{
+  "question_text": "A satellite orbits Earth because gravity pulls it towards Earth, but it also has forward motion. What does this combination create?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "orbits",
+    "gravity",
+    "circular motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A straight line away from Earth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A circular or elliptical orbit",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A spiral path into Earth's atmosphere",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A parabolic trajectory that escapes Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravity constantly pulls the satellite towards Earth (downward), while its forward motion tries to move it in a straight line. These two forces balance to create a stable circular or elliptical orbit around Earth.",
+  "quality_score": 4,
+  "id": "48462800-7a49-4d58-9836-34f9a0c8c85d",
+  "source_name": "claude_generator"
+}

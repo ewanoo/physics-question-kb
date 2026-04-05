@@ -1,0 +1,18 @@
+{
+  "question_text": "A ball is thrown upwards with kinetic energy of 100 J. At its highest point, it has gravitational potential energy of 80 J. Where has the remaining 20 J of energy gone, and why is this important?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "thermal energy",
+    "air resistance",
+    "real-world applications"
+  ],
+  "options": null,
+  "correct_answer": "The remaining 20 J has been converted to thermal energy due to air resistance (friction). This shows that energy is conserved but some is wasted as heat in real-world situations.",
+  "explanation": "In a perfect system, all 100 J would convert to gravitational potential energy. However, air resistance acts against the ball's motion, converting some kinetic energy into thermal energy (heat). This 20 J loss shows why real machines are less efficient than theoretical predictions\u2014some energy is always lost to friction and heat.",
+  "quality_score": 4,
+  "id": "9ccf8360-6c0b-4332-a166-23c1f8112290",
+  "source_name": "claude_generator"
+}

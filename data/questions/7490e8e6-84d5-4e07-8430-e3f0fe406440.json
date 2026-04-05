@@ -1,0 +1,17 @@
+{
+  "question_text": "A block of mass 5 kg is lifted 8 metres above the ground. Calculate its gravitational potential energy using GPE = mgh (where g = 10 N/kg).",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "400 J",
+  "explanation": "Using GPE = mgh, we substitute m = 5 kg, g = 10 N/kg, and h = 8 m. GPE = 5 \u00d7 10 \u00d7 8 = 400 J. This is the energy stored due to the block's position above the ground.",
+  "quality_score": 4,
+  "id": "7490e8e6-84d5-4e07-8430-e3f0fe406440",
+  "source_name": "claude_generator"
+}
