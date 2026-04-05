@@ -122,12 +122,23 @@
 - All subtopics now have 49-53 questions each
 - All criteria remain met, KB is COMPLETE
 
-## Statistics (Session 11 — CURRENT)
-- **Total questions in DB**: 1,659
+### Session 12 (agent — 2026-04-05)
+- Rebuilt DB from 1,659 committed question JSON files (all subtopics at 49-53 each)
+- Identified 15 subtopics at exactly 49 questions (the minimum)
+- Generated **30 new questions** (2 per subtopic) targeting all 15 weakest subtopics:
+  electricity.electromagnets, electricity.magnets, energy.food, energy.power,
+  forces.balanced, forces.friction, forces.gravity, forces.springs, forces.types,
+  matter.changes, matter.particles, matter.states, space.earth_moon, waves.colour,
+  waves.properties
+- Total questions: 1,689 (up from 1,659)
+- All subtopics now have 50-53 questions each (minimum: 50)
+
+## Statistics (Session 12 — CURRENT)
+- **Total questions in DB**: 1,689
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy=546, medium=567, hard=546 (all >= 50)
-- **Min questions per subtopic**: 49 (all 33 subtopics at 49-53)
+- **By difficulty**: easy=546+, medium=567+, hard=546+ (all >= 50)
+- **Min questions per subtopic**: 50 (all 33 subtopics at 50-53)
 - **Mean quality score**: 4.67
 
 ## Scraper Status
