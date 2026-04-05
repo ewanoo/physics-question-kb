@@ -1,0 +1,17 @@
+{
+  "question_text": "An electromagnet is made by coiling wire around a steel core connected to a power supply. What happens to the electromagnet when the power supply is switched off?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "current",
+    "magnetic_field"
+  ],
+  "options": null,
+  "correct_answer": "The electromagnet stops working or loses its magnetism because there is no current flowing through the coil to create a magnetic field.",
+  "explanation": "Electromagnets only work when electric current flows through the coil. When the power is switched off, the current stops and the magnetic field disappears immediately, unlike permanent magnets which retain their magnetism.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "eb238a26-03ba-4d93-8ba8-c74df07ebf73"
+}

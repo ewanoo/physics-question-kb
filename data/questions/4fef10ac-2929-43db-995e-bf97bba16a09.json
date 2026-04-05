@@ -1,0 +1,17 @@
+{
+  "question_text": "A tug-of-war rope is stationary during a match, with Team A pulling with a force of 800 N to the left. What can you conclude about the force applied by Team B?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "equilibrium",
+    "tug of war"
+  ],
+  "options": null,
+  "correct_answer": "Team B is pulling with a force of 800 N to the right. Since the rope is stationary, the forces must be balanced and equal in size but opposite in direction.",
+  "explanation": "When the rope does not move, the forces are balanced. Team B must pull with an equal and opposite force of 800 N to the right to keep the rope in equilibrium.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4fef10ac-2929-43db-995e-bf97bba16a09"
+}

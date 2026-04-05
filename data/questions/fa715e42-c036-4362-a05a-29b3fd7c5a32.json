@@ -1,0 +1,39 @@
+{
+  "question_text": "A student observes that when white light passes through a prism, it separates into a spectrum of colours. The student then places a second identical prism in the path of the red light from the first spectrum. What would the student most likely observe, and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "dispersion",
+    "prisms",
+    "white light"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The red light would separate further into different shades of red because each shade has a slightly different wavelength.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The red light would pass straight through because it is already a single colour and cannot be refracted further.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The red light would change into blue light because passing through two prisms reverses the dispersion process.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The red light would be absorbed by the second prism and no light would emerge.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Red light is already a single colour (monochromatic), so it cannot be dispersed further. While it will refract (bend) when entering the second prism due to the change in refractive index, it will not separate into different colours because dispersion only occurs when white light containing all wavelengths is refracted at different angles.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fa715e42-c036-4362-a05a-29b3fd7c5a32"
+}

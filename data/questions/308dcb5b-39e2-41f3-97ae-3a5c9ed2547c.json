@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the speed of light in a vacuum?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "light",
+    "speed",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "300,000 km/s",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "150,000 km/s",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "500,000 km/s",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "100,000 km/s",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Light travels at approximately 300,000 km/s (or 3 \u00d7 10\u2078 m/s) in a vacuum. This is a fundamental constant in physics and is the fastest speed anything can travel.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "308dcb5b-39e2-41f3-97ae-3a5c9ed2547c"
+}

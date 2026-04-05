@@ -1,0 +1,37 @@
+{
+  "question_text": "Which of the following is the correct definition of density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The mass of a substance divided by its volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The volume of a substance divided by its mass",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The weight of a substance multiplied by its volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The temperature of a substance divided by its mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Density is defined as mass per unit volume. This is a key definition in Year 8 physics and is used to compare how tightly packed the particles are in different materials.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9677e37f-5e18-4eba-807b-f046da2bf839"
+}

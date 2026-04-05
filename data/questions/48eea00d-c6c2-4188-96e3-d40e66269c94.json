@@ -1,0 +1,38 @@
+{
+  "question_text": "A car is driving at a constant speed in a straight line on a flat road. Which statement best describes the forces acting on the car?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "constant velocity",
+    "driving forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The driving force is greater than the friction force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The driving force equals the friction force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The friction force is greater than the driving force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is no friction force acting on the car",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At constant speed, acceleration is zero, so forces must be balanced. The driving force from the engine must equal the friction and air resistance to maintain steady motion without speeding up or slowing down.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "48eea00d-c6c2-4188-96e3-d40e66269c94"
+}

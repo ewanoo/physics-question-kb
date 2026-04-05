@@ -1,0 +1,18 @@
+{
+  "question_text": "A metal alloy cube has sides of length 5 cm and a total mass of 3.125 kg. Calculate the density of this alloy in g/cm\u00b3.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "unit conversion",
+    "volume",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "12.5 g/cm\u00b3",
+  "explanation": "First, calculate the volume: V = 5 \u00d7 5 \u00d7 5 = 125 cm\u00b3. Convert the mass to grams: 3.125 kg = 3125 g. Then use density = mass \u00f7 volume: 3125 \u00f7 125 = 12.5 g/cm\u00b3. This requires both unit conversion and volume calculation, making it a multi-step problem.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6909fe95-4614-464d-81c8-227fbd1dca58"
+}

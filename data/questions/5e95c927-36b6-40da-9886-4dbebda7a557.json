@@ -1,0 +1,39 @@
+{
+  "question_text": "A student has two identical cubes made of different materials. Cube A has a mass of 270 g and a volume of 30 cm\u00b3. Cube B has a mass of 540 g and a volume of 60 cm\u00b3. Which statement correctly compares the densities of the two cubes?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "comparison",
+    "calculation",
+    "problem-solving"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Cube A has a higher density because it has a smaller volume",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both cubes have the same density of 9 g/cm\u00b3",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Cube B has a higher density because it has a greater mass",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Cube A has a higher density because mass and volume are both smaller",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "To compare densities, we must calculate them using density = mass \u00f7 volume. Cube A: 270 \u00f7 30 = 9 g/cm\u00b3. Cube B: 540 \u00f7 60 = 9 g/cm\u00b3. Both have the same density despite different masses and volumes, showing that density is a property independent of the amount of material.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5e95c927-36b6-40da-9886-4dbebda7a557"
+}

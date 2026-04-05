@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes weight?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravity",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Weight is the amount of matter in an object and never changes",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Weight is the gravitational force pulling an object downwards and is measured in newtons",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Weight is the same as mass and is measured in kilograms",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Weight only applies to objects falling through the air",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Weight is the gravitational force acting on an object and is measured in newtons (N). This is different from mass, which is the amount of matter in an object measured in kilograms. Weight can change depending on gravitational field strength, but mass does not.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bf62fab5-075f-404e-976a-9c2ef6e9a816"
+}

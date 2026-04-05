@@ -1,0 +1,39 @@
+{
+  "question_text": "A student drops a ball from a height of 20 m. Just before it hits the ground, it has a speed of 18 m/s instead of the theoretical 20 m/s. Which statement best explains why the actual speed is lower than expected?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy_transfer",
+    "gravitational_potential_energy",
+    "air_resistance",
+    "multi_step_reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Some gravitational potential energy was converted to heat and sound energy due to air resistance, so less energy became kinetic energy.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The ball was too heavy, so it couldn't convert all its potential energy to kinetic energy.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The kinetic energy store is smaller than the gravitational potential energy store because energy cannot be created.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravity was weaker during the drop, so the ball didn't accelerate as much as predicted.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Air resistance does negative work on the falling ball, converting some gravitational potential energy into heat and sound rather than kinetic energy. This is why the final speed is lower than the frictionless case predicts.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d882bec8-551f-4fac-a258-678d5e03f29b"
+}

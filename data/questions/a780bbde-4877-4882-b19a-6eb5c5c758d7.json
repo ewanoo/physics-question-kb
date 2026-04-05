@@ -1,0 +1,17 @@
+{
+  "question_text": "Name the part of the electromagnetic spectrum that we can see with our eyes.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "electromagnetic spectrum",
+    "visible light",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Visible light (or the visible spectrum).",
+  "explanation": "Visible light is the only part of the electromagnetic spectrum that human eyes can detect. It includes colours from red to violet, with wavelengths approximately between 400 and 700 nanometres.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a780bbde-4877-4882-b19a-6eb5c5c758d7"
+}

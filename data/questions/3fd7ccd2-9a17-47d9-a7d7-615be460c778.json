@@ -1,0 +1,18 @@
+{
+  "question_text": "A student compares two identical balls: one is thrown horizontally at 10 m/s from a 5 m high cliff, and the other is dropped vertically from the same height. Explain why both balls will have the same gravitational potential energy store at the start, but different total mechanical energy just before hitting the ground.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational_potential_energy",
+    "kinetic_energy",
+    "energy_conservation",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Both balls have the same gravitational potential energy store (mgh) because they start at the same height and have the same mass. However, the thrown ball has additional kinetic energy from its initial horizontal velocity (\u00bdmv\u00b2), so its total mechanical energy at the start is higher and remains higher throughout the fall.",
+  "explanation": "Gravitational potential energy only depends on mass and height, so both balls start with the same GPE. But the thrown ball has an initial kinetic energy store from being thrown, giving it extra total energy. When they hit the ground, the thrown ball will have greater final kinetic energy because it started with more total energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3fd7ccd2-9a17-47d9-a7d7-615be460c778"
+}

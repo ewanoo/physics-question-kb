@@ -1,0 +1,18 @@
+{
+  "question_text": "A circuit contains a 6V battery and a single resistor with a resistance of 3\u03a9. Using Ohm's Law (V = I \u00d7 R), calculate the current flowing through the circuit.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "ohms_law",
+    "current",
+    "resistance",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "2 A",
+  "explanation": "Using Ohm's Law: V = I \u00d7 R, we can rearrange to find current: I = V \u00f7 R. Therefore, I = 6V \u00f7 3\u03a9 = 2A. The current flowing through the circuit is 2 amperes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b25d81b2-b1d5-4429-989b-f96b24e77076"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A student is investigating how light behaviour changes when it passes from air into glass and then back into air. Explain why the light ray bends towards the normal when entering the glass, but then bends away from the normal when leaving the glass back into air. In your answer, consider what is happening to the speed of light.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "normal",
+    "refractive index",
+    "speed of light"
+  ],
+  "options": null,
+  "correct_answer": "Light travels slower in glass than in air, so when entering glass the light slows down and bends towards the normal. When leaving glass, light speeds up back to its original speed in air, so it bends away from the normal. The change in speed at the boundary causes the change in direction.",
+  "explanation": "Glass is denser than air and has a higher refractive index, which means light travels slower through it. When light slows down, it bends towards the normal; when it speeds up, it bends away. The direction of bending depends on whether the light is entering a denser medium (slows down, bends towards normal) or leaving it (speeds up, bends away from normal).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "741ce2c7-e12d-4d97-9875-472e466eff40"
+}

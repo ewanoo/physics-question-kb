@@ -1,0 +1,17 @@
+{
+  "question_text": "A student investigates how voltage and current are related by measuring the current through a wire at different voltages. They obtain these results: at 2 V the current is 0.4 A, at 4 V the current is 0.8 A, and at 6 V the current is 1.2 A. Explain what this data tells us about the relationship between voltage and current, and identify which law this demonstrates.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "proportional_relationship",
+    "data_analysis"
+  ],
+  "options": null,
+  "correct_answer": "The current is directly proportional to the voltage (when resistance is constant). This demonstrates Ohm's Law, which states that I = V/R, so doubling the voltage doubles the current.",
+  "explanation": "The data shows a linear relationship: each time voltage doubles, current doubles. This is the defining characteristic of Ohm's Law for a conductor at constant temperature. The ratio V/I (resistance) remains constant at 5 \u03a9 throughout.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "23475e2d-0d7a-4cef-a079-bed14370ae03"
+}

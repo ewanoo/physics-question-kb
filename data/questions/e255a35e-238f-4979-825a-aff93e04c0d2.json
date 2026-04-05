@@ -1,0 +1,38 @@
+{
+  "question_text": "A parallel circuit contains two identical light bulbs connected to a 12V power supply. What is the voltage across each light bulb?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "voltage",
+    "parallel_circuit",
+    "identical_components"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "6V",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "12V",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "24V",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "4V",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a parallel circuit, the voltage across each branch is the same as the voltage supplied by the power supply. Both light bulbs receive the full 12V because they are connected directly across the battery.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e255a35e-238f-4979-825a-aff93e04c0d2"
+}

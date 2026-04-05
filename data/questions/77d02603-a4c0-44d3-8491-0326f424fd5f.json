@@ -1,0 +1,38 @@
+{
+  "question_text": "Which colour of visible light has the shortest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "visible light",
+    "wavelength",
+    "colour spectrum"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Orange",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Violet",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Yellow",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Violet light has the shortest wavelength in the visible light spectrum. The order from longest to shortest wavelength is: red, orange, yellow, green, blue, indigo, violet (ROYGBIV).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "77d02603-a4c0-44d3-8491-0326f424fd5f"
+}

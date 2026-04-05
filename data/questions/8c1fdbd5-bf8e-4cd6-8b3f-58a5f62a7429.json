@@ -1,0 +1,18 @@
+{
+  "question_text": "A light wave has a frequency of 5 \u00d7 10\u00b9\u2074 Hz and travels through a vacuum at 3 \u00d7 10\u2078 m/s. Calculate the wavelength of this light and identify which colour of the visible spectrum it corresponds to.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "calculation",
+    "visible spectrum"
+  ],
+  "options": null,
+  "correct_answer": "6 \u00d7 10\u207b\u2077 m or 600 nm; this corresponds to orange light",
+  "explanation": "Using the wave equation v = f\u03bb, we rearrange to find \u03bb = v/f = (3 \u00d7 10\u2078)/(5 \u00d7 10\u00b9\u2074) = 6 \u00d7 10\u207b\u2077 m. This wavelength of 600 nanometres falls in the orange region of the visible spectrum (between red at ~700 nm and yellow at ~580 nm).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8c1fdbd5-bf8e-4cd6-8b3f-58a5f62a7429"
+}

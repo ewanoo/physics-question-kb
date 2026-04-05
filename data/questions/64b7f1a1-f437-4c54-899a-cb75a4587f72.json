@@ -1,0 +1,17 @@
+{
+  "question_text": "A heating element has a resistance of 24 \u03a9. When connected to a 12 V power supply, calculate the current flowing through the heating element. Then, if the voltage is increased to 18 V (keeping the same resistance), calculate the new current and explain what happens to the power dissipated by the heating element.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohms_law",
+    "current_calculation",
+    "voltage_effects"
+  ],
+  "options": null,
+  "correct_answer": "At 12 V: I = V/R = 12/24 = 0.5 A. At 18 V: I = V/R = 18/24 = 0.75 A. The current increases by 0.25 A (50% increase). The power increases from P = VI = 12 \u00d7 0.5 = 6 W to P = 18 \u00d7 0.75 = 13.5 W, more than doubling.",
+  "explanation": "Using Ohm's Law (I = V/R), we find the currents at each voltage. When voltage increases by 50%, current also increases proportionally. Power (P = VI) increases even more dramatically because it depends on both voltage and current, so the heating effect is much stronger at higher voltage.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "64b7f1a1-f437-4c54-899a-cb75a4587f72"
+}

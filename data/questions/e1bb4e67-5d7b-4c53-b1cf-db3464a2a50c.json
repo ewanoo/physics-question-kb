@@ -1,0 +1,17 @@
+{
+  "question_text": "A student builds an electromagnet with a coil of 50 turns. She then rebuilds it with the same coil but now has 100 turns. If the electromagnet could previously pick up 8 metal paperclips, approximately how many paperclips could it pick up with 100 turns (assuming the same current)?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "coil_turns",
+    "magnetic_strength"
+  ],
+  "options": null,
+  "correct_answer": "16 paperclips",
+  "explanation": "Doubling the number of turns in an electromagnet doubles the strength of its magnetic field. Since the strength doubles, the electromagnet can pick up approximately twice as many paperclips (8 \u00d7 2 = 16).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e1bb4e67-5d7b-4c53-b1cf-db3464a2a50c"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A student sets up a circuit with a 12 V battery connected to three identical light bulbs in series. When all three bulbs are lit, the current flowing through the circuit is 0.5 A. The student then removes one bulb from the circuit (leaving two bulbs in series with the same battery). What will happen to the current, and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series_circuits",
+    "resistance",
+    "current_voltage_relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The current will decrease because there are fewer bulbs to allow current to flow.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current will increase because there is less total resistance in the circuit.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The current will stay the same because the battery voltage hasn't changed.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The current will increase because the remaining bulbs will be brighter.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When you remove one bulb, the total resistance decreases. Since V = I \u00d7 R and the voltage stays constant at 12 V, if resistance decreases, the current must increase. This is Ohm's Law applied to a series circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a8fa46d8-b528-4012-b2fd-63aa1cde1087"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of a contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact_forces",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electrostatic force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction is a contact force because it acts between two surfaces that are touching. Gravitational, magnetic, and electrostatic forces are non-contact forces because they can act without objects touching.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e6685166-7666-45a6-bf2c-d5346799ea11"
+}

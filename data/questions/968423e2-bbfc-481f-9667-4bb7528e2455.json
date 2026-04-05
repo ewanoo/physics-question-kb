@@ -1,0 +1,38 @@
+{
+  "question_text": "Which colour of visible light has the longest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "visible light",
+    "wavelength",
+    "colour spectrum"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Blue",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Violet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Green",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Red light has the longest wavelength in the visible light spectrum, followed by orange, yellow, green, blue, indigo, and violet. This is why red is at one end of the rainbow.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "968423e2-bbfc-481f-9667-4bb7528e2455"
+}

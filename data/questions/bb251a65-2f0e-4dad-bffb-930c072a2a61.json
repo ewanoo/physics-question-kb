@@ -1,0 +1,16 @@
+{
+  "question_text": "A block of metal has a mass of 240 g and a volume of 30 cm\u00b3. What is the density of the metal?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "calculation",
+    "density formula"
+  ],
+  "options": null,
+  "correct_answer": "8 g/cm\u00b3",
+  "explanation": "Using the density formula: density = mass \u00f7 volume = 240 g \u00f7 30 cm\u00b3 = 8 g/cm\u00b3. This is a straightforward application of the density equation with no complex steps required.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bb251a65-2f0e-4dad-bffb-930c072a2a61"
+}

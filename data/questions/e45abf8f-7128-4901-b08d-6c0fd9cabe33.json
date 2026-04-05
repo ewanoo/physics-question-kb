@@ -1,0 +1,38 @@
+{
+  "question_text": "A student builds a series circuit with a 6V battery, a light bulb, and a resistor. What is the total voltage across the light bulb and resistor combined?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "voltage",
+    "series_circuit",
+    "kirchhoff_voltage_law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "3V",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "6V",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "12V",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "0V",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a series circuit, the total voltage supplied by the battery equals the sum of the voltages across all components. Since the battery provides 6V, the total voltage across all components must equal 6V.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e45abf8f-7128-4901-b08d-6c0fd9cabe33"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the force that pulls objects towards the Earth called?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravity",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Air resistance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Tension",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravity is the force that attracts all objects with mass towards each other. On Earth, it pulls objects downwards towards the ground. Friction, air resistance and tension are different types of forces.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2c65ef0d-8825-43e5-9d1b-b3f1ef2e9a80"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A book is resting on a table. The weight of the book is 15 N downwards. What is the size of the normal force acting on the book from the table?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "normal force",
+    "weight"
+  ],
+  "options": null,
+  "correct_answer": "15 N",
+  "explanation": "When an object is at rest, the forces are balanced. The normal force from the table must equal the weight of the book to keep it stationary, so the normal force is 15 N upwards.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "79eabf0c-91f9-4eaa-8446-1ae5e7778051"
+}

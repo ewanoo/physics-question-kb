@@ -1,0 +1,18 @@
+{
+  "question_text": "Two objects have the same volume but different masses. Object A has a mass of 50 g and Object B has a mass of 100 g. Which object has the greater density and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "mass",
+    "volume",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Object B has greater density because it has twice the mass in the same volume, so it has more mass per unit volume.",
+  "explanation": "Since density = mass \u00f7 volume, and both objects have the same volume, the object with the greater mass must have the greater density. Object B (100 g) is heavier than Object A (50 g) in the same space, so it is denser.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e966bd5d-ae76-4413-9bbe-085983036419"
+}

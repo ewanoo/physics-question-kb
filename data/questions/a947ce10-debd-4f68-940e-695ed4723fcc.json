@@ -1,0 +1,38 @@
+{
+  "question_text": "A student makes an electromagnet by wrapping wire around an iron nail and connecting it to a battery. Which change would make the electromagnet stronger?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "magnetic_field",
+    "coil"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Using a thinner wire",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wrapping more turns of wire around the nail",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Using a plastic rod instead of an iron nail",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Disconnecting the battery",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "More turns of wire create a stronger magnetic field because the magnetic effect of each loop adds together. Iron is also a good core material, and the electromagnet needs current flowing through it to work.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a947ce10-debd-4f68-940e-695ed4723fcc"
+}

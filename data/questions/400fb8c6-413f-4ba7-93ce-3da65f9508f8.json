@@ -1,0 +1,18 @@
+{
+  "question_text": "A metal cube has a mass of 240 g and a volume of 30 cm\u00b3. What is the density of the metal?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "calculation",
+    "mass",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "8 g/cm\u00b3",
+  "explanation": "Density is calculated using the formula: density = mass \u00f7 volume. Here, 240 g \u00f7 30 cm\u00b3 = 8 g/cm\u00b3. This is a straightforward one-step calculation using the density equation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "400fb8c6-413f-4ba7-93ce-3da65f9508f8"
+}

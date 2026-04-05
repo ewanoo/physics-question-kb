@@ -1,0 +1,18 @@
+{
+  "question_text": "A solid brass cylinder has a density of 8.5 g/cm\u00b3. Explain why a large brass cylinder and a small brass cylinder made from the same material will always have the same density, even though they have different masses and volumes.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "intensive property",
+    "reasoning",
+    "material property"
+  ],
+  "options": null,
+  "correct_answer": "Density is an intensive property that depends only on the material itself, not the amount. Since both cylinders are made of brass, the ratio of mass to volume remains constant (8.5 g/cm\u00b3), regardless of their size.",
+  "explanation": "This question tests understanding that density is an intensive property\u2014it characterises the material itself. No matter how large or small a piece of brass is, every cubic centimetre of brass has the same mass, so the density stays the same. This is a key concept that distinguishes density from extensive properties like mass or volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7a263705-309a-46c4-b9ff-5516f6aad540"
+}

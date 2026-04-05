@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes what a wavelength is?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "wavelength",
+    "waves",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The distance between one point on a wave and the next identical point",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The height of a wave from the middle to the top",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The time it takes for one complete wave to pass a point",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which a wave travels through space",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Wavelength is the distance between one point on a wave and the next identical point, such as from one peak to the next peak. It is usually measured in metres.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ab27e51d-db11-427b-9bfa-4218d0792ad7"
+}

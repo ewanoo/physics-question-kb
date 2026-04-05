@@ -1,0 +1,38 @@
+{
+  "question_text": "Which type of force is the normal force (the push from a surface)?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact_forces",
+    "normal_force",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A non-contact force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A contact force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A magnetic force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The normal force is a contact force because it is the push that a surface exerts on an object resting on it, requiring the surface and object to be in contact with each other.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f145b652-8d5d-4471-82ac-61d712a4532c"
+}

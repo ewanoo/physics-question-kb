@@ -1,0 +1,39 @@
+{
+  "question_text": "A wooden block floats on water, while a steel ball sinks. Which statement best explains this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "floating",
+    "sinking",
+    "buoyancy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wood is lighter than steel, so it floats.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wood has a lower density than water, while steel has a higher density than water.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Wood is larger than steel, so it has more volume.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Steel is a metal and metals always sink in water.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Objects float when their density is less than the density of the liquid they are in, and sink when their density is greater. Wood (density \u2248 0.6 g/cm\u00b3) floats because it is less dense than water (1 g/cm\u00b3), while steel (density \u2248 7.8 g/cm\u00b3) sinks because it is denser than water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8019c14a-11b0-4d40-8162-edaebbdfc1c9"
+}

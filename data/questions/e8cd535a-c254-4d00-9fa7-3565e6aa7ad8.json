@@ -1,0 +1,17 @@
+{
+  "question_text": "A 0.5 kg book is lifted vertically upward from the ground to a shelf 2 m high. Calculate the increase in gravitational potential energy of the book. (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational_potential_energy",
+    "calculation",
+    "energy_store_change"
+  ],
+  "options": null,
+  "correct_answer": "10 J",
+  "explanation": "Use the formula for gravitational potential energy change: \u0394E = mgh. \u0394E = 0.5 kg \u00d7 10 m/s\u00b2 \u00d7 2 m = 10 J. The book's gravitational potential energy store increases by 10 joules.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e8cd535a-c254-4d00-9fa7-3565e6aa7ad8"
+}

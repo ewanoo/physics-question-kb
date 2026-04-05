@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the relationship between the frequency of light and its colour?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "frequency",
+    "colour",
+    "light waves"
+  ],
+  "options": null,
+  "correct_answer": "Different colours of light have different frequencies. Red light has a lower frequency, while violet light has a higher frequency.",
+  "explanation": "The colour of light is determined by its frequency. Higher frequency light appears violet/blue, while lower frequency light appears red/orange. This is a fundamental property of electromagnetic waves.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "aa5fe029-6ad1-4152-913d-1efe6b18ea61"
+}

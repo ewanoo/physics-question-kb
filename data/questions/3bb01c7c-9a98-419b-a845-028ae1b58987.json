@@ -1,0 +1,17 @@
+{
+  "question_text": "Define gravitational field strength.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational field strength",
+    "definition",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational field strength is the amount of gravitational force acting per unit mass. On Earth, it is approximately 10 N/kg.",
+  "explanation": "Gravitational field strength tells us how strong the gravitational pull is in a particular location. On Earth, it is about 10 newtons per kilogram, meaning a 1 kg object experiences a gravitational force of about 10 N pulling it downwards.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3bb01c7c-9a98-419b-a845-028ae1b58987"
+}
