@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement about gravity is correct?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gravity",
+    "properties",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity only acts on objects on the Earth's surface",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravity acts between all objects that have mass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravity pushes objects upwards",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravity is stronger on the Moon than on Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravity is a universal force that acts between all objects with mass, not just on Earth's surface. It is a force of attraction that pulls objects together, and it is stronger where there is more mass, so Earth's gravity is stronger than the Moon's.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "e164c3b6-7beb-4de7-a6ca-8b9232e028fc",
+  "topic": "space.gravity",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:03.961330",
+  "classified_at": "2026-04-05T02:15:03.961331",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/easy",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "Describe what happens to particles when a gas condenses into a liquid.",
+  "question_type": "short_answer",
+  "tags": [
+    "condensation",
+    "gas to liquid",
+    "particle behaviour",
+    "cooling"
+  ],
+  "options": null,
+  "correct_answer": "When a gas condenses into a liquid, the particles lose heat energy and move more slowly. They come closer together and are held in place by attractive forces, forming a liquid where particles can flow but stay together.",
+  "explanation": "Condensation is the reverse of boiling or evaporation. As particles cool down, they have less kinetic energy and attractive forces between them become significant enough to pull them into the liquid state.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "326f400b-2848-401a-9c81-cd5c77f26e63",
+  "topic": "matter.changes",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:17.491394",
+  "classified_at": "2026-04-05T02:17:17.491395",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/easy",
+  "raw_html": null
+}

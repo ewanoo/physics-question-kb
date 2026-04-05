@@ -1,0 +1,24 @@
+{
+  "question_text": "A balanced seesaw has a child of weight 400 N sitting 1.5 m from the pivot. How far from the pivot must a child of weight 600 N sit to balance the seesaw?",
+  "question_type": "calculation",
+  "tags": [
+    "principle of moments",
+    "seesaw",
+    "balanced"
+  ],
+  "options": null,
+  "correct_answer": "1 m",
+  "explanation": "When a seesaw is balanced, the moments on both sides must be equal. Using the principle of moments: 400 \u00d7 1.5 = 600 \u00d7 d. So 600 = 600d, therefore d = 1 m. The heavier child must sit closer to the pivot to create the same moment.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1821b0a4-7b3b-4a6f-9e17-cfcb0eef0b90",
+  "topic": "forces.moments",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:14.612577",
+  "classified_at": "2026-04-05T02:18:14.612578",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/medium",
+  "raw_html": null
+}

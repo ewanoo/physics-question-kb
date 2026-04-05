@@ -1,0 +1,45 @@
+{
+  "question_text": "Gravitational field strength on Earth is approximately 10 N/kg. What does this tell us?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gravitational field strength",
+    "Earth",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Every kilogram of mass experiences a gravitational force of 10 newtons",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Objects on Earth weigh 10 kilograms",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Earth's gravity is 10 times stronger than the Moon's gravity",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All objects fall at 10 metres per second",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational field strength tells us how much gravitational force acts on each kilogram of mass. At 10 N/kg, every 1 kg of mass experiences a downward force of 10 newtons due to Earth's gravity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "85e521c9-5755-4ae8-b3fe-3caa1f64dcdb",
+  "topic": "space.gravity",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:03.961188",
+  "classified_at": "2026-04-05T02:15:03.961189",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/easy",
+  "raw_html": null
+}

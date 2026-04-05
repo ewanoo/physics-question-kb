@@ -1,0 +1,24 @@
+{
+  "question_text": "A skier and a person wearing flat shoes both stand on snow. The skier's skis have a much larger surface area. Why does the skier sink less into the snow?",
+  "question_type": "short_answer",
+  "tags": [
+    "pressure application",
+    "area effect",
+    "everyday example"
+  ],
+  "options": null,
+  "correct_answer": "The skier's weight (force) is spread over a much larger area from the skis. This means the pressure is lower (P = F \u00f7 A). Lower pressure means the snow doesn't compress as much, so the skier sinks less.",
+  "explanation": "Both the skier and the person apply their weight as a downward force, but the skis distribute this force over a much larger area. Since pressure depends on area, a larger area produces lower pressure for the same force, which is why the skier doesn't sink as much.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "22d198a1-d852-4306-962e-7579a740bdc6",
+  "topic": "forces.pressure",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:42.826554",
+  "classified_at": "2026-04-05T02:18:42.826555",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/medium",
+  "raw_html": null
+}

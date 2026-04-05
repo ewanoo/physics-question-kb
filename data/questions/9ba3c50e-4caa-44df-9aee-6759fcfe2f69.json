@@ -1,0 +1,24 @@
+{
+  "question_text": "Describe the particle arrangement in a liquid.",
+  "question_type": "short_answer",
+  "tags": [
+    "particle arrangement",
+    "liquids",
+    "states of matter"
+  ],
+  "options": null,
+  "correct_answer": "Particles in a liquid are closely packed together but with some space between them, and they can move around freely.",
+  "explanation": "Liquid particles are touching each other but not locked in fixed positions like in a solid. They can flow past each other, which is why liquids can be poured and take the shape of their container, but they still keep roughly the same volume.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "9ba3c50e-4caa-44df-9aee-6759fcfe2f69",
+  "topic": "matter.particles",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:35.527497",
+  "classified_at": "2026-04-05T02:17:35.527498",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/easy",
+  "raw_html": null
+}

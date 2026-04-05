@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following electromagnetic waves has the highest frequency?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "em_spectrum",
+    "frequency",
+    "wave_properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Microwaves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Infrared",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gamma rays",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The electromagnetic spectrum is ordered by frequency and wavelength. Gamma rays have the shortest wavelength and highest frequency, while radio waves have the longest wavelength and lowest frequency. The higher the frequency, the more dangerous the radiation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "05f5536b-eb26-44f5-a213-5698264fb794",
+  "topic": "waves.em_spectrum",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:20.209557",
+  "classified_at": "2026-04-05T02:16:20.209569",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "raw_html": null
+}

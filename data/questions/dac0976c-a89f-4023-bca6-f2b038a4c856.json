@@ -1,0 +1,24 @@
+{
+  "question_text": "A force of 500 N is applied to a surface area of 2.5 m\u00b2. Calculate the pressure exerted on the surface.",
+  "question_type": "calculation",
+  "tags": [
+    "pressure calculation",
+    "P=F/A",
+    "direct calculation"
+  ],
+  "options": null,
+  "correct_answer": "200 Pa (or N/m\u00b2)",
+  "explanation": "Pressure is calculated using the formula P = F \u00f7 A. Divide the force (500 N) by the area (2.5 m\u00b2) to get 200 Pa. This is a straightforward application of the pressure formula.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dac0976c-a89f-4023-bca6-f2b038a4c856",
+  "topic": "forces.pressure",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:42.826061",
+  "classified_at": "2026-04-05T02:18:42.826072",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/medium",
+  "raw_html": null
+}

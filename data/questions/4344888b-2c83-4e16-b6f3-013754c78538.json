@@ -1,0 +1,24 @@
+{
+  "question_text": "A force of 5 N is applied at a distance of 2 m from a pivot. Calculate the moment.",
+  "question_type": "calculation",
+  "tags": [
+    "moment",
+    "calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "10 Nm",
+  "explanation": "Moment = Force \u00d7 Distance (perpendicular). So Moment = 5 N \u00d7 2 m = 10 Nm. Always remember to include the units in your answer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4344888b-2c83-4e16-b6f3-013754c78538",
+  "topic": "forces.moments",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:52.143988",
+  "classified_at": "2026-04-05T02:17:52.143989",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/easy",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "The Sun is classified as which type of celestial object?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "Sun",
+    "star",
+    "Solar System"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A planet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A natural satellite",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A star",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "An asteroid",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Sun is a star that produces its own light and heat through nuclear fusion in its core. All the planets in our Solar System orbit around the Sun due to its gravity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "97cbb3fc-867d-4247-a46b-53637929de17",
+  "topic": "space.solar_system",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:36.503704",
+  "classified_at": "2026-04-05T02:15:36.503706",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/easy",
+  "raw_html": null
+}

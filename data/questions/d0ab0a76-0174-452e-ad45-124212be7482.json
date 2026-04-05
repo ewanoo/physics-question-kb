@@ -1,0 +1,45 @@
+{
+  "question_text": "Two planets have the same mass, but Planet X has twice the radius of Planet Y. How will the gravitational field strength at the surface of Planet X compare to Planet Y?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gravitational field",
+    "planet size",
+    "inverse square law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Planet X will have 4 times stronger gravitational field strength",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Planet X will have the same gravitational field strength",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Planet X will have 1/4 the gravitational field strength",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Planet X will have 1/2 the gravitational field strength",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational field strength depends on distance from the planet's center. If Planet X has twice the radius, objects at its surface are twice as far from the center. Following the inverse square law, doubling the distance means the field strength becomes 1/(2\u00b2) = 1/4 as strong.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d0ab0a76-0174-452e-ad45-124212be7482",
+  "topic": "space.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:17.233285",
+  "classified_at": "2026-04-05T02:15:17.233286",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/hard",
+  "raw_html": null
+}

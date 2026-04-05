@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is the correct SI unit for density?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "density",
+    "units",
+    "SI"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "kg/m\u00b3",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "g/m\u00b3",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "kg/cm\u00b3",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "g/L",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The SI unit for density is kilograms per cubic metre (kg/m\u00b3). This is the standard unit used in science.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "254f2b4b-a1ba-424a-bf9c-7643b105f9ee",
+  "topic": "matter.density",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:24.832484",
+  "classified_at": "2026-04-05T02:17:24.832487",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/easy",
+  "raw_html": null
+}

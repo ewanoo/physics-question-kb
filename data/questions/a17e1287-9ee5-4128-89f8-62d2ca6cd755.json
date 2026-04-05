@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is an example of useful friction?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "friction",
+    "useful friction",
+    "everyday examples"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction between ice and a skate blade",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction between a shoe and the ground when walking",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Friction between car parts in an engine",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Friction between a book and a slippery desk",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Useful friction between a shoe and the ground helps us grip and prevents us from slipping when we walk. The other examples show friction that we usually want to reduce, like in ice skating or engines.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a17e1287-9ee5-4128-89f8-62d2ca6cd755",
+  "topic": "forces.friction",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:43.950274",
+  "classified_at": "2026-04-05T02:17:43.950276",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/easy",
+  "raw_html": null
+}

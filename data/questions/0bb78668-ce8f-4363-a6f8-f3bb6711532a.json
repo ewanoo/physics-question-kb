@@ -1,0 +1,45 @@
+{
+  "question_text": "Why are X-rays used in medical imaging rather than visible light?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "xrays",
+    "uses",
+    "medical_imaging"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "X-rays have a longer wavelength so they can penetrate skin more easily",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "X-rays have a shorter wavelength and can penetrate soft tissues and pass through body parts at different rates, allowing internal structures to be seen",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "X-rays are cheaper to produce than visible light",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "X-rays do not harm the body at all",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "X-rays have a much shorter wavelength than visible light, which allows them to penetrate through skin and soft tissues. Different body tissues absorb different amounts of X-rays, so bones (which absorb more) appear white while soft tissues appear grey. This creates an image of internal structures.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0bb78668-ce8f-4363-a6f8-f3bb6711532a",
+  "topic": "waves.em_spectrum",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:20.210046",
+  "classified_at": "2026-04-05T02:16:20.210047",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "raw_html": null
+}

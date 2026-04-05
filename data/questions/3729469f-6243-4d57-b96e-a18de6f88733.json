@@ -1,0 +1,25 @@
+{
+  "question_text": "Name one difference between transverse waves and longitudinal waves.",
+  "question_type": "short_answer",
+  "tags": [
+    "transverse",
+    "longitudinal",
+    "comparison",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "Transverse waves vibrate perpendicular (at right angles) to the direction of wave travel, while longitudinal waves vibrate parallel (in the same direction) as the wave travels. (Accept: Transverse waves have peaks and troughs; longitudinal waves have compressions and rarefactions.)",
+  "explanation": "In transverse waves, particles move up and down while the wave moves left and right. In longitudinal waves, particles move back and forth in the same direction the wave is going.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3729469f-6243-4d57-b96e-a18de6f88733",
+  "topic": "waves.properties",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:53.584287",
+  "classified_at": "2026-04-05T02:16:53.584289",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/easy",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A mechanic uses a wrench to tighten a bolt. Which statement best explains why using a longer wrench makes the job easier?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "levers",
+    "force multipliers",
+    "principle of moments"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A longer wrench is heavier, so it provides more downward force.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A longer wrench increases the distance from the pivot (bolt), which increases the moment for the same effort force.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A longer wrench reduces friction at the bolt.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A longer wrench spreads the force over a larger area.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A longer wrench works as a longer lever, and since moment = force \u00d7 distance, increasing the distance from the pivot means a larger turning moment is created with the same effort force. This is why longer wrenches are better for tight bolts.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "86bf7563-7753-49bc-a808-fca4bdecb9db",
+  "topic": "forces.moments",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:05.395324",
+  "classified_at": "2026-04-05T02:18:05.395325",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/hard",
+  "raw_html": null
+}

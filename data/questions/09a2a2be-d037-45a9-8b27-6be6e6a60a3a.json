@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following processes is endothermic?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "endothermic",
+    "exothermic",
+    "energy transfer",
+    "state changes"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Freezing water into ice",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Boiling water to steam",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Condensing steam into water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Burning wood to release heat",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Boiling is endothermic because it requires heat energy to be absorbed for the liquid to turn into a gas. Freezing and condensing are exothermic (they release heat), and burning is a chemical reaction that releases energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "09a2a2be-d037-45a9-8b27-6be6e6a60a3a",
+  "topic": "matter.changes",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:17.491323",
+  "classified_at": "2026-04-05T02:17:17.491324",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/easy",
+  "raw_html": null
+}

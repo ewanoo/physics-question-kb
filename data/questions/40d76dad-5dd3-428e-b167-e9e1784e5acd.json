@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following correctly ranks three types of electromagnetic radiation in order of increasing wavelength AND explains why ionising radiation with shorter wavelengths is more dangerous?\n\nA) Radio waves, visible light, X-rays; shorter wavelengths mean lower frequency so more energy\nB) X-rays, visible light, radio waves; shorter wavelengths mean higher frequency so more energy to ionise atoms\nC) Visible light, X-rays, gamma rays; all ionising radiation has the same danger level\nD) Gamma rays, X-rays, ultraviolet; shorter wavelengths mean they travel faster",
+  "question_type": "multiple_choice",
+  "tags": [
+    "wavelength_ordering",
+    "ionising_radiation",
+    "frequency_energy_relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves, visible light, X-rays; shorter wavelengths mean lower frequency so more energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "X-rays, visible light, radio waves; shorter wavelengths mean higher frequency so more energy to ionise atoms",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Visible light, X-rays, gamma rays; all ionising radiation has the same danger level",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gamma rays, X-rays, ultraviolet; shorter wavelengths mean they travel faster",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Option B is correct because it correctly orders the waves by wavelength and explains that shorter wavelengths = higher frequencies = more energy. This higher energy allows the radiation to knock electrons off atoms (ionisation), damaging DNA and causing cancer. Option A gets the relationship backwards\u2014shorter wavelength means higher frequency and MORE energy, not less.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "40d76dad-5dd3-428e-b167-e9e1784e5acd",
+  "topic": "waves.em_spectrum",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:16:35.529434",
+  "classified_at": "2026-04-05T02:16:35.529436",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/hard",
+  "raw_html": null
+}

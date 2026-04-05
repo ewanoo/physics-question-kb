@@ -1,0 +1,24 @@
+{
+  "question_text": "An electromagnetic wave has a wavelength of 0.5 m. If all electromagnetic waves travel at 3 \u00d7 10\u2078 m/s in a vacuum, calculate the frequency of this wave.",
+  "question_type": "calculation",
+  "tags": [
+    "wave_equation",
+    "calculation",
+    "frequency"
+  ],
+  "options": null,
+  "correct_answer": "6 \u00d7 10\u2078 Hz",
+  "explanation": "Using the wave equation: speed = frequency \u00d7 wavelength, or f = v \u00f7 \u03bb. Substitute the values: f = (3 \u00d7 10\u2078 m/s) \u00f7 (0.5 m) = 6 \u00d7 10\u2078 Hz. This frequency places the wave in the microwave part of the spectrum.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4b552a36-ef00-4db5-80c9-4a2fbf0d24a6",
+  "topic": "waves.em_spectrum",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:20.210001",
+  "classified_at": "2026-04-05T02:16:20.210002",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "raw_html": null
+}

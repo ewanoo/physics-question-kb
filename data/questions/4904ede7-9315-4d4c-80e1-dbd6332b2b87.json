@@ -1,0 +1,24 @@
+{
+  "question_text": "A person receives a sunburn from UV radiation and also receives a medical X-ray on the same day. Explain why the X-ray is considered more immediately dangerous despite causing less visible damage, and discuss what long-term effect both could have on health.",
+  "question_type": "short_answer",
+  "tags": [
+    "ionising_vs_non_ionising",
+    "radiation_damage",
+    "long_term_effects"
+  ],
+  "options": null,
+  "correct_answer": "X-rays are more immediately dangerous because they are ionising radiation that can directly damage DNA in cells without visible signs, causing immediate cellular mutations. UV is non-ionising but causes surface damage (the sunburn). Long-term effects: both UV and X-rays increase cancer risk by damaging DNA, with X-rays causing deeper, harder-to-detect damage. Repeated exposure to either increases melanoma/skin cancer risk.",
+  "explanation": "X-rays are more dangerous immediately because they have enough energy to knock electrons off atoms deep inside your body, breaking DNA strands before you notice anything wrong. Sunburn is just the surface burning, but both types of radiation can cause cancer over time by damaging the instructions in your cells. This is why exposure to both should be minimised.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4904ede7-9315-4d4c-80e1-dbd6332b2b87",
+  "topic": "waves.em_spectrum",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:16:35.529605",
+  "classified_at": "2026-04-05T02:16:35.529606",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/hard",
+  "raw_html": null
+}

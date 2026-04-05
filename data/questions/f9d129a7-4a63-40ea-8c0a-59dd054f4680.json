@@ -1,0 +1,24 @@
+{
+  "question_text": "A student has a mass of 50 kg. On Earth, gravitational field strength is 10 N/kg. On Mars, gravitational field strength is 3.7 N/kg. Calculate the difference in the student's weight between Earth and Mars.",
+  "question_type": "calculation",
+  "tags": [
+    "weight",
+    "gravitational field strength",
+    "multi-planet comparison"
+  ],
+  "options": null,
+  "correct_answer": "315 N",
+  "explanation": "First calculate weight on Earth: W = mg = 50 \u00d7 10 = 500 N. Then weight on Mars: W = 50 \u00d7 3.7 = 185 N. The difference is 500 - 185 = 315 N. This shows how much heavier you feel on Earth compared to Mars.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f9d129a7-4a63-40ea-8c0a-59dd054f4680",
+  "topic": "space.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:17.232794",
+  "classified_at": "2026-04-05T02:15:17.232806",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/hard",
+  "raw_html": null
+}

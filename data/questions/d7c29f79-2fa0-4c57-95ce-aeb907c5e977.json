@@ -1,0 +1,24 @@
+{
+  "question_text": "A light ray hits a mirror at an angle of incidence of 35\u00b0. What is the angle of reflection?",
+  "question_type": "calculation",
+  "tags": [
+    "reflection",
+    "angle of reflection",
+    "law of reflection"
+  ],
+  "options": null,
+  "correct_answer": "35\u00b0",
+  "explanation": "According to the law of reflection, the angle of incidence always equals the angle of reflection. Since the light hits the mirror at 35\u00b0, it will bounce off at 35\u00b0 as well.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d7c29f79-2fa0-4c57-95ce-aeb907c5e977",
+  "topic": "waves.light",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:44.931319",
+  "classified_at": "2026-04-05T02:16:44.931324",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.light/easy",
+  "raw_html": null
+}

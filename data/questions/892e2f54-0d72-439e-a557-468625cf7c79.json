@@ -1,0 +1,24 @@
+{
+  "question_text": "A submarine is at a depth where the water pressure is 200,000 Pa. The atmospheric pressure at sea level is 101,000 Pa. What is the total pressure acting on the submarine's hull?",
+  "question_type": "calculation",
+  "tags": [
+    "pressure in fluids",
+    "depth",
+    "atmospheric pressure"
+  ],
+  "options": null,
+  "correct_answer": "301,000 Pa",
+  "explanation": "The total pressure on the submarine is the sum of atmospheric pressure at the surface plus the water pressure from the depth. Total pressure = 101,000 Pa + 200,000 Pa = 301,000 Pa. This demonstrates that pressure increases with depth and combines with atmospheric pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "892e2f54-0d72-439e-a557-468625cf7c79",
+  "topic": "forces.pressure",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:32.935369",
+  "classified_at": "2026-04-05T02:18:32.935371",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/hard",
+  "raw_html": null
+}

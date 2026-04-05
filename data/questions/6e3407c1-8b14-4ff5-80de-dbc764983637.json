@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement best describes what happens when a spring is stretched within its elastic limit?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "elastic limit",
+    "elastic deformation",
+    "spring properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The spring will permanently stay stretched and never return to its original shape",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The extension is proportional to the force applied, and the spring returns to its original length when the force is removed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The spring becomes harder to stretch the more you pull it",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force needed decreases as the spring stretches",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Within the elastic limit, springs obey Hooke's law: the extension is proportional to the force. When you stop pulling, the spring bounces back to its original shape because the material hasn't been permanently damaged.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6e3407c1-8b14-4ff5-80de-dbc764983637",
+  "topic": "forces.springs",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:51.495556",
+  "classified_at": "2026-04-05T02:18:51.495559",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/medium",
+  "raw_html": null
+}

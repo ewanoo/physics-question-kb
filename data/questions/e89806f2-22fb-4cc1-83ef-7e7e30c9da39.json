@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is a natural satellite of Earth?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "Moon",
+    "natural satellite",
+    "Earth"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Mars",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Venus",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A natural satellite is an object that orbits a planet. The Moon orbits Earth, making it Earth's natural satellite. The Sun is a star, and Mars and Venus are planets, not satellites.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e89806f2-22fb-4cc1-83ef-7e7e30c9da39",
+  "topic": "space.solar_system",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:36.503158",
+  "classified_at": "2026-04-05T02:15:36.503170",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/easy",
+  "raw_html": null
+}

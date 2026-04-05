@@ -1,0 +1,45 @@
+{
+  "question_text": "Which type of electromagnetic wave has the most energy?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "energy",
+    "EM spectrum",
+    "gamma rays"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Visible light",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gamma rays",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Microwaves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gamma rays have the shortest wavelength and highest frequency in the electromagnetic spectrum. Higher frequency means higher energy, so gamma rays carry the most energy of all electromagnetic waves.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "37b14e7a-dff5-4f97-ba00-e7cf18d8720a",
+  "topic": "waves.em_spectrum",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:10.164726",
+  "classified_at": "2026-04-05T02:16:10.164728",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "raw_html": null
+}

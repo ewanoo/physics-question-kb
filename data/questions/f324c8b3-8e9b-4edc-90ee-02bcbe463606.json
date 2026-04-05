@@ -1,0 +1,24 @@
+{
+  "question_text": "A wooden block floats on water, while an iron block sinks. Explain why using the concept of pressure and density.",
+  "question_type": "short_answer",
+  "tags": [
+    "floating and sinking",
+    "pressure concept",
+    "density"
+  ],
+  "options": null,
+  "correct_answer": "Wood floats because it is less dense than water, so the upward water pressure (and buoyant force) is greater than the downward pressure from its weight. Iron sinks because it is denser than water, so the downward pressure from its weight is greater than the upward water pressure.",
+  "explanation": "The pressure exerted by the water depends on the object's weight and density. Less dense objects experience greater upward pressure from the water than the downward pressure from their own weight, causing them to float. Denser objects experience the opposite, causing them to sink.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "f324c8b3-8e9b-4edc-90ee-02bcbe463606",
+  "topic": "forces.pressure",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:42.826441",
+  "classified_at": "2026-04-05T02:18:42.826442",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/medium",
+  "raw_html": null
+}

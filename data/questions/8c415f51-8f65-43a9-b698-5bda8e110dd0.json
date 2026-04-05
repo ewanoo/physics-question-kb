@@ -1,0 +1,45 @@
+{
+  "question_text": "What is the formula for calculating density?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "density",
+    "formula",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Density = mass \u00f7 volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Density = volume \u00f7 mass",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Density = mass \u00d7 volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Density = mass - volume",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Density tells us how tightly packed the particles are in a material. We calculate it by dividing the mass by the volume it takes up.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8c415f51-8f65-43a9-b698-5bda8e110dd0",
+  "topic": "matter.density",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:24.832142",
+  "classified_at": "2026-04-05T02:17:24.832157",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/easy",
+  "raw_html": null
+}

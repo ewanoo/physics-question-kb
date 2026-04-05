@@ -1,0 +1,45 @@
+{
+  "question_text": "Two springs are stretched by the same force. Spring A has a spring constant of 100 N/m and Spring B has a spring constant of 200 N/m. Which spring will extend more?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "comparing springs"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Spring A will extend more because it has a smaller spring constant",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Spring B will extend more because it has a larger spring constant",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both springs will extend by the same amount",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It is impossible to compare springs without knowing the exact force applied",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since F = kx, and both springs experience the same force, the spring with the smaller k value will have a larger x (extension). Spring A is less stiff, so it stretches further.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "22a3fd5a-aa47-45a3-90b6-f4f799f1b3ec",
+  "topic": "forces.springs",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:51.496193",
+  "classified_at": "2026-04-05T02:18:51.496198",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/medium",
+  "raw_html": null
+}

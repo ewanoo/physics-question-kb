@@ -1,0 +1,24 @@
+{
+  "question_text": "If a newly discovered planet is found at twice the distance from the Sun as Earth, calculate how many times longer its orbital period would be compared to Earth's.",
+  "question_type": "calculation",
+  "tags": [
+    "orbital_period",
+    "kepler_laws",
+    "distance_ratio"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 2.83 times longer (using T\u00b2 \u221d r\u00b3: if r doubles, then T\u00b2 = 2\u00b3 = 8, so T = \u221a8 \u2248 2.83)",
+  "explanation": "Using Kepler's Third Law, when distance doubles, the orbital period squared becomes 8 times larger (2\u00b3). Taking the square root gives approximately 2.83 times the period. This shows that even small increases in distance create large increases in orbital period.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "46cf74a5-c698-42d5-9eae-770e45ba0be3",
+  "topic": "space.solar_system",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:01.111437",
+  "classified_at": "2026-04-05T02:16:01.111438",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/medium",
+  "raw_html": null
+}

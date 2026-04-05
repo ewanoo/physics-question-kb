@@ -1,0 +1,24 @@
+{
+  "question_text": "Ultraviolet radiation is used to sterilise medical equipment. Why is ultraviolet radiation suitable for this purpose?",
+  "question_type": "short_answer",
+  "tags": [
+    "ultraviolet",
+    "applications",
+    "high energy"
+  ],
+  "options": null,
+  "correct_answer": "Ultraviolet radiation has high energy that can damage or destroy bacteria and microorganisms (or: it can break down DNA)",
+  "explanation": "Ultraviolet radiation has a high frequency and high energy. This energy is strong enough to damage the cells of bacteria and microorganisms, killing them and making the equipment sterile. This is why UV lamps are used in hospitals and laboratories.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "16cdd3dc-8e0a-443d-9e28-3fa5d7e58500",
+  "topic": "waves.em_spectrum",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:10.164977",
+  "classified_at": "2026-04-05T02:16:10.164978",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "What is the correct order of the first four planets from the Sun?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "order of planets",
+    "inner planets",
+    "Solar System"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury, Venus, Earth, Mars",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Venus, Mercury, Mars, Earth",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Earth, Mars, Venus, Mercury",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mars, Earth, Venus, Mercury",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The four inner planets closest to the Sun are Mercury, Venus, Earth, and Mars in that order. You can remember this with the phrase 'My Very Educated Mother Just Served Us Noodles' (the first letters spell out the order).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "831aeb0b-db80-4c8f-bd97-b476423056f4",
+  "topic": "space.solar_system",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:36.503432",
+  "classified_at": "2026-04-05T02:15:36.503434",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/easy",
+  "raw_html": null
+}

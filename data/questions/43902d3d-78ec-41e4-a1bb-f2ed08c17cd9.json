@@ -1,0 +1,24 @@
+{
+  "question_text": "Infrared radiation is often used for thermal imaging cameras. Explain what thermal imaging detects and why infrared is suitable for this use.",
+  "question_type": "short_answer",
+  "tags": [
+    "infrared",
+    "thermal_imaging",
+    "uses"
+  ],
+  "options": null,
+  "correct_answer": "Thermal imaging detects heat/infrared radiation emitted by objects. Infrared is suitable because all warm objects emit infrared radiation, so cameras can detect temperature differences and create images showing which areas are hotter or cooler.",
+  "explanation": "Thermal imaging cameras detect infrared radiation (heat) emitted by objects. Everything that is warm emits infrared radiation, and hotter objects emit more of it. By detecting these infrared emissions, the camera can create an image where different colours represent different temperatures, making it useful for detecting heat loss, finding people in the dark, or checking for overheating equipment.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "43902d3d-78ec-41e4-a1bb-f2ed08c17cd9",
+  "topic": "waves.em_spectrum",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:20.210100",
+  "classified_at": "2026-04-05T02:16:20.210101",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "raw_html": null
+}

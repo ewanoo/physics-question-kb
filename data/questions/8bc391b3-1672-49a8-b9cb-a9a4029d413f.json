@@ -1,0 +1,24 @@
+{
+  "question_text": "A speaker produces a sound wave in air. When the same speaker is submerged underwater, the frequency remains the same but the wavelength increases. Explain why the wavelength changes, using the wave equation (v = f \u00d7 \u03bb).",
+  "question_type": "short_answer",
+  "tags": [
+    "wave equation",
+    "speed of sound",
+    "media comparison"
+  ],
+  "options": null,
+  "correct_answer": "Sound travels faster in water (1480 m/s) than in air (340 m/s). Since v = f \u00d7 \u03bb and frequency stays constant, wavelength must increase proportionally to the increase in velocity.",
+  "explanation": "The wave equation tells us that wavelength = velocity \u00f7 frequency. When velocity increases but frequency stays the same, wavelength must get bigger. It's like a factory speeding up production at the same rate\u2014items must spread further apart!",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8bc391b3-1672-49a8-b9cb-a9a4029d413f",
+  "topic": "waves.sound",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:17:06.584161",
+  "classified_at": "2026-04-05T02:17:06.584162",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/hard",
+  "raw_html": null
+}

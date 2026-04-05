@@ -1,0 +1,24 @@
+{
+  "question_text": "What is friction?",
+  "question_type": "short_answer",
+  "tags": [
+    "friction",
+    "definition",
+    "forces"
+  ],
+  "options": null,
+  "correct_answer": "Friction is a force that opposes motion between two surfaces in contact.",
+  "explanation": "Friction is the resistive force that acts when two surfaces rub against each other. It always acts in the opposite direction to the motion, trying to slow things down or stop them.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a450791d-bc26-48c5-959b-dd995d56d7bd",
+  "topic": "forces.friction",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:43.950042",
+  "classified_at": "2026-04-05T02:17:43.950053",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/easy",
+  "raw_html": null
+}

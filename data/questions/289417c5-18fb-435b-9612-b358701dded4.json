@@ -1,0 +1,24 @@
+{
+  "question_text": "A hydraulic system has a small piston with area 0.5 m\u00b2 and a large piston with area 10 m\u00b2. A force of 500 N is applied to the small piston. Calculate the force exerted by the large piston, assuming no energy is lost.",
+  "question_type": "calculation",
+  "tags": [
+    "hydraulic systems",
+    "pressure",
+    "force calculation"
+  ],
+  "options": null,
+  "correct_answer": "10,000 N",
+  "explanation": "In a hydraulic system, pressure is transmitted equally through the fluid. Using P = F/A, the pressure from the small piston equals the pressure at the large piston. Rearranging: F\u2082 = F\u2081 \u00d7 (A\u2082/A\u2081) = 500 \u00d7 (10/0.5) = 10,000 N. This shows how hydraulic systems can multiply force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "289417c5-18fb-435b-9612-b358701dded4",
+  "topic": "forces.pressure",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:32.935092",
+  "classified_at": "2026-04-05T02:18:32.935104",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/hard",
+  "raw_html": null
+}

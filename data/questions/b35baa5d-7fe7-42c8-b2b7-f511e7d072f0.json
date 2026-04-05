@@ -1,0 +1,24 @@
+{
+  "question_text": "A space probe is launched from Earth (g = 10 N/kg) to Jupiter (g = 25 N/kg). The probe has a mass of 1500 kg. Calculate: (a) The probe's weight on Earth, (b) The probe's weight on Jupiter, (c) The ratio of weights (weight on Jupiter : weight on Earth).",
+  "question_type": "calculation",
+  "tags": [
+    "multi-step calculation",
+    "planetary comparison",
+    "weight ratios"
+  ],
+  "options": null,
+  "correct_answer": "(a) 15,000 N (b) 37,500 N (c) 2.5:1 or 5:2",
+  "explanation": "(a) Weight on Earth = 1500 \u00d7 10 = 15,000 N. (b) Weight on Jupiter = 1500 \u00d7 25 = 37,500 N. (c) Ratio = 37,500 \u00f7 15,000 = 2.5 (or 5:2). This shows Jupiter's much stronger gravity pulls the probe down 2.5 times harder than Earth does.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b35baa5d-7fe7-42c8-b2b7-f511e7d072f0",
+  "topic": "space.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:17.233359",
+  "classified_at": "2026-04-05T02:15:17.233360",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/hard",
+  "raw_html": null
+}

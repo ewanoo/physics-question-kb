@@ -1,0 +1,24 @@
+{
+  "question_text": "What is frequency and what are its units?",
+  "question_type": "short_answer",
+  "tags": [
+    "frequency",
+    "definition",
+    "units"
+  ],
+  "options": null,
+  "correct_answer": "Frequency is the number of complete waves passing a point per second. It is measured in Hertz (Hz).",
+  "explanation": "If 5 waves pass a point every second, the frequency is 5 Hz. Higher frequency means more waves arrive per second.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "d4f0b53f-f1bc-4b72-982e-016ae1bc7e13",
+  "topic": "waves.properties",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:53.583888",
+  "classified_at": "2026-04-05T02:16:53.583896",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/easy",
+  "raw_html": null
+}

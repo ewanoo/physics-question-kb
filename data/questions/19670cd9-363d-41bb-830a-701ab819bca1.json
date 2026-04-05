@@ -1,0 +1,24 @@
+{
+  "question_text": "Explain why an object weighs less on the Moon (g = 1.6 N/kg) than on Earth (g = 10 N/kg), even though it still has the same mass. Use a 10 kg object as an example in your explanation.",
+  "question_type": "short_answer",
+  "tags": [
+    "mass vs weight",
+    "gravitational field strength",
+    "lunar comparison"
+  ],
+  "options": null,
+  "correct_answer": "Weight on Earth: 100 N. Weight on Moon: 16 N. The object weighs less on the Moon because the Moon has a weaker gravitational field strength than Earth. The object's mass (10 kg) stays the same, but the gravitational force acting on it is much smaller on the Moon.",
+  "explanation": "A 10 kg object weighs 100 N on Earth (10 \u00d7 10) but only 16 N on the Moon (10 \u00d7 1.6). Weight is the force of gravity pulling on an object, which depends on the local gravitational field strength. The Moon's weaker gravity means less force on the object, so it weighs less, even though it still contains the same amount of matter (mass).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "19670cd9-363d-41bb-830a-701ab819bca1",
+  "topic": "space.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:17.233410",
+  "classified_at": "2026-04-05T02:15:17.233411",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "You stand 85 metres from a cliff and clap your hands. Sound travels at 340 m/s in air. Calculate the time delay between your clap and hearing the echo. Show your working.",
+  "question_type": "calculation",
+  "tags": [
+    "echoes",
+    "speed of sound",
+    "distance-time"
+  ],
+  "options": null,
+  "correct_answer": "0.5 seconds",
+  "explanation": "The sound must travel to the cliff (85 m) and back (85 m), making a total distance of 170 m. Time = distance \u00f7 speed = 170 \u00f7 340 = 0.5 seconds. Always remember echoes involve a round trip!",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "03564a98-6b9e-4f16-aabb-f47991120873",
+  "topic": "waves.sound",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:17:06.584086",
+  "classified_at": "2026-04-05T02:17:06.584087",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/hard",
+  "raw_html": null
+}

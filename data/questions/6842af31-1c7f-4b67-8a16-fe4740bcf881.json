@@ -1,0 +1,24 @@
+{
+  "question_text": "A rectangular tank is filled with water to a depth of 5 m. The bottom of the tank has an area of 20 m\u00b2. Calculate the pressure at the bottom of the tank (ignore atmospheric pressure) and then calculate the total force pressing on the bottom.",
+  "question_type": "calculation",
+  "tags": [
+    "pressure in fluids",
+    "force",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "Pressure: 50,000 Pa; Force: 1,000,000 N",
+  "explanation": "First, calculate pressure using P = \u03c1gh = 1,000 \u00d7 10 \u00d7 5 = 50,000 Pa (where \u03c1 is water density, g is gravity, h is depth). Then calculate force using F = P \u00d7 A = 50,000 \u00d7 20 = 1,000,000 N. This multi-step problem shows how pressure and force relate in fluids.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6842af31-1c7f-4b67-8a16-fe4740bcf881",
+  "topic": "forces.pressure",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:32.935601",
+  "classified_at": "2026-04-05T02:18:32.935602",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/hard",
+  "raw_html": null
+}

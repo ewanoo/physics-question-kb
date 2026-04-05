@@ -1,0 +1,25 @@
+{
+  "question_text": "Define the term 'melting' and explain what happens to particles during this process.",
+  "question_type": "short_answer",
+  "tags": [
+    "melting",
+    "solid to liquid",
+    "particle motion",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Melting is the process where a solid turns into a liquid. During melting, particles gain heat energy and vibrate more vigorously, breaking away from their fixed positions in the solid structure.",
+  "explanation": "Melting occurs at a fixed temperature called the melting point. The added heat energy allows particles to move more freely from their rigid solid arrangement into a liquid state where they can flow.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a00f55e8-7af7-4285-a74a-0677bdd368b9",
+  "topic": "matter.changes",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:17.491245",
+  "classified_at": "2026-04-05T02:17:17.491248",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/easy",
+  "raw_html": null
+}

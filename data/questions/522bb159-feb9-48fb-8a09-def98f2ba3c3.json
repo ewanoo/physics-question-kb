@@ -1,0 +1,24 @@
+{
+  "question_text": "Name one inner planet and one outer planet from our Solar System.",
+  "question_type": "short_answer",
+  "tags": [
+    "inner planets",
+    "outer planets",
+    "planets"
+  ],
+  "options": null,
+  "correct_answer": "Inner planet examples: Mercury, Venus, Earth, or Mars. Outer planet examples: Jupiter, Saturn, Uranus, or Neptune. (Any one from each group is acceptable.)",
+  "explanation": "Inner planets are the four rocky planets closest to the Sun. Outer planets are the larger gas giants further from the Sun. The asteroid belt between Mars and Jupiter separates these two groups.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "522bb159-feb9-48fb-8a09-def98f2ba3c3",
+  "topic": "space.solar_system",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:36.503600",
+  "classified_at": "2026-04-05T02:15:36.503601",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/easy",
+  "raw_html": null
+}

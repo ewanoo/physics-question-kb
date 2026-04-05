@@ -1,0 +1,24 @@
+{
+  "question_text": "Name one everyday use of microwave radiation.",
+  "question_type": "short_answer",
+  "tags": [
+    "microwaves",
+    "applications",
+    "everyday use"
+  ],
+  "options": null,
+  "correct_answer": "Cooking food in a microwave oven (or: mobile phone communication, radar)",
+  "explanation": "Microwave ovens use microwave radiation to heat food quickly. Microwaves are also used in mobile phones for communication and in radar systems. These are practical applications of electromagnetic waves.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "b34be37b-75e4-4c07-91eb-7bd2de64015c",
+  "topic": "waves.em_spectrum",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:10.164798",
+  "classified_at": "2026-04-05T02:16:10.164799",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "raw_html": null
+}

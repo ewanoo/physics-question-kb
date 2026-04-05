@@ -1,0 +1,24 @@
+{
+  "question_text": "Why do objects fall towards the ground?",
+  "question_type": "short_answer",
+  "tags": [
+    "gravity",
+    "falling",
+    "force"
+  ],
+  "options": null,
+  "correct_answer": "Objects fall towards the ground because gravity is a force that pulls all objects towards the Earth's centre.",
+  "explanation": "Gravity acts on all objects with mass. The Earth is much more massive than objects on its surface, so objects are pulled downwards towards the Earth rather than the Earth being pulled towards the objects.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4d21361d-2894-4e05-9476-93f30c16c3c2",
+  "topic": "space.gravity",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:03.961056",
+  "classified_at": "2026-04-05T02:15:03.961058",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/easy",
+  "raw_html": null
+}

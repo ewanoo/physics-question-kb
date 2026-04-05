@@ -1,0 +1,24 @@
+{
+  "question_text": "What is wavelength?",
+  "question_type": "short_answer",
+  "tags": [
+    "wavelength",
+    "definition",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "The distance between two consecutive peaks (or troughs) of a wave, or the distance for one complete wave cycle.",
+  "explanation": "Wavelength is measured from one peak to the next peak, or one trough to the next trough. It tells us the physical size of one complete wave.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "36d31dc9-99ee-4ad9-a24a-7fcf255fc331",
+  "topic": "waves.properties",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:53.583397",
+  "classified_at": "2026-04-05T02:16:53.583405",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/easy",
+  "raw_html": null
+}

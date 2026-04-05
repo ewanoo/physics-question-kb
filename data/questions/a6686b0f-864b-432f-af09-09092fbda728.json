@@ -1,0 +1,45 @@
+{
+  "question_text": "What is a transparent material?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "transparent",
+    "opaque",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A material that lets light pass through it so you can see objects clearly",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A material that absorbs all light and appears black",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A material that reflects all light back to its source",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A material that only lets some colours of light through",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Transparent materials like glass and clear plastic allow light to pass straight through them, so you can see clearly through them. This is different from opaque materials which block light completely.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a6686b0f-864b-432f-af09-09092fbda728",
+  "topic": "waves.light",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:44.929766",
+  "classified_at": "2026-04-05T02:16:44.929781",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.light/easy",
+  "raw_html": null
+}

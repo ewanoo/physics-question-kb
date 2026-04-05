@@ -1,0 +1,24 @@
+{
+  "question_text": "The angle of the Sun's rays in the UK is 60\u00b0 in June and 20\u00b0 in December. Calculate the difference in angle between summer and winter.",
+  "question_type": "calculation",
+  "tags": [
+    "angle of sun's rays",
+    "calculation",
+    "seasons"
+  ],
+  "options": null,
+  "correct_answer": "40\u00b0",
+  "explanation": "To find the difference, you subtract the smaller angle from the larger angle: 60\u00b0 - 20\u00b0 = 40\u00b0. This larger angle in summer means the Sun's energy is more concentrated, making it warmer.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "922a9f59-cea8-4614-883d-0394d83262e0",
+  "topic": "space.seasons",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:15:29.514910",
+  "classified_at": "2026-04-05T02:15:29.514912",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/medium",
+  "raw_html": null
+}

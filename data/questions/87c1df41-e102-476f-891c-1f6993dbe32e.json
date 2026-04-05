@@ -1,0 +1,24 @@
+{
+  "question_text": "On the summer solstice (June 21st), the UK has approximately 16 hours of daylight. How many hours of darkness does it have?",
+  "question_type": "calculation",
+  "tags": [
+    "day length",
+    "calculation",
+    "summer"
+  ],
+  "options": null,
+  "correct_answer": "8 hours",
+  "explanation": "A full day has 24 hours. If there are 16 hours of daylight, then the hours of darkness are: 24 - 16 = 8 hours. This shows how much longer the days are in summer compared to winter.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "87c1df41-e102-476f-891c-1f6993dbe32e",
+  "topic": "space.seasons",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:15:29.515182",
+  "classified_at": "2026-04-05T02:15:29.515183",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/medium",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement best explains why gravitational field strength decreases with distance from a planet?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gravitational field",
+    "distance relationship",
+    "inverse square law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The planet loses mass as you move away from it",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gravitational force spreads out over a larger area as distance increases, making it weaker",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravity only works within a certain distance from a planet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Objects farther away have less mass, so gravity affects them less",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational force spreads out over larger areas (following an inverse square law), so the effect becomes weaker with distance. The planet itself doesn't change mass, and gravity acts on all objects regardless of their mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9aede6c6-df52-4982-a8a7-1745aac79885",
+  "topic": "space.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:17.233055",
+  "classified_at": "2026-04-05T02:15:17.233057",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/hard",
+  "raw_html": null
+}

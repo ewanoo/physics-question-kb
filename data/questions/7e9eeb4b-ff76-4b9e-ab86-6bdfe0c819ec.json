@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following correctly orders the planets by their orbital period around the Sun, from shortest to longest?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "orbital_period",
+    "planet_order",
+    "distance_from_sun"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury, Venus, Earth, Mars, Jupiter, Saturn",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Saturn, Jupiter, Mars, Earth, Venus, Mercury",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Mercury, Earth, Venus, Mars, Jupiter, Saturn",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Jupiter, Saturn, Mars, Earth, Venus, Mercury",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Planets closer to the Sun orbit faster and have shorter orbital periods, while planets further away take much longer to complete one orbit. Mercury is closest so it has the shortest period, and Saturn is furthest so it has the longest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7e9eeb4b-ff76-4b9e-ab86-6bdfe0c819ec",
+  "topic": "space.solar_system",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:01.110732",
+  "classified_at": "2026-04-05T02:16:01.110743",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/medium",
+  "raw_html": null
+}

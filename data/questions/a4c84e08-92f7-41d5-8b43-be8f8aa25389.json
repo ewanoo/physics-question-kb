@@ -1,0 +1,25 @@
+{
+  "question_text": "Ice melts at 0\u00b0C. If ice at -5\u00b0C is heated, how much temperature change must occur before melting begins?",
+  "question_type": "calculation",
+  "tags": [
+    "melting point",
+    "temperature",
+    "calculation",
+    "state changes"
+  ],
+  "options": null,
+  "correct_answer": "5\u00b0C (or 5 K)",
+  "explanation": "The ice starts at -5\u00b0C and needs to reach 0\u00b0C to begin melting. The temperature change is 0\u00b0C - (-5\u00b0C) = 5\u00b0C. Heat must be added to raise the temperature by 5\u00b0C.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a4c84e08-92f7-41d5-8b43-be8f8aa25389",
+  "topic": "matter.changes",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:17.491456",
+  "classified_at": "2026-04-05T02:17:17.491456",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/easy",
+  "raw_html": null
+}

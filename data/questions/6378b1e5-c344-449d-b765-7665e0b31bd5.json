@@ -1,0 +1,24 @@
+{
+  "question_text": "What does the spring constant (k) tell us about a spring?",
+  "question_type": "short_answer",
+  "tags": [
+    "spring constant",
+    "stiffness",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "The spring constant tells us how stiff the spring is, or how much force is needed to extend (or compress) the spring by 1 meter.",
+  "explanation": "A larger spring constant means the spring is stiffer and requires more force to stretch it. A smaller spring constant means the spring is easier to stretch. It's measured in N/m (newtons per metre).",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "6378b1e5-c344-449d-b765-7665e0b31bd5",
+  "topic": "forces.springs",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:51.495787",
+  "classified_at": "2026-04-05T02:18:51.495789",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/medium",
+  "raw_html": null
+}

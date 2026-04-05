@@ -1,0 +1,24 @@
+{
+  "question_text": "A scientist is deciding between using ultraviolet (UV) light or X-rays to sterilise medical equipment. UV light has a wavelength of 200 nm and can kill bacteria but cannot penetrate packaging. X-rays have a wavelength of 0.1 nm. Calculate the ratio of their frequencies and use this to evaluate why X-rays are more suitable for this application despite being more dangerous.",
+  "question_type": "calculation",
+  "tags": [
+    "frequency_calculation",
+    "wavelength_relationship",
+    "risk_benefit_analysis"
+  ],
+  "options": null,
+  "correct_answer": "Frequency ratio = f(X-ray)/f(UV) = \u03bb(UV)/\u03bb(X-ray) = 200 nm / 0.1 nm = 2000. X-rays have 2000 times higher frequency. Although X-rays are more dangerous and ionising, they penetrate packaging and kill bacteria inside sealed containers, making them more effective for sterilisation. The benefit of complete sterilisation outweighs the risk if proper safety precautions are used.",
+  "explanation": "To find the frequency ratio, you use the relationship that frequency is inversely proportional to wavelength. X-rays have a much higher frequency (2000 times higher), which means they have much more energy and can penetrate through packaging that UV cannot. This makes them better for sterilising equipment in sealed packages, even though they're more dangerous to workers who must handle them carefully.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ea95d1b5-ff01-445c-b57a-cc77baff2e76",
+  "topic": "waves.em_spectrum",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:16:35.529540",
+  "classified_at": "2026-04-05T02:16:35.529542",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/hard",
+  "raw_html": null
+}

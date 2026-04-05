@@ -1,0 +1,24 @@
+{
+  "question_text": "Two divers are underwater. Diver A is at 10 m depth where the water pressure is 200,000 Pa. Diver B is at 20 m depth where the water pressure is 300,000 Pa. How many times greater is the pressure on Diver B compared to Diver A?",
+  "question_type": "calculation",
+  "tags": [
+    "pressure in fluids",
+    "depth",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "1.5 times",
+  "explanation": "To compare pressures, divide the larger pressure by the smaller pressure: 300,000 Pa \u00f7 200,000 Pa = 1.5. This shows that doubling the depth does not double the pressure because atmospheric pressure also contributes to the total pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ab7651fa-a2f7-486a-8845-a1894520a202",
+  "topic": "forces.pressure",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:32.935451",
+  "classified_at": "2026-04-05T02:18:32.935452",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/hard",
+  "raw_html": null
+}

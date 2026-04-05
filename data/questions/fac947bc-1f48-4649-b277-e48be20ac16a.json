@@ -1,0 +1,24 @@
+{
+  "question_text": "A pressure of 50 Pa is exerted over an area of 8 m\u00b2. What is the force being applied?",
+  "question_type": "calculation",
+  "tags": [
+    "pressure calculation",
+    "rearrange formula",
+    "P=F/A"
+  ],
+  "options": null,
+  "correct_answer": "400 N",
+  "explanation": "Rearrange the pressure formula to find force: F = P \u00d7 A. Multiply the pressure (50 Pa) by the area (8 m\u00b2) to get 400 N. This shows how to work backwards from pressure to find the force.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "fac947bc-1f48-4649-b277-e48be20ac16a",
+  "topic": "forces.pressure",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:42.826602",
+  "classified_at": "2026-04-05T02:18:42.826603",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/medium",
+  "raw_html": null
+}

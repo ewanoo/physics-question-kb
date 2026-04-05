@@ -1,0 +1,24 @@
+{
+  "question_text": "A planet orbits the Sun with an orbital radius of 10 AU (Astronomical Units). If Earth has an orbital radius of 1 AU and an orbital period of 1 year, approximately how many years does this planet take to orbit the Sun?",
+  "question_type": "calculation",
+  "tags": [
+    "orbital_period",
+    "kepler_laws",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 32 years (using Kepler's Third Law: T\u00b2 is proportional to r\u00b3, so T\u00b2 = 10\u00b3 = 1000, therefore T = \u221a1000 \u2248 31.6 \u2248 32 years)",
+  "explanation": "This uses Kepler's Third Law, which states that the square of the orbital period is proportional to the cube of the orbital radius. By cubing the distance ratio (10\u00b3) and taking the square root, students find the period ratio.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "8d7fce87-faff-4448-ae16-236876cc4ae7",
+  "topic": "space.solar_system",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:01.111321",
+  "classified_at": "2026-04-05T02:16:01.111322",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/medium",
+  "raw_html": null
+}

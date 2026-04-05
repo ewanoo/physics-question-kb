@@ -1,0 +1,24 @@
+{
+  "question_text": "Define what a natural satellite is.",
+  "question_type": "short_answer",
+  "tags": [
+    "natural satellite",
+    "Moon",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "A natural satellite is an object that orbits around a planet (or other celestial body) in space.",
+  "explanation": "Natural satellites are different from artificial satellites that humans make. The Moon is Earth's natural satellite because it orbits Earth due to gravity.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "cc9b4b0d-61e7-44da-961b-3f71f36499ee",
+  "topic": "space.solar_system",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:36.503531",
+  "classified_at": "2026-04-05T02:15:36.503532",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/easy",
+  "raw_html": null
+}

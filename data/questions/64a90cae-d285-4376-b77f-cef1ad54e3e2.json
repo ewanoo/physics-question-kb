@@ -1,0 +1,45 @@
+{
+  "question_text": "Which type of electromagnetic wave would you use to take a photograph inside a dark room without using visible light?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "infrared",
+    "applications",
+    "thermal"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ultraviolet radiation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Infrared radiation",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Microwaves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Infrared radiation is thermal radiation that can be detected by special cameras, even in the dark. Infrared cameras detect the heat given off by objects, allowing you to see them without visible light. This is used in night vision technology.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "64a90cae-d285-4376-b77f-cef1ad54e3e2",
+  "topic": "waves.em_spectrum",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:10.164849",
+  "classified_at": "2026-04-05T02:16:10.164850",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "raw_html": null
+}

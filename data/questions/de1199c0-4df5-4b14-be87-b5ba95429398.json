@@ -1,0 +1,45 @@
+{
+  "question_text": "What is gravity?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "gravity",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that pushes objects away from the Earth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A force that pulls objects towards mass, like the Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A type of energy that makes objects move",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which objects fall",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravity is a force of attraction between all objects that have mass. The Earth's gravity pulls objects towards its centre, which is why things fall downwards and why we stay on the ground.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "de1199c0-4df5-4b14-be87-b5ba95429398",
+  "topic": "space.gravity",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:03.960548",
+  "classified_at": "2026-04-05T02:15:03.960568",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/easy",
+  "raw_html": null
+}

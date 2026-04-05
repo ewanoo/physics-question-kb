@@ -1,0 +1,24 @@
+{
+  "question_text": "What does it mean when we say a material has high density?",
+  "question_type": "short_answer",
+  "tags": [
+    "density",
+    "definition",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "High density means the material has a lot of mass packed into a small volume. Its particles are tightly packed together.",
+  "explanation": "A material with high density has more mass in the same amount of space compared to a material with low density. This means its particles are closer together.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "e95dad25-ffc0-4922-9e94-6c2e4d98cad1",
+  "topic": "matter.density",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:24.833037",
+  "classified_at": "2026-04-05T02:17:24.833038",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/easy",
+  "raw_html": null
+}

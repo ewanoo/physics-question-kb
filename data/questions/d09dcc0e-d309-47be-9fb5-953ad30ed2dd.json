@@ -1,0 +1,45 @@
+{
+  "question_text": "What are the standard SI units for pressure?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "pressure",
+    "units",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Newtons (N)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pascals (Pa)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Metres squared (m\u00b2)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Kilograms (kg)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Pressure is measured in Pascals (Pa), which is the same as Newtons per square metre (N/m\u00b2). Named after scientist Blaise Pascal, this unit shows how much force is spread over an area.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d09dcc0e-d309-47be-9fb5-953ad30ed2dd",
+  "topic": "forces.pressure",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:18:22.621921",
+  "classified_at": "2026-04-05T02:18:22.621924",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/easy",
+  "raw_html": null
+}

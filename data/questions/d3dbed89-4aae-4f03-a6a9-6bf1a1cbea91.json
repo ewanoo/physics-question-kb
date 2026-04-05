@@ -1,0 +1,24 @@
+{
+  "question_text": "An astronaut has a mass of 80 kg on Earth. What will their mass be on the Moon?",
+  "question_type": "calculation",
+  "tags": [
+    "mass",
+    "Moon",
+    "Earth"
+  ],
+  "options": null,
+  "correct_answer": "80 kg",
+  "explanation": "Mass is the amount of matter in something and does not change depending on location. Whether on Earth or the Moon, the astronaut still has 80 kg of matter in their body. However, their weight would be different because gravity is weaker on the Moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d3dbed89-4aae-4f03-a6a9-6bf1a1cbea91",
+  "topic": "space.gravity",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:03.961122",
+  "classified_at": "2026-04-05T02:15:03.961122",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/easy",
+  "raw_html": null
+}

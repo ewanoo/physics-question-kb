@@ -1,0 +1,45 @@
+{
+  "question_text": "At what time of year is the Sun's angle highest in the UK sky?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "angle of sun's rays",
+    "seasons",
+    "summer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Winter solstice (December)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Summer solstice (June)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Spring equinox (March)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Autumn equinox (September)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Sun is highest in the sky during summer (around June 21st in the Northern Hemisphere). This is when the UK is tilted most directly towards the Sun, so the Sun's rays hit at the steepest angle, making it warmest and brightest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6fef056e-bd1c-4d8c-91c5-859addcbc992",
+  "topic": "space.seasons",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:15:29.514750",
+  "classified_at": "2026-04-05T02:15:29.514753",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/medium",
+  "raw_html": null
+}

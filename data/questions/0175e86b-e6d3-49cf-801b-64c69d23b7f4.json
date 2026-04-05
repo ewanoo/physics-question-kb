@@ -1,0 +1,24 @@
+{
+  "question_text": "A spanner is used to tighten a bolt. The force applied is 50 N at a perpendicular distance of 0.2 m from the pivot. Calculate the moment produced.",
+  "question_type": "calculation",
+  "tags": [
+    "moment calculation",
+    "M=Fd",
+    "spanner"
+  ],
+  "options": null,
+  "correct_answer": "10 N m",
+  "explanation": "Moment is calculated using M = F \u00d7 d, where F is the force in Newtons and d is the perpendicular distance from the pivot in metres. So M = 50 \u00d7 0.2 = 10 N m. A larger moment makes it easier to turn the bolt.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0175e86b-e6d3-49cf-801b-64c69d23b7f4",
+  "topic": "forces.moments",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:14.612238",
+  "classified_at": "2026-04-05T02:18:14.612250",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/medium",
+  "raw_html": null
+}

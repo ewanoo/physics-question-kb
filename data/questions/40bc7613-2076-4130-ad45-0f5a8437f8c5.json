@@ -1,0 +1,24 @@
+{
+  "question_text": "Explain why ice skates allow skaters to move faster than running shoes on ice.",
+  "question_type": "short_answer",
+  "tags": [
+    "friction",
+    "surfaces",
+    "reduced friction"
+  ],
+  "options": null,
+  "correct_answer": "Ice skates have smooth blades that create less friction with the ice compared to the rough surface of running shoes, so there is less resistance to motion.",
+  "explanation": "The smooth, thin blade of an ice skate reduces the contact and roughness between the skate and ice, creating much less friction. Running shoes have a rough, textured sole that creates more friction and grips the ice, slowing you down.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "40bc7613-2076-4130-ad45-0f5a8437f8c5",
+  "topic": "forces.friction",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:43.950526",
+  "classified_at": "2026-04-05T02:17:43.950527",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/easy",
+  "raw_html": null
+}

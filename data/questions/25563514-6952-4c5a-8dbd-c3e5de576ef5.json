@@ -1,0 +1,24 @@
+{
+  "question_text": "Calculate the pressure produced when a force of 500 N is applied over an area of 2 m\u00b2.",
+  "question_type": "calculation",
+  "tags": [
+    "pressure",
+    "calculation",
+    "F/A formula"
+  ],
+  "options": null,
+  "correct_answer": "250 Pa (or 250 N/m\u00b2)",
+  "explanation": "Using the formula P = F/A, we divide 500 N by 2 m\u00b2 to get 250 Pa. Always remember to include the correct units in your answer.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "25563514-6952-4c5a-8dbd-c3e5de576ef5",
+  "topic": "forces.pressure",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:18:22.622163",
+  "classified_at": "2026-04-05T02:18:22.622165",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/easy",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "Name the fixed point around which an object rotates when a moment is applied.",
+  "question_type": "short_answer",
+  "tags": [
+    "moment",
+    "pivot",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Pivot (or fulcrum)",
+  "explanation": "The pivot is the fixed point or axis around which something rotates when a moment is applied. A seesaw's pivot is at its centre, for example.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7a302b66-5829-4d03-9131-d3d6bf67aa86",
+  "topic": "forces.moments",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:52.144127",
+  "classified_at": "2026-04-05T02:17:52.144128",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/easy",
+  "raw_html": null
+}

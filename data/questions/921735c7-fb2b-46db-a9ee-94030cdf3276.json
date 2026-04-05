@@ -1,0 +1,45 @@
+{
+  "question_text": "Which process describes the spreading out of particles from an area of high concentration to an area of low concentration?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "diffusion",
+    "particle movement",
+    "concentration"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Evaporation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Diffusion",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Condensation",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Sublimation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Diffusion is when particles move from where there are lots of them to where there are fewer of them. This happens naturally because particles are always moving around randomly, and this spreading out is diffusion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "921735c7-fb2b-46db-a9ee-94030cdf3276",
+  "topic": "matter.particles",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:35.527422",
+  "classified_at": "2026-04-05T02:17:35.527424",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/easy",
+  "raw_html": null
+}

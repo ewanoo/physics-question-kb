@@ -1,0 +1,24 @@
+{
+  "question_text": "Neptune is much further from the Sun than Earth. What does this tell us about Neptune's orbital period compared to Earth's orbital period?",
+  "question_type": "short_answer",
+  "tags": [
+    "orbital_period",
+    "distance_relationship",
+    "concept_application"
+  ],
+  "options": null,
+  "correct_answer": "Neptune's orbital period is much longer than Earth's. Neptune takes about 165 Earth years to orbit the Sun, while Earth takes only 1 year. The further a planet is from the Sun, the longer its orbital period.",
+  "explanation": "This applies the key concept that orbital period increases with distance from the Sun. Students should recognize that greater distance means longer path and slower orbital speed, resulting in much longer orbital periods.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b3d23b01-ecae-4b2c-9b68-77144b932458",
+  "topic": "space.solar_system",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:01.111265",
+  "classified_at": "2026-04-05T02:16:01.111266",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/medium",
+  "raw_html": null
+}

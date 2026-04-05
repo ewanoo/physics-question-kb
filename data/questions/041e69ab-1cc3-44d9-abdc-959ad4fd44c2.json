@@ -1,0 +1,24 @@
+{
+  "question_text": "In a gas, how are the particles arranged and how do they move?",
+  "question_type": "short_answer",
+  "tags": [
+    "particle arrangement",
+    "gases",
+    "particle movement"
+  ],
+  "options": null,
+  "correct_answer": "Particles in a gas are far apart with large spaces between them, and they move randomly and quickly in all directions.",
+  "explanation": "Gas particles are spread out with lots of empty space between them, which is why gases can be compressed. They move very fast and randomly, constantly colliding with each other and container walls, which creates pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "041e69ab-1cc3-44d9-abdc-959ad4fd44c2",
+  "topic": "matter.particles",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:35.527348",
+  "classified_at": "2026-04-05T02:17:35.527349",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/easy",
+  "raw_html": null
+}

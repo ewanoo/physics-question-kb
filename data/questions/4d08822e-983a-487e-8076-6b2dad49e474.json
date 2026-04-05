@@ -1,0 +1,24 @@
+{
+  "question_text": "What are the SI units for moment?",
+  "question_type": "short_answer",
+  "tags": [
+    "moment",
+    "units",
+    "SI"
+  ],
+  "options": null,
+  "correct_answer": "Newton-metres (Nm) or N m",
+  "explanation": "Since moment is calculated by multiplying force (measured in Newtons) by distance (measured in metres), the units are Newton-metres.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4d08822e-983a-487e-8076-6b2dad49e474",
+  "topic": "forces.moments",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:52.143899",
+  "classified_at": "2026-04-05T02:17:52.143902",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/easy",
+  "raw_html": null
+}

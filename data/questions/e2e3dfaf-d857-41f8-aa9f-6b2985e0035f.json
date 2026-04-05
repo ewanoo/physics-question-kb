@@ -1,0 +1,46 @@
+{
+  "question_text": "What is the name of the process where a liquid turns into a gas?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "evaporation",
+    "boiling",
+    "state changes",
+    "particle behaviour"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Melting",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Evaporation",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Freezing",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Condensing",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Evaporation is when particles gain enough energy to escape from a liquid and become a gas. The other options are different state changes: melting (solid to liquid), freezing (liquid to solid), and condensing (gas to liquid).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e2e3dfaf-d857-41f8-aa9f-6b2985e0035f",
+  "topic": "matter.changes",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:17.490962",
+  "classified_at": "2026-04-05T02:17:17.490974",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/easy",
+  "raw_html": null
+}

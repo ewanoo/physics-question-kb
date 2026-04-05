@@ -1,0 +1,25 @@
+{
+  "question_text": "A wave has a frequency of 10 Hz and a wavelength of 2 metres. Calculate the wave speed using the equation: wave speed (v) = frequency (f) \u00d7 wavelength (\u03bb).",
+  "question_type": "calculation",
+  "tags": [
+    "wave speed",
+    "frequency",
+    "wavelength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "20 m/s (or 20 metres per second)",
+  "explanation": "Using v = f \u00d7 \u03bb: v = 10 Hz \u00d7 2 m = 20 m/s. Multiply the frequency by the wavelength to get the speed of the wave.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a0ad6d19-9a33-4d08-9a12-8a2ff73838f3",
+  "topic": "waves.properties",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:53.584149",
+  "classified_at": "2026-04-05T02:16:53.584155",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/easy",
+  "raw_html": null
+}

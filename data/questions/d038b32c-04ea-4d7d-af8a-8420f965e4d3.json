@@ -1,0 +1,24 @@
+{
+  "question_text": "A light ray hits a plane mirror at an angle of incidence of 0\u00b0. At what angle will it be reflected?",
+  "question_type": "calculation",
+  "tags": [
+    "reflection",
+    "law of reflection",
+    "normal"
+  ],
+  "options": null,
+  "correct_answer": "0\u00b0",
+  "explanation": "When the angle of incidence is 0\u00b0, the light ray is hitting the mirror perpendicular to the surface (along the normal line). It will reflect straight back along the same path at 0\u00b0 to the normal.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d038b32c-04ea-4d7d-af8a-8420f965e4d3",
+  "topic": "waves.light",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:44.932052",
+  "classified_at": "2026-04-05T02:16:44.932058",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.light/easy",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is the correct order of electromagnetic waves from longest wavelength to shortest wavelength?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "EM spectrum",
+    "order",
+    "wavelength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gamma, X-ray, ultraviolet, visible, infrared, microwave, radio",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Visible, infrared, radio, microwave, ultraviolet, X-ray, gamma",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Microwave, radio, visible, infrared, gamma, X-ray, ultraviolet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The electromagnetic spectrum is ordered by wavelength and frequency. Radio waves have the longest wavelengths and lowest frequencies, while gamma rays have the shortest wavelengths and highest frequencies. Remember: Radio, Microwave, Infrared, Visible, Ultraviolet, X-ray, Gamma.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fb0cd217-201d-48d6-9f25-6edac50ea7d5",
+  "topic": "waves.em_spectrum",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:10.164277",
+  "classified_at": "2026-04-05T02:16:10.164288",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "raw_html": null
+}

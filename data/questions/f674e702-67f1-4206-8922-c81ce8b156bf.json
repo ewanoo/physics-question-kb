@@ -1,0 +1,24 @@
+{
+  "question_text": "How does the tilt of Earth's axis affect the length of day in the UK throughout the year?",
+  "question_type": "short_answer",
+  "tags": [
+    "Earth's tilt",
+    "day length",
+    "seasons"
+  ],
+  "options": null,
+  "correct_answer": "As Earth orbits the Sun, the tilt of its axis changes the angle at which the UK faces the Sun. When tilted towards the Sun (summer), the UK experiences longer days because it spends more time in the sunlight during each rotation. When tilted away (winter), days are shorter.",
+  "explanation": "Imagine Earth spinning like a top that's leaning. On one side of the orbit, the tilt means your location (the UK) spends more time facing the Sun during each spin\u2014giving longer days. On the opposite side, you spend more time facing away\u2014giving shorter days. This tilt is the key reason day length changes throughout the year.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f674e702-67f1-4206-8922-c81ce8b156bf",
+  "topic": "space.seasons",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:15:29.515240",
+  "classified_at": "2026-04-05T02:15:29.515241",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/medium",
+  "raw_html": null
+}

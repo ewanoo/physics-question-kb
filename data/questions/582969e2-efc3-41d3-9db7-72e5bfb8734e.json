@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement about Jupiter and Mars is correct?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "planet_comparison",
+    "orbital_characteristics",
+    "solar_system"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Jupiter is closer to the Sun than Mars, so Jupiter has a shorter orbital period",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mars is closer to the Sun than Jupiter, so Mars has a shorter orbital period",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both planets have the same orbital period because they orbit the same Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Jupiter has a shorter orbital period because it is larger than Mars",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Mars is closer to the Sun than Jupiter, so Mars orbits faster and has a shorter orbital period (about 2 years) compared to Jupiter (about 12 years). Planet size doesn't affect orbital period\u2014distance from the Sun does.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "582969e2-efc3-41d3-9db7-72e5bfb8734e",
+  "topic": "space.solar_system",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:01.111371",
+  "classified_at": "2026-04-05T02:16:01.111372",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/medium",
+  "raw_html": null
+}

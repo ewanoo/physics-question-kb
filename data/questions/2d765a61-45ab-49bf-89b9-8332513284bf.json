@@ -1,0 +1,24 @@
+{
+  "question_text": "What is the relationship between the wavelength and frequency of an electromagnetic wave?",
+  "question_type": "short_answer",
+  "tags": [
+    "frequency",
+    "wavelength",
+    "relationship"
+  ],
+  "options": null,
+  "correct_answer": "They are inversely proportional (or: as wavelength increases, frequency decreases, and vice versa)",
+  "explanation": "Electromagnetic waves with longer wavelengths have lower frequencies, and electromagnetic waves with shorter wavelengths have higher frequencies. This is an inverse relationship \u2013 when one goes up, the other goes down.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2d765a61-45ab-49bf-89b9-8332513284bf",
+  "topic": "waves.em_spectrum",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:10.164610",
+  "classified_at": "2026-04-05T02:16:10.164613",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "raw_html": null
+}

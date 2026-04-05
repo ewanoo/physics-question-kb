@@ -1,0 +1,45 @@
+{
+  "question_text": "Which direction would a moment be if it causes an object to spin like the hands of a clock?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "moment",
+    "clockwise",
+    "direction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Anticlockwise",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Clockwise",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Sideways",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Downwards",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Moments can be described as clockwise or anticlockwise based on the direction of rotation they cause. Clockwise means spinning in the same direction as clock hands move.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a0c92ccd-56e4-433c-8bf7-2da2f7650810",
+  "topic": "forces.moments",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:52.144055",
+  "classified_at": "2026-04-05T02:17:52.144056",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/easy",
+  "raw_html": null
+}

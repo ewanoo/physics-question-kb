@@ -1,0 +1,24 @@
+{
+  "question_text": "Explain what happens to light when it passes from air into water.",
+  "question_type": "short_answer",
+  "tags": [
+    "refraction",
+    "boundaries",
+    "light slows down"
+  ],
+  "options": null,
+  "correct_answer": "Light slows down and bends (or changes direction) as it enters the water. This is called refraction.",
+  "explanation": "When light travels from one material to another (like from air to water), it changes speed, which causes it to bend or change direction. This bending of light is called refraction. This is why objects underwater appear to be in a different position than they actually are.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4cf296b1-b4d5-4335-a1fd-fc3a62d500fe",
+  "topic": "waves.light",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:44.931608",
+  "classified_at": "2026-04-05T02:16:44.931610",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.light/easy",
+  "raw_html": null
+}

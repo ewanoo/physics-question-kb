@@ -1,0 +1,24 @@
+{
+  "question_text": "Two planets, X and Y, both orbit the Sun. Planet X is twice as far from the Sun as Planet Y. According to Kepler's Third Law, if Planet Y takes 100 Earth days to orbit the Sun, approximately how many Earth days will Planet X take to complete one orbit?",
+  "question_type": "calculation",
+  "tags": [
+    "kepler_third_law",
+    "orbital_period",
+    "orbital_distance"
+  ],
+  "options": null,
+  "correct_answer": "Using Kepler's Third Law: (T\u2081/T\u2082)\u00b2 = (d\u2081/d\u2082)\u00b3. If X is twice as far: (T_X/100)\u00b2 = (2)\u00b3 = 8. Therefore T_X\u00b2 = 800, so T_X \u2248 283 Earth days (or approximately 280 days).",
+  "explanation": "Kepler's Third Law tells us that orbital period increases with distance, but not in a simple way. When distance doubles, the time increases by the cube root of 8 (which is 2), then squared, giving us about 2.83 times longer. So 100 \u00d7 2.83 \u2248 283 days.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "6ae4f56a-9168-434b-bf74-f84e7a5b4881",
+  "topic": "space.solar_system",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:51.240161",
+  "classified_at": "2026-04-05T02:15:51.240162",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/hard",
+  "raw_html": null
+}

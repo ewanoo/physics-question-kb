@@ -1,0 +1,24 @@
+{
+  "question_text": "Sound travels at 340 m/s in air but at 1480 m/s in water. Explain why sound travels faster in water than in air, considering what longitudinal compression waves require to propagate.",
+  "question_type": "short_answer",
+  "tags": [
+    "speed of sound",
+    "media comparison",
+    "longitudinal waves"
+  ],
+  "options": null,
+  "correct_answer": "Water molecules are closer together and more densely packed than air molecules. This allows the compressions and rarefactions of the longitudinal wave to transfer between particles more efficiently and quickly.",
+  "explanation": "Longitudinal waves need particles close together to transfer the vibrations efficiently. Water is denser (more tightly packed molecules) than air, so compressions pass through faster. It's like passing a message through a crowded room versus a sparse one\u2014denser crowds transfer messages quicker!",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "28f2186b-3fd1-4d6e-a8cb-2fb5d9e558b3",
+  "topic": "waves.sound",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:17:06.583911",
+  "classified_at": "2026-04-05T02:17:06.583915",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/hard",
+  "raw_html": null
+}

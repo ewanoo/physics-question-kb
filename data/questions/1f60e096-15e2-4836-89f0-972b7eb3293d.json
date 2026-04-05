@@ -1,0 +1,46 @@
+{
+  "question_text": "Which statement correctly describes freezing?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "freezing",
+    "liquid to solid",
+    "exothermic",
+    "energy release"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Freezing is an endothermic process where a liquid becomes a solid and absorbs heat",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Freezing is an exothermic process where a liquid becomes a solid and releases heat",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Freezing is when a solid becomes a liquid at high temperature",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Freezing is an endothermic process where particles move faster",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Freezing is exothermic because particles lose kinetic energy and heat is released to the surroundings as the liquid forms a solid structure. Option A is wrong because it says endothermic; Option C is wrong because it describes melting, not freezing; Option D is wrong because particles move slower and it's not endothermic.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1f60e096-15e2-4836-89f0-972b7eb3293d",
+  "topic": "matter.changes",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:17.491670",
+  "classified_at": "2026-04-05T02:17:17.491673",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/easy",
+  "raw_html": null
+}

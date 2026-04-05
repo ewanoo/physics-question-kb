@@ -1,0 +1,45 @@
+{
+  "question_text": "What is the amplitude of a wave?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "amplitude",
+    "definition",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The maximum distance a particle moves from its rest position",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The distance between two consecutive peaks",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The number of waves passing a point per second",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which a wave travels",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Amplitude is how far a particle moves up or down from its starting position when a wave passes through it. It measures the 'height' of the wave.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bffc01f4-d489-4054-8e88-c4719a5e4dce",
+  "topic": "waves.properties",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:53.582990",
+  "classified_at": "2026-04-05T02:16:53.583005",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/easy",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "State which electromagnetic wave has the lowest energy.",
+  "question_type": "short_answer",
+  "tags": [
+    "energy",
+    "radio waves",
+    "lowest energy"
+  ],
+  "options": null,
+  "correct_answer": "Radio waves",
+  "explanation": "Radio waves have the longest wavelength and the lowest frequency in the electromagnetic spectrum. Since lower frequency means lower energy, radio waves carry the least energy of all electromagnetic waves.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a13c6784-5b45-485a-a839-e2c5e7c5dc89",
+  "topic": "waves.em_spectrum",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:10.164928",
+  "classified_at": "2026-04-05T02:16:10.164930",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/easy",
+  "raw_html": null
+}

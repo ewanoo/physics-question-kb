@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following is a transverse wave?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "transverse",
+    "wave types",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A sound wave in air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A light wave",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A seismic P-wave",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A compression wave along a spring",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Transverse waves have vibrations perpendicular to the direction of wave travel. Light waves vibrate up and down while moving forward, making them transverse.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2b7f635d-bf6c-4001-a2a8-0485df6a317d",
+  "topic": "waves.properties",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:53.583579",
+  "classified_at": "2026-04-05T02:16:53.583583",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/easy",
+  "raw_html": null
+}

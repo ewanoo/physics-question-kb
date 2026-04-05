@@ -1,0 +1,24 @@
+{
+  "question_text": "Calculate the pressure when a force of 1200 N is applied to an area of 4 m\u00b2.",
+  "question_type": "calculation",
+  "tags": [
+    "pressure",
+    "calculation",
+    "N/m\u00b2 units"
+  ],
+  "options": null,
+  "correct_answer": "300 Pa (or 300 N/m\u00b2)",
+  "explanation": "Use the pressure formula P = F/A. Divide the force (1200 N) by the area (4 m\u00b2) to get 300 Pa. This is a straightforward application of the formula with clear numbers.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "aea9e30f-db57-4392-8762-7bd9607868b2",
+  "topic": "forces.pressure",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:18:22.622283",
+  "classified_at": "2026-04-05T02:18:22.622284",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/easy",
+  "raw_html": null
+}

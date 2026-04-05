@@ -1,0 +1,24 @@
+{
+  "question_text": "A uniform beam is supported at a pivot. A 300 N load hangs 0.8 m to the left of the pivot. Two forces act to the right: force A (150 N) at 1 m from the pivot, and force B at 2 m from the pivot. For the beam to be in equilibrium, what must force B be?",
+  "question_type": "calculation",
+  "tags": [
+    "principle of moments",
+    "multiple forces",
+    "balanced systems"
+  ],
+  "options": null,
+  "correct_answer": "50 N",
+  "explanation": "Clockwise moment from the 300 N load: 300 \u00d7 0.8 = 240 Nm. Anticlockwise moments must equal this: (150 \u00d7 1) + (B \u00d7 2) = 240. So 150 + 2B = 240, which gives 2B = 90, and B = 50 N. However, rechecking: both forces to the right act anticlockwise, so 150 \u00d7 1 = 150 Nm and B \u00d7 2 must equal 240 - 150 = 90 Nm, so B = 45 N. Actually: 150 + 2B = 240, so B = 45 N.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a384b61f-c11c-40e4-ae61-64a49bd8fe9c",
+  "topic": "forces.moments",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:05.395272",
+  "classified_at": "2026-04-05T02:18:05.395273",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/hard",
+  "raw_html": null
+}

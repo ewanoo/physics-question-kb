@@ -1,0 +1,24 @@
+{
+  "question_text": "Calculate the weight of a 5 kg object on Earth. (Use g = 10 N/kg)",
+  "question_type": "calculation",
+  "tags": [
+    "weight",
+    "calculation",
+    "force"
+  ],
+  "options": null,
+  "correct_answer": "50 N",
+  "explanation": "Weight is calculated using the formula: Weight = mass \u00d7 gravitational field strength. So 5 kg \u00d7 10 N/kg = 50 newtons. Weight is measured in newtons because it is a force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c1941c71-16d8-4ee6-9277-8fe49c15af22",
+  "topic": "space.gravity",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:15:03.961258",
+  "classified_at": "2026-04-05T02:15:03.961259",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/easy",
+  "raw_html": null
+}

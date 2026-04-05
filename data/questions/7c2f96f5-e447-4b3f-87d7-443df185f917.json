@@ -1,0 +1,24 @@
+{
+  "question_text": "A satellite orbits Earth at a height where gravitational field strength is 5 N/kg. If the satellite has a mass of 2000 kg, what is the gravitational force acting on it?",
+  "question_type": "calculation",
+  "tags": [
+    "weight",
+    "gravitational field",
+    "orbital mechanics"
+  ],
+  "options": null,
+  "correct_answer": "10,000 N",
+  "explanation": "Use the formula F = mg, where m is the satellite's mass and g is the gravitational field strength at that location. F = 2000 \u00d7 5 = 10,000 N. This force keeps the satellite in orbit around Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7c2f96f5-e447-4b3f-87d7-443df185f917",
+  "topic": "space.gravity",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:17.233165",
+  "classified_at": "2026-04-05T02:15:17.233166",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.gravity/hard",
+  "raw_html": null
+}

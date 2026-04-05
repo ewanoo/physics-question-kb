@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement best explains why we only ever see one side of the Moon from Earth?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "moon_rotation",
+    "tidal_locking",
+    "orbital_mechanics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate, so the same side always faces Earth.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon rotates at the same rate it orbits Earth, so its rotation period equals its orbital period.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Moon is too small to rotate, unlike larger planets.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Earth's gravity prevents the Moon from rotating on its axis.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon does rotate, but it spins at exactly the same speed it orbits Earth (both take about 27.3 days). This synchronization, called tidal locking, means the same hemisphere always faces us. It's like a dance partner spinning at just the right speed so you always see their face.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b9820e05-cf5b-4616-b4ce-2a1973402f21",
+  "topic": "space.solar_system",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:51.239982",
+  "classified_at": "2026-04-05T02:15:51.239983",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/hard",
+  "raw_html": null
+}

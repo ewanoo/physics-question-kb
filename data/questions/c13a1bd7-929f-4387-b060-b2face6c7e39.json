@@ -1,0 +1,24 @@
+{
+  "question_text": "A spring has a spring constant of 50 N/m. What force is needed to extend it by 0.2 m?",
+  "question_type": "calculation",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "force calculation"
+  ],
+  "options": null,
+  "correct_answer": "10 N",
+  "explanation": "Using Hooke's law (F = kx), we multiply the spring constant (50 N/m) by the extension (0.2 m) to get 10 N. This is the force needed to stretch the spring by that amount.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c13a1bd7-929f-4387-b060-b2face6c7e39",
+  "topic": "forces.springs",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:51.495294",
+  "classified_at": "2026-04-05T02:18:51.495308",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/medium",
+  "raw_html": null
+}

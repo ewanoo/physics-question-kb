@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement correctly explains why there are seasons on Earth?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "Earth's tilt",
+    "seasons",
+    "orbit"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Earth orbits closer to the Sun in summer and farther away in winter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Earth's tilted axis means different parts receive more direct sunlight at different times of the year",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Moon blocks some sunlight in winter, causing it to be colder",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Earth's distance from the Sun changes slightly each week",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Seasons are caused by Earth's tilted axis, not by changes in distance from the Sun. The tilt means that in summer, the Northern Hemisphere leans towards the Sun and receives more direct rays and longer days. In winter, it leans away, receiving less direct rays and shorter days.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c156bcb3-319a-48c7-b6dc-06f356c27364",
+  "topic": "space.seasons",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:15:29.515022",
+  "classified_at": "2026-04-05T02:15:29.515024",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.seasons/medium",
+  "raw_html": null
+}

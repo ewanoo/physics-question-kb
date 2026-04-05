@@ -1,0 +1,45 @@
+{
+  "question_text": "Light travels in a straight line through air. What do we call the path that light takes?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "light travels in straight lines",
+    "definition",
+    "ray"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A light ray",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A light wave",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A light beam",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A light path",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A light ray is the straight line path that light travels along. We show light rays as straight lines with arrows in diagrams to show the direction light is moving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "67ba1a0d-5e70-4527-8e77-5e0043c57b2c",
+  "topic": "waves.light",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:44.930736",
+  "classified_at": "2026-04-05T02:16:44.930739",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.light/easy",
+  "raw_html": null
+}

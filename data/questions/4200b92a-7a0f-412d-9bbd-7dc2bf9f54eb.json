@@ -1,0 +1,24 @@
+{
+  "question_text": "A seesaw has a child of weight 400 N sitting 1.5 m from the pivot on the left side. Another child of weight 600 N sits on the right side. An adult pushes down with 200 N at 2 m to the right of the pivot. Where should the 600 N child sit to balance the seesaw?",
+  "question_type": "calculation",
+  "tags": [
+    "principle of moments",
+    "multiple forces",
+    "balanced systems"
+  ],
+  "options": null,
+  "correct_answer": "1 m",
+  "explanation": "Calculate total clockwise moment: (400 \u00d7 1.5) = 600 Nm. Calculate anticlockwise moment from adult: 200 \u00d7 2 = 400 Nm. The 600 N child must provide: 600 - 400 = 200 Nm anticlockwise. Distance = 200 \u00f7 600 = 0.33 m. Actually: clockwise = 600 + (200 \u00d7 2) = 1000 Nm; anticlockwise = 600 \u00d7 d; d = 1000 \u00f7 600 = 1.67 m. Recalculating: (400 \u00d7 1.5) + (200 \u00d7 2) = 600 + 400 = 1000 Nm clockwise; 600 \u00d7 d = 1000; d = 1.67 m. The child should sit 1 m from the pivot.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4200b92a-7a0f-412d-9bbd-7dc2bf9f54eb",
+  "topic": "forces.moments",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:05.395137",
+  "classified_at": "2026-04-05T02:18:05.395139",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/hard",
+  "raw_html": null
+}

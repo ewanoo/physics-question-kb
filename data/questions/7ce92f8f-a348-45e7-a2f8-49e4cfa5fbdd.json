@@ -1,0 +1,46 @@
+{
+  "question_text": "On a wave diagram, what is the name of the highest point and the lowest point on a transverse wave?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "peak",
+    "trough",
+    "transverse",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Highest point = crest, lowest point = trough",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Highest point = amplitude, lowest point = wavelength",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Highest point = frequency, lowest point = compression",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Highest point = peak, lowest point = amplitude",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The highest point of a transverse wave is called a crest (or peak), and the lowest point is called a trough. The distance between them is twice the amplitude.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7ce92f8f-a348-45e7-a2f8-49e4cfa5fbdd",
+  "topic": "waves.properties",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:16:53.584392",
+  "classified_at": "2026-04-05T02:16:53.584394",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.properties/easy",
+  "raw_html": null
+}

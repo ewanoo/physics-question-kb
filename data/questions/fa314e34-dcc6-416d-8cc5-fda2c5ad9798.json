@@ -1,0 +1,25 @@
+{
+  "question_text": "What is sublimation and give one example of a substance that sublimes.",
+  "question_type": "short_answer",
+  "tags": [
+    "sublimation",
+    "solid to gas",
+    "state changes",
+    "particle behaviour"
+  ],
+  "options": null,
+  "correct_answer": "Sublimation is when a solid changes directly into a gas without passing through the liquid state. An example is dry ice (solid carbon dioxide) or naphthalene (mothballs).",
+  "explanation": "Sublimation is unusual because it skips the liquid phase entirely. The solid particles gain enough energy to escape directly into the gaseous state. Dry ice is a common example that sublimates at room temperature.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fa314e34-dcc6-416d-8cc5-fda2c5ad9798",
+  "topic": "matter.changes",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:17.491505",
+  "classified_at": "2026-04-05T02:17:17.491506",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.changes/easy",
+  "raw_html": null
+}

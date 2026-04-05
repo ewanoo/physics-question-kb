@@ -1,0 +1,45 @@
+{
+  "question_text": "What is the definition of a moment?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "moment",
+    "definition",
+    "turning effect"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The turning effect of a force around a pivot",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The speed at which an object moves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The amount of force applied to an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The distance between two objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A moment is specifically the turning or rotational effect that a force has around a fixed point called a pivot. It's what makes objects spin or rotate.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b18980a4-e155-436e-aa3c-b58070110b29",
+  "topic": "forces.moments",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:52.143526",
+  "classified_at": "2026-04-05T02:17:52.143538",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/easy",
+  "raw_html": null
+}

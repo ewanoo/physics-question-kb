@@ -1,0 +1,24 @@
+{
+  "question_text": "A spring is stretched beyond its elastic limit. Describe what happens to the spring and explain why it cannot be described by Hooke's law anymore.",
+  "question_type": "short_answer",
+  "tags": [
+    "elastic limit",
+    "permanent deformation",
+    "Hooke's law limits"
+  ],
+  "options": null,
+  "correct_answer": "Once stretched beyond the elastic limit, the spring will not return to its original shape and becomes permanently deformed. Hooke's law no longer applies because the extension is no longer proportional to the force, and the relationship between force and extension breaks down.",
+  "explanation": "The elastic limit is the point where a material stops behaving elastically. Beyond this point, the material has been damaged and can no longer spring back. The simple relationship F = kx only works while the spring is elastic, not when it's been permanently stretched.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5d6c4933-1269-4d8a-a652-dfa8618b9aac",
+  "topic": "forces.springs",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:51.496298",
+  "classified_at": "2026-04-05T02:18:51.496299",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/medium",
+  "raw_html": null
+}

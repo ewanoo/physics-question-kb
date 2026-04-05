@@ -1,0 +1,24 @@
+{
+  "question_text": "A hydraulic lift uses a small piston (area 0.2 m\u00b2) to lift a large platform (area 8 m\u00b2) with a car on it. The total weight to be lifted is 16,000 N. What minimum force must be applied to the small piston to lift the car?",
+  "question_type": "calculation",
+  "tags": [
+    "hydraulic systems",
+    "force multiplication",
+    "pressure"
+  ],
+  "options": null,
+  "correct_answer": "400 N",
+  "explanation": "Using the hydraulic principle that pressure is equal throughout the system: F\u2081/A\u2081 = F\u2082/A\u2082. Rearranging: F\u2081 = F\u2082 \u00d7 (A\u2081/A\u2082) = 16,000 \u00d7 (0.2/8) = 400 N. This demonstrates how hydraulic systems allow a small force to lift a much larger load by using different piston areas.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c4db2a65-4478-40c6-9e68-d364e98e292a",
+  "topic": "forces.pressure",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:32.935687",
+  "classified_at": "2026-04-05T02:18:32.935688",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/hard",
+  "raw_html": null
+}

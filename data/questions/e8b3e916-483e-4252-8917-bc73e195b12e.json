@@ -1,0 +1,45 @@
+{
+  "question_text": "A wooden block slides across a wooden table. Which direction does the friction force act?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "friction",
+    "direction of friction",
+    "motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "In the same direction as the block is moving",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Opposite to the direction of the block's motion",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Upwards, perpendicular to the table",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Downwards, into the table",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction always opposes motion, so if the block is sliding to the right, friction acts to the left. This is why friction slows things down\u2014it acts against the direction they are moving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e8b3e916-483e-4252-8917-bc73e195b12e",
+  "topic": "forces.friction",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:43.950438",
+  "classified_at": "2026-04-05T02:17:43.950439",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/easy",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A spring extends by 5 cm when a 20 N force is applied. Calculate the spring constant of this spring.",
+  "question_type": "calculation",
+  "tags": [
+    "Hooke's law",
+    "spring constant",
+    "rearranging equations"
+  ],
+  "options": null,
+  "correct_answer": "400 N/m",
+  "explanation": "Rearrange Hooke's law to find k: k = F/x. Convert 5 cm to 0.05 m, then divide 20 N by 0.05 m to get 400 N/m. This tells us how stiff the spring is.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1bf328be-63de-44d1-b1fe-99d413cdf0d7",
+  "topic": "forces.springs",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:51.495646",
+  "classified_at": "2026-04-05T02:18:51.495678",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.springs/medium",
+  "raw_html": null
+}

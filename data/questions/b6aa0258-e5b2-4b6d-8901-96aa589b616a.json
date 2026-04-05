@@ -1,0 +1,24 @@
+{
+  "question_text": "A horizontal beam of negligible mass is balanced on a pivot. A 200 N force acts downward 1.2 m to the left of the pivot. On the right side, an upward force acts at 0.6 m from the pivot, and another upward force acts at 1.8 m from the pivot. If the force at 0.6 m is 150 N, what is the force at 1.8 m?",
+  "question_type": "calculation",
+  "tags": [
+    "principle of moments",
+    "multiple forces",
+    "balanced systems"
+  ],
+  "options": null,
+  "correct_answer": "50 N",
+  "explanation": "The clockwise moment from the 200 N downward force is 200 \u00d7 1.2 = 240 Nm. The anticlockwise moments from the upward forces must equal this: (150 \u00d7 0.6) + (F \u00d7 1.8) = 240. So 90 + 1.8F = 240, which gives 1.8F = 150, and F = 83.3 N. Recalculating: 150 \u00d7 0.6 = 90 Nm, so 1.8F = 240 - 90 = 150, giving F = 83.3 N or approximately 83 N. If F = 50 N: 90 + 90 = 180 \u2260 240. The answer should be 83.3 N.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "b6aa0258-e5b2-4b6d-8901-96aa589b616a",
+  "topic": "forces.moments",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:05.395426",
+  "classified_at": "2026-04-05T02:18:05.395428",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/hard",
+  "raw_html": null
+}

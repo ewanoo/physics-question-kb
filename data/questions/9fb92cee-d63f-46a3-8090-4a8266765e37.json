@@ -1,0 +1,24 @@
+{
+  "question_text": "A scientist measures sound reflections in three different media. Sound travels at 340 m/s in air, 1480 m/s in water, and 5000 m/s in steel. If each medium is 100 m thick and a sound pulse must travel through all three layers and return, rank them from fastest to slowest echo return time, and calculate the total time.",
+  "question_type": "calculation",
+  "tags": [
+    "speed of sound",
+    "multi-step",
+    "media comparison"
+  ],
+  "options": null,
+  "correct_answer": "Total time = 0.241 seconds. Ranked by speed (fastest return to slowest): Steel (0.04 s), Water (0.135 s), Air (0.588 s). Total = 0.763 seconds.",
+  "explanation": "For each medium: time = 2 \u00d7 distance \u00f7 speed. Steel: 200\u00f75000=0.04s; Water: 200\u00f71480\u22480.135s; Air: 200\u00f7340\u22480.588s. Total = 0.04 + 0.135 + 0.588 = 0.763 seconds. Sound is fastest in densest materials!",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "9fb92cee-d63f-46a3-8090-4a8266765e37",
+  "topic": "waves.sound",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:17:06.584221",
+  "classified_at": "2026-04-05T02:17:06.584222",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/hard",
+  "raw_html": null
+}

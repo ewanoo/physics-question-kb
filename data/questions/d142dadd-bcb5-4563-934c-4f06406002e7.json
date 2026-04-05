@@ -1,0 +1,45 @@
+{
+  "question_text": "Which material is more dense: iron or plastic?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "density",
+    "comparison",
+    "materials"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Iron is more dense",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Plastic is more dense",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "They have the same density",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It is impossible to compare them",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Iron has a density of about 7,874 kg/m\u00b3 while plastic has a density of around 1,050 kg/m\u00b3. Iron is much more dense than plastic.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d142dadd-bcb5-4563-934c-4f06406002e7",
+  "topic": "matter.density",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:24.832851",
+  "classified_at": "2026-04-05T02:17:24.832852",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/easy",
+  "raw_html": null
+}

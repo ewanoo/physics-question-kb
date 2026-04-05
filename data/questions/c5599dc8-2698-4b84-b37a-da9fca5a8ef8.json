@@ -1,0 +1,25 @@
+{
+  "question_text": "Gamma rays are used to sterilise food and medical supplies, but this use is controversial. A student claims: \"Gamma radiation will make the food radioactive and dangerous to eat.\" Evaluate this statement by explaining: (1) whether the claim is scientifically accurate, (2) why gamma rays are effective at killing bacteria, and (3) why understanding frequency and ionisation is essential to evaluating this technology.",
+  "question_type": "short_answer",
+  "tags": [
+    "gamma_rays_sterilisation",
+    "misconceptions",
+    "ionisation_concept",
+    "evaluate_technology"
+  ],
+  "options": null,
+  "correct_answer": "(1) The claim is NOT accurate\u2014the food does not become radioactive because gamma rays ionise bacteria but do not make food nuclei radioactive. (2) Gamma rays have very high frequency and energy, allowing them to ionise and destroy bacterial DNA, killing microorganisms. (3) Understanding that ionising radiation damages specific targets (bacteria) without converting matter into radioactive material is key to evaluating the safety and benefit of this sterilisation method fairly.",
+  "explanation": "This is a common misconception! Gamma rays can damage bacteria by ionising their atoms, but this doesn't make the food radioactive itself. Think of it like using a very powerful chemical that kills germs\u2014the chemical doesn't make your body toxic, it just eliminates the problem. Gamma sterilisation is actually safe and widely used because the rays have enough energy to kill germs without making the food dangerous.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c5599dc8-2698-4b84-b37a-da9fca5a8ef8",
+  "topic": "waves.em_spectrum",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:16:35.529741",
+  "classified_at": "2026-04-05T02:16:35.529744",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/hard",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement best explains why a knife with a sharp blade cuts easier than a blunt knife?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "pressure concept",
+    "area effect",
+    "application of physics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A sharp blade has a smaller area of contact, so the same force produces higher pressure",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A sharp blade applies less force to the object being cut",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A blunt knife has higher pressure because it covers a larger area",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Sharp blades and blunt knives produce the same pressure",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A sharp blade concentrates the force over a much smaller area. Since pressure = force \u00f7 area, a smaller area means higher pressure for the same force, making it easier to cut through materials.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2318d492-35b0-4c83-b153-aaf2f5dd88d6",
+  "topic": "forces.pressure",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:42.826322",
+  "classified_at": "2026-04-05T02:18:42.826324",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/medium",
+  "raw_html": null
+}

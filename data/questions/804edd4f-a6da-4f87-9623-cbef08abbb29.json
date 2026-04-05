@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement best explains why atmospheric pressure exists and why it decreases with altitude?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "atmospheric pressure",
+    "gravity",
+    "explanation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Atmospheric pressure is caused by the weight of air molecules above pressing down due to gravity, and it decreases with altitude because there is less air above you",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Atmospheric pressure is caused by the temperature of the air, and it decreases with altitude because it is colder",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Atmospheric pressure is caused by wind, and it decreases with altitude because wind speed increases",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Atmospheric pressure is caused by the Earth's magnetic field and is constant at all altitudes",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Atmospheric pressure results from the weight of billions of air molecules in the atmosphere pressing down due to gravity. As you go higher in altitude, there are fewer air molecules above you, so less weight pressing down, resulting in lower pressure. This is why mountain climbers struggle to breathe at high altitudes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "804edd4f-a6da-4f87-9623-cbef08abbb29",
+  "topic": "forces.pressure",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:32.935530",
+  "classified_at": "2026-04-05T02:18:32.935531",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/hard",
+  "raw_html": null
+}

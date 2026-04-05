@@ -1,0 +1,24 @@
+{
+  "question_text": "A crowbar is used as a lever to lift a boulder. The pivot is 0.3 m from the load (boulder). If the crowbar is 1.5 m long (effort end to pivot), and the boulder weighs 1200 N, what is the minimum effort force needed to lift it?",
+  "question_type": "calculation",
+  "tags": [
+    "levers",
+    "force multipliers",
+    "principle of moments"
+  ],
+  "options": null,
+  "correct_answer": "240 N",
+  "explanation": "For a lever in balance, effort force \u00d7 effort distance = load force \u00d7 load distance. The effort distance is 1.5 m and the load distance is 0.3 m. So: effort \u00d7 1.5 = 1200 \u00d7 0.3 = 360. Effort = 360 \u00f7 1.5 = 240 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "73a50567-90e6-44bb-8c70-a1e2ad6cc2f1",
+  "topic": "forces.moments",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:05.395215",
+  "classified_at": "2026-04-05T02:18:05.395216",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/hard",
+  "raw_html": null
+}

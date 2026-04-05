@@ -1,0 +1,45 @@
+{
+  "question_text": "When you smell perfume across a room, what process has occurred?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "diffusion",
+    "gases",
+    "particle movement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Condensation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Diffusion",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Melting",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Freezing",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When perfume is sprayed, its particles evaporate into gas and spread throughout the room by diffusion. The gas particles randomly move in all directions, eventually reaching your nose so you can smell it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5b932c69-14f0-4c3b-aa38-48f0489d3292",
+  "topic": "matter.particles",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:35.527559",
+  "classified_at": "2026-04-05T02:17:35.527560",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/easy",
+  "raw_html": null
+}

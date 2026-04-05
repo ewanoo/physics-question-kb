@@ -1,0 +1,24 @@
+{
+  "question_text": "A piece of aluminium has a mass of 27 g and a volume of 10 cm\u00b3. Calculate its density in g/cm\u00b3.",
+  "question_type": "calculation",
+  "tags": [
+    "density",
+    "calculation",
+    "g/cm\u00b3"
+  ],
+  "options": null,
+  "correct_answer": "2.7 g/cm\u00b3",
+  "explanation": "Using the formula density = mass \u00f7 volume, we get 27 g \u00f7 10 cm\u00b3 = 2.7 g/cm\u00b3.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d1412c32-24a8-4cf3-86b6-96d8e7d58afe",
+  "topic": "matter.density",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:24.832761",
+  "classified_at": "2026-04-05T02:17:24.832763",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/easy",
+  "raw_html": null
+}

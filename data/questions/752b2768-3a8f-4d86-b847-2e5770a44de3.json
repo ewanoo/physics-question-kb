@@ -1,0 +1,45 @@
+{
+  "question_text": "Which state of matter has particles that are tightly packed together and cannot move around freely?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "particle arrangement",
+    "states of matter",
+    "solids"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Solid",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Plasma",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In solids, particles are held in fixed positions by strong forces between them, arranged in a regular pattern. The particles can only vibrate in place but cannot move around like in liquids or gases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "752b2768-3a8f-4d86-b847-2e5770a44de3",
+  "topic": "matter.particles",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:35.526827",
+  "classified_at": "2026-04-05T02:17:35.526838",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/easy",
+  "raw_html": null
+}

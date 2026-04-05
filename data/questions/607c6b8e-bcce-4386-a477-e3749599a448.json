@@ -1,0 +1,24 @@
+{
+  "question_text": "Which electromagnetic wave is used to heat food in a kitchen appliance, and why is it suitable for this purpose?",
+  "question_type": "short_answer",
+  "tags": [
+    "microwaves",
+    "uses",
+    "heating"
+  ],
+  "options": null,
+  "correct_answer": "Microwaves are used in microwave ovens because they have the right frequency to make water and fat molecules vibrate, which generates heat. They are also safe because they don't ionise atoms.",
+  "explanation": "Microwaves are particularly good at heating food because their wavelength and frequency match the natural vibration frequency of water and fat molecules in food. When these molecules absorb microwave energy, they vibrate faster, creating heat. Microwaves are safe to use in kitchens because they are non-ionising radiation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "607c6b8e-bcce-4386-a477-e3749599a448",
+  "topic": "waves.em_spectrum",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:16:20.209917",
+  "classified_at": "2026-04-05T02:16:20.209918",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/medium",
+  "raw_html": null
+}

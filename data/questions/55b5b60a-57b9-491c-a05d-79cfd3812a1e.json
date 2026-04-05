@@ -1,0 +1,24 @@
+{
+  "question_text": "A car has a mass of 1000 kg. The friction force acting on it is 5000 N. What is the size of the normal force pressing the car onto the ground?",
+  "question_type": "calculation",
+  "tags": [
+    "friction",
+    "normal force",
+    "weight"
+  ],
+  "options": null,
+  "correct_answer": "10,000 N (or 10 kN)",
+  "explanation": "The normal force is the weight of the car pushing down on the ground. Weight = mass \u00d7 gravity, so 1000 kg \u00d7 10 N/kg = 10,000 N. This is the force pressing the surfaces together, which affects the friction.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "55b5b60a-57b9-491c-a05d-79cfd3812a1e",
+  "topic": "forces.friction",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:43.950576",
+  "classified_at": "2026-04-05T02:17:43.950577",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.friction/easy",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A bat uses echolocation in a cave. It emits a sound at 50 kHz and the echo returns after 0.12 seconds. The speed of sound in air is 340 m/s. Which statement correctly explains why the bat hears an echo, and approximately how far away is the object?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "echoes",
+    "sonar",
+    "speed calculation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The sound reflects off a solid surface and returns; the object is about 20.4 m away",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The sound refracts through multiple air layers and bounces back; the object is about 40.8 m away",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The sound is absorbed by the cave walls and re-radiated; the object is about 10.2 m away",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The sound scatters from dust particles in the air; the object is about 5.1 m away",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Echoes occur when sound reflects (bounces) off solid surfaces. Total distance = 340 \u00d7 0.12 = 40.8 m for the round trip. Distance to object = 40.8 \u00f7 2 = 20.4 m. The frequency (50 kHz) is a distractor\u2014echoes work at any frequency!",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d0ff214a-84eb-4d7f-8bba-b9d4ac7eb1f8",
+  "topic": "waves.sound",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:17:06.583998",
+  "classified_at": "2026-04-05T02:17:06.583999",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/hard",
+  "raw_html": null
+}

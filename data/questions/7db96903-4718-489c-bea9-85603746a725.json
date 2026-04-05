@@ -1,0 +1,24 @@
+{
+  "question_text": "A force of 25 N is applied perpendicular to a spanner at a distance of 0.4 m from the pivot. What is the moment produced?",
+  "question_type": "calculation",
+  "tags": [
+    "moment calculation",
+    "M=Fd",
+    "spanner"
+  ],
+  "options": null,
+  "correct_answer": "10 N m",
+  "explanation": "Using the moment formula M = F \u00d7 d, where F = 25 N and d = 0.4 m. Therefore M = 25 \u00d7 0.4 = 10 N m. This is the turning effect produced by the spanner.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "7db96903-4718-489c-bea9-85603746a725",
+  "topic": "forces.moments",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:14.612747",
+  "classified_at": "2026-04-05T02:18:14.612748",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/medium",
+  "raw_html": null
+}

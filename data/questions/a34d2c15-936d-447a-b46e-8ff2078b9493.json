@@ -1,0 +1,24 @@
+{
+  "question_text": "A student observes that Venus appears brightest in the night sky despite being smaller than Jupiter. Explain why Venus appears brighter than Jupiter, considering both the surface properties of each planet and their distances from Earth.",
+  "question_type": "short_answer",
+  "tags": [
+    "planetary_brightness",
+    "reflectivity",
+    "distance_effect"
+  ],
+  "options": null,
+  "correct_answer": "Venus appears brighter because it has a highly reflective atmosphere of thick clouds that reflect about 70% of sunlight, whereas Jupiter reflects only about 50%. Additionally, Venus comes much closer to Earth at its nearest point (about 42 million km) compared to Jupiter's closest approach (about 550 million km). The combination of higher reflectivity and much smaller distance from Earth makes Venus appear brighter despite being smaller.",
+  "explanation": "Brightness depends on two things: how shiny the object is and how close it is to you. Venus is like a mirror with thick white clouds, and it also gets much closer to Earth. Jupiter is bigger but duller and much farther away, so Venus wins the brightness competition.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a34d2c15-936d-447a-b46e-8ff2078b9493",
+  "topic": "space.solar_system",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:51.240095",
+  "classified_at": "2026-04-05T02:15:51.240096",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/hard",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A sonar system on a submarine sends a sound wave that travels through seawater at 1500 m/s. The sound reflects off a wreck and returns to the submarine after 4 seconds total. How far away is the wreck?",
+  "question_type": "calculation",
+  "tags": [
+    "sonar",
+    "speed of sound",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "3000 m or 3 km",
+  "explanation": "The sound travels to the wreck AND back, so the total distance is 2 \u00d7 distance to wreck. Total distance = speed \u00d7 time = 1500 \u00d7 4 = 6000 m. Distance to wreck = 6000 \u00f7 2 = 3000 m. Remember: the sound makes a round trip!",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9573740c-eafa-4cf2-92e5-290b15dd8154",
+  "topic": "waves.sound",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:17:06.583554",
+  "classified_at": "2026-04-05T02:17:06.583566",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.sound/hard",
+  "raw_html": null
+}

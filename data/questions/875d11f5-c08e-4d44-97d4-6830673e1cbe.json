@@ -1,0 +1,24 @@
+{
+  "question_text": "A total solar eclipse occurs when the Moon passes directly between the Earth and the Sun, blocking all sunlight. A total lunar eclipse occurs when the Earth passes between the Sun and the Moon, causing the Moon to enter Earth's shadow. Why can't a lunar eclipse occur during a waxing gibbous moon phase?",
+  "question_type": "short_answer",
+  "tags": [
+    "eclipse",
+    "moon_phases",
+    "spatial_reasoning"
+  ],
+  "options": null,
+  "correct_answer": "A lunar eclipse requires the Moon to be on the opposite side of Earth from the Sun, which is the full moon phase. During a waxing gibbous moon, the Moon is not yet directly opposite the Sun, so Earth's shadow cannot fall on it. The Moon's position during waxing gibbous means it is only partially lit and not aligned for an eclipse.",
+  "explanation": "Lunar eclipses only happen at full moon because that's when the Moon is directly across from the Sun with Earth in between. A waxing gibbous moon is getting fuller but not quite there yet, so it's in the wrong position for an eclipse.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "875d11f5-c08e-4d44-97d4-6830673e1cbe",
+  "topic": "space.solar_system",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:15:51.239867",
+  "classified_at": "2026-04-05T02:15:51.239870",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://space.solar_system/hard",
+  "raw_html": null
+}

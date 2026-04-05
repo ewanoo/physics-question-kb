@@ -1,0 +1,45 @@
+{
+  "question_text": "What is the formula for calculating pressure?",
+  "question_type": "multiple_choice",
+  "tags": [
+    "pressure",
+    "formula",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure = Force \u00d7 Area",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure = Force \u00f7 Area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure = Area \u00f7 Force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pressure = Force + Area",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Pressure is calculated by dividing the force applied by the area it acts on. This is written as P = F/A. The larger the area, the smaller the pressure for the same force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fb6ed4ae-2edb-4fac-8bbe-11264b49c254",
+  "topic": "forces.pressure",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:18:22.621635",
+  "classified_at": "2026-04-05T02:18:22.621669",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.pressure/easy",
+  "raw_html": null
+}

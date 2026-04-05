@@ -1,0 +1,24 @@
+{
+  "question_text": "A seesaw is balanced with a 300 N weight at 2 m from the pivot on the left side. A 200 N weight is placed on the right side. At what distance from the pivot should the 200 N weight be placed to balance the seesaw?",
+  "question_type": "calculation",
+  "tags": [
+    "principle of moments",
+    "seesaw",
+    "balanced"
+  ],
+  "options": null,
+  "correct_answer": "3 m",
+  "explanation": "For the seesaw to balance, the moments on both sides must be equal. Using the principle of moments: 300 \u00d7 2 = 200 \u00d7 d. So 600 = 200d, therefore d = 3 m. The lighter weight must be placed further from the pivot to balance the heavier weight.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "472b6390-77ec-41d9-81e3-ef175fb7c3aa",
+  "topic": "forces.moments",
+  "difficulty": "medium",
+  "scraped_at": "2026-04-05T02:18:14.612979",
+  "classified_at": "2026-04-05T02:18:14.612981",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/medium",
+  "raw_html": null
+}

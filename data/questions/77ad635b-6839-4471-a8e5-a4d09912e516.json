@@ -1,0 +1,25 @@
+{
+  "question_text": "A hospital uses both X-rays and gamma rays for medical imaging. Explain why gamma rays are more penetrating than X-rays, and evaluate one advantage and one disadvantage of using gamma rays instead of X-rays for patient diagnosis.",
+  "question_type": "short_answer",
+  "tags": [
+    "ionising_radiation",
+    "penetration",
+    "medical_applications",
+    "risk_evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Gamma rays have shorter wavelengths and higher frequencies than X-rays, giving them more energy to penetrate matter. Advantage: gamma rays can image deeper tissues and tumours. Disadvantage: gamma rays are more ionising and cause greater damage to healthy cells, increasing cancer risk.",
+  "explanation": "Gamma rays are more powerful than X-rays because they have shorter wavelengths, so they can pass through more material. This is useful for seeing deep inside the body, but it's riskier because the radiation damages more cells. You need to balance the benefits of seeing the problem against the harm from radiation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "77ad635b-6839-4471-a8e5-a4d09912e516",
+  "topic": "waves.em_spectrum",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:16:35.529185",
+  "classified_at": "2026-04-05T02:16:35.529196",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://waves.em_spectrum/hard",
+  "raw_html": null
+}

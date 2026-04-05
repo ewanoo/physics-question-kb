@@ -1,0 +1,24 @@
+{
+  "question_text": "A stone has a mass of 600 kg and a volume of 0.2 m\u00b3. Calculate its density in kg/m\u00b3.",
+  "question_type": "calculation",
+  "tags": [
+    "density",
+    "calculation",
+    "kg/m\u00b3"
+  ],
+  "options": null,
+  "correct_answer": "3,000 kg/m\u00b3",
+  "explanation": "Using density = mass \u00f7 volume, we calculate 600 kg \u00f7 0.2 m\u00b3 = 3,000 kg/m\u00b3.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "27ee9db8-cc7d-44fc-846a-48ea93cc10ff",
+  "topic": "matter.density",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:24.832959",
+  "classified_at": "2026-04-05T02:17:24.832960",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.density/easy",
+  "raw_html": null
+}

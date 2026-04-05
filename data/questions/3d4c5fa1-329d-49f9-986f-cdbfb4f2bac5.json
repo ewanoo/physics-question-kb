@@ -1,0 +1,24 @@
+{
+  "question_text": "A uniform beam is balanced on a pivot. A 50 N force is applied 2 m to the left of the pivot. To keep the beam balanced, a 40 N force is applied to the right of the pivot. How far from the pivot must the 40 N force be applied?",
+  "question_type": "calculation",
+  "tags": [
+    "principle of moments",
+    "balanced systems",
+    "calculating distance"
+  ],
+  "options": null,
+  "correct_answer": "2.5 m",
+  "explanation": "Using the principle of moments: clockwise moment = anticlockwise moment. The 50 N force creates a moment of 50 \u00d7 2 = 100 Nm. For balance, the 40 N force must create the same moment: 40 \u00d7 distance = 100, so distance = 2.5 m.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3d4c5fa1-329d-49f9-986f-cdbfb4f2bac5",
+  "topic": "forces.moments",
+  "difficulty": "hard",
+  "scraped_at": "2026-04-05T02:18:05.394877",
+  "classified_at": "2026-04-05T02:18:05.394888",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://forces.moments/hard",
+  "raw_html": null
+}

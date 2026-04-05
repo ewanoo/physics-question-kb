@@ -1,0 +1,25 @@
+{
+  "question_text": "A sugar cube is placed in a beaker of water and left undisturbed. After 24 hours, the water is uniformly sweet throughout. Explain why this happens using particle theory.",
+  "question_type": "short_answer",
+  "tags": [
+    "diffusion",
+    "particles",
+    "liquids",
+    "concentration"
+  ],
+  "options": null,
+  "correct_answer": "The sugar particles dissolve and move randomly throughout the water due to diffusion, spreading from where there is a high concentration (near the cube) to where there is a low concentration (the rest of the water) until evenly distributed.",
+  "explanation": "At first, there is lots of sugar near the cube but none elsewhere. The dissolved sugar particles are constantly moving randomly in all directions. Over time, this random movement causes them to spread throughout all the water, even though no one stirred it, until the sugar is evenly mixed everywhere.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "16c6beec-aa78-4c05-9b29-51d195919150",
+  "topic": "matter.particles",
+  "difficulty": "easy",
+  "scraped_at": "2026-04-05T02:17:35.527625",
+  "classified_at": "2026-04-05T02:17:35.527625",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": "claude://matter.particles/easy",
+  "raw_html": null
+}
