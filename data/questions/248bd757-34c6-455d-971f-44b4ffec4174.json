@@ -1,0 +1,38 @@
+{
+  "question_text": "Which state of matter has particles that are far apart with very weak forces between them?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "states of matter",
+    "gases",
+    "particles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solid",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gas",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Plasma",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gases have particles that are far apart with negligible forces between them. They move randomly at high speed and can fill any container they are placed in.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "248bd757-34c6-455d-971f-44b4ffec4174"
+}

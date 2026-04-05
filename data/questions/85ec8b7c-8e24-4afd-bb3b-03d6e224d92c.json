@@ -1,0 +1,38 @@
+{
+  "question_text": "The Earth's axis is tilted at approximately which angle?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "axial tilt",
+    "angle",
+    "Earth's axis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "15.3 degrees",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "23.5 degrees",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "45 degrees",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "90 degrees",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Earth's axis is tilted at approximately 23.5 degrees relative to its orbital plane. This specific angle is responsible for creating the seasons we experience.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "85ec8b7c-8e24-4afd-bb3b-03d6e224d92c"
+}

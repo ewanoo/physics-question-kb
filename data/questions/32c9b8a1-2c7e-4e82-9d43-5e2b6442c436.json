@@ -1,0 +1,17 @@
+{
+  "question_text": "A balloon contains 50 grams of helium gas. If you cool the balloon in a freezer, describe what happens to the gas particles and explain why the balloon might appear to deflate slightly.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "cooling",
+    "particle energy",
+    "gas behavior"
+  ],
+  "options": null,
+  "correct_answer": "The gas particles lose energy and move more slowly. They take up less space as they move around less vigorously, causing the balloon to deflate slightly.",
+  "explanation": "When gas is cooled, its particles lose thermal energy and move more slowly. With less movement, the particles don't push against the balloon walls as forcefully, reducing the pressure and causing the balloon to become smaller or appear deflated.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "32c9b8a1-2c7e-4e82-9d43-5e2b6442c436"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain what happens to the particles of ice when it melts into water.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "phase change",
+    "particles"
+  ],
+  "options": null,
+  "correct_answer": "The particles gain energy and vibrate more. The forces between them weaken, allowing them to move more freely past each other, changing from a fixed arrangement to a more random arrangement.",
+  "explanation": "During melting, heat energy causes particles to vibrate more vigorously. The bonds holding them in fixed positions break, and particles can now slide past each other while still being close together.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1817d66d-f35d-42ea-8e3c-0bca748011b6"
+}

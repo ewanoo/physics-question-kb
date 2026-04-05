@@ -1,0 +1,17 @@
+{
+  "question_text": "Calculate the approximate volume of a gas if its particles occupy 2 cubic centimeters when compressed, and it expands to fill a 500 cubic centimeter container. How many times larger is the container?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "gas expansion",
+    "volume",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "250 times larger",
+  "explanation": "To find how many times larger the container is, we divide the container volume by the compressed volume: 500 divided by 2 equals 250. This shows how much gases expand when given more space.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "2342b74b-56a5-4a75-9d04-17171dce9386"
+}

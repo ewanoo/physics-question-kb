@@ -1,0 +1,38 @@
+{
+  "question_text": "During the summer solstice in the Northern Hemisphere, what is special about the daylight hours?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "summer solstice",
+    "daylight hours",
+    "seasons"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Day and night are exactly equal length",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "There are the longest daylight hours of the year",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There are the shortest daylight hours of the year",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Sun does not set for several days",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The summer solstice (around 21 June in the Northern Hemisphere) is when the North Pole is tilted most towards the Sun, giving the longest period of daylight and the shortest period of darkness.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ddf4c690-ac10-4097-8d5d-dbf47dd25618"
+}

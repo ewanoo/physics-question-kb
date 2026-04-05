@@ -1,0 +1,17 @@
+{
+  "question_text": "In the Northern Hemisphere, which season occurs when the Earth's axis is tilted away from the Sun?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Northern Hemisphere",
+    "seasons",
+    "axial tilt"
+  ],
+  "options": null,
+  "correct_answer": "Winter",
+  "explanation": "When the Northern Hemisphere is tilted away from the Sun, that part of Earth receives fewer direct rays and less heat, resulting in winter. This happens around December in the Northern Hemisphere.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b2ea5012-1717-4034-b28a-cd723e83d6cb"
+}

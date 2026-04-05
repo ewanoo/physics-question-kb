@@ -1,0 +1,17 @@
+{
+  "question_text": "A gas has a volume of 500 cm3 at room temperature. What will happen to the volume if the temperature increases?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "gases",
+    "temperature",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "The volume will increase because the particles move faster and collide more frequently with the container walls, exerting greater pressure, so the gas expands.",
+  "explanation": "When a gas is heated, its particles gain kinetic energy and move faster. They hit the container walls with more force and frequency, causing the gas to expand if the container allows it.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "77e6e0ca-5888-4d4e-9049-6697b0fad6e2"
+}

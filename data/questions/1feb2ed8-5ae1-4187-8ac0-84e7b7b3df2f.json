@@ -1,0 +1,17 @@
+{
+  "question_text": "If the Earth's axis were tilted at 0 degrees (not tilted at all), what would happen to the seasons?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "axial tilt",
+    "hypothetical",
+    "seasons"
+  ],
+  "options": null,
+  "correct_answer": "There would be no seasons. Temperatures would remain relatively constant throughout the year at all locations.",
+  "explanation": "Seasons exist because of the tilted axis. Without tilt, every location on Earth would receive the same amount of direct sunlight all year round, resulting in no seasonal temperature changes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1feb2ed8-5ae1-4187-8ac0-84e7b7b3df2f"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "If the distance from Earth to the Moon is approximately 384,400 km, and light travels at 300,000 km per second, approximately how many seconds does it take for light to travel from Earth to the Moon?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon",
+    "distance",
+    "light",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "approximately 1.28 seconds (or between 1.2 and 1.3 seconds)",
+  "explanation": "To find the time, divide distance by speed: 384,400 km divided by 300,000 km per second equals approximately 1.28 seconds. This means light from Earth takes just over one second to reach the Moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "271db884-173d-4c00-ba3b-a675421f91d9"
+}

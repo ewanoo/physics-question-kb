@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following correctly describes the arrangement of particles in a solid?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "particles",
+    "solids",
+    "arrangement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are loosely packed and move freely in all directions",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles are tightly packed in a fixed arrangement and vibrate in fixed positions",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles are spread far apart with no forces between them",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles are randomly arranged and collide constantly with each other",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In solids, particles are tightly packed together in a regular pattern and can only vibrate around fixed positions. This is why solids have a definite shape and volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ad1260c4-55cf-4309-b72e-7a4e487db949"
+}

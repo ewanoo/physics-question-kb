@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following would increase the pressure of a gas in a sealed container?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "factors affecting pressure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Decreasing the temperature",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increasing the volume",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Increasing the temperature",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Removing some of the gas",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When temperature increases, gas particles move faster and collide with the container walls more frequently and forcefully, resulting in increased pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "02aef064-080b-4c4c-a8cc-54c5c9281180"
+}

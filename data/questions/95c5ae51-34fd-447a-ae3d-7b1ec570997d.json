@@ -1,0 +1,17 @@
+{
+  "question_text": "During evaporation, water changes from liquid to gas. Calculate the approximate number of particles that escape from a puddle if 2 grams of water evaporates. (Hint: 1 mole of water has a mass of 18 grams and contains 6 x 10^23 particles)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "evaporation",
+    "moles",
+    "particles"
+  ],
+  "options": null,
+  "correct_answer": "6.67 x 10^22 particles or approximately 6.7 x 10^22 particles",
+  "explanation": "If 18 grams of water contains 6 x 10^23 particles, then 2 grams contains (2/18) x (6 x 10^23) = 6.67 x 10^22 particles. These particles escape as gas during evaporation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "95c5ae51-34fd-447a-ae3d-7b1ec570997d"
+}

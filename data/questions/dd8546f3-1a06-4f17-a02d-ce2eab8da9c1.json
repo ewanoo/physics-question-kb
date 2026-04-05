@@ -1,0 +1,17 @@
+{
+  "question_text": "On the autumnal equinox, day and night are approximately equal length. If day length is 12 hours, calculate how many hours of darkness there are that night.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "equinox",
+    "daylight hours",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "12 hours",
+  "explanation": "During an equinox, 'equi' means equal and 'nox' means night. The day and night are approximately equal, so if there are 12 hours of daylight, there are also 12 hours of darkness in a 24-hour period.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dd8546f3-1a06-4f17-a02d-ce2eab8da9c1"
+}

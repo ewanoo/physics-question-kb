@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the name of the process when a liquid changes into a gas?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "evaporation",
+    "state change",
+    "processes"
+  ],
+  "options": null,
+  "correct_answer": "Evaporation",
+  "explanation": "Evaporation occurs when liquid particles gain enough energy from heat to escape and become a gas. This happens at the surface of liquids and is why puddles disappear on a sunny day.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "13183fd6-136e-4e4f-8ed1-a2afb8d0f7ae"
+}

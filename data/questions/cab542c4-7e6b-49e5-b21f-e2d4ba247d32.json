@@ -1,0 +1,38 @@
+{
+  "question_text": "Why does the Earth experience seasons?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "Earth's tilt",
+    "seasons",
+    "axial tilt"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Earth's distance from the Sun changes throughout the year",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Earth's axis is tilted at an angle of about 23.5 degrees",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun moves closer and farther from the Earth in a cycle",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Earth rotates faster at certain times of the year",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Earth's tilted axis means that different parts of the Earth receive different amounts of sunlight and heat throughout the year. When your hemisphere is tilted towards the Sun, you experience summer; when tilted away, you experience winter.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cab542c4-7e6b-49e5-b21f-e2d4ba247d32"
+}

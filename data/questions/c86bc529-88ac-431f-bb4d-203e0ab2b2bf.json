@@ -1,0 +1,38 @@
+{
+  "question_text": "What is gas pressure caused by?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "particles",
+    "collisions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of the gas pushing down",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles colliding with the surfaces of a container",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The temperature of the container",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The colour of the gas",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gas pressure is created when millions of tiny gas particles move around randomly and collide with the walls of their container. Each collision exerts a tiny force, and all these forces together create the pressure we can measure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c86bc529-88ac-431f-bb4d-203e0ab2b2bf"
+}

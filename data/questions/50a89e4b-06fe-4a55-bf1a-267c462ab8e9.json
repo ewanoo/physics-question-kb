@@ -1,0 +1,17 @@
+{
+  "question_text": "A syringe contains 50 cm3 of gas at atmospheric pressure. The plunger is pushed so the volume becomes 25 cm3. Assuming temperature is constant, what happens to the pressure?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "Boyle's Law",
+    "inverse relationship"
+  ],
+  "options": null,
+  "correct_answer": "The pressure doubles (increases by a factor of 2)",
+  "explanation": "Using Boyle's Law, when volume is halved, pressure must double to keep the product constant. This is because the same number of particles now occupy half the space, causing twice as many collisions per unit area.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "50a89e4b-06fe-4a55-bf1a-267c462ab8e9"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Describe how increasing the temperature of a gas affects the movement and collisions of its particles.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "particle motion"
+  ],
+  "options": null,
+  "correct_answer": "Increasing temperature causes gas particles to move faster. They collide with container walls more frequently and with greater force, increasing the pressure.",
+  "explanation": "Temperature is directly related to how fast particles move. Higher temperature means faster particle movement, leading to more frequent and more forceful collisions with the container walls, which increases pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "47e21864-5bf7-431a-8e6e-71b23927b728"
+}

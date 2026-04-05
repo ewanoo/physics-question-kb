@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following best describes the relationship between the Moon and tides on Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon",
+    "tides",
+    "gravity",
+    "ocean"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon's gravity pulls on Earth's oceans, creating bulges that cause tides",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Moon absorbs water from Earth's oceans",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Tides are caused only by Earth's rotation",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon creates tides by heating the oceans",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon's gravity attracts Earth's oceans, creating a bulge of water on the side facing the Moon and another on the opposite side. As Earth rotates, these bulges move around the planet, creating high and low tides.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "57558839-668c-4b6f-9c24-b49d4116ba1e"
+}

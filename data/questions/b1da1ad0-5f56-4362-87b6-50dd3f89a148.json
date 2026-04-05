@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best describes the arrangement of particles in a gas?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "gas particles",
+    "arrangement",
+    "spacing"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are tightly packed in a fixed arrangement",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles are far apart and move randomly in all directions",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles are close together but can slide past each other",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles are held in layers and cannot move at all",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In gases, particles are very far apart and move quickly in random directions. This is why gases can easily expand to fill any container and why they have no fixed shape or volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b1da1ad0-5f56-4362-87b6-50dd3f89a148"
+}

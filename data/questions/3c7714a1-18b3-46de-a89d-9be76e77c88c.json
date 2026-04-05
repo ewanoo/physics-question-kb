@@ -1,0 +1,38 @@
+{
+  "question_text": "A liquid has which of the following properties?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "liquids",
+    "properties",
+    "volume"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Definite shape and definite volume",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Definite volume but not definite shape",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Definite shape but not definite volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Neither definite shape nor definite volume",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Liquids have particles that are close together, giving them a definite volume, but can flow past each other, so they have no definite shape and take the shape of their container.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3c7714a1-18b3-46de-a89d-9be76e77c88c"
+}

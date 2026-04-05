@@ -1,0 +1,38 @@
+{
+  "question_text": "A substance has a fixed shape and a fixed volume. Which state of matter is it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "properties",
+    "solid"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Solid",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Plasma",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Only solids have both a fixed shape and a fixed volume. This is because the particles in a solid are tightly packed in a regular arrangement and vibrate in fixed positions without moving around.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a460e95b-61a7-4245-84e0-ccbdc4f14edf"
+}

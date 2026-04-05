@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why a gas is compressible but a solid is not?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "compressibility",
+    "particle spacing",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas particles are much smaller than solid particles",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles have large spaces between them that can be reduced, while solid particles are already tightly packed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Solids are heavier and therefore cannot be compressed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gas particles move faster so they resist compression",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gases can be compressed because their particles are far apart with lots of empty space between them. Solids cannot be compressed because the particles are already touching each other tightly in a fixed arrangement.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f426ec11-c7cd-4a4d-9d4c-0374b75da1b4"
+}

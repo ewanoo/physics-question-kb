@@ -1,0 +1,17 @@
+{
+  "question_text": "A gas has a pressure of 100 kPa in a container with a volume of 2 cubic metres. If the volume is reduced to 1 cubic metre and temperature remains constant, what is the new pressure?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "Boyle's Law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "200 kPa",
+  "explanation": "Using Boyle's Law (P1V1 = P2V2): 100 kPa x 2 m3 = P2 x 1 m3. So P2 = 200 kPa. When volume halves, pressure doubles because particles collide twice as often.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6b46521d-fd94-4a6f-8b2f-295da4f8366b"
+}

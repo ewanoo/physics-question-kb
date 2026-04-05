@@ -1,0 +1,18 @@
+{
+  "question_text": "Describe what happens during a lunar eclipse.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon",
+    "eclipse",
+    "shadow",
+    "sun"
+  ],
+  "options": null,
+  "correct_answer": "Earth passes between the Sun and Moon, causing Earth's shadow to fall on the Moon, making it appear dark or reddish.",
+  "explanation": "During a lunar eclipse, Earth moves directly between the Sun and Moon. Earth's shadow blocks sunlight from reaching the Moon's surface. The Moon might look dark red during a total lunar eclipse because some red light bends around Earth's atmosphere onto the Moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "63454226-7727-48be-a277-08f1c0449c8c"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "Why does the Moon appear to change shape throughout the month, even though it is a sphere?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon",
+    "phases",
+    "light",
+    "orbit"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon is not actually a sphere but changes shape",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Different amounts of the Moon's sunlit side are visible from Earth as it orbits",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth's shadow gradually covers the Moon each month",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon moves closer to and further from Earth each month",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon itself doesn't change shape. As the Moon orbits Earth, the angle between the Sun, Earth, and Moon changes. This changes how much of the sunlit side we can see from Earth, creating the phases like new moon, crescent, half moon, and full moon.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d42f6303-4631-4f4e-a689-a9e477d7a332"
+}
