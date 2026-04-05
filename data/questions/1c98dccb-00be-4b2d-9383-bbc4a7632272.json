@@ -1,0 +1,24 @@
+{
+  "question_text": "A student rubs a balloon with a wool cloth. The balloon becomes negatively charged with 8.0 \u00d7 10^18 extra electrons. Another identical balloon is rubbed with the same wool cloth and becomes positively charged. Explain in detail what has happened to the electrons during this process, and calculate how many electrons were removed from the second balloon. Use the fact that one electron has a charge of 1.6 \u00d7 10^-19 coulombs.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "charge transfer",
+    "electron movement",
+    "quantitative reasoning"
+  ],
+  "options": null,
+  "correct_answer": "First balloon: wool transferred electrons to the balloon, giving it a negative charge. Second balloon: wool removed electrons from it, leaving it with a positive charge. The second balloon lost 8.0 \u00d7 10^18 electrons (same number as the first gained).",
+  "explanation": "When the first balloon is rubbed, electrons transfer from wool to the balloon because the balloon material attracts electrons more strongly. When the second balloon is rubbed with the same wool, the wool now lacks electrons and pulls them away from the balloon, making it positively charged. Both balloons end up with equal but opposite charges because the same number of electrons are transferred in each case.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1c98dccb-00be-4b2d-9383-bbc4a7632272",
+  "scraped_at": "2026-04-05T00:38:40.968192",
+  "classified_at": "2026-04-05T00:38:40.968192",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

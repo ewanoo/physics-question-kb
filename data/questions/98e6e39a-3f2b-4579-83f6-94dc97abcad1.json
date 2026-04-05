@@ -1,0 +1,24 @@
+{
+  "question_text": "Name the natural satellite that orbits Earth.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "Moon",
+    "Earth",
+    "orbit"
+  ],
+  "options": null,
+  "correct_answer": "The Moon",
+  "explanation": "The Moon is Earth's natural satellite, which means it orbits around Earth. It takes about 28 days for the Moon to complete one full orbit around our planet.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "98e6e39a-3f2b-4579-83f6-94dc97abcad1",
+  "scraped_at": "2026-04-05T00:39:45.621235",
+  "classified_at": "2026-04-05T00:39:45.621235",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

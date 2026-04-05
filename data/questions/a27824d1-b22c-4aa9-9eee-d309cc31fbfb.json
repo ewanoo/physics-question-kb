@@ -1,0 +1,24 @@
+{
+  "question_text": "Explain why a gas can easily change shape and fill any container it is placed in.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "gases",
+    "particle movement",
+    "properties of matter"
+  ],
+  "options": null,
+  "correct_answer": "Gas particles are far apart with weak forces between them and move randomly at high speed in all directions, so they spread out and fill the space available.",
+  "explanation": "In gases, particles have large spaces between them, move very quickly, and are not held in fixed positions. This random, fast movement allows gas particles to spread throughout any container they are in. This is a direct consequence of the particle model and explains the observable property that gases always fill their container.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a27824d1-b22c-4aa9-9eee-d309cc31fbfb",
+  "scraped_at": "2026-04-05T00:39:29.812495",
+  "classified_at": "2026-04-05T00:39:29.812495",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

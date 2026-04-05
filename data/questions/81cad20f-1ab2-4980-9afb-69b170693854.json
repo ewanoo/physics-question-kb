@@ -1,0 +1,46 @@
+{
+  "question_text": "Jupiter takes approximately 12 Earth years to orbit the Sun, while Mercury takes approximately 0.24 Earth years. Which statement correctly compares their orbital periods?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital_periods",
+    "inner_planets",
+    "outer_planets",
+    "comparing_planets"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Jupiter orbits the Sun 50 times faster than Mercury",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Mercury completes about 50 orbits for every 1 orbit of Jupiter",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Mercury takes longer to orbit the Sun than Jupiter",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both planets take the same time to orbit the Sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Mercury completes about 50 orbits for every 1 orbit of Jupiter",
+  "explanation": "To compare orbital periods, we divide Jupiter's period by Mercury's: 12 \u00f7 0.24 = 50. This means Mercury orbits the Sun 50 times in the time Jupiter completes just 1 orbit, because Mercury is closer to the Sun and travels faster.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "81cad20f-1ab2-4980-9afb-69b170693854",
+  "scraped_at": "2026-04-05T00:39:50.409562",
+  "classified_at": "2026-04-05T00:39:50.409562",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

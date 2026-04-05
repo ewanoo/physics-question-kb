@@ -1,0 +1,24 @@
+{
+  "question_text": "Two charged objects are brought close together. One object has a positive charge and the other has a positive charge. What will happen between them?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "repulsion",
+    "like charges",
+    "charge interaction"
+  ],
+  "options": null,
+  "correct_answer": "They will repel each other (or push apart / move away from each other)",
+  "explanation": "Objects with the same type of charge (both positive or both negative) always repel each other and push away from one another. This is the rule: like charges repel.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d28fa757-d087-4738-b7f8-3f01ddddb069",
+  "scraped_at": "2026-04-05T00:38:28.195243",
+  "classified_at": "2026-04-05T00:38:28.195243",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

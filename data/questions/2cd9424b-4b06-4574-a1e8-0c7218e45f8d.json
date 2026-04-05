@@ -1,0 +1,24 @@
+{
+  "question_text": "Two identical metal spheres are placed on insulating stands near each other. Sphere A is given a strong negative charge by rubbing with a cloth. Sphere B is left uncharged. When sphere A is brought very close to sphere B (but not touching), sphere B is attracted to sphere A even though it is still uncharged. Explain why this happens, then evaluate what would occur if sphere B were made of plastic instead of metal, and identify which material would experience the greater attractive force.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "electrostatic induction",
+    "polarisation",
+    "material comparison"
+  ],
+  "options": null,
+  "correct_answer": "The negatively charged sphere A repels electrons in the metal sphere B towards the far side, leaving the near side positively charged; opposite charges attract. With plastic, electrons cannot move freely, so only slight polarisation of molecules occurs at the surface. The metal sphere experiences greater attraction because it develops a stronger charge separation (induced charge) compared to the weaker polarisation in plastic.",
+  "explanation": "Metals conduct electricity, so electrons in sphere B move away from the negative sphere A, creating a strong induced positive charge on the near side. Plastics are insulators, so electrons are stuck in place and only bend slightly within atoms and molecules. This means the metal sphere has a much larger effective charge separation and experiences stronger attraction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2cd9424b-4b06-4574-a1e8-0c7218e45f8d",
+  "scraped_at": "2026-04-05T00:38:40.968192",
+  "classified_at": "2026-04-05T00:38:40.968192",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

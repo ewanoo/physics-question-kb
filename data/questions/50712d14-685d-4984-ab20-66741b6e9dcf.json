@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement about electromagnetic waves is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "em_spectrum",
+    "speed_of_light",
+    "transverse_waves"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All electromagnetic waves travel at different speeds depending on the type",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All electromagnetic waves travel at the speed of light in a vacuum",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Radio waves travel faster than gamma rays",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electromagnetic waves are longitudinal waves with compressions and rarefactions",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) All electromagnetic waves travel at the speed of light in a vacuum",
+  "explanation": "Electromagnetic waves are all transverse waves and they all travel at the same speed in a vacuum, which is the speed of light (about 300,000,000 metres per second). The difference between them is their wavelength and frequency, not their speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "50712d14-685d-4984-ab20-66741b6e9dcf",
+  "scraped_at": "2026-04-05T00:39:59.602966",
+  "classified_at": "2026-04-05T00:39:59.602966",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

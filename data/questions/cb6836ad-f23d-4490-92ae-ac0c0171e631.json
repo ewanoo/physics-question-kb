@@ -1,0 +1,24 @@
+{
+  "question_text": "A see-saw is balanced on a pivot. Child A has a weight of 400 N and sits 1.5 metres from the pivot on the left side. Child B sits 2 metres from the pivot on the right side. Using the principle of moments, what must Child B's weight be for the see-saw to balance?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "principle of moments",
+    "see-saw balance",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "300 N",
+  "explanation": "For a balanced see-saw, clockwise moments equal anticlockwise moments. Child A's moment = 400 N \u00d7 1.5 m = 600 N m. Child B's moment must also be 600 N m, so: Force \u00d7 2 m = 600 N m, therefore Force = 300 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cb6836ad-f23d-4490-92ae-ac0c0171e631",
+  "scraped_at": "2026-04-05T00:39:04.151957",
+  "classified_at": "2026-04-05T00:39:04.151957",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

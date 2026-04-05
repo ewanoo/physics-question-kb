@@ -1,0 +1,25 @@
+{
+  "question_text": "A seesaw has a pivot point at its centre. A child of mass 40 kg sits 1.5 m to the left of the pivot. Another child of mass 35 kg sits 1.8 m to the right of the pivot. A third child of mass 30 kg then sits 0.8 m to the left of the pivot. Calculate the net moment about the pivot and determine which side will go down. Use g = 10 N/kg. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "seesaw",
+    "equilibrium",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Left side: clockwise moment = 600 + 240 = 840 Nm. Right side: anticlockwise moment = 630 Nm. Net moment = 210 Nm clockwise. The left side goes down.",
+  "explanation": "To find the net moment, calculate the clockwise moments (left side) and anticlockwise moments (right side) separately using moment = force \u00d7 distance. The child's weight is mass \u00d7 g, and the side with the larger total moment will go down.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "52b7fec4-d1b9-421b-9724-3f3ee51d3af6",
+  "scraped_at": "2026-04-05T00:39:11.518344",
+  "classified_at": "2026-04-05T00:39:11.518344",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

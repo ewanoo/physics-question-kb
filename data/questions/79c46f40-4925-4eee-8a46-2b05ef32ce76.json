@@ -1,0 +1,25 @@
+{
+  "question_text": "A Van de Graaff generator builds up a large negative charge on its dome. Explain why a spark forms between the dome and a nearby earthed conductor, and what happens to the charge during the spark.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "Van de Graaff generator",
+    "sparks",
+    "charge transfer",
+    "earthing"
+  ],
+  "options": null,
+  "correct_answer": "The dome has excess electrons (negative charge) that repel each other and create a strong electric field. When the field becomes strong enough, it ionises the air between the dome and the earthed conductor, allowing electrons to flow through the spark to the Earth. This neutralises the charge on the dome.",
+  "explanation": "A spark occurs when static charge builds up enough electrical potential to break down the insulating air. The electrons flow from the charged dome through the ionised air path to Earth, neutralising the excess charge. This is similar to how lightning works in nature.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "79c46f40-4925-4eee-8a46-2b05ef32ce76",
+  "scraped_at": "2026-04-05T00:38:34.040975",
+  "classified_at": "2026-04-05T00:38:34.040975",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A hospital uses both X-rays and microwaves in different departments. X-rays have a wavelength of 1 \u00d7 10^-10 m, while microwaves have a wavelength of 2 \u00d7 10^-2 m. Using the equation wave speed = frequency \u00d7 wavelength, and assuming both travel at the speed of light (3 \u00d7 10^8 m/s), calculate the frequency of the X-rays and explain why X-rays are considered ionising radiation while microwaves are not, even though microwaves carry energy.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "X-rays",
+    "ionising_radiation",
+    "frequency_calculation",
+    "risk_evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Frequency of X-rays = 3 \u00d7 10^18 Hz. X-rays are ionising because they have much higher frequency and energy than microwaves, allowing them to remove electrons from atoms and damage cells. Microwaves have lower frequency and energy, so they only cause heating and cannot ionise atoms.",
+  "explanation": "X-rays have a frequency 10^17 times greater than microwaves, giving them vastly more energy per photon. This high energy allows X-rays to ionise atoms (remove electrons), causing potential cell damage and cancer risk. Microwaves only vibrate water molecules and cause heating, which is why they are used safely in ovens. The key difference is energy per photon, not just total energy carried.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fd569aa4-ade5-481f-9b47-b31bab7c990f",
+  "scraped_at": "2026-04-05T00:40:10.801926",
+  "classified_at": "2026-04-05T00:40:10.801926",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

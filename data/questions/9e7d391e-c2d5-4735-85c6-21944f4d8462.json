@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement correctly describes how particles are arranged in a solid?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "particle arrangement",
+    "solids",
+    "particle model"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are tightly packed in fixed positions and vibrate in place",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Particles are far apart and move randomly throughout the space",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Particles are loosely packed and slide past each other easily",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles have no forces between them and move at high speed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Particles are tightly packed in fixed positions and vibrate in place",
+  "explanation": "In solids, particles are arranged closely together in a fixed, ordered pattern and can only vibrate around their fixed positions. This explains why solids have a definite shape and volume. Options B, C and D describe gases or liquids incorrectly.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9e7d391e-c2d5-4735-85c6-21944f4d8462",
+  "scraped_at": "2026-04-05T00:39:29.812495",
+  "classified_at": "2026-04-05T00:39:29.812495",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

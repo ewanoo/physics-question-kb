@@ -1,0 +1,25 @@
+{
+  "question_text": "A kettle with a power rating of 2400 W takes 150 seconds to boil water. A microwave with a power rating of 800 W takes 180 seconds to heat the same amount of water to the same temperature. Calculate the energy used by each appliance and explain which one is more efficient for this task. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "energy efficiency",
+    "comparing appliances",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Kettle: 360,000 J (or 360 kJ); Microwave: 144,000 J (or 144 kJ). The microwave is more efficient because it uses less total energy to heat the same water, even though it takes longer.",
+  "explanation": "Energy is calculated using E = P \u00d7 t. The kettle uses 2400 \u00d7 150 = 360,000 J and the microwave uses 800 \u00d7 180 = 144,000 J. Although the microwave takes longer, it is more efficient because it transfers less energy overall to achieve the same result, meaning less energy is wasted as heat to the surroundings.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "07139173-be2b-403d-967e-90bda4ef92ed",
+  "scraped_at": "2026-04-05T00:38:53.715727",
+  "classified_at": "2026-04-05T00:38:53.715727",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

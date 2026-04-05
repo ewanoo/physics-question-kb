@@ -1,0 +1,45 @@
+{
+  "question_text": "A student places an iron nail near a permanent magnet. The nail becomes magnetised and acts like a magnet itself. What is the name for this type of magnetism?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "induced magnetism",
+    "permanent magnets",
+    "magnetic properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Permanent magnetism",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Induced magnetism",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Temporary magnetism",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electromagnetic magnetism",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Induced magnetism",
+  "explanation": "When a ferromagnetic material like iron is placed in a magnetic field, it becomes temporarily magnetised. This is called induced magnetism because the magnetic field from the permanent magnet induces (causes) the iron to become magnetic. Once the permanent magnet is removed, the induced magnetism is usually lost.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bdec4596-62e0-434d-8cdf-afbd8485540f",
+  "scraped_at": "2026-04-05T00:40:19.364731",
+  "classified_at": "2026-04-05T00:40:19.364731",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement correctly explains why the Moon orbits the Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "orbital motion",
+    "gravity",
+    "centripetal force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity from the Earth pulls the Moon towards it, and the Moon's sideways motion keeps it in orbit instead of falling straight down",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Moon orbits because it is moving away from the Earth at high speed",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "There is no gravity acting on the Moon, so it moves in a straight line around the Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon's own gravity is stronger than Earth's gravity, so it pulls itself along in orbit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Gravity from the Earth pulls the Moon towards it, and the Moon's sideways motion keeps it in orbit instead of falling straight down",
+  "explanation": "Gravity constantly pulls the Moon towards Earth, but because the Moon is also moving sideways at high speed, this creates a curved path around Earth. Without gravity, the Moon would move in a straight line; without sideways motion, it would fall straight down. The combination creates a stable orbit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7628221f-e5c5-46f7-9e24-53c554940dd7",
+  "scraped_at": "2026-04-05T00:38:19.326130",
+  "classified_at": "2026-04-05T00:38:19.326130",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

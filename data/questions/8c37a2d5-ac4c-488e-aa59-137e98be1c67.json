@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following materials is NOT magnetic?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic materials",
+    "iron",
+    "steel",
+    "cobalt"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Iron",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Steel",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Nickel",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Copper",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": "D) Copper",
+  "explanation": "Iron, steel, nickel and cobalt are all magnetic materials that are attracted to magnets. Copper is a non-magnetic metal and will not be attracted to a magnet.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8c37a2d5-ac4c-488e-aa59-137e98be1c67",
+  "scraped_at": "2026-04-05T00:40:14.138922",
+  "classified_at": "2026-04-05T00:40:14.138922",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

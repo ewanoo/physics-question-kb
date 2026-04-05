@@ -1,0 +1,24 @@
+{
+  "question_text": "A mobile phone receives signals using radio waves. Explain why radio waves are suitable for this use and name one danger associated with prolonged exposure to radio waves from mobile phones.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "radio waves",
+    "communication",
+    "health risks"
+  ],
+  "options": null,
+  "correct_answer": "Radio waves are suitable because they can travel long distances and penetrate buildings/obstacles to reach the phone. One danger is that prolonged exposure may cause heating of body tissues or potential health effects, though this is still being researched.",
+  "explanation": "Radio waves have long wavelengths so they diffract around obstacles and travel far, making them ideal for wireless communication. While radio waves are non-ionizing and less energetic than UV or X-rays, there is ongoing research about whether prolonged mobile phone use near the head could have health effects.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ae0c4928-4420-47b6-84d5-65a51d29ac35",
+  "scraped_at": "2026-04-05T00:40:04.032482",
+  "classified_at": "2026-04-05T00:40:04.032482",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

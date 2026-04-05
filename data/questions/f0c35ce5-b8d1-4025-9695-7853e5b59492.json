@@ -1,0 +1,24 @@
+{
+  "question_text": "Planet X has a gravitational field strength of 20 N/kg at its surface, while Planet Y has a gravitational field strength of 5 N/kg at its surface. A 500 kg spacecraft lands on Planet X, then later lands on Planet Y. Calculate the weight of the spacecraft on each planet, and explain why a person would feel heavier on Planet X even though both planets might be the same size.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational_field_strength",
+    "weight_comparison",
+    "multi_step"
+  ],
+  "options": null,
+  "correct_answer": "Planet X: 10000 N; Planet Y: 2500 N. A person feels heavier on Planet X because the gravitational field strength is stronger there, meaning gravity pulls down with greater force per kilogram of mass. This stronger field could be due to Planet X having greater mass or being more dense than Planet Y.",
+  "explanation": "Weight on X = 500 \u00d7 20 = 10000 N; Weight on Y = 500 \u00d7 5 = 2500 N. Gravitational field strength depends on a planet's mass and size, so a stronger field (like Planet X's) indicates either greater mass or a smaller radius, both of which increase the pull of gravity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f0c35ce5-b8d1-4025-9695-7853e5b59492",
+  "scraped_at": "2026-04-05T00:38:25.058610",
+  "classified_at": "2026-04-05T00:38:25.058610",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

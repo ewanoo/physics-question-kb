@@ -1,0 +1,24 @@
+{
+  "question_text": "A hydraulic lift system has two cylinders. The input cylinder has an area of 0.5 m\u00b2 and the output cylinder has an area of 8 m\u00b2. A force of 200 N is applied to the input cylinder. Calculate the force produced at the output cylinder, then determine how many times larger this output force is compared to the input force.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulics",
+    "pressure transmission",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "Output force = 3200 N; amplification factor = 16 times",
+  "explanation": "Using the principle that pressure is transmitted equally through a hydraulic system, pressure = force/area. First, calculate input pressure: 200 N / 0.5 m\u00b2 = 400 Pa. Then use this pressure on the output cylinder: force = 400 Pa \u00d7 8 m\u00b2 = 3200 N. The force is amplified 3200 / 200 = 16 times because the output area is 16 times larger.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "28b13713-c3fa-4808-bf97-f57558d69af7",
+  "scraped_at": "2026-04-05T00:39:25.386167",
+  "classified_at": "2026-04-05T00:39:25.386167",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

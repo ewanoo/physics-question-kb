@@ -1,0 +1,46 @@
+{
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "particle arrangement",
+    "density",
+    "quantitative reasoning"
+  ],
+  "question_text": "Ice floats on water because ice is less dense than water. Using particle model theory, a student proposes four explanations. Which best explains this unusual observation?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice particles are smaller than water particles, so they pack less efficiently and create more empty space between them.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Water particles are held in a rigid crystalline structure with more organized spacing that creates larger gaps between particles than in liquid water, resulting in lower density.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ice particles move more slowly than water particles, so they have less kinetic energy and spread further apart.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ice particles are denser individually, but there are fewer of them in the same volume than in water.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Ice has a crystalline lattice structure where water molecules bond in fixed positions with hydrogen bonding creating larger spaces than in liquid water. This regular, less compact arrangement means the same mass of ice occupies more volume than liquid water, making ice less dense and causing it to float\u2014this is explained by the particle model showing different spacing arrangements rather than different particle sizes or densities.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "27783991-0237-4c8d-ba63-b1e6dbbe0860",
+  "scraped_at": "2026-04-05T00:39:42.658707",
+  "classified_at": "2026-04-05T00:39:42.658707",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

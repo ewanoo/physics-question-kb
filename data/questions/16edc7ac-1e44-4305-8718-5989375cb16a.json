@@ -1,0 +1,24 @@
+{
+  "question_text": "A uniform plank is balanced on a pivot. A 50 N force is applied 2 metres to the left of the pivot. Calculate the moment of this force about the pivot.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment calculation",
+    "pivot",
+    "forces"
+  ],
+  "options": null,
+  "correct_answer": "100 N m",
+  "explanation": "Moment = force \u00d7 perpendicular distance from pivot. Moment = 50 N \u00d7 2 m = 100 N m (or 100 newton-metres). The direction is clockwise in this case.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "16edc7ac-1e44-4305-8718-5989375cb16a",
+  "scraped_at": "2026-04-05T00:39:04.151957",
+  "classified_at": "2026-04-05T00:39:04.151957",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A student observes pollen grains suspended in water under a microscope and notices they move around randomly in all directions without any external force being applied. What is the name of this type of particle movement and what causes it?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "Brownian motion",
+    "particle collisions",
+    "random movement"
+  ],
+  "options": null,
+  "correct_answer": "This is called Brownian motion. It is caused by the random collisions of water molecules hitting the pollen grain from all directions, making it move randomly.",
+  "explanation": "Brownian motion is the random zigzag movement of tiny particles suspended in a fluid. It happens because invisible molecules in the fluid are constantly colliding with the particle, and at any moment there are slightly more collisions from one direction than another, causing the particle to jiggle around.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "306c51fd-9c6a-4d87-84d1-19e23392a01a",
+  "scraped_at": "2026-04-05T00:39:35.780723",
+  "classified_at": "2026-04-05T00:39:35.780723",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

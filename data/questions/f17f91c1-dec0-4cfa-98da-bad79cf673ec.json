@@ -1,0 +1,25 @@
+{
+  "question_text": "A seesaw has a pivot in the middle. A child sits 2 metres from the pivot on one side. Describe what happens to the moment if the child moves to 4 metres away from the pivot.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "distance from pivot",
+    "seesaw",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "The moment increases / doubles. Because moment depends on the distance from the pivot, moving further away increases the turning effect, so the seesaw will turn more easily.",
+  "explanation": "Since moment equals force multiplied by distance from the pivot, when the distance increases while the force stays the same, the moment must increase. This is why it is easier to balance a seesaw when you sit further from the centre.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f17f91c1-dec0-4cfa-98da-bad79cf673ec",
+  "scraped_at": "2026-04-05T00:39:01.023432",
+  "classified_at": "2026-04-05T00:39:01.023432",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

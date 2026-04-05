@@ -1,0 +1,26 @@
+{
+  "question_text": "A comet is observed to have a highly elongated elliptical orbit that takes it very far from the Sun, while an asteroid is found in the asteroid belt between Mars and Jupiter. Explain one key difference between the composition of these two objects.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "asteroids",
+    "comets",
+    "composition",
+    "ice",
+    "rock"
+  ],
+  "options": null,
+  "correct_answer": "Comets contain significant amounts of ice and frozen gases, while asteroids are primarily made of rock and metal. The ice in comets vaporizes when they approach the Sun, creating their distinctive tail, whereas asteroids do not have this feature.",
+  "explanation": "Comets are icy bodies from the outer solar system that develop a tail of gas and dust when heated by the Sun. Asteroids are rocky objects that remain mostly solid and unchanged. This compositional difference explains why comets and asteroids behave differently as they move through the solar system.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ffebec3c-e65b-4dcb-8c1e-bc0c0eb75c23",
+  "scraped_at": "2026-04-05T00:39:50.409562",
+  "classified_at": "2026-04-05T00:39:50.409562",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A dam holds back water to a depth of 15 metres. The pressure at the bottom of the dam is 150,000 Pa. The water density is 1000 kg/m\u00b3 and gravitational field strength is 10 N/kg. A section of the dam wall has an area of 200 m\u00b2. Compare two design options: Option A uses the calculated pressure directly to find total force; Option B assumes only 75% of the calculated pressure acts on the wall due to water flow. Calculate the total force for each option and explain which design is more realistic for engineers building a real dam.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "dam pressure",
+    "atmospheric pressure effects",
+    "engineering design",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Option A: Force = 150,000 Pa \u00d7 200 m\u00b2 = 30,000,000 N (30 MN). Option B: Force = 0.75 \u00d7 30,000,000 N = 22,500,000 N (22.5 MN). Option B is more realistic because engineers account for water flow patterns, temperature variations, and the fact that not all water pressure acts uniformly on every section of the dam wall.",
+  "explanation": "Pressure times area gives the total force exerted by water on the dam. Real dams require design factors that reduce calculated forces to account for variable conditions and safety margins, making Option B's approach more realistic for actual construction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b4f4b3ce-9458-414b-a387-d86ade181855",
+  "scraped_at": "2026-04-05T00:39:25.386167",
+  "classified_at": "2026-04-05T00:39:25.386167",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Two household appliances are compared: a microwave rated at 800 W and a toaster rated at 1200 W. Both are switched on for the same length of time. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "comparing appliances",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The microwave transfers more energy because it has a lower power rating.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The toaster transfers more energy because it has a higher power rating.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both appliances transfer the same amount of energy regardless of their power ratings.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The microwave transfers more energy because microwaves are more efficient.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Power is the rate of energy transfer. Since the toaster has a higher power rating (1200 W compared to 800 W), it transfers more energy per second, so over the same time period it will transfer more total energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bd2aecef-a6af-413a-8f52-9d9e7505022d",
+  "scraped_at": "2026-04-05T00:38:48.048610",
+  "classified_at": "2026-04-05T00:38:48.048610",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A student draws the magnetic field pattern around a bar magnet using iron filings. Describe the shape of the field lines and explain what the direction of the field lines tells us.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic field lines",
+    "field patterns",
+    "bar magnet"
+  ],
+  "options": null,
+  "correct_answer": "The field lines curve from the north pole to the south pole. They are closer together near the poles (stronger field) and spread out further away (weaker field). The direction shows the direction a north pole would move if placed in that field.",
+  "explanation": "Magnetic field lines always go from north to south pole outside the magnet and show the path a north pole would follow. The closer together the lines are, the stronger the magnetic field in that region. This pattern can be observed using iron filings which align with the field.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e7b20664-50d9-465c-9ea8-f2508f94c0a8",
+  "scraped_at": "2026-04-05T00:40:19.364731",
+  "classified_at": "2026-04-05T00:40:19.364731",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "Two students compare the scale of the Solar System using models. Student A uses a scale where 1 cm represents 1 million kilometres. Student B uses a scale where 1 cm represents 10 million kilometres. The actual distance from the Sun to Neptune is approximately 4500 million kilometres. Calculate the distance from the Sun to Neptune on each student's model, then explain which model would be more practical to display in a school hall and why.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "scale",
+    "Solar System distances",
+    "problem solving"
+  ],
+  "options": null,
+  "correct_answer": "Student A: 4500 cm (or 45 metres); Student B: 450 cm (or 4.5 metres). Student B's model is more practical because 4.5 metres can fit in a school hall, whereas 45 metres is too large. This shows why real scale models of the Solar System are difficult to create.",
+  "explanation": "This problem requires division to find scaled distances and evaluates whether the result is realistic for a school environment. It helps students understand the enormous scale of the Solar System and why models cannot show true distances to scale.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2fe30708-01f6-43b7-a08e-b0475eb32c2f",
+  "scraped_at": "2026-04-05T00:39:56.023305",
+  "classified_at": "2026-04-05T00:39:56.023305",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

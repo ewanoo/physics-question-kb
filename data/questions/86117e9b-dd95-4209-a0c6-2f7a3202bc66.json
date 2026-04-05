@@ -1,0 +1,25 @@
+{
+  "question_text": "A student investigates three identical sealed containers of gas at room temperature. Container A has its particles moving at average speed v. Container B is heated until its particles move at average speed 2v. Container C is compressed to half its original volume while keeping temperature constant. Which container has the highest particle collision rate with the walls, and explain your reasoning using particle theory.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "particle collisions",
+    "pressure",
+    "kinetic theory",
+    "multi-step reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Container B has the highest collision rate. Although container C has twice the particle density (more frequent collisions), container B's particles move twice as fast, which means each collision transfers more momentum and happens more frequently per unit time, resulting in the highest overall collision rate with walls.",
+  "explanation": "This requires comparing both particle speed and particle density effects. Container B benefits from increased particle speed (which increases collision frequency AND force per collision), while container C only increases density. At room temperature with doubled particle speed, the kinetic energy effect dominates over the density effect of halving volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "86117e9b-dd95-4209-a0c6-2f7a3202bc66",
+  "scraped_at": "2026-04-05T00:39:42.658707",
+  "classified_at": "2026-04-05T00:39:42.658707",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

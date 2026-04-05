@@ -1,0 +1,24 @@
+{
+  "question_text": "A compass needle points towards the Earth's North Pole because the Earth acts like a giant magnet. Which magnetic pole of the Earth is located near the geographic North Pole?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "compass",
+    "Earth's magnetic field",
+    "magnetic poles"
+  ],
+  "options": null,
+  "correct_answer": "The magnetic south pole (or south pole) of the Earth is located near the geographic North Pole.",
+  "explanation": "The north-seeking end of a compass needle is actually the north pole of the magnet, and it points towards the magnetic south pole of the Earth near the geographic North Pole. This is because opposite magnetic poles attract each other.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9176627c-9b32-4561-bd13-21d2464141d3",
+  "scraped_at": "2026-04-05T00:40:14.138922",
+  "classified_at": "2026-04-05T00:40:14.138922",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

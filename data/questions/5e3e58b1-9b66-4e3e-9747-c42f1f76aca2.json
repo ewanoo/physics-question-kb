@@ -1,0 +1,45 @@
+{
+  "question_text": "A balloon is filled with helium gas at room temperature. The gas particles inside the balloon are moving rapidly and colliding with the balloon walls. Which statement best explains why the balloon stays inflated?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "gas pressure",
+    "particle collisions",
+    "pressure concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The helium particles stick to the rubber and hold it in place",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The continuous collisions of gas particles with the balloon walls create an outward force called pressure",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The rubber material of the balloon naturally expands when it comes into contact with gas",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Helium particles are heavier than air so they push outward on the balloon walls",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The continuous collisions of gas particles with the balloon walls create an outward force called pressure",
+  "explanation": "Gas pressure is created by millions of gas particles moving randomly and constantly bumping into the surfaces around them. These collisions exert a force on the balloon walls, pushing them outward and keeping the balloon inflated. The more collisions per second, the higher the pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5e3e58b1-9b66-4e3e-9747-c42f1f76aca2",
+  "scraped_at": "2026-04-05T00:39:35.780723",
+  "classified_at": "2026-04-05T00:39:35.780723",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

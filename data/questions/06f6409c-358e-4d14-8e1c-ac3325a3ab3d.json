@@ -1,0 +1,46 @@
+{
+  "question_text": "What is the standard unit of pressure used in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "units",
+    "pressure",
+    "Pascal",
+    "SI units"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Newton per metre squared (N/m\u00b2) or Pascal (Pa)",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Kilogram per metre squared (kg/m\u00b2)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Newton per metre (N/m)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Joule per metre squared (J/m\u00b2)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) Newton per metre squared (N/m\u00b2) or Pascal (Pa)",
+  "explanation": "Pressure is measured in Pascals (Pa), which is equivalent to Newtons per square metre (N/m\u00b2). This is the standard SI unit for pressure in physics.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "06f6409c-358e-4d14-8e1c-ac3325a3ab3d",
+  "scraped_at": "2026-04-05T00:39:15.034487",
+  "classified_at": "2026-04-05T00:39:15.034487",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

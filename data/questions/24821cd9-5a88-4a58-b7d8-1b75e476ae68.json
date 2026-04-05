@@ -1,0 +1,45 @@
+{
+  "question_text": "A hospital uses a type of electromagnetic radiation to treat cancer tumours. This radiation is absorbed by cancer cells and damages their DNA. Which type of electromagnetic radiation is being used?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "uses of EM spectrum",
+    "medical applications",
+    "dangers"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Infrared radiation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gamma radiation",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Microwave radiation",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Radio waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) Gamma radiation",
+  "explanation": "Gamma radiation is the most energetic and penetrating type of electromagnetic radiation, making it suitable for treating cancer deep within the body. Infrared is used for heat, microwaves for cooking, and radio waves for communication.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "24821cd9-5a88-4a58-b7d8-1b75e476ae68",
+  "scraped_at": "2026-04-05T00:40:04.032482",
+  "classified_at": "2026-04-05T00:40:04.032482",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

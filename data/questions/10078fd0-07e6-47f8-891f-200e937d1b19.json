@@ -1,0 +1,24 @@
+{
+  "question_text": "List the seven types of electromagnetic waves in order from longest wavelength to shortest wavelength.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "em_spectrum",
+    "wavelength",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays",
+  "explanation": "The electromagnetic spectrum is ordered by wavelength from longest to shortest. A helpful way to remember this is the phrase RRMIVUXG. All of these are types of electromagnetic radiation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "10078fd0-07e6-47f8-891f-200e937d1b19",
+  "scraped_at": "2026-04-05T00:39:59.602966",
+  "classified_at": "2026-04-05T00:39:59.602966",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "A person wearing snowshoes spreads their weight over a larger area compared to wearing ordinary boots. Both scenarios involve the same person applying the same downward force on snow. Which statement best explains why snowshoes prevent sinking into snow more effectively?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure concept",
+    "snowshoes",
+    "surface area"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Snowshoes reduce the force applied to the snow",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Snowshoes increase the area of contact, which decreases the pressure exerted on the snow",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Snowshoes make the snow colder and harder",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Snowshoes are heavier and push down less deeply",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Since pressure is calculated as P = F/A, when the area increases while force stays the same, the pressure decreases. Lower pressure means the snow is less compressed, so the person sinks less. This is why snowshoes work better than ordinary boots on snow.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "11a8c579-1469-405d-908a-ac30eb507011",
+  "scraped_at": "2026-04-05T00:39:19.578309",
+  "classified_at": "2026-04-05T00:39:19.578309",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

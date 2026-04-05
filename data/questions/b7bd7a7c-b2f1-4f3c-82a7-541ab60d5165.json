@@ -1,0 +1,25 @@
+{
+  "question_text": "Two students are debating the safety of different electromagnetic waves. Student A says ultraviolet (UV) light is more dangerous than visible light because it travels faster. Student B says UV light is more dangerous because it has higher frequency and energy. Which student is correct, and why? In your answer, explain what determines whether an electromagnetic wave is ionising or non-ionising.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "ultraviolet",
+    "ionising_vs_non_ionising",
+    "evaluation",
+    "frequency_energy_relationship"
+  ],
+  "options": null,
+  "correct_answer": "Student B is correct. All electromagnetic waves travel at the same speed (speed of light), so speed does not determine danger. UV light is ionising and dangerous because it has higher frequency than visible light, which means each photon carries more energy and can damage DNA in skin cells. An electromagnetic wave is ionising if it has enough energy to remove electrons from atoms; this depends on frequency, not speed.",
+  "explanation": "All EM waves travel at the same speed in a vacuum, so Student A's reasoning is incorrect. UV light's danger comes from its higher frequency and the energy that provides, allowing it to ionise atoms and break chemical bonds in DNA. Visible light photons do not have enough energy to ionise atoms, making it non-ionising and safer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b7bd7a7c-b2f1-4f3c-82a7-541ab60d5165",
+  "scraped_at": "2026-04-05T00:40:10.801926",
+  "classified_at": "2026-04-05T00:40:10.801926",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

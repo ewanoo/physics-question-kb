@@ -1,0 +1,46 @@
+{
+  "question_text": "Which of the following is the correct definition of pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "pressure",
+    "force",
+    "area"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of force applied to an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The force acting over a given area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object measured in Newtons",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which a force is applied",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) The force acting over a given area",
+  "explanation": "Pressure is defined as force divided by the area over which it acts. The other options describe different quantities like total force, weight, or speed, which are not pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cf395850-92ce-4f85-96a3-d77193c0b20b",
+  "scraped_at": "2026-04-05T00:39:15.034487",
+  "classified_at": "2026-04-05T00:39:15.034487",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

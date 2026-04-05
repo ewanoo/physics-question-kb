@@ -1,0 +1,24 @@
+{
+  "question_text": "A planet has a gravitational field strength of 3.7 N/kg. An astronaut has a mass of 80 kg. Calculate the weight of the astronaut on this planet.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weight calculation",
+    "gravitational field strength",
+    "force"
+  ],
+  "options": null,
+  "correct_answer": "296 N",
+  "explanation": "Weight is calculated using the formula W = m \u00d7 g, where m is mass in kg and g is gravitational field strength in N/kg. So 80 kg \u00d7 3.7 N/kg = 296 N. This is the gravitational force pulling the astronaut downwards on that planet.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "97ea7826-2670-4a1a-9e21-ebcc3ad5d448",
+  "scraped_at": "2026-04-05T00:38:19.326130",
+  "classified_at": "2026-04-05T00:38:19.326130",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

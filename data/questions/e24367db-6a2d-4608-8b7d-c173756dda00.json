@@ -1,0 +1,45 @@
+{
+  "question_text": "What is a moment in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "definition",
+    "moment",
+    "turning effect"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The turning effect of a force around a pivot",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The speed at which an object moves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The amount of force needed to lift an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The distance an object travels in one second",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) The turning effect of a force around a pivot",
+  "explanation": "A moment is the turning effect produced when a force acts on an object at a distance from a pivot point. It makes things rotate or turn around a fixed point, like a seesaw turning around its centre.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e24367db-6a2d-4608-8b7d-c173756dda00",
+  "scraped_at": "2026-04-05T00:39:01.023432",
+  "classified_at": "2026-04-05T00:39:01.023432",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

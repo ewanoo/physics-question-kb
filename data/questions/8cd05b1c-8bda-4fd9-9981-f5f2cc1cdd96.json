@@ -1,0 +1,24 @@
+{
+  "question_text": "A satellite orbits Earth at a height where the gravitational field strength is 5 N/kg. The satellite has a mass of 2000 kg. Calculate the gravitational force on the satellite, then explain why this force does not pull the satellite towards Earth even though it is constantly being pulled downwards.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "orbital_motion",
+    "gravitational_force",
+    "weight_calculation"
+  ],
+  "options": null,
+  "correct_answer": "10000 N (or 10 kN). The satellite does not fall towards Earth because it is moving sideways at exactly the right speed; the gravitational force continuously pulls it towards Earth, but this changes the direction of its motion rather than increasing its downward speed, causing it to orbit.",
+  "explanation": "Weight = mass \u00d7 gravitational field strength = 2000 \u00d7 5 = 10000 N. The key to understanding orbits at Year 8 is recognising that gravity changes the satellite's direction of motion (making it curve) rather than speeding it up or slowing it down, which keeps it in a circular path around Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8cd05b1c-8bda-4fd9-9981-f5f2cc1cdd96",
+  "scraped_at": "2026-04-05T00:38:25.058610",
+  "classified_at": "2026-04-05T00:38:25.058610",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

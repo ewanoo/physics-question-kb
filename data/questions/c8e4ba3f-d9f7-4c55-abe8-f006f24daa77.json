@@ -1,0 +1,24 @@
+{
+  "question_text": "Mercury orbits the Sun much faster than Earth. Using ideas about gravitational force and orbital speed, explain why a planet closer to the Sun must travel faster in its orbit than a planet farther away. Consider both the strength of the Sun's pull and the distance the planet must travel around its orbit.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital mechanics",
+    "gravitational force",
+    "comparative reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Mercury experiences stronger gravitational pull from the Sun because it is closer, so it needs to move faster to avoid falling into the Sun. Although Mercury's orbit is smaller (shorter distance to travel), the increased gravitational force means it must orbit faster than Earth to maintain a stable orbit.",
+  "explanation": "Year 8 students should recognise that gravitational force increases as distance decreases, and that faster orbital speed is needed closer to the Sun to balance the stronger pull. This combines understanding of gravity, circular motion, and the balance of forces.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c8e4ba3f-d9f7-4c55-abe8-f006f24daa77",
+  "scraped_at": "2026-04-05T00:39:56.023305",
+  "classified_at": "2026-04-05T00:39:56.023305",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "question_text": "A lightning strike occurs when negative charge in a cloud is attracted to positive charge induced on the ground. Which of the following best explains why a tall building with a lightning conductor is safer than one without?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "lightning",
+    "earthing",
+    "practical applications",
+    "safety"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The lightning conductor attracts the lightning strike and safely conducts the charge into the Earth, preventing damage to the building.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The lightning conductor prevents clouds from building up any electrical charge in the first place.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The lightning conductor reflects the lightning back into the sky so it cannot reach the ground.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The lightning conductor produces a magnetic field that repels negative charges from the cloud.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A) The lightning conductor attracts the lightning strike and safely conducts the charge into the Earth, preventing damage to the building.",
+  "explanation": "A lightning conductor provides a safe path of low electrical resistance for the huge discharge of static charge to flow to Earth. This protects the building by directing the lightning away from people, wiring, and structures. The conductor is grounded (earthed) so charge flows harmlessly into the Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "27d624b1-ac00-4b81-97f3-f229ce27fdea",
+  "scraped_at": "2026-04-05T00:38:34.040975",
+  "classified_at": "2026-04-05T00:38:34.040975",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A student has a mass of 50 kg. Calculate the weight of the student on Earth, where gravitational field strength g = 10 N/kg.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field strength",
+    "W=mg"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "Weight is calculated using the formula W = mg, where m is mass in kg and g is gravitational field strength in N/kg. So W = 50 \u00d7 10 = 500 N. Weight is measured in newtons and tells us how hard gravity is pulling on an object.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "54468cf6-34c2-47cc-a9dd-9711e1d66189",
+  "scraped_at": "2026-04-05T00:38:14.960454",
+  "classified_at": "2026-04-05T00:38:14.960454",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}

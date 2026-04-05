@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following appliances has the highest power rating?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "watts",
+    "appliances"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "An LED light bulb rated at 10 W",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A kettle rated at 3000 W",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A mobile phone charger rated at 20 W",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A laptop computer rated at 65 W",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B) A kettle rated at 3000 W",
+  "explanation": "Power is measured in watts (W). The higher the watt number, the more power an appliance uses. A kettle at 3000 W uses much more power than the other appliances, which is why it heats water so quickly.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1a0eda88-5b42-45d3-a152-3334ba8a845b",
+  "scraped_at": "2026-04-05T00:38:44.231672",
+  "classified_at": "2026-04-05T00:38:44.231672",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "source_url": null,
+  "raw_html": null
+}
