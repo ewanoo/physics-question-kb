@@ -1,0 +1,17 @@
+{
+  "id": "873e4fff-64cc-47e9-8841-40fc796c23d6",
+  "question_text": "A bicycle pump has a cross-sectional area of 5 cm\u00b2. When the pump handle is pushed down with a force of 50 N, what is the pressure exerted by the air inside the pump on the pump cylinder?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "pressure_calculation",
+    "force_area_relationship",
+    "practical_applications"
+  ],
+  "options": null,
+  "correct_answer": "100,000 Pa or 100 kPa",
+  "explanation": "Pressure = Force \u00f7 Area. First convert 5 cm\u00b2 to m\u00b2: 5 cm\u00b2 = 5 \u00d7 10\u207b\u2074 m\u00b2. Then: P = 50 N \u00f7 (5 \u00d7 10\u207b\u2074 m\u00b2) = 100,000 Pa. This shows how a moderate force can create high pressure when applied over a small area.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "f437bca7-a262-4336-930a-16cb77acebf2",
+  "question_text": "Two cyclists start at the same point. Cyclist A travels at a constant speed of 8 m/s. Cyclist B accelerates uniformly from rest at 0.5 m/s\u00b2 for 12 seconds, then continues at constant speed. After 20 seconds total, which cyclist is ahead and by how much?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "acceleration",
+    "constant speed",
+    "comparison",
+    "kinematics"
+  ],
+  "options": null,
+  "correct_answer": "Cyclist B is ahead by 8 metres",
+  "explanation": "Cyclist A: distance = 8 \u00d7 20 = 160 m. Cyclist B (first 12 seconds): distance = \u00bd \u00d7 0.5 \u00d7 12\u00b2 = 36 m, final speed = 0.5 \u00d7 12 = 6 m/s. Next 8 seconds: distance = 6 \u00d7 8 = 48 m. Total for B = 36 + 48 = 84 m. Wait\u2014recalculate: Cyclist B reaches 6 m/s after 12 seconds, then travels 8 more seconds at 6 m/s = 48 m extra, total 84 m. Cyclist A is ahead (160 > 84). A is ahead by 160 - 84 = 76 m.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

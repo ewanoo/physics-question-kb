@@ -1,0 +1,18 @@
+{
+  "id": "25190e38-318d-4f70-9369-94f676e7d789",
+  "question_text": "A wind turbine generates 500 kW of electrical power. How much energy does it produce in 2 hours?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "energy",
+    "power",
+    "calculation",
+    "renewable"
+  ],
+  "options": null,
+  "correct_answer": "1000 kWh or 3,600,000 kJ",
+  "explanation": "Energy = Power \u00d7 Time. With power = 500 kW and time = 2 hours, energy = 500 \u00d7 2 = 1000 kWh. You can also convert to joules: 1000 kWh = 1,000,000 Wh = 3,600,000 kJ (since 1 Wh = 3600 J).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "28f92276-1266-4661-be70-8ec031bd0afa",
+  "question_text": "A drum produces a sound wave with a frequency of 80 Hz. What is the period of this sound wave?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "period",
+    "frequency",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.0125 s or 1/80 s",
+  "explanation": "Period and frequency are linked by the equation: period = 1 \u00f7 frequency. So period = 1 \u00f7 80 = 0.0125 seconds. This means the drum surface completes one complete vibration every 0.0125 seconds.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ab4592da-3fb6-47ae-8c39-7fae5a81d962",
+  "question_text": "A car's journey consists of three stages: (1) accelerating uniformly from rest to 20 m/s in 10 seconds, (2) maintaining constant speed for 15 seconds, and (3) decelerating uniformly to rest over 20 metres. Which statement about the car's motion is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "acceleration",
+    "deceleration",
+    "analysis",
+    "kinematics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The deceleration phase takes 2 seconds",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The total distance travelled is exactly 500 metres",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The acceleration phase covers more distance than the constant speed phase",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The average speed throughout the journey is 15 m/s",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Stage 1: s = \u00bdat\u00b2 = \u00bd \u00d7 2 \u00d7 10\u00b2 = 100 m (acceleration = 20\u00f710 = 2 m/s\u00b2). Stage 2: s = 20 \u00d7 15 = 300 m. Stage 3: Using v\u00b2 = u\u00b2 + 2as: 0 = 400 + 2a(20), so a = -10 m/s\u00b2; time = (0-20)\u00f7(-10) = 2 seconds. Total distance = 420 m; total time = 27 s; average speed \u2248 15.6 m/s. Option A is correct.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

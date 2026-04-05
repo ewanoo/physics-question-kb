@@ -1,0 +1,38 @@
+{
+  "id": "452630d4-6246-4faa-a454-df7bb7d425a3",
+  "question_text": "Which statement correctly describes the relationship between frequency and pitch?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "pitch",
+    "perception"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Higher frequency sounds have a lower pitch",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Frequency and pitch are not related",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Higher frequency sounds have a higher pitch",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Pitch is measured in metres per second",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Pitch is how high or low a sound seems to our ears. Higher frequency waves vibrate more times per second, which our ears perceive as a higher-pitched sound. Lower frequencies sound lower-pitched.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

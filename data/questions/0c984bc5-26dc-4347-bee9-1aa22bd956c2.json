@@ -1,0 +1,17 @@
+{
+  "id": "0c984bc5-26dc-4347-bee9-1aa22bd956c2",
+  "question_text": "A balloon is heated. Explain what happens to the gas pressure inside the balloon and why.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "particle motion"
+  ],
+  "options": null,
+  "correct_answer": "The pressure increases. When heated, the gas particles move faster and collide with the balloon walls more frequently and with greater force.",
+  "explanation": "Heating a gas gives its particles more energy, making them move faster. Faster-moving particles hit the container walls more often and harder, which increases the pressure they exert.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c560d949-ca0d-47d2-b070-f12f3c8168a2",
+  "question_text": "A light ray hits a plane mirror at an angle of incidence of 35\u00b0. The mirror is then rotated by 15\u00b0. Explain how this rotation affects both the angle of incidence and the angle of reflection, and predict the new angle of reflection.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "plane mirror",
+    "angle of incidence",
+    "angle of reflection"
+  ],
+  "options": null,
+  "correct_answer": "When the mirror rotates by 15\u00b0, the angle of incidence increases to 50\u00b0 (35\u00b0 + 15\u00b0). By the law of reflection, the angle of reflection must also equal 50\u00b0. The reflected ray rotates by twice the mirror rotation angle (30\u00b0 total).",
+  "explanation": "The angle of incidence is measured from the normal (a line perpendicular to the mirror). When the mirror rotates, the normal rotates too, so the angle of incidence changes by the same amount as the mirror rotation. Since angle of incidence always equals angle of reflection, the reflection angle also increases by 15\u00b0 to 50\u00b0.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

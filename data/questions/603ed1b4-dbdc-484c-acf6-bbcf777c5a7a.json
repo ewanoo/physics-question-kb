@@ -1,0 +1,39 @@
+{
+  "id": "603ed1b4-dbdc-484c-acf6-bbcf777c5a7a",
+  "question_text": "A block of ice at 0\u00b0C is heated. Which statement correctly describes what happens during melting?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "phase change",
+    "temperature",
+    "states of matter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The temperature increases continuously as the ice melts",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The temperature stays at 0\u00b0C while the ice melts to water",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The ice immediately turns to steam without becoming water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The temperature decreases while the ice melts",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "During a phase change like melting, the temperature remains constant even though heat energy is being added. This is because the energy goes into breaking the bonds holding the solid structure together, not into increasing particle movement.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

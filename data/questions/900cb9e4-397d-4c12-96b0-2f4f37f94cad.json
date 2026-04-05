@@ -1,0 +1,18 @@
+{
+  "id": "900cb9e4-397d-4c12-96b0-2f4f37f94cad",
+  "question_text": "Compare and evaluate why mountain climbers experience difficulty breathing at high altitudes, even though the composition of air (oxygen percentage) remains the same at 8,000 metres as it is at sea level.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric_pressure",
+    "altitude_effects",
+    "comparative_reasoning",
+    "gas_molecules"
+  ],
+  "options": null,
+  "correct_answer": "At high altitudes, atmospheric pressure is much lower than at sea level. Although the percentage of oxygen in air is the same, there are fewer air molecules overall in each breath because they are more spread out. This means fewer oxygen molecules enter the lungs, reducing oxygen available for the body. The lower pressure also makes it harder for oxygen to diffuse into the bloodstream.",
+  "explanation": "Lower atmospheric pressure means lower density of gas molecules. Even though air has the same composition, there's physically less oxygen available per breath due to fewer molecules in the same volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

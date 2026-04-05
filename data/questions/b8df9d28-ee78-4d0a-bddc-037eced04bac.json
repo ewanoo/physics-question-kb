@@ -1,0 +1,18 @@
+{
+  "id": "b8df9d28-ee78-4d0a-bddc-037eced04bac",
+  "question_text": "Name two non-contact forces and explain why they are called 'non-contact' forces.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "non_contact_forces",
+    "force_classification",
+    "gravity",
+    "magnetism"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: gravitational force, magnetic force, electric force. They are called non-contact forces because they can act on objects without the objects physically touching each other.",
+  "explanation": "Non-contact forces work at a distance through invisible fields around objects. For example, gravity pulls on objects without touching them, and magnets can attract iron from a distance.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

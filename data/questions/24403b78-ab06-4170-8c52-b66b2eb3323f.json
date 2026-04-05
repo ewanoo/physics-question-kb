@@ -1,0 +1,18 @@
+{
+  "id": "24403b78-ab06-4170-8c52-b66b2eb3323f",
+  "question_text": "Explain why the amplitude of a wave does not affect its frequency, and describe what would happen to the frequency if the source of the wave was vibrating twice as fast.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "amplitude",
+    "source",
+    "wave properties"
+  ],
+  "options": null,
+  "correct_answer": "Amplitude does not affect frequency because frequency is determined solely by how fast the source vibrates, not how far it vibrates. If the source vibrates twice as fast, the frequency would double, because the source creates more wave cycles per second.",
+  "explanation": "Frequency counts how many complete waves are made per second\u2014this depends only on the source's vibration rate. Amplitude measures how tall the waves are\u2014this is independent of frequency. A source vibrating faster produces more waves in the same time, directly increasing frequency.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

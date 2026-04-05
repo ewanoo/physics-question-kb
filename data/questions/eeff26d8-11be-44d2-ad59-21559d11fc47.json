@@ -1,0 +1,18 @@
+{
+  "id": "eeff26d8-11be-44d2-ad59-21559d11fc47",
+  "question_text": "A gas has a pressure of 80 kPa when its volume is 500 cm\u00b3. If the volume is reduced to 250 cm\u00b3 at constant temperature, what is the new pressure?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "volume",
+    "Boyle's Law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "160 kPa. Using Boyle's Law (P\u2081V\u2081 = P\u2082V\u2082): 80 \u00d7 500 = P\u2082 \u00d7 250, so P\u2082 = 40,000/250 = 160 kPa",
+  "explanation": "When temperature is constant, pressure and volume are inversely proportional. Halving the volume doubles the pressure because the same number of gas particles now occupy half the space.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

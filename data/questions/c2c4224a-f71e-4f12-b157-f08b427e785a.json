@@ -1,0 +1,39 @@
+{
+  "id": "c2c4224a-f71e-4f12-b157-f08b427e785a",
+  "question_text": "Which of the following scenarios involves the greatest acceleration?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "acceleration",
+    "comparison",
+    "calculation",
+    "kinematics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A car increasing speed from 10 m/s to 20 m/s in 4 seconds",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A ball thrown upwards, slowing from 25 m/s to 5 m/s in 2 seconds",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A cyclist accelerating from rest to 12 m/s over a distance of 60 metres",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A train uniformly accelerating at 0.8 m/s\u00b2 for 15 seconds",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A: a = (20-10)\u00f74 = 2.5 m/s\u00b2. B: a = (5-25)\u00f72 = -10 m/s\u00b2 (magnitude = 10 m/s\u00b2). C: Using v\u00b2 = u\u00b2 + 2as: 144 = 0 + 2a(60); a = 1.2 m/s\u00b2. D: a = 0.8 m/s\u00b2. Option B has the greatest magnitude of acceleration (10 m/s\u00b2).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "7165c560-c4b8-466a-9931-ad926bf3b989",
+  "question_text": "A student observes that when white light passes through a triangular glass prism, it splits into different colours. The red light bends less than the violet light. Explain why different colours of light bend by different amounts when passing through the same material.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "prism",
+    "wavelength",
+    "light properties"
+  ],
+  "options": null,
+  "correct_answer": "Different colours of light have different wavelengths. Violet light has a shorter wavelength than red light. The glass slows down shorter wavelengths more than longer wavelengths, causing violet light to refract (bend) more than red light.",
+  "explanation": "When light enters a denser material like glass, shorter wavelengths interact more strongly with the material's particles and slow down more, causing greater bending. Red light bends less because its longer wavelength is affected less by the glass.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

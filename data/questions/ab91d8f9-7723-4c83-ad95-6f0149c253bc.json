@@ -1,0 +1,18 @@
+{
+  "id": "ab91d8f9-7723-4c83-ad95-6f0149c253bc",
+  "question_text": "A car travels 240 metres in 12 seconds at a constant speed. It then decelerates uniformly over 8 seconds and comes to a complete stop. What is the average speed of the car over the entire journey?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "multi-step",
+    "deceleration",
+    "distance-time"
+  ],
+  "options": null,
+  "correct_answer": "13.3 m/s (or 40/3 m/s)",
+  "explanation": "First, find the initial speed: 240 \u00f7 12 = 20 m/s. During deceleration, the car slows from 20 m/s to 0 m/s uniformly, so average speed during this phase is 10 m/s. Distance covered while decelerating: 10 \u00d7 8 = 80 m. Total distance: 240 + 80 = 320 m; total time: 12 + 8 = 20 s. Average speed = 320 \u00f7 20 = 16 m/s.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

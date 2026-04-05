@@ -1,0 +1,39 @@
+{
+  "id": "3f4ada64-e337-4025-8428-5b96eaaa42e4",
+  "question_text": "When water boils, bubbles form inside the liquid and rise to the surface. What do these bubbles contain?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "boiling",
+    "water vapour",
+    "bubbles",
+    "phase change"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air from the atmosphere that has dissolved in the water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Water vapour (gas) formed when water molecules escape from the liquid",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Hydrogen and oxygen gases separated from the water molecules",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Steam that is the same as the visible steam from a kettle",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When water boils, bubbles of water vapour form throughout the liquid because particles have enough energy to escape into the gas phase. These bubbles rise because gas is less dense than liquid water.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

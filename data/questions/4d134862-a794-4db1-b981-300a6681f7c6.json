@@ -1,0 +1,18 @@
+{
+  "id": "4d134862-a794-4db1-b981-300a6681f7c6",
+  "question_text": "A loudspeaker produces a sound wave with a frequency of 250 Hz. If the wavelength is 1.32 m, calculate the speed of sound in the material the wave is travelling through.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "speed of sound",
+    "frequency",
+    "wavelength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "330 m/s",
+  "explanation": "Use the wave equation: speed = frequency \u00d7 wavelength = 250 \u00d7 1.32 = 330 m/s. This is the speed of sound in air at room temperature, showing how frequency and wavelength together determine how fast a wave travels.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

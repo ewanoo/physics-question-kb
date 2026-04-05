@@ -1,0 +1,17 @@
+{
+  "id": "d3b77c4c-67e8-48c9-9095-9cd632de3784",
+  "question_text": "A runner's speed changes as shown in the table below. Calculate the total distance covered and determine the average speed for the entire 30-second run.\n\nTime (s): 0-10, Speed (m/s): 5\nTime (s): 10-20, Speed (m/s): 8\nTime (s): 20-30, Speed (m/s): 3",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "multi-stage motion",
+    "distance calculation"
+  ],
+  "options": null,
+  "correct_answer": "Total distance: 180 m; Average speed: 6 m/s",
+  "explanation": "Distance = speed \u00d7 time for each stage: Stage 1: 5 \u00d7 10 = 50 m; Stage 2: 8 \u00d7 10 = 80 m; Stage 3: 3 \u00d7 10 = 30 m. Total distance = 50 + 80 + 30 = 160 m. Average speed = total distance \u00f7 total time = 160 \u00f7 30 = 5.33 m/s (or 16/3 m/s).",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

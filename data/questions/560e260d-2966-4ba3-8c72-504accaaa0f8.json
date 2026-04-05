@@ -1,0 +1,18 @@
+{
+  "id": "560e260d-2966-4ba3-8c72-504accaaa0f8",
+  "question_text": "A student observes that when a wave enters a new medium, both its speed and wavelength change, but something remains constant. Explain which property of the wave must remain unchanged and why.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "wavelength",
+    "wave speed",
+    "medium change"
+  ],
+  "options": null,
+  "correct_answer": "Frequency remains constant. The frequency depends only on the source of the wave, not on the medium it travels through. When a wave changes medium, the speed changes due to the different properties of the medium, and wavelength adjusts accordingly (\u03bb = v/f) to keep frequency constant.",
+  "explanation": "Frequency is determined by what creates the wave (the source), so it doesn't change when entering a new medium. The speed changes because different materials affect how fast waves travel. Since v = f \u00d7 \u03bb, if v changes and f stays the same, then \u03bb must change too.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

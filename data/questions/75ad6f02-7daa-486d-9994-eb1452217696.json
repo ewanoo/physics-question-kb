@@ -1,0 +1,18 @@
+{
+  "id": "75ad6f02-7daa-486d-9994-eb1452217696",
+  "question_text": "A bicycle pump compresses air from atmospheric pressure (101 kPa) into a tyre. The pump has a volume of 200 cm\u00b3 and the tyre has a volume of 2000 cm\u00b3. Approximately how much pressure is added to the tyre with one pump stroke (assuming constant temperature)?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "compression",
+    "application",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 10 kPa (or 9-11 kPa acceptable). The pump volume of 200 cm\u00b3 is added to the tyre volume of 2000 cm\u00b3. Using Boyle's Law: 101 \u00d7 200 = P \u00d7 2000, so P \u2248 10 kPa increase",
+  "explanation": "When the pump empties into the tyre, the air from the pump (at atmospheric pressure) mixes with the air already in the tyre. The calculation shows that one pump stroke adds only about 10 kPa, which is why many strokes are needed to fully inflate a tyre.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

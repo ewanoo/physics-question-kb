@@ -1,0 +1,38 @@
+{
+  "id": "817d0196-cbf8-497a-ba54-c0673680af82",
+  "question_text": "A person pushes a shopping trolley with a force of 50 N. What is the reaction force, according to Newton's Third Law?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "newtons_third_law",
+    "action_reaction",
+    "force_pairs"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "50 N in the same direction as the push",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "50 N in the opposite direction, exerted by the trolley on the person",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "0 N because the trolley is being pushed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "More than 50 N in the opposite direction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Newton's Third Law states that forces always come in equal and opposite pairs. When the person pushes the trolley with 50 N, the trolley pushes back on the person with 50 N in the opposite direction.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

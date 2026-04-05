@@ -1,0 +1,17 @@
+{
+  "id": "a39d4962-e3bc-49d7-912b-323c2062214e",
+  "question_text": "Why does a football lose pressure over time even though it is sealed and not punctured?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "diffusion",
+    "permeability"
+  ],
+  "options": null,
+  "correct_answer": "Some gas molecules gradually diffuse through the rubber material of the ball, escaping to the outside where the pressure is lower. This reduces the number of gas particles inside.",
+  "explanation": "Even though the ball appears sealed, gas molecules can slowly pass through the rubber material in a process called diffusion. Over time, more molecules escape than enter, gradually reducing the internal pressure.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

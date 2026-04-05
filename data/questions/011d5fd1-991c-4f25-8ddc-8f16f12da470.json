@@ -1,0 +1,38 @@
+{
+  "id": "011d5fd1-991c-4f25-8ddc-8f16f12da470",
+  "question_text": "Which of the following is a renewable energy resource?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "non-renewable",
+    "classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Natural gas",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Solar energy",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Uranium",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Solar energy comes from the Sun, which will continue to shine for billions of years, making it renewable. Coal, natural gas, and uranium are non-renewable because they take millions of years to form and will eventually run out.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

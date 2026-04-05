@@ -1,0 +1,18 @@
+{
+  "id": "4c22ad5d-e1fd-4d71-87a1-adda3799b722",
+  "question_text": "A ripple tank shows water waves with a frequency of 4 Hz and wavelength of 0.5 m. A barrier is then placed in the tank, forcing the same waves to travel through a shallow section. In the shallow section, the wave speed becomes 1.5 m/s. Calculate the new wavelength in the shallow water.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "wave speed",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.375 m",
+  "explanation": "First, identify that frequency stays constant at 4 Hz (determined by the wave source). Use the wave equation v = f \u00d7 \u03bb to find the new wavelength: \u03bb = v/f = 1.5 m/s \u00f7 4 Hz = 0.375 m. The wavelength decreases in shallow water because the wave speed decreased while frequency remained constant.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "be988df6-49e6-4f73-8327-3f2719a20185",
+  "question_text": "Which of the following best describes why fossil fuels are non-renewable?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "non-renewable",
+    "fossil fuels",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They are expensive to extract",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They take millions of years to form and we use them faster than they can be replaced",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They cause pollution when burned",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They are only found in certain countries",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Fossil fuels form over millions of years, but humans use them much faster than nature can replace them. Once burned, they are gone forever, which is why they are non-renewable. Pollution and location are separate issues.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

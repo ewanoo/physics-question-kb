@@ -1,0 +1,18 @@
+{
+  "id": "fbc1d2b5-e3b0-4944-a7c0-82adbd894cd1",
+  "question_text": "Why does rubbing your hands together quickly cause them to heat up?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "heat",
+    "energy",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "The friction between your hands converts kinetic energy into thermal energy (heat).",
+  "explanation": "When surfaces rub together, friction opposes the motion and converts the energy of that motion into heat. This is why moving objects slow down and warm up when friction acts on them.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

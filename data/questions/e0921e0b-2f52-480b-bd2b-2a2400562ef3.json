@@ -1,0 +1,18 @@
+{
+  "id": "e0921e0b-2f52-480b-bd2b-2a2400562ef3",
+  "question_text": "Why is it important that springs obey Hooke's Law within their elastic limit, and what would happen if a spring were stretched beyond this limit?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "hooke's law",
+    "elastic limit",
+    "permanent deformation",
+    "predictability"
+  ],
+  "options": null,
+  "correct_answer": "Within the elastic limit, springs return to their original shape because the deformation is reversible and forces are predictable (F = kx). Beyond the elastic limit, the material permanently deforms and no longer obeys Hooke's Law; the spring cannot return to its original length even when the force is removed.",
+  "explanation": "When a spring stays within its elastic limit, it behaves predictably and can be used reliably in devices. Once stretched beyond this limit, the material changes permanently and loses its spring properties, making it useless.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

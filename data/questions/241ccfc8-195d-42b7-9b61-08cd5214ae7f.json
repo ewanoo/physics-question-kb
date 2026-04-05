@@ -1,0 +1,39 @@
+{
+  "id": "241ccfc8-195d-42b7-9b61-08cd5214ae7f",
+  "question_text": "A scientist has two identical containers. Container A holds hydrogen gas and Container B holds oxygen gas, both at the same temperature and pressure. Which statement is correct and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "avogadro's_law",
+    "gas_laws",
+    "molecular_reasoning",
+    "comparative_analysis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Container B has more gas molecules because oxygen is heavier",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Container A has more gas molecules because hydrogen is lighter",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both containers have the same number of gas molecules because they are at the same temperature and pressure",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Container A has fewer gas molecules because hydrogen molecules are smaller",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Avogadro's Law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules, regardless of the type of gas or its molecular mass. This is a fundamental principle of gas behaviour.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

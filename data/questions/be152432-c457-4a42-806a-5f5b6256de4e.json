@@ -1,0 +1,18 @@
+{
+  "id": "be152432-c457-4a42-806a-5f5b6256de4e",
+  "question_text": "A spring stretches 3 cm when a 6 N force is applied. A second, identical spring is added in series with the first. If a 6 N force is now applied to the combination, what is the total extension of both springs together?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "springs in series",
+    "spring constant",
+    "hooke's law",
+    "combined springs"
+  ],
+  "options": null,
+  "correct_answer": "6 cm",
+  "explanation": "Each spring has spring constant k = 6 N \u00f7 0.03 m = 200 N/m. When springs are in series, they both experience the same 6 N force. Each extends by 3 cm under this force, so the total extension is 3 cm + 3 cm = 6 cm.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

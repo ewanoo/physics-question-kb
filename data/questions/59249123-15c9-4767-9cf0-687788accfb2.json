@@ -1,0 +1,38 @@
+{
+  "id": "59249123-15c9-4767-9cf0-687788accfb2",
+  "question_text": "Which type of force is responsible for a ball rolling along the ground eventually slowing down and stopping?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "friction",
+    "contact_forces",
+    "motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Friction (contact force)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Air resistance only, not friction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction is a contact force that opposes motion between surfaces. The rolling ball experiences friction from the ground, which acts against its motion and causes it to decelerate until it stops.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

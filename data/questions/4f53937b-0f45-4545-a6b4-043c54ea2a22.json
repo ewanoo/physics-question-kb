@@ -1,0 +1,18 @@
+{
+  "id": "4f53937b-0f45-4545-a6b4-043c54ea2a22",
+  "question_text": "Two students measure the same sound wave. Student A measures the distance between consecutive compressions as 0.8 m. Student B measures the time between successive compressions passing a fixed point as 0.002 seconds. Which calculation correctly finds the wave speed, and what is it?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "wave speed",
+    "sound waves"
+  ],
+  "options": null,
+  "correct_answer": "Wave speed = 400 m/s. Student A measured wavelength (0.8 m), Student B measured period (0.002 s), so frequency = 1/T = 1/0.002 = 500 Hz. Then v = f \u00d7 \u03bb = 500 \u00d7 0.8 = 400 m/s.",
+  "explanation": "This requires identifying that Student A's measurement is wavelength (distance between consecutive compressions) and Student B's measurement is period (time between compressions). You must convert period to frequency using f = 1/T, then apply v = f \u00d7 \u03bb to find the wave speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

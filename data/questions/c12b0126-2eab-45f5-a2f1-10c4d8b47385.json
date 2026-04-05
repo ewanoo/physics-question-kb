@@ -1,0 +1,17 @@
+{
+  "id": "c12b0126-2eab-45f5-a2f1-10c4d8b47385",
+  "question_text": "What does 'fossil fuel' mean?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "definitions",
+    "non-renewable"
+  ],
+  "options": null,
+  "correct_answer": "A fossil fuel is a fuel formed from the remains of plants and animals that died millions of years ago, such as coal, oil, or natural gas.",
+  "explanation": "Fossil fuels are created over very long time periods from dead organisms that were buried deep underground and exposed to heat and pressure. Examples include coal (from ancient plants), oil and natural gas (from sea creatures).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

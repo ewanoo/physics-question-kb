@@ -1,0 +1,38 @@
+{
+  "id": "ab9f0dd9-c425-4f8a-946c-dcf1b90ae2c4",
+  "question_text": "Which energy resource is produced by moving water in rivers or dams?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "hydroelectric",
+    "water power"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Geothermal energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Hydroelectric energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Tidal energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Biomass energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Hydroelectric energy uses the movement and force of water in rivers and dams to turn turbines and generate electricity. It is renewable because water continually cycles through the water cycle.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

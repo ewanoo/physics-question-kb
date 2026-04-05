@@ -1,0 +1,17 @@
+{
+  "id": "815b8884-64d7-4cd1-9b8f-9cf1861ba9a2",
+  "question_text": "Explain why a bag of crisps is often partially filled with nitrogen gas rather than being completely full of crisps.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas_pressure_applications",
+    "practical_uses",
+    "particle_model"
+  ],
+  "options": null,
+  "correct_answer": "Nitrogen gas cushions the crisps and prevents them from being crushed. The gas pressure from the nitrogen helps protect the crisps during transport and storage by distributing any compression forces. Additionally, nitrogen prevents oxidation that would make the crisps stale.",
+  "explanation": "This is a practical application of gas pressure. The nitrogen gas provides a protective cushion that absorbs impacts and prevents physical damage, while also creating pressure that helps preserve the product quality.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

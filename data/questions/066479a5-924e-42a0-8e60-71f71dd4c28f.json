@@ -1,0 +1,17 @@
+{
+  "id": "066479a5-924e-42a0-8e60-71f71dd4c28f",
+  "question_text": "Calculate the density of a block of material that has a mass of 240 g and a volume of 30 cm\u00b3.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "density",
+    "calculation",
+    "properties of matter"
+  ],
+  "options": null,
+  "correct_answer": "8 g/cm\u00b3",
+  "explanation": "Density is calculated using the formula: density = mass \u00f7 volume. Substituting the values: 240 g \u00f7 30 cm\u00b3 = 8 g/cm\u00b3. This density is similar to that of copper, a metal.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4ddba74c-f7bd-4bf9-9fab-aa7fe6dabd18",
+  "question_text": "A student investigates how the elastic potential energy stored in a spring changes with extension. She finds that when a spring is extended by 2 cm, it stores 0.04 J of energy. If the spring is then extended to 4 cm, how much elastic potential energy would it store?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic potential energy",
+    "hooke's law",
+    "energy storage",
+    "quadratic relationship"
+  ],
+  "options": null,
+  "correct_answer": "0.16 J",
+  "explanation": "Elastic potential energy is given by E = \u00bdkx\u00b2. The energy is proportional to the square of the extension. When extension doubles from 2 cm to 4 cm, the energy increases by a factor of 4 (2\u00b2 = 4), so 0.04 J \u00d7 4 = 0.16 J.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

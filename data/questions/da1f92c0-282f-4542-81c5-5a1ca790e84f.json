@@ -1,0 +1,39 @@
+{
+  "id": "da1f92c0-282f-4542-81c5-5a1ca790e84f",
+  "question_text": "A transparent block has a critical angle of 42\u00b0 for total internal reflection at its surface with air. Which statement correctly compares this block with another block that has a critical angle of 35\u00b0?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "total internal reflection",
+    "critical angle",
+    "refractive index",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The block with a 42\u00b0 critical angle is optically denser and has a higher refractive index than the other block.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The block with a 35\u00b0 critical angle is optically denser and has a higher refractive index than the other block.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both blocks have the same refractive index because the critical angle doesn't depend on material properties.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The block with a 42\u00b0 critical angle allows more total internal reflection to occur because the angle is larger.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Critical angle and refractive index are related by sin(critical angle) = 1/n. A smaller critical angle means a larger refractive index (denser material). The block with 35\u00b0 has sin(35\u00b0) = 0.574, giving n \u2248 1.74, while the 42\u00b0 block has n \u2248 1.49. Higher refractive index means the material is optically denser.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

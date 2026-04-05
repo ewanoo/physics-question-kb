@@ -1,0 +1,17 @@
+{
+  "id": "b3871c65-848b-4f31-91db-a3b057006967",
+  "question_text": "A train accelerates uniformly from rest to 30 m/s over a distance of 450 metres. What is its acceleration?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "acceleration",
+    "kinematics",
+    "rearranging equations"
+  ],
+  "options": null,
+  "correct_answer": "1 m/s\u00b2",
+  "explanation": "Use the equation v\u00b2 = u\u00b2 + 2as, where v = 30 m/s, u = 0 m/s, s = 450 m. Rearranging: a = (v\u00b2 - u\u00b2) \u00f7 (2s) = (900 - 0) \u00f7 (2 \u00d7 450) = 900 \u00f7 900 = 1 m/s\u00b2.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

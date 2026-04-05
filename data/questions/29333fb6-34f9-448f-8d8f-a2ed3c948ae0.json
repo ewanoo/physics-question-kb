@@ -1,0 +1,17 @@
+{
+  "id": "29333fb6-34f9-448f-8d8f-a2ed3c948ae0",
+  "question_text": "A hydroelectric power station stores water in a reservoir. Why is water a good renewable energy resource?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "hydroelectric",
+    "water cycle"
+  ],
+  "options": null,
+  "correct_answer": "Water is renewable because it is continuously recycled through the water cycle (evaporation and rainfall), so it is naturally replenished.",
+  "explanation": "The water cycle means that water evaporates from oceans and lakes, falls as rain, and returns to reservoirs. This continuous cycle means water supplies can be replenished naturally, unlike fossil fuels.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

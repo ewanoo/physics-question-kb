@@ -1,0 +1,39 @@
+{
+  "id": "0c4eec25-fe7f-48ae-8231-e6d9ecbdceec",
+  "question_text": "A book is sliding across a wooden table. Which of the following best describes the friction force acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "forces",
+    "sliding",
+    "direction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It acts in the same direction as the book's motion",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It acts opposite to the direction of the book's motion",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It acts vertically upwards on the book",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It only acts when the book is stationary",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction always opposes motion, so it acts in the opposite direction to the way the book is sliding. This is why friction slows things down\u2014it pushes against the direction of movement.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "d318dcc3-6248-4156-874a-bc52e8233041",
+  "question_text": "Suggest one advantage and one disadvantage of using nuclear energy as an energy resource.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "nuclear",
+    "advantages",
+    "disadvantages"
+  ],
+  "options": null,
+  "correct_answer": "Advantage: produces large amounts of energy with very little fuel / produces no greenhouse gases. Disadvantage: produces radioactive waste / risk of accidents / expensive to build and decommission.",
+  "explanation": "Nuclear power is very efficient and doesn't produce carbon dioxide, but it creates dangerous radioactive waste that must be stored safely for thousands of years, and building nuclear plants is very expensive.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

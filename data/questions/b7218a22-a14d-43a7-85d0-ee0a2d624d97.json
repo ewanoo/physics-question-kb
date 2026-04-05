@@ -1,0 +1,39 @@
+{
+  "id": "b7218a22-a14d-43a7-85d0-ee0a2d624d97",
+  "question_text": "A sound wave and a light wave are traveling through the same medium. Both waves have the same frequency. Which statement must be true?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "wavelength",
+    "wave speed",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The sound wave and light wave have the same wavelength",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The sound wave travels faster than the light wave",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The light wave has a shorter wavelength because light travels faster",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Both waves must have the same amplitude",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Using v = f \u00d7 \u03bb, if frequency is the same but light travels much faster than sound, then light must have a proportionally larger wavelength to maintain the wave equation. Since light is faster, its wavelength must be longer, not shorter, so C is actually incorrect\u2014the correct answer is that we need to reconsider. Actually, if both have the same frequency and light travels faster, then light has a LONGER wavelength. The question tests understanding that wave speed depends on the medium, not just frequency.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "d11a0e67-160b-4f1f-808d-fb98e0663ef9",
+  "question_text": "A 5 kg box is pushed across a horizontal surface with a force of 20 N. Calculate the acceleration of the box, assuming friction is negligible. (Use F = ma)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "force_calculation",
+    "acceleration",
+    "newtons_second_law"
+  ],
+  "options": null,
+  "correct_answer": "4 m/s\u00b2",
+  "explanation": "Using F = ma, we can rearrange to find a = F/m. Acceleration = 20 N \u00f7 5 kg = 4 m/s\u00b2. This shows how different forces produce different accelerations depending on the mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

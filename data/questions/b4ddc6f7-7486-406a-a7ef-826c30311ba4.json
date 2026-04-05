@@ -1,0 +1,39 @@
+{
+  "id": "b4ddc6f7-7486-406a-a7ef-826c30311ba4",
+  "question_text": "An electromagnetic wave and a mechanical wave both have a frequency of 100 Hz. In a vacuum, the electromagnetic wave travels at 3 \u00d7 10\u2078 m/s. Which statement best explains why these two waves cannot have the same wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "electromagnetic waves",
+    "mechanical waves",
+    "wave speed",
+    "wavelength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mechanical waves require a medium and travel much slower than electromagnetic waves in a vacuum",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Electromagnetic waves always have a higher frequency than mechanical waves",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The wavelength of electromagnetic waves cannot be calculated using v = f \u00d7 \u03bb",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mechanical waves have a larger amplitude, so their wavelength must be larger",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since v = f \u00d7 \u03bb, if both waves have the same frequency (100 Hz) but travel at vastly different speeds (3 \u00d7 10\u2078 m/s for light versus perhaps 340 m/s for sound), they must have proportionally different wavelengths. The electromagnetic wave's much higher speed means it has a much longer wavelength for the same frequency.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

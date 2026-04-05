@@ -1,0 +1,38 @@
+{
+  "id": "347c177b-889d-4b21-9574-fdebc335c07d",
+  "question_text": "Which energy resource does NOT depend on the Sun for its energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "non-renewable",
+    "energy source"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wind energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Geothermal energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Solar energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Hydroelectric energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Geothermal energy comes from heat inside the Earth, not from the Sun. Wind is caused by uneven solar heating, solar energy comes directly from the Sun, and hydroelectric energy depends on the water cycle driven by solar energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

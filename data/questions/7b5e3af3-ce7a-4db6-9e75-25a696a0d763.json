@@ -1,0 +1,17 @@
+{
+  "id": "7b5e3af3-ce7a-4db6-9e75-25a696a0d763",
+  "question_text": "A piece of dry ice (solid carbon dioxide) at -78\u00b0C is left in a warm room. It gradually disappears without becoming a liquid. Name this process and explain why it occurs.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "sublimation",
+    "phase change",
+    "dry ice"
+  ],
+  "options": null,
+  "correct_answer": "This is sublimation. Dry ice sublimes because the solid structure has weak bonds, so particles can escape directly to the gas phase when heated without melting to a liquid first.",
+  "explanation": "Sublimation is the process where a solid turns directly into a gas without passing through the liquid phase. Dry ice has very weak intermolecular forces, making this transition possible at room temperature.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

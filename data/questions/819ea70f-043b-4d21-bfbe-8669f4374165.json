@@ -1,0 +1,17 @@
+{
+  "id": "819ea70f-043b-4d21-bfbe-8669f4374165",
+  "question_text": "Give one example of how geothermal energy is used.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "geothermal",
+    "renewable",
+    "heating"
+  ],
+  "options": null,
+  "correct_answer": "Geothermal energy can be used to heat buildings / homes, or to generate electricity in power stations / countries with volcanic activity.",
+  "explanation": "Geothermal energy comes from heat inside the Earth. In countries like Iceland, it is used to heat water for buildings and swimming pools, or to drive turbines to produce electricity.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

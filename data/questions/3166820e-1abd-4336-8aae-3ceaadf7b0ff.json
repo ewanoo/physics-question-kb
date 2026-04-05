@@ -1,0 +1,18 @@
+{
+  "id": "3166820e-1abd-4336-8aae-3ceaadf7b0ff",
+  "question_text": "A rigid container holds 2.4 m\u00b3 of nitrogen gas at a pressure of 150 kPa and 20\u00b0C. The container is heated to 80\u00b0C. What is the new pressure inside the container? (Assume the volume stays constant and use Gay-Lussac's Law)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas_laws",
+    "temperature_effects",
+    "pressure_temperature_relationship",
+    "calculations"
+  ],
+  "options": null,
+  "correct_answer": "180 kPa",
+  "explanation": "Using Gay-Lussac's Law (P\u2081/T\u2081 = P\u2082/T\u2082) with temperatures in Kelvin: (150 kPa)/(293 K) = P\u2082/(353 K). Solving: P\u2082 = 150 \u00d7 (353/293) \u2248 180 kPa. This demonstrates how pressure increases with temperature when volume is constant.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "d1205c05-278b-4e84-bee6-56c5602ed12c",
+  "question_text": "A gas in a rigid container has a pressure of 200 Pa at room temperature (20\u00b0C). If the temperature is increased to 40\u00b0C, what is the approximate new pressure? (Assume the volume remains constant.)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "calculation",
+    "Gay-Lussac's Law"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 207 Pa (or 206-208 Pa acceptable). Using P\u2081/T\u2081 = P\u2082/T\u2082: 200/293 = P\u2082/313, so P\u2082 = 200 \u00d7 (313/293) \u2248 207 Pa",
+  "explanation": "When volume is constant, pressure is directly proportional to absolute temperature. Convert temperatures to Kelvin (20\u00b0C = 293 K, 40\u00b0C = 313 K) and use the pressure-temperature relationship to find the new pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

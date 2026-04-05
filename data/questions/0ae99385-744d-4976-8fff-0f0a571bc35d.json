@@ -1,0 +1,39 @@
+{
+  "id": "0ae99385-744d-4976-8fff-0f0a571bc35d",
+  "question_text": "A spring is stretched by 10 cm when a 2 N force is applied. The same spring is then compressed by 5 cm. Which statement correctly compares the spring forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "hooke's law",
+    "elastic force",
+    "spring constant",
+    "extension vs compression"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The compression force is 1 N because compression only produces half the force of extension",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The compression force is 1 N because the displacement is half, and force is proportional to displacement",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The compression force is 2 N because springs always produce equal forces in both directions",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The compression force is 4 N because compression is stronger than extension",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Using Hooke's Law (F = kx), the spring constant k = 2 N \u00f7 0.1 m = 20 N/m. When compressed by 5 cm (0.05 m), the force is 20 \u00d7 0.05 = 1 N. Springs obey the same law for both extension and compression.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

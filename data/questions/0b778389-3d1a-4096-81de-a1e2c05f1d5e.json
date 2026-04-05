@@ -1,0 +1,18 @@
+{
+  "id": "0b778389-3d1a-4096-81de-a1e2c05f1d5e",
+  "question_text": "A sound wave travels through air at 330 m/s. What is the wavelength of a sound wave with a frequency of 110 Hz?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "speed",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "3 m",
+  "explanation": "Use the wave equation: speed = frequency \u00d7 wavelength. Rearranging gives wavelength = speed \u00f7 frequency = 330 \u00f7 110 = 3 m. This calculation shows the relationship between how fast a wave travels, how often it oscillates, and the distance between wave peaks.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

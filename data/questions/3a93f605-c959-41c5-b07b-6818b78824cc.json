@@ -1,0 +1,18 @@
+{
+  "id": "3a93f605-c959-41c5-b07b-6818b78824cc",
+  "question_text": "A transverse wave on a string has amplitude 0.1 m and frequency 5 Hz. The distance between a crest and the nearest trough is 0.4 m. Calculate the wave speed.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "transverse waves",
+    "wavelength",
+    "amplitude",
+    "wave speed"
+  ],
+  "options": null,
+  "correct_answer": "2 m/s",
+  "explanation": "The distance from a crest to the nearest trough is half a wavelength (\u03bb/2 = 0.4 m), so the full wavelength is \u03bb = 0.8 m. Using v = f \u00d7 \u03bb = 5 Hz \u00d7 0.8 m = 4 m/s. Note: the amplitude of 0.1 m is extra information that doesn't affect wave speed.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

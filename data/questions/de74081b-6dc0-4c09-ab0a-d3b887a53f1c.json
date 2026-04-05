@@ -1,0 +1,17 @@
+{
+  "id": "de74081b-6dc0-4c09-ab0a-d3b887a53f1c",
+  "question_text": "Sound travels faster through water than through air. What does this tell us about the particles in water compared to particles in air?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "speed of sound",
+    "medium",
+    "particle density"
+  ],
+  "options": null,
+  "correct_answer": "Water particles are closer together and more tightly connected than air particles, allowing vibrations to transfer energy more quickly between neighbouring particles.",
+  "explanation": "Sound travels by particles vibrating and passing energy to their neighbours. In water, particles are more densely packed and closer together than in air, so energy transfers faster between them. This is why sound travels at about 1500 m/s in water but only 330 m/s in air.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

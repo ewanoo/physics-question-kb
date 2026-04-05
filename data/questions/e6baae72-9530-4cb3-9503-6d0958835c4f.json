@@ -1,0 +1,18 @@
+{
+  "id": "e6baae72-9530-4cb3-9503-6d0958835c4f",
+  "question_text": "A deep-sea fish lives at a depth where the water pressure is 400 times greater than atmospheric pressure at sea level. How does the gas pressure inside the fish's body compare to that of a fish living at the surface, and why might this be important for the fish's survival?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "pressure_differences",
+    "biological_applications",
+    "equilibrium",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The gas pressure inside the deep-sea fish is also approximately 400 times greater than in a surface fish. This is important for survival because the pressure inside the fish's body must be balanced with the external water pressure; otherwise the fish would be crushed. The fish's body tissues and gas-filled spaces have evolved to withstand and maintain these extreme pressures.",
+  "explanation": "Living organisms maintain pressure equilibrium with their surroundings. A deep-sea fish must have internal pressures matching external pressures, or the pressure difference would cause the fish's body to collapse.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

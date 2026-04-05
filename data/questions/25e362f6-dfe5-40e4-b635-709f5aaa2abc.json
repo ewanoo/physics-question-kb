@@ -1,0 +1,18 @@
+{
+  "id": "25e362f6-dfe5-40e4-b635-709f5aaa2abc",
+  "question_text": "A block of mass 5 kg is being pushed across a horizontal surface. The friction force is 20 N. Calculate the magnitude of the friction force if the block's mass is doubled to 10 kg, assuming the surface remains the same.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "calculation",
+    "mass",
+    "proportionality"
+  ],
+  "options": null,
+  "correct_answer": "40 N",
+  "explanation": "Friction increases when the mass increases because heavier objects press down harder on the surface, increasing the normal force. If mass doubles, friction approximately doubles too (assuming the same surface and type of friction).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

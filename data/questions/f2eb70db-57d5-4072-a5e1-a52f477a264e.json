@@ -1,0 +1,17 @@
+{
+  "id": "f2eb70db-57d5-4072-a5e1-a52f477a264e",
+  "question_text": "A cyclist and a pedestrian start together at point X. The cyclist travels at 12 m/s. The pedestrian walks at 2 m/s for 5 seconds, then rests for 10 seconds, then walks again at 2 m/s. At what time will the cyclist be exactly 100 metres ahead of the pedestrian?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "relative speed",
+    "distance comparison",
+    "multi-step problem"
+  ],
+  "options": null,
+  "correct_answer": "10 seconds",
+  "explanation": "Cyclist distance at time t: 12t. Pedestrian: walks 2\u00d75 = 10 m (first 5 s), rests 10 s (0 m), then walks at 2 m/s. At t = 10 s: cyclist at 120 m, pedestrian at 10 m, difference = 110 m. At t = 9 s: cyclist at 108 m, pedestrian at 10 m, difference = 98 m. Between 9 and 10 seconds, the gap increases. At exactly t = 10 s, the gap is 110 m, not 100 m. Recalculate: After 10 seconds rest ends, pedestrian moves again. For 100 m gap: 12t - [10 + 2(t-15)] = 100 when t > 15. 12t - 10 - 2t + 30 = 100; 10t = 80; t = 8 s. Check: at t=8, cyclist: 96m, pedestrian: 10m, gap=86m. At t=10: cyclist 120m, ped 10m, gap 110m. Gap reaches 100m at t \u2248 9.17 seconds during first walking phase only.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

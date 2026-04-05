@@ -1,0 +1,18 @@
+{
+  "id": "24f12305-5af2-4008-81b0-ea0a335a0aed",
+  "question_text": "A sealed syringe contains air at atmospheric pressure (101 kPa). When the plunger is pushed in to reduce the volume to one-third of its original size, what is the new pressure inside the syringe, assuming the temperature stays constant?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas_laws",
+    "pressure_volume_relationship",
+    "boyle's_law",
+    "calculations"
+  ],
+  "options": null,
+  "correct_answer": "303 kPa",
+  "explanation": "Using Boyle's Law (P\u2081V\u2081 = P\u2082V\u2082), when volume decreases to one-third, pressure must increase three times. 101 kPa \u00d7 3 = 303 kPa. This shows the inverse relationship between pressure and volume for gases at constant temperature.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "f583bedb-df82-49ae-bc1d-0a4fa9fcaf9d",
+  "question_text": "A spring with spring constant 50 N/m is used to support a mass. The spring extends by 8 cm at equilibrium. A student then pulls the mass down by a further 4 cm and releases it. What is the total restoring force acting on the mass at the moment it is released?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring force",
+    "equilibrium",
+    "hooke's law",
+    "net force"
+  ],
+  "options": null,
+  "correct_answer": "2 N",
+  "explanation": "At equilibrium, the spring force equals the weight (4 N). When pulled down 4 cm further, the total extension is 12 cm. The spring force becomes 50 \u00d7 0.12 = 6 N upward. The weight (4 N) still acts downward, so the net upward restoring force is 6 - 4 = 2 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

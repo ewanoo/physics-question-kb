@@ -1,0 +1,18 @@
+{
+  "id": "eb567415-bc5c-4969-bb24-24151ed4a17c",
+  "question_text": "A 2 kg object experiences a friction force of 8 N when sliding across a surface. What is the friction force when a 4 kg object slides across the same surface?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "calculation",
+    "mass",
+    "proportionality"
+  ],
+  "options": null,
+  "correct_answer": "16 N",
+  "explanation": "Friction is proportional to the normal force, which depends on the object's weight (and therefore mass). When the mass doubles, the friction force also doubles.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

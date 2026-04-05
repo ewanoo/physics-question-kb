@@ -1,0 +1,18 @@
+{
+  "id": "26fbe672-cd81-4d62-a5e7-46482f22f307",
+  "question_text": "Two identical springs are arranged in series (one after the other). When a 10 N force is applied to the combination, the first spring extends by 4 cm and the second by 4 cm. What would be the extension of a single spring under a 10 N force?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "springs in series",
+    "hooke's law",
+    "spring constant",
+    "combined springs"
+  ],
+  "options": null,
+  "correct_answer": "4 cm",
+  "explanation": "In series, both springs experience the same force (10 N), so they have the same spring constant. Since each extends by 4 cm under 10 N, a single spring would also extend by 4 cm under the same force. The total extension of 8 cm results from two springs in series, each contributing equally.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

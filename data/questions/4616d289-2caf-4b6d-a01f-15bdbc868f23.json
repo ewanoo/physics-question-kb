@@ -1,0 +1,38 @@
+{
+  "id": "4616d289-2caf-4b6d-a01f-15bdbc868f23",
+  "question_text": "A gas is trapped in a syringe. When you push the plunger down, the volume of the gas decreases. What happens to the pressure of the gas?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "volume",
+    "inverse relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pressure stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure becomes zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When the volume of a gas decreases while the amount of gas stays the same, the gas particles are squeezed into a smaller space. This means they collide with the walls more frequently, so the pressure increases.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

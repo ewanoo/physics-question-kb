@@ -1,0 +1,17 @@
+{
+  "id": "c4410520-08bc-4a39-8616-08deb7ad6c8d",
+  "question_text": "A coal power station burns 1000 kg of coal per hour. If coal releases 30 MJ of energy per kilogram, calculate the energy released in one hour.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "energy",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "30,000 MJ or 30 GJ or 3 \u00d7 10^10 J",
+  "explanation": "Energy = Mass \u00d7 Energy per unit mass. Energy = 1000 kg \u00d7 30 MJ/kg = 30,000 MJ. This can also be written as 30 GJ (gigajoules) or 3 \u00d7 10^10 joules.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

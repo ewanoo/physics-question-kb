@@ -1,0 +1,18 @@
+{
+  "id": "a71cc534-324c-40b4-8bbc-29e781f140b5",
+  "question_text": "A tidal power station produces 2000 kW of power continuously. How much energy is generated in one day?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "tidal",
+    "renewable",
+    "energy",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "48,000 kWh or 48 MWh or 1.728 \u00d7 10^8 J",
+  "explanation": "Energy = Power \u00d7 Time. First convert one day to hours: 1 day = 24 hours. Energy = 2000 kW \u00d7 24 h = 48,000 kWh. This equals 48 MWh (megawatt-hours) or 1.728 \u00d7 10^8 joules.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

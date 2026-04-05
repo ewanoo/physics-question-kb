@@ -1,0 +1,39 @@
+{
+  "id": "8ce3216d-6f65-4680-b2ef-72c96f83d8c9",
+  "question_text": "Two springs with different spring constants (k\u2081 = 40 N/m and k\u2082 = 60 N/m) are connected in parallel (side by side). A 5 N force is applied to the combination. Which statement best explains what happens?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "springs in parallel",
+    "spring constant",
+    "load sharing",
+    "combined springs"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both springs extend by the same amount; the stiffer spring (k\u2082) carries more of the load",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The springs extend by different amounts because they have different spring constants",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The less stiff spring (k\u2081) carries all the load because it extends first",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Each spring carries exactly 2.5 N regardless of their spring constants",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In parallel springs, both extend by the same amount (same displacement). However, because F = kx, the stiffer spring (k\u2082 = 60 N/m) produces a greater force and carries more of the 5 N load. The force distribution is proportional to the spring constants: k\u2081 carries 40/(40+60) \u00d7 5 = 2 N, and k\u2082 carries 60/(40+60) \u00d7 5 = 3 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

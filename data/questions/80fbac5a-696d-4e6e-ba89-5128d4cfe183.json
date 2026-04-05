@@ -1,0 +1,38 @@
+{
+  "id": "80fbac5a-696d-4e6e-ba89-5128d4cfe183",
+  "question_text": "Which of the following best explains why atmospheric pressure decreases as you go higher up a mountain?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric pressure",
+    "altitude",
+    "particle density"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The temperature is always lower at high altitude",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "There is less air (fewer gas particles) above you at higher altitude",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Earth's gravity is weaker at high altitude",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The air becomes less dense because it expands",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Atmospheric pressure is caused by the weight of air above pushing down. At higher altitude, there is less air above you, so fewer particles are pressing down, resulting in lower pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

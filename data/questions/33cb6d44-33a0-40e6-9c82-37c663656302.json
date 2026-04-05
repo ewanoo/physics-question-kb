@@ -1,0 +1,19 @@
+{
+  "id": "33cb6d44-33a0-40e6-9c82-37c663656302",
+  "question_text": "A spring is stretched and releases a ball. Explain why the ball does not continue moving at constant velocity after it leaves the spring, even though the spring is no longer in contact with it.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "energy transfer",
+    "forces",
+    "gravity",
+    "motion",
+    "newtons laws"
+  ],
+  "options": null,
+  "correct_answer": "The ball is no longer in contact with the spring, but gravity (a downward force) continues to act on it. Since there is still a net force acting on the ball, it will accelerate downward according to Newton's Second Law, so it cannot move at constant velocity.",
+  "explanation": "When the spring releases the ball, it transfers elastic potential energy to kinetic energy. However, once released, gravity becomes the dominant force, causing the ball to decelerate (if moving upward) or accelerate downward. Forces are still acting even though the spring is gone.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

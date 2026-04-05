@@ -1,0 +1,38 @@
+{
+  "id": "0f3b21a2-7e82-4c87-8d99-026859f56ce5",
+  "question_text": "Which of the following is an example of a contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "contact_forces",
+    "non_contact_forces",
+    "force_classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnetic force between two magnets",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction between a sliding book and a table",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational pull on the Moon",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electric force between two charged balloons",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Contact forces require two objects to be touching, such as friction between surfaces. Magnetic, gravitational, and electric forces are non-contact forces that work at a distance.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

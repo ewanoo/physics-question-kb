@@ -1,0 +1,17 @@
+{
+  "id": "573523c3-9ac2-4623-b5dd-bf766f81baa4",
+  "question_text": "A sealed container holds nitrogen gas at a pressure of 150 kPa. Describe what happens to the pressure if half of the gas is removed from the container while temperature stays constant.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "amount of gas",
+    "proportional relationship"
+  ],
+  "options": null,
+  "correct_answer": "The pressure decreases to 75 kPa. Pressure is directly proportional to the amount of gas, so removing half the gas causes the pressure to halve.",
+  "explanation": "The pressure exerted by a gas depends on how many particles are present. If you remove half the particles while keeping the volume and temperature the same, there are fewer collisions with the walls, so the pressure is cut in half.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

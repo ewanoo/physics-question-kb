@@ -1,0 +1,17 @@
+{
+  "id": "01a7eb88-bdfb-484c-ada0-736ee4662b45",
+  "question_text": "A puddle of water gradually disappears on a warm sunny day. What is the name of this process and what happens to the water molecules?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "phase change",
+    "particle model"
+  ],
+  "options": null,
+  "correct_answer": "The process is evaporation. Water molecules at the surface gain enough energy to escape into the air as water vapour.",
+  "explanation": "Evaporation occurs when particles at the surface of a liquid gain enough thermal energy to overcome attractive forces and escape into the gas phase. This happens at temperatures below the boiling point.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

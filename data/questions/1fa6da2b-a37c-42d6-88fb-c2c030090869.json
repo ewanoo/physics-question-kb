@@ -1,0 +1,18 @@
+{
+  "id": "1fa6da2b-a37c-42d6-88fb-c2c030090869",
+  "question_text": "A footballer kicks a ball across a grass field. Describe what happens to the friction force as the ball slows down, and explain why this happens.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "motion",
+    "deceleration",
+    "real-world"
+  ],
+  "options": null,
+  "correct_answer": "The friction force remains roughly constant (same magnitude), but the ball slows down because friction acts against its motion. The ball decelerates as friction removes kinetic energy.",
+  "explanation": "Friction doesn't decrease as the ball slows\u2014friction is determined by the surfaces in contact. However, as friction continuously opposes the ball's motion, it removes energy and causes the ball to decelerate until it stops.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

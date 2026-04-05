@@ -1,0 +1,18 @@
+{
+  "id": "126477b9-0b5e-48f5-9876-fba389e544d6",
+  "question_text": "A monochromatic light source has a wavelength of 600 nm in air. When this light enters a piece of glass with a refractive index of 1.5, what is its wavelength inside the glass?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "wavelength",
+    "refractive index",
+    "light in materials",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "400 nm",
+  "explanation": "The wavelength in a material is given by \u03bb_material = \u03bb_air / n, where n is the refractive index. Therefore: \u03bb_glass = 600 nm / 1.5 = 400 nm. The frequency of light stays constant when entering a new medium, but the wavelength decreases because the light speed decreases.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

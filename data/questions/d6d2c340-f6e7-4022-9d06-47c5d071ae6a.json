@@ -1,0 +1,18 @@
+{
+  "id": "d6d2c340-f6e7-4022-9d06-47c5d071ae6a",
+  "question_text": "Two students observe a rainbow after rainfall. Student A claims all rainbows are caused by refraction and dispersion of sunlight in water droplets. Student B argues that total internal reflection must also occur inside the water droplets for the rainbow to be visible. Who is correct and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "rainbow",
+    "refraction",
+    "dispersion",
+    "total internal reflection"
+  ],
+  "options": null,
+  "correct_answer": "Student B is correct. While refraction and dispersion separate white light into colours, total internal reflection must occur inside the water droplets to reflect the light back towards the observer. Without total internal reflection, the light would pass through the droplet and not reach the observer's eye.",
+  "explanation": "In a rainbow, sunlight first refracts into a water droplet, then totally internally reflects off the back surface, then refracts out again. This double refraction and one total internal reflection create the rainbow effect we see. If the light just refracted through without reflecting, it wouldn't reach our eyes.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

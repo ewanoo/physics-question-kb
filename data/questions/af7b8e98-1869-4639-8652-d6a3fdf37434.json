@@ -1,0 +1,17 @@
+{
+  "id": "af7b8e98-1869-4639-8652-d6a3fdf37434",
+  "question_text": "Name two advantages of using renewable energy resources instead of fossil fuels.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "advantages",
+    "sustainability"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: they don't run out / they are sustainable; they don't produce greenhouse gases / they are cleaner and better for the environment; they don't cause air pollution / they are healthier for people.",
+  "explanation": "Renewable resources like wind, solar, and water are sustainable because nature continuously replenishes them. They also produce little or no pollution, making them better for the environment and human health compared to burning fossil fuels.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

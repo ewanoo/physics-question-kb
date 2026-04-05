@@ -1,0 +1,18 @@
+{
+  "id": "508c3239-2eb3-4601-b242-2f2de9b4f1dc",
+  "question_text": "A ray of light travels from air into a block of transparent plastic with a refractive index of 1.5. The angle of incidence is 40\u00b0. Using Snell's law (n\u2081 sin \u03b8\u2081 = n\u2082 sin \u03b8\u2082), calculate the angle of refraction in the plastic. (The refractive index of air is 1.0.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "Snell's law",
+    "refractive index",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "25.9\u00b0 or 26\u00b0 (to 2 significant figures)",
+  "explanation": "Using Snell's law: 1.0 \u00d7 sin(40\u00b0) = 1.5 \u00d7 sin(\u03b8\u2082). This gives sin(\u03b8\u2082) = sin(40\u00b0)/1.5 = 0.643/1.5 = 0.429. Therefore \u03b8\u2082 = arcsin(0.429) = 25.9\u00b0. The light bends towards the normal because it's entering a denser medium.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

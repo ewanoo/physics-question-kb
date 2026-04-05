@@ -1,0 +1,38 @@
+{
+  "id": "027592c1-af8b-49bb-88fa-5336940e4b21",
+  "question_text": "Wind turbines generate electricity from which renewable resource?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "wind energy",
+    "turbines"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Wind",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Sunlight",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Natural gas",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Coal",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Wind turbines use the kinetic energy of moving wind to turn their blades and generate electricity. Wind is a renewable resource because it is naturally produced by the Sun's heating of Earth's atmosphere.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fdea2d93-aebd-44a0-b74b-8b5eec151366",
+  "question_text": "A weight hangs from a string. Draw or describe the forces acting on the weight and explain whether it is in equilibrium.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "equilibrium",
+    "weight",
+    "tension",
+    "force_balance"
+  ],
+  "options": null,
+  "correct_answer": "Two forces act on the weight: tension (upward) and weight/gravity (downward). If the weight is stationary or moving at constant velocity, these forces are equal and opposite, so the weight is in equilibrium. If it is accelerating, the forces are unbalanced.",
+  "explanation": "An object is in equilibrium when all forces on it are balanced, meaning the net force is zero. A stationary hanging weight has equal tension pulling up and gravity pulling down.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

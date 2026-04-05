@@ -1,0 +1,17 @@
+{
+  "id": "d177b347-4683-4942-a8bd-2ad3f61729a4",
+  "question_text": "A magnet attracts an iron nail from 10 cm away without touching it. What type of force is this, and how is it different from pushing the nail with your hand?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "magnetic_force",
+    "non_contact_forces",
+    "contact_forces"
+  ],
+  "options": null,
+  "correct_answer": "This is a magnetic force, which is a non-contact force. Pushing with your hand is a contact force. The main difference is that magnetic force works at a distance without the objects touching, while contact forces require physical contact between objects.",
+  "explanation": "Non-contact forces like magnetism can act through space, while contact forces only work when objects are in direct contact. This shows the two main categories of forces in physics.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

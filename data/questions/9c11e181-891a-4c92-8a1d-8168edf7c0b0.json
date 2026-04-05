@@ -1,0 +1,39 @@
+{
+  "id": "9c11e181-891a-4c92-8a1d-8168edf7c0b0",
+  "question_text": "A student carries out an experiment using a light source, a diffraction grating, and a screen. She notices that the central bright spot is white, but the first-order diffraction spots show separated colours with red on the outside and violet on the inside. Which statement best explains this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "diffraction",
+    "wavelength",
+    "diffraction grating",
+    "colours"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red light has a longer wavelength than violet light, so it diffracts at a larger angle from the grating.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Red light travels faster through the diffraction grating than violet light, causing it to spread more.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Violet light is absorbed more by the grating, so red light diffracts more noticeably.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The diffraction grating is made of red and violet material, which naturally separates these colours.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Diffraction angle increases with wavelength. Red light has a longer wavelength than violet light, so it diffracts through a larger angle and appears further from the centre. This is why red appears on the outside of the diffraction pattern.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

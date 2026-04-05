@@ -1,0 +1,39 @@
+{
+  "id": "e3388de9-e165-48fb-b137-76ce57d5d9a6",
+  "question_text": "A weather balloon expands as it rises through the atmosphere. Which of the following best explains why the balloon expands even though no air is being pumped into it?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric_pressure",
+    "gas_expansion",
+    "reasoning",
+    "pressure_differences"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The temperature of the atmosphere increases with altitude",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The atmospheric pressure outside the balloon decreases, so the gas inside pushes outward more than before",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The balloon material becomes weaker and stretches more easily at higher altitudes",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The amount of gas molecules inside the balloon increases as it rises",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As altitude increases, atmospheric pressure decreases. The gas pressure inside the balloon remains relatively constant, so the pressure difference means the inside pressure pushes outward harder than the outside pressure pushes inward, causing expansion.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

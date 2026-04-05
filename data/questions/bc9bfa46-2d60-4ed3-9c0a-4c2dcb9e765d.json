@@ -1,0 +1,38 @@
+{
+  "id": "bc9bfa46-2d60-4ed3-9c0a-4c2dcb9e765d",
+  "question_text": "Which of the following would NOT cause a sound wave's amplitude to increase?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "amplitude",
+    "loudness",
+    "wave properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Striking a drum harder",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increasing the frequency of a sound wave",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Turning up the volume on a speaker",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Plucking a guitar string with greater force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Amplitude is the maximum displacement of particles as a wave passes and controls loudness. Increasing frequency (how often particles vibrate) does not make the vibrations bigger; it just makes them happen more often. Amplitude and frequency are independent properties.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

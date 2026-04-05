@@ -1,0 +1,38 @@
+{
+  "id": "e99fefa8-2428-4d83-9f4d-4b6d7ab9c0b8",
+  "question_text": "Which of the following best explains why sound cannot travel through a vacuum?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "sound propagation",
+    "medium",
+    "vacuum"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Sound waves are too weak to cross empty space",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Sound requires particles to vibrate and transfer energy between them",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Vacuum absorbs all sound energy immediately",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Sound waves can only travel downwards through air",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Sound is a mechanical wave that requires a medium (like air, water, or solid) with particles that can vibrate and pass energy to neighbouring particles. In a vacuum, there are no particles, so sound cannot propagate.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "c0838b93-c0b0-4bf2-8a19-0618967115df",
+  "question_text": "In an experiment, a wave with frequency 10 Hz and wavelength 2 m travels through medium X. The same wave then enters medium Y where its speed increases to 30 m/s. Comparing the two media, which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed",
+    "medium",
+    "wavelength",
+    "frequency"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The wavelength in medium Y is 2 m and the frequency is 15 Hz",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The wavelength in medium Y is 3 m and the frequency remains 10 Hz",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both wavelength and frequency increase in medium Y",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The wave speed in medium X is 20 m/s and wavelength doubles in medium Y",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In medium X: v = f \u00d7 \u03bb = 10 \u00d7 2 = 20 m/s. When entering medium Y, frequency stays constant at 10 Hz (source-dependent). With v = 30 m/s and f = 10 Hz, the new wavelength is \u03bb = v/f = 30/10 = 3 m. Only frequency determined by the source remains constant; wavelength and speed change with the medium.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "98e44a07-a5b8-4e8c-8e65-e9193ee06a9e",
+  "question_text": "A skier slides down a snowy slope. Which of these would reduce the friction force on the skier?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "surfaces",
+    "reduction",
+    "real-world"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Making the ski surface rougher and bumpier",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Polishing the ski surface to make it smoother",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Increasing the skier's mass by wearing heavier clothes",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Skiing on a steeper slope",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Smoother surfaces have less friction because there are fewer irregularities for the surfaces to catch on. This is why skis are polished\u2014to reduce friction and allow faster movement down the slope.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

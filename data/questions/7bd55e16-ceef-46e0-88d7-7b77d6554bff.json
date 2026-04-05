@@ -1,0 +1,39 @@
+{
+  "id": "7bd55e16-ceef-46e0-88d7-7b77d6554bff",
+  "question_text": "A student observes steam coming from a kettle spout. Which of the following best explains what is happening?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "boiling",
+    "condensation",
+    "steam",
+    "phase change"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Water is boiling and the visible steam is water vapour that has cooled and condensed back to tiny water droplets",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The water has turned into a gas that is visible in the air",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The kettle is leaking hot liquid water into the air",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Oxygen and hydrogen atoms are separating from the water molecules",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "True water vapour is invisible. The visible 'steam' is actually a cloud of tiny water droplets formed when hot invisible vapour cools slightly near the kettle spout and condenses back into a liquid.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

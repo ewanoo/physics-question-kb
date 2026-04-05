@@ -1,0 +1,17 @@
+{
+  "id": "a096ae1f-d567-43d9-a19e-ad973f7c03d1",
+  "question_text": "Why is fossil fuel considered a non-renewable energy resource?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "non-renewable",
+    "fossil fuels",
+    "time-scale"
+  ],
+  "options": null,
+  "correct_answer": "Fossil fuels take millions of years to form from dead plants and animals, so they are used up much faster than they can be replaced naturally.",
+  "explanation": "Non-renewable resources like coal, oil, and gas were formed over millions of years from ancient organisms. Humans are burning them much faster than nature can create new supplies, so they will eventually run out.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

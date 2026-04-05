@@ -1,0 +1,17 @@
+{
+  "id": "d4ff0b09-2b02-4fb1-b0b2-fd8dda2a8ac4",
+  "question_text": "A car of mass 1000 kg accelerates at 2 m/s\u00b2. Using F = ma, calculate the net force required to produce this acceleration.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "force_calculation",
+    "newtons_second_law",
+    "net_force"
+  ],
+  "options": null,
+  "correct_answer": "2000 N",
+  "explanation": "Using the formula F = ma, the net force = 1000 kg \u00d7 2 m/s\u00b2 = 2000 N. This is the total force that must act on the car to produce the given acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

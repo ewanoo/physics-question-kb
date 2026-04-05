@@ -1,0 +1,18 @@
+{
+  "id": "410d3db6-99d9-478c-b25a-611a4556f9d2",
+  "question_text": "A metal bar with a mass of 500 g occupies a volume of 50 cm\u00b3. What is the density of this metal, and is it likely to float in water (density of water = 1 g/cm\u00b3)?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "density",
+    "calculation",
+    "floating",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Density = 10 g/cm\u00b3. The metal will not float because its density (10 g/cm\u00b3) is greater than the density of water (1 g/cm\u00b3).",
+  "explanation": "Using density = mass \u00f7 volume: 500 g \u00f7 50 cm\u00b3 = 10 g/cm\u00b3. Objects only float if their density is less than the fluid they are in, so this dense metal will sink in water.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

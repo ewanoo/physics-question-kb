@@ -1,0 +1,39 @@
+{
+  "id": "2995a164-8d4f-4cf3-b2d7-686beec425c8",
+  "question_text": "Which type of friction acts on an object that is stationary on an inclined plane?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "types",
+    "static friction",
+    "inclined plane"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic friction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Air resistance",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Static friction",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Rolling friction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Static friction acts on objects that are not moving\u2014it prevents them from sliding. Kinetic friction only acts on objects that are already sliding. On an incline, static friction prevents a stationary object from sliding down.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}
