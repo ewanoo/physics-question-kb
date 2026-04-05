@@ -1,0 +1,25 @@
+{
+  "id": "a75e546d-b61a-4d6c-af60-189ca2adf885",
+  "question_text": "A spring stretches by 8 cm when a 40 N force is applied. If the force is increased to 60 N, what is the new extension (assuming the spring stays within its elastic limit)?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's Law",
+    "spring constant",
+    "extension",
+    "proportion"
+  ],
+  "options": null,
+  "correct_answer": "12 cm",
+  "explanation": "First, find the spring constant: k = F/e = 40/0.08 = 500 N/m. Then, find the new extension: e = F/k = 60/500 = 0.12 m = 12 cm. The extension increases proportionally with the force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/medium",
+  "scraped_at": "2026-04-05T11:23:26.387341",
+  "classified_at": "2026-04-05T11:23:26.387341",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

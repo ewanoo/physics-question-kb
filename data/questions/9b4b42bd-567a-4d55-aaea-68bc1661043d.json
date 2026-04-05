@@ -1,0 +1,45 @@
+{
+  "id": "9b4b42bd-567a-4d55-aaea-68bc1661043d",
+  "question_text": "A student slides a box across a wooden floor. Which of the following best describes the direction of the friction force on the box?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "force direction",
+    "opposing motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "In the same direction as the box is moving",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Opposite to the direction the box is moving",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Vertically upward",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Friction has no specific direction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Friction always opposes motion, so it acts in the opposite direction to the object's movement. This is why friction slows objects down.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/easy",
+  "scraped_at": "2026-04-05T11:22:52.811657",
+  "classified_at": "2026-04-05T11:22:52.811657",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

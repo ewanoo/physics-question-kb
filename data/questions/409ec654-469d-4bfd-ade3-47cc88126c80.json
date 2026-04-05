@@ -1,0 +1,24 @@
+{
+  "id": "409ec654-469d-4bfd-ade3-47cc88126c80",
+  "question_text": "A sealed syringe contains air at atmospheric pressure. The plunger is pushed in, reducing the volume by half. Explain what happens to the air particles and why the pressure increases inside the syringe.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "particle behaviour",
+    "compression"
+  ],
+  "options": null,
+  "correct_answer": "When the volume is halved, the air particles are forced into a smaller space. They collide with the syringe walls more frequently because there are more particles in the same area. More frequent collisions mean greater pressure on the walls.",
+  "explanation": "Gas pressure is caused by particles colliding with the container walls. When volume decreases, particles are closer together and collide more often, increasing pressure. This is why pushing a syringe feels harder.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.gas_pressure/hard",
+  "scraped_at": "2026-04-05T11:24:10.032639",
+  "classified_at": "2026-04-05T11:24:10.032639",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

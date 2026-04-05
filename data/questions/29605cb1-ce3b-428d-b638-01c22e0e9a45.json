@@ -1,0 +1,24 @@
+{
+  "id": "29605cb1-ce3b-428d-b638-01c22e0e9a45",
+  "question_text": "A motor has an efficiency of 80%. If the motor is supplied with 500 J of electrical energy, calculate how much useful mechanical energy is produced and how much energy is wasted.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "useful energy",
+    "wasted energy"
+  ],
+  "options": null,
+  "correct_answer": "Useful mechanical energy = 400 J; Wasted energy = 100 J. Using efficiency = (useful energy output \u00f7 energy input) \u00d7 100%, we get: 80 = (useful energy \u00f7 500) \u00d7 100, so useful energy = 400 J. Wasted energy = 500 - 400 = 100 J.",
+  "explanation": "This requires students to apply the efficiency formula and perform multi-step calculations. Understanding that not all input energy becomes useful output is crucial for real-world applications.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T11:22:15.180404",
+  "classified_at": "2026-04-05T11:22:15.180404",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

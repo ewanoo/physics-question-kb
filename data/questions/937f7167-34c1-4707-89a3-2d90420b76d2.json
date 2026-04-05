@@ -1,0 +1,24 @@
+{
+  "id": "937f7167-34c1-4707-89a3-2d90420b76d2",
+  "question_text": "The Moon orbits Earth at an average distance of 384,400 km. If the gravitational force between Earth and Moon decreased by half, explain the effect this would have on the Moon's orbit. (Assume all other factors remain constant.)",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational force",
+    "orbital motion",
+    "inverse square law"
+  ],
+  "options": null,
+  "correct_answer": "If gravitational force decreased by half, the Moon would move to a larger orbital distance. The gravitational force provides the centripetal force needed to keep the Moon in a circular orbit. A weaker force can only maintain a circular orbit at a greater distance where the required centripetal force is smaller.",
+  "explanation": "Gravity keeps the Moon in orbit by pulling it toward Earth. If gravity weakens, it can no longer hold the Moon at its current distance, so the Moon must move farther away where gravity is weaker and matches the reduced force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/hard",
+  "scraped_at": "2026-04-05T11:24:10.033061",
+  "classified_at": "2026-04-05T11:24:10.033061",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

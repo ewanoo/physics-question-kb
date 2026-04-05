@@ -1,0 +1,45 @@
+{
+  "id": "29329b4a-56e8-453b-9ffd-3b1e8d1e7257",
+  "question_text": "What does efficiency mean in terms of energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "useful energy",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of energy produced",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The fraction of energy input that is converted to useful energy output",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed at which energy is used",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The cost of energy per unit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Efficiency measures how well a device converts input energy into the useful form of energy we want. A highly efficient device wastes very little energy, while an inefficient device wastes a lot as heat or other unwanted forms.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/easy",
+  "scraped_at": "2026-04-05T11:22:15.180127",
+  "classified_at": "2026-04-05T11:22:15.180127",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

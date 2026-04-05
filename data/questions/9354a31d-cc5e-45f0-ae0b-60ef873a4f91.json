@@ -1,0 +1,24 @@
+{
+  "id": "9354a31d-cc5e-45f0-ae0b-60ef873a4f91",
+  "question_text": "A student wears a blue shirt under white light in a room. Predict what colour the shirt would appear if the room's lighting changed to red light only. Explain your prediction using the concept of light absorption and reflection.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour perception",
+    "light absorption",
+    "reflection"
+  ],
+  "options": null,
+  "correct_answer": "The shirt would appear black or very dark. Blue material absorbs all colours except blue light, which it reflects. When only red light is available, there is no blue light to reflect. Instead, the red light is absorbed by the material, and no light is reflected to reach the observer's eye.",
+  "explanation": "Objects only appear coloured when they receive light at that colour's wavelength to reflect. Without blue light present, a blue shirt has nothing to reflect and appears black. This demonstrates that colour depends on both the object's absorption/reflection properties and the available light.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/hard",
+  "scraped_at": "2026-04-05T11:24:10.033785",
+  "classified_at": "2026-04-05T11:24:10.033785",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

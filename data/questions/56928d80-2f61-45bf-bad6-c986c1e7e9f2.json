@@ -1,0 +1,24 @@
+{
+  "id": "56928d80-2f61-45bf-bad6-c986c1e7e9f2",
+  "question_text": "A ball is dropped from a tall building. As it falls, describe the energy transformations that occur using the law of conservation of energy.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "kinetic energy",
+    "potential energy"
+  ],
+  "options": null,
+  "correct_answer": "As the ball falls, gravitational potential energy is transformed into kinetic energy. At the start, the ball has maximum potential energy and zero kinetic energy. As it falls, potential energy decreases and kinetic energy increases. The total energy remains constant throughout.",
+  "explanation": "This demonstrates how energy is conserved by transforming from one form to another. The ball's total energy (potential + kinetic) stays the same, but the balance between the two types shifts as it falls.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/easy",
+  "scraped_at": "2026-04-05T11:22:15.179947",
+  "classified_at": "2026-04-05T11:22:15.179947",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

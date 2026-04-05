@@ -1,0 +1,24 @@
+{
+  "id": "eb223cfb-1152-46d5-8a3d-22cf114d6607",
+  "question_text": "A gas can be compressed from a volume of 2 m\u00b3 to 0.5 m\u00b3 at constant temperature. However, an ideal solid cannot be significantly compressed by hand. Using particle theory, explain why gases and solids behave so differently when pressure is applied.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "compressibility",
+    "particle spacing",
+    "states of matter"
+  ],
+  "options": null,
+  "correct_answer": "In gases, particles are far apart with large empty spaces between them, so they can be forced closer together. In solids, particles are already tightly packed and touching each other, so there is no space to compress them further without breaking bonds.",
+  "explanation": "Compressibility depends on how much empty space exists between particles. Gases have lots of space, making them easily compressible. Solids have particles already in contact, making compression extremely difficult.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/hard",
+  "scraped_at": "2026-04-05T11:24:10.032999",
+  "classified_at": "2026-04-05T11:24:10.032999",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

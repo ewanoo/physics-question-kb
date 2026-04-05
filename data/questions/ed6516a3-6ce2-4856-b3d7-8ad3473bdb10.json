@@ -1,0 +1,24 @@
+{
+  "id": "ed6516a3-6ce2-4856-b3d7-8ad3473bdb10",
+  "question_text": "A student has two electromagnets made from identical iron cores with identical wire wrapped around them. Electromagnet A has 50 turns of wire and a current of 2 A flowing through it. Electromagnet B has 100 turns of wire and a current of 1 A flowing through it. Compare the strengths of these electromagnets and explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "magnetic strength",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Electromagnet B is stronger. Electromagnetic strength depends on both the number of turns and the current. While B has half the current, it has double the number of turns, and the effect of doubling the turns outweighs halving the current, making B stronger overall.",
+  "explanation": "This requires students to understand that electromagnet strength is affected by multiple factors and to weigh them against each other. The number of coils has a significant impact on magnetic field strength, and in this case, the doubled coils of B compensate for the reduced current.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.magnets/hard",
+  "scraped_at": "2026-04-05T11:22:15.179188",
+  "classified_at": "2026-04-05T11:22:15.179188",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

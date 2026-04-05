@@ -1,0 +1,25 @@
+{
+  "id": "16a74216-c44e-487d-91a5-c3a99e665d34",
+  "question_text": "A ball is thrown horizontally from a cliff and follows a curved path downward. Explain the forces acting on the ball and why its path is curved rather than straight.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "gravity",
+    "motion",
+    "forces",
+    "trajectory"
+  ],
+  "options": null,
+  "correct_answer": "Gravity acts downward on the ball throughout its flight, continuously pulling it down with a constant force. Although the ball is thrown horizontally, gravity causes it to accelerate downward, so its vertical velocity increases while the horizontal velocity remains constant, resulting in a curved parabolic path.",
+  "explanation": "The ball doesn't travel in a straight line because the constant downward force of gravity continuously changes the ball's direction, curving it downward. This is the combination of constant horizontal motion and increasing downward motion that creates the curved trajectory.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.types/hard",
+  "scraped_at": "2026-04-05T11:23:26.387689",
+  "classified_at": "2026-04-05T11:23:26.387689",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

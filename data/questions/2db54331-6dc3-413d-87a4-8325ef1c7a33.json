@@ -1,0 +1,24 @@
+{
+  "id": "2db54331-6dc3-413d-87a4-8325ef1c7a33",
+  "question_text": "Compare the conditions on Venus and Mercury. Explain why Venus is the hotter planet despite being farther from the Sun, and discuss what would make it impossible for humans to survive on either planet.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "planetary conditions",
+    "greenhouse effect",
+    "atmosphere"
+  ],
+  "options": null,
+  "correct_answer": "Venus is hotter than Mercury because it has a thick atmosphere of carbon dioxide and sulfuric acid clouds that trap heat (greenhouse effect), causing surface temperatures of about 465\u00b0C. Mercury, being closer to the Sun, receives more direct heat, but its thin atmosphere cannot retain heat and night-side temperatures drop to -180\u00b0C. Humans cannot survive on either: Venus has crushing atmospheric pressure and extreme heat; Mercury has extreme temperature swings and no atmosphere.",
+  "explanation": "Venus demonstrates the greenhouse effect\u2014its thick atmosphere traps solar radiation and heats the surface more than Mercury, which is closer to the Sun but has no atmosphere to retain heat. Both planets have conditions far too extreme for human survival.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/hard",
+  "scraped_at": "2026-04-05T11:24:10.033314",
+  "classified_at": "2026-04-05T11:24:10.033314",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

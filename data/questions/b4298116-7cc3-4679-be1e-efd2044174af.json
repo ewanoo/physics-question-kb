@@ -1,0 +1,24 @@
+{
+  "id": "b4298116-7cc3-4679-be1e-efd2044174af",
+  "question_text": "A metal sphere has a mass of 2.7 kg. It has a radius of 10 cm (volume of sphere = 4/3 \u00d7 \u03c0 \u00d7 r\u00b3). Calculate the density of the metal sphere. (Use \u03c0 = 3.14 and give your answer to 2 decimal places.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "volume formula",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Volume = 4/3 \u00d7 3.14 \u00d7 10\u00b3 = 4/3 \u00d7 3.14 \u00d7 1000 = 4186.67 cm\u00b3 = 0.004187 m\u00b3. Mass = 2.7 kg. Density = 2.7 \u00f7 0.004187 = 644.88 kg/m\u00b3 (or 6.45 g/cm\u00b3)",
+  "explanation": "First calculate the volume using the sphere formula, then convert to m\u00b3 (divide by 1,000,000). Finally, divide mass by volume to find density. This tests understanding of formulas and unit conversion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/hard",
+  "scraped_at": "2026-04-05T11:24:10.032523",
+  "classified_at": "2026-04-05T11:24:10.032523",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

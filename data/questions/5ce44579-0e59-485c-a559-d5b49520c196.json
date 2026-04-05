@@ -1,0 +1,45 @@
+{
+  "id": "5ce44579-0e59-485c-a559-d5b49520c196",
+  "question_text": "What is the correct order of the planets in our Solar System, starting from the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "solar system",
+    "order"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Mercury, Mars, Venus, Earth, Jupiter, Saturn, Uranus, Neptune",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Venus, Mercury, Earth, Mars, Jupiter, Saturn, Neptune, Uranus",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mercury, Venus, Mars, Earth, Jupiter, Saturn, Uranus, Neptune",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The eight planets in order from the Sun are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. A helpful mnemonic is 'My Very Educated Mother Just Served Us Noodles'.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/easy",
+  "scraped_at": "2026-04-05T11:24:10.033176",
+  "classified_at": "2026-04-05T11:24:10.033176",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "303275c0-25c3-431a-955c-1049cb1e5d23",
+  "question_text": "A student has two blocks made of different materials. Block A has a mass of 500 g and a volume of 250 cm\u00b3. Block B has a mass of 300 g and a volume of 100 cm\u00b3. Calculate the density of each block and determine which material would float in water (density of water = 1 g/cm\u00b3). Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "comparing densities",
+    "floating sinking"
+  ],
+  "options": null,
+  "correct_answer": "Block A: density = 500 \u00f7 250 = 2 g/cm\u00b3. Block B: density = 300 \u00f7 100 = 3 g/cm\u00b3. Block A would float because its density (2 g/cm\u00b3) is greater than water (1 g/cm\u00b3), so it would sink. Neither block would float as both have densities greater than water.",
+  "explanation": "To find density, divide mass by volume. Block A has a density of 2 g/cm\u00b3 and Block B has 3 g/cm\u00b3. Both are denser than water (1 g/cm\u00b3), so both would sink, not float. Objects less dense than water float.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/hard",
+  "scraped_at": "2026-04-05T11:24:10.032292",
+  "classified_at": "2026-04-05T11:24:10.032292",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

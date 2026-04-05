@@ -1,0 +1,24 @@
+{
+  "id": "36969dea-852a-4383-adeb-86eca494c82f",
+  "question_text": "A circuit contains two resistors in series: one of 10 \u03a9 and one of 15 \u03a9. A voltmeter measures 6 V across the first resistor. Calculate the current flowing through the circuit and then determine the voltage across the second resistor.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series circuits",
+    "Ohm's law",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Current = 0.6 A; Voltage across second resistor = 9 V. First, use V = IR to find current: I = 6 \u00f7 10 = 0.6 A. Then find voltage across second resistor: V = 0.6 \u00d7 15 = 9 V.",
+  "explanation": "This multi-step problem requires you to first calculate current from the voltage and resistance of the first resistor, then use that current to find the voltage across the second resistor. In series circuits, the same current flows through all components.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "scraped_at": "2026-04-05T11:22:15.179039",
+  "classified_at": "2026-04-05T11:22:15.179039",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

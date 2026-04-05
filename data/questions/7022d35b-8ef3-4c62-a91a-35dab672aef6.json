@@ -1,0 +1,24 @@
+{
+  "id": "7022d35b-8ef3-4c62-a91a-35dab672aef6",
+  "question_text": "Name one renewable energy resource and explain why it is considered renewable.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "sustainability",
+    "energy sources"
+  ],
+  "options": null,
+  "correct_answer": "Any one of: solar energy, wind energy, hydroelectric energy, geothermal energy, or tidal energy. It is renewable because it is naturally replenished and will not run out (or similar reasoning about continuous availability).",
+  "explanation": "Renewable resources are continuously replenished by natural processes, unlike fossil fuels which take millions of years to form.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/easy",
+  "scraped_at": "2026-04-05T11:22:52.810940",
+  "classified_at": "2026-04-05T11:22:52.810940",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

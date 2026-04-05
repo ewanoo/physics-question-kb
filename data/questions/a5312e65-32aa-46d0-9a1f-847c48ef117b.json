@@ -1,0 +1,25 @@
+{
+  "id": "a5312e65-32aa-46d0-9a1f-847c48ef117b",
+  "question_text": "A uniform metre rule (100 cm long) has a pivot at the 50 cm mark. A 5 N force is applied downwards at the 20 cm mark. What force must be applied downwards at the 80 cm mark to balance the rule?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "equilibrium",
+    "pivot",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "2.5 N",
+  "explanation": "Using the principle of moments: anticlockwise moment = clockwise moment. The 5 N force at 20 cm is 30 cm from pivot (anticlockwise moment = 5 \u00d7 30 = 150 Nm). For balance, the unknown force at 80 cm is 30 cm from pivot, so 150 = F \u00d7 30, giving F = 2.5 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.moments/hard",
+  "scraped_at": "2026-04-05T11:23:26.386622",
+  "classified_at": "2026-04-05T11:23:26.386622",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

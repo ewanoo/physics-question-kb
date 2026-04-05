@@ -1,0 +1,25 @@
+{
+  "id": "c26184e6-cfb6-43b0-8b39-6b76ed21823d",
+  "question_text": "A spring with spring constant 300 N/m is stretched beyond its elastic limit and does not return to its original length when released. Explain what has happened and why the spring behaves differently after this point.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "permanent deformation",
+    "springs",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "The spring has been permanently deformed because it was stretched beyond its elastic limit. Beyond this limit, the material undergoes plastic deformation, where the internal structure of the spring is permanently changed, so it cannot return to its original shape even after the force is removed.",
+  "explanation": "All springs have an elastic limit. Within this limit, springs obey Hooke's Law and return to their original shape. Beyond this limit, permanent damage occurs and Hooke's Law no longer applies because the material has been permanently rearranged.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/hard",
+  "scraped_at": "2026-04-05T11:23:26.387293",
+  "classified_at": "2026-04-05T11:23:26.387293",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

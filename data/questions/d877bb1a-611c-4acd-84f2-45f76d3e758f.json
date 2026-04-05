@@ -1,0 +1,24 @@
+{
+  "id": "d877bb1a-611c-4acd-84f2-45f76d3e758f",
+  "question_text": "A student performs an experiment where she heats water until it boils, then continues heating. She observes that the temperature reads 100\u00b0C continuously, even though the flame is still on and the water is clearly boiling vigorously. Evaluate why the temperature does not increase beyond 100\u00b0C and what is happening to the energy being supplied.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "boiling",
+    "latent heat",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "At 100\u00b0C (boiling point of water), the energy supplied is used to overcome the forces between particles and convert liquid to gas (evaporation/boiling), not to increase particle movement. This energy is called latent heat of vaporisation. The temperature remains constant until all the liquid has evaporated.",
+  "explanation": "During boiling, heat energy breaks bonds between particles to change state from liquid to gas. Since temperature measures particle movement speed, not the energy used for phase change, the temperature stays at 100\u00b0C until the phase change is complete.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/hard",
+  "scraped_at": "2026-04-05T11:24:10.032939",
+  "classified_at": "2026-04-05T11:24:10.032939",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

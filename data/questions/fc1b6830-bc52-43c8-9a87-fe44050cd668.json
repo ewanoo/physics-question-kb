@@ -1,0 +1,24 @@
+{
+  "id": "fc1b6830-bc52-43c8-9a87-fe44050cd668",
+  "question_text": "A student builds a roller coaster with a loop. At the highest point of the loop, the cart has gravitational potential energy of 5000 J and kinetic energy of 1000 J. At the lowest point of the loop, the gravitational potential energy is 0 J. Assuming no energy is lost to friction, calculate the kinetic energy at the lowest point.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy conservation",
+    "potential and kinetic energy",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "6000 J",
+  "explanation": "Total energy at the top = 5000 J + 1000 J = 6000 J. At the lowest point, all potential energy converts to kinetic energy (since potential energy is now 0 J). By conservation of energy, kinetic energy at the bottom = 6000 J.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/hard",
+  "scraped_at": "2026-04-05T11:22:52.811120",
+  "classified_at": "2026-04-05T11:22:52.811120",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

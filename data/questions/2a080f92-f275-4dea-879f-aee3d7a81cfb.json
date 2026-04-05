@@ -1,0 +1,24 @@
+{
+  "id": "2a080f92-f275-4dea-879f-aee3d7a81cfb",
+  "question_text": "A student eats a chocolate bar containing 2000 kJ of chemical energy. During a day, the student uses 8000 kJ of energy through activities like walking, playing sport, and maintaining body temperature. Calculate how many chocolate bars the student would need to eat to provide all the energy used that day.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "food energy",
+    "calculations"
+  ],
+  "options": null,
+  "correct_answer": "4 chocolate bars",
+  "explanation": "To find how many chocolate bars are needed, divide the total energy used by the energy per bar: 8000 kJ \u00f7 2000 kJ = 4 chocolate bars. This shows how food energy is converted into movement and heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/hard",
+  "scraped_at": "2026-04-05T11:22:52.810005",
+  "classified_at": "2026-04-05T11:22:52.810005",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

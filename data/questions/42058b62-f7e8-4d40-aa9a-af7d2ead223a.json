@@ -1,0 +1,24 @@
+{
+  "id": "42058b62-f7e8-4d40-aa9a-af7d2ead223a",
+  "question_text": "A cyclist pedaling on a flat road experiences a driving force of 150 N from the pedals. Air resistance provides 80 N of force opposing motion, and rolling resistance provides 40 N of force opposing motion. Is the cyclist accelerating, moving at constant speed, or decelerating? Show your calculation.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "net force",
+    "balanced and unbalanced forces",
+    "acceleration"
+  ],
+  "options": null,
+  "correct_answer": "Total resistance = 80 N + 40 N = 120 N. Net force = 150 N - 120 N = 30 N forward. The net force is not zero, so the cyclist is accelerating.",
+  "explanation": "The driving force exceeds total resistance, creating an unbalanced net force that causes acceleration in the forward direction.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.balanced/medium",
+  "scraped_at": "2026-04-05T11:22:52.811502",
+  "classified_at": "2026-04-05T11:22:52.811502",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

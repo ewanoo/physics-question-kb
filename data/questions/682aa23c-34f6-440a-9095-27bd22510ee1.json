@@ -1,0 +1,24 @@
+{
+  "id": "682aa23c-34f6-440a-9095-27bd22510ee1",
+  "question_text": "The inner planets (Mercury, Venus, Earth, Mars) are much smaller and denser than the outer planets (Jupiter, Saturn, Uranus, Neptune). Evaluate possible reasons why planets closer to the Sun are smaller and have different compositions than those farther away.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "planetary formation",
+    "composition",
+    "distance from sun"
+  ],
+  "options": null,
+  "correct_answer": "In the early Solar System, the Sun's heat was intense near it, so only materials with high melting points (rocks and metals) could exist as solids, forming small dense inner planets. Farther away, where it was colder, lighter gases like hydrogen and helium could be captured and retained, allowing large gas giants to form. Also, the solar wind and radiation from the young Sun may have blown away lighter elements from the inner Solar System.",
+  "explanation": "Planetary composition depends on temperature and distance from the Sun during formation. Inner planets are rocky because only dense materials could condense near the hot Sun, while outer planets captured abundant gases in the cooler outer regions.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/hard",
+  "scraped_at": "2026-04-05T11:24:10.033371",
+  "classified_at": "2026-04-05T11:24:10.033371",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "83e0edb3-8602-45cf-a491-96fb983eee42",
+  "question_text": "What does the law of conservation of energy state?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation",
+    "energy",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy always decreases over time",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy can be created and destroyed freely",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Energy cannot be created or destroyed, only transferred or transformed",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Energy is only conserved in closed systems",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "The law of conservation of energy is one of the most fundamental laws in physics. It means the total amount of energy in a closed system always stays the same\u2014energy just changes from one form to another (like chemical to heat to light).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.conservation/easy",
+  "scraped_at": "2026-04-05T11:22:15.179842",
+  "classified_at": "2026-04-05T11:22:15.179842",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

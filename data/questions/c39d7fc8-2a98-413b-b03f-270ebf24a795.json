@@ -1,0 +1,25 @@
+{
+  "id": "c39d7fc8-2a98-413b-b03f-270ebf24a795",
+  "question_text": "A car traveling at 25 m/s brakes on wet pavement, generating a friction force of 4000 N that opposes its motion. The car's mass is 1000 kg. In addition to friction from the road, the car experiences air resistance of 500 N. Calculate the total resistive force and explain whether the car will decelerate quickly or slowly.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "resistive forces",
+    "deceleration",
+    "net force"
+  ],
+  "options": null,
+  "correct_answer": "Total resistive force = 4000 N (friction) + 500 N (air resistance) = 4500 N opposing motion. The car will decelerate quickly because the large total resistive force (4500 N) creates a significant net force opposing the car's motion, causing rapid deceleration. The relatively small air resistance (500 N) compared to road friction (4000 N) shows that road friction is the dominant factor.",
+  "explanation": "Students must add multiple resistive forces and evaluate their relative magnitude. The large friction force indicates rapid deceleration, while the analysis shows that road friction dominates air resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/hard",
+  "scraped_at": "2026-04-05T11:22:52.811905",
+  "classified_at": "2026-04-05T11:22:52.811905",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

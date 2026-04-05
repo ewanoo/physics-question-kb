@@ -1,0 +1,45 @@
+{
+  "id": "320da109-fc32-409a-abaa-ef98d95a9d33",
+  "question_text": "What causes objects to become electrically charged by friction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "friction",
+    "electrons"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Heat is created between the surfaces",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electrons are transferred from one material to another",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The air between the objects becomes ionised",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Protons move from one object to the other",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When two materials rub together, electrons can be knocked off one material and transferred to another. This creates a charge imbalance: one object becomes positively charged (lost electrons) and the other becomes negatively charged (gained electrons).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.static/easy",
+  "scraped_at": "2026-04-05T11:22:15.179250",
+  "classified_at": "2026-04-05T11:22:15.179250",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

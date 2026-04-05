@@ -1,0 +1,25 @@
+{
+  "id": "8137e4dd-473a-42ba-82e1-f83525e40e09",
+  "question_text": "A package is placed on an inclined ramp angled at 30 degrees. The friction force between the package and the ramp is 40 N up the slope, and the component of the package's weight pulling it down the slope is 60 N. The package starts to slide down. Explain why the package accelerates, predict whether it will continue to accelerate, and suggest one way to prevent it from sliding.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction on slopes",
+    "net force",
+    "inclined planes",
+    "acceleration"
+  ],
+  "options": null,
+  "correct_answer": "The package accelerates because the weight component (60 N down) exceeds the friction force (40 N up), creating a net force of 20 N down the slope. It will continue to accelerate as long as the weight component exceeds static friction. To prevent sliding, you could: increase friction (use rougher surface), decrease the angle, or apply a force up the slope. (Any one valid method acceptable.)",
+  "explanation": "This requires understanding that unbalanced forces cause acceleration, recognizing that kinetic friction is less than weight component, and applying problem-solving to find practical solutions.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/hard",
+  "scraped_at": "2026-04-05T11:22:52.811972",
+  "classified_at": "2026-04-05T11:22:52.811972",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

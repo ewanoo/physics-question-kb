@@ -1,0 +1,25 @@
+{
+  "id": "257a8fe8-a689-4a8e-94c4-b60cbbdfbd18",
+  "question_text": "Two springs are connected in series (one after the other). Spring A has a spring constant of 400 N/m and Spring B has a spring constant of 200 N/m. When a 100 N force is applied to the combination, what is the total extension?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "springs in series",
+    "spring constant",
+    "Hooke's Law",
+    "combined springs"
+  ],
+  "options": null,
+  "correct_answer": "0.375 m or 37.5 cm",
+  "explanation": "In series, the same force acts on each spring. Extension of A: e\u2081 = 100/400 = 0.25 m. Extension of B: e\u2082 = 100/200 = 0.5 m. Total extension = 0.25 + 0.5 = 0.75 m. Note: The softer spring stretches more under the same force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/hard",
+  "scraped_at": "2026-04-05T11:23:26.387239",
+  "classified_at": "2026-04-05T11:23:26.387239",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

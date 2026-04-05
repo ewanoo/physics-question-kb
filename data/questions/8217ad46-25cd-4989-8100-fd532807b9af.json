@@ -1,0 +1,46 @@
+{
+  "id": "8217ad46-25cd-4989-8100-fd532807b9af",
+  "question_text": "Which of the following is the correct definition of pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "definition",
+    "force",
+    "area"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of force acting on an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The force spread over an area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object divided by its volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The strength of a material",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Pressure is defined as force divided by area. When the same force is spread over a larger area, the pressure decreases; when concentrated over a smaller area, the pressure increases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.pressure/easy",
+  "scraped_at": "2026-04-05T11:23:26.386757",
+  "classified_at": "2026-04-05T11:23:26.386757",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

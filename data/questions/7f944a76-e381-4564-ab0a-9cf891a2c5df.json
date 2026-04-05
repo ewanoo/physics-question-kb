@@ -1,0 +1,45 @@
+{
+  "id": "7f944a76-e381-4564-ab0a-9cf891a2c5df",
+  "question_text": "What is food energy measured in?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "units",
+    "nutrition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Grams",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Joules or kilocalories",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Newtons",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Seconds",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Food energy is measured in joules (the SI unit) or in kilocalories (kcal), which is commonly listed on food packaging. Both measure the chemical energy that food releases when it is broken down in the body.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/easy",
+  "scraped_at": "2026-04-05T11:22:15.180705",
+  "classified_at": "2026-04-05T11:22:15.180705",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

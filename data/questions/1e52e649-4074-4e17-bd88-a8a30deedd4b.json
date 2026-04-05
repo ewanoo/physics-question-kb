@@ -1,0 +1,24 @@
+{
+  "id": "1e52e649-4074-4e17-bd88-a8a30deedd4b",
+  "question_text": "A Van de Graaff generator builds up a large amount of static charge. If a person touches it, their hair stands on end. The person then stands inside a cage (Faraday cage) and the same generator is turned on. They feel no electrical shock or effects. Explain why the cage protects them and discuss the implications for electrical safety.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "Faraday cage",
+    "electric field",
+    "safety"
+  ],
+  "options": null,
+  "correct_answer": "A Faraday cage protects because the outer conductor distributes the electrical charge around its outer surface, creating zero electric field inside. This shields the person from the electrical effects. This principle is used in real safety applications like lightning protection in buildings and aircraft.",
+  "explanation": "This question requires students to understand that a conductor can shield against electric fields and to apply this knowledge to a practical safety scenario. It extends beyond simple facts to explain how science principles protect people in the real world.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.static/hard",
+  "scraped_at": "2026-04-05T11:22:15.179472",
+  "classified_at": "2026-04-05T11:22:15.179472",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

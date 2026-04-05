@@ -1,0 +1,24 @@
+{
+  "id": "0b7b4adf-8e40-4889-a1b8-0dc34a55c1ef",
+  "question_text": "Name two materials that are good insulators and explain why static charge builds up on them.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "insulators",
+    "static charge",
+    "electrons"
+  ],
+  "options": null,
+  "correct_answer": "Two good insulators are rubber and plastic. Static charge builds up on these materials because they do not allow electrons to move freely through them, so any charge that accumulates on the surface stays there.",
+  "explanation": "Insulators prevent the flow of charge because their electrons are tightly bound to atoms. This means that if electrons are transferred onto an insulator during friction, they cannot flow away and remain trapped on the surface.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.static/easy",
+  "scraped_at": "2026-04-05T11:22:15.179335",
+  "classified_at": "2026-04-05T11:22:15.179335",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

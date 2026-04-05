@@ -1,0 +1,24 @@
+{
+  "id": "4ebd1083-5b55-40ca-bc01-5152da20ff3e",
+  "question_text": "A teenager burns approximately 500 kJ of energy during a 30-minute football match. The same teenager consumes an energy drink containing 300 kJ. Explain why the teenager would need to eat additional food beyond just the energy drink to replace the energy lost during the match, and calculate how much more energy is needed.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy balance",
+    "food energy",
+    "physical activity"
+  ],
+  "options": null,
+  "correct_answer": "The energy drink only provides 300 kJ, but the teenager burned 500 kJ during the match. The difference is 500 kJ - 300 kJ = 200 kJ. Additional food providing at least 200 kJ is needed to fully replace the energy used.",
+  "explanation": "This tests understanding that food energy must match energy expenditure during exercise. Students must recognize the deficit and calculate the shortfall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/hard",
+  "scraped_at": "2026-04-05T11:22:52.810627",
+  "classified_at": "2026-04-05T11:22:52.810627",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

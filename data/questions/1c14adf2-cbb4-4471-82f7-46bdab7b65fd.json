@@ -1,0 +1,25 @@
+{
+  "id": "1c14adf2-cbb4-4471-82f7-46bdab7b65fd",
+  "question_text": "What is the difference between an elastic change and a plastic change in a material?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "elastic",
+    "plastic",
+    "deformation",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "An elastic change is temporary and the material returns to its original shape and size when the force is removed. A plastic change is permanent and the material keeps its new shape even after the force is removed.",
+  "explanation": "Stretching a rubber band and releasing it is an elastic change\u2014it springs back. Bending a paperclip is a plastic change\u2014it stays bent. Most materials can undergo both types of change depending on how much force is applied.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/easy",
+  "scraped_at": "2026-04-05T11:23:26.387748",
+  "classified_at": "2026-04-05T11:23:26.387748",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

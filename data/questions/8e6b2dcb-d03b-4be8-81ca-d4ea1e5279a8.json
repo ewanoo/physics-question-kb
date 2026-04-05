@@ -1,0 +1,24 @@
+{
+  "id": "8e6b2dcb-d03b-4be8-81ca-d4ea1e5279a8",
+  "question_text": "A weather balloon is filled with helium gas at sea level where the atmospheric pressure is 101 kPa. As the balloon rises into the atmosphere, the external pressure decreases to 50 kPa at a certain altitude. Predict and explain what happens to the balloon's volume.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "altitude",
+    "volume change"
+  ],
+  "options": null,
+  "correct_answer": "The balloon's volume will increase. As external pressure decreases, there is less force pushing on the balloon from outside. The helium gas inside pushes outward equally and expands the balloon to a larger size until pressures balance.",
+  "explanation": "Gas pressure and volume are inversely related (at constant temperature). As external pressure drops, the internal gas pressure is no longer balanced by external pressure, so the gas expands. This is why weather balloons grow larger as they rise.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.gas_pressure/hard",
+  "scraped_at": "2026-04-05T11:24:10.032726",
+  "classified_at": "2026-04-05T11:24:10.032726",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

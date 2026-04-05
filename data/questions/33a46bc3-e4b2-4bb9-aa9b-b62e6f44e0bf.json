@@ -1,0 +1,24 @@
+{
+  "id": "33a46bc3-e4b2-4bb9-aa9b-b62e6f44e0bf",
+  "question_text": "A solar panel system costs \u00a35000 to install and produces energy worth \u00a3400 per year. An equivalent diesel generator costs \u00a32000 to install but requires \u00a3600 of fuel per year. Compare the two options over a 10-year period and recommend which is more cost-effective for a remote location that must be self-sufficient for energy.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "cost analysis",
+    "sustainability"
+  ],
+  "options": null,
+  "correct_answer": "Solar: \u00a35000 + (\u00a30 \u00d7 10) = \u00a35000 total. Diesel: \u00a32000 + (\u00a3600 \u00d7 10) = \u00a38000 total. Solar is more cost-effective over 10 years by \u00a33000. For a remote location, solar is also better because it's renewable and doesn't require fuel supply chains.",
+  "explanation": "Students must calculate total costs over time and consider that renewable energy has no fuel costs, making it cheaper long-term despite higher initial investment.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/hard",
+  "scraped_at": "2026-04-05T11:22:52.811054",
+  "classified_at": "2026-04-05T11:22:52.811054",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

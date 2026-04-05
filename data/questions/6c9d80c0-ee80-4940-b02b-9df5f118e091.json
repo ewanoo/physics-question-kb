@@ -1,0 +1,24 @@
+{
+  "id": "6c9d80c0-ee80-4940-b02b-9df5f118e091",
+  "question_text": "A light bulb is supplied with 100 J of electrical energy and produces 15 J of light energy. What happens to the remaining energy?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "wasted energy",
+    "heat"
+  ],
+  "options": null,
+  "correct_answer": "The remaining 85 J of energy is converted to heat. Traditional incandescent light bulbs are inefficient because much of the electrical energy is wasted as unwanted heat rather than useful light.",
+  "explanation": "This shows how energy is conserved but not all of it becomes useful output. In this case, the bulb wastes 85% of its energy as heat, which is why incandescent bulbs are being replaced with more efficient LEDs.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/easy",
+  "scraped_at": "2026-04-05T11:22:15.180208",
+  "classified_at": "2026-04-05T11:22:15.180208",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b7e03360-a85d-4ff7-8c68-6474df3b0c07",
+  "question_text": "A spring is stretched by 5 cm when a 10 N force is applied. What is the spring constant?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "Hooke's Law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "200 N/m",
+  "explanation": "Using Hooke's Law: F = ke, where k is the spring constant. Rearranging: k = F/e = 10 N / 0.05 m = 200 N/m. The spring constant tells us how stiff the spring is.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/easy",
+  "scraped_at": "2026-04-05T11:23:26.387183",
+  "classified_at": "2026-04-05T11:23:26.387183",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

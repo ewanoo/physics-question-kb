@@ -1,0 +1,25 @@
+{
+  "id": "b284e515-0058-4dbe-a25c-628261e69e96",
+  "question_text": "A hydraulic system uses two pistons of different sizes. The small piston (area 0.01 m\u00b2) is pushed with a force of 500 N. The large piston (area 0.5 m\u00b2) is connected to lift a car. The pressure created by the small piston is transmitted through the fluid to the large piston. How much force can the large piston exert?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "hydraulics",
+    "multiplication",
+    "mechanical advantage"
+  ],
+  "options": null,
+  "correct_answer": "25,000 N",
+  "explanation": "Pressure in the fluid is the same everywhere: P = 500/0.01 = 50,000 Pa. On the large piston, force = pressure \u00d7 area = 50,000 \u00d7 0.5 = 25,000 N. This shows how hydraulics can multiply force using different piston sizes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.pressure/hard",
+  "scraped_at": "2026-04-05T11:23:26.386943",
+  "classified_at": "2026-04-05T11:23:26.386943",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "13af855c-8f7a-4dfd-b620-970b58a0f657",
+  "question_text": "Define voltage in a simple circuit.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage",
+    "definition",
+    "circuits"
+  ],
+  "options": null,
+  "correct_answer": "Voltage is the electrical potential difference (or energy per unit charge) between two points in a circuit. It is measured in volts (V).",
+  "explanation": "Voltage represents how much energy each unit of charge has as it moves through the circuit, like the 'push' that drives current around the circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/easy",
+  "scraped_at": "2026-04-05T11:22:15.178857",
+  "classified_at": "2026-04-05T11:22:15.178857",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

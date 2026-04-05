@@ -1,0 +1,24 @@
+{
+  "id": "c5876d22-c824-4b24-9049-f41dd7346a3f",
+  "question_text": "A ball is thrown upward with a kinetic energy of 80 J. As it rises, its kinetic energy decreases and gravitational potential energy increases. At the highest point, all the kinetic energy has been converted to gravitational potential energy. Explain what happens to the energy when the ball falls back down, and predict the kinetic energy when it returns to its starting height (assuming no air resistance).",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy conservation",
+    "energy conversion",
+    "gravitational potential energy"
+  ],
+  "options": null,
+  "correct_answer": "As the ball falls, gravitational potential energy is converted back into kinetic energy. When the ball returns to its starting height, all the potential energy is converted back to kinetic energy, so the kinetic energy will be 80 J. This demonstrates conservation of energy.",
+  "explanation": "This tests understanding of energy transformation between stores and the principle that total mechanical energy remains constant without friction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/hard",
+  "scraped_at": "2026-04-05T11:22:52.811170",
+  "classified_at": "2026-04-05T11:22:52.811170",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

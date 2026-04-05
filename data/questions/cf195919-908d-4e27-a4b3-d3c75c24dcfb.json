@@ -1,0 +1,24 @@
+{
+  "id": "cf195919-908d-4e27-a4b3-d3c75c24dcfb",
+  "question_text": "A satellite of mass 500 kg orbits Earth at a distance where the gravitational field strength is 3 N/kg. Calculate the gravitational force acting on the satellite. Then explain why this force is necessary for the satellite to remain in orbit rather than falling to Earth.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational force",
+    "field strength",
+    "orbital mechanics"
+  ],
+  "options": null,
+  "correct_answer": "F = m \u00d7 g = 500 \u00d7 3 = 1500 N. This force is necessary because it acts as the centripetal force, continuously pulling the satellite toward Earth's centre. This constant inward force causes the satellite to follow a curved path around Earth instead of moving in a straight line and escaping into space.",
+  "explanation": "Gravitational force provides the centripetal acceleration needed for circular orbital motion. Without this inward force, the satellite would travel in a straight line due to inertia.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/hard",
+  "scraped_at": "2026-04-05T11:24:10.033117",
+  "classified_at": "2026-04-05T11:24:10.033117",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

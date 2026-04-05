@@ -1,0 +1,25 @@
+{
+  "id": "e5be8278-d37c-48b1-bfb8-19fdbb8435a2",
+  "question_text": "A student is investigating the relationship between force and extension for a spring. After collecting data and drawing a graph, the student sees that the line curves upward at higher forces. What does this tell us about the spring's behavior?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "elastic limit",
+    "deformation",
+    "spring behavior",
+    "interpretation"
+  ],
+  "options": null,
+  "correct_answer": "The curved section shows that the spring has exceeded its elastic limit. Beyond this point, the spring no longer obeys Hooke's Law and undergoes plastic (permanent) deformation. A small increase in force now causes a large increase in extension.",
+  "explanation": "A straight line on a force-extension graph indicates Hooke's Law. A curve indicates the relationship is no longer linear. An upward curve means each additional newton of force causes increasingly larger extensions, showing the material is deforming permanently rather than elastically.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.types/hard",
+  "scraped_at": "2026-04-05T11:23:26.387620",
+  "classified_at": "2026-04-05T11:23:26.387620",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

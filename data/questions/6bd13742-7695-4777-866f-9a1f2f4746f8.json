@@ -1,0 +1,24 @@
+{
+  "id": "6bd13742-7695-4777-866f-9a1f2f4746f8",
+  "question_text": "A country currently generates 40% of its electricity from natural gas (non-renewable) and 30% from wind turbines (renewable). The remaining 30% comes from another source. Over the next 20 years, the government plans to double wind energy to 60% and reduce natural gas to 10%, with the remaining 30% from solar farms. Evaluate whether this is a sustainable change and explain what happens to the country's energy security.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable transition",
+    "energy sustainability",
+    "energy security"
+  ],
+  "options": null,
+  "correct_answer": "This is a sustainable change because renewables (wind + solar) increase from 30% to 90%, reducing dependence on non-renewable natural gas. Energy security improves because renewables are not affected by resource depletion or price volatility of fossil fuels, though it may depend on weather conditions. The country reduces carbon emissions and long-term environmental impacts.",
+  "explanation": "This requires students to compare energy sources, understand sustainability (long-term viability), and consider multiple factors affecting energy security including resource availability and environmental impact.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/hard",
+  "scraped_at": "2026-04-05T11:22:52.810994",
+  "classified_at": "2026-04-05T11:22:52.810994",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

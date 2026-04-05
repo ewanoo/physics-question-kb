@@ -1,0 +1,25 @@
+{
+  "id": "26436695-3bcb-4dfe-9dbd-32392ef1a514",
+  "question_text": "A car travels 150 km in 3 hours. What is the average speed of the car?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "distance",
+    "time",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "50 km/h",
+  "explanation": "Average speed is calculated by dividing the total distance by the total time: 150 km \u00f7 3 hours = 50 km/h.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.speed/easy",
+  "scraped_at": "2026-04-05T11:23:26.386999",
+  "classified_at": "2026-04-05T11:23:26.386999",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

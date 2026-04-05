@@ -1,0 +1,24 @@
+{
+  "id": "2159c597-5171-4da2-81e1-4eb498c43999",
+  "question_text": "A portion of pasta contains 1800 kJ of energy. A student uses 600 kJ of energy during a 1-hour revision session. How much energy from the pasta would still remain stored in the student's body after the revision session?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy from food",
+    "energy use",
+    "simple calculation"
+  ],
+  "options": null,
+  "correct_answer": "1200 kJ",
+  "explanation": "Subtract the energy used from the energy in the food: 1800 kJ - 600 kJ = 1200 kJ. The remaining energy is stored in the body for later use.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/medium",
+  "scraped_at": "2026-04-05T11:22:52.810721",
+  "classified_at": "2026-04-05T11:22:52.810721",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

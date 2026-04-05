@@ -1,0 +1,24 @@
+{
+  "id": "f35bc597-6a39-478f-b659-567e5048078e",
+  "question_text": "What does the weight of an object tell us?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravity",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Weight is the force of gravity acting on an object, measured in Newtons (N).",
+  "explanation": "Weight is specifically the gravitational force pulling on an object. It is different from mass, which is the amount of matter in an object and stays the same everywhere.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.gravity/easy",
+  "scraped_at": "2026-04-05T11:23:26.386508",
+  "classified_at": "2026-04-05T11:23:26.386508",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "412b61e5-ab6f-4583-8d4b-45354f39a614",
+  "question_text": "Two teams are playing tug-of-war. Team A pulls with a force of 300 N to the left, and Team B pulls with a force of 300 N to the right. The rope does not move. Calculate the net force and explain what this tells us about the teams' motion.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "net force",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "Net force = 300 N - 300 N = 0 N. The net force is zero, meaning the rope remains stationary and neither team accelerates. The forces are balanced.",
+  "explanation": "When forces in opposite directions are equal, they cancel out to produce zero net force, resulting in no acceleration and no change in motion.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.balanced/medium",
+  "scraped_at": "2026-04-05T11:22:52.811340",
+  "classified_at": "2026-04-05T11:22:52.811340",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

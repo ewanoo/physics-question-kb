@@ -1,0 +1,24 @@
+{
+  "id": "41bee637-be09-4537-af0d-281109b5772f",
+  "question_text": "Explain why we need food energy and name two things our bodies use this energy for.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "metabolism",
+    "biological processes"
+  ],
+  "options": null,
+  "correct_answer": "We need food energy to fuel all our biological processes. Two examples are: (1) maintaining body temperature and (2) movement/muscle contraction. Other valid answers include: growth, repairing tissues, and transmitting nerve signals.",
+  "explanation": "Food provides the chemical energy that our bodies convert into the mechanical energy of movement, heat energy to maintain temperature, and energy for growth and repair. This demonstrates that energy transformations occur in living systems too.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/easy",
+  "scraped_at": "2026-04-05T11:22:15.180777",
+  "classified_at": "2026-04-05T11:22:15.180777",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

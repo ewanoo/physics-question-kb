@@ -1,0 +1,25 @@
+{
+  "id": "c30a799b-7673-4550-b3b8-9313110f64b7",
+  "question_text": "A student hangs different masses from a spring and measures the extension. The results are: 100 g \u2192 2 cm, 200 g \u2192 4 cm, 300 g \u2192 6 cm, 400 g \u2192 10 cm. At what point does the spring deviate from Hooke's Law and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's Law",
+    "elastic limit",
+    "data analysis",
+    "proportionality"
+  ],
+  "options": null,
+  "correct_answer": "At 400 g (4 N), the spring deviates from Hooke's Law. The first three data points show proportional extension (doubling mass doubles extension), but at 400 g the extension increases disproportionately to 10 cm instead of 8 cm, indicating the elastic limit has been exceeded.",
+  "explanation": "Hooke's Law predicts that 400 g should stretch the spring by 8 cm (proportional to 300 g at 6 cm), but instead it stretches 10 cm. This larger-than-expected extension shows the spring has passed its elastic limit and is being permanently deformed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/medium",
+  "scraped_at": "2026-04-05T11:23:26.387522",
+  "classified_at": "2026-04-05T11:23:26.387522",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

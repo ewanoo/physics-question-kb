@@ -1,0 +1,46 @@
+{
+  "id": "6d4f03c1-8503-4bec-9c02-7e59c9d8dda3",
+  "question_text": "A piece of clay is rolled, stretched, and shaped into a sculpture. What type of material change has occurred?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "plastic change",
+    "deformation",
+    "clay",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "An elastic change, because you can reshape it again",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A plastic change, because the clay keeps its new shape permanently",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "No change has occurred to the material",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A chemical change, because the clay becomes harder",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Clay undergoes plastic deformation when shaped. It permanently keeps its new form because the particles inside have been rearranged and don't spring back when you stop applying force. You can reshape it again, but that's a new plastic change, not a return to the original shape.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.changes/easy",
+  "scraped_at": "2026-04-05T11:23:26.388133",
+  "classified_at": "2026-04-05T11:23:26.388133",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

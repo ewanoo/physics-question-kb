@@ -1,0 +1,25 @@
+{
+  "id": "488b21fd-6e09-4edc-830b-6a78782dfe8b",
+  "question_text": "A rectangular block exerts a force of 120 N on a table. When resting on its smallest face (0.2 m \u00d7 0.3 m), the pressure is 2000 Pa. When the same block is placed on its largest face, the pressure becomes 1000 Pa. What is the area of the largest face?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "calculation",
+    "area",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "0.12 m\u00b2",
+  "explanation": "Using pressure = force/area: for the smallest face, area = 120/2000 = 0.06 m\u00b2 (which checks: 0.2 \u00d7 0.3 = 0.06 m\u00b2). For the largest face, 1000 = 120/area, so area = 120/1000 = 0.12 m\u00b2.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.pressure/hard",
+  "scraped_at": "2026-04-05T11:23:26.386889",
+  "classified_at": "2026-04-05T11:23:26.386889",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efd6ef7b-d37c-4eb0-840f-efb456b1c4ad",
+  "question_text": "A seesaw has two children sitting on it. Child A (40 kg) sits 1.5 m from the pivot on the left. Child B (30 kg) sits on the right side. Where should Child B sit to balance the seesaw, assuming gravity pulls down at 10 N/kg?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "balance",
+    "distance",
+    "leverage"
+  ],
+  "options": null,
+  "correct_answer": "2 m from the pivot",
+  "explanation": "Child A creates a moment of 40 \u00d7 10 \u00d7 1.5 = 600 Nm. For balance, Child B must create the same moment: 30 \u00d7 10 \u00d7 d = 600, so d = 2 m. Child B must sit 2 m from the pivot on the opposite side.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.moments/hard",
+  "scraped_at": "2026-04-05T11:23:26.386693",
+  "classified_at": "2026-04-05T11:23:26.386693",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "104cc06a-aec9-4d97-918e-4767e99289a6",
+  "question_text": "A heating system transfers 8000 J of heat energy into a room, but 2000 J escapes through the windows and walls. Calculate the efficiency of the heating system.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "heating",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Efficiency = 75%. The useful energy is 8000 - 2000 = 6000 J (energy that stays in the room). Efficiency = (6000 \u00f7 8000) \u00d7 100 = 75%.",
+  "explanation": "This is a practical application where students must identify which energy is 'useful' (stays in the room) and which is 'wasted' (escapes), then apply the efficiency formula. It shows why improving insulation in buildings is important for energy conservation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/medium",
+  "scraped_at": "2026-04-05T11:22:15.180613",
+  "classified_at": "2026-04-05T11:22:15.180613",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

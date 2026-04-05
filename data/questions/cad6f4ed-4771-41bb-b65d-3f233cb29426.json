@@ -1,0 +1,45 @@
+{
+  "id": "cad6f4ed-4771-41bb-b65d-3f233cb29426",
+  "question_text": "What is the primary energy source that powers a coal-fired power station?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "fossil fuels",
+    "power generation",
+    "non-renewable"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy stored in coal",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy from wind",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Potential energy from water falling",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Heat energy from the sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Coal is a fossil fuel containing stored chemical energy from ancient plants. When burned, this chemical energy is released as heat to generate electricity.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.resources/easy",
+  "scraped_at": "2026-04-05T11:22:52.810865",
+  "classified_at": "2026-04-05T11:22:52.810865",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c1a4bcf7-6c94-4bfa-8ba1-95386d1dd75e",
+  "question_text": "A student rubs a balloon with wool and discovers it becomes negatively charged. Two scenarios follow: (1) The balloon is brought near a positively charged rod, and (2) The balloon is brought near another negatively charged balloon. Predict what will happen in each scenario and explain the physics.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "electric force",
+    "attraction and repulsion"
+  ],
+  "options": null,
+  "correct_answer": "Scenario 1: The balloon will be attracted to the positively charged rod because opposite charges attract. Scenario 2: The balloon will be repelled by the other negatively charged balloon because like charges repel.",
+  "explanation": "This tests understanding of Coulomb's law at a basic level\u2014opposite charges attract and like charges repel. The student must apply the rule to two different situations and explain the reasoning behind each prediction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.static/hard",
+  "scraped_at": "2026-04-05T11:22:15.179407",
+  "classified_at": "2026-04-05T11:22:15.179407",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

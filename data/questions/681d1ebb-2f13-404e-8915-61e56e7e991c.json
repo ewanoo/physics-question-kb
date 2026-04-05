@@ -1,0 +1,45 @@
+{
+  "id": "681d1ebb-2f13-404e-8915-61e56e7e991c",
+  "question_text": "White light is made up of different colours mixed together. What happens when you mix the primary colours of light (red, green, and blue) in equal amounts?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "primary colours",
+    "light mixing",
+    "additive colours"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "You get black because mixing all colours cancels them out",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "You get white light because all colours of light combined appear white",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "You get a muddy brown colour",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "You get cyan because green and blue mix",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When red, green, and blue light (the primary colours of light) are mixed in equal amounts, they produce white light. This is called additive mixing and is how screens and televisions create colours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/medium",
+  "scraped_at": "2026-04-05T11:24:10.033847",
+  "classified_at": "2026-04-05T11:24:10.033847",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

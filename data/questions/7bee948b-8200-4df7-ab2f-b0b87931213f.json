@@ -1,0 +1,45 @@
+{
+  "id": "7bee948b-8200-4df7-ab2f-b0b87931213f",
+  "question_text": "A permanent magnet is cut in half along its length (parallel to the poles). What is the result?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "magnetic poles",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "You create one north pole and one south pole",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "You destroy the magnetic properties completely",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "You create two new magnets, each with their own north and south poles",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The two halves repel each other permanently",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Magnetic poles cannot be isolated\u2014every magnet has both a north and south pole. When you cut a magnet, you create two smaller magnets, each with their own pair of poles. This is because magnetism comes from the alignment of atomic particles throughout the material.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.magnets/hard",
+  "scraped_at": "2026-04-05T11:22:15.179107",
+  "classified_at": "2026-04-05T11:22:15.179107",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "576cc109-1cf2-486c-b240-017d7cde499e",
+  "question_text": "Which of the following best describes the force of gravity?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "definition",
+    "force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A pulling force that attracts all objects towards the Earth",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A pushing force that keeps objects on the ground",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A force that only affects heavy objects",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A force that increases when an object moves faster",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Gravity is a pulling force that attracts objects towards the Earth. It acts on all objects with mass, not just heavy ones, and its strength doesn't depend on how fast something is moving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.gravity/easy",
+  "scraped_at": "2026-04-05T11:23:26.386235",
+  "classified_at": "2026-04-05T11:23:26.386235",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "847e733f-9b15-4fad-8dfa-899999090a3c",
+  "question_text": "When white light passes through a prism, it separates into a spectrum of colours. Explain why different colours bend by different amounts, and which colour bends the most.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "refraction",
+    "dispersion",
+    "prism",
+    "wavelength"
+  ],
+  "options": null,
+  "correct_answer": "Different colours have different wavelengths and travel at slightly different speeds in glass. Violet light has the shortest wavelength and travels slowest in glass, causing it to bend the most. Red light has the longest wavelength, travels fastest, and bends the least. This bending at different angles is called dispersion.",
+  "explanation": "Refraction (bending) happens because light slows down in denser materials like glass. Shorter wavelengths (violet) slow down more than longer wavelengths (red), causing different bending angles and separating white light into colours.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/hard",
+  "scraped_at": "2026-04-05T11:24:10.033590",
+  "classified_at": "2026-04-05T11:24:10.033590",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

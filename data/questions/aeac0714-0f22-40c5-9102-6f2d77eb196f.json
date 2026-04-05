@@ -1,0 +1,24 @@
+{
+  "id": "aeac0714-0f22-40c5-9102-6f2d77eb196f",
+  "question_text": "A student heats a block of ice and measures its temperature every minute. She notices that the temperature stops increasing for several minutes while the ice melts, then starts increasing again when all the ice has melted. Explain why the temperature remains constant during melting.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "melting",
+    "energy transfer",
+    "particle model"
+  ],
+  "options": null,
+  "correct_answer": "During melting, the heat energy is used to break the bonds holding particles in fixed positions (overcome the solid structure), not to increase the speed of particles. Once all particles are free to move (liquid state), further heating increases particle speed and temperature rises again.",
+  "explanation": "When a solid melts, energy goes into changing the arrangement of particles, not their speed. Temperature measures how fast particles move, so it stays constant until the phase change completes.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.particles/medium",
+  "scraped_at": "2026-04-05T11:24:10.032875",
+  "classified_at": "2026-04-05T11:24:10.032875",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

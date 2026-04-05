@@ -1,0 +1,24 @@
+{
+  "id": "a14628d5-67ac-43a2-87c9-88b3358d1781",
+  "question_text": "A car engine converts chemical energy from petrol into mechanical energy to move the car. If the engine has an efficiency of 25%, what happens to the other 75% of the energy?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "wasted heat",
+    "real-world"
+  ],
+  "options": null,
+  "correct_answer": "The other 75% of energy is wasted, mainly as heat through the exhaust gases and engine cooling systems. Some is also lost due to friction in moving parts.",
+  "explanation": "Car engines are relatively inefficient; most of the energy from burning fuel is wasted as heat. This is why cars need cooling systems and why exhaust gases are hot. This real-world example helps students understand why energy efficiency matters.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/medium",
+  "scraped_at": "2026-04-05T11:22:15.180523",
+  "classified_at": "2026-04-05T11:22:15.180523",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

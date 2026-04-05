@@ -1,0 +1,24 @@
+{
+  "id": "01ed1334-25da-4862-a48e-36e74f2aad7e",
+  "question_text": "A skier slides down an icy slope (very smooth surface) and then slides onto rough snow. Explain what happens to the friction force and describe the effect on the skier's motion.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "rough surfaces",
+    "deceleration"
+  ],
+  "options": null,
+  "correct_answer": "The friction force increases when the skier moves from the smooth ice to the rough snow. The increased friction opposes the skier's motion more strongly, causing the skier to decelerate (slow down).",
+  "explanation": "Rough surfaces create greater friction than smooth surfaces. This increased friction force causes greater deceleration as it more strongly opposes the skier's motion.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/medium",
+  "scraped_at": "2026-04-05T11:22:52.811790",
+  "classified_at": "2026-04-05T11:22:52.811790",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

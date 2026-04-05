@@ -1,0 +1,45 @@
+{
+  "id": "6680100d-b271-4c12-84bd-c64b209f7ec9",
+  "question_text": "Which of the following best describes what asteroids are?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "asteroids",
+    "solar system",
+    "small bodies"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Small rocky objects that orbit the Sun, mainly found in the asteroid belt between Mars and Jupiter",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Frozen balls of ice and dust that only appear near Earth",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Moons that have broken free from planets",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pieces of planets that have been destroyed by collisions",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Asteroids are small rocky bodies that orbit the Sun. Most are found in the asteroid belt between Mars and Jupiter, though some have orbits that bring them closer to Earth.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/easy",
+  "scraped_at": "2026-04-05T11:24:10.033245",
+  "classified_at": "2026-04-05T11:24:10.033245",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

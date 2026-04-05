@@ -1,0 +1,45 @@
+{
+  "id": "53f4281f-ca88-4624-99df-500b59e2834b",
+  "question_text": "What is electric current measured in?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "units",
+    "measurement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Volts",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Amperes",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Watts",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ohms",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Electric current is the flow of charge through a circuit and is measured in amperes (A). Volts measure voltage, watts measure power, and ohms measure resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/easy",
+  "scraped_at": "2026-04-05T11:22:15.178589",
+  "classified_at": "2026-04-05T11:22:15.178589",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

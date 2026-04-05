@@ -1,0 +1,24 @@
+{
+  "id": "c95b0f4f-ce0b-4038-88cb-dd0a69f3802a",
+  "question_text": "A student pushes a wooden block across a table with a force of 5 N, and the block slides at constant velocity. What is the friction force acting on the block?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "balanced forces",
+    "constant velocity"
+  ],
+  "options": null,
+  "correct_answer": "5 N",
+  "explanation": "Since the block moves at constant velocity, the forces are balanced (net force = 0). The friction force must equal the applied force (5 N) and act in the opposite direction.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/medium",
+  "scraped_at": "2026-04-05T11:22:52.811732",
+  "classified_at": "2026-04-05T11:22:52.811732",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

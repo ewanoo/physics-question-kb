@@ -1,0 +1,24 @@
+{
+  "id": "ff500355-7357-45d9-b6fc-b113181acb4c",
+  "question_text": "Two kettles both boil 1 litre of water, but Kettle A takes 5 minutes while Kettle B takes 10 minutes. Both are supplied with the same electrical energy. Compare their efficiencies and explain any differences.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "power",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Both kettles have the same efficiency because they both convert the same amount of electrical energy into the same amount of heat energy in the water (with the same waste losses). However, Kettle A is more powerful because it delivers the same energy output in half the time. Efficiency is about energy conversion, not speed.",
+  "explanation": "This distinguishes between efficiency and power\u2014key concepts that students often confuse. A faster device isn't necessarily more efficient; it just delivers energy more quickly. Both kettles waste the same fraction of energy as heat to the surroundings.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T11:22:15.180469",
+  "classified_at": "2026-04-05T11:22:15.180469",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

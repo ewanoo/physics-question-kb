@@ -1,0 +1,25 @@
+{
+  "id": "78eddfe2-b626-438e-9daf-52cb23aa1e58",
+  "question_text": "What does Hooke's Law state about springs?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's Law",
+    "springs",
+    "extension",
+    "force"
+  ],
+  "options": null,
+  "correct_answer": "The extension of a spring is proportional to the force applied to it (as long as the limit of proportionality is not exceeded).",
+  "explanation": "Hooke's Law (F = ke) tells us that doubling the force will double the extension, tripling the force will triple the extension, and so on. This relationship only works while the spring hasn't been stretched too far.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/easy",
+  "scraped_at": "2026-04-05T11:23:26.387122",
+  "classified_at": "2026-04-05T11:23:26.387122",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

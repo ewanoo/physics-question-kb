@@ -1,0 +1,45 @@
+{
+  "id": "9db825dc-ea40-4505-8175-4d2f85d5bc60",
+  "question_text": "What does the term 'speed' measure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed",
+    "definition",
+    "motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How fast something is moving in a specific direction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How fast something is moving regardless of direction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The distance an object has travelled",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The time it takes to travel somewhere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Speed is a measure of how fast something is moving, without regard to direction. If direction is included, that's called velocity. Speed is calculated by dividing distance by time.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.speed/easy",
+  "scraped_at": "2026-04-05T11:23:26.387054",
+  "classified_at": "2026-04-05T11:23:26.387054",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

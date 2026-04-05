@@ -1,0 +1,45 @@
+{
+  "id": "2277a9c4-e883-45ed-a02e-8f363699231c",
+  "question_text": "Which statement best describes what particles are in solids, liquids, and gases?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "particle model",
+    "states of matter",
+    "particle arrangement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are only found in gases; solids and liquids have no particles.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All matter is made of particles that are always moving, but arranged and moving differently in each state.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles in solids are stationary and don't move at all.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles are much larger in liquids than in gases.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "All states of matter are made of the same particles, but their arrangement and movement differ. In solids, particles vibrate in fixed positions; in liquids, they move around but stay close together; in gases, they move freely and far apart.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.particles/medium",
+  "scraped_at": "2026-04-05T11:24:10.032792",
+  "classified_at": "2026-04-05T11:24:10.032792",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

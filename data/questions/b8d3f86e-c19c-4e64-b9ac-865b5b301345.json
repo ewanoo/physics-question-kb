@@ -1,0 +1,45 @@
+{
+  "id": "b8d3f86e-c19c-4e64-b9ac-865b5b301345",
+  "question_text": "A red object appears red in white light because...",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "colour",
+    "light absorption",
+    "reflection"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It absorbs all colours of light except red, which it reflects",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "It produces red light from within itself",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It absorbs red light and reflects all other colours",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Red light has a longer wavelength so it passes through better",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Objects appear coloured because they absorb certain wavelengths and reflect others. A red object absorbs all colours except red, which it reflects to our eyes. This is how we perceive its colour.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/easy",
+  "scraped_at": "2026-04-05T11:24:10.033491",
+  "classified_at": "2026-04-05T11:24:10.033491",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
