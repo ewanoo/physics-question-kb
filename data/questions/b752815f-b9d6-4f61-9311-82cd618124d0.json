@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes what happens when an ammeter is placed in a circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "measuring current",
+    "ammeter",
+    "circuit devices"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "An ammeter should be connected in parallel with the component",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An ammeter must be connected in series with the circuit to measure current",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "An ammeter measures voltage across a component",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "An ammeter should have very high resistance to avoid affecting the circuit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Ammeters measure current and must be connected in series (in line with the circuit) so the current flows through them. They have very low resistance so they don't affect the circuit measurements.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b752815f-b9d6-4f61-9311-82cd618124d0"
+}

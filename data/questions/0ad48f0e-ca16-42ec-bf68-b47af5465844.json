@@ -1,0 +1,38 @@
+{
+  "question_text": "What happens to an electromagnet when the electric current is switched off?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet behavior",
+    "current",
+    "magnetism"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It remains magnetic permanently",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It loses its magnetism",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It becomes stronger",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It changes into a permanent magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Electromagnets depend on electric current to create their magnetic field. When you turn off the current, the magnetic field disappears and the electromagnet stops being magnetic.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0ad48f0e-ca16-42ec-bf68-b47af5465844"
+}

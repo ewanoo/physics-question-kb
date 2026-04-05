@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain why a piece of food is said to have a chemical energy store.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "food",
+    "energy in living things"
+  ],
+  "options": null,
+  "correct_answer": "Food contains chemical energy because the bonds between atoms in the food molecules store energy. When food is digested or burned, this chemical energy is released and can be used by the body or converted to other forms of energy.",
+  "explanation": "Chemical energy is stored in the bonds between atoms and molecules. Food molecules contain chemical energy that is released when they are broken down during digestion, providing energy for our bodies to function.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d0cd2c7b-8bc5-4c5e-838a-598623fded12"
+}

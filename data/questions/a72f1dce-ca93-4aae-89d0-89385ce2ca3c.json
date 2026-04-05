@@ -1,0 +1,17 @@
+{
+  "question_text": "Name three different energy stores and give one example of each.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "energy stores",
+    "types of energy",
+    "examples"
+  ],
+  "options": null,
+  "correct_answer": "Any three from: Gravitational potential (book on shelf), Elastic (stretched spring), Chemical (battery/food), Kinetic (moving car), Thermal (hot water). Accept equivalent sensible examples.",
+  "explanation": "There are many different energy stores in physics. Any three correct stores with appropriate examples demonstrate understanding of the variety of energy stores found in everyday situations.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a72f1dce-ca93-4aae-89d0-89385ce2ca3c"
+}

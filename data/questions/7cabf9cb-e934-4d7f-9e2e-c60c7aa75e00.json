@@ -1,0 +1,18 @@
+{
+  "question_text": "An electromagnet with 100 coils uses 3 amperes of current and has a magnetic field strength of 60 units. What would the magnetic field strength be if the current were reduced to 1 ampere, assuming all other factors stay the same?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "current",
+    "magnetic field",
+    "proportional relationship",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "20 units",
+  "explanation": "The magnetic field strength is directly proportional to the current. If the current is reduced to 1/3 of its original value (from 3A to 1A), the magnetic field strength is also reduced to 1/3 of its original value (60 divided by 3 equals 20 units).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7cabf9cb-e934-4d7f-9e2e-c60c7aa75e00"
+}

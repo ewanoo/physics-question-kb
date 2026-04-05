@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following will increase the strength of an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "factors",
+    "current"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Decreasing the number of coils",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increasing the electric current flowing through the coil",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Removing the iron core",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Using a plastic core instead of iron",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Increasing the current makes the magnetic field stronger. More coils and an iron core also increase the strength, but removing the core or using plastic would weaken it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "873a3389-6732-4533-a5ec-3f5bf3161790"
+}

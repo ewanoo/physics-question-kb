@@ -1,0 +1,38 @@
+{
+  "question_text": "A compressed spring is released and pushes a ball across a frictionless surface. Which energy stores are involved in this process?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic energy",
+    "kinetic energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Only elastic potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Elastic potential energy converting to kinetic energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy converting to thermal energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Chemical energy converting to elastic energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The spring starts with energy in an elastic potential energy store. As it is released, this energy is converted to kinetic energy, making the ball move. On a frictionless surface, there is no energy loss to thermal energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bf6b3031-4f70-4360-adc0-85d54642868d"
+}

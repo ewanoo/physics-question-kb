@@ -1,0 +1,17 @@
+{
+  "question_text": "A 3 kg object is thrown upward with a velocity that gives it 120 J of kinetic energy. Calculate the velocity of the object. (Use the formula KE = 0.5 \u00d7 mass \u00d7 velocity\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "velocity calculation",
+    "energy formula"
+  ],
+  "options": null,
+  "correct_answer": "8.94 m/s or approximately 9 m/s",
+  "explanation": "Rearranging KE = 0.5 \u00d7 m \u00d7 v\u00b2, we get v = \u221a(2 \u00d7 KE / m). So v = \u221a(2 \u00d7 120 / 3) = \u221a80 = 8.94 m/s. This shows how kinetic energy depends on both mass and velocity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9edd53a0-7481-4cd4-b68a-8bf08525b296"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes the difference between a permanent magnet and an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "permanent magnet",
+    "electromagnet",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Permanent magnets are always stronger than electromagnets",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An electromagnet's magnetism depends on electric current, while a permanent magnet's magnetism is always present",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Only permanent magnets can be turned on and off",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electromagnets use iron while permanent magnets do not",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The key difference is that electromagnets need electricity to work and can be switched on and off, while permanent magnets are always magnetic without needing a power source.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "01f4e485-30c8-4a90-ad8e-2847b3dc83bc"
+}

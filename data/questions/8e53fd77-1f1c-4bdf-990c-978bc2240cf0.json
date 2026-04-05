@@ -1,0 +1,17 @@
+{
+  "question_text": "A tennis ball with a mass of 0.06 kg falls to the ground. The gravitational field strength is 10 N/kg. Calculate the weight of the ball.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "weight calculation",
+    "gravitational force",
+    "mass and weight"
+  ],
+  "options": null,
+  "correct_answer": "0.6 N",
+  "explanation": "Weight is calculated using the formula: weight = mass x gravitational field strength. So weight = 0.06 kg x 10 N/kg = 0.6 N. Weight is measured in newtons and is a force caused by gravity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8e53fd77-1f1c-4bdf-990c-978bc2240cf0"
+}

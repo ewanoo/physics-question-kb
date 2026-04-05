@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of gravitational potential energy store?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "energy stores",
+    "examples"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A ball rolling down a hill",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A book sitting on a high shelf",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A stretched rubber band",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A hot cup of tea",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A book on a high shelf has gravitational potential energy because it is at height above the ground. If it falls, this energy converts to kinetic energy. The other options show elastic, kinetic, or thermal energy stores instead.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "01e1e14f-a357-4eac-ab33-50bb60c45242"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes gravitational force?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "gravitational force",
+    "non-contact forces",
+    "weight"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A contact force between two rough surfaces",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A non-contact force that pulls objects toward the Earth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A force that only acts on heavy objects",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A force created by friction between objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational force is a non-contact force that pulls all objects toward the Earth, regardless of their mass. It acts over a distance and is responsible for what we call weight.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dff57a31-d1fa-46d6-a2ca-0b172d4bdbbc"
+}

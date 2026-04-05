@@ -1,0 +1,38 @@
+{
+  "question_text": "In a parallel circuit with two identical resistors, how does the total resistance compare to the resistance of a single resistor?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "resistance",
+    "circuit analysis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total resistance is double the single resistor",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The total resistance equals the single resistor",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The total resistance is half the single resistor",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The total resistance cannot be calculated without more information",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In parallel circuits, adding more resistors creates more paths for current, so total resistance decreases. With two identical resistors in parallel, the total resistance is half of one resistor's value because current can take two paths instead of one.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "33ccbc68-a1a3-4e0a-aa43-8dfa1e258d0a"
+}

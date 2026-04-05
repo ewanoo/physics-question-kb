@@ -1,0 +1,38 @@
+{
+  "question_text": "Which type of force is responsible for a magnet attracting iron filings?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "magnetic force",
+    "non-contact forces",
+    "magnetism"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Magnetic force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Normal force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Applied force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Magnetic force is a non-contact force that acts between magnetic materials. Magnets can attract iron without touching it because the magnetic field extends into the space around the magnet.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "687a9638-fac0-4eae-9808-f04248360dba"
+}

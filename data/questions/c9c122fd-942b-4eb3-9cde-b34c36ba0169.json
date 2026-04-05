@@ -1,0 +1,18 @@
+{
+  "question_text": "An electromagnet has 50 coils and a current of 2 amperes flowing through it. If the current is increased to 4 amperes, how does the magnetic field strength change?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "current",
+    "magnetic field",
+    "strength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "The magnetic field strength doubles (or increases by a factor of 2) because the current has doubled.",
+  "explanation": "The strength of an electromagnet is directly proportional to the current flowing through it. If you double the current from 2A to 4A, you double the magnetic field strength.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c9c122fd-942b-4eb3-9cde-b34c36ba0169"
+}

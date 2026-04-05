@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is the correct symbol for a variable resistor in a circuit diagram?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit symbols",
+    "resistors",
+    "circuit diagrams"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A rectangle with a diagonal line through it",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A circle with an X inside",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A zigzag line",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A rectangle with two parallel lines",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A variable resistor (or rheostat) is shown as a rectangle with a diagonal arrow through it in circuit diagrams. This symbol helps us identify components that can change resistance in a circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e1cc7116-0403-4321-97b5-52171518797e"
+}

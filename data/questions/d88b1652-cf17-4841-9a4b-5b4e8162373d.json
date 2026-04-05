@@ -1,0 +1,17 @@
+{
+  "question_text": "A book is resting on a table. Name two forces acting on the book.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "force identification",
+    "weight",
+    "normal force"
+  ],
+  "options": null,
+  "correct_answer": "Weight (gravitational force) and normal force (or reaction force from the table).",
+  "explanation": "The Earth's gravity pulls the book downward (weight), and the table pushes up on the book with an equal and opposite force (normal force). These two forces balance, so the book doesn't accelerate.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d88b1652-cf17-4841-9a4b-5b4e8162373d"
+}

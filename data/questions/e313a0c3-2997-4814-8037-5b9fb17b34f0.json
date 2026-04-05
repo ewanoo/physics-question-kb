@@ -1,0 +1,38 @@
+{
+  "question_text": "Which energy store is being used when a battery powers a light bulb?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "batteries",
+    "electrical devices"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Thermal energy store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy store",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy store",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Elastic energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A battery stores energy in a chemical energy store. When the battery is connected in a circuit, the chemical energy is converted to electrical energy to power the light bulb.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e313a0c3-2997-4814-8037-5b9fb17b34f0"
+}

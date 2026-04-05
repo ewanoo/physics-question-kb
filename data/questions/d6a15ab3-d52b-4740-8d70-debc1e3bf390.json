@@ -1,0 +1,17 @@
+{
+  "question_text": "What is an electromagnet?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "definition",
+    "electromagnets",
+    "basics"
+  ],
+  "options": null,
+  "correct_answer": "An electromagnet is a magnet created by passing electric current through a coil of wire wrapped around an iron core.",
+  "explanation": "An electromagnet works by using electricity to create a magnetic field. The iron core helps to strengthen the magnetic field produced by the current flowing through the wire coil.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d6a15ab3-d52b-4740-8d70-debc1e3bf390"
+}

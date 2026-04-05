@@ -1,0 +1,17 @@
+{
+  "question_text": "A student lifts a 2 kg mass to a height of 5 metres. Calculate the gravitational potential energy gained by the mass. (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "calculation",
+    "GPE formula"
+  ],
+  "options": null,
+  "correct_answer": "100 J",
+  "explanation": "Use the formula GPE = mass \u00d7 gravity \u00d7 height. GPE = 2 \u00d7 10 \u00d7 5 = 100 Joules. This is the energy stored in the gravitational potential energy store of the lifted mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dcf2f65b-8016-410b-b05c-82fe14a1944b"
+}

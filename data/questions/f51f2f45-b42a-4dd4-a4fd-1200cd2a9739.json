@@ -1,0 +1,17 @@
+{
+  "question_text": "A car is being pushed across a floor with a force of 500 N. Friction opposes the motion with a force of 200 N. Calculate the net force on the car.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "net force",
+    "friction",
+    "force calculation"
+  ],
+  "options": null,
+  "correct_answer": "300 N",
+  "explanation": "Net force is found by adding all forces together, accounting for direction. The pushing force is 500 N forward and friction is 200 N backward, so the net force is 500 - 200 = 300 N in the direction of motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f51f2f45-b42a-4dd4-a4fd-1200cd2a9739"
+}

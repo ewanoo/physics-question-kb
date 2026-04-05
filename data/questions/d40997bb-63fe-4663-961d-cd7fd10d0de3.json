@@ -1,0 +1,17 @@
+{
+  "question_text": "Describe what happens to the energy in an elastic potential energy store when you release a compressed spring.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "energy transfer",
+    "springs"
+  ],
+  "options": null,
+  "correct_answer": "The elastic potential energy is converted to kinetic energy as the spring pushes outward and moves objects.",
+  "explanation": "When a compressed spring is released, the energy stored in the elastic potential energy store is transferred and converted into kinetic energy, causing movement. The spring returns to its natural shape as this energy is released.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d40997bb-63fe-4663-961d-cd7fd10d0de3"
+}

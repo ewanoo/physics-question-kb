@@ -1,0 +1,17 @@
+{
+  "question_text": "In a series circuit, what happens to the total resistance when you add more resistors?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "resistance",
+    "circuit behaviour"
+  ],
+  "options": null,
+  "correct_answer": "The total resistance increases (or gets larger/increases every time you add a resistor)",
+  "explanation": "In a series circuit, resistors are connected in a line, so the total resistance is the sum of all individual resistances. Adding more resistors means adding more opposition to current flow, so total resistance always increases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6a2af3ed-0ca0-4a4d-a4b8-e8b649276500"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A student builds a circuit with a 12-volt battery and wants a current of 3 amperes. Using Ohm's Law (R = V / I), calculate the resistance needed in the circuit.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "Ohm's Law",
+    "calculations",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "4 ohms (or 4 \u03a9)",
+  "explanation": "We rearrange Ohm's Law to find resistance: R = V / I = 12 / 3 = 4 ohms. This means we need a total resistance of 4 ohms to get 3 amperes of current from a 12-volt battery.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e46022fa-7035-45c5-a45b-ec460b8424f3"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A circuit has a total current of 2 amperes and a total resistance of 6 ohms. Calculate the potential difference across the circuit using Ohm's Law (V = I \u00d7 R).",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "Ohm's Law",
+    "calculations",
+    "potential difference"
+  ],
+  "options": null,
+  "correct_answer": "12 volts (or 12 V)",
+  "explanation": "Using Ohm's Law, we multiply current (2 A) by resistance (6 ohms) to get the potential difference: 2 \u00d7 6 = 12 volts. This tells us the voltage needed to push the current through the resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1a3bad8e-bf60-4ea0-bf31-96abfaf1ae60"
+}
