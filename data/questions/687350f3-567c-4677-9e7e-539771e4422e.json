@@ -1,0 +1,40 @@
+{
+  "question_text": "Which of the following statements about density is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density definition",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Density tells us how heavy an object is.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Density is the mass of a substance per unit volume.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Density increases when an object gets bigger.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All liquids have the same density as water.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Density is defined as mass per unit volume. Option A confuses density with mass alone. Option C is incorrect because increasing size doesn't change density. Option D is false because different liquids have different densities (e.g. oil is less dense than water).",
+  "quality_score": 4,
+  "id": "687350f3-567c-4677-9e7e-539771e4422e",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:05.162303"
+}

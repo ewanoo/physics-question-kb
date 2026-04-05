@@ -1,0 +1,41 @@
+{
+  "question_text": "The Moon orbits Earth, and we always see the same side of the Moon from Earth. Which statement best explains why this happens?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal locking",
+    "moon rotation",
+    "orbital mechanics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate, so the same side always faces Earth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon rotates at the same speed it orbits Earth, so the same side always faces us",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth's gravity is so strong it stops the Moon from rotating",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon is too far away for us to see its other side",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon is tidally locked to Earth, meaning it rotates once per orbit (about 27.3 days). This synchronisation means the same hemisphere always faces us. This happens because Earth's gravity has gradually slowed the Moon's rotation over billions of years.",
+  "quality_score": 4,
+  "id": "3f9621ef-0797-483e-8356-ac0ff696a7be",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:54.641643"
+}

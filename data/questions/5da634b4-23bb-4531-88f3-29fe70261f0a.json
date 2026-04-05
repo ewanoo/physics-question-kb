@@ -1,0 +1,42 @@
+{
+  "question_text": "The asteroid belt lies between Mars and Jupiter. Scientists estimate there are millions of asteroids in the belt. Which statement best explains why these asteroids never combined to form a full planet?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "asteroids",
+    "formation",
+    "gravity",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The asteroids are moving too fast and collide with each other",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Jupiter's strong gravity prevented the asteroids from gathering together",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun's gravity is too weak in the asteroid belt region",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Asteroids are made of materials that repel each other",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Jupiter's gravitational pull disturbed the asteroids as they formed, preventing them from accumulating into a single large body. Instead, the asteroids remained scattered throughout the belt.",
+  "quality_score": 4,
+  "id": "5da634b4-23bb-4531-88f3-29fe70261f0a",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:45.509484"
+}

@@ -1,0 +1,22 @@
+{
+  "question_text": "A balanced seesaw has a child of mass 30 kg sitting 1.5 m from the pivot on the left side. Another child sits on the right side, 1 m from the pivot. Calculate the mass of the child on the right side. (Use g = 10 N/kg)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "balanced",
+    "equilibrium",
+    "lever",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "45 kg",
+  "explanation": "For a balanced seesaw, clockwise moments = anticlockwise moments. Left side: force = 30 \u00d7 10 = 300 N; moment = 300 \u00d7 1.5 = 450 N\u00b7m. Right side: moment must also be 450 N\u00b7m. If distance = 1 m, then force = 450 \u00f7 1 = 450 N. Since force = mass \u00d7 10, mass = 450 \u00f7 10 = 45 kg.",
+  "quality_score": 4,
+  "id": "8fe2e1a9-dbbb-4378-9b5c-25776beb7344",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:15.965519"
+}

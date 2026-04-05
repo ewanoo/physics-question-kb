@@ -1,0 +1,20 @@
+{
+  "question_text": "What colour of light is produced when red light and cyan light are mixed together using coloured spotlights?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "light_mixing",
+    "additive_colour",
+    "primary_colours_light"
+  ],
+  "options": null,
+  "correct_answer": "White light (or white)",
+  "explanation": "Cyan light is a mixture of green and blue light. When red light is added to cyan (green + blue), all three primary colours of light are combined, which produces white light. This is additive colour mixing.",
+  "quality_score": 4,
+  "id": "a64a177d-48c0-4c65-be60-59595f335f9c",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:14:06.350136"
+}

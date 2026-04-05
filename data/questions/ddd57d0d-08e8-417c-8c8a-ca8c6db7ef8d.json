@@ -1,0 +1,21 @@
+{
+  "question_text": "A graphic designer is creating a logo on a computer screen. To make the colour magenta, the designer sets the red light to maximum brightness (255), the green light to minimum brightness (0), and the blue light to maximum brightness (255), on a scale of 0\u2013255. If the designer then reduces the blue light value to 128 while keeping red at 255 and green at 0, what colour will be displayed on the screen? Explain your reasoning.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "RGB_mixing",
+    "additive_colour",
+    "problem_solving",
+    "applied_reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Red or reddish colour (or dark red / red with reduced blue component)",
+  "explanation": "Originally, magenta is made from full red (255) + full blue (255) + no green (0). When blue is reduced to 128 (half brightness), there is now much more red light than blue light being emitted. The eye perceives this as predominantly red light with a small amount of blue, creating a red or reddish tone rather than magenta. This shows how reducing one of the RGB components shifts the perceived colour away from the original.",
+  "quality_score": 4,
+  "id": "ddd57d0d-08e8-417c-8c8a-ca8c6db7ef8d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:14:06.350313"
+}

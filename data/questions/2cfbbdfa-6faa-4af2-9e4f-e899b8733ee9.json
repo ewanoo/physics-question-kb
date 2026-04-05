@@ -1,0 +1,42 @@
+{
+  "question_text": "Which of the following statements about moments and levers is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "definition",
+    "lever",
+    "pivot"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A moment is the total amount of force acting on an object.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A moment is the turning effect of a force around a pivot.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A moment is only produced when a force pushes an object in a straight line.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A moment increases if the pivot point moves closer to where the force is applied.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A moment is defined as the turning effect of a force around a fixed point (pivot). The further the force is applied from the pivot, the larger the moment produced. Options A and C describe force, not moment; option D is backwards\u2014moving the pivot closer to the force reduces the distance and decreases the moment.",
+  "quality_score": 4,
+  "id": "2cfbbdfa-6faa-4af2-9e4f-e899b8733ee9",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:15.965416"
+}

@@ -1,0 +1,41 @@
+{
+  "question_text": "The planets in our solar system orbit the Sun in a specific order. Which of the following lists shows the first four planets in the correct order from the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "order",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury, Venus, Earth, Mars",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Venus, Mercury, Earth, Mars",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Mercury, Earth, Venus, Mars",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Earth, Mercury, Venus, Mars",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Mercury is closest to the Sun, followed by Venus, then Earth, and then Mars. These are the four inner rocky planets, often called terrestrial planets.",
+  "quality_score": 4,
+  "id": "e8c4dfb6-8ced-440f-bfdc-876737ecef34",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:45.509177"
+}

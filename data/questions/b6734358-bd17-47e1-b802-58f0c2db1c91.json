@@ -1,0 +1,20 @@
+{
+  "question_text": "A girl wearing high-heeled shoes (small heel area) and a sumo wrestler wearing flat sandals (large foot area) both stand on a wooden floor. They exert similar forces due to their weights. Why does the high heel leave a deeper mark in the wood?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure formula",
+    "everyday application",
+    "understanding"
+  ],
+  "options": null,
+  "correct_answer": "The high heel has a smaller contact area than the sandal. Since pressure = force / area, a smaller area produces higher pressure for the same force. The higher pressure causes more damage to the wood.",
+  "explanation": "This question tests whether students understand that pressure depends on both force AND area. Even though the forces are similar, the concentrated pressure from the small heel area is much greater, causing deeper indentation. This is a key conceptual insight for KS3.",
+  "quality_score": 4,
+  "id": "b6734358-bd17-47e1-b802-58f0c2db1c91",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:25.658067"
+}

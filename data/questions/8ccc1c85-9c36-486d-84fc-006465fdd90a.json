@@ -1,0 +1,20 @@
+{
+  "question_text": "A lunar eclipse occurs when the Moon passes through Earth's shadow. Explain what must be happening with the positions of the Sun, Earth, and Moon during a lunar eclipse.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar eclipse",
+    "positions",
+    "shadow"
+  ],
+  "options": null,
+  "correct_answer": "Earth must be between the Sun and Moon in a straight line. The Sun's light is blocked by Earth, casting Earth's shadow on the Moon, so the Moon appears dark or reddish.",
+  "explanation": "During a lunar eclipse, the three bodies must be aligned with Earth in the middle. Earth blocks sunlight from reaching the Moon. This can only happen during a full Moon when the Moon is on the opposite side of Earth from the Sun.",
+  "quality_score": 4,
+  "id": "8ccc1c85-9c36-486d-84fc-006465fdd90a",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:54.641893"
+}

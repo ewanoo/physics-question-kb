@@ -1,0 +1,21 @@
+{
+  "question_text": "A student uses a crowbar to lift a heavy rock. The pivot is placed 0.2 m from the rock, and the student pushes down on the crowbar 0.8 m away from the pivot. If the student pushes with a force of 150 N, what is the moment (turning effect) produced by the student's force?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "calculation",
+    "pivot",
+    "lever"
+  ],
+  "options": null,
+  "correct_answer": "120 N\u00b7m",
+  "explanation": "Moment = force \u00d7 perpendicular distance from pivot. The student pushes 0.8 m from the pivot with 150 N, so moment = 150 \u00d7 0.8 = 120 N\u00b7m. Note: the distance to the rock (0.2 m) is not needed for this calculation\u2014it would be used to find the force on the rock.",
+  "quality_score": 4,
+  "id": "219a887c-7e75-4301-9c61-c3879ffc86ed",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:15.965202"
+}

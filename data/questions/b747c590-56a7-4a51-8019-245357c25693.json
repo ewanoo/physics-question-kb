@@ -1,0 +1,42 @@
+{
+  "question_text": "A student has three magnetic materials: a permanent magnet, an iron nail, and a copper wire wrapped around an iron core with current flowing through it. Which of the following correctly orders these by their ability to produce a magnetic field?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "permanent magnets",
+    "induced magnetism",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Permanent magnet > electromagnet > iron nail (no field)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electromagnet > permanent magnet > iron nail (no field)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Permanent magnet and electromagnet (both strong) > iron nail (very weak field only near the permanent magnet)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Iron nail > electromagnet > permanent magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Both permanent magnets and electromagnets produce strong, independent magnetic fields. The iron nail only becomes magnetic when placed near a permanent magnet (induced magnetism), so it has no field of its own. The electromagnet can be switched on and off, whereas the permanent magnet's field is always present.",
+  "quality_score": 4,
+  "id": "b747c590-56a7-4a51-8019-245357c25693",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:36.745359"
+}

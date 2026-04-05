@@ -1,0 +1,21 @@
+{
+  "question_text": "A comet is observed passing through the inner solar system. It has a very elliptical orbit that takes it close to the Sun and then far out into space. Explain why a comet's tail always points away from the Sun, even when the comet is moving away from the Sun.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "comets",
+    "solar wind",
+    "gravity",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The tail points away from the Sun because the solar wind (particles from the Sun) pushes the comet's gas and dust away from the Sun. This happens regardless of whether the comet is moving towards or away from the Sun, because the solar wind always travels outwards from the Sun.",
+  "explanation": "This tests understanding that the comet's tail is pushed by the Sun's radiation and solar wind, not by the comet's direction of motion. Many students incorrectly think the tail trails behind like exhaust, but it always points away from the Sun due to solar radiation pressure.",
+  "quality_score": 4,
+  "id": "2b2a4903-b332-44fd-996e-bdfc77183fbc",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:45.509405"
+}

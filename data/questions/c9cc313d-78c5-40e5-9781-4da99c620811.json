@@ -1,0 +1,41 @@
+{
+  "question_text": "Which statement best explains why atmospheric pressure exists and pushes down on everything on Earth's surface?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "atmospheric pressure",
+    "recall",
+    "weight of air"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun's heat creates pressure that pushes air downwards.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The weight of the air above us pushing down creates atmospheric pressure.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure is caused by water evaporating from oceans and seas.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravity attracts air molecules upwards, creating a pressure zone.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Atmospheric pressure is caused by the weight of the entire column of air above pressing down on Earth's surface. This is why pressure decreases as you go higher (less air above you). Options A and C introduce irrelevant mechanisms; Option D reverses gravity's direction.",
+  "quality_score": 4,
+  "id": "c9cc313d-78c5-40e5-9781-4da99c620811",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:25.658270"
+}

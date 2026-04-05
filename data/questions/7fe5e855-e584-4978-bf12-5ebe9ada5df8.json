@@ -1,0 +1,21 @@
+{
+  "question_text": "A ball is dropped from a tall building. As it falls, gravitational potential energy is converted into kinetic energy. Why does the ball not gain infinite kinetic energy even though it keeps falling?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "energy conservation",
+    "air resistance",
+    "real-world application"
+  ],
+  "options": null,
+  "correct_answer": "Air resistance converts some of the gravitational potential energy into heat energy (in the air and ball). Eventually, the ball reaches terminal velocity when air resistance equals the weight, so no more kinetic energy is gained.",
+  "explanation": "This tests understanding that energy conservation still applies, but some energy is 'lost' to heat through friction. Students must recognise that energy is not destroyed\u2014it just transfers to other forms (heat) and that real-world systems involve energy dissipation, not just simple transfers.",
+  "quality_score": 4,
+  "id": "7fe5e855-e584-4978-bf12-5ebe9ada5df8",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:57.780923"
+}

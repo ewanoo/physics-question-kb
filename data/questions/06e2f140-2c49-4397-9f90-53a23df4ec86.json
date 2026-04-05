@@ -1,0 +1,21 @@
+{
+  "question_text": "A museum visitor looks at a painting where the artist has mixed blue paint and yellow paint together on the canvas. Separately, in a theatre, a lighting technician shines a blue spotlight and a yellow spotlight onto the same white wall. Explain why the colours produced in each situation are different.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "pigment_vs_light",
+    "subtractive_vs_additive",
+    "comparison",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The painting shows subtractive colour mixing: blue and yellow pigments absorb (subtract) certain wavelengths, leaving mainly green light to be reflected, so we see green. The theatre shows additive colour mixing: blue and yellow light waves combine in the eye, producing white light (or cyan/light blue), because blue and yellow light together contain most wavelengths of visible light.",
+  "explanation": "Paint pigments work by subtractive mixing\u2014they absorb colours and reflect what's left. Blue + yellow pigment = green (the colours not absorbed). Light sources use additive mixing\u2014all the light waves reach your eye together. Blue light + yellow light contains enough wavelengths to appear white or very light. This is a key difference between how pigments and light create colour.",
+  "quality_score": 4,
+  "id": "06e2f140-2c49-4397-9f90-53a23df4ec86",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:14:06.350226"
+}

@@ -1,0 +1,40 @@
+{
+  "question_text": "Which statement best describes what happens to an iron filing when it is placed next to a permanent magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "induced magnetism",
+    "temporary magnetism"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The iron filing becomes permanently magnetised and will stay magnetic forever",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The iron filing becomes temporarily magnetised by the permanent magnet's field and loses its magnetism when moved away",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The iron filing is repelled by the permanent magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The iron filing does not respond to the magnet at all",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Iron filings can be magnetised by the magnetic field of a permanent magnet (induced magnetism), but this magnetism is temporary. Once the iron filing is removed from the magnet's field, it loses its magnetism because the domains in the iron return to their random arrangement.",
+  "quality_score": 4,
+  "id": "5b48b2fa-6735-46d8-bbe3-8fcb37401bed",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:36.746056"
+}

@@ -1,0 +1,22 @@
+{
+  "question_text": "A student has a magnetised steel paperclip that is no longer needed. The student wants to demagnetise it using one of these methods: (1) heat it strongly, (2) hammer it repeatedly, (3) place it in a freezer, (4) expose it to a strong AC electromagnet. Which two methods would successfully demagnetise the paperclip and explain why.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "demagnetising",
+    "magnetic domains",
+    "heat",
+    "mechanical shock",
+    "AC fields"
+  ],
+  "options": null,
+  "correct_answer": "Methods (1) heat and (2) hammering would work. Heat disrupts the alignment of magnetic domains by giving them energy to move randomly. Hammering also causes the domains to become misaligned through physical vibration and shock. The freezer (3) would make the alignment stronger, not weaker. The AC electromagnet (4) would gradually demagnetise it but is not listed as one of the most effective methods at KS3 level.",
+  "explanation": "Magnetisation occurs when iron domains align in the same direction. Heating and hammering both break this alignment: heat provides energy that randomises the domains, while mechanical shock physically disrupts them. Cooling does the opposite\u2014it locks domains in place. An AC field could demagnetise through repeated reversal but is less direct than heating or shocking.",
+  "quality_score": 4,
+  "id": "bcb6114f-6f68-403c-a666-c1cb40b9e4de",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:36.746153"
+}

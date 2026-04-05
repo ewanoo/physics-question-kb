@@ -1,0 +1,42 @@
+{
+  "question_text": "A printer uses cyan, magenta, and yellow inks to produce colours. Which of the following best explains why printers use these three colours instead of red, green, and blue?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "pigment_mixing",
+    "primary_colours",
+    "CMY",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red, green, and blue inks are more expensive to produce than cyan, magenta, and yellow.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Cyan, magenta, and yellow are the primary colours for mixing pigments, and they work by absorbing (subtracting) light, which is how printed paper reflects colour.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Cyan, magenta, and yellow produce brighter colours than red, green, and blue on paper.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Red, green, and blue are only used for mixing light on screens, not for any other purpose.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Printers use CMY (cyan, magenta, yellow) because pigments work by subtractive colour mixing\u2014inks absorb certain wavelengths and reflect others. Red, green, and blue are primary colours for light (additive mixing used on screens), but CMY are primary for pigments on reflective surfaces like paper.",
+  "quality_score": 4,
+  "id": "0d1668bf-8033-4ee2-9fc6-7ed272c5d58f",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:14:06.349863"
+}

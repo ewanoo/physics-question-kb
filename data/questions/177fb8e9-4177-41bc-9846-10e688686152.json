@@ -1,0 +1,21 @@
+{
+  "question_text": "A solar eclipse occurs when the Moon blocks sunlight and casts a shadow on Earth. During a solar eclipse, the Sun appears to disappear from the daytime sky. Explain why solar eclipses are rarer than lunar eclipses, even though the Moon orbits Earth every 27.3 days.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "solar eclipse",
+    "lunar eclipse",
+    "orbital mechanics",
+    "geometry"
+  ],
+  "options": null,
+  "correct_answer": "Solar eclipses are rarer because the Moon's shadow is small and only falls on a narrow path on Earth's surface. Also, solar eclipses can only happen during a new Moon, but the Moon's orbit is tilted about 5\u00b0 to Earth's orbit, so alignment is rare. Lunar eclipses are visible from the entire night side of Earth.",
+  "explanation": "Although new Moons happen roughly every 29.5 days, the Moon's orbital plane is tilted 5\u00b0 relative to Earth's orbital plane. This means most new Moons miss Earth's shadow entirely. When a solar eclipse does occur, the Moon's shadow is small (about 100-200 km wide), so it only touches a thin strip of Earth. By contrast, during a lunar eclipse, Earth's much larger shadow can cover the entire Moon, visible from half the planet.",
+  "quality_score": 4,
+  "id": "177fb8e9-4177-41bc-9846-10e688686152",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:54.642332"
+}

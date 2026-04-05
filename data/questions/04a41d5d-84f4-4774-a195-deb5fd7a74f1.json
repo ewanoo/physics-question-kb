@@ -1,0 +1,20 @@
+{
+  "question_text": "A rectangular block has a weight of 400 N. It can be placed on a table in two different ways: (1) on its large face (area = 2.0 m\u00b2) or (2) on its small face (area = 0.5 m\u00b2). Calculate the pressure exerted on the table when the block is placed on its small face. (Use pressure = force / area)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure formula",
+    "calculation",
+    "force and area"
+  ],
+  "options": null,
+  "correct_answer": "800 Pa (or 800 N/m\u00b2). Pressure = 400 N \u00f7 0.5 m\u00b2 = 800 Pa",
+  "explanation": "Students must correctly apply the pressure formula with the small face area. A common error is confusing which face to use or using the large face instead. The key is to identify that the small area creates higher pressure\u2014this reinforces the inverse relationship between area and pressure.",
+  "quality_score": 4,
+  "id": "04a41d5d-84f4-4774-a195-deb5fd7a74f1",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:25.658382"
+}

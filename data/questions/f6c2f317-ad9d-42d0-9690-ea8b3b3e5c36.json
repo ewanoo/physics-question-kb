@@ -1,0 +1,20 @@
+{
+  "question_text": "A student lifts a 5 kg box from the ground to a shelf 2 metres high. The gravitational potential energy gained by the box is 100 J. Calculate the gravitational potential energy if the same box were lifted 4 metres high instead.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "gravitational potential energy",
+    "proportional relationships",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "200 J",
+  "explanation": "Gravitational potential energy is directly proportional to height. If height doubles (from 2 m to 4 m), the gravitational potential energy doubles (from 100 J to 200 J). This can be shown using the relationship: gravitational potential energy = mass \u00d7 gravitational field strength \u00d7 height. Since only height changes and it doubles, the energy doubles.",
+  "quality_score": 4,
+  "id": "f6c2f317-ad9d-42d0-9690-ea8b3b3e5c36",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:57.781292"
+}

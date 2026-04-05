@@ -1,0 +1,21 @@
+{
+  "question_text": "A student strikes a match and it catches fire. Describe the energy transformations that occur, and explain why the total energy of the universe does not increase even though heat and light are produced.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "chemical energy",
+    "conservation principle",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy stored in the match and oxygen is converted into heat energy and light energy (thermal and electromagnetic energy). The total energy does not increase because the chemical energy that was already present is being released and transferred, not created. Energy is conserved overall\u2014it changes form but the total amount remains constant.",
+  "explanation": "This question requires students to understand that burning is a chemical reaction where stored chemical energy is converted into other forms (heat and light). The key insight is that energy transformation is not energy creation\u2014the chemical energy was always there. This tests deeper understanding of the conservation principle beyond simple mechanical energy transfers.",
+  "quality_score": 4,
+  "id": "8a66cb94-c651-4950-a284-bed27ff01d99",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:12:57.781374"
+}

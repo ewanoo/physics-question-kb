@@ -1,0 +1,21 @@
+{
+  "question_text": "Earth's Moon orbits Earth approximately once every 27.3 days. The Moon is about 384,400 km away from Earth. If you wanted to calculate how fast the Moon travels around Earth, which formula would you use, and what would be the first step?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "moons",
+    "orbital speed",
+    "calculation",
+    "circumference"
+  ],
+  "options": null,
+  "correct_answer": "First, calculate the circumference of the Moon's orbit using circumference = 2 x pi x radius (or 2 x 3.14 x 384,400 km = about 2,415,408 km). Then divide by the orbital period (27.3 days converted to hours or seconds) to find speed.",
+  "explanation": "This requires students to recognise that orbital speed = distance travelled / time taken. The distance is the circumference of the circular orbit. Converting units and using the correct formula shows understanding of how to approach orbital mechanics problems.",
+  "quality_score": 4,
+  "id": "bcbdda44-c001-43da-a492-c5347579be90",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:45.509566"
+}

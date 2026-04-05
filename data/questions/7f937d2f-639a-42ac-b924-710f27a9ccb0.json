@@ -1,0 +1,20 @@
+{
+  "question_text": "Two objects, X and Y, are placed in water. Object X has a density of 2.5 g/cm\u00b3 and object Y has a density of 0.8 g/cm\u00b3. Water has a density of 1.0 g/cm\u00b3. Which object sinks and which floats? Give a reason for each answer.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "comparing densities",
+    "floating and sinking",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "Object X sinks because its density (2.5 g/cm\u00b3) is greater than water's density (1.0 g/cm\u00b3). Object Y floats because its density (0.8 g/cm\u00b3) is less than water's density (1.0 g/cm\u00b3). Objects denser than water sink; objects less dense than water float.",
+  "explanation": "This question requires students to compare the densities of two objects with water and apply the floating/sinking rule. It tests conceptual understanding without requiring calculations.",
+  "quality_score": 4,
+  "id": "7f937d2f-639a-42ac-b924-710f27a9ccb0",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:05.162409"
+}

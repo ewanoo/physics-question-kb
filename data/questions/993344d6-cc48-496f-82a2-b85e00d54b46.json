@@ -1,0 +1,20 @@
+{
+  "question_text": "The Moon takes approximately 29.5 days to go through all its phases (new Moon, first quarter, full Moon, last quarter, back to new Moon). If today is a new Moon, approximately how many days until the Moon is in its last quarter phase?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar cycle",
+    "moon phases",
+    "time calculation"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 22 days (or 22-23 days). The last quarter is three-quarters of the way through the cycle, so 3/4 \u00d7 29.5 = 22.1 days.",
+  "explanation": "The lunar cycle is divided into four phases of roughly equal length. From new Moon to last quarter is three-quarters of the full 29.5-day cycle. Calculation: 3 \u00f7 4 \u00d7 29.5 = 22.1 days, so about 22 days.",
+  "quality_score": 4,
+  "id": "993344d6-cc48-496f-82a2-b85e00d54b46",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:54.642231"
+}

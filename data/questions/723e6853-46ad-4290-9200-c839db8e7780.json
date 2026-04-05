@@ -1,0 +1,20 @@
+{
+  "question_text": "A school uses an electromagnet to separate iron cans from a pile of mixed waste materials. Explain two advantages of using an electromagnet for this task instead of a permanent magnet.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "practical applications",
+    "advantages"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: (1) The electromagnet can be switched on and off, so cans can be picked up when the magnet is on and released when it is switched off; (2) The strength of the electromagnet can be controlled by changing the current, allowing different weights of cans to be lifted; (3) The electromagnet does not need to be physically removed from the pile like a permanent magnet would.",
+  "explanation": "Electromagnets are more practical for industrial separation because they can be controlled\u2014turned on to attract iron and off to release it\u2014whereas a permanent magnet would continuously attract iron and be difficult to separate from the material. The ability to control the strength is also useful for handling different loads.",
+  "quality_score": 4,
+  "id": "723e6853-46ad-4290-9200-c839db8e7780",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:36.745566"
+}

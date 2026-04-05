@@ -1,0 +1,22 @@
+{
+  "question_text": "Two students are trying to move a heavy wooden crate using different lever designs. Explain why moving the pivot point further from the load and closer to the effort (applied force) makes it easier to lift the crate.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "lever",
+    "pivot",
+    "mechanical advantage",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Moving the pivot closer to the load decreases the moment needed from the load, while moving the effort further away increases the distance of the applied force from the pivot. Since moment = force \u00d7 distance, a larger distance means a smaller force is needed to produce the same turning moment, making it easier to lift.",
+  "explanation": "This question tests understanding of how lever design affects mechanical advantage. A good answer should mention that the effort's distance from the pivot increases (allowing smaller force for same moment) and/or that the load's distance decreases (requiring less moment to balance it). Students should recognise that this is why a crowbar is more effective the further you place the pivot from the load.",
+  "quality_score": 4,
+  "id": "073c4caa-5de2-4e3a-978e-31a3d1497907",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-05T20:13:15.965586"
+}
