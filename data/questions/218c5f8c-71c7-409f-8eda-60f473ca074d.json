@@ -1,0 +1,25 @@
+{
+  "id": "218c5f8c-71c7-409f-8eda-60f473ca074d",
+  "question_text": "A heater uses 2000 J of electrical energy and wastes 400 J as heat through the surrounding air. How much useful heat energy does it provide to the room, and what is its efficiency?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "energy loss",
+    "heat transfer",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Useful energy = 1600 J; Efficiency = 80%",
+  "explanation": "Useful energy output = Total input \u2212 Wasted energy = 2000 \u2212 400 = 1600 J. Efficiency = (1600 \u00f7 2000) \u00d7 100 = 80%. This is relatively efficient because most of the electrical energy is converted into useful heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T19:06:29.815338",
+  "classified_at": "2026-04-05T19:06:29.815338",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

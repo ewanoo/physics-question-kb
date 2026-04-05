@@ -1,0 +1,25 @@
+{
+  "id": "8db62fc6-f2f0-4c1c-b892-f896d141b883",
+  "question_text": "A scientist heats a sample of solid substance and measures its temperature every 30 seconds. The graph shows the temperature remaining constant from 0 to 90 seconds, then rising steadily afterwards. What is most likely happening during the first 90 seconds, and what does this tell us about the substance?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "latent heat",
+    "state change",
+    "heating curve"
+  ],
+  "options": null,
+  "correct_answer": "The substance is melting. The constant temperature shows that all the heat energy is being used to break bonds between particles and change the solid to liquid, rather than increase particle movement (temperature). The substance has a specific melting point.",
+  "explanation": "During a phase change like melting, particles gain energy to overcome intermolecular forces rather than move faster. This is why temperature stays constant\u2014all energy goes into the state change, not motion. After melting completes, heat energy increases the temperature of the liquid.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/hard",
+  "scraped_at": "2026-04-05T19:06:29.814823",
+  "classified_at": "2026-04-05T19:06:29.814823",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

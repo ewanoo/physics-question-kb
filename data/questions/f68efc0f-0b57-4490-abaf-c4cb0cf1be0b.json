@@ -1,0 +1,25 @@
+{
+  "id": "f68efc0f-0b57-4490-abaf-c4cb0cf1be0b",
+  "question_text": "A light bulb is described as having an efficiency of 95%. What does this tell us about the bulb?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy conversion",
+    "light",
+    "heat"
+  ],
+  "options": null,
+  "correct_answer": "95% of the electrical energy supplied to the bulb is converted into useful light energy, and 5% is wasted as heat.",
+  "explanation": "Efficiency as a percentage shows what fraction of input energy becomes useful output. The remaining percentage is lost, often as unwanted heat energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/easy",
+  "scraped_at": "2026-04-05T19:06:29.815024",
+  "classified_at": "2026-04-05T19:06:29.815024",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

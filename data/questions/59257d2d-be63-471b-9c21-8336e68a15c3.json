@@ -1,0 +1,46 @@
+{
+  "id": "59257d2d-be63-471b-9c21-8336e68a15c3",
+  "question_text": "A device has an efficiency of 60%. What does this mean?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "percentage",
+    "energy loss",
+    "useful output"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "60% of the device breaks down after use",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "60% of the input energy is converted to useful energy, and 40% is wasted",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The device uses 60% less energy than other devices",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The device produces 60% more energy than it uses",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Efficiency is the ratio of useful output energy to input energy, expressed as a percentage. An efficiency of 60% means 40% of the energy is lost, often as heat.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/easy",
+  "scraped_at": "2026-04-05T19:06:29.815178",
+  "classified_at": "2026-04-05T19:06:29.815178",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

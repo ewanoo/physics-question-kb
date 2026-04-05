@@ -1,0 +1,25 @@
+{
+  "id": "a031b6ba-6c1b-4eee-b2ce-0ed20478de70",
+  "question_text": "Three devices have the following efficiencies: Device A = 45%, Device B = 78%, Device C = 62%. If each device is given 1000 J of energy, which device converts the most energy into heat waste, and how much?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "comparison",
+    "energy waste",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Device A wastes the most energy: 550 J",
+  "explanation": "Heat waste = (100% \u2212 efficiency%) \u00d7 input energy. Device A: 55% \u00d7 1000 = 550 J; Device B: 22% \u00d7 1000 = 220 J; Device C: 38% \u00d7 1000 = 380 J. Device A has the lowest efficiency, so it wastes the most energy as heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T19:06:29.815401",
+  "classified_at": "2026-04-05T19:06:29.815401",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

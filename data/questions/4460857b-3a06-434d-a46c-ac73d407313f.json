@@ -1,0 +1,46 @@
+{
+  "id": "4460857b-3a06-434d-a46c-ac73d407313f",
+  "question_text": "A student observes that ice left in a warm room gradually disappears without ever becoming a puddle of water. Which of the following best explains this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "sublimation",
+    "evaporation",
+    "heating",
+    "particle energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The ice melts into water then quickly evaporates because the room is very warm",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The ice undergoes sublimation and changes directly into water vapour without melting",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The ice is absorbing water from the air and becoming heavier, so it appears to disappear",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The ice changes into a different state of matter that is invisible to the human eye",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Although option A is physically possible, the absence of any liquid water being observed suggests sublimation is occurring\u2014the ice is going directly to vapour. Sublimation can happen at room temperature, especially if the air is dry.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/hard",
+  "scraped_at": "2026-04-05T19:06:29.814732",
+  "classified_at": "2026-04-05T19:06:29.814732",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

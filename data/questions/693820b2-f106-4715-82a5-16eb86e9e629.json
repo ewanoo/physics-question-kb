@@ -1,0 +1,25 @@
+{
+  "id": "693820b2-f106-4715-82a5-16eb86e9e629",
+  "question_text": "A student compares two light bulbs: a 60 W incandescent bulb with 5% efficiency and a 12 W LED bulb with 85% efficiency. Calculate how much energy each bulb converts into useful light per second, and explain why the LED is considered more efficient.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency comparison",
+    "energy conversion",
+    "light",
+    "power"
+  ],
+  "options": null,
+  "correct_answer": "Incandescent: 3 J/s of light; LED: 10.2 J/s of light. The LED converts much more of its input energy into useful light, wasting less as heat.",
+  "explanation": "Useful light energy = Efficiency \u00d7 Power. Incandescent: 5% \u00d7 60 = 3 J/s; LED: 85% \u00d7 12 = 10.2 J/s. Despite using only 20% of the power, the LED produces more than three times the useful light because it wastes far less energy as heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T19:06:29.815462",
+  "classified_at": "2026-04-05T19:06:29.815462",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

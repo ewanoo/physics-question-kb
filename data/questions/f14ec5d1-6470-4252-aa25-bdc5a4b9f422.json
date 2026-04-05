@@ -1,0 +1,25 @@
+{
+  "id": "f14ec5d1-6470-4252-aa25-bdc5a4b9f422",
+  "question_text": "A substance is heated and changes from a solid directly to a gas without becoming a liquid. What is the name of this process?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "sublimation",
+    "state changes",
+    "phase transitions",
+    "heating"
+  ],
+  "options": null,
+  "correct_answer": "Sublimation",
+  "explanation": "Sublimation is the process where a solid changes directly into a gas, skipping the liquid state. This occurs when the particles gain enough energy to break free from the solid structure without melting first. Dry ice is a common example that undergoes sublimation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/hard",
+  "scraped_at": "2026-04-05T19:06:29.814421",
+  "classified_at": "2026-04-05T19:06:29.814421",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

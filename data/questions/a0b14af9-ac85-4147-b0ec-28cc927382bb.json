@@ -1,0 +1,25 @@
+{
+  "id": "a0b14af9-ac85-4147-b0ec-28cc927382bb",
+  "question_text": "What does the term 'efficiency' mean in physics?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy",
+    "definition",
+    "useful work"
+  ],
+  "options": null,
+  "correct_answer": "Efficiency is a measure of how much of the energy input to a device is converted into useful energy output, rather than being wasted as heat or other forms.",
+  "explanation": "Efficiency tells us how well a device uses the energy we give it. A highly efficient device wastes very little energy, while an inefficient device wastes a lot of energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/easy",
+  "scraped_at": "2026-04-05T19:06:29.814890",
+  "classified_at": "2026-04-05T19:06:29.814890",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

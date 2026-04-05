@@ -1,0 +1,25 @@
+{
+  "id": "fa7efe36-4726-43fb-90d7-69d498a41e21",
+  "question_text": "During boiling, the temperature of water remains constant even though heat energy is being added. Explain why this happens using the particle model.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "boiling",
+    "latent heat",
+    "particle model",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "The heat energy is used to break the bonds between particles (overcome latent heat of vaporization) rather than increase their movement/temperature. The particles gain enough energy to escape from the liquid and become a gas.",
+  "explanation": "During boiling, added heat energy breaks the bonds holding particles in the liquid state rather than making them move faster. Once all particles have escaped as gas, the temperature will start to rise again if heating continues.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/hard",
+  "scraped_at": "2026-04-05T19:06:29.814652",
+  "classified_at": "2026-04-05T19:06:29.814652",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

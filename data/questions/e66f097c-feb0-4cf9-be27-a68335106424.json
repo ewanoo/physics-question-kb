@@ -1,0 +1,25 @@
+{
+  "id": "e66f097c-feb0-4cf9-be27-a68335106424",
+  "question_text": "A motor uses 500 J of electrical energy and produces 350 J of useful mechanical work. Calculate the efficiency of the motor.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "energy conversion",
+    "percentage",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "70% (or 0.7)",
+  "explanation": "Efficiency = (Useful energy output \u00f7 Total energy input) \u00d7 100. In this case: (350 \u00f7 500) \u00d7 100 = 70%. The remaining 30% of energy (150 J) is lost as heat and sound.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T19:06:29.815271",
+  "classified_at": "2026-04-05T19:06:29.815271",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

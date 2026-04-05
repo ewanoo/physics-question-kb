@@ -1,0 +1,25 @@
+{
+  "id": "5d2bfe6e-48c9-4694-8373-a4dde9a11088",
+  "question_text": "An electric motor receives 5000 J of electrical energy. It wastes 1500 J as heat and 200 J as sound. Calculate the useful mechanical work produced and the overall efficiency of the motor.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "energy distribution",
+    "motor",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Useful mechanical work = 3300 J; Efficiency = 66%",
+  "explanation": "Useful energy output = Input \u2212 (Heat waste + Sound waste) = 5000 \u2212 (1500 + 200) = 3300 J. Efficiency = (3300 \u00f7 5000) \u00d7 100 = 66%. This shows that two-thirds of the input energy is converted to useful work, while one-third is wasted.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.efficiency/hard",
+  "scraped_at": "2026-04-05T19:06:29.815523",
+  "classified_at": "2026-04-05T19:06:29.815523",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
