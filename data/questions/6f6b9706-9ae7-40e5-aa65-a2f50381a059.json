@@ -1,0 +1,17 @@
+{
+  "question_text": "A student investigates how the distance between two bar magnets affects their interaction. They measure the force between them at different distances and create a graph. At 1 cm apart, the repulsive force is 120 mN. At 2 cm apart, the force drops to 30 mN. At 4 cm apart, the force is 7.5 mN. What pattern do you observe, and what would you predict the force would be at 8 cm apart?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic force",
+    "inverse relationships",
+    "pattern recognition"
+  ],
+  "options": null,
+  "correct_answer": "The force decreases by a factor of 4 each time the distance doubles (inverse square relationship). At 8 cm apart, the force would be approximately 1.9 mN (7.5 \u00f7 4).",
+  "explanation": "Magnetic force follows an inverse square law: as distance doubles, force becomes one-quarter. From 1\u21922 cm: 120\u00f74=30 mN \u2713, from 2\u21924 cm: 30\u00f74=7.5 mN \u2713, so from 4\u21928 cm: 7.5\u00f74\u22481.9 mN. This pattern shows that magnetic fields weaken rapidly with distance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6f6b9706-9ae7-40e5-aa65-a2f50381a059"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A student rubs a polythene rod with a cloth and brings it near some small pieces of paper. The paper pieces jump towards the rod, stick briefly, then fall away. Explain why the paper pieces fall away after sticking to the rod.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "static charge",
+    "induction",
+    "charge redistribution"
+  ],
+  "options": null,
+  "correct_answer": "When the paper touches the charged rod, it becomes charged by conduction (or induction). Since both the rod and paper now have the same type of charge, they repel each other, causing the paper to fall away.",
+  "explanation": "This tests understanding that static attraction is temporary because charge transfers between objects. Once both objects have the same charge, repulsion occurs. This is beyond simple recall\u2014students must reason through what happens during and after contact.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5b392e71-f1f9-4425-8fce-8c005b0714c3"
+}

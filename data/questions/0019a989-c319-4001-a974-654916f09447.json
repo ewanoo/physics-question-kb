@@ -1,0 +1,18 @@
+{
+  "question_text": "A satellite orbits Earth at a constant speed. Explain why gravity acts as a centripetal force and why the satellite does not fall into Earth.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "orbits",
+    "centripetal force",
+    "gravitational attraction",
+    "circular motion"
+  ],
+  "options": null,
+  "correct_answer": "Gravity pulls the satellite towards Earth's centre, causing it to continuously change direction and fall in a curved path. The satellite's forward motion balances the gravitational pull, so it stays in orbit at a constant distance rather than crashing down.",
+  "explanation": "The satellite is constantly 'falling' towards Earth due to gravity, but its sideways velocity means it keeps missing the planet. Gravity provides the centripetal force needed for circular motion, keeping the satellite in a stable orbit.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "0019a989-c319-4001-a974-654916f09447"
+}

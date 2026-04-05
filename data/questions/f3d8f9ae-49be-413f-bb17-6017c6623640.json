@@ -1,0 +1,17 @@
+{
+  "question_text": "When you comb your hair on a dry day, the comb becomes charged and can pick up small pieces of paper. Describe what happens to the charges during this process.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "charge transfer",
+    "friction",
+    "explanation"
+  ],
+  "options": null,
+  "correct_answer": "Electrons are transferred from the hair to the comb (or vice versa) by friction, giving the comb a net electric charge.",
+  "explanation": "When two materials are rubbed together, electrons can transfer from one material to the other. The comb becomes charged because electrons have moved onto it (or away from it), creating an imbalance of charge that allows it to attract the paper.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "f3d8f9ae-49be-413f-bb17-6017c6623640"
+}

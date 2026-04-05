@@ -1,0 +1,18 @@
+{
+  "question_text": "A hot air balloon is floating stationary in the sky. The weight of the balloon and basket is 2400 N downwards. A scientist claims that the upward air resistance force is 2200 N. Explain why the balloon cannot remain stationary with these forces, and calculate what the upward air resistance force must actually be.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "equilibrium",
+    "air resistance",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "The forces are unbalanced (2400 N \u2260 2200 N), so the balloon would accelerate downwards. For the balloon to remain stationary, the upward air resistance force must equal the weight: 2400 N upwards.",
+  "explanation": "For an object to stay still, all forces must be balanced \u2013 the forces pushing up must equal the forces pushing down. If air resistance is only 2200 N but weight is 2400 N, there's a 200 N imbalance, causing the balloon to sink. The air resistance must be exactly 2400 N upwards to balance the weight.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fb08c67a-e10a-4516-a78f-8ad480b893bf"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A astronaut on the Moon has a mass of 80 kg. The gravitational field strength on the Moon is 1.6 N/kg. Calculate the gravitational force (weight) acting on the astronaut on the Moon.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational force",
+    "weight",
+    "Moon",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "128 N",
+  "explanation": "Weight is calculated using the formula: W = m \u00d7 g, where m is mass in kg and g is gravitational field strength in N/kg. So 80 kg \u00d7 1.6 N/kg = 128 N. The Moon's gravity is much weaker than Earth's (10 N/kg), so the astronaut weighs much less there.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8864b28f-1707-4a32-8caa-56075737f63e"
+}

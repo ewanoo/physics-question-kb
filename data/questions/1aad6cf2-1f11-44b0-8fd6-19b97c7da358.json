@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following would increase the strength of an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "factors",
+    "current"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Increasing the number of coils of wire wrapped around the iron core",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Removing the iron core and using an aluminium core instead",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Decreasing the electric current flowing through the wire",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Making the wire thinner to increase resistance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The strength of an electromagnet depends on the number of coils and the amount of current flowing through them. More coils create a stronger magnetic field, and a larger current also makes the electromagnet stronger.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1aad6cf2-1f11-44b0-8fd6-19b97c7da358"
+}

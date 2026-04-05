@@ -1,0 +1,38 @@
+{
+  "question_text": "Two identical bowling balls are placed on a table. Ball A is placed 2 metres away from a bowling pin, and Ball B is placed 4 metres away from the same pin. How many times greater is the gravitational force between Ball A and the pin compared to the gravitational force between Ball B and the pin?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "inverse square law",
+    "gravitational force",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "2 times greater",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "4 times greater",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "8 times greater",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "16 times greater",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravitational force follows the inverse square law: if you double the distance, the force becomes 1/4 as strong. Ball B is twice as far away (4 m instead of 2 m), so the gravitational force is reduced to 1/4. This means Ball A's force is 4 times greater than Ball B's force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4a2a5d97-5137-4ee8-a563-1c46bea82f68"
+}

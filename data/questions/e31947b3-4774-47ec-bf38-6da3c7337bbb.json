@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following materials is the best electrical insulator?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "insulators",
+    "conductors",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Copper wire",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Rubber",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Aluminium foil",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Steel",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Rubber is an excellent electrical insulator because it does not allow electrical charge to flow through it easily. Metals like copper, aluminium, and steel are all good conductors and allow charge to flow freely.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e31947b3-4774-47ec-bf38-6da3c7337bbb"
+}

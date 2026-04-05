@@ -1,0 +1,38 @@
+{
+  "question_text": "A skateboarder rides down a hill and then up a ramp. At the bottom of the hill, all of their energy is kinetic energy. As they go up the ramp, what happens to their kinetic and gravitational potential energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "kinetic energy",
+    "potential energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy decreases and gravitational potential energy increases",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy increases and gravitational potential energy decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both kinetic and gravitational potential energy increase",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both kinetic and gravitational potential energy decrease",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As the skateboarder moves up the ramp, they slow down because kinetic energy is converted to gravitational potential energy. The total energy stays the same, but the type of energy changes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e3600628-4c88-466e-aa64-85154116e798"
+}

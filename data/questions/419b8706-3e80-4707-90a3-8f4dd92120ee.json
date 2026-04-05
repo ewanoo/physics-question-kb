@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the name of the device used to control the brightness of a light in a circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit components",
+    "control devices",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A rheostat or variable resistor",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "An ammeter",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A thermistor",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A diode",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A rheostat or variable resistor allows you to change the resistance in a circuit, which changes the current flowing through a bulb and makes it brighter or dimmer. An ammeter measures current, a thermistor responds to temperature, and a diode only lets current flow one way.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "419b8706-3e80-4707-90a3-8f4dd92120ee"
+}

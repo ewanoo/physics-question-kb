@@ -1,0 +1,17 @@
+{
+  "question_text": "On Planet X, the gravitational field strength is 25 N/kg. A rock has a weight of 150 N on Planet X. The same rock is then taken to Planet Y, where the gravitational field strength is 4 N/kg. Calculate the weight of the rock on Planet Y, showing all your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravitational field strength",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "24 N (or 24 newtons). Working: Step 1 - Find mass using Planet X data: mass = weight \u00f7 gravitational field strength = 150 \u00f7 25 = 6 kg. Step 2 - Use the mass to find weight on Planet Y: weight = mass \u00d7 gravitational field strength = 6 \u00d7 4 = 24 N.",
+  "explanation": "First, you need to find the mass of the rock using the Planet X information, because mass stays the same everywhere. Then use that mass with Planet Y's gravitational field strength to find the new weight. Weight changes depending on the gravitational field, but mass does not.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9a2031ce-e0dd-47d1-919e-6c698334c529"
+}

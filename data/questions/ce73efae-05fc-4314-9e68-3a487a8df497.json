@@ -1,0 +1,17 @@
+{
+  "question_text": "A student sets up an electromagnet using a battery, wire coil, and iron nail. They discover that when they increase the number of coils around the nail from 50 to 150 turns, the electromagnet picks up 3 times as many paper clips. However, when they then add a second identical battery in series to increase the current, the electromagnet only picks up twice as many additional paper clips. Explain why adding more turns had a greater effect than increasing the current.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "magnetic strength",
+    "multi-factor analysis"
+  ],
+  "options": null,
+  "correct_answer": "The number of turns in the coil affects the magnetic field strength more significantly than current because each additional turn adds another loop of current contributing to the overall magnetic field. The relationship between turns and field strength is linear, but the relationship between current and field strength also depends on the coil design. Adding turns creates cumulative magnetic effects from multiple current loops, whereas increasing current only strengthens the existing loops.",
+  "explanation": "Electromagnets depend on both the number of coils and the current flowing through them. Each extra coil adds to the total magnetic effect, but increasing current has limits because there's only one current path. This is why the turn count had a bigger impact.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ce73efae-05fc-4314-9e68-3a487a8df497"
+}

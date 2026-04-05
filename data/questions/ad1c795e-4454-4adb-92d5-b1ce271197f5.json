@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes what a fuse does in a household circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "safety devices",
+    "fuses",
+    "circuit protection"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It melts and breaks the circuit if the current becomes dangerously high",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "It stores electrical energy for later use",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "It slows down the flow of electricity to make it safer",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It converts electrical energy into heat energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A fuse contains a thin wire that melts if too much current flows through it, breaking the circuit and preventing damage or fire. It's a safety device that stops excessive current, not a storage device or a way to reduce current speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ad1c795e-4454-4adb-92d5-b1ce271197f5"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "A student performs an experiment with a wooden block on a horizontal table. She measures that a horizontal force of 5 N causes the block to move at a constant velocity. Which statement best explains this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "friction",
+    "constant velocity",
+    "Newton's first law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The applied force of 5 N is greater than the friction force, so the block accelerates.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The friction force equals 5 N, so the horizontal forces are balanced and the block moves at constant velocity.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There is no friction force acting on the block because it is moving at constant velocity.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The applied force is doing work against gravity, which balances the friction force.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When an object moves at constant velocity, its speed and direction are not changing, which means the forces must be balanced. The 5 N applied force must be balanced by an equal friction force of 5 N acting in the opposite direction. If friction were smaller, the block would accelerate.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "28d7cb7e-b718-401d-9cd8-0e1fac30a038"
+}

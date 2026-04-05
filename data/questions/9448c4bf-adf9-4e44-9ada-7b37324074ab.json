@@ -1,0 +1,17 @@
+{
+  "question_text": "Name two uses of electromagnets in everyday devices.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "applications",
+    "everyday use",
+    "electromagnets"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: electric doorbell, electric relay, electric motor, loudspeaker, crane/lifting magnet, or magnetic lock.",
+  "explanation": "Electromagnets are used in many devices because they can be switched on and off easily. For example, doorbells use electromagnets to make a buzzing sound, and electric motors rely on electromagnets to create movement.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "9448c4bf-adf9-4e44-9ada-7b37324074ab"
+}

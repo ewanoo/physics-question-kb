@@ -1,0 +1,38 @@
+{
+  "question_text": "A swimmer is moving through water at a constant speed in a straight line. Which statement correctly describes the forces acting on the swimmer?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "constant velocity",
+    "water resistance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The forces are balanced because the swimmer is moving at constant speed",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The forces are unbalanced because the swimmer is still moving",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The pushing force from the water is greater than the swimmer's muscle force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There are no forces acting on the swimmer when moving at constant speed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When the swimmer moves at constant speed, their forward pushing force is balanced by the resistance force from the water. Balanced forces mean no acceleration, so the swimmer continues at the same speed.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "1e68312e-8968-4502-9a60-6631a255d811"
+}

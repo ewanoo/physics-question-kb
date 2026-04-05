@@ -1,0 +1,38 @@
+{
+  "question_text": "What is an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "definition",
+    "electromagnet",
+    "magnetism"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A magnet made from a coil of wire with electric current flowing through it",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A permanent magnet that produces electricity when moved",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A type of metal that is naturally magnetic and cannot be switched off",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A device that converts magnetism into heat energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An electromagnet is created when electric current flows through a wire coil, producing a magnetic field. Unlike permanent magnets, electromagnets can be switched on and off by controlling the current.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c2ffb5dd-0d40-427d-b952-d0fadf924080"
+}

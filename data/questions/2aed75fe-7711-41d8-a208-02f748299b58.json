@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the definition of balanced forces?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "definition",
+    "balanced forces",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "Balanced forces are forces that are equal in size and opposite in direction, resulting in no change in motion (zero net force).",
+  "explanation": "Balanced forces occur when two or more forces acting on an object cancel each other out completely. This means the object will either remain stationary or continue moving at a constant speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2aed75fe-7711-41d8-a208-02f748299b58"
+}

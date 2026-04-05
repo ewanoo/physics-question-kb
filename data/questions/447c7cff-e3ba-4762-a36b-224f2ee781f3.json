@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is dropped from a height of 10 metres. Ignoring air resistance, what is the total mechanical energy of the ball just before it hits the ground compared to when it was released?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy conservation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total mechanical energy is the same",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The total mechanical energy increases because the ball is moving faster",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The total mechanical energy decreases because some energy is lost",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total mechanical energy doubles because the ball falls 10 metres",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Energy is conserved in a falling object. All the gravitational potential energy at the top converts to kinetic energy at the bottom, so the total mechanical energy remains constant when we ignore air resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "447c7cff-e3ba-4762-a36b-224f2ee781f3"
+}

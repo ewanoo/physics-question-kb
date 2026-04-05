@@ -1,0 +1,38 @@
+{
+  "question_text": "A wind turbine uses a permanent magnet rotating inside a coil of copper wire to generate electricity. Which TWO changes would increase the voltage produced, and why might one of these changes be impractical for a large turbine?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnetic induction",
+    "generators",
+    "practical constraints"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Increasing the number of coils and adding a stronger permanent magnet; adding a stronger magnet would be impractical because it would be too expensive and heavy",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Increasing the current and reducing the coil resistance; both changes are equally practical in modern turbines",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Increasing the rotation speed and adding iron filings inside the magnet; adding iron filings would be impractical because it would create unbalanced forces",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Using a permanent magnet instead of an electromagnet and cooling the copper wire; cooling would be impractical because it would damage the turbine",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Voltage in a generator increases with more coils (more loops to cut magnetic field lines) and a stronger magnet (stronger field). However, making the magnet much stronger adds significant weight and cost to a large turbine, making it impractical.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5a44c6ef-102f-4bf6-9947-3b6c985c1c8d"
+}

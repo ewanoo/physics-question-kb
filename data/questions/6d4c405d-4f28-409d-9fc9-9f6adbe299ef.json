@@ -1,0 +1,17 @@
+{
+  "question_text": "Two identical metal spheres are brought close together. Sphere A has a charge of +8 units and Sphere B has a charge of -6 units. They touch briefly, then are separated. What is the final charge on Sphere A after separation?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "charge conservation",
+    "conductors",
+    "charge distribution"
+  ],
+  "options": null,
+  "correct_answer": "+1 unit",
+  "explanation": "When two identical conductors touch, charge distributes equally. Total charge = +8 + (-6) = +2 units. This divides equally: +2 \u00f7 2 = +1 unit per sphere. This requires understanding charge conservation and equal distribution in identical conductors.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6d4c405d-4f28-409d-9fc9-9f6adbe299ef"
+}

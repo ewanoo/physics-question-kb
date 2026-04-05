@@ -1,0 +1,38 @@
+{
+  "question_text": "A student rubs a polythene rod with a cloth and it becomes negatively charged. What does this tell us about the electrons on the polythene rod?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "charge transfer",
+    "electrons",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electrons have been removed from the rod",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electrons have been added to the rod",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Protons have moved onto the rod",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The electrons have stopped moving",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When an object becomes negatively charged, it means it has gained extra electrons. Since polythene becomes negative when rubbed, electrons must have transferred onto it from the cloth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b60da4e9-9c79-49ba-9cb3-1506c7dde891"
+}

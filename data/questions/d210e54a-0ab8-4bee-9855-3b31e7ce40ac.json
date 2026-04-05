@@ -1,0 +1,17 @@
+{
+  "question_text": "A child on a swing has a maximum gravitational potential energy of 250 J at the highest point. At the lowest point, all of this is converted to kinetic energy. Calculate the kinetic energy of the child at the lowest point of the swing, assuming no energy is lost to friction or air resistance.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "potential to kinetic",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "250 J",
+  "explanation": "By conservation of energy, when gravitational potential energy is completely converted to kinetic energy (with no losses), the kinetic energy at the lowest point equals the gravitational potential energy at the highest point, which is 250 J.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d210e54a-0ab8-4bee-9855-3b31e7ce40ac"
+}

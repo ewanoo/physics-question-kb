@@ -1,0 +1,39 @@
+{
+  "question_text": "A student drops a marble and a bowling ball from the same height at the same time in a vacuum chamber. Which statement best explains what happens?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational acceleration",
+    "air resistance",
+    "free fall",
+    "misconceptions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The marble falls faster because it is lighter and experiences less air resistance.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The bowling ball falls faster because it has more mass and experiences stronger gravity.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both objects fall at the same rate because gravity accelerates all objects equally in a vacuum.",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "They fall at different rates because the bowling ball creates a stronger gravitational field.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a vacuum, there is no air resistance, so all objects accelerate downwards at the same rate (10 m/s\u00b2 on Earth) regardless of their mass. This is because although heavier objects experience stronger gravitational force, they also have more inertia, which perfectly balances out.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "adcb2f16-ed53-4cfd-b26d-acf3b5c41ca5"
+}

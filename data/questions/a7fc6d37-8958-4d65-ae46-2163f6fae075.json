@@ -1,0 +1,17 @@
+{
+  "question_text": "A satellite orbits Earth at a constant speed in a circular path. Why does the satellite not fall straight down to Earth, even though gravity is pulling it downwards?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "orbital motion",
+    "gravitational force",
+    "vectors"
+  ],
+  "options": null,
+  "correct_answer": "The satellite is continuously falling towards Earth due to gravity, but it also has horizontal velocity. These two motions combine so that the satellite falls at the same rate as Earth's surface curves away, keeping it in orbit.",
+  "explanation": "Gravity pulls the satellite downward, but the satellite is also moving sideways very fast. Gravity changes the direction of the satellite's motion to follow a curve, rather than making it fall straight down. The satellite is always falling, but Earth keeps curving away beneath it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a7fc6d37-8958-4d65-ae46-2163f6fae075"
+}

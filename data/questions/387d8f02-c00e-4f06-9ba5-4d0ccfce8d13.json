@@ -1,0 +1,38 @@
+{
+  "question_text": "A student performs an experiment using an electroscope. A negatively charged rod is brought near (but not touching) the metal cap of the electroscope. The gold leaf rises. The negatively charged rod is then removed. Which statement best explains what happens to the electroscope after the rod is removed?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "induction",
+    "electroscope",
+    "charge separation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The gold leaf falls immediately because the electroscope loses all its charge as the rod moves away",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gold leaf stays raised because the electroscope has been permanently charged by induction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The gold leaf falls because the negative charge on the rod attracts the electrons back out of the electroscope",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The gold leaf rises higher because removing the rod removes the repulsive force between the rod and leaf",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When a charged rod is brought near an electroscope without touching, electrons redistribute by induction (they move to/from the leaf). Once the rod is removed, the charge remains on the electroscope because charge has been separated within the conductor. Option A is wrong because no contact means no charge transfer off the device; C misunderstands induction; D confuses the mechanism.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "387d8f02-c00e-4f06-9ba5-4d0ccfce8d13"
+}
