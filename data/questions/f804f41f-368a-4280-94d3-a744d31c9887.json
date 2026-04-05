@@ -1,0 +1,25 @@
+{
+  "id": "f804f41f-368a-4280-94d3-a744d31c9887",
+  "question_text": "In a calorimetry experiment, a student measures the temperature change of water surrounding a burning food sample. Why is it important to use an insulated container rather than an open cup?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "calorimetry",
+    "experimental method",
+    "heat loss"
+  ],
+  "options": null,
+  "correct_answer": "An insulated container reduces heat loss to the surroundings, ensuring that most of the energy released by the burning food is transferred to the water being measured. An open cup would allow heat to escape into the air, resulting in a lower measured temperature change and an underestimation of the food's actual energy content.",
+  "explanation": "This tests understanding of experimental design and the importance of minimizing variables like heat loss. Insulation ensures that measured temperature change accurately reflects the energy released by the food.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/hard",
+  "scraped_at": "2026-04-05T19:06:51.370086",
+  "classified_at": "2026-04-05T19:06:51.370086",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

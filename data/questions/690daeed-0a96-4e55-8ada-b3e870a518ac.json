@@ -1,0 +1,25 @@
+{
+  "id": "690daeed-0a96-4e55-8ada-b3e870a518ac",
+  "question_text": "A student burns 2.0 grams of peanuts in a calorimeter. The energy released heats 100 cm\u00b3 of water from 20\u00b0C to 45\u00b0C. Calculate the energy content of the peanuts in joules per gram. (Specific heat capacity of water = 4200 J/kg\u00b0C)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "calorimetry",
+    "calculation",
+    "specific heat capacity"
+  ],
+  "options": null,
+  "correct_answer": "Energy released = mass \u00d7 specific heat capacity \u00d7 temperature change = 0.1 kg \u00d7 4200 J/kg\u00b0C \u00d7 25\u00b0C = 10,500 J. Energy per gram = 10,500 J \u00f7 2.0 g = 5,250 J/g or 5.25 kJ/g",
+  "explanation": "This multi-step problem requires calculating the total energy transferred to water using Q = mc\u0394T, then dividing by the mass of peanuts burned to find energy per gram. This is how calorimeters determine food energy content.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/hard",
+  "scraped_at": "2026-04-05T19:06:51.369852",
+  "classified_at": "2026-04-05T19:06:51.369852",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

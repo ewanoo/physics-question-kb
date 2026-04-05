@@ -1,0 +1,25 @@
+{
+  "id": "b39e0830-774b-4bad-b2ba-bad7c51bff8c",
+  "question_text": "A student performs a calorimetry experiment burning different food samples. The results show that 10 grams of chocolate released 500 kJ of energy, while 10 grams of a rice cake released only 150 kJ. Based on this data, what can you conclude about the nutritional composition of these foods?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "calorimetry",
+    "analysis",
+    "macronutrients"
+  ],
+  "options": null,
+  "correct_answer": "The chocolate contains a much higher proportion of fats and/or carbohydrates compared to the rice cake. Chocolate typically has high fat and sugar content, while rice cakes are primarily carbohydrate with very little fat. The chocolate's higher energy content per gram reflects its greater proportion of energy-dense fats.",
+  "explanation": "This question requires students to interpret experimental data and connect it to their knowledge of macronutrient energy values, demonstrating understanding that food composition directly affects measured energy content.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/hard",
+  "scraped_at": "2026-04-05T19:06:51.370017",
+  "classified_at": "2026-04-05T19:06:51.370017",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

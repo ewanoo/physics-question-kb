@@ -1,0 +1,24 @@
+{
+  "id": "5b8dc9df-b85f-4bf7-a68e-0937b235129b",
+  "question_text": "Define the spring constant and explain what it tells us about a spring.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "springs",
+    "spring constant",
+    "stiffness"
+  ],
+  "options": null,
+  "correct_answer": "The spring constant (k) is a measure of how stiff or rigid a spring is. It is the force required to stretch (or compress) the spring by one unit of length. A larger spring constant means a stiffer spring that requires more force to stretch.",
+  "explanation": "The spring constant is a key property that quantifies a spring's resistance to deformation and determines how much it will extend under a given force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/easy",
+  "scraped_at": "2026-04-05T19:06:51.370328",
+  "classified_at": "2026-04-05T19:06:51.370328",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

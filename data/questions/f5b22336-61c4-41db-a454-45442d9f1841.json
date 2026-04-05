@@ -1,0 +1,45 @@
+{
+  "id": "f5b22336-61c4-41db-a454-45442d9f1841",
+  "question_text": "What is the main source of energy in food?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "chemical energy",
+    "nutrition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy stored in molecules",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Heat energy from cooking the food",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Light energy absorbed by plants",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electrical energy from the food processor",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Food contains chemical energy stored in its molecules, which our bodies release when we digest and metabolize the food. This energy is used for movement, heat, and body functions.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/easy",
+  "scraped_at": "2026-04-05T19:06:51.369371",
+  "classified_at": "2026-04-05T19:06:51.369371",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

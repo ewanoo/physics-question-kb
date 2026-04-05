@@ -1,0 +1,45 @@
+{
+  "id": "b8f0eed9-dbee-4874-8197-1e07b254b715",
+  "question_text": "What does Hooke's Law describe?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "springs",
+    "Hooke's Law",
+    "elasticity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The relationship between force applied to a spring and how much it stretches",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "How springs lose their elasticity over time",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The maximum weight a spring can support",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How to calculate the speed of a bouncing spring",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Hooke's Law states that the extension of a spring is directly proportional to the force applied to it, as long as the spring is not permanently deformed (within its elastic limit).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/easy",
+  "scraped_at": "2026-04-05T19:06:51.370152",
+  "classified_at": "2026-04-05T19:06:51.370152",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

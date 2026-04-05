@@ -1,0 +1,45 @@
+{
+  "id": "4da1cdd5-b83c-40f2-bbdf-07f07cfe44e2",
+  "question_text": "When you stretch a spring and then release it, what force pulls it back to its original shape?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "springs",
+    "elastic force",
+    "restoring force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The elastic restoring force of the spring",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravity",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air resistance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Springs have an elastic restoring force that acts to return them to their original length when they are stretched or compressed. This is what causes a stretched spring to snap back.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/easy",
+  "scraped_at": "2026-04-05T19:06:51.370245",
+  "classified_at": "2026-04-05T19:06:51.370245",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

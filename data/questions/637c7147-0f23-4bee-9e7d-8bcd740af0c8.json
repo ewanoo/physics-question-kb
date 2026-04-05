@@ -1,0 +1,24 @@
+{
+  "id": "637c7147-0f23-4bee-9e7d-8bcd740af0c8",
+  "question_text": "Describe what happens to the chemical energy in food when you eat it.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "digestion",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "The chemical energy in food is released during digestion and metabolism. This energy is transferred to your body and used for movement, maintaining body temperature, and other life processes.",
+  "explanation": "Food energy is chemical energy that gets broken down in your digestive system and converted into forms your body can use, such as movement and heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/easy",
+  "scraped_at": "2026-04-05T19:06:51.369710",
+  "classified_at": "2026-04-05T19:06:51.369710",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

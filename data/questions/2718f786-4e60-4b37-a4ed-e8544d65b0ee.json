@@ -1,0 +1,45 @@
+{
+  "id": "2718f786-4e60-4b37-a4ed-e8544d65b0ee",
+  "question_text": "A spring is described as having elastic properties. What does this mean?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "springs",
+    "elasticity",
+    "deformation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The spring can be stretched but will not return to its original shape",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The spring can be deformed by a force and will return to its original shape when the force is removed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The spring is made of rubber",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The spring becomes stronger the more it is stretched",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Elastic deformation means that when a force is applied and then removed, the object returns to its original shape and size. Springs are elastic materials as long as they are not stretched beyond their elastic limit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.springs/easy",
+  "scraped_at": "2026-04-05T19:06:51.370390",
+  "classified_at": "2026-04-05T19:06:51.370390",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

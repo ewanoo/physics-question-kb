@@ -1,0 +1,45 @@
+{
+  "id": "15116f0b-1081-42d4-871b-5be7796122a0",
+  "question_text": "Which of these food types provides the most energy per gram?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "macronutrients",
+    "calories"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Carbohydrates",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Proteins",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Fats",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Vitamins",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Fats provide approximately 9 kilocalories per gram, while carbohydrates and proteins provide only about 4 kilocalories per gram. This makes fats the most energy-dense macronutrient.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/easy",
+  "scraped_at": "2026-04-05T19:06:51.369614",
+  "classified_at": "2026-04-05T19:06:51.369614",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": "386ef5e8-b97b-478e-858d-42119d0f7dc6",
+  "question_text": "Which organ is responsible for measuring the energy content of food in a laboratory?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "measurement",
+    "calorimeter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A calorimeter",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A thermometer",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A scale",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A spectrometer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "A calorimeter is a device used to measure the energy content of food by burning it and measuring the heat released into surrounding water.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/easy",
+  "scraped_at": "2026-04-05T19:06:51.369774",
+  "classified_at": "2026-04-05T19:06:51.369774",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

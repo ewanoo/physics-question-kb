@@ -1,0 +1,25 @@
+{
+  "id": "9448a8a2-5ab3-4092-822e-5215bc09021b",
+  "question_text": "Two different foods have the same mass but different energy contents. Explain why they might have different amounts of energy, and discuss which macronutrient composition would provide more energy.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "macronutrients",
+    "comparison",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Different foods contain different proportions of carbohydrates, proteins, and fats. Since fats provide 9 kcal/g while carbohydrates and proteins provide 4 kcal/g, a food with higher fat content will have more energy per gram. Therefore, two foods of equal mass will have different total energy if one contains more fat and less carbohydrate.",
+  "explanation": "This requires students to understand that energy content depends on macronutrient composition, not just mass, and to explain why fats are more energy-dense than other macronutrients.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.food/hard",
+  "scraped_at": "2026-04-05T19:06:51.369917",
+  "classified_at": "2026-04-05T19:06:51.369917",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
