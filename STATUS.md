@@ -106,12 +106,29 @@
 - Total questions: 1,545 (up from 1,485)
 - All criteria remain met, KB is COMPLETE
 
-## Statistics (Session 10 — CURRENT)
-- **Total questions in DB**: 1,545
+### Session 11 (agent — 2026-04-05)
+- Rebuilt DB from 1,545 committed question JSON files (all subtopics at 45-50 each)
+- Generated **114 new questions** in 2 batches enriching all 33 subtopics:
+  - Batch 1 (60 q): 4 questions each for 15 subtopics at exactly 45 questions
+    (electricity.electromagnets, electricity.magnets, energy.food, energy.power, forces.balanced,
+     forces.friction, forces.gravity, forces.springs, forces.types, matter.changes,
+     matter.particles, matter.states, space.earth_moon, waves.colour, waves.properties)
+  - Batch 2 (54 q): 3 questions each for 18 subtopics at 47-50 questions
+    (electricity.current_voltage, forces.moments, matter.gas_pressure, waves.em_spectrum,
+     electricity.static, energy.conservation, energy.resources, space.seasons, space.solar_system,
+     waves.light, energy.efficiency, energy.stores, forces.pressure, forces.speed,
+     matter.density, space.gravity, electricity.circuits, waves.sound)
+- Total questions: 1,659 (up from 1,545)
+- All subtopics now have 49-53 questions each
+- All criteria remain met, KB is COMPLETE
+
+## Statistics (Session 11 — CURRENT)
+- **Total questions in DB**: 1,659
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy≈500, medium≈510, hard≈500 (all >= 50)
-- **Min questions per subtopic/difficulty slot**: 15+ (all 99 slots well above minimum)
+- **By difficulty**: easy=546, medium=567, hard=546 (all >= 50)
+- **Min questions per subtopic**: 49 (all 33 subtopics at 49-53)
+- **Mean quality score**: 4.67
 
 ## Scraper Status
 | Scraper | Status | Questions in DB |
@@ -124,9 +141,9 @@
 
 ## Completion Criteria Check
 - [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [x] `python -m src.cli.query stats` shows 1,485 questions (>= 500)
-- [x] All 33 subtopics have >= 5 questions each (minimum is 45 per subtopic, ≥15 per difficulty)
-- [x] Difficulty distribution: easy=483, medium=495, hard=488 (all >= 50)
+- [x] `python -m src.cli.query stats` shows 1,659 questions (>= 500)
+- [x] All 33 subtopics have >= 5 questions each (minimum is 49 per subtopic)
+- [x] Difficulty distribution: easy=546, medium=567, hard=546 (all >= 50)
 - [x] 3 sources represented (>= 3 required)
 - [x] Mean quality score = 4.56 >= 3.5
 - [x] `data/coverage_report.json` exists with `is_complete: true`
