@@ -212,6 +212,17 @@
 - Total questions: 2,125 (up from 2,090)
 - All 99 difficulty/subtopic slots now have ≥20 questions each
 
+### Session 21 (agent — 2026-04-05)
+- Rebuilt DB from 2,278 committed question JSON files
+- Identified 7 weakest subtopics (64-68 questions each): forces.balanced, electricity.magnets,
+  forces.moments, energy.conservation, energy.power, matter.particles, waves.em_spectrum
+- Generated **56 new questions** across all 7 weakest subtopics (8 per subtopic):
+  - forces.balanced, electricity.magnets, forces.moments, energy.conservation,
+    energy.power, matter.particles, waves.em_spectrum
+- Total questions: 2,334 (up from 2,278)
+- All 33 subtopics now have 68-76 questions each (minimum raised)
+- All criteria remain met, KB is COMPLETE
+
 ### Session 20 (agent — 2026-04-05)
 - Rebuilt DB from 2,208 committed question JSON files (2,197 valid, 11 with schema errors)
 - Identified 7 slots at exactly 20 questions: matter.particles/hard, matter.states/medium,
@@ -227,12 +238,12 @@
 - Total questions: 2,278 (up from 2,197)
 - All 99 difficulty/subtopic slots now have ≥21 questions each
 
-## Statistics (Session 20 — CURRENT)
-- **Total questions (JSON files)**: 2,278
+## Statistics (Session 21 — CURRENT)
+- **Total questions (JSON files)**: 2,334
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
 - **By difficulty**: easy ~760, medium ~760, hard ~758 (all >= 50)
-- **Min questions per difficulty+subtopic slot**: 21
+- **Min questions per difficulty+subtopic slot**: 21+
 - **Mean quality score**: ~4.70
 
 ## Scraper Status
