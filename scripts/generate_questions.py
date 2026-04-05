@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
-"""Generate questions for weak subtopic/difficulty slots."""
-import anthropic
+"""Generate new questions for weak subtopics using Claude API."""
+
 import json
 import uuid
-from pathlib import Path
+import os
+import sys
 from datetime import datetime
+from pathlib import Path
+
+import anthropic
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -13,162 +17,155 @@ client = anthropic.Anthropic()
 QUESTIONS_DIR = Path("data/questions")
 QUESTIONS_DIR.mkdir(parents=True, exist_ok=True)
 
-def generate_batch(slots: list, questions_per_slot: int = 2) -> list:
-    """Generate questions for a list of (topic, difficulty) slots."""
+SUBTOPIC_CONTEXT = {
+    "forces.speed": "speed, distance, time calculations (speed = distance/time), distance-time graphs, average speed, relative speed",
+    "matter.changes": "physical changes (melting, freezing, evaporation, condensation, sublimation), chemical changes, reversible vs irreversible changes, signs of chemical change",
+    "energy.resources": "renewable energy sources (solar, wind, hydroelectric, tidal, geothermal, biomass), non-renewable sources (fossil fuels, nuclear), advantages and disadvantages, environmental impact",
+    "space.seasons": "Earth's orbit around the Sun, axial tilt (23.5°), why we have seasons, length of day, midnight sun, hemisphere differences, equinoxes and solstices",
+    "energy.efficiency": "energy efficiency = useful output / total input × 100%, Sankey diagrams, reducing waste energy, insulation, LED vs incandescent bulbs",
+    "energy.food": "food as a store of chemical energy, measuring energy in food (kJ/kcal), energy requirements for different activities, metabolism, balanced diet",
+    "forces.springs": "Hooke's Law (F = ke), spring constant, elastic limit, elastic vs inelastic deformation, extension vs force graphs, elastic potential energy",
+    "matter.density": "density = mass/volume (rho = m/V), units kg/m3 and g/cm3, comparing densities of solids/liquids/gases, floating and sinking, measuring density by displacement",
+    "space.gravity": "gravity as a force of attraction, gravitational field strength (g = 10 N/kg on Earth), weight = mass x g, weight vs mass, gravity on different planets, orbits",
+}
 
-    slot_descriptions = []
-    for topic, difficulty in slots:
-        slot_descriptions.append(f"  - {topic} / {difficulty} ({questions_per_slot} questions)")
+PROMPT_TEMPLATE = """You are writing KS3 Year 8 UK Physics exam questions about: {topic_description}
 
-    difficulty_guide = """
-Difficulty guidelines:
-- easy: recall a fact or definition, no calculation needed
-- medium: apply a concept, simple 1-step calculation
-- hard: multi-step problem, compare/evaluate, extended reasoning
-"""
-
-    prompt = f"""You are generating KS3 Year 8 UK Physics questions for a question bank.
-Generate exactly {questions_per_slot} questions for each of these topic/difficulty combinations:
-{chr(10).join(slot_descriptions)}
-
-{difficulty_guide}
+Generate exactly {count} questions for the subtopic "{subtopic}".
 
 Requirements:
-- Accurate Year 8 UK physics content (12-13 year olds)
-- Multiple choice: 4 options (A/B/C/D), exactly 1 correct, plausible distractors
-- Mix of multiple_choice (~60%), short_answer (~25%), calculation (~15%)
-- For short_answer and calculation: options = null, correct_answer = full answer string
-- For multiple_choice: options array with label, text, is_correct fields; correct_answer = just the letter
-- Explanations: clear, 1-3 sentences, suitable for a 12-year-old
-- Do NOT duplicate obvious/trivial questions
+- Accurate UK KS3 Year 8 physics (age 12-13)
+- Mix: {mc_count} multiple_choice, {sa_count} short_answer, {calc_count} calculation
+- Difficulties: mix of easy/medium/hard
+- All questions must be DIFFERENT from each other
+- Distractors in MC should be plausible common misconceptions, not obviously wrong
 
-Return a JSON array. Each question object must have exactly these fields:
-- id: generate a new UUID v4 string
-- question_text: the question (string)
-- question_type: "multiple_choice", "short_answer", or "calculation"
-- difficulty: "easy", "medium", or "hard"
-- topic: the subtopic slug (e.g. "forces.gravity")
-- tags: array of 2-4 relevant keyword strings
-- options: array of {{label, text, is_correct}} objects for MC, or null otherwise
-- correct_answer: the answer string (for MC: just the letter like "B")
-- explanation: clear explanation (1-3 sentences)
-- quality_score: 4 or 5 (integer)
-- source_name: "claude_generator"
+Difficulty guide:
+- easy: recall a fact or definition
+- medium: apply a concept, single-step calculation
+- hard: multi-step problem, evaluate/compare, interpret data
 
-Return ONLY the JSON array, no other text."""
+Return ONLY a JSON array (no markdown, no explanation) with this exact structure:
+[
+  {{
+    "question_text": "...",
+    "question_type": "multiple_choice",
+    "difficulty": "easy",
+    "tags": ["tag1", "tag2"],
+    "options": [
+      {{"label": "A", "text": "...", "is_correct": false}},
+      {{"label": "B", "text": "...", "is_correct": true}},
+      {{"label": "C", "text": "...", "is_correct": false}},
+      {{"label": "D", "text": "...", "is_correct": false}}
+    ],
+    "correct_answer": "the correct option text",
+    "explanation": "Clear 1-3 sentence explanation suitable for a 12-year-old."
+  }},
+  {{
+    "question_text": "...",
+    "question_type": "short_answer",
+    "difficulty": "medium",
+    "tags": ["tag1"],
+    "options": null,
+    "correct_answer": "...",
+    "explanation": "..."
+  }},
+  {{
+    "question_text": "...",
+    "question_type": "calculation",
+    "difficulty": "hard",
+    "tags": ["tag1"],
+    "options": null,
+    "correct_answer": "...",
+    "explanation": "..."
+  }}
+]"""
+
+
+def generate_for_subtopic(subtopic: str, count: int = 4) -> list[str]:
+    mc = max(2, count // 2)
+    sa = max(1, count // 4)
+    calc = count - mc - sa
+
+    prompt = PROMPT_TEMPLATE.format(
+        subtopic=subtopic,
+        topic_description=SUBTOPIC_CONTEXT[subtopic],
+        count=count,
+        mc_count=mc,
+        sa_count=sa,
+        calc_count=calc,
+    )
 
     response = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=8000,
-        messages=[{"role": "user", "content": prompt}]
+        max_tokens=4096,
+        messages=[{"role": "user", "content": prompt}],
     )
 
     text = response.content[0].text.strip()
+    # Strip markdown code blocks if present
     if text.startswith("```"):
         text = text.split("```")[1]
         if text.startswith("json"):
             text = text[4:]
-    text = text.strip()
 
-    return json.loads(text)
-
-
-def save_question(q: dict) -> Path:
-    """Save a question to data/questions/{id}.json with full metadata."""
+    questions = json.loads(text)
     now = datetime.utcnow().isoformat()
-    # Always assign a fresh UUID to avoid overwriting existing questions
-    q["id"] = str(uuid.uuid4())
-    q.setdefault("source_url", f"claude://{q['topic']}/{q['difficulty']}")
-    q.setdefault("scraped_at", now)
-    q.setdefault("classified_at", now)
-    q.setdefault("classification_confidence", 0.95)
-    q.setdefault("year_group", "year8")
-    q.setdefault("curriculum", "ks3")
-    q.setdefault("raw_html", None)
 
-    path = QUESTIONS_DIR / f"{q['id']}.json"
-    with open(path, "w") as f:
-        json.dump(q, f, indent=2)
-    return path
+    saved = []
+    for q in questions:
+        qid = str(uuid.uuid4())
+        full = {
+            "id": qid,
+            "question_text": q["question_text"],
+            "question_type": q["question_type"],
+            "difficulty": q["difficulty"],
+            "topic": subtopic,
+            "tags": q.get("tags", []),
+            "options": q.get("options"),
+            "correct_answer": q.get("correct_answer"),
+            "explanation": q.get("explanation", ""),
+            "quality_score": 4,
+            "source_name": "claude_generator",
+            "source_url": f"claude://{subtopic}/{q['difficulty']}",
+            "scraped_at": now,
+            "classified_at": now,
+            "classification_confidence": 0.95,
+            "year_group": "year8",
+            "curriculum": "ks3",
+            "raw_html": None,
+        }
+        out_path = QUESTIONS_DIR / f"{qid}.json"
+        out_path.write_text(json.dumps(full, indent=2))
+        saved.append(qid)
+
+    return saved
 
 
 def main():
-    # All 40 weakest slots (all at 19 questions each)
-    weak_slots = [
-        ("electricity.current_voltage", "easy"),
-        ("electricity.current_voltage", "hard"),
-        ("electricity.magnets", "hard"),
-        ("electricity.static", "easy"),
-        ("electricity.static", "hard"),
-        ("energy.conservation", "easy"),
-        ("energy.efficiency", "easy"),
-        ("energy.efficiency", "hard"),
-        ("energy.efficiency", "medium"),
-        ("energy.food", "easy"),
-        ("energy.food", "hard"),
-        ("energy.food", "medium"),
-        ("energy.resources", "easy"),
-        ("energy.resources", "hard"),
-        ("energy.stores", "hard"),
-        ("forces.balanced", "easy"),
-        ("forces.balanced", "medium"),
-        ("forces.friction", "easy"),
-        ("forces.friction", "hard"),
-        ("forces.friction", "medium"),
-        ("forces.gravity", "easy"),
-        ("forces.moments", "hard"),
-        ("forces.pressure", "easy"),
-        ("forces.pressure", "hard"),
-        ("forces.speed", "easy"),
-        ("forces.springs", "easy"),
-        ("forces.springs", "hard"),
-        ("forces.springs", "medium"),
-        ("forces.types", "hard"),
-        ("matter.changes", "easy"),
-        ("matter.density", "hard"),
-        ("matter.gas_pressure", "hard"),
-        ("matter.particles", "medium"),
-        ("matter.states", "hard"),
-        ("space.gravity", "hard"),
-        ("space.solar_system", "easy"),
-        ("space.solar_system", "hard"),
-        ("waves.colour", "easy"),
-        ("waves.colour", "hard"),
-        ("waves.colour", "medium"),
+    targets = [
+        ("forces.speed", 4),
+        ("matter.changes", 4),
+        ("energy.resources", 4),
+        ("space.seasons", 4),
+        ("energy.efficiency", 4),
+        ("energy.food", 4),
+        ("forces.springs", 4),
+        ("matter.density", 4),
+        ("space.gravity", 4),
     ]
 
-    # Process in batches of 10 slots
-    batch_size = 10
-    total_saved = 0
-
-    for batch_start in range(0, len(weak_slots), batch_size):
-        batch = weak_slots[batch_start:batch_start + batch_size]
-        batch_num = batch_start // batch_size + 1
-        print(f"\n=== Batch {batch_num} ({len(batch)} slots) ===")
-        for s in batch:
-            print(f"  {s[0]}/{s[1]}")
-
+    total = 0
+    for subtopic, count in targets:
+        print(f"Generating {count} questions for {subtopic}...", flush=True)
         try:
-            questions = generate_batch(batch, questions_per_slot=2)
-            print(f"Generated {len(questions)} questions")
-
-            saved = 0
-            for q in questions:
-                try:
-                    path = save_question(q)
-                    saved += 1
-                except Exception as e:
-                    print(f"  Error saving question: {e}")
-
-            total_saved += saved
-            print(f"Saved {saved}/{len(questions)} questions (total so far: {total_saved})")
-
+            ids = generate_for_subtopic(subtopic, count)
+            print(f"  Saved {len(ids)} questions", flush=True)
+            total += len(ids)
         except Exception as e:
-            print(f"Batch {batch_num} failed: {e}")
-            import traceback
-            traceback.print_exc()
+            print(f"  ERROR: {e}", flush=True)
 
-    print(f"\n=== Done. Total new questions: {total_saved} ===")
+    print(f"\nTotal generated: {total}")
 
 
 if __name__ == "__main__":
