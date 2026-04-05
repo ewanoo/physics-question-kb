@@ -1,0 +1,46 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440012",
+  "question_text": "What is the name of the region in our solar system, located beyond Neptune's orbit, where icy objects and dwarf planets reside?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "solar system",
+    "Kuiper Belt",
+    "dwarf planets",
+    "Pluto"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Asteroid Belt",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Kuiper Belt",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Oort Cloud",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Van Allen Belt",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The Kuiper Belt is located beyond Neptune's orbit and contains thousands of icy bodies including the dwarf planet Pluto. It is much closer than the Oort Cloud, which surrounds the entire solar system.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/easy",
+  "scraped_at": "2026-04-05T11:20:51.486126",
+  "classified_at": "2026-04-05T11:20:51.486126",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

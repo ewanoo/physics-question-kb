@@ -1,24 +1,25 @@
 {
   "id": "550e8400-e29b-41d4-a716-446655440003",
-  "question_text": "Look at the Sankey diagram for an electric motor. The input is 200 J of electrical energy. The diagram shows 160 J transferred to kinetic energy and 40 J to heat energy. Explain why the motor is not 100% efficient.",
-  "question_type": "short_answer",
-  "difficulty": "medium",
-  "topic": "energy.conservation",
+  "question_text": "In a sealed syringe, the volume of gas is reduced from 50 cm\u00b3 to 25 cm\u00b3 by pushing the plunger at constant temperature. The initial pressure was 100 kPa. What will the new pressure be, assuming the gas behaves ideally?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
   "tags": [
-    "Sankey diagram",
-    "efficiency",
-    "energy loss"
+    "gas pressure",
+    "Boyle's Law",
+    "volume",
+    "pressure"
   ],
   "options": null,
-  "correct_answer": "The motor is not 100% efficient because some of the input electrical energy (40 J) is transferred to heat energy due to friction, rather than all of it being converted to useful kinetic energy. No real device can be perfectly efficient.",
-  "explanation": "In a perfect motor, all 200 J would become kinetic energy. However, friction in the motor causes some energy to become heat. The 40 J of wasted heat shows that only 160 J out of 200 J becomes useful movement energy, making it 80% efficient.",
+  "correct_answer": "200 kPa",
+  "explanation": "Using Boyle's Law (P\u2081V\u2081 = P\u2082V\u2082) at constant temperature: 100 \u00d7 50 = P\u2082 \u00d7 25. Therefore P\u2082 = 5000/25 = 200 kPa. When volume is halved, pressure doubles because the gas particles collide with the walls more frequently.",
   "quality_score": 5,
   "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:25.195374",
-  "classified_at": "2026-04-05T02:11:25.195374",
+  "source_url": "claude://matter.gas_pressure/hard",
+  "scraped_at": "2026-04-05T11:20:51.484826",
+  "classified_at": "2026-04-05T11:20:51.484826",
   "classification_confidence": 0.95,
   "year_group": "year8",
   "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/medium",
   "raw_html": null
 }

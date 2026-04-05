@@ -1,0 +1,25 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440017",
+  "question_text": "A scientist uses a diffraction grating to separate white light into its component colours. The light diffracts more at certain angles for each colour. Explain why red light diffracts at a smaller angle than violet light, and what this tells us about their wavelengths.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "diffraction",
+    "wavelength",
+    "grating",
+    "red and violet light"
+  ],
+  "options": null,
+  "correct_answer": "Red light diffracts at a smaller angle than violet because red light has a longer wavelength. Longer wavelengths diffract less (bend less) through a diffraction grating than shorter wavelengths.",
+  "explanation": "Diffraction depends on the relationship between wavelength and the spacing of the grating. Longer wavelengths (red) produce smaller diffraction angles, while shorter wavelengths (violet) produce larger angles. This demonstrates that red light has a longer wavelength than violet light.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/hard",
+  "scraped_at": "2026-04-05T11:20:51.486985",
+  "classified_at": "2026-04-05T11:20:51.486985",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

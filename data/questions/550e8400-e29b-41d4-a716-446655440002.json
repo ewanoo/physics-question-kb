@@ -1,24 +1,46 @@
 {
   "id": "550e8400-e29b-41d4-a716-446655440002",
-  "question_text": "A kettle has an efficiency of 80%. If 2000 J of electrical energy is supplied to the kettle, how much energy is transferred to heat the water?",
-  "question_type": "calculation",
-  "difficulty": "medium",
-  "topic": "energy.conservation",
+  "question_text": "A solid metal cube has a mass of 2,700 g and a volume of 100 cm\u00b3. A hollow sphere made of the same metal has a volume of 200 cm\u00b3 but only contains 1,350 g of metal (the rest is air inside). Which statement best explains the difference?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
   "tags": [
-    "efficiency",
-    "energy transfer",
-    "calculation"
+    "density",
+    "mass",
+    "volume",
+    "solids"
   ],
-  "options": null,
-  "correct_answer": "1600 J",
-  "explanation": "Efficiency = (useful energy output \u00f7 total energy input) \u00d7 100. Rearranging: useful energy = efficiency \u00d7 total energy \u00f7 100. So 80 \u00d7 2000 \u00f7 100 = 1600 J of energy heats the water. The remaining 400 J is lost to the surroundings.",
+  "options": [
+    {
+      "label": "A",
+      "text": "The sphere has a different density because it contains air, which has a lower density than metal.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The cube and sphere have the same density because they are made of the same metal.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The sphere has a higher density than the cube because it has a larger volume.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Density cannot be compared between objects of different shapes.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The cube's density is 27 g/cm\u00b3 (pure metal), but the sphere's overall density is only 6.75 g/cm\u00b3 because the total volume includes air spaces. Density measures the mass of material in a given space; when there's air inside, the average density decreases.",
   "quality_score": 5,
   "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:25.195374",
-  "classified_at": "2026-04-05T02:11:25.195374",
+  "source_url": "claude://matter.density/hard",
+  "scraped_at": "2026-04-05T11:20:51.484604",
+  "classified_at": "2026-04-05T11:20:51.484604",
   "classification_confidence": 0.95,
   "year_group": "year8",
   "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/medium",
   "raw_html": null
 }

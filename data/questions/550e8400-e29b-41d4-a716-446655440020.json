@@ -1,0 +1,46 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440020",
+  "question_text": "A green filter is placed over a white light source. When white light passes through the filter, which colours are removed and which colour is transmitted?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "filters",
+    "colour",
+    "absorption",
+    "transmission"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All colours except green are absorbed by the filter; only green light is transmitted.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Green light is absorbed and all other colours are transmitted.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The filter reflects green light and absorbs red and blue light.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Filters do not absorb light; they only scatter it in different directions.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "A green filter transmits (allows to pass through) green light while absorbing all other colours of the visible spectrum. This is why the light emerging from a green filter appears green to our eyes.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/medium",
+  "scraped_at": "2026-04-05T11:20:51.487417",
+  "classified_at": "2026-04-05T11:20:51.487417",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

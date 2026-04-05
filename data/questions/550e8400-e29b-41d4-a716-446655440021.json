@@ -1,0 +1,24 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440021",
+  "question_text": "A block is being pulled across a table. As the pulling force increases, the friction force initially increases, then remains constant even when the pulling force increases further. Explain what is happening in each stage.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "static friction",
+    "kinetic friction",
+    "friction threshold"
+  ],
+  "options": null,
+  "correct_answer": "In the first stage, static friction increases with the pulling force to prevent motion\u2014the block remains stationary. Once the pulling force exceeds the maximum static friction, the block begins to slide. In the second stage, kinetic friction acts and remains approximately constant because kinetic friction depends mainly on the normal force and surface materials, not on the pulling force.",
+  "explanation": "This distinguishes between static and kinetic friction, two important types of friction with different behaviors\u2014a key concept for understanding real-world motion.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/medium",
+  "scraped_at": "2026-04-05T11:19:33.334096",
+  "classified_at": "2026-04-05T11:19:33.334096",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

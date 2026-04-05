@@ -1,0 +1,46 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440014",
+  "question_text": "Saturn's rings are composed primarily of water ice and rock. A scientist observes that the inner rings orbit faster than the outer rings. Using Kepler's Laws and gravitational principles, explain why orbital speed decreases with distance from Saturn.",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital mechanics",
+    "Saturn rings",
+    "Kepler's Laws",
+    "gravity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Objects closer to Saturn experience stronger gravitational force, requiring them to move faster to maintain orbit and prevent falling toward Saturn.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Inner rings are made of lighter material that naturally moves faster than heavier outer ring material.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Saturn's rotation slows down at greater distances, causing the outer rings to move more slowly.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Outer rings move slower because they contain more ice and friction slows them down.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Closer objects experience stronger gravitational pull from Saturn. To balance this and remain in circular orbit, they must move faster (applying centripetal force). This is consistent with Kepler's Laws: orbital period increases and orbital speed decreases with distance from the central body.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/hard",
+  "scraped_at": "2026-04-05T11:20:51.486379",
+  "classified_at": "2026-04-05T11:20:51.486379",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

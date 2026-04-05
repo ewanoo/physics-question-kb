@@ -1,45 +1,25 @@
 {
   "id": "550e8400-e29b-41d4-a716-446655440001",
-  "question_text": "A light bulb transfers 100 J of electrical energy into 15 J of light energy and 85 J of heat energy. Which statement best describes what happens to the energy?",
-  "question_type": "multiple_choice",
-  "difficulty": "medium",
-  "topic": "energy.conservation",
+  "question_text": "A student has two identical containers. Container A is filled with lead (density 11,340 kg/m\u00b3) and container B is filled with aluminium (density 2,700 kg/m\u00b3). Both containers hold exactly 1 m\u00b3 of material. Calculate the difference in mass between the two containers.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
   "tags": [
-    "energy conservation",
-    "energy transfer",
-    "light bulb"
+    "density",
+    "mass",
+    "comparison",
+    "calculation"
   ],
-  "options": [
-    {
-      "label": "A",
-      "text": "Energy is lost because only 15 J becomes useful light",
-      "is_correct": false
-    },
-    {
-      "label": "B",
-      "text": "Energy is destroyed as heat so the total is not conserved",
-      "is_correct": false
-    },
-    {
-      "label": "C",
-      "text": "All 100 J is transferred into different forms of energy; none is lost",
-      "is_correct": true
-    },
-    {
-      "label": "D",
-      "text": "The heat energy proves the light bulb is inefficient and breaks the conservation law",
-      "is_correct": false
-    }
-  ],
-  "correct_answer": null,
-  "explanation": "Energy conservation means energy cannot be created or destroyed, only transferred from one form to another. The 100 J input becomes 15 J of light and 85 J of heat\u2014the total is still 100 J, so energy is conserved. The heat is 'wasted' energy in terms of usefulness, but it still exists.",
+  "options": null,
+  "correct_answer": "8,640 kg",
+  "explanation": "Mass = density \u00d7 volume. Lead: 11,340 \u00d7 1 = 11,340 kg. Aluminium: 2,700 \u00d7 1 = 2,700 kg. Difference: 11,340 - 2,700 = 8,640 kg. Lead is much denser so it has significantly more mass in the same volume.",
   "quality_score": 5,
   "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:25.195374",
-  "classified_at": "2026-04-05T02:11:25.195374",
+  "source_url": "claude://matter.density/hard",
+  "scraped_at": "2026-04-05T11:20:51.484255",
+  "classified_at": "2026-04-05T11:20:51.484255",
   "classification_confidence": 0.95,
   "year_group": "year8",
   "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/medium",
   "raw_html": null
 }

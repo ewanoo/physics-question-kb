@@ -1,0 +1,25 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440019",
+  "question_text": "A student observes that a red apple appears red in white light. Explain what is happening to the light waves when the apple is illuminated, and why we see red rather than any other colour.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour",
+    "absorption",
+    "reflection",
+    "pigment"
+  ],
+  "options": null,
+  "correct_answer": "The apple's surface absorbs all colours of light except red. Red light is reflected (scattered) from the apple's surface, travels to our eyes, and our brain interprets this as the colour red.",
+  "explanation": "Objects appear coloured because they selectively absorb certain wavelengths and reflect others. The red pigments in the apple absorb blue and green wavelengths but reflect red wavelengths, which is why we see red light coming from the apple.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/medium",
+  "scraped_at": "2026-04-05T11:20:51.487280",
+  "classified_at": "2026-04-05T11:20:51.487280",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

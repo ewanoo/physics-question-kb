@@ -1,0 +1,25 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440010",
+  "question_text": "The Moon's mass is approximately 7.3 \u00d7 10\u00b2\u00b2 kg and Earth's mass is approximately 6.0 \u00d7 10\u00b2\u2074 kg. The Moon orbits Earth at an average distance of 3.8 \u00d7 10\u2078 m. Using the relationship that gravitational force is inversely proportional to the square of distance, calculate how the gravitational force would change if the Moon were moved to half its current distance from Earth.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "inverse square law",
+    "orbital distance",
+    "force"
+  ],
+  "options": null,
+  "correct_answer": "The gravitational force would increase by a factor of 4 (or become 4 times stronger).",
+  "explanation": "Using the inverse square law: if distance is halved (d \u2192 d/2), then F becomes proportional to 1/(d/2)\u00b2 = 1/(d\u00b2/4) = 4/d\u00b2. Therefore force increases by a factor of 4. Halving distance quadruples the gravitational force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.gravity/hard",
+  "scraped_at": "2026-04-05T11:20:51.485875",
+  "classified_at": "2026-04-05T11:20:51.485875",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

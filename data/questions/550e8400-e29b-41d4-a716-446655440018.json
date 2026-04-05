@@ -1,0 +1,25 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440018",
+  "question_text": "A prism separates white light into a spectrum. A student observes that red light bends less than blue light when passing through the prism. What does this tell us about how the refractive index of the prism material depends on wavelength, and why might this matter for optical instruments?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "refraction",
+    "prism",
+    "refractive index",
+    "dispersion"
+  ],
+  "options": null,
+  "correct_answer": "The refractive index is higher for blue light (shorter wavelength) than for red light (longer wavelength). This matters in optical instruments like telescopes because different colours focus at different points, causing chromatic aberration that blurs images.",
+  "explanation": "This phenomenon is called dispersion: materials bend different wavelengths by different amounts. In telescopes and cameras, this chromatic aberration must be corrected using special lens combinations to focus all colours at the same point.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/hard",
+  "scraped_at": "2026-04-05T11:20:51.487138",
+  "classified_at": "2026-04-05T11:20:51.487138",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440015",
+  "question_text": "What colour is light that has a wavelength of approximately 450 nanometres?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "light",
+    "wavelength",
+    "colour",
+    "blue"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Blue",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Green",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Yellow",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Blue light has a wavelength of approximately 450-495 nanometres. Red light has longer wavelengths (620-750 nm) and violet light has shorter wavelengths (380-420 nm).",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/easy",
+  "scraped_at": "2026-04-05T11:20:51.486533",
+  "classified_at": "2026-04-05T11:20:51.486533",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

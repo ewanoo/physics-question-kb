@@ -1,0 +1,25 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440013",
+  "question_text": "Mercury has a very thin atmosphere and experiences extreme temperature variations between day and night (from -180\u00b0C to 430\u00b0C). Explain why Mercury cannot retain a thick atmosphere like Earth, despite being a planet.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "atmosphere",
+    "gravity",
+    "Mercury",
+    "planet composition"
+  ],
+  "options": null,
+  "correct_answer": "Mercury has very low gravity because of its small mass, so it cannot exert enough gravitational force to hold onto light gas molecules. The intense solar radiation also gives atmospheric particles enough energy to escape into space.",
+  "explanation": "Both low gravity and high temperatures work against atmosphere retention. Mercury's small size and proximity to the Sun mean it cannot maintain the gravitational grip needed to keep gases from escaping, unlike larger planets like Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://space.solar_system/hard",
+  "scraped_at": "2026-04-05T11:20:51.486257",
+  "classified_at": "2026-04-05T11:20:51.486257",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

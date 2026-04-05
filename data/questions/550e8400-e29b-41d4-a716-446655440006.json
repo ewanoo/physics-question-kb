@@ -1,24 +1,46 @@
 {
   "id": "550e8400-e29b-41d4-a716-446655440006",
-  "question_text": "A lamp converts 120 J of electrical energy into 20 J of light energy and 100 J of heat energy. Calculate the efficiency of the lamp.",
-  "question_type": "calculation",
+  "question_text": "Which statement correctly describes the arrangement and movement of particles in a gas compared to a liquid?",
+  "question_type": "multiple_choice",
   "difficulty": "medium",
-  "topic": "energy.conservation",
+  "topic": "matter.particles",
   "tags": [
-    "efficiency",
-    "calculation",
-    "energy transfer"
+    "particles",
+    "states of matter",
+    "gas",
+    "liquid"
   ],
-  "options": null,
-  "correct_answer": "16.7% (or 17%)",
-  "explanation": "Efficiency = (useful energy output \u00f7 total energy input) \u00d7 100. The useful output is the light energy (20 J), so efficiency = (20 \u00f7 120) \u00d7 100 = 16.7%. This shows traditional light bulbs are very inefficient because most energy becomes wasted heat.",
-  "quality_score": 5,
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas particles are more tightly packed than liquid particles and move slowly in fixed positions.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles are spread far apart with weak forces between them, so they move rapidly in all directions.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Liquid particles have no forces between them and move at the same speed as gas particles.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gas and liquid particles have identical arrangements but different temperatures.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gas particles are far apart with minimal attractive forces, allowing them to move freely and rapidly throughout their container. Liquid particles are closer together with stronger intermolecular forces, restricting their movement compared to gases.",
+  "quality_score": 4,
   "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:25.195374",
-  "classified_at": "2026-04-05T02:11:25.195374",
+  "source_url": "claude://matter.particles/medium",
+  "scraped_at": "2026-04-05T11:20:51.485289",
+  "classified_at": "2026-04-05T11:20:51.485289",
   "classification_confidence": 0.95,
   "year_group": "year8",
   "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/medium",
   "raw_html": null
 }

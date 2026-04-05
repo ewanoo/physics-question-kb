@@ -1,0 +1,46 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440008",
+  "question_text": "A sample of water is cooled from a gas to a solid. Which sequence correctly shows the changes in particle arrangement and movement?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "states of matter",
+    "condensation",
+    "freezing",
+    "particles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Rapid movement throughout space \u2192 slower movement with particles closer together \u2192 fixed positions with minimal vibration.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Fixed positions \u2192 liquid state \u2192 rapid movement in all directions.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Particles spread far apart \u2192 particles remain spread apart but move slower \u2192 fixed crystalline structure.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Random movement \u2192 organized rows \u2192 individual particles separated.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "As a gas cools, particles lose kinetic energy and move more slowly; they condense into a liquid where they are closer but still mobile. Further cooling freezes the liquid into a solid where particles vibrate in fixed positions in a regular pattern.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.states/hard",
+  "scraped_at": "2026-04-05T11:20:51.485585",
+  "classified_at": "2026-04-05T11:20:51.485585",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

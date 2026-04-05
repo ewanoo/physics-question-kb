@@ -1,45 +1,25 @@
 {
   "id": "550e8400-e29b-41d4-a716-446655440005",
-  "question_text": "Which of the following best explains why all devices eventually transfer some energy to heat?",
-  "question_type": "multiple_choice",
+  "question_text": "Describe what happens to the particles in a solid when it is heated. What causes the solid to expand?",
+  "question_type": "short_answer",
   "difficulty": "medium",
-  "topic": "energy.conservation",
+  "topic": "matter.particles",
   "tags": [
-    "energy transfer",
-    "heat",
-    "friction"
+    "particles",
+    "thermal expansion",
+    "vibration",
+    "heating"
   ],
-  "options": [
-    {
-      "label": "A",
-      "text": "Heat is a type of energy that is produced whenever any device operates",
-      "is_correct": false
-    },
-    {
-      "label": "B",
-      "text": "Friction and resistance in all devices cause some energy to be transferred to heat",
-      "is_correct": true
-    },
-    {
-      "label": "C",
-      "text": "Devices are designed to waste energy as heat to be environmentally friendly",
-      "is_correct": false
-    },
-    {
-      "label": "D",
-      "text": "Energy conservation laws require that some energy must become heat",
-      "is_correct": false
-    }
-  ],
-  "correct_answer": null,
-  "explanation": "All real devices have friction (moving parts rubbing) and electrical resistance, which convert some of the input energy into heat energy. This is unavoidable in real devices, though we try to minimize it to improve efficiency.",
-  "quality_score": 5,
+  "options": null,
+  "correct_answer": "When a solid is heated, its particles vibrate more vigorously. The increased vibration causes particles to move further apart on average, so the solid expands overall.",
+  "explanation": "Heating gives particles more kinetic energy, making them vibrate faster and occupy more space. This particle-level explanation accounts for observable thermal expansion in solids.",
+  "quality_score": 4,
   "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:25.195374",
-  "classified_at": "2026-04-05T02:11:25.195374",
+  "source_url": "claude://matter.particles/medium",
+  "scraped_at": "2026-04-05T11:20:51.485165",
+  "classified_at": "2026-04-05T11:20:51.485165",
   "classification_confidence": 0.95,
   "year_group": "year8",
   "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/medium",
   "raw_html": null
 }

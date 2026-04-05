@@ -1,24 +1,25 @@
 {
   "id": "550e8400-e29b-41d4-a716-446655440007",
-  "question_text": "Describe what the width of the arrows in a Sankey diagram represents and explain how you can use a Sankey diagram to identify which device is more efficient.",
+  "question_text": "A student heats ice at 0\u00b0C continuously. During the first part of heating, the temperature remains at 0\u00b0C even though energy is being added. Explain why the temperature does not change during this phase, and state the name of this process.",
   "question_type": "short_answer",
-  "difficulty": "medium",
-  "topic": "energy.conservation",
+  "difficulty": "hard",
+  "topic": "matter.states",
   "tags": [
-    "Sankey diagram",
-    "efficiency",
-    "energy flow"
+    "melting",
+    "latent heat",
+    "phase change",
+    "energy"
   ],
   "options": null,
-  "correct_answer": "The width of the arrows represents the amount of energy being transferred. A more efficient device will have a wider arrow for useful energy output (and a narrower arrow for wasted energy) compared to a less efficient device that has more energy lost as heat.",
-  "explanation": "In a Sankey diagram, thicker arrows show more energy. If two devices receive the same input energy, the one with the thicker 'useful output' arrow and thinner 'wasted energy' arrow is more efficient because it converts more of its input into useful forms.",
-  "quality_score": 4,
+  "correct_answer": "This is melting. The energy added is used to break the bonds holding particles in fixed positions, not to increase their kinetic energy, so temperature stays constant until all the ice has melted.",
+  "explanation": "During a phase change, energy overcomes intermolecular forces rather than increasing particle speed, so temperature remains constant. Once melting is complete, further heating increases the temperature of the liquid water.",
+  "quality_score": 5,
   "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:25.195374",
-  "classified_at": "2026-04-05T02:11:25.195374",
+  "source_url": "claude://matter.states/hard",
+  "scraped_at": "2026-04-05T11:20:51.485436",
+  "classified_at": "2026-04-05T11:20:51.485436",
   "classification_confidence": 0.95,
   "year_group": "year8",
   "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/medium",
   "raw_html": null
 }

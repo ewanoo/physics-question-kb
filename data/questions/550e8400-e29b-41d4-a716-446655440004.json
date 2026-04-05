@@ -1,24 +1,46 @@
 {
   "id": "550e8400-e29b-41d4-a716-446655440004",
-  "question_text": "A mobile phone charger inputs 50 J of electrical energy. The phone battery stores 45 J of chemical energy. How much energy is wasted as heat during charging?",
-  "question_type": "calculation",
-  "difficulty": "medium",
-  "topic": "energy.conservation",
+  "question_text": "A student investigates how temperature affects gas pressure in a rigid container. The pressure increases from 101 kPa to 121 kPa when the temperature increases from 20\u00b0C to 80\u00b0C. Which explanation correctly accounts for this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
   "tags": [
-    "energy conservation",
-    "energy loss",
-    "calculation"
+    "gas pressure",
+    "temperature",
+    "kinetic energy",
+    "particles"
   ],
-  "options": null,
-  "correct_answer": "5 J",
-  "explanation": "By conservation of energy, the total input energy must equal useful energy stored plus wasted energy. So: 50 J = 45 J (stored) + wasted energy. Therefore, wasted energy = 50 - 45 = 5 J. This is why chargers get warm during use.",
+  "options": [
+    {
+      "label": "A",
+      "text": "Higher temperature means gas particles move faster and collide more frequently and forcefully with the container walls, increasing pressure.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The gas expands when heated, pushing outward on the container and increasing pressure.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "More gas particles are created when the temperature increases, raising the pressure.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The container becomes weaker at higher temperatures, allowing pressure to increase.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "In a rigid container, volume is fixed. When temperature increases, gas particles gain kinetic energy and move faster, causing more frequent and forceful collisions with the walls. This directly increases pressure. No new particles are created; the container's structural integrity is unchanged.",
   "quality_score": 5,
   "source_name": "claude_generator",
-  "scraped_at": "2026-04-05T02:11:25.195374",
-  "classified_at": "2026-04-05T02:11:25.195374",
+  "source_url": "claude://matter.gas_pressure/hard",
+  "scraped_at": "2026-04-05T11:20:51.484994",
+  "classified_at": "2026-04-05T11:20:51.484994",
   "classification_confidence": 0.95,
   "year_group": "year8",
   "curriculum": "ks3",
-  "source_url": "claude://energy.conservation/medium",
   "raw_html": null
 }

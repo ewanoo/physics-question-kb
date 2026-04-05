@@ -1,0 +1,46 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440016",
+  "question_text": "Which of the following colours of visible light has the longest wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "light",
+    "wavelength",
+    "visible spectrum",
+    "red"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Violet",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Green",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Red",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Blue",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Red light has the longest wavelength in the visible spectrum (620-750 nm), while violet has the shortest (380-420 nm). Wavelength generally decreases as you go from red to violet across the spectrum.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.colour/easy",
+  "scraped_at": "2026-04-05T11:20:51.486686",
+  "classified_at": "2026-04-05T11:20:51.486686",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
