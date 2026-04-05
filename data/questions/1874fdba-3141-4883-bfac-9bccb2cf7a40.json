@@ -1,0 +1,38 @@
+{
+  "question_text": "A student sets up a circuit with a battery, a resistor, and measuring instruments. They want to measure both the current through the resistor and the voltage across it. Which statement correctly describes how these instruments should be connected?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ammeter",
+    "voltmeter",
+    "circuit_connection"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The ammeter in parallel with the resistor and the voltmeter in series with it",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The ammeter in series with the resistor and the voltmeter in parallel with it",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both the ammeter and voltmeter in series with the resistor",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both the ammeter and voltmeter in parallel with the resistor",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "An ammeter measures current and must be placed in series (in the main circuit path) so all the current flows through it. A voltmeter measures the potential difference and must be placed in parallel (across the component) to measure the voltage without disrupting the circuit.",
+  "quality_score": 5,
+  "id": "1874fdba-3141-4883-bfac-9bccb2cf7a40",
+  "source_name": "claude_generator"
+}

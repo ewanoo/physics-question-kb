@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is a non-renewable energy resource?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "non-renewable",
+    "fossil fuels",
+    "classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solar energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Natural gas",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Wind energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Hydro energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Natural gas is a fossil fuel formed from dead organisms millions of years ago, so it cannot be replaced quickly enough to be considered renewable. Solar, wind, and hydro energy come from natural processes that happen continuously, making them renewable.",
+  "quality_score": 4,
+  "id": "81d6aaac-54e6-4230-b61d-bbcd9081aef2",
+  "source_name": "claude_generator"
+}

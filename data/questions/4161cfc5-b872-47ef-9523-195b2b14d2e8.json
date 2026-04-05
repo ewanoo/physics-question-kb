@@ -1,0 +1,17 @@
+{
+  "question_text": "The asteroid belt is located between Mars and Jupiter. A spacecraft travels from Earth to explore asteroids in the belt, then continues to Jupiter. Using the information that orbital periods increase with distance from the Sun, explain what would happen to the orbital period of a small asteroid if it were moved from its current position in the asteroid belt to a position closer to the Sun (between Mars and Earth). Show your reasoning.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital period",
+    "distance relationship",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "The orbital period would decrease. If the asteroid moves closer to the Sun (from the asteroid belt toward Earth's orbit), the distance from the Sun decreases. Since orbital periods increase with distance from the Sun, moving closer to the Sun means the orbital period must decrease\u2014the asteroid would complete its orbit faster than it did in the asteroid belt.",
+  "explanation": "This requires understanding the inverse relationship between distance and orbital period. The closer an object orbits to the Sun, the faster it orbits and the shorter its orbital period. For example, Mercury (closest planet) orbits in just 88 days, while Neptune (furthest planet) takes 165 years. Moving an asteroid closer to the Sun means it must orbit faster.",
+  "quality_score": 5,
+  "id": "4161cfc5-b872-47ef-9523-195b2b14d2e8",
+  "source_name": "claude_generator"
+}

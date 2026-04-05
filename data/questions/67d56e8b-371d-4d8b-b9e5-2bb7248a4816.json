@@ -1,0 +1,17 @@
+{
+  "question_text": "A person wearing stiletto heels (heel area = 1 cm\u00b2) stands on a wooden floor and exerts a downward force of 600 N. The same person then lies flat on the floor, with their body in contact with an area of 0.5 m\u00b2. Calculate the pressure in each situation (in Pa) and explain why stiletto heels can damage wooden floors while lying down does not.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure_calculation",
+    "force_area",
+    "comparing_pressures"
+  ],
+  "options": null,
+  "correct_answer": "Stiletto heel pressure = 600 N \u00f7 0.0001 m\u00b2 = 6,000,000 Pa (or 6 \u00d7 10\u2076 Pa). Lying down pressure = 600 N \u00f7 0.5 m\u00b2 = 1,200 Pa. The stiletto heels create 5,000 times more pressure because the force is concentrated on a tiny area, which can exceed the floor's strength and cause damage. Lying down spreads the force over a large area, creating low pressure that the floor can easily support.",
+  "explanation": "This question requires converting 1 cm\u00b2 to m\u00b2 (0.0001 m\u00b2), then using P = F/A twice to compare. The dramatic difference in pressure shows why the same person with the same weight can either damage a floor or not\u2014it depends entirely on the area of contact. Stiletto heels concentrate force into an extremely small area, creating enormous pressure that splinters wood, while lying down distributes weight safely.",
+  "quality_score": 5,
+  "id": "67d56e8b-371d-4d8b-b9e5-2bb7248a4816",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "In a parallel circuit with three identical resistors, the total current from the battery is 9 A. What is the current through each individual resistor?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "current",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "3 A (or 3 amperes)",
+  "explanation": "In a parallel circuit, the total current splits equally between all identical branches. Since 9 A divides equally among 3 resistors: 9 A \u00f7 3 = 3 A through each resistor. The currents add up: 3 + 3 + 3 = 9 A total.",
+  "quality_score": 5,
+  "id": "c6413260-00c6-4c51-8d4d-ede7e08263ea",
+  "source_name": "claude_generator"
+}

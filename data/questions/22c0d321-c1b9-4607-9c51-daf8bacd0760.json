@@ -1,0 +1,18 @@
+{
+  "question_text": "A distance-time graph shows a cyclist's journey. From 0\u201310 seconds, the line is steep and straight. From 10\u201320 seconds, the line is flat and horizontal. Calculate the cyclist's acceleration during the second 10 seconds (10\u201320s), and explain what the flat section tells you about the cyclist's motion.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "acceleration",
+    "interpretation",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "The acceleration is 0 m/s\u00b2 (or zero). The flat horizontal line means the distance is not changing, so the cyclist has stopped and is stationary (velocity = 0).",
+  "explanation": "A horizontal line on a distance-time graph means distance is not changing over time, which means the object is at rest with zero velocity. Since velocity is not changing, acceleration = 0 m/s\u00b2. This tests understanding that a flat graph represents zero speed and zero acceleration, not constant speed.",
+  "quality_score": 5,
+  "id": "22c0d321-c1b9-4607-9c51-daf8bacd0760",
+  "source_name": "claude_generator"
+}

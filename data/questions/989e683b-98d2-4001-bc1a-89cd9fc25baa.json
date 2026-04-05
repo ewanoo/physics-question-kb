@@ -1,0 +1,18 @@
+{
+  "question_text": "A satellite orbits Earth at a height of 400 km above the surface. The radius of Earth is approximately 6,400 km. The gravitational field strength at Earth's surface is 10 N/kg. (a) Calculate the distance of the satellite from Earth's centre. (b) Using the inverse square law for gravitational field strength, calculate the gravitational field strength at the satellite's orbital height. (c) Explain whether a satellite at this height would have a shorter or longer orbital period than a satellite closer to Earth's surface.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field strength",
+    "orbital motion",
+    "inverse square law",
+    "satellites"
+  ],
+  "options": null,
+  "correct_answer": "(a) 6,800 km or 6.8 \u00d7 10\u2076 m (b) 8.8 N/kg or approximately 8.9 N/kg (c) Longer orbital period \u2014 the satellite is farther from Earth, so gravity is weaker, meaning it orbits more slowly.",
+  "explanation": "(a) Total distance = 6,400 + 400 = 6,800 km from Earth's centre. (b) The ratio of distances is 6,800/6,400 = 1.0625. Using inverse square law: g = 10 \u00f7 (1.0625)\u00b2 \u2248 8.8 N/kg. (c) Weaker gravity means weaker centripetal force, so the satellite must orbit more slowly at a greater distance, giving it a longer period.",
+  "quality_score": 5,
+  "id": "989e683b-98d2-4001-bc1a-89cd9fc25baa",
+  "source_name": "claude_generator"
+}

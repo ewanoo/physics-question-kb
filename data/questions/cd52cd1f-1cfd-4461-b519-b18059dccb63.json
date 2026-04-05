@@ -1,0 +1,17 @@
+{
+  "question_text": "A balanced seesaw has a child of weight 400 N sitting 1.5 m to the left of the pivot. Where should a second child of weight 300 N sit to balance the seesaw?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "principle_of_moments",
+    "balancing_beams",
+    "clockwise_anticlockwise"
+  ],
+  "options": null,
+  "correct_answer": "2 m to the right of the pivot (or 2 m on the opposite side)",
+  "explanation": "Using the principle of moments: for the seesaw to balance, anticlockwise moments must equal clockwise moments. Moment of child 1 = 400 N \u00d7 1.5 m = 600 N\u22c5m (anticlockwise). For the second child: 300 N \u00d7 distance = 600 N\u22c5m, so distance = 600 \u00f7 300 = 2 m. The lighter child must sit further away to create an equal moment.",
+  "quality_score": 5,
+  "id": "cd52cd1f-1cfd-4461-b519-b18059dccb63",
+  "source_name": "claude_generator"
+}

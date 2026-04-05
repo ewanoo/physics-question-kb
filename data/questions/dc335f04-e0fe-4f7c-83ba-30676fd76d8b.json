@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements about pressure in water is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure_in_fluids",
+    "depth",
+    "water_pressure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Water pressure is the same at all depths in the ocean.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Water pressure increases as you go deeper because more water above pushes down.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Water pressure only exists at the surface where the sun heats it.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Water pressure decreases as you go deeper because water is incompressible.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "As you go deeper in water, there is more water above you, and all that water has weight. The weight of all the water above pressing down creates greater pressure at greater depths. This is why deep-sea submarines need extremely strong hulls to resist the huge pressure.",
+  "quality_score": 5,
+  "id": "dc335f04-e0fe-4f7c-83ba-30676fd76d8b",
+  "source_name": "claude_generator"
+}

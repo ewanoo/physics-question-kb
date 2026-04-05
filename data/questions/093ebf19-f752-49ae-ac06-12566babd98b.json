@@ -1,0 +1,17 @@
+{
+  "question_text": "Infrared radiation is used in thermal imaging cameras to detect heat. Explain why infrared is more suitable than visible light for this purpose, and identify one other practical use of infrared radiation.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "infrared",
+    "applications",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "Infrared is suitable for thermal imaging because all warm objects emit infrared radiation, allowing cameras to detect heat that is invisible to our eyes. One other use: cooking/heating food, remote controls, night vision, or communications.",
+  "explanation": "Infrared has the right wavelength to be emitted by warm objects at room temperature, making it ideal for detecting heat. It's also useful for heating and in remote controls because it can penetrate certain materials and is safe to use around people.",
+  "quality_score": 5,
+  "id": "093ebf19-f752-49ae-ac06-12566babd98b",
+  "source_name": "claude_generator"
+}

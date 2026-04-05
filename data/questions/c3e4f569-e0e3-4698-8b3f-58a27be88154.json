@@ -1,0 +1,17 @@
+{
+  "question_text": "A 2 kg object is moving at a speed of 6 m/s. Calculate the kinetic energy of the object using the formula KE = \u00bdmv\u00b2.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "formula application",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "36 J (joules)",
+  "explanation": "Using KE = \u00bdmv\u00b2, we substitute: KE = \u00bd \u00d7 2 \u00d7 6\u00b2 = \u00bd \u00d7 2 \u00d7 36 = 1 \u00d7 36 = 36 J. Remember to square the velocity first before multiplying by mass, and the answer is in joules (J).",
+  "quality_score": 5,
+  "id": "c3e4f569-e0e3-4698-8b3f-58a27be88154",
+  "source_name": "claude_generator"
+}

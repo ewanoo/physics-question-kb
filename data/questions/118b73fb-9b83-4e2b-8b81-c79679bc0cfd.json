@@ -1,0 +1,18 @@
+{
+  "question_text": "During a thunderstorm, lightning occurs when the electric potential difference between a cloud and the ground reaches 100 million volts. A lightning strike transfers a charge of 15 coulombs in 0.0002 seconds. Calculate the current in the lightning strike and explain why lightning is dangerous to living things.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "lightning",
+    "current",
+    "dangers of static",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Current = Charge \u00f7 Time = 15 \u00f7 0.0002 = 75,000 amperes (or 75 kA). Lightning is dangerous because this huge current passing through the body causes severe burns, stops the heart, and damages the nervous system. The very high voltage also ionizes air and creates a plasma channel that can ignite flammable materials.",
+  "explanation": "Using the formula Current = Charge \u00f7 Time, we divide 15 coulombs by 0.0002 seconds to get 75,000 amps\u2014an enormous current. This massive current can stop a person's heart, cause severe internal and external burns, and cause muscle paralysis. Lightning is one of nature's most powerful electrical hazards.",
+  "quality_score": 5,
+  "id": "118b73fb-9b83-4e2b-8b81-c79679bc0cfd",
+  "source_name": "claude_generator"
+}

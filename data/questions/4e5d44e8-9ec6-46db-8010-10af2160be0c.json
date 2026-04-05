@@ -1,0 +1,18 @@
+{
+  "question_text": "At the North Pole, there is continuous daylight for about 6 months around the summer solstice (the 'midnight sun'), but complete darkness for about 6 months around the winter solstice. Use your knowledge of Earth's axial tilt and rotation to explain why this happens and why it doesn't occur in the UK.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "midnight sun",
+    "poles",
+    "axial tilt",
+    "latitude"
+  ],
+  "options": null,
+  "correct_answer": "At the North Pole (90\u00b0 latitude), the 23.5\u00b0 tilt means the pole is tilted so far towards the Sun in summer that it faces the Sun continuously for 6 months as Earth rotates\u2014the Sun never sets. In winter, it faces away continuously. The UK (56\u00b0 latitude) is at a lower latitude, so it never tilts far enough to experience continuous daylight or darkness; the Sun always rises and sets each day, though for varying lengths of time.",
+  "explanation": "The Earth's tilt of 23.5\u00b0 combined with its rotation creates extreme conditions at the poles. When the North Pole tilts towards the Sun, it rotates continuously facing sunlight, creating the midnight sun. The UK is further south, so even at summer solstice, Earth's rotation always brings periods of darkness. The closer you are to the poles, the more extreme the daylight changes; the closer to the equator, the more equal day and night remain throughout the year.",
+  "quality_score": 5,
+  "id": "4e5d44e8-9ec6-46db-8010-10af2160be0c",
+  "source_name": "claude_generator"
+}

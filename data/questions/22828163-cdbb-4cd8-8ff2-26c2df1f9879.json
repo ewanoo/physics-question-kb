@@ -1,0 +1,38 @@
+{
+  "question_text": "The gravitational field strength on Earth's surface is approximately 10 N/kg. The gravitational field strength decreases with distance from Earth. At what distance would you expect the gravitational field strength to be approximately 2.5 N/kg?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field strength",
+    "distance",
+    "inverse square law concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "At twice the distance from Earth's centre",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "At four times the distance from Earth's centre",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "At half the distance from Earth's centre",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "At one quarter of the distance from Earth's centre",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravitational field strength follows the inverse square law \u2014 when you double the distance, the field strength becomes one quarter as strong. Since 10 N/kg \u00f7 4 = 2.5 N/kg, the distance must be doubled (or approximately 2 Earth radii from the surface).",
+  "quality_score": 5,
+  "id": "22828163-cdbb-4cd8-8ff2-26c2df1f9879",
+  "source_name": "claude_generator"
+}

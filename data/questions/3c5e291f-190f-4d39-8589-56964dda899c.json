@@ -1,0 +1,17 @@
+{
+  "question_text": "Neptune orbits the Sun once every 165 Earth years, while Earth orbits once every 1 year. Explain why Neptune takes so much longer to orbit the Sun than Earth does, using the terms 'distance' and 'orbital period'.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital period",
+    "distance from Sun",
+    "Kepler's laws"
+  ],
+  "options": null,
+  "correct_answer": "Neptune is much further from the Sun than Earth. The further a planet is from the Sun, the longer its orbital period (the time it takes to complete one orbit). Because Neptune is so far away, it has to travel a much greater distance and moves more slowly in its orbit, so it takes 165 years to complete one orbit.",
+  "explanation": "This demonstrates Kepler's Third Law: planets that are further from the Sun take longer to orbit. Neptune is about 30 times further from the Sun than Earth, so it has both a longer path to travel AND moves more slowly, resulting in a much longer orbital period.",
+  "quality_score": 5,
+  "id": "3c5e291f-190f-4d39-8589-56964dda899c",
+  "source_name": "claude_generator"
+}

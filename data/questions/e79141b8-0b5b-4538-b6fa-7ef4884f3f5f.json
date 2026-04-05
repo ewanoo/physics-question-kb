@@ -1,0 +1,17 @@
+{
+  "question_text": "A sealed syringe contains air at room temperature. When you push the plunger down to half the original volume, what happens to the pressure inside the syringe and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "boyles_law",
+    "volume_pressure_relationship",
+    "particle_collisions"
+  ],
+  "options": null,
+  "correct_answer": "The pressure doubles (or increases). When the volume is halved, the gas particles are forced into a smaller space, so they collide with the walls of the syringe more frequently, causing the pressure to increase.",
+  "explanation": "This is Boyle's Law in action. Reducing the volume doesn't create more particles, but it makes them hit the container walls more often because they have less space to move around. More collisions = higher pressure.",
+  "quality_score": 5,
+  "id": "e79141b8-0b5b-4538-b6fa-7ef4884f3f5f",
+  "source_name": "claude_generator"
+}

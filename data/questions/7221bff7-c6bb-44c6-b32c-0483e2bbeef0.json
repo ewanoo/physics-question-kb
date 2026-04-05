@@ -1,0 +1,18 @@
+{
+  "question_text": "A chef uses a sharp knife to cut through a tomato, while their friend struggles to cut the same tomato with a blunt knife. Both apply the same force. Explain why the sharp knife cuts more easily using the concept of pressure.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "force",
+    "area",
+    "everyday_application"
+  ],
+  "options": null,
+  "correct_answer": "The sharp knife has a smaller contact area than the blunt knife. Since pressure = force/area, a smaller area produces greater pressure for the same force. The higher pressure concentrates the force, making it easier to cut.",
+  "explanation": "Pressure depends on both the force applied AND the area it acts over. A sharp knife's thin edge concentrates the force into a tiny area, creating huge pressure that breaks through the tomato skin easily. A blunt knife spreads the same force over a larger area, so the pressure is lower and it just pushes rather than cuts.",
+  "quality_score": 5,
+  "id": "7221bff7-c6bb-44c6-b32c-0483e2bbeef0",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "The Earth's axis is tilted at 23.5\u00b0 to the plane of its orbit around the Sun. Why does this tilt cause the UK to experience summer and winter?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "axial tilt",
+    "seasons",
+    "UK climate"
+  ],
+  "options": null,
+  "correct_answer": "When the Earth's axis tilts towards the Sun, the UK receives more direct sunlight and has longer days, making it summer. When it tilts away, the UK receives less direct sunlight and has shorter days, making it winter.",
+  "explanation": "The tilt of Earth's axis means different parts of the planet receive different amounts of solar energy at different times of year. In summer, the UK is tilted towards the Sun so the Sun's rays hit more directly and we have more daylight hours. In winter, we're tilted away so the rays are less direct and we have shorter days.",
+  "quality_score": 5,
+  "id": "646580e0-382e-4b04-a51d-3e357032a708",
+  "source_name": "claude_generator"
+}

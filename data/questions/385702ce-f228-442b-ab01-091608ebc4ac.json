@@ -1,0 +1,17 @@
+{
+  "question_text": "A student investigates two circuits: Circuit A has two identical 6\u03a9 resistors in series with a 12V battery. Circuit B has two identical 6\u03a9 resistors in parallel with the same 12V battery. Calculate the current from the battery in each circuit and explain why parallel circuits are used in household wiring instead of series circuits.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series_vs_parallel",
+    "V=IR",
+    "household_wiring"
+  ],
+  "options": null,
+  "correct_answer": "Circuit A: Total resistance = 12\u03a9, Current = 1A. Circuit B: Total resistance = 3\u03a9, Current = 4A. Parallel circuits are used in homes because: (1) each device gets the full voltage (12V), so they work properly; (2) if one device breaks, others still work; (3) devices can be switched independently; (4) more devices can be added without reducing voltage to others.",
+  "explanation": "In series: resistances add (6+6=12\u03a9), so I=V\u00f7R = 12\u00f712 = 1A. In parallel: resistances combine as 1/R_total = 1/6 + 1/6, giving R_total = 3\u03a9, so I = 12\u00f73 = 4A. Parallel circuits deliver full voltage to each appliance and allow independent control, which is essential for safe household electrical systems.",
+  "quality_score": 5,
+  "id": "385702ce-f228-442b-ab01-091608ebc4ac",
+  "source_name": "claude_generator"
+}

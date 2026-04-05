@@ -1,0 +1,18 @@
+{
+  "question_text": "Compare the environmental impacts of using wind farms versus coal power stations for generating electricity. In your answer, discuss at least two advantages of wind and two disadvantages of coal.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "non-renewable",
+    "environmental impact",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Wind farms: produce no greenhouse gases during operation and are renewable (wind is continuous). Coal power stations: produce carbon dioxide and other pollutants contributing to climate change and air pollution; coal is non-renewable and will eventually run out. Additional valid points: wind is clean at point of use; coal mining damages landscapes; wind farms have visual impact but less overall environmental damage.",
+  "explanation": "This question requires you to evaluate and compare two energy sources across multiple criteria. Wind energy is renewable and produces zero emissions during operation, while coal generates significant pollution and greenhouse gases. Understanding these trade-offs is crucial for evaluating how we should meet our energy needs while protecting the environment.",
+  "quality_score": 5,
+  "id": "bf5b0521-0c0d-47f0-9dbc-fac3337c4254",
+  "source_name": "claude_generator"
+}

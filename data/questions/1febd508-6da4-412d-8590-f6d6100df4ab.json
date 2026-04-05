@@ -1,0 +1,17 @@
+{
+  "question_text": "A radio station transmits a signal with a frequency of 100 MHz (100 \u00d7 10\u2076 Hz). All electromagnetic waves travel at 3 \u00d7 10\u2078 m/s. Calculate the wavelength of this radio signal. Show your working and explain why radio waves with such long wavelengths are better for broadcasting over long distances than visible light.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "calculation",
+    "wavelength-frequency",
+    "applications"
+  ],
+  "options": null,
+  "correct_answer": "Wavelength = 3 metres. Radio waves have much longer wavelengths than visible light (which has wavelengths of 400-700 nm), and longer wavelengths can diffract around hills and buildings, allowing them to reach receivers over long distances.",
+  "explanation": "Using the equation speed = frequency \u00d7 wavelength: 3 \u00d7 10\u2078 = (100 \u00d7 10\u2076) \u00d7 wavelength, so wavelength = 3 m. Long-wavelength waves diffract (bend) around obstacles better than short-wavelength waves, which is why radio broadcasts can reach areas that don't have a direct line of sight to the transmitter.",
+  "quality_score": 5,
+  "id": "1febd508-6da4-412d-8590-f6d6100df4ab",
+  "source_name": "claude_generator"
+}

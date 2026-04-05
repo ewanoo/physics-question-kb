@@ -1,0 +1,17 @@
+{
+  "question_text": "A Sankey diagram for a petrol engine shows: 100 J input (chemical energy in petrol) \u2192 30 J kinetic energy (moving the car) and 70 J heat energy (wasted). A student claims that because 30 J + 70 J = 100 J, this proves energy is not being wasted. Evaluate this statement and explain whether the energy is truly wasted or transferred.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "Sankey diagrams",
+    "energy transfer vs waste"
+  ],
+  "options": null,
+  "correct_answer": "The student is correct that energy is conserved (30 J + 70 J = 100 J), but wrong about what 'wasted' means. The 70 J of heat is not destroyed\u2014it is transferred to the surroundings (air, engine block). It is called 'wasted' because it is not useful for moving the car; we cannot use it for the car's purpose. Energy cannot be destroyed, only transferred, but we call energy 'wasted' when it is transferred in a form we cannot use.",
+  "explanation": "This is a tricky question that tests understanding of the difference between energy conservation (energy is never destroyed) and energy waste (energy transferred in a form we cannot use). The Sankey diagram correctly shows energy conservation. The heat energy is not created or destroyed; it is transferred to the environment, making it 'wasted' in the sense that it doesn't help move the car, even though the total energy is conserved.",
+  "quality_score": 5,
+  "id": "4f6a98fb-c2af-4117-92eb-5b17f822d462",
+  "source_name": "claude_generator"
+}

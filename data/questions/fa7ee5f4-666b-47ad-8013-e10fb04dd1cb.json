@@ -1,0 +1,38 @@
+{
+  "question_text": "When light travels from air into a glass block, it bends towards the normal. Which of the following best explains why this happens?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "glass",
+    "light speed"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Glass is denser than air, so light travels more slowly through it and bends towards the normal.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Glass is cooler than air, which causes the light to bend towards the normal.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Light always bends away from the normal when entering any new material.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The colour of the glass causes the light to change direction randomly.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Refraction happens because light travels at different speeds through different materials. Glass is optically denser than air (light moves slower through it), which causes the light ray to slow down and change direction, bending towards the normal at the boundary.",
+  "quality_score": 5,
+  "id": "fa7ee5f4-666b-47ad-8013-e10fb04dd1cb",
+  "source_name": "claude_generator"
+}

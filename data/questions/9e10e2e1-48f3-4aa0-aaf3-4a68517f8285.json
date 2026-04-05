@@ -1,0 +1,17 @@
+{
+  "question_text": "A car travels 150 metres in 5 seconds at a constant speed. What is the car's speed?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "speed formula",
+    "distance-time",
+    "basic calculation"
+  ],
+  "options": null,
+  "correct_answer": "30 m/s",
+  "explanation": "Use the formula speed = distance \u00f7 time. Speed = 150 \u00f7 5 = 30 m/s. This is a straightforward application of the speed equation.",
+  "quality_score": 4,
+  "id": "9e10e2e1-48f3-4aa0-aaf3-4a68517f8285",
+  "source_name": "claude_generator"
+}

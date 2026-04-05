@@ -1,0 +1,18 @@
+{
+  "question_text": "A sound wave travels from air into water. The speed of sound in air is approximately 340 m/s, and the speed of sound in water is approximately 1500 m/s. A fishing boat uses sonar to detect a fish 600 metres away underwater. Calculate the time taken for the sound wave to travel to the fish and back to the boat. Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "speed of sound",
+    "echo",
+    "calculation",
+    "sonar"
+  ],
+  "options": null,
+  "correct_answer": "0.8 seconds (or 800 milliseconds). Working: The sound must travel 600 m to the fish and 600 m back, so total distance = 1200 m. Time = distance \u00f7 speed = 1200 \u00f7 1500 = 0.8 s.",
+  "explanation": "This is a multi-step problem involving echoes. You need to recognise that the sound travels twice the distance to the fish (down and back up), then use the formula speed = distance \u00f7 time rearranged as time = distance \u00f7 speed with the speed of sound in water (not air), since the sound travels through water to reach the fish.",
+  "quality_score": 5,
+  "id": "f26ec5a6-cc9c-4709-a312-37859edd8cae",
+  "source_name": "claude_generator"
+}

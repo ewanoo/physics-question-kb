@@ -1,0 +1,38 @@
+{
+  "question_text": "Which circuit diagram correctly shows two light bulbs connected in series with a battery and switch?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "circuit symbols",
+    "circuit diagrams"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Battery \u2192 Switch \u2192 Bulb 1 \u2192 Bulb 2 \u2192 back to Battery (single loop)",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Battery \u2192 Switch \u2192 Bulb 1, with Bulb 2 branching off in a separate loop",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Two separate circuits: one with Battery \u2192 Bulb 1, another with Battery \u2192 Bulb 2",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Battery with two bulbs connected directly across it with no switch",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "In a series circuit, all components are connected in a single loop, one after the other. The current flows through the switch, then bulb 1, then bulb 2, and back to the battery. This is the only way to have a proper series circuit.",
+  "quality_score": 5,
+  "id": "01127973-37b0-4f27-8dac-c8df3264a210",
+  "source_name": "claude_generator"
+}

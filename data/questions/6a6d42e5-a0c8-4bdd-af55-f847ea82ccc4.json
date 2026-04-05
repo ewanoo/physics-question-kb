@@ -1,0 +1,19 @@
+{
+  "question_text": "A student builds two circuits: Circuit A has two 3 V bulbs in series with a 6 V battery. Circuit B has two 3 V bulbs in parallel with a 6 V battery. Explain why the bulbs in Circuit A are dimmer than those in Circuit B, referring to both voltage and current in your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "parallel circuits",
+    "voltage",
+    "current",
+    "brightness"
+  ],
+  "options": null,
+  "correct_answer": "In Circuit A (series), the 6 V is shared between two bulbs, so each bulb only gets 3 V. In Circuit B (parallel), each bulb gets the full 6 V. Additionally, in series, the same current flows through both bulbs so they share the power. In parallel, each bulb receives more current from the battery. With higher voltage and higher current, the parallel bulbs are brighter.",
+  "explanation": "This question requires understanding that voltage divides in series but stays the same in parallel, and that brightness depends on both voltage and current. Circuit A bulbs are dimmer because they each receive only half the battery voltage, and the current has to be shared between them. Circuit B bulbs are brighter because each gets full voltage and full current.",
+  "quality_score": 5,
+  "id": "6a6d42e5-a0c8-4bdd-af55-f847ea82ccc4",
+  "source_name": "claude_generator"
+}

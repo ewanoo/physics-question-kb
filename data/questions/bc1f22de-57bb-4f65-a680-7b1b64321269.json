@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is the BEST way to reduce wasted energy in a home?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "reducing waste",
+    "thermal insulators",
+    "practical applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Leaving doors and windows open in winter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Adding loft insulation and cavity wall insulation to reduce heat loss",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Using older appliances instead of new ones",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Turning heating on full and opening windows to cool down",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Thermal insulators like loft and cavity wall insulation trap heat inside homes, preventing it from escaping through walls and roofs. This reduces the energy wasted to the surroundings and lowers heating bills. Options A, C, and D all waste energy rather than reduce it.",
+  "quality_score": 5,
+  "id": "bc1f22de-57bb-4f65-a680-7b1b64321269",
+  "source_name": "claude_generator"
+}

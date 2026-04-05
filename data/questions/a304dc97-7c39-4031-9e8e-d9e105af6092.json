@@ -1,0 +1,17 @@
+{
+  "question_text": "A kettle is 80% efficient. It uses 2000 J of electrical energy to heat water. Calculate how much energy is wasted as heat energy lost to the surroundings (not heating the water).",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "efficiency",
+    "useful and wasted energy"
+  ],
+  "options": null,
+  "correct_answer": "400 J",
+  "explanation": "If the kettle is 80% efficient, then 80% of the 2000 J goes into useful energy (heating water) and 20% is wasted. Wasted energy = 20% of 2000 J = 0.20 \u00d7 2000 = 400 J. This wasted energy escapes as heat through the kettle's sides and as steam.",
+  "quality_score": 5,
+  "id": "a304dc97-7c39-4031-9e8e-d9e105af6092",
+  "source_name": "claude_generator"
+}

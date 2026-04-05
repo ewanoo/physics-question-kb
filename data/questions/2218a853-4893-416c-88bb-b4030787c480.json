@@ -1,0 +1,37 @@
+{
+  "question_text": "Which of the following is the correct definition of a moment?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment_definition",
+    "turning_effect"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The turning effect of a force around a pivot, calculated as force divided by distance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The turning effect of a force around a pivot, calculated as force multiplied by perpendicular distance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object multiplied by its height above the ground",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which a lever rotates around its pivot point",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "A moment is the turning effect produced by a force acting around a pivot point. It is calculated by multiplying the force by the perpendicular distance from the pivot. The larger the distance or force, the greater the turning effect (moment).",
+  "quality_score": 4,
+  "id": "2218a853-4893-416c-88bb-b4030787c480",
+  "source_name": "claude_generator"
+}

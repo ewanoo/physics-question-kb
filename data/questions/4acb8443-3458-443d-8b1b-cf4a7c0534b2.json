@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best explains why atmospheric pressure exists?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric_pressure",
+    "particle_model",
+    "weight_of_air"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of all the air above us pushing down on the Earth's surface",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The temperature of the air near the ground creates pressure",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Air molecules are sticky and hold together very tightly",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Sun heats the air and makes it push down harder",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Atmospheric pressure is caused by the enormous weight of all the air in the atmosphere pressing down on us. The air particles collide with surfaces, creating pressure. This is why atmospheric pressure is lower at higher altitudes\u2014there's less air above you.",
+  "quality_score": 5,
+  "id": "4acb8443-3458-443d-8b1b-cf4a7c0534b2",
+  "source_name": "claude_generator"
+}

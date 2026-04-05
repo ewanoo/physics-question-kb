@@ -1,0 +1,18 @@
+{
+  "question_text": "A washing machine has an efficiency of 65%. If it uses 5000 J of electrical energy in one wash cycle, calculate (a) the useful energy output and (b) the energy wasted as heat and sound.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency formula",
+    "multi-step calculation",
+    "appliances",
+    "energy conservation"
+  ],
+  "options": null,
+  "correct_answer": "(a) 3250 J, (b) 1750 J",
+  "explanation": "For (a): useful energy = efficiency \u00d7 total input energy = 0.65 \u00d7 5000 J = 3250 J. For (b): wasted energy = total input energy \u2212 useful energy = 5000 \u2212 3250 = 1750 J. This shows that even 'efficient' appliances still waste significant energy, which is why choosing efficient models and maintaining them properly matters for reducing household energy use.",
+  "quality_score": 5,
+  "id": "d8211b4a-27bb-4705-b6ee-d6f9bbd726c1",
+  "source_name": "claude_generator"
+}

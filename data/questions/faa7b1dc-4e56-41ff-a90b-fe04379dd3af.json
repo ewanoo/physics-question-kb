@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements correctly describes the difference between speed and velocity?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed vs velocity",
+    "vector vs scalar",
+    "direction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Speed is how fast something moves; velocity is how fast it moves in a particular direction",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Velocity is always faster than speed",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Speed and velocity mean exactly the same thing",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Velocity only applies to objects moving in a straight line",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Speed is a scalar quantity (just the magnitude), while velocity is a vector (magnitude and direction). This is why a car going 30 m/s north has a different velocity than one going 30 m/s south, even though both have the same speed.",
+  "quality_score": 5,
+  "id": "faa7b1dc-4e56-41ff-a90b-fe04379dd3af",
+  "source_name": "claude_generator"
+}

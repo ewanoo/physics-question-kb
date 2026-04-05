@@ -1,0 +1,17 @@
+{
+  "question_text": "A student measures a regular rectangular block and finds it has a mass of 240 g and dimensions of 10 cm \u00d7 8 cm \u00d7 3 cm. Calculate the density of the block in g/cm\u00b3.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "regular objects",
+    "units"
+  ],
+  "options": null,
+  "correct_answer": "1.0 g/cm\u00b3 (or exactly 240/240 = 1)",
+  "explanation": "First, calculate the volume: 10 cm \u00d7 8 cm \u00d7 3 cm = 240 cm\u00b3. Then use the density formula: density = mass \u00f7 volume = 240 g \u00f7 240 cm\u00b3 = 1.0 g/cm\u00b3. This density is the same as water, which makes sense since this block would neither float nor sink in water.",
+  "quality_score": 5,
+  "id": "4c8cbf03-0dda-40fa-8759-32587556a5bd",
+  "source_name": "claude_generator"
+}

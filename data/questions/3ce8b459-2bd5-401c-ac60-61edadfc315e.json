@@ -1,0 +1,17 @@
+{
+  "question_text": "A crowbar is used to lever open a wooden crate. The force is applied 0.8 m from the pivot, and the crate lid (load) is 0.1 m from the pivot. Calculate the mechanical advantage of this lever.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "levers",
+    "mechanical_advantage",
+    "moment_principle"
+  ],
+  "options": null,
+  "correct_answer": "8 (or 8:1)",
+  "explanation": "The mechanical advantage of a lever is found by dividing the distance from the pivot to the effort (force applied) by the distance from the pivot to the load. Here: 0.8 m \u00f7 0.1 m = 8. This means the crowbar multiplies your effort by 8 times, making it much easier to lift the crate.",
+  "quality_score": 5,
+  "id": "3ce8b459-2bd5-401c-ac60-61edadfc315e",
+  "source_name": "claude_generator"
+}

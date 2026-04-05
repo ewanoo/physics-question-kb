@@ -1,0 +1,18 @@
+{
+  "question_text": "A rigid container of helium gas is heated from 20\u00b0C to 40\u00b0C. The volume stays the same. A student measures the pressure and finds it has increased from 100 kPa to 107.3 kPa. Evaluate whether this result is reasonable using the particle model. (Assume 20\u00b0C = 293 K and 40\u00b0C = 313 K)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "temperature_pressure_relationship",
+    "particle_collisions",
+    "absolute_temperature",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The result is reasonable. Expected pressure at 313 K should be: P\u2082 = 100 \u00d7 (313/293) = 106.8 kPa. The measured 107.3 kPa is very close to this theoretical value. The small difference (0.5 kPa) is likely due to measurement error.",
+  "explanation": "When temperature increases at constant volume, pressure increases proportionally (in Kelvin). We calculate what pressure should be using the ratio of temperatures: 313 K \u00f7 293 K = 1.068, so pressure increases by 6.8%, giving 106.8 kPa. The student's measurement of 107.3 kPa is almost exactly right, showing that heating makes particles move faster and collide more frequently with the container walls.",
+  "quality_score": 5,
+  "id": "2ce1fccc-01a5-4b41-8224-ca1314ef206e",
+  "source_name": "claude_generator"
+}

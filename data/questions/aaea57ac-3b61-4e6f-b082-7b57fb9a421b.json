@@ -1,0 +1,38 @@
+{
+  "question_text": "On 21 June (summer solstice) in the UK, the Sun reaches a maximum height in the sky of about 62\u00b0. On 21 December (winter solstice), the Sun only reaches about 15\u00b0 above the horizon. Which statement best explains why this difference occurs?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "Sun angle",
+    "solstice",
+    "axial tilt"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The UK is much closer to the Sun in June than in December",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Earth's tilted axis means the UK is angled more directly towards the Sun in June than in December",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun moves around the Earth and passes higher in the sky during summer months",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The atmosphere is thicker in winter, which prevents the Sun from reaching higher in the sky",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Due to Earth's 23.5\u00b0 axial tilt, different latitudes are angled towards or away from the Sun at different times of year. In June, the UK is tilted towards the Sun so it appears higher in the sky. In December, the UK is tilted away, so the Sun appears much lower. The Earth-Sun distance barely changes and doesn't affect the Sun's angle in the sky significantly.",
+  "quality_score": 5,
+  "id": "aaea57ac-3b61-4e6f-b082-7b57fb9a421b",
+  "source_name": "claude_generator"
+}

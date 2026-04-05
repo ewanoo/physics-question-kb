@@ -1,0 +1,17 @@
+{
+  "question_text": "A coal power station burns 500 kg of coal per hour to generate electricity. Coal contains approximately 30 MJ of energy per kilogram. Calculate the total energy released from burning this coal in one hour. Give your answer in MJ.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "non-renewable",
+    "coal",
+    "energy calculation"
+  ],
+  "options": null,
+  "correct_answer": "15,000 MJ (or 1.5 \u00d7 10\u2074 MJ)",
+  "explanation": "To find the total energy released, multiply the mass of coal by the energy content per kilogram: 500 kg \u00d7 30 MJ/kg = 15,000 MJ. This shows how much chemical energy is stored in coal and why it's such a widely used energy resource, though burning it releases carbon dioxide and contributes to climate change.",
+  "quality_score": 5,
+  "id": "59187b55-c921-4ac3-8aac-fb79a1234fa2",
+  "source_name": "claude_generator"
+}

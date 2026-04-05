@@ -1,0 +1,38 @@
+{
+  "question_text": "Sound is a longitudinal wave that requires a medium to travel through. Which of the following best explains why you cannot hear sound in the vacuum of space?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "longitudinal waves",
+    "medium",
+    "properties of sound"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "There are no sound waves produced in space",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Sound waves cannot travel through the empty space because there are no particles to compress and stretch",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Sound waves are too weak to reach Earth from space",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The human ear cannot detect sounds that have traveled very far",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Sound is a longitudinal wave where particles in a medium vibrate back and forth, creating compressions and rarefactions that travel outward. In a vacuum, there are no particles to vibrate, so sound cannot be transmitted. This is why astronauts in space need radios to communicate.",
+  "quality_score": 5,
+  "id": "6d7a0860-e9f2-4161-b35e-a870acef5872",
+  "source_name": "claude_generator"
+}

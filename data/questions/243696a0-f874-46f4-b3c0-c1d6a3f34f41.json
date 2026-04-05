@@ -1,0 +1,18 @@
+{
+  "question_text": "A bat emits ultrasound at a frequency of 40 kHz to locate insects. Explain why bats use ultrasound rather than sound within the human hearing range, and state whether humans can hear the bat's calls.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "ultrasound",
+    "frequency",
+    "hearing range",
+    "practical applications"
+  ],
+  "options": null,
+  "correct_answer": "Bats use ultrasound (40 kHz) because it has a shorter wavelength than audible sound, allowing them to detect small insects and navigate more precisely. Humans cannot hear these calls because the human hearing range is 20 Hz to 20 kHz, and 40 kHz is beyond the upper limit of human hearing.",
+  "explanation": "Ultrasound has a much higher frequency than normal sound, which means it can detect smaller objects and is useful for echolocation. Since 40 kHz is above the 20 kHz upper limit of human hearing, we cannot detect bat calls, even though the bats themselves can hear and use them effectively.",
+  "quality_score": 5,
+  "id": "243696a0-f874-46f4-b3c0-c1d6a3f34f41",
+  "source_name": "claude_generator"
+}

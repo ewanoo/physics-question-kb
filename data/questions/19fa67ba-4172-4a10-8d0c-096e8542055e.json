@@ -1,0 +1,18 @@
+{
+  "question_text": "A spring is compressed and then released to launch a 0.5 kg ball horizontally across a table. The ball leaves the table edge and falls 1.2 metres before hitting the ground. The spring had stored 15 J of elastic potential energy. Explain which energy stores are involved in this process and calculate the gravitational potential energy lost as the ball falls (use g = 10 m/s\u00b2). Does the total energy remain constant? Why or why not?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy conversion",
+    "multi-step",
+    "evaluation",
+    "GPE formula"
+  ],
+  "options": null,
+  "correct_answer": "The elastic potential energy (15 J) converts to kinetic energy when the spring releases. As the ball falls, gravitational potential energy is lost: GPE = mgh = 0.5 \u00d7 10 \u00d7 1.2 = 6 J. Total energy is not perfectly constant because some of the initial elastic potential energy is lost to air resistance and friction on the table, so not all 15 J becomes kinetic energy.",
+  "explanation": "This question requires tracking energy through multiple stages: elastic \u2192 kinetic \u2192 gravitational conversion. The GPE calculation gives 6 J, showing that only part of the spring's energy goes into falling motion. In real situations, energy is lost to heat and air resistance, so mechanical energy isn't perfectly conserved\u2014this is why friction and air resistance matter in Year 8 physics.",
+  "quality_score": 5,
+  "id": "19fa67ba-4172-4a10-8d0c-096e8542055e",
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A student observes that when they look at a plane mirror, they see a clear image of themselves behind the mirror. Explain why this image is virtual, and describe what would happen to this image if the student moved 1 metre closer to the mirror.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "virtual images",
+    "plane mirrors",
+    "image properties"
+  ],
+  "options": null,
+  "correct_answer": "The image is virtual because the light rays appear to come from behind the mirror, but no actual light rays actually meet there\u2014they only appear to meet when extended backwards. When the student moves 1 metre closer to the mirror, the virtual image also moves 1 metre closer (appearing 1 metre closer to the mirror surface), because the image distance always equals the object distance in a plane mirror.",
+  "explanation": "Virtual images cannot be projected onto a screen because the light rays don't actually converge at that point. In plane mirrors, the image is always the same distance behind the mirror as the object is in front of it, so moving closer makes both the object and image move closer by the same amount.",
+  "quality_score": 5,
+  "id": "d4c6f447-4b3a-431c-b548-933c4f7a3436",
+  "source_name": "claude_generator"
+}

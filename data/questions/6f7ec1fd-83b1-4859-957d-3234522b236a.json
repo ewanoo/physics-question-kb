@@ -1,0 +1,38 @@
+{
+  "question_text": "A student rubs a polythene rod with a cloth. The rod becomes negatively charged. Which statement best explains what happens during this process?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "charging by friction",
+    "negative charge",
+    "electrons"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Protons move from the cloth to the rod.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electrons move from the cloth to the rod.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Neutrons are removed from the rod.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The cloth loses all its charge.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When two materials are rubbed together, electrons can be transferred from one to the other. If the polythene rod becomes negatively charged, it must have gained electrons (extra negative particles). The cloth loses these electrons, so it becomes positively charged.",
+  "quality_score": 5,
+  "id": "6f7ec1fd-83b1-4859-957d-3234522b236a",
+  "source_name": "claude_generator"
+}

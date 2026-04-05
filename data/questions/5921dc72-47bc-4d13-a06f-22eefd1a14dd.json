@@ -1,0 +1,38 @@
+{
+  "question_text": "A light bulb transfers 100 J of electrical energy into 15 J of light energy and 85 J of heat energy. Which statement best explains what happens to the energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "energy transfer",
+    "useful and wasted energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "85 J of energy is destroyed because it is wasted as heat",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All 100 J of energy is transferred but only 15 J is useful; the other 85 J becomes heat",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The light bulb creates 15 J of light energy from nothing",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy is lost because 100 J does not equal 15 J plus 85 J",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Energy cannot be created or destroyed\u2014it can only be transferred from one form to another. The light bulb transfers all 100 J of electrical energy into light and heat. The light is useful, but the heat is wasted energy because we don't want it. Both forms of energy still exist; they're just in different forms.",
+  "quality_score": 5,
+  "id": "5921dc72-47bc-4d13-a06f-22eefd1a14dd",
+  "source_name": "claude_generator"
+}

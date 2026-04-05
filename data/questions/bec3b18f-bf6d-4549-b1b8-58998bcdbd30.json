@@ -1,0 +1,18 @@
+{
+  "question_text": "A paint sprayer uses static electricity to coat objects evenly. The paint droplets are given a negative charge and the object being painted is given a positive charge. Explain why this method works better than spraying uncharged paint droplets.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "attraction",
+    "repulsion",
+    "uses of static",
+    "electric field"
+  ],
+  "options": null,
+  "correct_answer": "The negatively charged paint droplets are attracted to the positively charged object. They spread evenly across the surface and follow the shape of the object because opposite charges attract. This ensures better coverage than random spraying.",
+  "explanation": "Static paint spraying uses the principle of attraction between opposite charges. The charged droplets are pulled toward the object, creating an even coating. They also repel each other slightly, preventing clumping. This is much more efficient than uncontrolled spraying.",
+  "quality_score": 5,
+  "id": "bec3b18f-bf6d-4549-b1b8-58998bcdbd30",
+  "source_name": "claude_generator"
+}

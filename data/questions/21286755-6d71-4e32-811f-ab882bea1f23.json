@@ -1,0 +1,17 @@
+{
+  "question_text": "In a series circuit with three identical light bulbs and a 12V battery, the voltage across each bulb is 4V. If the current through the circuit is 0.5A, calculate the total resistance of the circuit using the equation V=IR.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "V=IR",
+    "series_circuits",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "24\u03a9 (ohms)",
+  "explanation": "Using V=IR, we rearrange to find R=V\u00f7I. The total voltage across the series circuit is 12V and the current is 0.5A, so R = 12 \u00f7 0.5 = 24\u03a9. Each bulb has a resistance of 8\u03a9 (24\u00f73), which you can verify: 8\u03a9 \u00d7 0.5A = 4V per bulb.",
+  "quality_score": 5,
+  "id": "21286755-6d71-4e32-811f-ab882bea1f23",
+  "source_name": "claude_generator"
+}

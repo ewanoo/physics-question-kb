@@ -1,0 +1,17 @@
+{
+  "question_text": "A student places a plane mirror on a table and shines a light ray at an angle of 35\u00b0 to the normal. According to the law of reflection, at what angle to the normal will the reflected ray leave the mirror?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "law of reflection",
+    "plane mirrors",
+    "angles"
+  ],
+  "options": null,
+  "correct_answer": "35\u00b0",
+  "explanation": "The law of reflection states that the angle of incidence equals the angle of reflection, both measured from the normal (an imaginary line perpendicular to the mirror surface). Since the light hits at 35\u00b0 to the normal, it bounces off at 35\u00b0 to the normal as well.",
+  "quality_score": 4,
+  "id": "2feef948-d901-4e8d-a4c7-68596bc6b193",
+  "source_name": "claude_generator"
+}

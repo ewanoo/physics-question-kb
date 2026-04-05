@@ -1,0 +1,18 @@
+{
+  "question_text": "A student wants to measure the density of an irregular stone. Describe how they could do this using a measuring cylinder, water, a stone, and a balance. Then explain why they must use a measuring cylinder rather than trying to measure the stone's dimensions directly.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "irregular objects",
+    "density measurement",
+    "method",
+    "water displacement"
+  ],
+  "options": null,
+  "correct_answer": "Method: (1) Measure the mass of the stone using the balance. (2) Fill the measuring cylinder with a known volume of water (e.g., 50 cm\u00b3). (3) Carefully place the stone in the cylinder and read the new water level. (4) Calculate the volume of the stone as the difference between the final and initial water levels. (5) Use density = mass \u00f7 volume. Why: An irregular stone cannot have its dimensions measured with a ruler because it doesn't have straight edges or a regular shape. Water displacement is the only practical way to find its true volume.",
+  "explanation": "This is the displacement method for measuring irregular objects. Since the stone has an uneven shape, we can't use length \u00d7 width \u00d7 height. Instead, water takes the shape of any object placed in it, so by measuring how much water the stone displaces (pushes out of the way), we find its volume accurately. Then we divide the measured mass by this volume to get density.",
+  "quality_score": 5,
+  "id": "d3ae7ea8-099b-4cff-b6d4-1c58173107ce",
+  "source_name": "claude_generator"
+}

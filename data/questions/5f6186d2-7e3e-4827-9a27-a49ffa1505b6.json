@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following correctly lists four planets in order from closest to furthest from the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planetary order",
+    "solar system structure",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury, Venus, Earth, Mars",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Mercury, Earth, Venus, Mars",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Venus, Mercury, Mars, Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mercury, Mars, Venus, Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The eight planets in order from the Sun are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Remember this with the phrase 'My Very Educated Mother Just Served Us Noodles'. The first four inner planets are rocky and relatively close together.",
+  "quality_score": 4,
+  "id": "5f6186d2-7e3e-4827-9a27-a49ffa1505b6",
+  "source_name": "claude_generator"
+}

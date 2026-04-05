@@ -1,0 +1,17 @@
+{
+  "question_text": "A light bulb receives 100 J of electrical energy. It produces 15 J of useful light energy and the rest is wasted as heat. What is the efficiency of this light bulb?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency formula",
+    "light bulbs",
+    "energy calculation"
+  ],
+  "options": null,
+  "correct_answer": "15%",
+  "explanation": "Using the formula: efficiency = (useful output energy \u00f7 total input energy) \u00d7 100%. So efficiency = (15 \u00f7 100) \u00d7 100% = 15%. This shows that old incandescent bulbs waste a lot of energy as heat, which is why LEDs are more efficient.",
+  "quality_score": 5,
+  "id": "53fcdbd5-630d-40fe-b616-a719df6c9c45",
+  "source_name": "claude_generator"
+}

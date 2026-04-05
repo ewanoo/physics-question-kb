@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is dropped from a height of 5 metres. Which energy store is being converted to kinetic energy as the ball falls?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "energy conversion",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Elastic potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thermal energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When an object is high up, it has gravitational potential energy because of its position in a gravitational field. As it falls, this stored energy is converted into kinetic energy (energy of movement). The higher the object starts, the more gravitational potential energy it has to convert.",
+  "quality_score": 5,
+  "id": "99190860-80ca-45cd-a820-8af0f3d8ac7f",
+  "source_name": "claude_generator"
+}
