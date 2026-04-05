@@ -1,0 +1,24 @@
+{
+  "question_text": "A student sets up a circuit with a 6 V battery, a 2 \u03a9 resistor, and an ammeter. Using the equation V = IR, calculate the current flowing through the resistor.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "V=IR",
+    "current_calculation",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "3 A",
+  "explanation": "Rearranging V = IR to find current: I = V \u00f7 R = 6 \u00f7 2 = 3 A. This shows the inverse relationship between resistance and current\u2014lower resistance allows more current to flow at the same voltage.",
+  "quality_score": 4,
+  "id": "f889214a-639c-4794-8b4e-a0e8ff652ab2",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "scraped_at": "2026-04-05T18:16:31.226437",
+  "classified_at": "2026-04-05T18:16:31.226437",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

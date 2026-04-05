@@ -1,0 +1,45 @@
+{
+  "question_text": "A drum is struck and produces a loud sound. Which of the following describes what is happening when the sound is produced?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "vibrations",
+    "longitudinal waves",
+    "sound production"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The drum skin moves up and down, creating a transverse wave that travels through the air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The drum skin vibrates, causing air particles to compress and spread out, creating a longitudinal wave",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The drum skin remains still but produces vibrations in the metal rim of the drum",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The drum skin vibrates, causing water vapour in the air to oscillate sideways",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Sound is produced when a vibrating object causes air particles to oscillate back and forth along the direction of wave travel, creating a longitudinal wave made of compressions and rarefactions. Option B correctly describes this process.",
+  "quality_score": 4,
+  "id": "1c346e8d-52a9-4505-abb3-1a4cba663cbd",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/medium",
+  "scraped_at": "2026-04-05T18:18:00.725751",
+  "classified_at": "2026-04-05T18:18:00.725751",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

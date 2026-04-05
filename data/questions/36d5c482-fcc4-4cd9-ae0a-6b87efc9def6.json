@@ -1,0 +1,24 @@
+{
+  "question_text": "What is an electromagnet?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "definition",
+    "electromagnet",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "A magnet created by electric current flowing through a coil of wire (or a solenoid with current)",
+  "explanation": "An electromagnet is a temporary magnet made by wrapping wire around an iron core and passing an electric current through it. Unlike permanent magnets, electromagnets can be switched on and off by controlling the current.",
+  "quality_score": 4,
+  "id": "36d5c482-fcc4-4cd9-ae0a-6b87efc9def6",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.electromagnets/easy",
+  "scraped_at": "2026-04-05T18:17:11.350841",
+  "classified_at": "2026-04-05T18:17:11.350841",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

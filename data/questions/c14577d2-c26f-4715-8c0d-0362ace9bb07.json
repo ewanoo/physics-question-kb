@@ -1,0 +1,44 @@
+{
+  "question_text": "Which of the following is the correct definition of density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "definition",
+    "density"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The amount of space an object takes up",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The mass of a substance per unit volume",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object divided by its height",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How heavy an object feels when you hold it",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Density measures how much mass (or how much 'stuff') is packed into a certain volume. It tells us how tightly packed the particles are in a material.",
+  "quality_score": 4,
+  "id": "c14577d2-c26f-4715-8c0d-0362ace9bb07",
+  "source_name": "claude_generator",
+  "source_url": "claude://matter.density/easy",
+  "scraped_at": "2026-04-05T18:17:46.854961",
+  "classified_at": "2026-04-05T18:17:46.854961",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which piece of electrical equipment uses an electromagnet to ring a bell when a switch is pressed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "uses in technology",
+    "electric bell",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A relay switch",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An electric bell",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A circuit breaker",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A transformer",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "An electric bell uses an electromagnet that attracts a metal arm, which strikes a bell and breaks the circuit. When the circuit breaks, the electromagnet switches off, the arm springs back, and the cycle repeats to create a ringing sound.",
+  "quality_score": 4,
+  "id": "f782a72c-d483-4f29-b0b7-79bc0f8a39af",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.electromagnets/easy",
+  "scraped_at": "2026-04-05T18:17:11.351167",
+  "classified_at": "2026-04-05T18:17:11.351167",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

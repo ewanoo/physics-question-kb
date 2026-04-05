@@ -1,0 +1,23 @@
+{
+  "question_text": "An electric bell uses an electromagnet, a hammer, and a bell. Describe what happens to the electromagnet when the switch is closed.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electric bell",
+    "electromagnet function"
+  ],
+  "options": null,
+  "correct_answer": "The electromagnet becomes magnetised and attracts the hammer",
+  "explanation": "When the switch closes, current flows through the electromagnet's coil, creating a magnetic field that magnetises the iron core. This magnetic field then attracts the iron hammer towards the bell, causing it to strike and produce a sound.",
+  "quality_score": 4,
+  "id": "681c69df-a088-4f75-8fcd-34f870536204",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "scraped_at": "2026-04-05T18:16:40.939983",
+  "classified_at": "2026-04-05T18:16:40.939983",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Which of the following would increase the strength of an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "factors affecting strength",
+    "electromagnet",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Decreasing the number of coils in the solenoid",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increasing the electric current flowing through the wire",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Removing the iron core from the coil",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Using thinner wire in the solenoid",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The strength of an electromagnet increases when the electric current increases. More current means a stronger magnetic field. Other factors that increase strength include adding more coils and keeping an iron core in place.",
+  "quality_score": 4,
+  "id": "ffeb2863-0781-4ce8-9961-18d43085c6d6",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.electromagnets/easy",
+  "scraped_at": "2026-04-05T18:17:11.351036",
+  "classified_at": "2026-04-05T18:17:11.351036",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_text": "A student drops a ball from a height of 5 m. Just before it hits the ground, the ball has kinetic energy of 40 J. The student claims that gravitational potential energy has been completely converted to kinetic energy. Evaluate this claim.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy transfer",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect because some energy has been transferred to thermal energy due to air resistance.",
+  "explanation": "If all gravitational potential energy converted to kinetic energy, the kinetic energy would equal mgh. Since the kinetic energy is less than expected, some energy must have been lost to thermal energy through air resistance and friction.",
+  "quality_score": 4,
+  "id": "ba3f9137-14c2-4dd3-b2de-f3c7f13b1a81",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/hard",
+  "scraped_at": "2026-04-05T18:16:51.463517",
+  "classified_at": "2026-04-05T18:16:51.463517",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

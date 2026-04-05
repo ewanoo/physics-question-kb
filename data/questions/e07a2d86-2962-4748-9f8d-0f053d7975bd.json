@@ -1,0 +1,24 @@
+{
+  "question_text": "A free-body diagram shows four forces acting on a stationary box: a downward arrow labelled 50 N (weight), an upward arrow labelled 50 N (normal force), a rightward arrow labelled 20 N (push), and a leftward arrow labelled 20 N (friction). What is the resultant force on the box?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "resultant_force",
+    "free_body_diagram",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "0 N (or zero)",
+  "explanation": "The resultant force is found by adding all forces together, considering their directions. Vertical forces: 50 N down \u2212 50 N up = 0 N. Horizontal forces: 20 N right \u2212 20 N left = 0 N. Total resultant = 0 N, which means the box is in equilibrium and will not accelerate.",
+  "quality_score": 4,
+  "id": "e07a2d86-2962-4748-9f8d-0f053d7975bd",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.types/medium",
+  "scraped_at": "2026-04-05T18:17:42.775814",
+  "classified_at": "2026-04-05T18:17:42.775814",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

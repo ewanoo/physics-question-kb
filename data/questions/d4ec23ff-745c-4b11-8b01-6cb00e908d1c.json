@@ -1,0 +1,44 @@
+{
+  "question_text": "A student stretches a rubber band and then releases it. Which energy store increases as the rubber band is stretched?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "energy stores"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Elastic potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thermal energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When you stretch a rubber band, you do work on it and energy is stored in the elastic material. This is elastic potential energy. When released, this energy transfers to kinetic energy as the rubber band moves.",
+  "quality_score": 4,
+  "id": "d4ec23ff-745c-4b11-8b01-6cb00e908d1c",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/medium",
+  "scraped_at": "2026-04-05T18:17:20.981339",
+  "classified_at": "2026-04-05T18:17:20.981339",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "Two identical bulbs are connected in a parallel circuit to a single battery. How does the brightness of each bulb compare to when a single bulb is connected to the same battery?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "voltage",
+    "brightness"
+  ],
+  "options": null,
+  "correct_answer": "Each bulb is equally bright (or slightly less bright)",
+  "explanation": "In a parallel circuit, each branch receives the full voltage from the battery. Both bulbs get the same voltage as a single bulb would, so they shine with similar brightness. They may be very slightly dimmer because the battery has to supply current to both bulbs at once.",
+  "quality_score": 4,
+  "id": "e7528e3d-40a5-48f6-bb48-8c6c31e9dfb3",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.circuits/medium",
+  "scraped_at": "2026-04-05T18:16:21.645101",
+  "classified_at": "2026-04-05T18:16:21.645101",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

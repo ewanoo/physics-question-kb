@@ -1,0 +1,44 @@
+{
+  "question_text": "A book is resting on a table. Which type of force is preventing the book from falling through the table?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact_forces",
+    "normal_force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Normal force (contact force)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air resistance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The normal force is a contact force that acts perpendicular to a surface, pushing upwards to support the book. It prevents the book from falling through the table because the table pushes back against the book.",
+  "quality_score": 4,
+  "id": "9c04d150-2a24-455a-aae6-e3c0fc0f20a6",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.types/easy",
+  "scraped_at": "2026-04-05T18:16:57.815134",
+  "classified_at": "2026-04-05T18:16:57.815134",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

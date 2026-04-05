@@ -1,0 +1,24 @@
+{
+  "question_text": "A loudspeaker produces a sound wave with a frequency of 440 Hz. A second loudspeaker produces a sound wave with a frequency of 880 Hz. How does the pitch of the second loudspeaker compare to the first?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "pitch",
+    "frequency",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "twice as high (or double the pitch)",
+  "explanation": "Pitch is directly determined by frequency. Since 880 Hz is twice 440 Hz, the second sound has twice the frequency and therefore twice the pitch. Higher frequency always means higher pitch.",
+  "quality_score": 4,
+  "id": "6943b390-89c9-405c-96ee-6e5818506ede",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/medium",
+  "scraped_at": "2026-04-05T18:18:00.725476",
+  "classified_at": "2026-04-05T18:18:00.725476",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

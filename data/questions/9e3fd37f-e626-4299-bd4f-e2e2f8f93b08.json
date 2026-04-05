@@ -1,0 +1,25 @@
+{
+  "question_text": "A child lifts a book of mass 2 kg from the ground to a shelf 1.5 m high. The child then slides the book across the shelf (frictionlessly) for 3 m. Compare the gravitational potential energy change to the kinetic energy change during the entire process.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "multi-step problem",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "The gravitational potential energy increases by 30 J during lifting; moving horizontally produces no change in gravitational potential energy and no net kinetic energy change.",
+  "explanation": "Lifting the book increases its gravitational potential energy by mgh = 2 \u00d7 10 \u00d7 1.5 = 30 J. Sliding it horizontally on a frictionless surface doesn't change height or speed, so neither gravitational potential energy nor kinetic energy changes during the horizontal movement.",
+  "quality_score": 4,
+  "id": "9e3fd37f-e626-4299-bd4f-e2e2f8f93b08",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/hard",
+  "scraped_at": "2026-04-05T18:16:51.463983",
+  "classified_at": "2026-04-05T18:16:51.463983",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

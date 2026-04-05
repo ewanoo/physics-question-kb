@@ -1,0 +1,44 @@
+{
+  "question_text": "A hot cup of tea cools down on a table. Which energy store is decreasing as the tea cools?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "thermal energy",
+    "energy transfers"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Thermal energy",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Elastic potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "A hot object has a large thermal energy store due to the movement of particles within it. As the tea cools, the particles move less vigorously and thermal energy decreases, transferring to the surroundings.",
+  "quality_score": 4,
+  "id": "e66f7d70-e1b3-4fbf-aa7d-6dacd3e31d69",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/medium",
+  "scraped_at": "2026-04-05T18:17:20.981648",
+  "classified_at": "2026-04-05T18:17:20.981648",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

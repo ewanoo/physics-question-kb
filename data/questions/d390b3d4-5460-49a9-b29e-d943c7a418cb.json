@@ -1,0 +1,24 @@
+{
+  "question_text": "On 21 June (summer solstice), the UK has approximately 16 hours of daylight. On 21 December (winter solstice), the UK has approximately 8 hours of daylight. Calculate the difference in daylight hours between summer and winter solstice in the UK, and explain why this difference occurs in terms of Earth's axial tilt.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "day_length",
+    "axial_tilt",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "8 hours difference (16 - 8 = 8); this occurs because the 23.5\u00b0 axial tilt means the Northern Hemisphere is tilted towards the Sun on the summer solstice, so the UK experiences a longer path of the Sun across the sky and more hours of daylight, whereas on the winter solstice the tilt is away from the Sun.",
+  "explanation": "This calculation question requires students to subtract day lengths and then apply multi-step reasoning to explain the cause using axial tilt. The greater the tilt angle towards the Sun, the longer the daylight hours and the higher the solar angle, producing warmer temperatures and more concentrated energy.",
+  "quality_score": 4,
+  "id": "d390b3d4-5460-49a9-b29e-d943c7a418cb",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/hard",
+  "scraped_at": "2026-04-05T18:17:55.339259",
+  "classified_at": "2026-04-05T18:17:55.339259",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

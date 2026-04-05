@@ -1,0 +1,45 @@
+{
+  "question_text": "Two identical resistors are connected to a 12 V power supply. In circuit A, they are connected in series. In circuit B, they are connected in parallel. Which statement correctly compares the total current drawn from the power supply in both circuits?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series_parallel",
+    "current",
+    "voltage_divider"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Circuit A draws more current because resistors in series have lower total resistance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Circuit B draws more current because parallel resistors have lower total resistance than series",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both circuits draw the same current because the voltage is the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Circuit A draws more current because series circuits use voltage more efficiently",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In series, total resistance increases (R_total = R\u2081 + R\u2082), so current is low. In parallel, total resistance decreases (1/R_total = 1/R\u2081 + 1/R\u2082), so more current flows from the supply. This is why parallel circuits are more demanding on power sources.",
+  "quality_score": 4,
+  "id": "d35d3e24-bbc2-4f34-8df2-e0924aed3747",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "scraped_at": "2026-04-05T18:16:31.226189",
+  "classified_at": "2026-04-05T18:16:31.226189",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

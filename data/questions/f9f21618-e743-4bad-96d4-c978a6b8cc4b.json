@@ -1,0 +1,44 @@
+{
+  "question_text": "A scuba diver descends deeper underwater. Which statement correctly describes what happens to the water pressure acting on the diver?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "fluid_pressure",
+    "pressure_in_fluids"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure decreases because the diver moves away from the surface",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure increases because there is more water above pushing down",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pressure stays the same at all depths in the ocean",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure increases only when the diver moves horizontally",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Water pressure increases with depth because the weight of all the water above pushes down on the diver. The deeper you go, the more water is above you, so the pressure is greater. This is why deep-sea divers need special equipment.",
+  "quality_score": 4,
+  "id": "f9f21618-e743-4bad-96d4-c978a6b8cc4b",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.pressure/medium",
+  "scraped_at": "2026-04-05T18:17:37.597942",
+  "classified_at": "2026-04-05T18:17:37.597942",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

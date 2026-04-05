@@ -1,0 +1,24 @@
+{
+  "question_text": "Explain why wearing trainers with good grip on the soles is useful when playing football on a wet grass pitch.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "grip",
+    "useful friction",
+    "practical application"
+  ],
+  "options": null,
+  "correct_answer": "Trainers with good grip increase friction between the shoe and grass, preventing slipping and allowing players to change direction quickly",
+  "explanation": "Good grip (high friction) between the trainer sole and wet grass prevents the foot from sliding. This is useful friction because it helps the player have better control and reduces the risk of accidents.",
+  "quality_score": 4,
+  "id": "20545a38-a73d-46ec-bdc2-83c9bb7c88c0",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/medium",
+  "scraped_at": "2026-04-05T18:17:26.585202",
+  "classified_at": "2026-04-05T18:17:26.585202",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

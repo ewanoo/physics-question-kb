@@ -1,0 +1,23 @@
+{
+  "question_text": "A ball is thrown upwards into the air. As it rises, what happens to its gravitational potential energy store?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "energy transfers"
+  ],
+  "options": null,
+  "correct_answer": "It increases",
+  "explanation": "As the ball moves higher above the ground, it gains gravitational potential energy. This energy depends on the height of the object\u2014the higher it goes, the more gravitational potential energy it has stored.",
+  "quality_score": 4,
+  "id": "d95d6046-4a21-4e69-a3d2-a3c318b26786",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/medium",
+  "scraped_at": "2026-04-05T18:17:20.981566",
+  "classified_at": "2026-04-05T18:17:20.981566",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,23 @@
+{
+  "question_text": "In a series circuit, what happens to the current as it flows through each component?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "current flow"
+  ],
+  "options": null,
+  "correct_answer": "It stays the same (or remains constant)",
+  "explanation": "In a series circuit, there is only one path for current to follow, so the same amount of current flows through every component. The current does not split or change as it passes through bulbs, resistors, or other parts.",
+  "quality_score": 4,
+  "id": "e594fa15-815e-4ef9-b23b-7d4bc00c01b2",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.circuits/easy",
+  "scraped_at": "2026-04-05T18:17:02.156228",
+  "classified_at": "2026-04-05T18:17:02.156228",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

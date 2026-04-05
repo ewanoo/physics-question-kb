@@ -1,0 +1,45 @@
+{
+  "question_text": "Which statement correctly compares current and voltage in a parallel circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "parallel circuit",
+    "current rules",
+    "voltage rules"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The voltage is different across each branch, but the current is the same throughout",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The voltage is the same across each branch, but the total current splits between the branches",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both voltage and current are the same across each branch",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total voltage splits between branches, and the total current is the same in each branch",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In a parallel circuit, all branches experience the same voltage (they're all connected to the same battery), but the current from the battery splits and divides among the different branches. This is a key distinction from series circuits.",
+  "quality_score": 4,
+  "id": "1ab4aeda-d503-4ca4-9219-5d7f6337c491",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/medium",
+  "scraped_at": "2026-04-05T18:17:06.736559",
+  "classified_at": "2026-04-05T18:17:06.736559",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

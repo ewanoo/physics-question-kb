@@ -1,0 +1,45 @@
+{
+  "question_text": "A book is resting on a table. Which pair of forces shows a contact force and a non-contact force acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "contact_forces",
+    "non_contact_forces",
+    "classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The push from your hand and the pull of gravity",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The push from the table and air resistance",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The pull of gravity and the pull of a magnet",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The push from the table and the push from your hand",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "A contact force requires objects to be touching (like a push from your hand), while a non-contact force acts at a distance (like gravity). Option A correctly identifies the push from your hand as contact and gravity as non-contact.",
+  "quality_score": 4,
+  "id": "132d8e86-afd0-4783-9697-9d220e4d25a5",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.types/medium",
+  "scraped_at": "2026-04-05T18:17:42.775521",
+  "classified_at": "2026-04-05T18:17:42.775521",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

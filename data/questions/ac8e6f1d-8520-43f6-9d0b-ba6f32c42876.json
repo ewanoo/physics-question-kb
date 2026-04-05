@@ -1,0 +1,44 @@
+{
+  "question_text": "Which of these is the best example of an electromagnet being used in modern technology?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "uses in technology",
+    "applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A permanent magnet holding a photo on a refrigerator",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A relay in a car starter motor that switches high current on and off",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A compass needle pointing north",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Iron filings arranged around a bar magnet",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "A relay is an electromagnet-based device that uses a small current to switch a larger current on or off. It's essential in car starter motors and many other technologies. The other options involve permanent magnets or are just demonstrations, not practical applications of electromagnets.",
+  "quality_score": 4,
+  "id": "ac8e6f1d-8520-43f6-9d0b-ba6f32c42876",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "scraped_at": "2026-04-05T18:16:40.940167",
+  "classified_at": "2026-04-05T18:16:40.940167",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

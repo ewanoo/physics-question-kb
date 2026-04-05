@@ -1,0 +1,24 @@
+{
+  "question_text": "A scientist claims that if you double the resistance in a circuit while keeping the voltage constant, the current will also double. Evaluate this claim using the relationship V = IR.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "V=IR",
+    "inverse_relationship",
+    "claim_evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect; doubling resistance halves the current because current is inversely proportional to resistance.",
+  "explanation": "From V = IR, rearranging gives I = V \u00f7 R. If R doubles while V stays constant, the current is divided by 2, not multiplied by 2. Current and resistance have an inverse relationship, not a direct one\u2014this is why high-resistance circuits draw very little current.",
+  "quality_score": 4,
+  "id": "24295c91-4602-49b6-96cc-38e73d6357ad",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "scraped_at": "2026-04-05T18:16:31.226965",
+  "classified_at": "2026-04-05T18:16:31.226965",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

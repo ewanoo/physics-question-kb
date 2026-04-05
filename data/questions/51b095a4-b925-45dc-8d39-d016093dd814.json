@@ -1,0 +1,46 @@
+{
+  "question_text": "Two identical balls are dropped from the same height. Ball A lands on soft sand and comes to rest. Ball B lands on hard concrete and bounces back up. Which statement best explains the energy stores and transfers in this scenario?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "thermal energy",
+    "elastic potential energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ball A transfers all gravitational potential energy to thermal energy, while Ball B's energy is lost completely.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ball A converts gravitational potential energy mostly to thermal energy in the sand, while Ball B converts some to elastic potential energy in the concrete before bouncing.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ball B retains more kinetic energy because concrete is harder, so no energy is lost to thermal energy.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both balls lose the same amount of energy to thermal energy because they fall from the same height.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Ball A's gravitational potential energy is mostly converted to thermal energy as it deforms the soft sand and stops. Ball B's energy is temporarily stored as elastic potential energy in the compressed concrete, which then releases this energy to push the ball back up, allowing it to bounce.",
+  "quality_score": 4,
+  "id": "51b095a4-b925-45dc-8d39-d016093dd814",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/hard",
+  "scraped_at": "2026-04-05T18:16:51.464050",
+  "classified_at": "2026-04-05T18:16:51.464050",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "In a parallel circuit with a battery and three identical bulbs, one bulb is removed from its socket. What happens to the current flowing through the other two bulbs?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "current",
+    "independent branches"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The current through each remaining bulb increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current through each remaining bulb decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The current through each remaining bulb stays the same",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "All the current flows to just one of the remaining bulbs",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "In a parallel circuit, each branch is independent and receives the full voltage from the battery. Removing one bulb does not affect the voltage or current through the other branches, so the remaining bulbs continue to receive the same current.",
+  "quality_score": 4,
+  "id": "00443339-e833-40bf-801e-3ad470b6b108",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.circuits/medium",
+  "scraped_at": "2026-04-05T18:16:21.645301",
+  "classified_at": "2026-04-05T18:16:21.645301",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

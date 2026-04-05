@@ -1,0 +1,25 @@
+{
+  "question_text": "Sound travels at approximately 330 m/s in air. A student shouts at a cliff face that is 165 metres away. How long after shouting will the student hear the echo?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "speed of sound",
+    "echo",
+    "distance",
+    "time calculation"
+  ],
+  "options": null,
+  "correct_answer": "1 second",
+  "explanation": "The sound must travel to the cliff and back, so the total distance is 2 \u00d7 165 = 330 metres. Using speed = distance \u00f7 time, we get time = 330 \u00f7 330 = 1 second.",
+  "quality_score": 4,
+  "id": "be3153ef-ca2b-489d-9d6d-3e7c7b9d21e6",
+  "source_name": "claude_generator",
+  "source_url": "claude://waves.sound/medium",
+  "scraped_at": "2026-04-05T18:18:00.725674",
+  "classified_at": "2026-04-05T18:18:00.725674",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

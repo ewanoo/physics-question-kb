@@ -1,0 +1,24 @@
+{
+  "question_text": "A hydraulic system uses two pistons of different sizes. The small piston has an area of 2 m\u00b2 and the large piston has an area of 8 m\u00b2. If a force of 100 N is applied to the small piston, what is the force produced on the large piston? (Assume the pressure is equal throughout the fluid.)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulics",
+    "pressure_transmission",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "400 N",
+  "explanation": "In a hydraulic system, pressure is the same throughout the fluid. First, calculate the pressure on the small piston: P = F/A = 100/2 = 50 Pa. Then use P = F/A to find the force on the large piston: 50 = F/8, so F = 400 N. The larger piston produces a larger force because it has a bigger area.",
+  "quality_score": 4,
+  "id": "e1b36b1b-d5aa-4992-b651-3ac56ef25b54",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.pressure/medium",
+  "scraped_at": "2026-04-05T18:17:37.597706",
+  "classified_at": "2026-04-05T18:17:37.597706",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

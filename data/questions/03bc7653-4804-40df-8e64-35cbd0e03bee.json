@@ -1,0 +1,44 @@
+{
+  "question_text": "A student builds an electromagnet using a coil of wire wrapped around an iron core connected to a battery. Which change would make the electromagnet stronger?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "factors affecting strength",
+    "electromagnet design"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Decreasing the number of turns in the coil",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Increasing the current flowing through the wire",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Using a plastic core instead of an iron core",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Disconnecting the battery so there is no current",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The strength of an electromagnet depends on the current flowing through it and the number of turns in the coil. Increasing the current makes the magnetic field stronger. Using a plastic core or reducing turns would weaken it, and disconnecting the battery would stop the electromagnet working entirely.",
+  "quality_score": 4,
+  "id": "03bc7653-4804-40df-8e64-35cbd0e03bee",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "scraped_at": "2026-04-05T18:16:40.939709",
+  "classified_at": "2026-04-05T18:16:40.939709",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

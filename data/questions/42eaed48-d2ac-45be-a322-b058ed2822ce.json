@@ -1,0 +1,45 @@
+{
+  "question_text": "A student slides a wooden block across a rough table and then across a smooth polished table. Which statement correctly compares the friction forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "surface roughness",
+    "friction comparison",
+    "material properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction is the same on both surfaces because the block is the same",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction is greater on the rough table because the surfaces have more contact points",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Friction is greater on the polished table because it is harder",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Friction depends only on how fast the block is moving",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Friction increases with surface roughness because rough surfaces have more irregularities that interlock and create more contact points between the block and table. A polished surface is smoother, so friction is reduced.",
+  "quality_score": 4,
+  "id": "42eaed48-d2ac-45be-a322-b058ed2822ce",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/medium",
+  "scraped_at": "2026-04-05T18:17:26.584975",
+  "classified_at": "2026-04-05T18:17:26.584975",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,45 @@
+{
+  "question_text": "Two identical plastic spheres are both given the same type of static charge by rubbing them with wool. What will happen when they are brought close together?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "repulsion",
+    "like charges",
+    "attraction/repulsion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They will attract each other strongly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They will repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They will have no effect on each other",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They will neutralise each other immediately",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Like charges repel each other. Since both spheres received the same type of charge (both gained or both lost electrons), they have the same charge and will push away from each other.",
+  "quality_score": 4,
+  "id": "00701393-b4ac-460d-b999-7496912da8a9",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.static/medium",
+  "scraped_at": "2026-04-05T18:17:16.843640",
+  "classified_at": "2026-04-05T18:17:16.843640",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

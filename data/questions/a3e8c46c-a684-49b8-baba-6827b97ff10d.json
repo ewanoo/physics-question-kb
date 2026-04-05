@@ -1,0 +1,44 @@
+{
+  "question_text": "Which of the following is the correct symbol for a resistor in a circuit diagram?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit diagrams",
+    "components"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A circle with a cross inside",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A zigzag line or rectangle with a line through it",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Two parallel lines close together",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A circle with an X inside",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The standard symbol for a resistor in UK circuit diagrams is a zigzag line (or sometimes a rectangle with a diagonal line). This symbol shows that the component resists or limits the flow of current in the circuit.",
+  "quality_score": 4,
+  "id": "a3e8c46c-a684-49b8-baba-6827b97ff10d",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.circuits/easy",
+  "scraped_at": "2026-04-05T18:17:02.156424",
+  "classified_at": "2026-04-05T18:17:02.156424",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_text": "A 4 kg box is being pushed across a table. The friction force is 20 N. What would be the friction force if the box were replaced with an identical box placed on top of it (total mass 8 kg), assuming the same table and pushing speed?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction calculation",
+    "weight effect",
+    "proportional relationship"
+  ],
+  "options": null,
+  "correct_answer": "40 N",
+  "explanation": "Friction increases when the weight (normal force) increases. Doubling the mass from 4 kg to 8 kg doubles the weight pressing down on the table, so the friction force also doubles from 20 N to 40 N.",
+  "quality_score": 4,
+  "id": "a6edb085-50e7-43d1-9dcb-39851d3152eb",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.friction/medium",
+  "scraped_at": "2026-04-05T18:17:26.585516",
+  "classified_at": "2026-04-05T18:17:26.585516",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

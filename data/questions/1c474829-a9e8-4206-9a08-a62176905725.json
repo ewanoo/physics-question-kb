@@ -1,0 +1,24 @@
+{
+  "question_text": "A series circuit contains a battery with a voltage of 12 V and two identical resistors. What is the voltage across each resistor?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "voltage",
+    "voltage division"
+  ],
+  "options": null,
+  "correct_answer": "6 V",
+  "explanation": "In a series circuit, the total voltage from the battery is divided equally among identical components. Since there are two identical resistors and 12 V total, each resistor has 12 V \u00f7 2 = 6 V across it.",
+  "quality_score": 4,
+  "id": "1c474829-a9e8-4206-9a08-a62176905725",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.circuits/medium",
+  "scraped_at": "2026-04-05T18:16:21.645382",
+  "classified_at": "2026-04-05T18:16:21.645382",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

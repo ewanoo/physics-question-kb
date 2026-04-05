@@ -1,0 +1,24 @@
+{
+  "question_text": "In a parallel circuit with two identical bulbs, how does the brightness of each bulb compare to a series circuit with the same two bulbs and battery?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "series circuits",
+    "voltage"
+  ],
+  "options": null,
+  "correct_answer": "The bulbs are brighter in parallel (or much brighter/significantly brighter)",
+  "explanation": "In a parallel circuit, each bulb receives the full voltage from the battery, whereas in a series circuit the voltage is shared between the two bulbs. Higher voltage across each bulb means more current flows through it, making it brighter.",
+  "quality_score": 4,
+  "id": "47c0a566-0832-4aed-b94c-02dfc4de3b46",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.circuits/easy",
+  "scraped_at": "2026-04-05T18:17:02.156531",
+  "classified_at": "2026-04-05T18:17:02.156531",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

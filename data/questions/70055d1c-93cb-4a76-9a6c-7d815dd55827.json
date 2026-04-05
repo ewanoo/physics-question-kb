@@ -1,0 +1,24 @@
+{
+  "question_text": "Earth's axial tilt is 23.5\u00b0 from the vertical. A student claims that the UK experiences summer when it is closest to the Sun in its orbit. Evaluate this claim using evidence about Earth's tilt and the actual distance from the Sun.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "axial_tilt",
+    "orbital_distance",
+    "evaluate_claim"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect because the UK is actually furthest from the Sun during Northern Hemisphere summer; seasons are caused by axial tilt directing more concentrated solar rays and longer days to the tilted hemisphere, not by orbital distance.",
+  "explanation": "This tests whether students understand that axial tilt, not orbital distance, causes seasons. The UK has summer when the Northern Hemisphere is tilted towards the Sun (more direct rays and longer days), even though Earth is at aphelion (furthest point) in early July. This is extended reasoning requiring students to use two pieces of evidence.",
+  "quality_score": 4,
+  "id": "70055d1c-93cb-4a76-9a6c-7d815dd55827",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/hard",
+  "scraped_at": "2026-04-05T18:17:55.338923",
+  "classified_at": "2026-04-05T18:17:55.338923",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

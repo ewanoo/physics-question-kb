@@ -238,12 +238,25 @@
 - Total questions: 2,278 (up from 2,197)
 - All 99 difficulty/subtopic slots now have ≥21 questions each
 
-## Statistics (Session 21 — CURRENT)
-- **Total questions (JSON files)**: 2,334
+### Session 22 (agent — 2026-04-05)
+- Rebuilt DB from 2,370 committed question JSON files (all 99 slots at ≥21 each)
+- Identified 5 slots at 21 questions and 12 slots at 22 questions
+- Generated **61 new questions** targeting all 17 weak slots:
+  - 21-count slots (×5 each): electricity.circuits/medium, electricity.current_voltage/hard,
+    electricity.electromagnets/medium, energy.stores/hard, forces.types/easy
+  - 22-count slots (×3 each): electricity.circuits/easy, electricity.current_voltage/medium,
+    electricity.electromagnets/easy, electricity.static/medium, energy.stores/medium,
+    forces.friction/medium, forces.gravity/medium, forces.pressure/medium, forces.types/medium,
+    matter.density/easy, space.seasons/hard, waves.sound/medium
+- Total questions: 2,431 (up from 2,370)
+- All 99 difficulty/subtopic slots now have ≥23 questions each (min raised from 21)
+
+## Statistics (Session 22 — CURRENT)
+- **Total questions (JSON files)**: 2,431
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~760, medium ~760, hard ~758 (all >= 50)
-- **Min questions per difficulty+subtopic slot**: 21+
+- **By difficulty**: easy ~810, medium ~810, hard ~810 (all >= 50)
+- **Min questions per difficulty+subtopic slot**: 23+
 - **Mean quality score**: ~4.70
 
 ## Scraper Status

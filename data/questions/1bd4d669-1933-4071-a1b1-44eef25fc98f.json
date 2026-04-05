@@ -1,0 +1,45 @@
+{
+  "question_text": "During winter solstice in the UK, the Sun is at its lowest angle in the sky. Which of the following best explains why the Sun's energy is spread over a larger area of ground surface in winter compared to summer?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "solar_angle",
+    "energy_concentration",
+    "low_angle"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun is further away from Earth in winter, so its rays spread out more",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The low angle of the Sun means its rays hit the ground at a shallow angle, spreading energy over a larger surface area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Earth's atmosphere is thicker in winter, scattering the Sun's rays over a wider area",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The rotation speed of Earth is slower in winter, allowing rays to spread further",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When the Sun is at a low angle (winter), parallel rays of sunlight hit the ground at an oblique angle, causing the same amount of energy to be distributed over a larger surface area compared to when the Sun is high in the sky (summer). This is why winter receives less concentrated energy per unit area.",
+  "quality_score": 4,
+  "id": "1bd4d669-1933-4071-a1b1-44eef25fc98f",
+  "source_name": "claude_generator",
+  "source_url": "claude://space.seasons/hard",
+  "scraped_at": "2026-04-05T18:17:55.339145",
+  "classified_at": "2026-04-05T18:17:55.339145",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

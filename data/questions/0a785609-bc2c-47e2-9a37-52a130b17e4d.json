@@ -1,0 +1,45 @@
+{
+  "question_text": "A kettle and a toaster are both plugged into a 230 V mains circuit in parallel. The kettle has a resistance of 23 \u03a9 and the toaster has a resistance of 46 \u03a9. Which appliance draws more current, and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "parallel_current",
+    "V=IR",
+    "resistance_current_relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The toaster draws more current because it has higher resistance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The kettle draws more current because it has lower resistance and both have the same voltage across them",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both draw the same current because they are plugged into mains voltage",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The toaster draws more current because parallel circuits share current equally",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Using I = V \u00f7 R: kettle current = 230 \u00f7 23 = 10 A; toaster current = 230 \u00f7 46 = 5 A. In parallel circuits, both devices experience the same voltage (230 V), but the lower resistance appliance draws more current. This is why kettles use more electricity than toasters.",
+  "quality_score": 4,
+  "id": "0a785609-bc2c-47e2-9a37-52a130b17e4d",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "scraped_at": "2026-04-05T18:16:31.226608",
+  "classified_at": "2026-04-05T18:16:31.226608",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

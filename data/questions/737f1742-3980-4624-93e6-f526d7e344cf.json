@@ -1,0 +1,44 @@
+{
+  "question_text": "Which of the following pairs of forces are both contact forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact_forces",
+    "identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity and magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction and air resistance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Friction and gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Magnetic force and electrostatic force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Both friction and air resistance are contact forces because they occur when objects make contact with surfaces or fluids. Gravity and magnetic forces are non-contact forces, so any pairing that includes them is incorrect.",
+  "quality_score": 4,
+  "id": "737f1742-3980-4624-93e6-f526d7e344cf",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.types/easy",
+  "scraped_at": "2026-04-05T18:16:57.815313",
+  "classified_at": "2026-04-05T18:16:57.815313",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

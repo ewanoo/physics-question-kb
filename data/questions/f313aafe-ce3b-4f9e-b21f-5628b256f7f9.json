@@ -1,0 +1,24 @@
+{
+  "question_text": "In a series circuit with three resistors, the voltage across the first resistor is 2 V, across the second is 3 V, and the power supply is 9 V. What is the voltage across the third resistor?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "series_voltage",
+    "voltage_divider",
+    "Kirchhoff_voltage_law"
+  ],
+  "options": null,
+  "correct_answer": "4 V",
+  "explanation": "In series circuits, voltages add up to equal the total supply voltage: 2 V + 3 V + V\u2083 = 9 V, so V\u2083 = 4 V. This is Kirchhoff's voltage law\u2014the sum of potential differences around a series circuit always equals the battery voltage.",
+  "quality_score": 4,
+  "id": "f313aafe-ce3b-4f9e-b21f-5628b256f7f9",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.current_voltage/hard",
+  "scraped_at": "2026-04-05T18:16:31.226532",
+  "classified_at": "2026-04-05T18:16:31.226532",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

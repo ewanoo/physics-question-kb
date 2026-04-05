@@ -1,0 +1,24 @@
+{
+  "question_text": "A spring is compressed by 10 cm and stores 5 J of elastic potential energy. If the spring is then compressed by 20 cm, approximately how much elastic potential energy will it store?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "proportional relationships",
+    "problem-solving"
+  ],
+  "options": null,
+  "correct_answer": "20 J",
+  "explanation": "Elastic potential energy is proportional to the square of the compression distance (E \u221d x\u00b2). If compression doubles from 10 cm to 20 cm, energy increases by a factor of 2\u00b2 = 4. Therefore, 5 J \u00d7 4 = 20 J.",
+  "quality_score": 4,
+  "id": "8e36c7df-5291-462c-b53a-2a6c2ef68d11",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/hard",
+  "scraped_at": "2026-04-05T18:16:51.463724",
+  "classified_at": "2026-04-05T18:16:51.463724",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

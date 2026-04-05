@@ -1,0 +1,24 @@
+{
+  "question_text": "A student draws a circuit diagram showing a battery, a switch, a resistor, and a bulb all connected in series. What is the purpose of including the resistor in this circuit?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit diagrams",
+    "resistor",
+    "current control"
+  ],
+  "options": null,
+  "correct_answer": "To reduce (or limit) the current flowing through the circuit",
+  "explanation": "A resistor opposes the flow of electric current. By adding a resistor to the circuit, the current is reduced, which protects components like the bulb from receiving too much current and potentially burning out.",
+  "quality_score": 4,
+  "id": "8bac2e4d-c573-4ddd-8284-de4ca4633cf8",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.circuits/medium",
+  "scraped_at": "2026-04-05T18:16:21.645231",
+  "classified_at": "2026-04-05T18:16:21.645231",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

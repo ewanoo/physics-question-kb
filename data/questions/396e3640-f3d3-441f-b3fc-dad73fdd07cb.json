@@ -1,0 +1,24 @@
+{
+  "question_text": "Name one non-contact force that acts on a moving football in the air.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact_forces",
+    "examples",
+    "gravity"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational force (or gravity)",
+  "explanation": "Gravity is a non-contact force that acts on all objects with mass and pulls them towards the Earth. Even while the football is in the air, gravity acts on it without needing to touch it.",
+  "quality_score": 4,
+  "id": "396e3640-f3d3-441f-b3fc-dad73fdd07cb",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.types/easy",
+  "scraped_at": "2026-04-05T18:16:57.815223",
+  "classified_at": "2026-04-05T18:16:57.815223",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

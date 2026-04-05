@@ -1,0 +1,23 @@
+{
+  "question_text": "A flat-bottomed boat has a weight of 5000 N and its hull (the bottom) is in contact with water over an area of 50 m\u00b2. What pressure does the boat exert on the water?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure_calculation",
+    "force_and_area"
+  ],
+  "options": null,
+  "correct_answer": "100 Pa",
+  "explanation": "Pressure is calculated using the formula P = F/A, where F is the force (weight of the boat) and A is the area of contact. P = 5000 N \u00f7 50 m\u00b2 = 100 Pa. This relatively low pressure is why boats can float without sinking \u2013 the pressure is spread over a large area.",
+  "quality_score": 4,
+  "id": "5659b964-d420-4c12-a5af-dacb4e375046",
+  "source_name": "claude_generator",
+  "source_url": "claude://forces.pressure/medium",
+  "scraped_at": "2026-04-05T18:17:37.598079",
+  "classified_at": "2026-04-05T18:17:37.598079",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

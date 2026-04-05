@@ -1,0 +1,45 @@
+{
+  "question_text": "In a series circuit, a battery is connected to two bulbs. If one bulb breaks and the circuit is broken, what happens to the other bulb?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "current flow",
+    "circuit breaks"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It continues to light at full brightness",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It stops lighting because the circuit is broken",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It lights more brightly because there is less resistance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It flashes on and off randomly",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In a series circuit, all components are connected in one loop. When one bulb breaks, it breaks the complete path for current to flow, so the whole circuit stops working and the other bulb goes out.",
+  "quality_score": 4,
+  "id": "6709c676-49ad-4f16-981c-fb663da324f3",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.circuits/medium",
+  "scraped_at": "2026-04-05T18:16:21.644840",
+  "classified_at": "2026-04-05T18:16:21.644840",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

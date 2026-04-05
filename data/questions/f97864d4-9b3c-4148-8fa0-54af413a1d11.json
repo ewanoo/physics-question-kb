@@ -1,0 +1,46 @@
+{
+  "question_text": "A runner with a mass of 60 kg accelerates from rest to a speed of 8 m/s. Which statement correctly compares the energy changes in this scenario?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "chemical energy",
+    "energy transfer",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy from muscles increases and all of it becomes kinetic energy.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Chemical energy from muscles is transferred to kinetic energy and thermal energy in the muscles.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy is stored in the runner's legs and cannot be transferred elsewhere.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thermal energy decreases as kinetic energy increases, so total energy stays constant.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When muscles contract, chemical energy is released. Some becomes kinetic energy (useful energy for movement), but much is also transferred to thermal energy, which is why athletes get hot when exercising.",
+  "quality_score": 4,
+  "id": "f97864d4-9b3c-4148-8fa0-54af413a1d11",
+  "source_name": "claude_generator",
+  "source_url": "claude://energy.stores/hard",
+  "scraped_at": "2026-04-05T18:16:51.463802",
+  "classified_at": "2026-04-05T18:16:51.463802",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

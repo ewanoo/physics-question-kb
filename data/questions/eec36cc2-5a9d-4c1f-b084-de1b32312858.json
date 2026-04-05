@@ -1,0 +1,24 @@
+{
+  "question_text": "A solenoid is wrapped around a soft iron core. How many times would the strength of the magnetic field increase if the number of coils is doubled and the current is also doubled?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "solenoid",
+    "magnetic field strength",
+    "factors affecting strength"
+  ],
+  "options": null,
+  "correct_answer": "4 times stronger",
+  "explanation": "The strength of an electromagnet is proportional to both the number of turns and the current. If you double the turns (\u00d72) and double the current (\u00d72), the total increase is 2 \u00d7 2 = 4 times stronger.",
+  "quality_score": 4,
+  "id": "eec36cc2-5a9d-4c1f-b084-de1b32312858",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "scraped_at": "2026-04-05T18:16:40.940074",
+  "classified_at": "2026-04-05T18:16:40.940074",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}

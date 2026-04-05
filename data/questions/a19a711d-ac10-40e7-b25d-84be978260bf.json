@@ -1,0 +1,44 @@
+{
+  "question_text": "A student tests three electromagnets with different core materials. Electromagnet A has an iron core, Electromagnet B has a steel core, and Electromagnet C has an aluminium core. All have the same number of turns and the same current. Which electromagnet produces the strongest magnetic field?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "factors affecting strength",
+    "core material"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electromagnet A with an iron core",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Electromagnet B with a steel core",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Electromagnet C with an aluminium core",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All three produce equally strong fields",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Iron is the best material for an electromagnet core because it becomes strongly magnetised and loses its magnetism quickly when the current is switched off. Steel is harder to magnetise and demagnetise, and aluminium is not ferromagnetic, so it produces a much weaker field.",
+  "quality_score": 4,
+  "id": "a19a711d-ac10-40e7-b25d-84be978260bf",
+  "source_name": "claude_generator",
+  "source_url": "claude://electricity.electromagnets/medium",
+  "scraped_at": "2026-04-05T18:16:40.940493",
+  "classified_at": "2026-04-05T18:16:40.940493",
+  "classification_confidence": 0.95,
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "raw_html": null
+}
