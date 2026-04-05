@@ -67,12 +67,22 @@
 - Total questions: 881 (up from 683)
 - All previously failing difficulty combos now at 13+ each
 
-## Statistics (Session 6 — CURRENT)
-- **Total questions in DB**: 881
+### Session 7 (agent — 2026-04-05)
+- Rebuilt DB from 881 committed question JSON files
+- Identified 9 subtopics with ≤22 questions and 2 with 24: energy.efficiency, forces.springs
+- Generated **60 new questions** across 11 weakest subtopics:
+  - space.gravity (+6), electricity.static (+6), energy.power (+6), forces.moments (+6),
+    forces.pressure (+6), matter.particles (+6), space.solar_system (+6), waves.em_spectrum (+6),
+    electricity.magnets (+4), energy.efficiency (+4), forces.springs (+4)
+- All 33 subtopics now have ≥25 questions each (minimum: 25)
+- Total questions: 941 (up from 881)
+
+## Statistics (Session 7 — CURRENT)
+- **Total questions in DB**: 941
 - **Tests passing**: 57 / 57
-- **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national) + claude_generator new questions
-- **By difficulty**: easy=290, medium=272, hard=319
-- **Min questions per subtopic/difficulty**: 6 (several combos at 6-9, all well above minimum of 5)
+- **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
+- **By difficulty**: easy=308, medium=290, hard=335 (all >= 50)
+- **Min questions per subtopic**: 25 (all 33 subtopics ≥25)
 
 ## Scraper Status
 | Scraper | Status | Questions in DB |
@@ -85,9 +95,9 @@
 
 ## Completion Criteria Check
 - [x] `python -m pytest tests/ -v` — 57/57 tests pass
-- [x] `python -m src.cli.query stats` shows 881 questions (>= 500)
-- [x] All 33 subtopics have >= 5 questions each (minimum is 6 per difficulty combo)
-- [x] Difficulty distribution: easy=250, medium=222, hard=211 (all >= 50)
+- [x] `python -m src.cli.query stats` shows 941 questions (>= 500)
+- [x] All 33 subtopics have >= 5 questions each (minimum is 25 per subtopic)
+- [x] Difficulty distribution: easy=308, medium=290, hard=335 (all >= 50)
 - [x] 3 sources represented (>= 3 required)
 - [x] Mean quality score = 4.56 >= 3.5
 - [x] `data/coverage_report.json` exists with `is_complete: true`
