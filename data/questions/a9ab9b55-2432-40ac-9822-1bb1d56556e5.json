@@ -1,0 +1,38 @@
+{
+  "id": "a9ab9b55-2432-40ac-9822-1bb1d56556e5",
+  "question_text": "A book is resting on the top shelf of a tall bookcase. Which energy store does the book have?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "height",
+    "energy stores"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thermal energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Objects at height have gravitational potential energy because gravity could pull them down, and they would do work as they fall. The higher the shelf, the more gravitational potential energy the book stores. Kinetic energy is for moving objects, chemical energy is in fuels and batteries, and thermal energy is heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

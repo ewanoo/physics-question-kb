@@ -1,0 +1,39 @@
+{
+  "id": "be5d827d-8188-46e2-b6b4-5e07d4a34325",
+  "question_text": "Which scenario best demonstrates the relationship between particle arrangement and the properties of a state of matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "particle arrangement",
+    "state properties",
+    "solids liquids gases"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice is hard because its particles are tightly packed in fixed positions with strong forces between them",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Water is a liquid because it contains more particles than ice",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Steam is a gas because its particles are smaller than water particles",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All three states have particles arranged randomly in the same way",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The hardness and rigidity of ice comes directly from how its particles are arranged\u2014they're locked in fixed positions with strong attractive forces holding them in place. This arrangement is what gives solids their characteristic properties of fixed shape and volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

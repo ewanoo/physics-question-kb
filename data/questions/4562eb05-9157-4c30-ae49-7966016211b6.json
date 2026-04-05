@@ -1,0 +1,18 @@
+{
+  "id": "4562eb05-9157-4c30-ae49-7966016211b6",
+  "question_text": "What is meant by the term 'thermal energy store'?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "thermal energy",
+    "heat",
+    "energy stores",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Thermal energy store is the energy that an object has because of its temperature or heat content.",
+  "explanation": "Objects that are hot have thermal energy stored in them. The hotter an object is, the more thermal energy it stores. This energy can transfer to cooler objects around it, or it can be converted into other forms of energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

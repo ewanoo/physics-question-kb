@@ -1,0 +1,39 @@
+{
+  "id": "f0fb6b3d-279e-4ca2-8fb5-9c017016dd99",
+  "question_text": "Which of the following best explains why incandescent light bulbs have much lower efficiency than LED bulbs?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "light bulbs",
+    "energy conversion",
+    "heat loss"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "LED bulbs use less electrical current than incandescent bulbs",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Incandescent bulbs convert most of their electrical energy into heat rather than visible light",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "LED bulbs are made from materials that absorb electricity more efficiently",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Incandescent bulbs have a higher voltage requirement than LED bulbs",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Incandescent bulbs work by heating a filament until it glows, so about 90% of the energy becomes heat and only about 10% becomes visible light. LEDs convert electricity directly into light through a different process, wasting much less energy as heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

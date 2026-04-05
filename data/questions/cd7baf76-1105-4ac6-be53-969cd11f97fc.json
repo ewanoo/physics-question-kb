@@ -1,0 +1,38 @@
+{
+  "id": "cd7baf76-1105-4ac6-be53-969cd11f97fc",
+  "question_text": "Which statement best describes a situation with balanced forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "definition",
+    "equilibrium",
+    "net force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The object is always stationary and never moves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The net force is zero and the object either stays at rest or moves at constant velocity",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "All the forces acting on an object must be equal in size",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object will always accelerate in the direction of the largest force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Balanced forces result in zero net force. This means the object won't accelerate, but it can either be stationary or moving at a constant speed. The forces don't have to be equal in size overall\u2014just the forces in opposite directions.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

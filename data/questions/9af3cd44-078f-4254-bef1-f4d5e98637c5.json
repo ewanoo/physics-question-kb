@@ -1,0 +1,18 @@
+{
+  "id": "9af3cd44-078f-4254-bef1-f4d5e98637c5",
+  "question_text": "A factory decides to replace old machinery (60% efficient) with new machinery (88% efficient). If both machines perform the same amount of useful work (4400 kJ per day), how much more fuel energy must the old machine consume compared to the new machine?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy conservation",
+    "workplace application",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Old machine requires 7333 kJ, new machine requires 5000 kJ. Difference: 2333 kJ more fuel needed for old machine.",
+  "explanation": "For old machine: useful work = 60% \u00d7 input, so 4400 = 0.60 \u00d7 input, therefore input = 4400 \u00f7 0.60 = 7333 kJ. For new machine: 4400 = 0.88 \u00d7 input, so input = 4400 \u00f7 0.88 = 5000 kJ. Difference = 7333 - 5000 = 2333 kJ. This shows why upgrading to efficient machinery saves fuel and money.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

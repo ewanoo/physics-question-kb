@@ -1,0 +1,38 @@
+{
+  "id": "a2595e06-9b12-4a0f-908c-a44144bd12f4",
+  "question_text": "Which of the following best describes the difference between a series circuit and a parallel circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series_circuits",
+    "parallel_circuits",
+    "circuit_types"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "In series, current flows in one path; in parallel, current has multiple paths to take",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Series circuits use batteries and parallel circuits use generators",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Parallel circuits have higher voltage than series circuits",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Series circuits are brighter than parallel circuits",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The key difference is the path of current. In a series circuit, there is only one loop for electricity to follow. In a parallel circuit, the current can split and take multiple different paths through different branches, each containing components.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

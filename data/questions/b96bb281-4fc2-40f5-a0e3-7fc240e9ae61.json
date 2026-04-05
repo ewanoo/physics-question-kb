@@ -1,0 +1,18 @@
+{
+  "id": "b96bb281-4fc2-40f5-a0e3-7fc240e9ae61",
+  "question_text": "A spring is compressed by 0.2 m and stores 80 J of elastic potential energy. A second identical spring is compressed by 0.4 m. How much elastic potential energy does the second spring store? Explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "proportional relationships",
+    "non-linear energy storage",
+    "quadratic relationships"
+  ],
+  "options": null,
+  "correct_answer": "320 J",
+  "explanation": "Elastic potential energy follows the formula E_e = \u00bdkx\u00b2, where the energy depends on the square of the compression distance. When compression doubles from 0.2 m to 0.4 m, the energy increases by a factor of 4 (since 2\u00b2 = 4), so 80 J \u00d7 4 = 320 J. This shows that elastic potential energy is not proportional to compression distance.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

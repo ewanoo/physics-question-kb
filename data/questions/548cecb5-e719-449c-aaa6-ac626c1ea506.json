@@ -1,0 +1,19 @@
+{
+  "id": "548cecb5-e719-449c-aaa6-ac626c1ea506",
+  "question_text": "A piece of aluminum has a density of 2.7 g/cm\u00b3 and a volume of 100 cm\u00b3. Calculate the mass of the aluminum.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "calculation",
+    "mass",
+    "volume",
+    "rearranging formula"
+  ],
+  "options": null,
+  "correct_answer": "270 g",
+  "explanation": "We need to rearrange the density formula. Since density = mass \u00f7 volume, then mass = density \u00d7 volume. So 2.7 g/cm\u00b3 \u00d7 100 cm\u00b3 = 270 g. This shows that denser materials are heavier for the same volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

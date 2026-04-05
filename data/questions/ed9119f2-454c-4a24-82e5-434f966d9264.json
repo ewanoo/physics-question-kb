@@ -1,0 +1,19 @@
+{
+  "id": "ed9119f2-454c-4a24-82e5-434f966d9264",
+  "question_text": "A student argues that a ball thrown upward stores more total energy at the peak of its flight than at the moment of release. Evaluate this claim using energy conservation principles.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy conservation",
+    "gravitational potential energy",
+    "kinetic energy",
+    "evaluation",
+    "critical thinking"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect. At release, the ball has maximum kinetic energy and zero gravitational potential energy (if we set ground as reference). At the peak, the ball has maximum gravitational potential energy and zero kinetic energy. The total mechanical energy remains constant (ignoring air resistance) because kinetic energy is converted to gravitational potential energy. Therefore, total energy is the same at both points.",
+  "explanation": "This question tests understanding of energy conservation. The student might think more energy exists at the peak because the ball is higher, but they're not considering that the ball has lost all its kinetic energy. The total mechanical energy (kinetic + potential) stays constant throughout the flight, with energy only changing form, not amount.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

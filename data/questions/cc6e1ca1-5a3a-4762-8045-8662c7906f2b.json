@@ -1,0 +1,18 @@
+{
+  "id": "cc6e1ca1-5a3a-4762-8045-8662c7906f2b",
+  "question_text": "A student adds 30g of salt to 100mL of water at 20\u00b0C and stirs until it dissolves completely. The solution now occupies 102mL. Use the particle model to explain why the volume increase is only 2mL and not 3mL (the sum of individual volumes).",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "solutions",
+    "volume",
+    "particle arrangement"
+  ],
+  "options": null,
+  "correct_answer": "The salt ions fit into the spaces between the water molecules because the water particles are not tightly packed together (they have space between them in liquid form). The salt particles take up some of these existing gaps rather than simply adding their full volume to the solution, so the total volume increase is less than 3mL.",
+  "explanation": "In liquids, particles aren't densely packed\u2014there are spaces between them. When salt dissolves, its particles partially occupy these existing spaces rather than just sitting on top of the water. This is why the volume only increases by 2mL instead of 3mL; some of the salt particles fit into the gaps that already existed in the water.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

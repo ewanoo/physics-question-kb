@@ -1,0 +1,38 @@
+{
+  "id": "44dd722e-908a-408d-9f8f-a14c1253c1da",
+  "question_text": "Which of the following is an example of chemical energy storage?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "energy stores",
+    "everyday examples"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A battery in a torch",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A stretched spring",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A book on a shelf",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Hot water in a kettle",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A battery stores chemical energy in its chemicals. When connected to a circuit, this chemical energy is released and converted into electrical energy. The other options show different types of energy stores: elastic potential energy (spring), gravitational potential energy (book on shelf), and thermal energy (hot water).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

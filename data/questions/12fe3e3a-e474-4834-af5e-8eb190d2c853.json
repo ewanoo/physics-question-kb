@@ -1,0 +1,18 @@
+{
+  "id": "12fe3e3a-e474-4834-af5e-8eb190d2c853",
+  "question_text": "A block of material has a mass of 240 g and a volume of 80 cm\u00b3. What is the density of this material?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "calculation",
+    "mass",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "3 g/cm\u00b3",
+  "explanation": "Density is calculated using the formula: density = mass \u00f7 volume. So 240 g \u00f7 80 cm\u00b3 = 3 g/cm\u00b3. This tells us how much mass is packed into each cubic centimetre of the material.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "d83f400a-899d-4339-8984-ba7ed1fa2841",
+  "question_text": "Describe what happens to the energy stores when you drop a ball from a height.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "The gravitational potential energy decreases as the ball falls, and the kinetic energy increases as the ball speeds up.",
+  "explanation": "As the ball falls, it loses height, so it has less gravitational potential energy. At the same time, it speeds up, so it gains kinetic energy. The total energy is transferred from one store to another.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

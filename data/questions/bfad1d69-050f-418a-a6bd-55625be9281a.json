@@ -1,0 +1,18 @@
+{
+  "id": "bfad1d69-050f-418a-a6bd-55625be9281a",
+  "question_text": "A spring with spring constant 200 N/m is compressed by 0.1 m and then released to launch a 0.5 kg ball horizontally. Calculate the elastic potential energy released by the spring.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "spring constant",
+    "formula application",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "1 J",
+  "explanation": "Elastic potential energy is calculated using E_e = \u00bdkx\u00b2, where k = 200 N/m and x = 0.1 m. So E_e = \u00bd \u00d7 200 \u00d7 (0.1)\u00b2 = \u00bd \u00d7 200 \u00d7 0.01 = 1 J. This energy will be transferred to the ball as kinetic energy when the spring is released.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

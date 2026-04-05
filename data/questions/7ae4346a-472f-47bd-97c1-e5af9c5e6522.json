@@ -1,0 +1,38 @@
+{
+  "id": "7ae4346a-472f-47bd-97c1-e5af9c5e6522",
+  "question_text": "A student winds up a clockwork toy. Which energy store is increased when the toy is wound up?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "energy stores",
+    "springs"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Elastic potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Chemical energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When you wind up a clockwork toy, you tighten the spring inside it. A tightened spring stores elastic potential energy. When released, this energy makes the toy move. You don't change the toy's height (gravitational), it's not moving yet (kinetic), and there's no chemical reaction (chemical).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

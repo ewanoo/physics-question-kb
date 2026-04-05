@@ -1,0 +1,39 @@
+{
+  "id": "1a29b83b-a977-4dac-a17d-6c0ca2920ae8",
+  "question_text": "Which of these foods would provide the most energy per 100g?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "comparison",
+    "nutrients",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Butter or oil",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Apple",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Lettuce",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Fat is the most energy-rich nutrient, providing more energy per gram than carbohydrates or proteins. Butter and oil are almost pure fat, so they contain the most chemical energy per 100g compared to fruits and vegetables which contain lots of water.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

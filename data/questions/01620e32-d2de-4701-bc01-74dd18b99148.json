@@ -1,0 +1,17 @@
+{
+  "id": "01620e32-d2de-4701-bc01-74dd18b99148",
+  "question_text": "What is the name of the energy store in a stretched rubber band?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "energy stores",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Elastic potential energy",
+  "explanation": "When you stretch a rubber band, you store energy in it. This type of energy is called elastic potential energy because the object (the rubber band) is elastic and has the potential to do work when released.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

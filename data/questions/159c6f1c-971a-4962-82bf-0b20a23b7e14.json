@@ -1,0 +1,38 @@
+{
+  "id": "159c6f1c-971a-4962-82bf-0b20a23b7e14",
+  "question_text": "Which of these forces would NOT be classified as a contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "magnetic force",
+    "force classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A person pushing a shopping trolley",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A magnet pulling an iron nail towards it",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Friction stopping a bicycle wheel",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A tennis racket hitting a ball",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Magnetic force is a non-contact force that can work across a distance without objects touching. All the other options involve direct contact between surfaces.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

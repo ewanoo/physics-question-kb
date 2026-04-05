@@ -1,0 +1,38 @@
+{
+  "id": "5437446d-20e3-4eff-af66-2e612a145eaf",
+  "question_text": "Which of the following objects has kinetic energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "moving objects",
+    "energy stores"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A stationary car parked in a garage",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A car driving down the motorway",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A cold cup of coffee",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A compressed spring on a shelf",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Kinetic energy is the energy of movement. Only the car driving down the motorway is moving, so only that car has kinetic energy. A parked car has no kinetic energy, coffee has thermal energy (heat), and a compressed spring has elastic potential energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

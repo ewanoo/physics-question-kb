@@ -1,0 +1,18 @@
+{
+  "id": "5cf8857e-6990-457c-972f-2a8fdf1e83e5",
+  "question_text": "A student measures the mass of a beaker containing 50g of ice at -5\u00b0C. After heating it until it becomes steam at 105\u00b0C, the beaker is reweighed. The steam escapes into the air. Explain why the mass reading on the scale is less than before, and describe what has happened to the particles that were originally in the ice.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "phase change",
+    "conservation of mass",
+    "states of matter",
+    "evaporation"
+  ],
+  "options": null,
+  "correct_answer": "The mass is less because the steam (water vapour) has escaped into the air and is no longer in the beaker. The water particles have changed from being tightly packed in fixed positions in the solid ice, to moving freely in the liquid, and then to moving very quickly and far apart as a gas that diffuses away into the surrounding air.",
+  "explanation": "Although the total mass of water hasn't changed, we can only measure what's in the beaker. When the water becomes steam and escapes, those particles are still there but in the air around us, not in the container anymore. The particles themselves haven't disappeared\u2014they've just become a gas and spread out.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

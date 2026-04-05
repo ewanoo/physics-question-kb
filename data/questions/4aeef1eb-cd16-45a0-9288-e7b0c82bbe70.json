@@ -1,0 +1,39 @@
+{
+  "id": "4aeef1eb-cd16-45a0-9288-e7b0c82bbe70",
+  "question_text": "Which of these materials would you expect to have the highest density?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "materials",
+    "comparison",
+    "particle arrangement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Water",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Lead",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Wood",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Lead is a metal with tightly packed atoms, giving it a very high density (about 11.3 g/cm\u00b3). Air is a gas with low density, water is a liquid with moderate density, and wood has lower density because it contains air pockets. Metals are generally much denser than other materials.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

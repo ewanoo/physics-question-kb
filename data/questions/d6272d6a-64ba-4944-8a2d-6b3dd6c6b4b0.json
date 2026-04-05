@@ -1,0 +1,40 @@
+{
+  "id": "d6272d6a-64ba-4944-8a2d-6b3dd6c6b4b0",
+  "question_text": "A student lifts a 2 kg book from the ground to a shelf 1.5 m high, then pushes it along the shelf (which is frictionless) for 3 m. Which statement best explains the energy changes that occur?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "work",
+    "energy transfer",
+    "multi-step reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy increases during lifting; kinetic energy increases during pushing along the shelf",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy increases during lifting; no change in gravitational potential energy during pushing as the height stays the same",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy increases during lifting; gravitational potential energy increases during pushing",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both gravitational potential and kinetic energy increase equally during both stages",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When lifting the book, gravitational potential energy increases because height increases. When pushing along a frictionless horizontal shelf, the height doesn't change, so gravitational potential energy remains constant\u2014only kinetic energy would change if the shelf is frictionless.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

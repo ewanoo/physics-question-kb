@@ -1,0 +1,39 @@
+{
+  "id": "d3c8db1e-dd22-4bee-84ff-ffa8ab3109ac",
+  "question_text": "A student drags a box across a carpet at a steady speed. Which of the following is true?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "friction",
+    "balanced forces",
+    "constant velocity",
+    "steady motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pulling force is greater than the friction force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pulling force equals the friction force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The friction force is greater than the pulling force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is no friction force because the box is moving",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Moving at steady speed means constant velocity, which requires balanced forces. The forward pulling force must equal the backward friction force so that the net force is zero and there is no acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

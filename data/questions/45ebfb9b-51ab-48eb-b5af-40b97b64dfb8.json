@@ -1,0 +1,17 @@
+{
+  "id": "45ebfb9b-51ab-48eb-b5af-40b97b64dfb8",
+  "question_text": "Describe what happens to the brightness of bulbs in a series circuit when you add an extra bulb to the circuit.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series_circuits",
+    "brightness",
+    "current"
+  ],
+  "options": null,
+  "correct_answer": "The brightness of all bulbs decreases because the total resistance increases, which reduces the current flowing through the circuit.",
+  "explanation": "When you add more bulbs in series, you add more resistance to the circuit. This higher resistance means less current can flow, so all the bulbs get less power and become dimmer. The voltage from the battery is now shared between more bulbs.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

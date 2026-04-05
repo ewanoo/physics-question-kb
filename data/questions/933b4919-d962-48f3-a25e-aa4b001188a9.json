@@ -1,0 +1,38 @@
+{
+  "id": "933b4919-d962-48f3-a25e-aa4b001188a9",
+  "question_text": "Which state of matter has particles that are very spread out and move rapidly in all directions?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "gas",
+    "particles",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solid",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gas",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Plasma",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gas particles are far apart with weak forces between them, so they move rapidly and randomly in all directions. This is why gases spread out to fill any container and have no fixed shape or volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

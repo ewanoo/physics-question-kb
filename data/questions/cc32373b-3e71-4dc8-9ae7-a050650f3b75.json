@@ -1,0 +1,18 @@
+{
+  "id": "cc32373b-3e71-4dc8-9ae7-a050650f3b75",
+  "question_text": "A skateboarder with a mass of 60 kg reaches the bottom of a ramp with a velocity of 8 m/s. Which energy store has just decreased significantly, and where is the energy now?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "energy transformation",
+    "energy conservation"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy has decreased as the skateboarder descended the ramp. The energy is now stored as kinetic energy in the skateboarder's motion.",
+  "explanation": "As the skateboarder moves down the ramp, their height decreases, so gravitational potential energy decreases. This energy is converted into kinetic energy, which is why the skateboarder has a high velocity at the bottom. This demonstrates energy conservation\u2014potential energy transforms into kinetic energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

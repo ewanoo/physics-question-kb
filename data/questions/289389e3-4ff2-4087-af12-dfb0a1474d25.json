@@ -1,0 +1,18 @@
+{
+  "id": "289389e3-4ff2-4087-af12-dfb0a1474d25",
+  "question_text": "A heating system has an efficiency of 92%. It consumes 5000 kJ of fuel energy. A student claims that 400 kJ of energy is wasted. Is the student correct? Explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "heating",
+    "energy waste",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "No, the student is incorrect. If efficiency is 92%, then 8% is wasted. 8% of 5000 kJ = 0.08 \u00d7 5000 = 400 kJ. Actually, the student is correct.",
+  "explanation": "To find wasted energy, calculate the percentage that is NOT useful: 100% - 92% = 8%. Then 8% of 5000 kJ = 400 kJ, so the student's answer is actually correct. This question requires students to work backwards and verify a claim.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

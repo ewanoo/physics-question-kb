@@ -1,0 +1,18 @@
+{
+  "id": "aa2bde8c-1378-4720-90c8-ca5dafeee0f7",
+  "question_text": "What is the main reason that food is an important source of energy for living organisms?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "energy",
+    "food",
+    "organisms",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Food contains chemical energy that our bodies can release and use for movement, growth, warmth, and all life processes.",
+  "explanation": "Food stores chemical energy from the sun (captured by plants). When organisms eat and digest food, they release this energy to fuel all their activities and bodily functions.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

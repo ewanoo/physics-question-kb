@@ -1,0 +1,18 @@
+{
+  "id": "5bb7fd57-4dd7-41dc-9fa9-8eb463cc0816",
+  "question_text": "Two children push a toy box across the floor at a constant velocity. One child pushes with a force of 25 N to the right. Friction acts with a force of 15 N to the left. What force must the second child apply to keep the box moving at constant velocity?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "multiple forces",
+    "friction",
+    "balanced forces",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "10 N to the right",
+  "explanation": "For constant velocity, forces must be balanced. The total rightward force must equal the leftward friction force of 15 N. Since one child pushes with 25 N to the right, the second child must push 10 N to the right, making the total 25 N, which balances the 15 N friction.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

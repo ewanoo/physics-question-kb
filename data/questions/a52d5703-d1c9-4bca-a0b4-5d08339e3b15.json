@@ -1,0 +1,18 @@
+{
+  "id": "a52d5703-d1c9-4bca-a0b4-5d08339e3b15",
+  "question_text": "A string holds a balloon in place against a wall. The balloon pushes against the wall with a force of 8 N. What is the normal force exerted by the wall on the balloon?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "normal force",
+    "Newton's third law",
+    "balanced forces",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "8 N",
+  "explanation": "The wall exerts an equal and opposite normal force to the force the balloon applies to it. This is Newton's third law: action and reaction forces are always equal in size and opposite in direction.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

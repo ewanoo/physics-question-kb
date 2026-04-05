@@ -1,0 +1,17 @@
+{
+  "id": "1b56670f-2828-485e-bf91-5b239d5ced44",
+  "question_text": "What is the name of the process where a liquid changes into a gas?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "states of matter",
+    "phase change",
+    "evaporation"
+  ],
+  "options": null,
+  "correct_answer": "Evaporation (or boiling)",
+  "explanation": "When a liquid is heated, its particles gain energy and escape into the air as a gas. This process is called evaporation when it happens at the surface, or boiling when it happens throughout the liquid.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

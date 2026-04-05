@@ -1,0 +1,17 @@
+{
+  "id": "f93bfd9a-f827-45bc-aeb8-2cede21bd9b4",
+  "question_text": "What is the name of the force that pulls objects towards the Earth?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "gravity",
+    "gravitational force",
+    "non-contact forces"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational force (or gravity)",
+  "explanation": "Gravitational force is the non-contact force that attracts all objects with mass towards the Earth. It is what keeps us on the ground and makes things fall downwards.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "024ebb1c-d53f-4476-b9a8-74d36102fd22",
+  "question_text": "A 5 kg ball is dropped from a height of 20 m. Assuming g = 10 m/s\u00b2, calculate the gravitational potential energy stored in the ball at the starting height.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "formula application",
+    "unit conversion"
+  ],
+  "options": null,
+  "correct_answer": "1000 J",
+  "explanation": "Gravitational potential energy is calculated using E_p = mgh, where m = 5 kg, g = 10 m/s\u00b2, and h = 20 m. So E_p = 5 \u00d7 10 \u00d7 20 = 1000 J. This is the energy stored in the ball due to its position above the ground.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

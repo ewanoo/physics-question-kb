@@ -1,0 +1,18 @@
+{
+  "id": "6543f5f9-f93f-4382-997f-a518a4ecd22c",
+  "question_text": "Why is it impossible to compress a liquid significantly, even with very high pressure, whereas gases can be compressed easily?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "compressibility",
+    "particle arrangement",
+    "particle spacing",
+    "forces between particles"
+  ],
+  "options": null,
+  "correct_answer": "In liquids, the particles are already very close together with minimal space between them, so pressure cannot reduce their distance further. In gases, particles are far apart with large gaps between them, so pressure can force them closer together, reducing the volume. The incompressibility of liquids reflects that their particles are nearly at maximum density.",
+  "explanation": "Think of a liquid like a room completely filled with people standing close together\u2014you can't squeeze them any closer. A gas is like people spread out in a large space\u2014you can push them together. Liquids are already densely packed at the particle level, but gases have lots of empty space that pressure can eliminate.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

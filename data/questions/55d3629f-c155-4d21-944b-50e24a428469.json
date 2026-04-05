@@ -1,0 +1,39 @@
+{
+  "id": "55d3629f-c155-4d21-944b-50e24a428469",
+  "question_text": "Where does the energy in food originally come from?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "energy source",
+    "sun",
+    "plants",
+    "food chain"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Earth's core",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Lightning",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Moving water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "All food energy originally comes from the Sun. Plants capture light energy from the Sun and convert it into chemical energy through photosynthesis. Animals then eat plants or other animals to get their energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

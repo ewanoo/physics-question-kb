@@ -1,0 +1,39 @@
+{
+  "id": "c1c7fd92-d8e4-476e-8b23-e28468fb7211",
+  "question_text": "Energy is measured in which of the following units?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "units",
+    "energy",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Joules (J) or kilojoules (kJ)",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Metres per second (m/s)",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Kilograms (kg)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Degrees Celsius (\u00b0C)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Energy is measured in joules or kilojoules. Food energy is often also measured in calories or kilocalories, but in science we use the SI unit of joules.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

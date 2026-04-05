@@ -1,0 +1,18 @@
+{
+  "id": "600d13b2-567a-4007-a5a6-90a994bfea89",
+  "question_text": "A sealed container holds water at 100\u00b0C in equilibrium with water vapour. If you increase the pressure inside the container, what happens to the boiling point of the water and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "boiling point",
+    "pressure",
+    "phase change",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "The boiling point increases because higher pressure makes it harder for water particles to escape from the liquid to become gas, so they need more thermal energy (higher temperature) to overcome the pressure and change state",
+  "explanation": "Boiling happens when particles have enough energy to escape the liquid and form a gas. Higher pressure pushes down on the liquid surface, making it harder for particles to escape. Therefore, the particles need more kinetic energy (higher temperature) to break free and boil.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

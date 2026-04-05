@@ -1,0 +1,39 @@
+{
+  "id": "ae1a1539-54a6-49ad-9248-54ac55b8c23c",
+  "question_text": "Which nutrient in food is the primary source of chemical energy for our cells?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "carbohydrates",
+    "nutrients",
+    "energy",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Carbohydrates",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Vitamins",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Minerals",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Carbohydrates like glucose and starch are broken down during digestion to release chemical energy. While proteins and fats also provide energy, carbohydrates are the primary and most efficient source.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "c678a0cf-0184-4d44-835b-9c25dff01cb5",
+  "question_text": "Which of the following is an example of a contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "force classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction between a shoe and the ground",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gravitational force on the Moon",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Magnetic force between two magnets",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electrostatic force between two balloons",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Contact forces require two objects to be touching. Friction occurs when surfaces rub together, so it is a contact force. The other options are non-contact forces that work without direct touch.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

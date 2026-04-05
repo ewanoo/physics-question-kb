@@ -1,0 +1,17 @@
+{
+  "id": "9df30a2f-092c-4907-90b0-31c95c89ca16",
+  "question_text": "A parallel circuit contains three identical bulbs connected to a 12V battery. What is the voltage across each bulb?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel_circuits",
+    "voltage",
+    "identical_components"
+  ],
+  "options": null,
+  "correct_answer": "12V",
+  "explanation": "In a parallel circuit, each branch receives the full voltage from the battery. Since all three bulbs are connected directly across the 12V battery, each bulb experiences the full 12V, regardless of how many bulbs are in the circuit.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

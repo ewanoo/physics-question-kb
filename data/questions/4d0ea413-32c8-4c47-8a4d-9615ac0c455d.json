@@ -1,0 +1,17 @@
+{
+  "id": "4d0ea413-32c8-4c47-8a4d-9615ac0c455d",
+  "question_text": "A liquid has a definite volume but no definite shape. Why is this related to how its particles behave?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "liquid",
+    "particles",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "Particles in a liquid are close together so they take up a fixed volume, but they can move past each other freely so the liquid can change shape to fit its container.",
+  "explanation": "Liquid particles are held together closely by forces (giving fixed volume) but these forces are weak enough to allow particles to move and rearrange (allowing shape to change). This combination gives liquids their unique properties.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

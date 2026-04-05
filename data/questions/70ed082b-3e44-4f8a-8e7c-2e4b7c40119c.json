@@ -1,0 +1,18 @@
+{
+  "id": "70ed082b-3e44-4f8a-8e7c-2e4b7c40119c",
+  "question_text": "A skydiver falls at terminal velocity. Describe the forces acting on the skydiver and explain why they are balanced.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "terminal velocity",
+    "air resistance",
+    "balanced forces",
+    "weight"
+  ],
+  "options": null,
+  "correct_answer": "Weight (downward) and air resistance (upward) are balanced. They are equal in size but opposite in direction, so the net force is zero and the skydiver falls at constant velocity.",
+  "explanation": "At terminal velocity, the skydiver stops accelerating because the upward air resistance force grows large enough to equal the downward weight force. When these forces balance, there is no net force to change the skydiver's velocity.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "270e4930-aada-4728-8175-1bc95386b5c2",
+  "question_text": "A circuit contains a 6V battery and a single light bulb with a resistance of 3\u03a9. Using the formula V = IR, calculate the current flowing through the bulb.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "ohms_law",
+    "current",
+    "voltage",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "2A",
+  "explanation": "Using Ohm's Law V = IR, we can rearrange to find I = V/R. So I = 6V \u00f7 3\u03a9 = 2A. This tells us the current flowing through the circuit is 2 amps.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

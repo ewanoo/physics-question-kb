@@ -1,0 +1,38 @@
+{
+  "id": "25b56e28-81fb-4109-ad80-dd34b9f014e2",
+  "question_text": "Which statement about density is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "definition",
+    "concept"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Density is the amount of space an object takes up",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Density is the mass of a substance per unit volume",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Density is the weight of an object divided by its height",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Density is how heavy an object feels in your hand",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Density is specifically defined as the mass of a substance per unit volume. It tells us how tightly packed the particles are in a material. Options A, C, and D describe different properties or are incorrect definitions.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

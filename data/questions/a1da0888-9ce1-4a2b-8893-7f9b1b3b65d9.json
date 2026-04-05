@@ -1,0 +1,18 @@
+{
+  "id": "a1da0888-9ce1-4a2b-8893-7f9b1b3b65d9",
+  "question_text": "Name two different energy stores found in a burning candle.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "thermal energy",
+    "energy stores",
+    "burning"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy (in the wax) and thermal energy (the heat produced)",
+  "explanation": "The candle wax contains chemical energy stored in its molecules. When it burns, this chemical energy is released and converted into thermal energy (heat and light). Both of these energy stores are present in a burning candle.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

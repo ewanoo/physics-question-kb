@@ -1,0 +1,39 @@
+{
+  "id": "391a79f6-ff79-4d2c-b925-b16ffcaed940",
+  "question_text": "Two identical containers are filled with different liquids. Container A has a mass of 250 g and Container B has a mass of 200 g. Both containers have the same volume. Which liquid has the greater density?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "comparison",
+    "mass",
+    "volume"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Container A's liquid has greater density",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Container B's liquid has greater density",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both liquids have the same density",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "We cannot tell without knowing the volume",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since both containers have the same volume, the one with greater mass must have greater density. Container A has more mass (250 g vs 200 g), so its liquid is denser. Density only depends on mass and volume, which we know for both.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

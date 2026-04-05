@@ -1,0 +1,37 @@
+{
+  "id": "378dd856-73a3-40f4-8328-ac17ea65731b",
+  "question_text": "Which statement correctly describes a non-contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "force classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It only works when objects are touching each other",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It can act even when objects are not in direct contact",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It is always weaker than contact forces",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It cannot be measured or detected",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Non-contact forces can act across a distance without the objects touching. Examples include gravity, magnetic forces, and electrostatic forces. These forces can be very strong and are easily measured.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4b86630a-984a-4faa-b433-644866fb09aa",
+  "question_text": "A hanging picture frame is in equilibrium. The rope supporting it has a tension force of 40 N upward. What is the weight of the picture frame?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "tension",
+    "weight",
+    "balanced forces",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "40 N",
+  "explanation": "For the picture frame to be in equilibrium, the upward tension force must equal the downward weight force. Since tension is 40 N upward, the weight must be 40 N downward to balance it.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

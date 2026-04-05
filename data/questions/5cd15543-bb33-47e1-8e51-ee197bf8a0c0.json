@@ -1,0 +1,38 @@
+{
+  "id": "5cd15543-bb33-47e1-8e51-ee197bf8a0c0",
+  "question_text": "A student builds a circuit with a switch that is in the 'open' position. What would you expect to observe?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "switches",
+    "circuit_components",
+    "open_closed"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The bulb would be very dim but still lit",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The bulb would not light up because the circuit is broken",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The voltage would increase across the bulb",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The current would flow backwards through the circuit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When a switch is open, it creates a gap in the circuit that breaks the complete path. Without a complete path, current cannot flow, so no power reaches the bulb and it does not light up at all.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

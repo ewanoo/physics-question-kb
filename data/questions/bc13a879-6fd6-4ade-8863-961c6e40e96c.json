@@ -1,0 +1,18 @@
+{
+  "id": "bc13a879-6fd6-4ade-8863-961c6e40e96c",
+  "question_text": "A motor has an efficiency of 85%. It is powered by a 2000 J input of electrical energy. Calculate how much useful mechanical energy the motor produces and how much energy is wasted as heat.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "motors",
+    "energy calculation",
+    "energy loss"
+  ],
+  "options": null,
+  "correct_answer": "Useful energy: 1700 J, Wasted energy: 300 J",
+  "explanation": "Useful energy = 85% \u00d7 2000 J = 0.85 \u00d7 2000 = 1700 J. Wasted energy = 100% - 85% = 15%, so 15% \u00d7 2000 J = 300 J. The total must add up to 2000 J (1700 + 300 = 2000).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

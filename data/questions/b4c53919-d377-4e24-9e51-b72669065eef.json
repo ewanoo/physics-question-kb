@@ -1,0 +1,17 @@
+{
+  "id": "b4c53919-d377-4e24-9e51-b72669065eef",
+  "question_text": "Name one example of a force caused by air resistance.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "air resistance",
+    "friction",
+    "contact forces"
+  ],
+  "options": null,
+  "correct_answer": "A parachute slowing down a falling person (or similar examples like a feather falling slowly, or drag on a car)",
+  "explanation": "Air resistance is a type of friction force that acts on objects moving through air. It opposes the direction of motion and can slow objects down significantly, especially when surface area is large.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

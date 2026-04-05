@@ -1,0 +1,17 @@
+{
+  "id": "e391b7dd-5c64-4779-8844-d65f1887957e",
+  "question_text": "What type of force is created when you rub your hands together and they become warm?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "friction",
+    "contact forces",
+    "heat"
+  ],
+  "options": null,
+  "correct_answer": "Friction (or frictional force)",
+  "explanation": "When surfaces rub together, friction acts between them. Friction is a contact force that opposes motion and creates heat energy, which is why your hands warm up when you rub them together.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

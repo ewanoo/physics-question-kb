@@ -1,0 +1,17 @@
+{
+  "id": "5292c9bf-c67b-4a22-bac0-05ad64cce475",
+  "question_text": "A circuit has a total current of 5A flowing through it. If the circuit contains two resistors in series with values of 2\u03a9 and 3\u03a9, calculate the total voltage provided by the battery using V = IR.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "ohms_law",
+    "series_circuits",
+    "voltage"
+  ],
+  "options": null,
+  "correct_answer": "25V",
+  "explanation": "First, find the total resistance: 2\u03a9 + 3\u03a9 = 5\u03a9. Then use V = IR where I = 5A and R = 5\u03a9, so V = 5A \u00d7 5\u03a9 = 25V. The battery must provide 25 volts to push 5 amps through a total resistance of 5 ohms.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

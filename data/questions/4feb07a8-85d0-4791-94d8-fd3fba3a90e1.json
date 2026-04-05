@@ -1,0 +1,38 @@
+{
+  "id": "4feb07a8-85d0-4791-94d8-fd3fba3a90e1",
+  "question_text": "When two identical resistors are connected in series in a circuit, how does the total resistance compare to a single resistor?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series_circuits",
+    "resistance",
+    "combining_resistors"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total resistance is half the value of one resistor",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The total resistance equals the sum of both resistors",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The total resistance is the same as one resistor",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total resistance is twice the value of one resistor squared",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a series circuit, resistors add together directly. If you have two 5\u03a9 resistors in series, the total resistance is 5\u03a9 + 5\u03a9 = 10\u03a9. The current has to push through both resistors, so the total resistance increases.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

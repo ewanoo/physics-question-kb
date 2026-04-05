@@ -1,0 +1,38 @@
+{
+  "id": "af2229a0-4d2e-4bf9-aa9d-d5b84736d581",
+  "question_text": "Which of the following is the best definition of energy in food?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "definition",
+    "energy",
+    "food"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The ability to do work or cause change, which our bodies can release by breaking down food",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The amount of water contained in the food we eat",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The speed at which food travels through the digestive system",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The weight of food measured in grams",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Energy in food is the chemical energy stored in food that our bodies can use to do work, move, and maintain life. When we eat and digest food, our bodies release this energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

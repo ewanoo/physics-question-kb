@@ -1,0 +1,37 @@
+{
+  "id": "bd1103ba-4fa4-4359-a246-9c29d4a9de69",
+  "question_text": "A magnet is brought close to a steel paperclip without touching it. The paperclip moves towards the magnet. Which type of force is responsible for this?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "magnetic force",
+    "non-contact forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Magnetic force",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Applied force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Magnetic force is a non-contact force that attracts or repels magnetic materials. Since the paperclip moves without being touched, it must be a magnetic force pulling it towards the magnet.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

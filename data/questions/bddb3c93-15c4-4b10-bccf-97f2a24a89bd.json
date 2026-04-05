@@ -1,0 +1,40 @@
+{
+  "id": "bddb3c93-15c4-4b10-bccf-97f2a24a89bd",
+  "question_text": "A sealed container holds oxygen gas at room temperature. Which statement correctly compares what happens to the particles if you heat the gas versus if you increase the pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "kinetic energy",
+    "temperature",
+    "pressure",
+    "particle motion",
+    "gases"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Heating increases how fast particles move; increasing pressure makes particles collide more often but doesn't change their speed",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Both heating and pressure increase the speed of the gas particles",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Heating makes particles move faster, and pressure makes particles move slower",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Neither heating nor pressure affects how gas particles move",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Temperature is directly related to how fast particles move\u2014heating makes them move faster. Pressure is about how often particles collide with the container walls, which depends on how many particles are in a space, not on how fast they're moving. So heating changes particle speed; pressure changes collision frequency.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

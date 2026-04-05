@@ -1,0 +1,17 @@
+{
+  "id": "2adbdeaa-a48b-4fec-bfcf-455e8988b6aa",
+  "question_text": "Two machines perform the same task. Machine A uses 500 J of energy and produces 400 J of useful work. Machine B uses 300 J of energy and produces 210 J of useful work. Which machine is more efficient, and by what percentage?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency comparison",
+    "percentage",
+    "multi-step problem"
+  ],
+  "options": null,
+  "correct_answer": "Machine B is more efficient. Machine A: 80% efficiency, Machine B: 70% efficiency. Wait\u2014Machine A is more efficient by 10 percentage points.",
+  "explanation": "Machine A efficiency = (400 \u00f7 500) \u00d7 100 = 80%. Machine B efficiency = (210 \u00f7 300) \u00d7 100 = 70%. Machine A is more efficient despite using more energy overall because a higher percentage of its input energy becomes useful work.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

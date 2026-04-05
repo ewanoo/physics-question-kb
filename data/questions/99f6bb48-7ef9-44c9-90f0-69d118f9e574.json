@@ -1,0 +1,19 @@
+{
+  "id": "99f6bb48-7ef9-44c9-90f0-69d118f9e574",
+  "question_text": "Compare the energy stores of two identical balls: Ball X is held 2 m above the ground, and Ball Y is held 1 m above the ground but is moving at 4 m/s. Explain which ball has more total mechanical energy and why. (Use g = 10 m/s\u00b2, mass = 1 kg for both)",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "kinetic energy",
+    "mechanical energy",
+    "comparison",
+    "multi-step reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Ball X has more total mechanical energy (20 J) compared to Ball Y (18 J). Ball X: E_p = 1 \u00d7 10 \u00d7 2 = 20 J, E_k = 0 J (stationary). Ball Y: E_p = 1 \u00d7 10 \u00d7 1 = 10 J, E_k = \u00bd \u00d7 1 \u00d7 4\u00b2 = 8 J. Total for X = 20 J; Total for Y = 18 J.",
+  "explanation": "To compare total mechanical energy, we must calculate both gravitational potential energy and kinetic energy for each ball. Ball X has more height but no movement, while Ball Y has less height but is moving. When we add up all the energy stores, Ball X has 20 J total while Ball Y has only 18 J total, making Ball X have more total mechanical energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

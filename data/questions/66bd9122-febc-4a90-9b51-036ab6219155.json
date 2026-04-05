@@ -1,0 +1,17 @@
+{
+  "id": "66bd9122-febc-4a90-9b51-036ab6219155",
+  "question_text": "Name two ways that your body uses energy from food.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "energy",
+    "body functions",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: movement/exercise, growth, maintaining body temperature, thinking/brain function, heartbeat, digestion, cell repair, or other body processes.",
+  "explanation": "Our bodies use the chemical energy from food for many essential functions. The most obvious uses are movement and growth, but energy is also needed for all internal processes like breathing and thinking.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

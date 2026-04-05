@@ -1,0 +1,19 @@
+{
+  "id": "7bb83080-d91e-4437-9fe4-506751fc51e8",
+  "question_text": "A rectangular block of steel measures 10 cm long, 5 cm wide, and 2 cm tall. If the density of steel is 7.8 g/cm\u00b3, calculate the mass of the steel block.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "calculation",
+    "mass",
+    "volume",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "7800 g (or 7.8 kg)",
+  "explanation": "First, calculate the volume: 10 cm \u00d7 5 cm \u00d7 2 cm = 100 cm\u00b3. Then use the density formula rearranged: mass = density \u00d7 volume = 7.8 g/cm\u00b3 \u00d7 100 cm\u00b3 = 7800 g. This demonstrates how we use density to find mass when we know volume.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "bbea2ac3-7408-46b1-a830-2328bbcc12f5",
+  "question_text": "A 3 kg object is lifted 5 m vertically and then pushed horizontally across a rough surface for 8 m before stopping. Which of the following best describes the energy transformations that occur?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transformation",
+    "friction",
+    "gravitational potential energy",
+    "kinetic energy",
+    "thermal energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy \u2192 gravitational potential energy \u2192 kinetic energy \u2192 thermal energy",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Gravitational potential energy \u2192 kinetic energy \u2192 gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy \u2192 gravitational potential energy \u2192 thermal energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thermal energy \u2192 kinetic energy \u2192 gravitational potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The student uses chemical energy from their muscles to lift the object, which becomes gravitational potential energy. When pushing horizontally, this is converted to kinetic energy. Friction on the rough surface converts kinetic energy into thermal energy (heat), which is why the object stops.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

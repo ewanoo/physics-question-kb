@@ -1,0 +1,17 @@
+{
+  "id": "3d469eb9-b04a-4dad-a3d9-28a9b4bfd3b4",
+  "question_text": "What type of chemical energy is stored in food molecules?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "chemical energy",
+    "molecules",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy stored in the bonds between atoms in food molecules (such as glucose, proteins, and fats).",
+  "explanation": "Food contains chemical energy locked inside the bonds that hold atoms together in molecules. When our digestive system breaks these bonds during digestion, the energy is released and our cells can use it.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

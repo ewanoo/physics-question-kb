@@ -1,0 +1,39 @@
+{
+  "id": "cb81efb3-7430-4815-8bc0-724f74ea8915",
+  "question_text": "A student heats ice from -10\u00b0C to 110\u00b0C. Which statement best explains why the temperature stays constant during the melting process?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "phase change",
+    "melting",
+    "energy transfer",
+    "latent heat"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The heat energy is being used to break down the forces holding particles in fixed positions, not to increase their speed",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The ice has reached its maximum temperature and cannot get any hotter",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Bunsen burner is not hot enough to increase the temperature of ice",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All the ice must completely melt before any temperature change can occur",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "During melting, the heat energy supplied goes into breaking apart the rigid structure of the solid, allowing particles to move more freely. This energy doesn't increase the speed of particles (temperature), so the thermometer reading stays constant until all the ice has melted.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

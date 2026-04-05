@@ -1,0 +1,38 @@
+{
+  "id": "6c59b4c0-91a2-4ae2-9aec-d0665a4d161a",
+  "question_text": "Which of the following best explains why a solid cannot be easily compressed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "compression",
+    "solid",
+    "particles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solid particles are already very tightly packed together",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Solids contain very heavy particles that resist movement",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Solids have a very low temperature so particles cannot move",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Solids are compressed during manufacture and cannot compress further",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Solid particles are already packed as closely together as possible due to strong forces between them. There is very little space left, so it is extremely difficult to compress a solid any further.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

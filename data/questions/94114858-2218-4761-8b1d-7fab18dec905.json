@@ -1,0 +1,17 @@
+{
+  "id": "94114858-2218-4761-8b1d-7fab18dec905",
+  "question_text": "What is the name of the process where a gas changes directly into a solid without becoming a liquid?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "phase change",
+    "condensation",
+    "sublimation"
+  ],
+  "options": null,
+  "correct_answer": "Deposition (or reverse sublimation)",
+  "explanation": "Deposition is when a gas loses energy and turns directly into a solid. This is the opposite of sublimation. For example, frost forming on windows in winter is water vapour undergoing deposition.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

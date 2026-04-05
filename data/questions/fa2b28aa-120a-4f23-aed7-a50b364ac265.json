@@ -1,0 +1,18 @@
+{
+  "id": "fa2b28aa-120a-4f23-aed7-a50b364ac265",
+  "question_text": "A marble has a volume of 20 cm\u00b3 and a mass of 54 g. Explain whether the marble is more or less dense than water (which has a density of 1 g/cm\u00b3).",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "calculation",
+    "comparison",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "The marble has a density of 2.7 g/cm\u00b3 (54 \u00f7 20), which is greater than water's density of 1 g/cm\u00b3, so the marble is more dense than water and will sink.",
+  "explanation": "By calculating the marble's density and comparing it to water's density, we can predict whether it will float or sink. A density greater than 1 g/cm\u00b3 means the object will sink in water, which matches what we observe with marbles in real life.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

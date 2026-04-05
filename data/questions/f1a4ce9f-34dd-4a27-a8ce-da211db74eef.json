@@ -1,0 +1,18 @@
+{
+  "id": "f1a4ce9f-34dd-4a27-a8ce-da211db74eef",
+  "question_text": "A solar panel system converts sunlight into electrical energy with an efficiency of 18%. On a sunny day, 4000 kJ of solar energy hits the panels. How much electrical energy is generated, and what happens to the remaining energy?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "renewable energy",
+    "efficiency",
+    "solar panels",
+    "energy conversion"
+  ],
+  "options": null,
+  "correct_answer": "Electrical energy generated: 720 kJ. Remaining energy (3280 kJ) is mostly converted to heat through reflection and absorption in materials.",
+  "explanation": "Useful electrical energy = 18% \u00d7 4000 kJ = 720 kJ. The remaining 82% (3280 kJ) is lost mainly as heat due to reflection from the panel surface and heating of the panel materials themselves. This is why solar panels get warm in sunlight.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

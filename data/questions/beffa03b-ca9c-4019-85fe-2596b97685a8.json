@@ -1,0 +1,17 @@
+{
+  "id": "beffa03b-ca9c-4019-85fe-2596b97685a8",
+  "question_text": "Describe what happens to the size of gravitational force as two objects get further apart.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "gravitational force",
+    "distance",
+    "non-contact forces"
+  ],
+  "options": null,
+  "correct_answer": "The gravitational force decreases (or gets weaker) as the distance between objects increases",
+  "explanation": "Gravitational force is a non-contact force that decreases with distance. The further apart two objects are, the weaker the gravitational force between them becomes.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

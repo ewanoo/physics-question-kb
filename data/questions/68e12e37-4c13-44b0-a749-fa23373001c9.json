@@ -1,0 +1,18 @@
+{
+  "id": "68e12e37-4c13-44b0-a749-fa23373001c9",
+  "question_text": "A sample of dry ice (solid carbon dioxide) is placed in a sealed transparent container at room temperature. Over time, white fog forms inside the container. Explain this observation in terms of the particle model and state changes.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "sublimation",
+    "phase change",
+    "particle model",
+    "condensation"
+  ],
+  "options": null,
+  "correct_answer": "The dry ice particles gain energy from room temperature and sublimate directly from solid to gas without melting. The carbon dioxide gas becomes so cold that when it contacts warmer air particles, it loses energy and condenses back into tiny liquid droplets, which appear as white fog. The fog is actually liquid carbon dioxide droplets suspended in the air.",
+  "explanation": "Dry ice is unusual because it skips the liquid phase and goes straight from solid to gas\u2014this is called sublimation. As the gas expands and mixes with warmer air, it cools the air around it, causing water vapour in the air to condense into the white fog we see. The fog is mostly water droplets, not CO\u2082 droplets.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

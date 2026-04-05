@@ -1,0 +1,18 @@
+{
+  "id": "4d0e9461-f93c-457f-8825-ee57102bbd69",
+  "question_text": "A power station generates 500 MW of electrical power. However, it loses 300 MW as heat through cooling towers and transmission lines. What is the efficiency of the power station?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "power station",
+    "energy loss",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "40%",
+  "explanation": "Efficiency is calculated as (useful energy output \u00f7 total energy input) \u00d7 100. The useful output is 500 MW and total input is 500 + 300 = 800 MW, so efficiency = (500 \u00f7 800) \u00d7 100 = 40%. This shows why power stations waste a lot of energy as heat.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

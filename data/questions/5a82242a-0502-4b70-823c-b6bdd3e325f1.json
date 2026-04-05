@@ -1,0 +1,17 @@
+{
+  "id": "5a82242a-0502-4b70-823c-b6bdd3e325f1",
+  "question_text": "Comparing three devices: Device X (60% efficient), Device Y (75% efficient), and Device Z (82% efficient). All three use 1000 J of input energy. Which device wastes the most energy, and by how much compared to the most efficient device?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency comparison",
+    "energy loss",
+    "multi-step calculation"
+  ],
+  "options": null,
+  "correct_answer": "Device X wastes the most energy. It wastes 400 J while Device Z wastes only 180 J, a difference of 220 J.",
+  "explanation": "Device X wastes 40% of 1000 J = 400 J. Device Y wastes 25% of 1000 J = 250 J. Device Z wastes 18% of 1000 J = 180 J. Device X has the highest waste, and comparing it to Device Z: 400 J - 180 J = 220 J difference.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

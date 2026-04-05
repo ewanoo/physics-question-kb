@@ -1,0 +1,38 @@
+{
+  "id": "112f8b4e-266b-4fb1-9d7e-8f1f39d6a8f0",
+  "question_text": "A boat moves upstream at constant speed. The engine provides a forward force, but the current pushes backward. What is true about these two forces?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "constant velocity",
+    "opposing forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The engine force is greater than the current force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The engine force and current force are equal in size and opposite in direction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The current force is greater than the engine force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The forces are unbalanced, causing the boat to accelerate upstream",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since the boat moves at constant speed, it is not accelerating. This is only possible when the forces are balanced, meaning the forward engine force must equal the backward current force in magnitude.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

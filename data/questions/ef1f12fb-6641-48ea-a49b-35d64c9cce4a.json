@@ -1,0 +1,38 @@
+{
+  "id": "ef1f12fb-6641-48ea-a49b-35d64c9cce4a",
+  "question_text": "Which statement correctly describes the density of the three states of matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "density",
+    "states of matter",
+    "particles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas is the densest because particles move fastest",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Solid is the densest because particles are tightly packed together",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Liquid is always denser than solids",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All three states have the same density",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Solids are generally the densest because their particles are tightly packed together with strong forces holding them. Liquids have medium density, and gases have the lowest density because particles are far apart.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

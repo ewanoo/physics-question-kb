@@ -1,0 +1,18 @@
+{
+  "id": "ab3fffb1-f00c-4799-a17a-c96944ae41f7",
+  "question_text": "A car travels at a constant speed of 30 m/s along a straight, level road. What can you conclude about the forces acting on the car?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "constant velocity",
+    "balanced forces",
+    "Newton's first law",
+    "motion"
+  ],
+  "options": null,
+  "correct_answer": "The forces are balanced (or in equilibrium). The driving force equals the resistance forces (friction and air resistance).",
+  "explanation": "When an object moves at constant velocity, its acceleration is zero, which means the net force must be zero. This only happens when all forces are balanced, so the forward driving force must equal the backward resistance forces.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}
