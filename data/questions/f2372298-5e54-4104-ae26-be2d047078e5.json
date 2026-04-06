@@ -1,0 +1,17 @@
+{
+  "question_text": "A ball with a mass of 2 kg is dropped from rest. What is the gravitational force acting on the ball during its fall? (Use g = 10 N/kg)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "falling objects",
+    "gravitational force"
+  ],
+  "options": null,
+  "correct_answer": "20 N",
+  "explanation": "The gravitational force on an object is its weight, calculated by multiplying mass by gravitational field strength: 2 kg \u00d7 10 N/kg = 20 N. This force acts downward throughout the fall.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f2372298-5e54-4104-ae26-be2d047078e5"
+}

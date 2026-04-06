@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is thrown upwards into the air. At the moment it leaves your hand, it has kinetic energy. As it rises, what happens to its kinetic energy and gravitational potential energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "kinetic energy",
+    "potential energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy increases, potential energy decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy decreases, potential energy increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both kinetic energy and potential energy increase",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Both kinetic energy and potential energy decrease",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As the ball rises, it slows down, so its kinetic energy decreases. At the same time, it gets higher, so its gravitational potential energy increases. Energy is conserved by transforming from one form to the other.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "273dfa02-03d9-4aa2-ab87-b20646949d27"
+}

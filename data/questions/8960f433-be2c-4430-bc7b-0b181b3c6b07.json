@@ -1,0 +1,18 @@
+{
+  "question_text": "A student observes that when a wave enters a new medium, its speed decreases from 300 m/s to 200 m/s. The frequency is 50 Hz in both media. Describe what happens to the wavelength and explain why the frequency must stay constant when a wave changes medium.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "medium",
+    "frequency",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The wavelength decreases from 6 m to 4 m. Frequency stays constant because it is determined by the source that created the wave; the source vibrates at the same rate regardless of the medium. Only the speed and wavelength change when a wave enters a new medium.",
+  "explanation": "Original wavelength: 300 \u00f7 50 = 6 m. New wavelength: 200 \u00f7 50 = 4 m. The frequency is a property of the wave source (what's making it vibrate), not the medium, so it cannot change. The speed changes because the medium affects how quickly the wave travels, so wavelength must adjust to keep the relationship v = f \u00d7 \u03bb true.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8960f433-be2c-4430-bc7b-0b181b3c6b07"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Two waves are compared: Wave A has a frequency of 20 Hz and travels at 40 m/s; Wave B has a frequency of 10 Hz and travels at 80 m/s. Which wave has the longer wavelength, and by how much?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "comparison",
+    "speed"
+  ],
+  "options": null,
+  "correct_answer": "Wave B has the longer wavelength by 2 m. Wave A: 40 \u00f7 20 = 2 m. Wave B: 80 \u00f7 10 = 8 m. Difference: 8 - 2 = 6 m.",
+  "explanation": "Calculate each wavelength using wavelength = speed \u00f7 frequency. Wave A: 40 \u00f7 20 = 2 m. Wave B: 80 \u00f7 10 = 8 m. Wave B is longer by 6 m. Even though Wave B has half the frequency, its much higher speed means it has a longer wavelength.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d2afe3db-d9b4-40a8-a078-7f0bf58dfafd"
+}

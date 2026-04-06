@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes how gravitational force changes with distance between two objects?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational force",
+    "distance",
+    "inverse square"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational force increases as objects move further apart",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational force decreases as the distance between objects increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational force stays exactly the same no matter the distance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravitational force only exists when objects are touching",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational force is a force that acts at a distance. As objects move further apart, the gravitational force between them decreases, following an inverse relationship with distance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b27ea65f-0369-4b97-b2b8-73a61f8c13a3"
+}

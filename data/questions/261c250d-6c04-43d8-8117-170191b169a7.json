@@ -1,0 +1,17 @@
+{
+  "question_text": "A skateboarder at the top of a ramp has 2000 J of gravitational potential energy. As they slide down a frictionless ramp, how much kinetic energy will they have at the bottom?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "potential energy",
+    "kinetic energy"
+  ],
+  "options": null,
+  "correct_answer": "2000 J",
+  "explanation": "In a frictionless system, total energy is conserved. All the gravitational potential energy at the top converts to kinetic energy at the bottom. Therefore, kinetic energy = 2000 J.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "261c250d-6c04-43d8-8117-170191b169a7"
+}

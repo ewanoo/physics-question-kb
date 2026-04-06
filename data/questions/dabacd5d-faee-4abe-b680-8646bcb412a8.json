@@ -1,0 +1,17 @@
+{
+  "question_text": "What does it mean if a car has a constant speed?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "constant speed",
+    "motion",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "It means the car is travelling at the same speed and is not speeding up or slowing down.",
+  "explanation": "Constant speed means the speed does not change over time. The car covers the same distance in equal time intervals and is not accelerating or decelerating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dabacd5d-faee-4abe-b680-8646bcb412a8"
+}

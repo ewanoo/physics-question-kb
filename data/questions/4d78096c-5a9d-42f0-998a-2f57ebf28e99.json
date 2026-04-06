@@ -1,0 +1,17 @@
+{
+  "question_text": "A student has a mass of 50 kg. Calculate the gravitational force (weight) acting on the student on Earth. (Use g = 10 N/kg)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "Weight is calculated using the formula: Weight = mass \u00d7 gravitational field strength. So 50 kg \u00d7 10 N/kg = 500 N. This is the gravitational force pulling the student toward Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4d78096c-5a9d-42f0-998a-2f57ebf28e99"
+}

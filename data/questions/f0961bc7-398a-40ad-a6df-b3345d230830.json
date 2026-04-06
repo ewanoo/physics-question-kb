@@ -1,0 +1,17 @@
+{
+  "question_text": "A student is investigating different types of electromagnetic radiation. She measures that radiation A has a wavelength of 700 nm and radiation B has a wavelength of 0.1 nm. Calculate the frequency of radiation B if the speed of light is 3 \u00d7 10\u2078 m/s, and explain which type of electromagnetic radiation B is likely to be.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "frequency calculation",
+    "wavelength",
+    "em radiation types"
+  ],
+  "options": null,
+  "correct_answer": "Frequency = 3 \u00d7 10\u00b9\u2078 Hz; Radiation B is X-rays (or gamma rays)",
+  "explanation": "To find frequency, use f = c/\u03bb. Converting 0.1 nm to metres (0.1 \u00d7 10\u207b\u2079 m), then dividing the speed of light by this wavelength gives 3 \u00d7 10\u00b9\u2078 Hz. This extremely high frequency corresponds to X-rays, which have very short wavelengths and high energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f0961bc7-398a-40ad-a6df-b3345d230830"
+}

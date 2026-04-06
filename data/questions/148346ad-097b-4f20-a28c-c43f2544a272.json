@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is a unit of speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "units",
+    "speed",
+    "measurement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "kilometres per hour",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "kilograms",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "metres",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "seconds",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Speed must have both distance and time in its units. Kilometres per hour shows distance (kilometres) divided by time (hours), which is the correct format for speed. The other options are just distance or time, not speed.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "148346ad-097b-4f20-a28c-c43f2544a272"
+}

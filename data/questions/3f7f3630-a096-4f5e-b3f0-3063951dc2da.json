@@ -1,0 +1,17 @@
+{
+  "question_text": "A scientist is designing a security scanner that needs to detect hidden objects through clothing without ionising tissue. She must choose between: (1) Radio waves, (2) Microwaves, (3) Infrared radiation, or (4) Ultraviolet light. Explain which type she should choose and why the other three are unsuitable for this application.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "penetration",
+    "ionising vs non-ionising",
+    "practical applications"
+  ],
+  "options": null,
+  "correct_answer": "She should choose (2) Microwaves because they have short enough wavelengths to detect small objects but are non-ionising so they do not damage tissue. Radio waves (1) have wavelengths too long to detect small hidden objects. Infrared (3) does not penetrate clothing effectively. Ultraviolet light (4) is ionising and would damage cells, making it unsafe.",
+  "explanation": "Microwaves offer the best balance: their wavelength is short enough to interact with and detect small objects through fabric, but their energy is non-ionising so repeated exposure is safe for skin. Radio waves are too long-wavelength to resolve small details, infrared cannot pass through most clothing materials, and UV light would harm tissue and is therefore unsuitable.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3f7f3630-a096-4f5e-b3f0-3063951dc2da"
+}

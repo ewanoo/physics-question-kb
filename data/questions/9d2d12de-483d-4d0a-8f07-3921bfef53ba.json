@@ -1,0 +1,17 @@
+{
+  "question_text": "Three sources emit electromagnetic waves at the same intensity. Source X emits microwaves, Source Y emits visible light, and Source Z emits radio waves. A student claims that Source Y is most dangerous because it is brightest to our eyes. Evaluate this claim using your knowledge of the electromagnetic spectrum.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "ionising radiation",
+    "hazards",
+    "spectrum properties"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect. Danger depends on ionising ability, not brightness. Microwaves (Source X) can cause heating and damage to tissues, and if this were ionising radiation like UV or X-rays it would be more dangerous. Visible light is not ionising and cannot damage cells directly. The eye's sensitivity to visible light does not indicate the danger level.",
+  "explanation": "Brightness to our eyes doesn't determine how dangerous radiation is. Some radiation types like microwaves and ultraviolet light can damage our bodies because they have high energy or cause heating, while visible light cannot ionise atoms even though we see it clearly. Ionising radiation (UV, X-rays, gamma rays) is more dangerous than non-ionising radiation at the same intensity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9d2d12de-483d-4d0a-8f07-3921bfef53ba"
+}

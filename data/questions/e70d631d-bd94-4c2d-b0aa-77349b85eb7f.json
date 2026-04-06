@@ -1,0 +1,38 @@
+{
+  "question_text": "A student observes that when she increases the frequency of an electromagnetic wave, its wavelength decreases. She then asks: 'If I keep increasing the frequency indefinitely, will the wavelength approach zero?' Which statement best explains why or why not?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "frequency-wavelength relationship",
+    "speed of light",
+    "wave equation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Yes, wavelength will approach zero because frequency and wavelength are inversely proportional.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "No, because the speed of light is constant, so the product of frequency and wavelength (c) cannot change. As frequency increases, wavelength must decrease, but the product always equals 3 \u00d7 10\u2078 m/s.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "No, because electromagnetic waves have a maximum frequency limit beyond which they cannot travel.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Yes, but only for visible light; other types of EM radiation can have wavelengths approaching zero.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The relationship between frequency and wavelength is f \u00d7 \u03bb = c (the speed of light). Since the speed of light is constant at 3 \u00d7 10\u2078 m/s, wavelength can decrease but can never reach zero\u2014as frequency increases, wavelength gets smaller proportionally to maintain the constant speed. This relationship applies to all electromagnetic waves.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e70d631d-bd94-4c2d-b0aa-77349b85eb7f"
+}

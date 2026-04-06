@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes average speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "motion",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The speed at one exact moment in time",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The total distance travelled divided by the total time taken",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "How fast something is accelerating",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The maximum speed reached during a journey",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Average speed is calculated by dividing the total distance travelled by the total time taken for the journey. It gives an overall picture of how fast something was moving on average, even if the speed changed during the journey.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b1bf9531-1312-49e4-8db2-609bff03f3e8"
+}

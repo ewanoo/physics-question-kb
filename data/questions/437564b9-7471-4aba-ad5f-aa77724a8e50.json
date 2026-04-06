@@ -1,0 +1,38 @@
+{
+  "question_text": "Two point charges are separated by a distance of 2 cm. When the distance is increased to 6 cm, the electrostatic force between them decreases by a factor of how much?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "Coulomb's law",
+    "inverse square law",
+    "force calculation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "3 times",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "9 times",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "6 times",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "27 times",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Electrostatic force follows an inverse square law: when distance increases by a factor, force decreases by the square of that factor. The distance increased from 2 cm to 6 cm, which is a factor of 3. So the force decreases by 3\u00b2 = 9 times. This is why electrostatic forces are very strong at close range but weak when objects are far apart.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "437564b9-7471-4aba-ad5f-aa77724a8e50"
+}

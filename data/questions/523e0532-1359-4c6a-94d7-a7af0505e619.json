@@ -1,0 +1,17 @@
+{
+  "question_text": "A pendulum swings back and forth. At the highest point of its swing, it has 50 J of gravitational potential energy and 0 J of kinetic energy. Ignoring air resistance, how much kinetic energy will it have at the lowest point of the swing?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "pendulum",
+    "energy conservation",
+    "potential and kinetic energy"
+  ],
+  "options": null,
+  "correct_answer": "50 J",
+  "explanation": "Energy is conserved in the pendulum's swing. At the highest point, all the energy is potential (50 J). At the lowest point, all this energy converts to kinetic energy (50 J). The total mechanical energy stays the same.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "523e0532-1359-4c6a-94d7-a7af0505e619"
+}

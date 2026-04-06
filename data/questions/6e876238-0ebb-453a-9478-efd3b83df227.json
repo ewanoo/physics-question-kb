@@ -1,0 +1,18 @@
+{
+  "question_text": "A radio station broadcasts at a frequency of 100 MHz (100,000,000 Hz). Radio waves travel at the speed of light, 3 \u00d7 10\u2078 m/s. Calculate the wavelength of these radio waves and explain why radio waves with this wavelength can diffract around buildings.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "diffraction",
+    "radio waves",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "3 m. Radio waves diffract around buildings because the wavelength (3 m) is comparable to or larger than the size of gaps and obstacles in urban environments, so the waves bend around buildings rather than being blocked.",
+  "explanation": "Wavelength = speed \u00f7 frequency = (3 \u00d7 10\u2078) \u00f7 (10\u2078) = 3 m. Diffraction is when waves bend around obstacles, and this happens most noticeably when the wavelength is similar to or larger than the obstacle. Since 3 m is much larger than a person but comparable to building features, radio waves diffract effectively around buildings.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6e876238-0ebb-453a-9478-efd3b83df227"
+}

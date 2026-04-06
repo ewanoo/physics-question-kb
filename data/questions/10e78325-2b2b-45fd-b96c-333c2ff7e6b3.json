@@ -1,0 +1,17 @@
+{
+  "question_text": "A student rubs a balloon with wool and it becomes negatively charged. Explain why the wool becomes positively charged, and describe the electron transfer that occurs during this process.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "electron transfer",
+    "triboelectric series",
+    "charging by friction"
+  ],
+  "options": null,
+  "correct_answer": "Electrons are transferred from the wool to the balloon. The wool loses electrons (becoming positively charged) while the balloon gains electrons (becoming negatively charged). This happens because rubber attracts electrons more strongly than wool does, so electrons move to the balloon during friction.",
+  "explanation": "During rubbing, friction provides energy that allows electrons to move from one material to another. The wool and balloon are made of different materials with different affinities for electrons\u2014rubber (in the balloon) is better at holding electrons than wool. When separated, the wool is left with fewer electrons, making it positive, while the balloon has gained electrons, making it negative.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "10e78325-2b2b-45fd-b96c-333c2ff7e6b3"
+}

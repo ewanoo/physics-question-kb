@@ -1,0 +1,17 @@
+{
+  "question_text": "A lamp is plugged into the mains electricity supply and is switched on. Describe the energy transformations that occur.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "electrical energy",
+    "light energy"
+  ],
+  "options": null,
+  "correct_answer": "Electrical energy is transformed into light energy (and heat energy). The total amount of energy is conserved.",
+  "explanation": "The mains supply provides electrical energy. When the lamp is on, this electrical energy is converted into light energy so we can see, and heat energy which warms up the bulb. No energy is lost; it just changes form.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dd5095da-7c24-4186-92d8-771449dff848"
+}

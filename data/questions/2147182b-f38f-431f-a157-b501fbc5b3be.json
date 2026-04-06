@@ -1,0 +1,18 @@
+{
+  "question_text": "A negatively charged cloud is at a height of 500 m above the ground. Explain how this creates an electric field in the air below it, what would happen to a positively charged dust particle in this field, and why lightning eventually occurs.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "electric field",
+    "field lines",
+    "ionization",
+    "electrical discharge"
+  ],
+  "options": null,
+  "correct_answer": "The negatively charged cloud creates an electric field pointing downward (from positive ground/air to negative cloud). A positive charge in this field experiences a downward force and is attracted to the cloud. Lightning occurs when the electric field becomes so strong that it ionizes air molecules, creating a conducting path that allows charge to flow rapidly from cloud to ground, releasing huge energy.",
+  "explanation": "Electric fields surround all charges and exert forces on other charges in the field. The field from the negative cloud points toward it (attraction). As more charge builds up on the cloud, the field strength increases until it exceeds the breakdown strength of air (~3 million V/m). This causes air to ionize\u2014electrons are torn from atoms\u2014creating a conductive channel for the massive discharge we see as lightning.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2147182b-f38f-431f-a157-b501fbc5b3be"
+}

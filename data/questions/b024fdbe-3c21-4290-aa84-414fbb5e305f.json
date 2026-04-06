@@ -1,0 +1,18 @@
+{
+  "question_text": "A sound wave travels through air at 340 m/s. If the frequency of the sound is 85 Hz, calculate the wavelength of this sound wave. Then explain why this same sound would have a different wavelength if it travelled through water at 1500 m/s.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "speed",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "4 m; The wavelength increases to approximately 17.6 m in water because the speed of sound is faster in water, and since frequency remains constant, a higher speed produces a longer wavelength (wavelength = speed \u00f7 frequency).",
+  "explanation": "To find wavelength, divide the wave speed by the frequency: 340 \u00f7 85 = 4 m. In water, the same sound has frequency 85 Hz but travels at 1500 m/s, so wavelength = 1500 \u00f7 85 = 17.6 m. The frequency doesn't change when a wave enters a different medium, but the speed does, which changes the wavelength.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b024fdbe-3c21-4290-aa84-414fbb5e305f"
+}

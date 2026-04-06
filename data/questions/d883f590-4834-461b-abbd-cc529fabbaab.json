@@ -1,0 +1,17 @@
+{
+  "question_text": "A book is resting on a table. The gravitational force pulling the book downward is 15 N. What is the size of the normal force exerted by the table on the book?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "normal force",
+    "equilibrium",
+    "weight"
+  ],
+  "options": null,
+  "correct_answer": "15 N",
+  "explanation": "When an object is at rest on a surface, the forces must be balanced. The normal force pushing up from the table must equal the gravitational force pulling down, so the normal force is 15 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d883f590-4834-461b-abbd-cc529fabbaab"
+}

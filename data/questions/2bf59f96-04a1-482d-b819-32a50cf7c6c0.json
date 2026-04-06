@@ -1,0 +1,18 @@
+{
+  "question_text": "A charged polythene rod repels a suspended pith ball. A student then brings a charged cellulose acetate rod near the pith ball, and it attracts. What can you conclude about the charges on all three objects, and explain your reasoning using the principles of electrostatic forces.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "opposite charges",
+    "like charges",
+    "force between charges",
+    "triboelectric series"
+  ],
+  "options": null,
+  "correct_answer": "The polythene rod is negatively charged and the pith ball is negatively charged (since like charges repel). The acetate rod must be positively charged because it attracts the negatively charged pith ball (since opposite charges attract). Polythene and acetate are at opposite ends of the triboelectric series, so when rubbed with similar materials they gain opposite charges.",
+  "explanation": "This question requires understanding that like charges repel and opposite charges attract. Since polythene repels the ball, they have the same type of charge. Since acetate attracts the ball, it must have the opposite charge. The triboelectric series explains why different materials gain different charges when rubbed\u2014polythene readily gains electrons (becomes negative) while acetate readily loses electrons (becomes positive).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2bf59f96-04a1-482d-b819-32a50cf7c6c0"
+}

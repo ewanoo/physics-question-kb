@@ -1,0 +1,18 @@
+{
+  "question_text": "A hospital uses two different types of electromagnetic radiation for medical imaging: ultrasound (which is NOT electromagnetic) and X-rays. Explain why X-rays are more useful than visible light for seeing inside the human body, but also why X-rays must be used carefully while visible light poses no risk.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "X-rays",
+    "medical applications",
+    "ionising radiation",
+    "penetration"
+  ],
+  "options": null,
+  "correct_answer": "X-rays have very short wavelengths and high energy, so they can penetrate through soft tissue but are partially absorbed by dense structures like bone, creating clear images. Visible light has longer wavelengths and cannot penetrate tissue effectively. X-rays are ionising radiation that can damage cells and cause cancer with repeated exposure, so they must be used carefully and minimised. Visible light is non-ionising and safe.",
+  "explanation": "X-rays work for medical imaging because their short wavelength lets them pass through tissue differently depending on density. However, this same high energy makes them ionising and potentially harmful, so exposure must be limited. Visible light cannot penetrate the body and is not ionising, making it safe but useless for internal imaging.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "44de4c09-1018-4b38-b6db-63045a37c9b3"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following situations best demonstrates the conservation of energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "energy transformations",
+    "real-world examples"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A car engine burns petrol, converting chemical energy into movement energy and heat",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "A book falls off a table and comes to rest on the floor",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "A mobile phone battery runs out of charge",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ice melts in the sun",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The car engine shows energy conservation clearly: chemical energy in petrol is transformed into kinetic energy (movement) and thermal energy (heat). The total energy input equals the total energy output in different forms.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "89ef4690-9ad3-4d26-9d94-f2ad49306681"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "What is speed?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "definition",
+    "speed",
+    "motion"
+  ],
+  "options": null,
+  "correct_answer": "Speed is how fast something is moving, or the distance travelled per unit of time.",
+  "explanation": "Speed tells us how quickly an object is moving. It is measured as the distance covered in a certain amount of time, such as metres per second or kilometres per hour.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "517113a1-1c66-4b22-980d-a97e5f931029"
+}

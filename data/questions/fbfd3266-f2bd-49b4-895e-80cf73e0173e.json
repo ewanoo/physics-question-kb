@@ -1,0 +1,17 @@
+{
+  "question_text": "Two identical metal spheres are given charges of +8 \u03bcC and -3 \u03bcC respectively. They are then brought into contact and separated. What is the final charge on each sphere?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.static",
+  "tags": [
+    "charge conservation",
+    "conductors",
+    "charge distribution"
+  ],
+  "options": null,
+  "correct_answer": "+2.5 \u03bcC on each sphere",
+  "explanation": "When two identical conducting spheres touch, the total charge is shared equally between them. Total charge = +8 + (-3) = +5 \u03bcC. When split equally, each sphere gets +5 \u00f7 2 = +2.5 \u03bcC. This demonstrates charge conservation and the principle that conductors allow charge to redistribute.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fbfd3266-f2bd-49b4-895e-80cf73e0173e"
+}

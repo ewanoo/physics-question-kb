@@ -1,0 +1,17 @@
+{
+  "question_text": "Name two different units that can be used to measure speed.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "units",
+    "speed",
+    "measurement"
+  ],
+  "options": null,
+  "correct_answer": "Any two from: metres per second (m/s), kilometres per hour (km/h), miles per hour (mph)",
+  "explanation": "Speed can be measured in different units depending on the situation. Metres per second is common in science, while kilometres per hour and miles per hour are used for vehicles. All are valid ways to express speed.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "bc27a02a-8976-4c2f-b328-253bf0fad166"
+}

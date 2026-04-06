@@ -1,0 +1,19 @@
+{
+  "question_text": "Light has a very high frequency of 5 \u00d7 10\u00b9\u2074 Hz and travels at 3 \u00d7 10\u2078 m/s in air. Sound has a much lower frequency of 100 Hz and travels at 340 m/s. Calculate the wavelength of each wave and explain why light can be focused with a lens but sound cannot, relating your explanation to wavelength.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "light",
+    "sound",
+    "diffraction",
+    "properties comparison"
+  ],
+  "options": null,
+  "correct_answer": "Light: 6 \u00d7 10\u207b\u2077 m (600 nm); Sound: 3.4 m. Light has an extremely small wavelength compared to lenses, so it can be focused precisely. Sound has a large wavelength (3.4 m), which is much larger than lens openings, so it diffracts around the lens and cannot be focused effectively.",
+  "explanation": "Light wavelength: (3 \u00d7 10\u2078) \u00f7 (5 \u00d7 10\u00b9\u2074) = 6 \u00d7 10\u207b\u2077 m. Sound wavelength: 340 \u00f7 100 = 3.4 m. Light's tiny wavelength allows it to interact with small lenses without significant diffraction. Sound's large wavelength causes it to diffract around objects, preventing it from being focused by a normal lens. Wavelength determines how much diffraction occurs.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "765f79c0-0bee-466a-b510-5020ecea9ff1"
+}
