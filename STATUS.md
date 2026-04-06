@@ -314,11 +314,22 @@
 - Total questions: 2,807 (up from 2,685)
 - All 99 difficulty/subtopic slots now have ≥27 questions each
 
-## Statistics (Session 27 — CURRENT)
-- **Total questions (JSON files)**: 2,807
+### Session 28 (agent — 2026-04-06)
+- Rebuilt DB from 2,807 committed question JSON files (all 99 slots at ≥27 each)
+- Identified weakest subtopics: matter.gas_pressure=81, matter.states=81, matter.particles=82,
+  space.earth_moon=83, space.gravity=83, waves.colour=84, waves.light=85
+- Generated **90 new questions** in 3 batches targeting all 6 weakest subtopics:
+  - Batch 1 (30 q): matter.gas_pressure, matter.states, matter.particles (10 each)
+  - Batch 2 (30 q): space.earth_moon, space.gravity, waves.colour (10 each)
+  - Batch 3 (30 q): waves.light, waves.sound, matter.changes (10 each)
+- Total questions: 2,897 (up from 2,807)
+- All 99 difficulty/subtopic slots now have ≥27 questions each (minimum unchanged but coverage improved)
+
+## Statistics (Session 28 — CURRENT)
+- **Total questions (JSON files)**: 2,897
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~935, medium ~935, hard ~935 (all >= 50)
+- **By difficulty**: easy ~964, medium ~968, hard ~965 (all >= 50)
 - **Min questions per subtopic**: ~81 (various)
 - **Min questions per difficulty+subtopic slot**: ~27
 - **Mean quality score**: ~4.70
