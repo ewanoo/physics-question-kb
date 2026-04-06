@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the speed of sound in air at room temperature?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "speed of sound",
+    "properties of sound",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Approximately 330 m/s",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Approximately 3,300 m/s",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Approximately 33 m/s",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Approximately 3,000,000 m/s",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Sound travels at approximately 330 m/s (or about 340 m/s) through air at room temperature. This is much slower than light but much faster than typical human walking speed. The other options are either too slow or far too fast.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "96e2c84d-9632-4c64-8e21-5de4ac31b86d"
+}

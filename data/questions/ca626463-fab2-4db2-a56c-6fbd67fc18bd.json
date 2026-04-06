@@ -1,0 +1,17 @@
+{
+  "question_text": "What does the law of conservation of energy state?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy conservation",
+    "fundamental principle",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Energy cannot be created or destroyed, only transferred or transformed from one form to another",
+  "explanation": "The law of conservation of energy is a fundamental physics principle taught in Year 8. It means the total amount of energy in a closed system always stays the same, even though energy can change from one type to another (like gravitational potential energy becoming kinetic energy as something falls).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ca626463-fab2-4db2-a56c-6fbd67fc18bd"
+}

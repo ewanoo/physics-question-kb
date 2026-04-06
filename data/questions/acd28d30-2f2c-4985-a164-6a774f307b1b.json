@@ -1,0 +1,18 @@
+{
+  "question_text": "An electromagnet is made by connecting a coil of wire to a 6V battery. The electromagnet picks up 12 metal paperclips. If the battery is replaced with a 12V battery (keeping everything else the same), how many paperclips would you expect the electromagnet to pick up? Explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "voltage",
+    "current",
+    "magnetic strength"
+  ],
+  "options": null,
+  "correct_answer": "More than 12 paperclips (accept: approximately 24, or more, or stronger electromagnet). Higher voltage causes greater current to flow through the coil, which creates a stronger magnetic field.",
+  "explanation": "Doubling the voltage from 6V to 12V roughly doubles the current flowing through the wire coil. A stronger current produces a stronger magnetic field, so the electromagnet can pick up more paperclips. The answer should indicate more paperclips and recognise the link between voltage, current, and magnetic strength.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "acd28d30-2f2c-4985-a164-6a774f307b1b"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Calculate the current flowing through a circuit when a 12V power supply is connected to a resistor with a resistance of 4\u03a9. Use the formula: Current (I) = Voltage (V) \u00f7 Resistance (R). Give your answer in amperes (A).",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "Ohm's law",
+    "current calculation",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "3A",
+  "explanation": "Using Ohm's law, I = V \u00f7 R, we substitute the values: I = 12V \u00f7 4\u03a9 = 3A. This is a straightforward application of the formula that Year 8 students learn to apply in circuit problems.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d46f28c1-ed7a-4015-93cf-337d001755f4"
+}

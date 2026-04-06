@@ -1,0 +1,17 @@
+{
+  "question_text": "A permanent magnet has a north pole and a south pole. Two magnets are pushed towards each other with their north poles facing each other. Describe what you would observe and explain why this happens.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "magnetic poles",
+    "repulsion"
+  ],
+  "options": null,
+  "correct_answer": "The magnets would repel (push away from) each other. This happens because like poles (both north poles) repel each other. Opposite poles attract, but like poles always repel.",
+  "explanation": "This tests understanding of the fundamental rule of magnetic forces: like poles repel and opposite poles attract. Students should observe the repulsive force and explain it using the rule about pole interactions, which is core Year 8 magnetism knowledge.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a697d076-ee11-43a1-a957-7966ef0f3617"
+}

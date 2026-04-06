@@ -1,0 +1,17 @@
+{
+  "question_text": "A student builds an electromagnet using a 6V battery, a 30cm wire coil with 50 turns, and an iron core. She tests the electromagnet by counting how many paperclips it can pick up. First test: 24 paperclips. She then decides to improve the electromagnet by doubling the number of turns to 100 while keeping everything else the same. Based on the relationship between coil turns and magnetic strength, estimate how many paperclips the improved electromagnet should pick up, and explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "coil turns",
+    "proportional relationships"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 48 paperclips (or between 40-50); because magnetic strength increases proportionally with the number of turns in the coil, doubling the turns should double the pulling force.",
+  "explanation": "The strength of an electromagnet is directly proportional to the number of turns in the coil. If you double the turns from 50 to 100 (keeping voltage and core material constant), the magnetic field strength approximately doubles. Therefore, the electromagnet should pick up roughly twice as many paperclips (24 \u00d7 2 = 48). This tests understanding of how variables affect electromagnet performance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "66157068-b72f-4852-952f-611ac94bcf27"
+}

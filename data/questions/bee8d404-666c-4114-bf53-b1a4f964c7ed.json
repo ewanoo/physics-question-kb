@@ -1,0 +1,18 @@
+{
+  "question_text": "What is density?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "definition",
+    "density",
+    "mass",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "Density is the mass of a substance per unit volume, or how much mass is packed into a certain volume.",
+  "explanation": "Density describes how tightly packed the particles of a material are. It tells us how much mass (measured in grams or kilograms) is contained in a fixed volume (measured in cm\u00b3 or m\u00b3). Materials with more densely packed particles have higher density.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "bee8d404-666c-4114-bf53-b1a4f964c7ed"
+}

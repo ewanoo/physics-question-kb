@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following materials has the lowest density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "materials",
+    "comparison",
+    "states of matter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Water",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Iron",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Concrete",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Air is a gas with particles that are very far apart, so it has an extremely low density compared to liquids and solids. Water, iron, and concrete are much denser because their particles are closer together. Gases always have lower density than liquids and solids.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "dc539423-4c38-4cf0-97a1-791b9a9f5385"
+}

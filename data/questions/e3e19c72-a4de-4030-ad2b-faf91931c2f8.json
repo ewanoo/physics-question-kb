@@ -1,0 +1,38 @@
+{
+  "question_text": "A student builds a circuit with a 6V battery, a lamp, and a variable resistor. When they increase the resistance of the variable resistor, what happens to the current flowing through the circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "resistance",
+    "current",
+    "Ohm's law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The current increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The current decreases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The current stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The current changes direction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Resistance and current are inversely related: as resistance increases, current decreases. This follows Ohm's law (I = V \u00f7 R). Since the battery voltage stays constant, increasing resistance means less current can flow through the circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e3e19c72-a4de-4030-ad2b-faf91931c2f8"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A student makes an electromagnet by wrapping wire around an iron nail and connecting it to a battery. She then wraps the same wire around the nail 50 more times. What effect will adding more coils have on the electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnets",
+    "coils",
+    "magnetic strength"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The electromagnet will become weaker because the wire is thinner",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The electromagnet will become stronger because there are more coils to create a magnetic field",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The electromagnet will stay the same strength because the battery voltage hasn't changed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The electromagnet will stop working because too much wire will overheat",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Adding more coils to an electromagnet increases the number of loops the current flows through, which creates a stronger magnetic field. Each coil contributes to the overall magnetism, so more coils means a stronger electromagnet.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "210b930a-1800-4bd8-978e-13ce29f0f44d"
+}

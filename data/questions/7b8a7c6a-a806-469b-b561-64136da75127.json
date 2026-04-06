@@ -1,0 +1,38 @@
+{
+  "question_text": "What does energy efficiency measure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "definition",
+    "energy transfer",
+    "useful energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How much energy is wasted as heat",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The ratio of useful energy output to total energy input",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The total amount of energy used by a device",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How quickly a device transfers energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Energy efficiency compares how much useful energy a device produces to how much total energy it uses. A more efficient device wastes less energy (often as heat) and converts a larger fraction of input energy into useful work.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7b8a7c6a-a806-469b-b561-64136da75127"
+}

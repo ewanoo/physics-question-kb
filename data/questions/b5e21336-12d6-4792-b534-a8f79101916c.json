@@ -1,0 +1,18 @@
+{
+  "question_text": "A student sets up a circuit with a 6V battery connected to a variable resistor and an ammeter. When the resistance is 12\u03a9, the ammeter reads 0.5A. The student then changes the resistor to 24\u03a9. Using Ohm's law (V = I \u00d7 R), calculate the new current and explain why it has changed.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "resistance",
+    "current calculation",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "0.25A. The voltage stays at 6V (the battery hasn't changed), but resistance doubled from 12\u03a9 to 24\u03a9. Using V = I \u00d7 R, rearranged as I = V \u00f7 R, we get I = 6 \u00f7 24 = 0.25A. Current is inversely proportional to resistance, so when resistance doubles, current halves.",
+  "explanation": "This requires students to apply Ohm's law in two stages: first recognising that voltage remains constant, then calculating the new current and explaining the inverse relationship between current and resistance\u2014a key concept at Year 8.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b5e21336-12d6-4792-b534-a8f79101916c"
+}

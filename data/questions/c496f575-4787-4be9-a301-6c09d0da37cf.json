@@ -1,0 +1,39 @@
+{
+  "question_text": "Two circuits are set up identically with the same battery and bulb. In Circuit A, one long wire is used to connect the components. In Circuit B, a shorter thicker wire is used. Both circuits work, but the bulb in Circuit B is noticeably brighter. Which statement best explains this observation?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "resistance",
+    "wire properties",
+    "current flow",
+    "circuit design"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The thicker wire has lower resistance, so less current flows through it, making the bulb brighter.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The shorter thicker wire has lower resistance, so more current flows through the circuit, making the bulb brighter.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The longer wire produces more voltage, so the bulb receives more power and glows brighter.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Thicker wires always carry more current regardless of resistance, which increases the brightness.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Wire resistance depends on both length and thickness: longer wires have higher resistance, and thicker wires have lower resistance. The shorter thicker wire has less total resistance than the long thin wire, so more current flows through the whole circuit, delivering more power to the bulb and making it brighter. This requires understanding resistance properties at Year 8 level.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c496f575-4787-4be9-a301-6c09d0da37cf"
+}

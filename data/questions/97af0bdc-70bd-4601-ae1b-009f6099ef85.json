@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following materials is magnetic and can be attracted to a magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnets",
+    "magnetic materials",
+    "properties of materials"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Plastic",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Iron",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Rubber",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Wood",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Iron is a ferromagnetic material, which means it is strongly attracted to magnets. Plastic, rubber, and wood are non-magnetic materials and are not attracted to magnets.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "97af0bdc-70bd-4601-ae1b-009f6099ef85"
+}

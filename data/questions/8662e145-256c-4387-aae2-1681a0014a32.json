@@ -1,0 +1,38 @@
+{
+  "question_text": "A student sets up an electromagnet by wrapping wire around an iron nail and connecting it to a battery. When the switch is closed, the electromagnet picks up some paper clips. What would happen to the number of paper clips picked up if the student wrapped the wire around the nail twice as many times?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "magnetic field strength",
+    "coil turns"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Fewer paper clips would be picked up because the wire would be thinner.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "More paper clips would be picked up because the magnetic field would be stronger.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The same number of paper clips would be picked up because the battery voltage stays the same.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "No paper clips would be picked up because the resistance would be too high.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An electromagnet's strength depends on the number of coils of wire wrapped around the iron core. More turns in the coil create a stronger magnetic field, so more paper clips can be picked up. This is a key principle of electromagnet design used in Year 8 physics.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8662e145-256c-4387-aae2-1681a0014a32"
+}

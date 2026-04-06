@@ -1,0 +1,17 @@
+{
+  "question_text": "Define what is meant by the frequency of a sound wave.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "wave properties",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Frequency is the number of complete waves (or vibrations/oscillations) produced per second.",
+  "explanation": "Frequency measures how many wave cycles pass a point in one second. It is measured in hertz (Hz). Higher frequency sounds are higher pitched, while lower frequency sounds are lower pitched. This is a key property of any wave, not just sound.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4ea14468-2379-4e9b-8758-1e2cbf7a5886"
+}

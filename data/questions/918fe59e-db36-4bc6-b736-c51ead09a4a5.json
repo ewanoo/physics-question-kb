@@ -1,0 +1,17 @@
+{
+  "question_text": "What is electric current?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "definition",
+    "charge flow"
+  ],
+  "options": null,
+  "correct_answer": "Electric current is the flow of charge (or electrons) through a circuit.",
+  "explanation": "Current is defined as moving electric charge. In a circuit, electrons flow from the negative terminal of a power source through the circuit to the positive terminal, and this movement of charge is what we call electric current.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "918fe59e-db36-4bc6-b736-c51ead09a4a5"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes what weight is?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravity",
+    "force definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The amount of matter in an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gravitational force acting on an object",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "How heavy an object feels when you hold it",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which an object falls",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Weight is the gravitational force pulling on an object, usually measured in newtons (N). Option A describes mass, option C is vague, and option D describes acceleration\u2014only option B correctly defines weight as a force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c5297c11-ed03-439f-bc57-86794399a38d"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the name of the region around a magnet where magnetic force can be detected?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnets",
+    "magnetic field",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "magnetic field",
+  "explanation": "A magnetic field is the invisible area of space around a magnet where its magnetic force can be felt. This field is strongest at the poles of the magnet and gets weaker further away.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "db29f5a1-1ffe-4fe5-8966-e6e55c6dd271"
+}

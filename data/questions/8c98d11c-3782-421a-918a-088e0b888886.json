@@ -1,0 +1,38 @@
+{
+  "question_type": "multiple_choice",
+  "question_text": "Which unit is used to measure electric current?",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "units",
+    "measurement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Volts (V)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Amperes (A)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Watts (W)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Joules (J)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The ampere (A), often called an amp, is the standard unit for measuring electric current. Volts measure voltage, watts measure power, and joules measure energy, so these are incorrect.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8c98d11c-3782-421a-918a-088e0b888886"
+}

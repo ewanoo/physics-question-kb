@@ -1,0 +1,39 @@
+{
+  "question_text": "Three identical electromagnets (A, B, and C) are set up with different configurations:\n- Electromagnet A: 12V battery, 100-turn coil, soft iron core\n- Electromagnet B: 6V battery, 100-turn coil, soft iron core\n- Electromagnet C: 12V battery, 50-turn coil, soft iron core\n\nWhich electromagnet will produce the strongest magnetic field, and which factors explain this?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet variables",
+    "voltage",
+    "turns",
+    "comparative analysis"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Electromagnet A because it has both the highest voltage and the most turns",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Electromagnet B because it uses the most efficient voltage for electromagnets",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Electromagnet C because 12V is more important than the number of turns",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All three electromagnets will be equally strong because they use the same core material",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Electromagnet A is strongest because magnetic field strength depends on two key factors: voltage (which increases current through the coil) and number of turns. Electromagnet A has both advantages\u201412V instead of 6V and 100 turns instead of 50. Option B is incorrect because there's no 'most efficient' voltage in this context; higher voltage means more current and stronger field. Option C wrongly prioritizes voltage over turns. Option D ignores that voltage and turns both matter.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "279058fe-0e4f-46d7-971f-61979c098e02"
+}

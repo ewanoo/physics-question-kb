@@ -1,0 +1,17 @@
+{
+  "question_text": "A circuit contains a 12V battery, a switch, and three components arranged as follows: a 4\u03a9 resistor in series with the battery, then two parallel branches\u2014one with a 6\u03a9 resistor and one with a 3\u03a9 resistor. What is the total current (in amps) drawn from the battery?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "combined series-parallel circuits",
+    "Ohm's law",
+    "total resistance"
+  ],
+  "options": null,
+  "correct_answer": "2A",
+  "explanation": "First find the resistance of the parallel section: 1/R_parallel = 1/6 + 1/3 = 1/6 + 2/6 = 3/6, so R_parallel = 2\u03a9. Then add the series resistor: total resistance = 4 + 2 = 6\u03a9. Finally use Ohm's law: I = V/R = 12/6 = 2A.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "aa387f41-107e-4099-bdd1-d4a1c72c52d3"
+}
