@@ -1,0 +1,17 @@
+{
+  "question_text": "Two identical shopping trolleys are being pushed across a supermarket floor. Trolley A experiences a forward push of 120 N and friction of 40 N. Trolley B experiences a forward push of 100 N and friction of 30 N. Which trolley has the greater resultant force, and by how much?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "friction",
+    "comparing forces"
+  ],
+  "options": null,
+  "correct_answer": "Trolley A has the greater resultant force. Trolley A: 120 \u2212 40 = 80 N; Trolley B: 100 \u2212 30 = 70 N. Difference = 80 \u2212 70 = 10 N.",
+  "explanation": "To find the resultant force, subtract the opposing friction force from the applied force. Trolley A's resultant is 80 N and Trolley B's is 70 N, so Trolley A has 10 N more resultant force. This means Trolley A will accelerate faster than Trolley B, even though it is being pushed with less force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c652dc37-c582-4446-ba96-8b80d6ed3a6a"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "In a Sankey diagram, what do the widths of the arrows represent?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "Sankey diagram",
+    "energy transfer",
+    "energy representation"
+  ],
+  "options": null,
+  "correct_answer": "The width of the arrows represents the amount of energy being transferred.",
+  "explanation": "In a Sankey diagram, wider arrows show larger amounts of energy, while narrower arrows show smaller amounts of energy. This makes it easy to see at a glance how much energy is transferred in different ways.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "baad2f20-9cc3-4f5d-a123-f4e6abb2fa69"
+}

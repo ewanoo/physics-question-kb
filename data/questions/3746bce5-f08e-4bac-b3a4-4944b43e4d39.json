@@ -1,0 +1,17 @@
+{
+  "question_text": "A car engine produces 2000 N of driving force. When the car travels on a wet road, friction between the tyres and road is 1200 N. On a dry road, friction is 1600 N. Calculate the net force and acceleration on each road surface if the car's mass is 1000 kg. Which road surface allows greater acceleration?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "net force",
+    "friction calculation",
+    "comparing scenarios"
+  ],
+  "options": null,
+  "correct_answer": "Wet road: net force = 2000 - 1200 = 800 N; acceleration = 800 \u00f7 1000 = 0.8 m/s\u00b2. Dry road: net force = 2000 - 1600 = 400 N; acceleration = 400 \u00f7 1000 = 0.4 m/s\u00b2. The wet road allows greater acceleration (0.8 m/s\u00b2 > 0.4 m/s\u00b2).",
+  "explanation": "Although wet roads have lower friction, the difference between driving force and friction is larger on the wet road (800 N vs 400 N), resulting in greater net force and acceleration. This seems counterintuitive but the driving force of 2000 N is much larger than the friction values.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3746bce5-f08e-4bac-b3a4-4944b43e4d39"
+}

@@ -1,0 +1,16 @@
+{
+  "question_text": "Define Pascal's principle in the context of pressure in fluids.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Pascal's principle",
+    "pressure transmission"
+  ],
+  "options": null,
+  "correct_answer": "Pressure applied to a fluid in a sealed container is transmitted equally in all directions.",
+  "explanation": "Pascal's principle explains why hydraulic systems work\u2014when you push on one part of a fluid, the pressure spreads throughout the entire fluid uniformly, allowing forces to be transmitted and multiplied.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "bfea0822-fb66-49b2-aa8c-b5182f3d219f"
+}

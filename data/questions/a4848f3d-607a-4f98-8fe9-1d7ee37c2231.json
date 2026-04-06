@@ -1,0 +1,38 @@
+{
+  "question_text": "A skydiver reaches terminal velocity during free fall. At this point, which of the following is true about the forces acting on the skydiver?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "air resistance",
+    "terminal velocity",
+    "balanced forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Air resistance equals weight, the net force is zero, and acceleration is zero.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Weight is greater than air resistance, so the skydiver continues to accelerate downwards.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Air resistance is greater than weight, so the skydiver accelerates upwards.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is no air resistance at terminal velocity, only the force of gravity.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Terminal velocity is reached when air resistance (a friction force from moving through air) equals the gravitational force, making the net force zero. With zero net force, the skydiver stops accelerating and falls at constant velocity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a4848f3d-607a-4f98-8fe9-1d7ee37c2231"
+}

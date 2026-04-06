@@ -1,0 +1,18 @@
+{
+  "question_text": "A physics student compares two scenarios: Scenario 1 has a resultant force of 0 N on a moving object; Scenario 2 has a resultant force of 20 N on a stationary object. The student claims both objects are in equilibrium. Is this correct? Explain your reasoning using Newton's laws.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "equilibrium",
+    "Newton's first law",
+    "resultant force",
+    "conceptual understanding"
+  ],
+  "options": null,
+  "correct_answer": "Only Scenario 1 is in equilibrium. Equilibrium requires resultant force = 0 N. Scenario 1 satisfies this (object moves at constant velocity); Scenario 2 does not (20 N resultant will cause acceleration). By Newton's first law, Scenario 2 is unbalanced.",
+  "explanation": "Equilibrium is defined by a zero resultant force, which can occur whether an object is moving or stationary. Scenario 1 is correct: zero resultant means the object maintains constant velocity (or stays at rest). Scenario 2 is incorrect: a 20 N resultant force is unbalanced and will cause acceleration according to Newton's second law (F = ma).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ba201b7d-0291-40e1-856a-b94dfd1b202b"
+}

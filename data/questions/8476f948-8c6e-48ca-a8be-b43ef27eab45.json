@@ -1,0 +1,17 @@
+{
+  "question_text": "Explain what is meant by 'wasted energy' in the context of energy transfer.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "wasted energy",
+    "energy transfer",
+    "efficiency"
+  ],
+  "options": null,
+  "correct_answer": "Wasted energy is energy that is transferred to places where it is not wanted or useful, such as heat lost to the surroundings or sound produced by a machine.",
+  "explanation": "Wasted energy is not destroyed (because energy cannot be destroyed), but it is transferred in ways that we do not want. For example, friction causes some energy to become heat, which spreads into the surroundings instead of doing useful work.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8476f948-8c6e-48ca-a8be-b43ef27eab45"
+}

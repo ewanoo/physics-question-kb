@@ -1,0 +1,17 @@
+{
+  "question_text": "A 2 kg object is lifted 3 metres vertically. Calculate its gravitational potential energy gain. Then explain why this energy stored in the object is important when it falls back down.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational potential energy",
+    "Ep=mgh",
+    "energy conversion"
+  ],
+  "options": null,
+  "correct_answer": "Ep = mgh = 2 \u00d7 10 \u00d7 3 = 60 J. This stored energy converts to kinetic energy as the object falls, allowing it to do work or cause damage upon impact.",
+  "explanation": "Use the formula Ep = mgh where m = 2 kg, g = 10 N/kg, and h = 3 m, giving Ep = 60 J. This gravitational potential energy is important because it represents the energy available to be converted into kinetic energy and motion as the object falls.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a028de19-7fb1-482d-aa73-6a731d462488"
+}

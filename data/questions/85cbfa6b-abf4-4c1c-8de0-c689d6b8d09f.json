@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best describes the law of conservation of energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "fundamental law",
+    "energy definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Energy can be created when we burn fuel",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Energy cannot be created or destroyed, only transferred or transformed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Energy always stays in the same form",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy disappears when machines stop working",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The law of conservation of energy states that energy cannot be created or destroyed, but it can be transferred from one place to another or transformed from one form to another. This is a fundamental law of physics.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "85cbfa6b-abf4-4c1c-8de0-c689d6b8d09f"
+}

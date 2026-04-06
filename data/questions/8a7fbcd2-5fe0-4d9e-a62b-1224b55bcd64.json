@@ -1,0 +1,17 @@
+{
+  "question_text": "Two identical boxes are pushed across different surfaces at the same speed: Box A across sandpaper, Box B across a polished marble floor. The same 30 N force is applied to each box. Explain why the boxes will have different accelerations, and predict which will accelerate more. (Ignore air resistance.)",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction factors",
+    "surface texture",
+    "net force"
+  ],
+  "options": null,
+  "correct_answer": "The sandpaper has a rougher surface, creating greater friction than the polished marble. Box B (on marble) experiences less friction, so the net force is greater and it accelerates more. Box A experiences more friction, reducing the net force and its acceleration.",
+  "explanation": "The roughness of a surface is a key factor affecting friction\u2014rougher surfaces create more friction than smooth ones. Since both boxes experience the same applied force but different friction forces, their net forces and accelerations will differ.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8a7fbcd2-5fe0-4d9e-a62b-1224b55bcd64"
+}

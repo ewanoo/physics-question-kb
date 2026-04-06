@@ -1,0 +1,18 @@
+{
+  "question_text": "A skydiver with a total mass of 100 kg (including equipment) jumps from a plane. At the moment they jump, their acceleration is 10 m/s\u00b2. What is their weight, and why is their acceleration not exactly 10 m/s\u00b2 downward?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "air resistance",
+    "net force",
+    "acceleration"
+  ],
+  "options": null,
+  "correct_answer": "Weight = 1000 N. Acceleration is not 10 m/s\u00b2 because air resistance acts upward, reducing the net downward force and therefore the acceleration below 10 m/s\u00b2.",
+  "explanation": "Weight = mg = 100 \u00d7 10 = 1000 N. At the moment of jumping, air resistance is small but still acts upward, opposing the downward gravitational force, so the net force is less than the weight alone, giving an acceleration slightly less than 10 m/s\u00b2.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6ecb35b6-868f-4691-b214-084cfe254b9a"
+}

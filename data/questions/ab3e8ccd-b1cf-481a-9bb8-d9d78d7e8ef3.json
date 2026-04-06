@@ -1,0 +1,38 @@
+{
+  "question_text": "A light bulb converts electrical energy into light and heat. Which of these is the useful energy output?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "useful energy",
+    "wasted energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The heat produced",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The light produced",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "All the energy is equally useful",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The energy lost to the surroundings",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "For a light bulb used for lighting, the useful energy is the light it produces. The heat energy released is considered wasted energy because it is not what we want the light bulb to do.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ab3e8ccd-b1cf-481a-9bb8-d9d78d7e8ef3"
+}

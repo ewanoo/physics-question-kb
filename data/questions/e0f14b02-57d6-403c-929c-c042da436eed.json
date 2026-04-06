@@ -1,0 +1,17 @@
+{
+  "question_text": "A student investigates how the mass of a box affects friction. She measures the force needed to pull boxes of different masses across the same wooden table at constant speed. She predicts that a box with twice the mass will require twice the force. Evaluate this prediction and explain the physics principle behind it.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "factors affecting friction",
+    "mass and friction",
+    "proportional relationships"
+  ],
+  "options": null,
+  "correct_answer": "The prediction is correct. Friction is proportional to the normal force (the force pushing the surfaces together). When mass doubles, the normal force doubles, so friction doubles. Therefore, twice the force is needed to overcome friction and maintain constant speed.",
+  "explanation": "Friction depends on the normal force between surfaces, not directly on mass. However, on a horizontal surface, normal force equals weight, which is directly proportional to mass. Doubling the mass doubles the weight and therefore doubles the friction force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e0f14b02-57d6-403c-929c-c042da436eed"
+}

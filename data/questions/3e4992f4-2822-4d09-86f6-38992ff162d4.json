@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement best explains why oil is used as a lubricant between moving metal parts in an engine?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "lubrication",
+    "reducing friction",
+    "properties of lubricants"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Oil creates a slippery layer between surfaces so they do not directly touch, reducing friction and heat produced.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Oil makes metal harder and stronger, so friction cannot affect the metal parts.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Oil absorbs all friction, converting it into sound instead of heat.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Oil reduces the mass of the metal parts, which automatically decreases friction.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Lubrication works by creating a thin film between surfaces, preventing direct contact and greatly reducing friction. This is why engines require regular oil changes\u2014without this protective layer, friction would damage the engine.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3e4992f4-2822-4d09-86f6-38992ff162d4"
+}

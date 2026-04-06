@@ -1,0 +1,16 @@
+{
+  "question_text": "What is atmospheric pressure?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric pressure",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "The pressure exerted by the weight of air in the atmosphere pushing down on Earth's surface.",
+  "explanation": "Atmospheric pressure is caused by all the air molecules above us colliding with surfaces and each other. At sea level, this pressure is about 101,000 Pa (or 1 atmosphere).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "75295595-4a23-4505-8686-a233551b932c"
+}

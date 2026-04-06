@@ -1,0 +1,17 @@
+{
+  "question_text": "What happens to the total energy of a closed system when energy transfers occur?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "conservation of energy",
+    "closed system",
+    "total energy"
+  ],
+  "options": null,
+  "correct_answer": "The total energy of a closed system remains constant (stays the same). Energy is only transferred or transformed from one form to another.",
+  "explanation": "In a closed system (one where no energy enters or leaves from outside), the total amount of energy cannot change. It can change form or be transferred between objects, but the sum of all energy in the system stays the same.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "44bdd1da-c96e-4205-9674-b27539284919"
+}

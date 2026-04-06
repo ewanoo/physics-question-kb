@@ -1,0 +1,18 @@
+{
+  "question_text": "An astronaut with a mass of 80 kg travels from Earth (g = 10 N/kg) to the Moon (g = 1.6 N/kg). Calculate the change in the astronaut's weight between Earth and the Moon.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravitational field strength",
+    "W=mg",
+    "different planets"
+  ],
+  "options": null,
+  "correct_answer": "640 N (or: weight on Earth = 800 N, weight on Moon = 128 N, difference = 672 N if using g = 10 N/kg for Earth)",
+  "explanation": "Use W = mg for both locations: on Earth, W = 80 \u00d7 10 = 800 N; on the Moon, W = 80 \u00d7 1.6 = 128 N. The change is 800 \u2212 128 = 672 N. The astronaut's mass stays the same (80 kg) but weight changes because gravitational field strength is different.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f6be4630-f7ef-4d09-836a-87c49fe4671c"
+}

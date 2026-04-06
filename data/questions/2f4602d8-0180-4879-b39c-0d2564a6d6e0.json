@@ -1,0 +1,18 @@
+{
+  "question_text": "A book is resting on a table. The book has a weight of 15 N. A student draws a free body diagram and marks four forces: weight downward (15 N), normal force upward (15 N), air resistance leftward (0.5 N), and tension rightward (0.5 N). The student concludes the book is in equilibrium. Evaluate this conclusion by calculating the resultant force and explaining whether the book could actually be moving.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "equilibrium",
+    "free body diagrams",
+    "Newton's first law"
+  ],
+  "options": null,
+  "correct_answer": "The resultant force is 0 N (vertical: 15 \u2212 15 = 0; horizontal: 0.5 \u2212 0.5 = 0). The book is in equilibrium, which means it could be stationary or moving at constant velocity. Without knowing the initial state, we cannot determine whether it is moving.",
+  "explanation": "For a body to be in equilibrium, the resultant force must be zero in all directions. Here, vertical forces balance (15 N up = 15 N down) and horizontal forces balance (0.5 N left = 0.5 N right), so resultant = 0 N. Newton's first law states that balanced forces mean an object maintains its current state\u2014either at rest or moving at constant velocity. The diagram alone cannot tell us which.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2f4602d8-0180-4879-b39c-0d2564a6d6e0"
+}

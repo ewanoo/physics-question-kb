@@ -1,0 +1,18 @@
+{
+  "question_text": "Compare the motion of two identical balls dropped from the same height: one in Earth's atmosphere (with air resistance) and one on the Moon (with no atmosphere). Describe the differences in their motion and explain why these differences occur.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "terminal velocity",
+    "air resistance",
+    "gravitational field strength",
+    "different planets"
+  ],
+  "options": null,
+  "correct_answer": "On Earth, the ball accelerates initially, then air resistance increases until terminal velocity is reached. On the Moon, the ball accelerates uniformly at 1.6 m/s\u00b2 with no air resistance and no terminal velocity. The Moon's lower gravity causes slower acceleration, and the absence of atmosphere means no air resistance.",
+  "explanation": "On Earth, air resistance increases with speed, eventually balancing weight to produce terminal velocity. On the Moon, there is no atmosphere for air resistance, so the ball accelerates uniformly, but at a much lower rate (1.6 m/s\u00b2) because the Moon's gravitational field strength is much weaker than Earth's (10 N/kg).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "20f9c23a-2230-49aa-8d2c-4667210df929"
+}

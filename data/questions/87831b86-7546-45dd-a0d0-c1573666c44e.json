@@ -1,0 +1,17 @@
+{
+  "question_text": "A racing cyclist uses three methods to reduce friction and air resistance: wearing a streamlined helmet, using smooth tyres, and adopting a crouched riding position. Which of these primarily reduces friction between components, and which reduces air resistance?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "air resistance",
+    "streamlining",
+    "real-world applications"
+  ],
+  "options": null,
+  "correct_answer": "Smooth tyres reduce friction between the tyre and road; the streamlined helmet and crouched position reduce air resistance. (Accept: the helmet and body position are streamlined to reduce air resistance; smooth tyres reduce surface friction.)",
+  "explanation": "Friction acts between surfaces in contact (tyres and road), while air resistance is a type of friction from moving through a fluid. Streamlining reduces air resistance by reducing the surface area pushing against the air.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "87831b86-7546-45dd-a0d0-c1573666c44e"
+}

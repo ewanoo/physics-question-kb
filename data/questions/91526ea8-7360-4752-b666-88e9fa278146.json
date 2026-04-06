@@ -1,0 +1,17 @@
+{
+  "question_text": "A wooden box is being pushed across a carpet. The box requires 50 N of force to start moving from rest, but only 35 N of force to keep it moving at constant speed. Explain why different amounts of force are needed, and identify which type of friction is acting in each case.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "static friction",
+    "dynamic friction",
+    "comparing friction types"
+  ],
+  "options": null,
+  "correct_answer": "50 N overcomes static friction (which is stronger and acts when the box is stationary); 35 N overcomes dynamic/kinetic friction (which is weaker and acts when the box is already moving). Static friction is greater than dynamic friction.",
+  "explanation": "Static friction prevents an object from starting to move and is always stronger than the kinetic friction that acts once the object is sliding. This is why more force is needed to start the box moving than to keep it moving.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "91526ea8-7360-4752-b666-88e9fa278146"
+}

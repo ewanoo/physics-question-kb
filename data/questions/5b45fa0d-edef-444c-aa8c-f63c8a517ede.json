@@ -1,0 +1,18 @@
+{
+  "question_text": "Two forces act on a box: one pulling it right at 180 N and one pulling it left at 150 N. A third force pulls at an angle. In which direction must the third force pull, and with what minimum magnitude, to bring the box into equilibrium?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "resultant force",
+    "equilibrium",
+    "vector forces",
+    "problem-solving"
+  ],
+  "options": null,
+  "correct_answer": "The third force must pull to the left with a minimum magnitude of 30 N. This balances the resultant of the first two forces (180 \u2212 150 = 30 N to the right).",
+  "explanation": "The first two forces produce a resultant of 30 N to the right (180 \u2212 150). To achieve equilibrium (resultant = 0 N), the third force must be equal and opposite to this resultant, so it must be 30 N to the left. Any direction other than directly left would require a larger magnitude force.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5b45fa0d-edef-444c-aa8c-f63c8a517ede"
+}

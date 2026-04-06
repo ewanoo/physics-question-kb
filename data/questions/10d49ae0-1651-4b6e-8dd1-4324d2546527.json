@@ -1,0 +1,38 @@
+{
+  "question_text": "A 500 g ball is dropped from a tall building and eventually reaches terminal velocity. Which statement best explains why the ball stops accelerating?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "terminal velocity",
+    "air resistance",
+    "forces balance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity stops acting on the ball once it reaches a certain speed",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The upward air resistance force becomes equal to the downward gravitational force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The ball's mass decreases as it falls through the air",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The gravitational field strength decreases with distance from Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "At terminal velocity, the net force on the ball becomes zero because air resistance (upward) equals weight (downward), so acceleration stops. Gravity continues to act on the ball throughout its fall, but it is balanced by air resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "10d49ae0-1651-4b6e-8dd1-4324d2546527"
+}

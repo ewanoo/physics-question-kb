@@ -1,0 +1,39 @@
+{
+  "question_text": "A crane lifts a steel beam vertically upward. The beam weighs 5000 N. Initially, the tension in the cable is 5000 N and the beam accelerates upward. After a few seconds, the tension becomes 5000 N and the beam moves at constant velocity. What does this change tell us about the forces and motion? Choose the best explanation.",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's second law",
+    "equilibrium",
+    "acceleration",
+    "tension"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The tension increased, so the beam accelerated faster.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The tension stayed the same, so the resultant force remained constant and acceleration continued.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "When tension equals weight, the resultant force is zero, so the beam stops accelerating and moves at constant velocity (equilibrium).",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The beam is no longer in contact with the ground, so friction no longer acts and the forces become unbalanced.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Initially, tension (5000 N up) exceeds weight (5000 N down), giving a net upward force that causes acceleration. When tension equals weight, the forces balance (resultant = 0 N), so by Newton's first law, the beam stops accelerating and moves at constant velocity. This is the definition of equilibrium.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b741720b-3492-4c4c-86a0-cbcdf5926bbe"
+}

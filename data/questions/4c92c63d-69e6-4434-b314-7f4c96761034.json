@@ -1,0 +1,18 @@
+{
+  "question_text": "A 3 kg ball is thrown upward with an initial velocity. At the highest point of its flight, what is the magnitude of the gravitational force acting on it, and what is its acceleration at that instant?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravitational force",
+    "acceleration",
+    "projectile motion"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational force (weight) = 30 N; acceleration = 10 m/s\u00b2 (downward). The velocity is zero at the highest point, but gravity and acceleration are not zero.",
+  "explanation": "Gravitational force is F = mg = 3 \u00d7 10 = 30 N, acting downward at all times, including at the highest point. Acceleration equals g = 10 m/s\u00b2 downward throughout the flight, even though velocity is momentarily zero at the top.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4c92c63d-69e6-4434-b314-7f4c96761034"
+}

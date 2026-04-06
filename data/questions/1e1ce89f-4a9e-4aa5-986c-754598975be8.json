@@ -1,0 +1,18 @@
+{
+  "question_text": "A swimmer is floating stationary in a swimming pool. The upward force from the water (buoyancy) is 600 N. A friend pushes the swimmer horizontally with a force of 250 N. The water exerts a horizontal resistance (drag) force. If the swimmer remains stationary after the push, what is the drag force, and what does this tell us about the resultant force?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "equilibrium",
+    "resultant force",
+    "balanced forces",
+    "free body diagram"
+  ],
+  "options": null,
+  "correct_answer": "The drag force is 250 N. The resultant force is 0 N in all directions. This means the swimmer is in equilibrium; all forces balance (vertically: buoyancy = weight; horizontally: push = drag).",
+  "explanation": "If the swimmer remains stationary (no acceleration), the forces must be balanced in every direction. Horizontally, the push (250 N) must equal the drag force (250 N) to give zero resultant. Vertically, buoyancy must equal weight. A zero resultant force means the swimmer maintains its state of rest, as predicted by Newton's first law.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1e1ce89f-4a9e-4aa5-986c-754598975be8"
+}

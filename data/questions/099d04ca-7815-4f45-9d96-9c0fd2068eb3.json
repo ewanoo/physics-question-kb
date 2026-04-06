@@ -1,0 +1,38 @@
+{
+  "question_text": "When a ball falls from a height, its gravitational potential energy is converted into what form of energy?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "kinetic energy",
+    "potential energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Thermal energy only",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electrical energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As a ball falls, its gravitational potential energy (energy due to its position) is converted into kinetic energy (energy of motion). This demonstrates energy transfer and conservation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "099d04ca-7815-4f45-9d96-9c0fd2068eb3"
+}

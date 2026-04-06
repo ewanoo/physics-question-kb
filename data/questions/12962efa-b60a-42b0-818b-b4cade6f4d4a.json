@@ -1,0 +1,37 @@
+{
+  "question_text": "Which statement correctly describes Boyle's Law?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's Law",
+    "pressure-volume relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "When volume increases, pressure increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "When volume decreases, pressure decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "When volume decreases, pressure increases",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Volume and pressure are unrelated",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Boyle's Law states that pressure and volume are inversely proportional\u2014when you compress a gas into a smaller volume, the particles collide with the walls more frequently, increasing the pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "12962efa-b60a-42b0-818b-b4cade6f4d4a"
+}

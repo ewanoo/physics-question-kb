@@ -1,0 +1,37 @@
+{
+  "question_text": "What happens to the pressure of a gas when its temperature increases in a sealed container?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "pressure-temperature relationship",
+    "gas laws"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure decreases",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Pressure increases",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Pressure becomes zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When temperature increases, gas particles move faster and collide with the container walls more forcefully and frequently, causing pressure to increase.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1b0b2660-d860-4dd1-9056-2e8bc27135c2"
+}

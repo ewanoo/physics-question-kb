@@ -1,0 +1,17 @@
+{
+  "question_text": "A kettl is connected to mains electricity and heats water. Name two forms of energy that the electrical energy is transferred into.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transfer",
+    "useful and wasted energy",
+    "thermal energy"
+  ],
+  "options": null,
+  "correct_answer": "Thermal energy (heat) in the water and thermal energy lost to the surroundings (or sound energy).",
+  "explanation": "The electrical energy is transferred mainly into thermal energy that heats the water (useful energy) and some is lost as heat to the air around the kettle or as sound when it boils (wasted energy). Both are still forms of energy that come from the original electrical energy.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a02755e6-cb7a-414e-b97e-cea82bf9f194"
+}

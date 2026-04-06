@@ -1,0 +1,16 @@
+{
+  "question_text": "Name two ways you can increase the pressure of a gas trapped in a sealed container.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "increasing pressure",
+    "gas laws"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: (1) Decrease the volume by compressing the gas; (2) Increase the temperature of the gas; (3) Add more gas particles to the container.",
+  "explanation": "Pressure increases when particles collide more frequently or with greater force. This happens when volume shrinks, temperature rises, or more particles are added\u2014all causing more collisions with the container walls.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a6d9ab6c-6fc8-49ea-8097-972dc20ef4cf"
+}

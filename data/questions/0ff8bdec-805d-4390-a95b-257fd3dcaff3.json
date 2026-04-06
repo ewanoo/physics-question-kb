@@ -1,0 +1,18 @@
+{
+  "question_text": "A car is towing a trailer along a motorway at constant speed. The car experiences a driving force of 2000 N from the engine and air resistance of 1200 N. The trailer experiences a tension force (pull) of 800 N from the tow bar and air resistance. If the trailer is also moving at constant speed, what is the air resistance acting on the trailer?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "equilibrium",
+    "resultant force",
+    "Newton's first law",
+    "systems of objects"
+  ],
+  "options": null,
+  "correct_answer": "The air resistance on the trailer is 800 N. Since the trailer moves at constant speed (equilibrium), the resultant force must be zero. Therefore, tension (800 N forward) must equal air resistance (800 N backward).",
+  "explanation": "A constant velocity means the object is in equilibrium and the resultant force is zero. For the trailer, the only forward force is tension (800 N), so the backward air resistance must also be 800 N to achieve balance. The car experiences: 2000 N \u2212 1200 N \u2212 800 N = 0 N resultant (it pulls the trailer with 800 N).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0ff8bdec-805d-4390-a95b-257fd3dcaff3"
+}

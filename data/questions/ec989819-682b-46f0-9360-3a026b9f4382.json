@@ -1,0 +1,38 @@
+{
+  "question_text": "Two objects have different masses but are dropped from the same height in a vacuum (no air resistance). Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass vs weight",
+    "falling objects",
+    "acceleration due to gravity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The heavier object will reach the ground first because it has greater weight",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both objects will hit the ground at the same time because they have the same acceleration due to gravity",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The lighter object will reach the ground first because it is less affected by air resistance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The object with greater gravitational potential energy will land first",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a vacuum, all objects fall with the same acceleration (10 m/s\u00b2) regardless of mass, so they take the same time to fall from the same height. Although the heavier object has greater weight, its greater inertia (mass) means the same gravitational field strength produces equal acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ec989819-682b-46f0-9360-3a026b9f4382"
+}
