@@ -1,0 +1,39 @@
+{
+  "question_text": "A sample contains three substances: sand, iron filings, and salt dissolved in water. Which method would be best to separate the iron filings from the mixture?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "separation methods",
+    "mixture",
+    "magnetic separation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Evaporation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Magnetic separation",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Filtration",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Distillation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Magnetic separation",
+  "explanation": "Iron filings are magnetic and can be attracted by a magnet, making magnetic separation the quickest and most efficient method. The other methods would not specifically target the iron or would separate different components.",
+  "quality_score": 5,
+  "id": "61bded18-23cb-4987-8a9f-5ea397cadcd3",
+  "source_name": "claude_generator",
+  "source_url": null
+}

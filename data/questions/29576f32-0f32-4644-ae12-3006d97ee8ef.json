@@ -1,0 +1,39 @@
+{
+  "question_text": "A student observes water droplets forming on the outside of a cold glass of juice. Which state change is occurring?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "condensation",
+    "state changes",
+    "cooling"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Melting",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Boiling",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Condensation",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Sublimation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Condensation",
+  "explanation": "Condensation occurs when a gas cools and changes into a liquid. The water vapour in the air around the cold glass loses heat and turns into liquid water droplets.",
+  "quality_score": 5,
+  "id": "29576f32-0f32-4644-ae12-3006d97ee8ef",
+  "source_name": "claude_generator",
+  "source_url": null
+}

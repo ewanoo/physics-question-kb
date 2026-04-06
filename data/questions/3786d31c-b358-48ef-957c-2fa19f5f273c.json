@@ -1,0 +1,39 @@
+{
+  "question_text": "What causes gas pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "particle collisions",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of gas particles pushing down",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gas particles colliding with the walls of a container",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The temperature of the gas molecules",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The colour of the gas in the container",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Gas particles colliding with the walls of a container",
+  "explanation": "Gas pressure is created when gas particles move randomly and collide with the walls of their container. Each collision exerts a tiny force, and millions of collisions per second create the pressure we measure.",
+  "quality_score": 5,
+  "id": "3786d31c-b358-48ef-957c-2fa19f5f273c",
+  "source_name": "claude_generator",
+  "source_url": null
+}

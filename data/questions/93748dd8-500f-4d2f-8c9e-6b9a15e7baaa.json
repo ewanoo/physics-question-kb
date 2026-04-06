@@ -1,0 +1,18 @@
+{
+  "question_text": "A block of copper has a mass of 200 g and a volume of 22.4 cm\u00b3. What is the density of copper?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "density",
+    "calculation",
+    "properties of matter"
+  ],
+  "options": null,
+  "correct_answer": "8.93 g/cm\u00b3",
+  "explanation": "Density is calculated using the formula: Density = Mass \u00f7 Volume. Here: 200 g \u00f7 22.4 cm\u00b3 = 8.93 g/cm\u00b3. This is close to the actual density of copper, showing it is a dense solid metal.",
+  "quality_score": 4,
+  "id": "93748dd8-500f-4d2f-8c9e-6b9a15e7baaa",
+  "source_name": "claude_generator",
+  "source_url": null
+}

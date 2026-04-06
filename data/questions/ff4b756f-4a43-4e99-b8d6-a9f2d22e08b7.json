@@ -1,0 +1,39 @@
+{
+  "question_text": "Which statement correctly describes what happens to the particles in a substance as it melts?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "particle motion",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles move faster and gain the ability to move freely throughout the substance",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Particles stop moving completely",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Particles become smaller in size",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles move slower and stay in fixed positions",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Particles move faster and gain the ability to move freely throughout the substance",
+  "explanation": "During melting, heat energy causes particles to vibrate faster and break free from their fixed positions, allowing them to move around like in a liquid.",
+  "quality_score": 5,
+  "id": "ff4b756f-4a43-4e99-b8d6-a9f2d22e08b7",
+  "source_name": "claude_generator",
+  "source_url": null
+}

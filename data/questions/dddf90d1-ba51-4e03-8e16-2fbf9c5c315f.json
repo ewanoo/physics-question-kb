@@ -1,0 +1,18 @@
+{
+  "question_text": "A syringe contains 60 cm\u00b3 of gas at a pressure of 100 kPa. The plunger is pushed so the volume becomes 30 cm\u00b3. Assuming temperature stays constant, what is the new pressure? (Use Boyle's law: P\u2081V\u2081 = P\u2082V\u2082)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "calculation",
+    "inverse relationship"
+  ],
+  "options": null,
+  "correct_answer": "200 kPa",
+  "explanation": "Using Boyle's law: P\u2081V\u2081 = P\u2082V\u2082, so 100 \u00d7 60 = P\u2082 \u00d7 30. Therefore P\u2082 = 6000 \u00f7 30 = 200 kPa. When volume halves, pressure doubles.",
+  "quality_score": 5,
+  "id": "dddf90d1-ba51-4e03-8e16-2fbf9c5c315f",
+  "source_name": "claude_generator",
+  "source_url": null
+}

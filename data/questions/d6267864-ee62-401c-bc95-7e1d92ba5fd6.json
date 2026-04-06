@@ -1,0 +1,19 @@
+{
+  "question_text": "A sealed container holds air at room temperature (20\u00b0C). If the air is heated to 40\u00b0C without changing the volume, explain what happens to the pressure inside the container and why.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "particle model",
+    "kinetic theory"
+  ],
+  "options": null,
+  "correct_answer": "The pressure increases. When the air is heated, the gas particles move faster and collide with the container walls more frequently and with greater force, creating higher pressure.",
+  "explanation": "This demonstrates the particle model of gases: temperature is linked to the speed of particles, which directly affects how often and how hard they collide with surfaces. Since the volume is fixed, the increased collision frequency and force cause pressure to rise.",
+  "quality_score": 5,
+  "id": "d6267864-ee62-401c-bc95-7e1d92ba5fd6",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "Which statement about gas pressure is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "particle model",
+    "kinetic theory"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Pressure in a gas comes from particles sinking to the bottom of the container",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Pressure acts equally in all directions because particles collide randomly with walls from all angles",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Pressure only acts downward due to gravity",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pressure increases when particles move more slowly",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Pressure acts equally in all directions because particles collide randomly with walls from all angles",
+  "explanation": "Gas particles move randomly in all directions, so they collide with container walls equally from every side. This creates uniform pressure in all directions, unlike liquids where pressure increases with depth.",
+  "quality_score": 5,
+  "id": "e8dec48f-3188-4883-8c46-6d4682717c45",
+  "source_name": "claude_generator",
+  "source_url": null
+}

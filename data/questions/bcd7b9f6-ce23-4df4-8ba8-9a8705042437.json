@@ -1,0 +1,18 @@
+{
+  "question_text": "Compare the arrangement of particles in a solid and a liquid. How are they different?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "particle arrangement",
+    "solid vs liquid",
+    "structure"
+  ],
+  "options": null,
+  "correct_answer": "In a solid, particles are tightly packed in a fixed, regular arrangement and vibrate in fixed positions. In a liquid, particles are close together but can move around and are not in a fixed arrangement.",
+  "explanation": "This difference in particle arrangement explains why solids have a fixed shape but liquids flow and take the shape of their container.",
+  "quality_score": 4,
+  "id": "bcd7b9f6-ce23-4df4-8ba8-9a8705042437",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A bicycle pump compresses air from atmospheric pressure (101 kPa) and a volume of 500 cm\u00b3 into a tyre at constant temperature. The final volume is 50 cm\u00b3. What is the final pressure in the tyre?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "multi-step",
+    "practical application"
+  ],
+  "options": null,
+  "correct_answer": "1010 kPa",
+  "explanation": "Using Boyle's law: P\u2081V\u2081 = P\u2082V\u2082, so 101 \u00d7 500 = P\u2082 \u00d7 50. Therefore P\u2082 = 50,500 \u00f7 50 = 1010 kPa. The air is compressed to one-tenth its original volume, so pressure increases tenfold.",
+  "quality_score": 5,
+  "id": "be82b2a5-2014-44cb-85bd-67d37a118208",
+  "source_name": "claude_generator",
+  "source_url": null
+}

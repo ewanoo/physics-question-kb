@@ -1,0 +1,18 @@
+{
+  "question_text": "Ice melts at 0\u00b0C. What do we call the temperature at which this happens?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "melting point",
+    "state change",
+    "temperature"
+  ],
+  "options": null,
+  "correct_answer": "Melting point",
+  "explanation": "The melting point is the fixed temperature at which a solid changes into a liquid. For ice, this is 0\u00b0C at normal atmospheric pressure.",
+  "quality_score": 5,
+  "id": "04168af4-1198-439f-9812-6783f0a19f34",
+  "source_name": "claude_generator",
+  "source_url": null
+}

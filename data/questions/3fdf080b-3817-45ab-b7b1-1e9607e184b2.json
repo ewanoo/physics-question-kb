@@ -1,0 +1,19 @@
+{
+  "question_text": "A student heats ice from -20\u00b0C to 100\u00b0C and continues heating to produce steam at 150\u00b0C. Sketch or describe what happens to the temperature as energy is added during melting and boiling.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "heating curve",
+    "melting point",
+    "boiling point",
+    "latent heat"
+  ],
+  "options": null,
+  "correct_answer": "During melting (at 0\u00b0C) the temperature stays constant while the ice turns to water. During boiling (at 100\u00b0C) the temperature stays constant while the water turns to steam. Between these points and before/after, the temperature increases steadily.",
+  "explanation": "During state changes, all the heat energy goes into breaking the bonds between particles (latent heat) rather than increasing the temperature. This is why the temperature plateaus at the melting and boiling points.",
+  "quality_score": 5,
+  "id": "3fdf080b-3817-45ab-b7b1-1e9607e184b2",
+  "source_name": "claude_generator",
+  "source_url": null
+}

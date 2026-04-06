@@ -1,0 +1,18 @@
+{
+  "question_text": "Name the three subatomic particles found in an atom and state where each one is located.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "atomic structure",
+    "subatomic particles",
+    "electron nucleus"
+  ],
+  "options": null,
+  "correct_answer": "Protons (in the nucleus), neutrons (in the nucleus), electrons (orbiting the nucleus in electron shells)",
+  "explanation": "The nucleus contains protons and neutrons, which are tightly bound together. Electrons orbit around the nucleus in shells. This is the basic structure of all atoms.",
+  "quality_score": 5,
+  "id": "10780191-fc7a-4cdf-affe-3d22d07372d2",
+  "source_name": "claude_generator",
+  "source_url": null
+}

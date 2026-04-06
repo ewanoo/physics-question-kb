@@ -1,0 +1,40 @@
+{
+  "question_text": "Which of the following is a compound?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "compound",
+    "mixture",
+    "element",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Oxygen gas (O\u2082)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Salt water",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Water (H\u2082O)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Air",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Water (H\u2082O)",
+  "explanation": "A compound is formed when two or more elements are chemically bonded together. Water is made of hydrogen and oxygen atoms bonded together. The other options are either elements or mixtures.",
+  "quality_score": 5,
+  "id": "8902ae31-fbb6-4ce3-a3da-c66e2c600832",
+  "source_name": "claude_generator",
+  "source_url": null
+}

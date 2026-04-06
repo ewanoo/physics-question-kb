@@ -1,0 +1,18 @@
+{
+  "question_text": "A gas sample has a pressure of 80 kPa at a volume of 250 mL. If the temperature stays constant and the pressure increases to 160 kPa, what is the new volume?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "calculation",
+    "inverse proportion"
+  ],
+  "options": null,
+  "correct_answer": "125 mL",
+  "explanation": "Using P\u2081V\u2081 = P\u2082V\u2082: 80 \u00d7 250 = 160 \u00d7 V\u2082. So V\u2082 = 20,000 \u00f7 160 = 125 mL. When pressure doubles, volume halves.",
+  "quality_score": 5,
+  "id": "a9db1d46-38f7-4500-84d0-be640ccf62e3",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "question_text": "An atom has 6 protons, 6 neutrons, and 6 electrons. What is the mass number of this atom?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "mass number",
+    "protons",
+    "neutrons",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "12",
+  "explanation": "The mass number is calculated by adding the number of protons and neutrons together (6 + 6 = 12). Electrons have negligible mass compared to protons and neutrons, so they are not included in the mass number calculation.",
+  "quality_score": 5,
+  "id": "0b0163d9-82b0-4add-9a07-a7b6c6780dc5",
+  "source_name": "claude_generator",
+  "source_url": null
+}

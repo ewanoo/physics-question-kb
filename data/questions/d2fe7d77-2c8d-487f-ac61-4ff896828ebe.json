@@ -1,0 +1,18 @@
+{
+  "question_text": "A rigid container holds a gas at 25\u00b0C and 150 kPa. Explain why the pressure would increase if the gas is heated to 50\u00b0C, even though the volume cannot change.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "temperature",
+    "particle collisions",
+    "rigid container"
+  ],
+  "options": null,
+  "correct_answer": "Heating the gas increases the speed and kinetic energy of the particles. They collide with the container walls more frequently and with greater force, so pressure increases even though volume is constant.",
+  "explanation": "In a rigid container, volume is fixed, so pressure must increase with temperature. The faster-moving particles hit the walls harder and more often, creating greater pressure.",
+  "quality_score": 5,
+  "id": "d2fe7d77-2c8d-487f-ac61-4ff896828ebe",
+  "source_name": "claude_generator",
+  "source_url": null
+}

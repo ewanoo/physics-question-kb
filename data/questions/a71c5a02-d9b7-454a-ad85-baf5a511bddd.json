@@ -1,0 +1,19 @@
+{
+  "question_text": "A student dissolves 50g of salt in 500ml of water to make salt solution A. Another student dissolves 50g of salt in 1000ml of water to make salt solution B. Both solutions contain the same compound (salt), but solution A tastes saltier than solution B. Explain this observation using particle model ideas, and state what name we give to solutions with different concentrations.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "concentration",
+    "particle model",
+    "solutions",
+    "mixtures"
+  ],
+  "options": null,
+  "correct_answer": "Solution A tastes saltier because it has a higher concentration of salt particles per unit volume of water. Solution A has more salt particles in the same volume, so there are more salt particles colliding with taste receptors. These solutions are called dilute (B) and concentrated (A) solutions. Both are homogeneous mixtures of the same compound with different particle densities.",
+  "explanation": "The particle model explains that in solution A, salt particles are more densely packed in the water compared to solution B. A concentrated solution has more solute particles per unit volume, while a dilute solution has fewer. The greater concentration of salt particles in solution A produces a stronger salty taste.",
+  "quality_score": 5,
+  "id": "a71c5a02-d9b7-454a-ad85-baf5a511bddd",
+  "source_name": "claude_generator",
+  "source_url": null
+}

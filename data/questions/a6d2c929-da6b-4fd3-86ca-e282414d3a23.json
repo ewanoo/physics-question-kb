@@ -1,0 +1,18 @@
+{
+  "question_text": "Explain why a balloon expands when you blow air into it.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "particle collisions",
+    "elastic materials"
+  ],
+  "options": null,
+  "correct_answer": "More gas particles enter the balloon, causing more frequent collisions with the balloon walls. The increased pressure pushes outward on the elastic rubber, causing it to expand.",
+  "explanation": "When you blow air in, you add more particles to the same space, increasing collision frequency and pressure. This outward pressure force stretches the rubber material of the balloon.",
+  "quality_score": 5,
+  "id": "a6d2c929-da6b-4fd3-86ca-e282414d3a23",
+  "source_name": "claude_generator",
+  "source_url": null
+}

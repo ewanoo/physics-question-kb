@@ -1,0 +1,19 @@
+{
+  "question_text": "Copper has an atomic number of 29 and a mass number of 64. Calculate the number of neutrons in a copper atom.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "neutrons",
+    "atomic number",
+    "mass number",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "35",
+  "explanation": "The number of neutrons is found by subtracting the atomic number (number of protons) from the mass number: 64 - 29 = 35. The atomic number tells us the number of protons, and the difference gives us the neutrons.",
+  "quality_score": 5,
+  "id": "6acc56df-b9e2-4f01-9859-5b077abe9846",
+  "source_name": "claude_generator",
+  "source_url": null
+}

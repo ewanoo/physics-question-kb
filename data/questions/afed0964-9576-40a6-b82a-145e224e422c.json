@@ -1,0 +1,19 @@
+{
+  "question_text": "An atom of element X has 17 protons. Another atom of the same element has 18 neutrons, while the first atom has 20 neutrons. Identify what these two atoms are called and calculate the mass numbers of both.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "isotopes",
+    "mass number",
+    "atomic number",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "These atoms are called isotopes. First atom: mass number = 37 (17 + 20). Second atom: mass number = 35 (17 + 18).",
+  "explanation": "Isotopes are atoms of the same element (same number of protons) but with different numbers of neutrons. They have different mass numbers. Element X with 17 protons is chlorine. The first isotope is Cl-37 and the second is Cl-35. Both are naturally occurring isotopes of chlorine.",
+  "quality_score": 5,
+  "id": "afed0964-9576-40a6-b82a-145e224e422c",
+  "source_name": "claude_generator",
+  "source_url": null
+}

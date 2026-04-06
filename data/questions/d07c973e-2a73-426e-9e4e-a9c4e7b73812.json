@@ -1,0 +1,18 @@
+{
+  "question_text": "What is the name of the process when a liquid changes into a gas?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "boiling",
+    "evaporation",
+    "state changes"
+  ],
+  "options": null,
+  "correct_answer": "Boiling (or evaporation)",
+  "explanation": "When a liquid is heated to its boiling point, it rapidly changes into a gas. This process is called boiling; slower evaporation can occur at lower temperatures too.",
+  "quality_score": 5,
+  "id": "d07c973e-2a73-426e-9e4e-a9c4e7b73812",
+  "source_name": "claude_generator",
+  "source_url": null
+}

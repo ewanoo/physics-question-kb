@@ -1,0 +1,18 @@
+{
+  "question_text": "Describe in one sentence what happens to gas particles when temperature increases.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "temperature",
+    "particle motion",
+    "kinetic energy"
+  ],
+  "options": null,
+  "correct_answer": "The gas particles move faster and collide more frequently with the container walls.",
+  "explanation": "Higher temperature means particles have more kinetic energy, so they move faster. Faster particles hit the walls more often and with more force, increasing pressure.",
+  "quality_score": 4,
+  "id": "9f94847c-95cc-4798-a5df-7ed9862d9d66",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "question_text": "Explain the difference between a mixture and a compound.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "mixture",
+    "compound",
+    "bonding",
+    "separation"
+  ],
+  "options": null,
+  "correct_answer": "A compound is formed when elements are chemically bonded together in fixed proportions and cannot be easily separated. A mixture is formed when two or more substances are combined but not chemically bonded, and can be separated by physical methods.",
+  "explanation": "Compounds have a fixed chemical formula and specific properties. Mixtures can have varying proportions and their properties depend on the ratio of the substances. For example, salt and water form a mixture (salt dissolves but isn't chemically bonded), while salt (NaCl) is a compound.",
+  "quality_score": 5,
+  "id": "932faed8-e91e-4a68-8a94-77b40dcdcd24",
+  "source_name": "claude_generator",
+  "source_url": null
+}

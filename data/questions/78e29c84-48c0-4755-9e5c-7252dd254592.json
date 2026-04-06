@@ -1,0 +1,39 @@
+{
+  "question_text": "What is the smallest particle of an element that can exist?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "atom",
+    "particle model",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Molecule",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Atom",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Electron",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Compound",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "Atom",
+  "explanation": "An atom is the smallest particle of an element that retains the chemical properties of that element. Electrons and molecules are smaller or more complex combinations, but atoms are the fundamental building blocks of elements.",
+  "quality_score": 5,
+  "id": "78e29c84-48c0-4755-9e5c-7252dd254592",
+  "source_name": "claude_generator",
+  "source_url": null
+}

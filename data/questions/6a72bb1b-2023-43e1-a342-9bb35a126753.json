@@ -1,0 +1,39 @@
+{
+  "question_text": "If you decrease the volume of a gas at constant temperature, what happens to the pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "Boyle's law",
+    "volume",
+    "pressure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure decreases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The pressure increases",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "The pressure becomes zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "The pressure increases",
+  "explanation": "When you compress a gas into a smaller space, the particles have less room to move and collide with the walls more frequently. This means more collisions per second, so the pressure increases.",
+  "quality_score": 5,
+  "id": "6a72bb1b-2023-43e1-a342-9bb35a126753",
+  "source_name": "claude_generator",
+  "source_url": null
+}

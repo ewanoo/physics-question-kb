@@ -1,0 +1,18 @@
+{
+  "question_text": "A scientist has two identical containers: Container A holds nitrogen gas at 200 kPa, and Container B holds helium at 200 kPa. Both are at the same temperature. Explain which gas has more frequent particle collisions with the container walls and why.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "particle collisions",
+    "pressure equality",
+    "particle density"
+  ],
+  "options": null,
+  "correct_answer": "Both gases have the same frequency of particle collisions with the walls. Since both have the same pressure (200 kPa) at the same temperature in identical containers, they must have the same collision rate. Pressure is defined by the rate and force of collisions, so equal pressure means equal collision frequency.",
+  "explanation": "Pressure is directly determined by how often and how hard particles collide with walls. If two gases have the same pressure, temperature, and volume, they must have the same collision frequency, even if individual particles have different masses or speeds.",
+  "quality_score": 5,
+  "id": "ddfaa408-a237-47d1-be10-460995ef6d47",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A student is given samples of pure iron, pure carbon, and iron carbide (a compound). Explain why the properties of iron carbide are different from a simple mixture of iron and carbon powder.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "compound properties",
+    "chemical bonding",
+    "elements vs compounds"
+  ],
+  "options": null,
+  "correct_answer": "In iron carbide, iron and carbon atoms are chemically bonded together in a fixed ratio, creating new properties. In a mixture of iron and carbon powder, the atoms remain separate and the mixture simply shows the combined properties of both elements. The chemical bonds in the compound fundamentally change how the atoms interact, resulting in completely different characteristics.",
+  "explanation": "Compounds form when atoms are chemically bonded, which creates new properties unlike either element alone. A mixture just combines materials without changing their fundamental structure. Iron carbide is much harder than either pure iron or pure carbon because the bonding arrangement creates a stronger structure.",
+  "quality_score": 5,
+  "id": "6f1d8d52-18d2-4179-a624-761b4455641d",
+  "source_name": "claude_generator",
+  "source_url": null
+}

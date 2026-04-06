@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following is a property of gases?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "gas properties",
+    "states of matter",
+    "particle behaviour"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Fixed shape and fixed volume",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "No fixed shape and no fixed volume",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Fixed shape but variable volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Variable shape but fixed volume",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "No fixed shape and no fixed volume",
+  "explanation": "Gases have particles that are far apart and move freely, so they spread out to fill any container. They have neither a fixed shape nor a fixed volume.",
+  "quality_score": 5,
+  "id": "fe0531af-c2ca-4d5b-8eb9-0fc91bc99252",
+  "source_name": "claude_generator",
+  "source_url": null
+}
