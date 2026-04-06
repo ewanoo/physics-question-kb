@@ -1,0 +1,38 @@
+{
+  "id": "0b17d775-7a9f-4f74-b744-09c4028fad00",
+  "question_text": "Which of the following is a rocky planet in our solar system?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "rocky planets",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Jupiter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Saturn",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Earth",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Neptune",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Earth is a rocky planet located in the inner solar system. Jupiter, Saturn, and Neptune are all gas giants, which are much larger and made mainly of gases rather than rock.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

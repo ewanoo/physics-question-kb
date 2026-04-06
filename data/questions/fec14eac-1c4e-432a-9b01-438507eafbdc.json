@@ -1,0 +1,19 @@
+{
+  "id": "fec14eac-1c4e-432a-9b01-438507eafbdc",
+  "question_text": "A metal cube has a side length of 2 cm and a mass of 64 g. The cube is then cut in half. How does the density of each half compare to the original cube?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "properties",
+    "reasoning",
+    "mass",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "The density remains the same. When you cut the cube in half, both mass and volume are halved, so the ratio (density) stays constant.",
+  "explanation": "Density is an intensive property, meaning it depends only on what the material is, not how much of it you have. When you cut the cube in half, both the mass and volume are divided by 2, so density = (mass \u00f7 2) \u00f7 (volume \u00f7 2) = mass \u00f7 volume. The density is unchanged.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

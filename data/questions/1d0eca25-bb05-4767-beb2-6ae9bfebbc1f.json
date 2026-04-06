@@ -1,0 +1,37 @@
+{
+  "id": "1d0eca25-bb05-4767-beb2-6ae9bfebbc1f",
+  "question_text": "What is the definition of speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.speed",
+  "tags": [
+    "definition",
+    "speed"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The distance travelled in a certain direction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The distance travelled per unit of time",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The change in direction of an object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force acting on an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Speed measures how far something travels in a given amount of time, like kilometres per hour. It doesn't include direction\u2014that would be velocity.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

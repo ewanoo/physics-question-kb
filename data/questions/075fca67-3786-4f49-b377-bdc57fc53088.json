@@ -1,0 +1,17 @@
+{
+  "id": "075fca67-3786-4f49-b377-bdc57fc53088",
+  "question_text": "During the summer solstice in the Northern Hemisphere, explain why the Sun appears higher in the sky and days are longer than in winter.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "solstice",
+    "axial_tilt",
+    "day_length"
+  ],
+  "options": null,
+  "correct_answer": "The Northern Hemisphere is tilted towards the Sun during summer solstice. This means the Sun's rays hit at a steeper angle, making the Sun appear higher in the sky. The tilt also means this part of Earth spends more time in daylight as it rotates, making days longer.",
+  "explanation": "At the summer solstice, the axial tilt of Earth means the Northern Hemisphere points directly towards the Sun. This creates two effects: the Sun's path across the sky is higher (steeper angle), and this hemisphere experiences more hours of daylight because a larger portion of its rotation is spent facing the Sun.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

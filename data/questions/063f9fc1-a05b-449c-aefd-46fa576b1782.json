@@ -1,0 +1,18 @@
+{
+  "id": "063f9fc1-a05b-449c-aefd-46fa576b1782",
+  "question_text": "The diagram shows Earth at different points in its orbit around the Sun. At position A, the Northern Hemisphere receives solar radiation at an angle of 30\u00b0 to the surface. At position C (opposite side of orbit), calculate the angle of solar radiation to the surface in the Northern Hemisphere, and explain why this creates winter conditions.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "solar_radiation",
+    "angle_of_incidence",
+    "axial_tilt",
+    "energy_concentration"
+  ],
+  "options": null,
+  "correct_answer": "150\u00b0 (or the Sun's rays hit at 30\u00b0 on the other side, creating a shallower angle). When the angle is shallower (more obtuse/further from perpendicular), the same amount of solar energy is spread over a larger area, providing less energy per unit area. This causes lower temperatures and winter conditions.",
+  "explanation": "When Earth is on the opposite side of its orbit, the Northern Hemisphere is tilted away from the Sun. The angle of incidence becomes shallower (approximately 150\u00b0 measured from the surface normal, or 30\u00b0 measured from the horizon). Shallower angles mean solar energy is spread over a larger surface area, reducing the energy concentration and causing winter. Additionally, days are shorter, providing even less total solar heating.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

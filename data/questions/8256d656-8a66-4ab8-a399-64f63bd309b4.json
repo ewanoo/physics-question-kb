@@ -1,0 +1,38 @@
+{
+  "id": "8256d656-8a66-4ab8-a399-64f63bd309b4",
+  "question_text": "Which hemisphere experiences winter when it is tilted away from the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "hemisphere",
+    "tilt",
+    "winter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Northern Hemisphere always experiences winter.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Southern Hemisphere always experiences winter.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Whichever hemisphere is tilted away from the Sun experiences winter.",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Both hemispheres experience winter at the same time.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Seasons are opposite in the two hemispheres. When the Northern Hemisphere is tilted towards the Sun (summer), the Southern Hemisphere is tilted away (winter), and vice versa. The hemisphere tilted away from the Sun always experiences winter because it receives less direct solar radiation.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

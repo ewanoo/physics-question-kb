@@ -1,0 +1,19 @@
+{
+  "id": "8639126d-a2ee-47d9-9569-a1177d3fbe12",
+  "question_text": "A student measures a marble and finds it has a mass of 8.5 g and a volume of 5 cm\u00b3. Calculate the density of the marble.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "calculation",
+    "formula",
+    "mass",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "1.7 g/cm\u00b3",
+  "explanation": "Use the formula density = mass \u00f7 volume. Density = 8.5 g \u00f7 5 cm\u00b3 = 1.7 g/cm\u00b3. This is a straightforward one-step calculation using the density formula.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

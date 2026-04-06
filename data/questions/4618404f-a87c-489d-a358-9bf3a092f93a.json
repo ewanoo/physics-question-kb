@@ -1,0 +1,18 @@
+{
+  "id": "4618404f-a87c-489d-a358-9bf3a092f93a",
+  "question_text": "A uniform metre ruler is balanced at its centre (50 cm mark). A 2 N weight is hung from the 20 cm mark. Where must a 5 N weight be hung to balance the ruler?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "equilibrium",
+    "lever arm",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "32 cm mark",
+  "explanation": "Using the principle of moments: clockwise moments = anticlockwise moments. The 2 N weight creates a moment of 2 N \u00d7 30 cm = 60 N\u00b7cm on one side. The 5 N weight must create the same moment on the other side: 5 N \u00d7 distance = 60 N\u00b7cm, so distance = 12 cm from the pivot. This puts it at the 50 \u2212 18 = 32 cm mark.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "e17e2c6b-f067-4603-a972-7148e84d70fe",
+  "question_text": "Two runners complete the same 400 metre race. Runner A finishes in 50 seconds and Runner B finishes in 55 seconds. Compare the speeds of the two runners and explain which runner is faster.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "comparison",
+    "speed calculation",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Runner A is faster. Runner A's speed is 8 m/s (400 \u00f7 50) and Runner B's speed is approximately 7.27 m/s (400 \u00f7 55). Since 8 m/s > 7.27 m/s, Runner A travels a greater distance per unit time.",
+  "explanation": "To compare speeds, calculate the speed of each runner using speed = distance \u00f7 time. Runner A covers the same distance in less time, so has a higher speed. This shows why speed is important in racing\u2014it tells us who is moving fastest.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "9cc4a854-7c9b-44a1-9b87-5f3dee7702d9",
+  "question_text": "Two magnets are placed near each other. Magnet A pushes Magnet B away with a force of 5 N. According to Newton's third law, what is the force that Magnet B exerts on Magnet A, and in which direction does it act? Explain your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "magnetic force",
+    "Newton's third law",
+    "action-reaction pairs"
+  ],
+  "options": null,
+  "correct_answer": "5 N in the opposite direction (pushing back towards Magnet A)",
+  "explanation": "Newton's third law states that forces always come in equal and opposite pairs. If Magnet A pushes Magnet B with 5 N, then Magnet B must push back on Magnet A with an equal force of 5 N in the opposite direction. This is a magnetic force, which is a non-contact force, and the law still applies\u2014the forces are equal in magnitude but opposite in direction.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

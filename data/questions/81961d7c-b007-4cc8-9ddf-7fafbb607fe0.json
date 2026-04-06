@@ -1,0 +1,18 @@
+{
+  "id": "81961d7c-b007-4cc8-9ddf-7fafbb607fe0",
+  "question_text": "A student investigates friction by pulling a wooden block across a rough surface with a force meter. The force meter reads 8 N when the block moves at constant velocity. The block has a mass of 2 kg. Calculate the coefficient of friction between the block and the surface. (Take g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "friction",
+    "forces",
+    "multi-step calculation",
+    "equilibrium"
+  ],
+  "options": null,
+  "correct_answer": "0.4",
+  "explanation": "When the block moves at constant velocity, the applied force equals the friction force (8 N). The normal force equals the weight: N = mg = 2 \u00d7 10 = 20 N. Coefficient of friction \u03bc = friction force \u00f7 normal force = 8 \u00f7 20 = 0.4. This requires understanding that constant velocity means balanced forces, then using the friction formula.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "680bfe07-b621-4103-beae-06b2b9b617aa",
+  "question_text": "Which of the following correctly explains why the Earth experiences seasons?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "axial_tilt",
+    "seasons",
+    "Earth_orbit"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Earth's distance from the Sun changes throughout the year, so it receives more heat when closer to the Sun.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Earth's axis is tilted at about 23.5\u00b0, which changes the angle at which the Sun's rays hit different parts of the Earth throughout the year.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Sun moves closer to and farther away from the Earth's equator during the year.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Earth rotates faster during summer and slower during winter.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The tilt of Earth's axis is the primary reason for seasons. When the Northern Hemisphere is tilted towards the Sun, it receives more direct sunlight and experiences summer, while the Southern Hemisphere experiences winter. This happens because the Sun's rays hit at a steeper angle in summer, concentrating more energy in a smaller area.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

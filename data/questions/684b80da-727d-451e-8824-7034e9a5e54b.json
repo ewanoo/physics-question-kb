@@ -1,0 +1,18 @@
+{
+  "id": "684b80da-727d-451e-8824-7034e9a5e54b",
+  "question_text": "A crowbar 1.2 m long is used to lift a rock. The pivot is placed 0.3 m from the end of the bar that touches the rock. If the rock exerts a downward force of 600 N, what minimum effort force (at the other end of the crowbar) is needed to lift it?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "mechanical advantage",
+    "levers",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "150 N",
+  "explanation": "The load arm is 0.3 m and the effort arm is 1.2 \u2212 0.3 = 0.9 m. Using the principle of moments: load moment = effort moment, so 600 N \u00d7 0.3 m = effort \u00d7 0.9 m. Solving: effort = (600 \u00d7 0.3) \u00f7 0.9 = 150 N.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

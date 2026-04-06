@@ -1,0 +1,39 @@
+{
+  "id": "153591db-2876-4f14-be42-2d6c5d1c8180",
+  "question_text": "What is the SI unit for density?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "units",
+    "SI",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "kg/m\u00b3",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "g/cm",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "m\u00b3/kg",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "kg\u00b7m\u00b3",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "In SI units, density is measured in kilograms per cubic metre (kg/m\u00b3). Although g/cm\u00b3 is commonly used in laboratories, kg/m\u00b3 is the official SI unit for density.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

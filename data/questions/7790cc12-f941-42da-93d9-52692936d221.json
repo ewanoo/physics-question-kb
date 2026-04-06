@@ -1,0 +1,18 @@
+{
+  "id": "7790cc12-f941-42da-93d9-52692936d221",
+  "question_text": "A cyclist travels at an average speed of 8 m/s for 25 seconds, then stops for 10 seconds, then travels at 6 m/s for 15 seconds. What is the total distance travelled by the cyclist?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "calculation",
+    "average speed",
+    "distance",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "290 metres",
+  "explanation": "Calculate distance for each section using distance = speed \u00d7 time. First section: 8 \u00d7 25 = 200 m. Second section: 0 m (stopped). Third section: 6 \u00d7 15 = 90 m. Total = 200 + 0 + 90 = 290 m. When an object stops, it travels no distance during that time.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

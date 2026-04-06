@@ -1,0 +1,38 @@
+{
+  "id": "1545b89f-d955-488e-9171-bb1db9d6e10c",
+  "question_text": "What does Hooke's Law state about the relationship between force and extension of a spring?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The force applied is inversely proportional to the extension",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The force applied is directly proportional to the extension, provided the limit of proportionality is not exceeded",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The extension of a spring is always equal to the force applied",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The force applied depends only on the material of the spring, not its length",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Hooke's Law describes how springs behave: when you apply a force, the spring stretches by an amount that is proportional to that force. This relationship only works up to the limit of proportionality, after which the spring may not return to its original shape.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

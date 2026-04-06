@@ -1,0 +1,16 @@
+{
+  "id": "cd3b6032-9443-4f54-b3bd-30357f6b5632",
+  "question_text": "Name two different types of non-contact forces.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "non-contact forces",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational force and magnetic force (or gravitational and electrostatic, or magnetic and electrostatic)",
+  "explanation": "Non-contact forces are forces that act without objects needing to touch. The three main non-contact forces are gravitational force (pull of gravity), magnetic force (attraction/repulsion between magnets), and electrostatic force (attraction/repulsion between charged objects).",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

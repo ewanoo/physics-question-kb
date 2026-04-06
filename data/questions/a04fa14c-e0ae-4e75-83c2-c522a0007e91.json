@@ -1,0 +1,39 @@
+{
+  "id": "a04fa14c-e0ae-4e75-83c2-c522a0007e91",
+  "question_text": "A block of wood has a mass of 240 g and a volume of 400 cm\u00b3. A block of iron has a mass of 780 g and a volume of 100 cm\u00b3. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "comparison",
+    "calculation",
+    "materials"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The wood is denser because it has a larger volume",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The iron is denser because it has a smaller volume for a larger mass",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They have the same density because both are solids",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The wood is denser because it has a larger mass",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "To compare densities, we need to calculate density = mass \u00f7 volume. Wood: 240 \u00f7 400 = 0.6 g/cm\u00b3. Iron: 780 \u00f7 100 = 7.8 g/cm\u00b3. Iron is much denser because it packs more mass into a smaller space.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

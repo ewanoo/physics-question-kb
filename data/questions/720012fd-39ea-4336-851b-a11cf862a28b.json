@@ -1,0 +1,17 @@
+{
+  "id": "720012fd-39ea-4336-851b-a11cf862a28b",
+  "question_text": "Mercury is approximately 58 million km from the Sun. Venus is approximately 108 million km from the Sun. How much closer is Mercury to the Sun than Venus?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "distance",
+    "subtraction",
+    "planets"
+  ],
+  "options": null,
+  "correct_answer": "50 million km",
+  "explanation": "To find how much closer Mercury is, we subtract Mercury's distance from Venus's distance: 108 million km \u2212 58 million km = 50 million km. Mercury orbits much closer to the Sun than Venus does.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

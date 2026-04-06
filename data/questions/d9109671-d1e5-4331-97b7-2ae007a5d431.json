@@ -1,0 +1,38 @@
+{
+  "id": "d9109671-d1e5-4331-97b7-2ae007a5d431",
+  "question_text": "Which of the following is an example of a contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational force between the Earth and the Moon",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The normal force from a table pushing up on a book",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The magnetic force between two magnets",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Electrostatic force between two charged balloons",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Contact forces happen when two objects touch. The normal force from a table pushing up on a book is a contact force because the table physically touches the book. Gravitational, magnetic, and electrostatic forces are non-contact forces that act at a distance.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

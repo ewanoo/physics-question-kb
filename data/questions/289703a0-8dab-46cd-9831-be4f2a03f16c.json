@@ -1,0 +1,18 @@
+{
+  "id": "289703a0-8dab-46cd-9831-be4f2a03f16c",
+  "question_text": "A mass of 2 kg is hung from a spring with a spring constant of 200 N/m. The spring extends and then comes to rest. Calculate the extension of the spring at equilibrium. (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "hookes_law",
+    "equilibrium",
+    "weight",
+    "multi_step"
+  ],
+  "options": null,
+  "correct_answer": "0.1 m (or 10 cm)",
+  "explanation": "First, calculate the weight of the mass: F = m \u00d7 g = 2 \u00d7 10 = 20 N. At equilibrium, the spring force equals the weight, so using F = k \u00d7 e: 20 = 200 \u00d7 e, which gives e = 20 \u00f7 200 = 0.1 m. The spring extends 10 centimetres to support the hanging mass.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

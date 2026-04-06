@@ -1,0 +1,18 @@
+{
+  "id": "d51fde68-7309-4cb5-9e36-ac2316f02367",
+  "question_text": "A seesaw has a pivot at its centre. Child A (weight 300 N) sits 1.5 m from the pivot on the left. Child B (weight 400 N) sits 0.9 m from the pivot on the right. The seesaw is currently tilted down on the left side. Explain why this is the case and calculate what would need to happen to balance it.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moments",
+    "equilibrium",
+    "comparison",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Child A creates a larger moment (300 \u00d7 1.5 = 450 N\u00b7m) than Child B (400 \u00d7 0.9 = 360 N\u00b7m), so the left side tilts down. Child B would need to move to at least 1.125 m from the pivot to balance it.",
+  "explanation": "This requires comparing two moments and then using the moment equation to find the solution. Child A's larger moment on the left causes that side to dip down. To balance, you must calculate where Child B needs to sit using M = F \u00d7 d, which tests understanding of moment principles across multiple steps.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

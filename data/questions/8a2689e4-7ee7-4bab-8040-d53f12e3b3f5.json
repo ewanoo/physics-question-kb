@@ -1,0 +1,18 @@
+{
+  "id": "8a2689e4-7ee7-4bab-8040-d53f12e3b3f5",
+  "question_text": "Two springs are tested. Spring A extends by 8 cm when a 4 N force is applied. Spring B extends by 4 cm when the same 4 N force is applied. Which spring is stiffer, and explain your reasoning using the concept of spring constant.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring_constant",
+    "comparison",
+    "reasoning",
+    "extended_answer"
+  ],
+  "options": null,
+  "correct_answer": "Spring B is stiffer. Spring B has a higher spring constant (k = 4 \u00f7 0.04 = 100 N/m) compared to Spring A (k = 4 \u00f7 0.08 = 50 N/m). A stiffer spring has a larger spring constant and extends less for the same applied force.",
+  "explanation": "A stiffer spring requires more force to produce the same extension, or produces less extension for the same force. Since Spring B extends less (4 cm vs 8 cm) under the same force, it must be stiffer. We can verify this by calculating spring constants using F = k \u00d7 e.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

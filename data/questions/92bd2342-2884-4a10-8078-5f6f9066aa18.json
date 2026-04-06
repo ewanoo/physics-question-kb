@@ -1,0 +1,17 @@
+{
+  "id": "92bd2342-2884-4a10-8078-5f6f9066aa18",
+  "question_text": "What is the name of the path that planets follow as they orbit the Sun?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbits",
+    "planets",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "An orbit (or orbital path)",
+  "explanation": "An orbit is the curved path that a planet follows around the Sun due to the Sun's gravitational pull. All planets in our solar system follow oval-shaped orbits.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}
