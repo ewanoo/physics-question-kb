@@ -1,0 +1,38 @@
+{
+  "id": "c3ed4838-27f9-4e41-b34a-769dfbfebfba",
+  "question_text": "Which season occurs in the Northern Hemisphere when Earth is closest to the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "Earth orbit",
+    "hemisphere"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Spring",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Summer",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Winter",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Autumn",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Earth's orbit is slightly elliptical. Earth is closest to the Sun (perihelion) in early January, which is winter in the Northern Hemisphere. Distance from the Sun is less important for seasons than the tilt of Earth's axis.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

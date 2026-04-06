@@ -1,0 +1,18 @@
+{
+  "id": "d225d3a2-46e2-4c4c-98b4-c3b2ef9cc262",
+  "question_text": "A satellite orbits Earth. Explain why the satellite doesn't fall to Earth, despite gravity pulling on it. Use the concept of orbital motion in your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "orbit",
+    "motion",
+    "satellite"
+  ],
+  "options": null,
+  "correct_answer": "Gravity pulls the satellite towards Earth, but the satellite's forward motion carries it around Earth in a circular path. Gravity constantly changes the direction of motion without slowing it down, keeping it in orbit.",
+  "explanation": "Orbital motion occurs when an object moves forward fast enough that its path curves around the planet as fast as gravity pulls it down. This balance between forward motion and gravitational pull keeps satellites orbiting.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "38ea3ee5-ac2d-4d1e-9493-73f5fa2a5494",
+  "question_text": "A particle experiences three forces: 5 N to the right, 3 N to the left, and 2 N downward. Calculate the magnitude and direction of the resultant force. Is the particle in equilibrium?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "resultant force",
+    "vector",
+    "equilibrium",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Magnitude: 2.83 N (or \u221a8 N), Direction: 45\u00b0 below the horizontal (to the right); The particle is not in equilibrium.",
+  "explanation": "First, find the horizontal resultant: 5 - 3 = 2 N to the right. Then combine with the vertical force: \u221a(2\u00b2 + 2\u00b2) = \u221a8 = 2.83 N. The direction is arctan(2/2) = 45\u00b0 below horizontal. Since there is a resultant force, the particle is not in equilibrium and will accelerate.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

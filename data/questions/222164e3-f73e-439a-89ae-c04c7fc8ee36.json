@@ -1,0 +1,18 @@
+{
+  "id": "222164e3-f73e-439a-89ae-c04c7fc8ee36",
+  "question_text": "Explain the difference between evaporation and boiling, and state one condition under which each occurs.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "boiling",
+    "state change",
+    "liquid to gas"
+  ],
+  "options": null,
+  "correct_answer": "Evaporation occurs when particles at the surface of a liquid gain enough energy to escape as gas, and can happen at any temperature. Boiling occurs when particles throughout the entire liquid have enough energy to form gas bubbles, and happens at a specific temperature (boiling point). Evaporation happens at room temperature; boiling happens when heated to 100\u00b0C (for water).",
+  "explanation": "In evaporation, only fast-moving particles at the surface escape. In boiling, bubbles of gas form throughout the liquid. Boiling requires a specific temperature, while evaporation is continuous.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "f6068027-db3c-484c-be5b-40d7e31a8655",
+  "question_text": "The Moon's gravity is about 1/6 of Earth's gravity. A person weighs 600 N on Earth. Calculate their weight on the Moon and explain what this difference tells us about the Moon's mass.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "gravity",
+    "weight",
+    "calculation",
+    "Moon mass"
+  ],
+  "options": null,
+  "correct_answer": "Weight on Moon = 100 N. This indicates the Moon has much less mass than Earth, producing weaker gravitational pull.",
+  "explanation": "Weight = mass \u00d7 gravity. On Moon: W = 600 N \u00d7 (1/6) = 100 N. The much weaker gravity on the Moon means it must have significantly less mass than Earth, since gravity depends on mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

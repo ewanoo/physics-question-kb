@@ -1,0 +1,18 @@
+{
+  "id": "5b2d19fe-3f02-47c7-8410-c5ee9b2dff07",
+  "question_text": "A satellite orbits Earth in a circular path at constant speed. Is the satellite in equilibrium? Justify your answer with reference to forces and acceleration.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "equilibrium",
+    "circular motion",
+    "gravitational force",
+    "acceleration"
+  ],
+  "options": null,
+  "correct_answer": "No, the satellite is not in equilibrium. Although it travels at constant speed, it is constantly changing direction, which means it is accelerating. The gravitational force provides this acceleration, pulling the satellite toward Earth's center. Since there is a net force, the satellite is not in equilibrium.",
+  "explanation": "Equilibrium requires both no net force AND constant velocity (or being at rest). Even though the satellite's speed is constant, its direction continuously changes, meaning it accelerates. The unbalanced gravitational force causes this centripetal acceleration.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

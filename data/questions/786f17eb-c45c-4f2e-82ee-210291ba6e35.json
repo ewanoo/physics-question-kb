@@ -1,0 +1,17 @@
+{
+  "id": "786f17eb-c45c-4f2e-82ee-210291ba6e35",
+  "question_text": "A block of wood has a mass of 500 g and a volume of 1000 cm\u00b3. Is this wood more or less dense than water (density of water = 1 g/cm\u00b3)?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "comparison",
+    "water"
+  ],
+  "options": null,
+  "correct_answer": "Less dense. The wood has a density of 0.5 g/cm\u00b3, which is less than water's 1 g/cm\u00b3, so it will float.",
+  "explanation": "To find the density of the wood, divide mass by volume: 500 g \u00f7 1000 cm\u00b3 = 0.5 g/cm\u00b3. Since this is less than 1 g/cm\u00b3, the wood is less dense than water and will float.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

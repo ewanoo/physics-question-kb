@@ -1,0 +1,17 @@
+{
+  "id": "80109403-376b-43f3-97cf-50dab62b8c53",
+  "question_text": "On the summer solstice (around 21 June), the Northern Hemisphere has the longest day. Calculate the length of day at the Arctic Circle, where the Sun doesn't set for 24 hours. Why is this special at the solstice?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "solstice",
+    "Arctic Circle",
+    "daylight"
+  ],
+  "options": null,
+  "correct_answer": "At the Arctic Circle on the summer solstice, the day is 24 hours long (the Sun doesn't set at all). This is special because it's the extreme case of the tilted axis effect\u2014this latitude is tilted directly towards the Sun at maximum.",
+  "explanation": "The Arctic Circle (latitude 66.5\u00b0) is the furthest north where the Sun rises above the horizon at least once per year. At the summer solstice, this latitude experiences 24-hour daylight because of Earth's axial tilt.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

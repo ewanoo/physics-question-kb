@@ -1,0 +1,18 @@
+{
+  "id": "c750166f-bc33-4fb1-895a-bc9022a37648",
+  "question_text": "A student claims that summer is hotter than winter because Earth is closer to the Sun in summer. Use your knowledge of seasons to evaluate this claim for the Northern Hemisphere.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "axial tilt",
+    "misconception",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The claim is incorrect for the Northern Hemisphere. In fact, Earth is closest to the Sun in January (during Northern winter). Summer is caused by the tilted axis pointing the Northern Hemisphere towards the Sun, not by distance. This causes longer days and more direct sunlight.",
+  "explanation": "Seasons are primarily caused by axial tilt, not orbital distance. The hemisphere tilted towards the Sun receives more direct sunlight and has longer days, making it warmer, even if Earth is slightly farther away at that time.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

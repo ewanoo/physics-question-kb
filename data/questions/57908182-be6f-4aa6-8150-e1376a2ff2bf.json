@@ -1,0 +1,38 @@
+{
+  "id": "57908182-be6f-4aa6-8150-e1376a2ff2bf",
+  "question_text": "What happens to gas particles when the pressure on a gas increases?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "particles",
+    "compression"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They move further apart",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They are pushed closer together",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They stop moving completely",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "They change colour",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When pressure increases, the gas is compressed into a smaller space, pushing the particles closer together. The particles collide more frequently with the container walls.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

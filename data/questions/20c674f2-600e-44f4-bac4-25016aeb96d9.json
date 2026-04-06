@@ -1,0 +1,18 @@
+{
+  "id": "20c674f2-600e-44f4-bac4-25016aeb96d9",
+  "question_text": "When water boils, it changes from liquid to gas. Describe what happens to the spacing between water particles during boiling.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "boiling",
+    "particles",
+    "state change",
+    "spacing"
+  ],
+  "options": null,
+  "correct_answer": "The particles move much further apart. In the liquid, particles are close together but free to move. In the gas, particles are very spread out with large distances between them.",
+  "explanation": "Boiling requires energy to break the forces holding particles together in the liquid state. Gas particles have much more energy and move very fast, spreading far apart to fill any available space.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

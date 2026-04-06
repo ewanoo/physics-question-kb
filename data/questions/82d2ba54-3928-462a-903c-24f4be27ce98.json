@@ -1,0 +1,18 @@
+{
+  "id": "82d2ba54-3928-462a-903c-24f4be27ce98",
+  "question_text": "A student observes that a loud noise made underwater sounds different when heard from above the water surface. Explain why the sound is altered, considering how sound travels through different media.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "refraction",
+    "media",
+    "properties"
+  ],
+  "options": null,
+  "correct_answer": "Sound travels at different speeds in water (~1500 m/s) than in air (~330 m/s). When sound crosses the air-water boundary, it refracts (bends), changing direction and how the wave reaches the listener's ear. The wavelength also changes as frequency stays constant but speed changes.",
+  "explanation": "The change in medium causes refraction and a change in wavelength (since speed changes but frequency doesn't). Additionally, some sound reflects at the boundary rather than passing through, further altering what's heard.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

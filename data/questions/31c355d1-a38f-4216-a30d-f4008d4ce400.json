@@ -1,0 +1,38 @@
+{
+  "id": "31c355d1-a38f-4216-a30d-f4008d4ce400",
+  "question_text": "What does Hooke's Law state?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's Law",
+    "springs",
+    "extension"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Springs always break when stretched",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The extension of a spring is directly proportional to the force applied, up to the elastic limit",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Springs can only be compressed, not stretched",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The more you stretch a spring, the less force is needed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Hooke's Law tells us that if you double the force on a spring, it stretches twice as much (within limits). This relationship is: Force = spring constant \u00d7 extension.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

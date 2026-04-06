@@ -1,0 +1,17 @@
+{
+  "id": "cceb37d7-a8f3-454c-a73f-43355a2caae5",
+  "question_text": "A bicycle pump reduces the volume of air inside it from 500 cm\u00b3 to 100 cm\u00b3. What happens to the pressure of the air inside the pump?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "volume",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "The pressure increases. The air is compressed into a smaller space, so the particles collide more frequently with the container, increasing pressure.",
+  "explanation": "When volume decreases, pressure increases (Boyle's Law). In this case, the volume reduced by a factor of 5 (500\u00f7100), so the pressure should increase roughly 5 times.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fe5cfc3d-2153-4c39-a1fd-43ee51dc6d6c",
+  "question_text": "A door handle is always placed far from the hinge. Explain why using the concept of moments.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "application",
+    "distance",
+    "pivot"
+  ],
+  "options": null,
+  "correct_answer": "The hinge is the pivot point. By placing the handle far from the hinge, the distance from the pivot is large, which increases the moment for the same pushing force. A larger moment means it's easier to turn the door with less force.",
+  "explanation": "Moment depends on both the force and the distance from the pivot. A large distance from the pivot makes it easier to create a large turning effect, requiring less effort.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

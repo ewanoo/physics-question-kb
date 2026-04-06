@@ -1,0 +1,18 @@
+{
+  "id": "e4881931-dcb2-4ff0-83b3-55914379b9a6",
+  "question_text": "Ice at 0\u00b0C is heated until it completely melts into water at 0\u00b0C. Does the temperature change during melting, and if not, where does the energy go?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "latent heat",
+    "energy",
+    "temperature"
+  ],
+  "options": null,
+  "correct_answer": "No, the temperature does not change during melting - it stays at 0\u00b0C. The energy goes into breaking the bonds between particles, allowing the ice to change structure from solid to liquid. This is called latent heat of fusion.",
+  "explanation": "During a change of state like melting, the temperature stays constant even though energy is being added. The energy is used to overcome forces between particles, not to increase kinetic energy (which determines temperature).",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

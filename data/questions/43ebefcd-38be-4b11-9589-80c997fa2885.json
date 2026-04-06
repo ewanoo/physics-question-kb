@@ -1,0 +1,17 @@
+{
+  "id": "43ebefcd-38be-4b11-9589-80c997fa2885",
+  "question_text": "Name two ways that friction can be reduced between two surfaces.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "reducing",
+    "surfaces"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: using a lubricant (oil/grease), polishing surfaces to make them smoother, using ball bearings, or reducing the normal force.",
+  "explanation": "Friction is reduced when surfaces are smoother or when there's less force pressing them together. Lubricants like oil create a slippery layer between surfaces.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

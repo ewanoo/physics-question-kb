@@ -1,0 +1,38 @@
+{
+  "id": "f6c98ff3-8800-4be0-ba65-233979dab919",
+  "question_text": "A block is being dragged across a wooden floor at constant speed. Which statement is true?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "equilibrium",
+    "constant speed"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The applied force is greater than the friction force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The applied force equals the friction force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Friction is zero because the block is moving",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The friction force is greater than the applied force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When an object moves at constant speed, it means the forces are balanced (no acceleration). Therefore, the pushing force must equal the friction force opposing it.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

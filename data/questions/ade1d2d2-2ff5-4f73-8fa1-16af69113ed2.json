@@ -1,0 +1,18 @@
+{
+  "id": "ade1d2d2-2ff5-4f73-8fa1-16af69113ed2",
+  "question_text": "A container of gas at 300 K and 100 kPa is heated to 600 K in a rigid container (volume stays constant). A student claims the pressure will triple. Evaluate this claim with a calculation.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "temperature",
+    "calculation",
+    "Gay-Lussac's Law"
+  ],
+  "options": null,
+  "correct_answer": "The claim is correct. New pressure = 200 kPa (exactly double, not triple). The student is incorrect.",
+  "explanation": "Using Gay-Lussac's Law (P\u2081/T\u2081 = P\u2082/T\u2082): 100 kPa \u00f7 300 K = P\u2082 \u00f7 600 K. P\u2082 = (100 \u00d7 600) \u00f7 300 = 200 kPa. When absolute temperature doubles, pressure doubles, not triples.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dcebe64a-8b4e-4433-a607-8be12c9d010f",
+  "question_text": "A 50 kg student's weight on Earth is 500 N (using g = 10 m/s\u00b2). If the student travelled to a planet with stronger gravity, how would their mass and weight change?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "mass",
+    "weight",
+    "planet"
+  ],
+  "options": null,
+  "correct_answer": "Mass stays 50 kg (mass never changes). Weight would increase because the stronger gravity would pull harder on their mass.",
+  "explanation": "Mass is an intrinsic property that doesn't change with location. Weight depends on gravity, so stronger gravity means greater weight. Weight = mass \u00d7 gravity.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

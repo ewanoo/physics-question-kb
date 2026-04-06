@@ -1,0 +1,18 @@
+{
+  "id": "07b2dc8e-b5a1-43f1-b1c4-78afa212f6c6",
+  "question_text": "A sound wave has a frequency of 440 Hz and travels through air at 330 m/s. Calculate the wavelength of this sound wave.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "wavelength",
+    "frequency",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.75 m (or 75 cm)",
+  "explanation": "Using the wave equation: speed = frequency \u00d7 wavelength, so wavelength = speed \u00f7 frequency = 330 m/s \u00f7 440 Hz = 0.75 m. This frequency is the musical note A4.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

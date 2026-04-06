@@ -1,0 +1,18 @@
+{
+  "id": "642378fa-36d4-4ba5-bc1c-ce52adac8811",
+  "question_text": "A seesaw is balanced with a 30 N force at 2 metres from the pivot on one side. If a 20 N force is applied on the other side, at what distance from the pivot must it be placed to keep the seesaw balanced?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "balance",
+    "calculation",
+    "principle of moments"
+  ],
+  "options": null,
+  "correct_answer": "3 metres",
+  "explanation": "Using the principle of moments: for balance, clockwise moments must equal anticlockwise moments. Moment = Force \u00d7 Distance, so 30 \u00d7 2 = 20 \u00d7 distance. Therefore: 60 = 20 \u00d7 distance, distance = 3 metres.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

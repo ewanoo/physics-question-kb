@@ -1,0 +1,17 @@
+{
+  "id": "dc958abf-ef4d-4bd9-b011-70534b0d95a1",
+  "question_text": "A spring is stretched beyond its elastic limit and does not return to its original length. Explain what has happened and why, relating your answer to the structure of the spring.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "permanent deformation",
+    "structure"
+  ],
+  "options": null,
+  "correct_answer": "The spring has undergone permanent deformation. When stretched beyond the elastic limit, the internal bonds in the spring's material are broken, and the coils cannot return to their original arrangement. The atoms/molecules have moved too far apart and cannot snap back into position.",
+  "explanation": "Springs have an elastic limit - a maximum force they can withstand while still returning to normal. Beyond this point, the material is permanently damaged and cannot recover its original shape because the atomic structure has been irreversibly changed.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

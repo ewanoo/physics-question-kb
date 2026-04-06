@@ -1,0 +1,17 @@
+{
+  "id": "9f5f7001-3fb1-4f57-bf41-5860a32b1b6e",
+  "question_text": "A gas has an initial pressure of 200 Pa and occupies a volume of 4 m\u00b3. If the volume is compressed to 2 m\u00b3 at constant temperature, what is the new pressure?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "gas pressure",
+    "calculation",
+    "Boyle's Law"
+  ],
+  "options": null,
+  "correct_answer": "400 Pa",
+  "explanation": "Using Boyle's Law (P\u2081V\u2081 = P\u2082V\u2082): 200 Pa \u00d7 4 m\u00b3 = P\u2082 \u00d7 2 m\u00b3, so P\u2082 = 800 \u00f7 2 = 400 Pa. When volume halves, pressure doubles.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

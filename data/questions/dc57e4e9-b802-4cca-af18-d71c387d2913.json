@@ -1,0 +1,17 @@
+{
+  "id": "dc57e4e9-b802-4cca-af18-d71c387d2913",
+  "question_text": "Explain why we only see one side of the Moon from Earth. What is this phenomenon called?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon rotation",
+    "tidal locking",
+    "synchronous rotation"
+  ],
+  "options": null,
+  "correct_answer": "The Moon is tidally locked, meaning it rotates once on its axis for every orbit around Earth. This is called synchronous rotation, so the same face always points toward Earth.",
+  "explanation": "Tidal locking occurs when the time it takes an object to rotate equals the time it takes to orbit. For the Moon, both periods are about 28 days, so we always see the same side facing us.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

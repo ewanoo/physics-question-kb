@@ -1,0 +1,17 @@
+{
+  "id": "4e05432f-43b6-4eeb-ac38-bd1fdef019b0",
+  "question_text": "Explain why the Northern and Southern Hemispheres experience opposite seasons at the same time of year.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "axial tilt",
+    "hemispheres"
+  ],
+  "options": null,
+  "correct_answer": "Earth's axis is tilted at 23.5\u00b0. When the Northern Hemisphere is tilted towards the Sun (summer), the Southern Hemisphere is tilted away (winter). As Earth orbits, this tilt causes opposite seasons in each hemisphere.",
+  "explanation": "The tilt causes one hemisphere to receive more direct sunlight (and longer days) while the other receives less direct sunlight (and shorter days). This creates opposite seasons.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

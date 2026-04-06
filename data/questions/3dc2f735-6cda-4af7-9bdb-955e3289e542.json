@@ -1,0 +1,18 @@
+{
+  "id": "3dc2f735-6cda-4af7-9bdb-955e3289e542",
+  "question_text": "A student observes that wet clothes dry faster on a hot, windy day than on a cold, still day. Use your knowledge of states of matter and particle behaviour to explain this observation.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "evaporation",
+    "particle energy",
+    "conditions",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "Heat gives water particles more energy to escape from the liquid into the gas state (evaporation). Wind removes the water vapour around the clothes, preventing particles from condensing back to liquid. Cold conditions slow particle movement, reducing evaporation.",
+  "explanation": "Evaporation occurs when liquid particles gain enough energy to become gas. Heat speeds this up, and wind prevents saturation, so more water escapes as vapour. Cold slows particle movement, so fewer particles have enough energy to evaporate.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

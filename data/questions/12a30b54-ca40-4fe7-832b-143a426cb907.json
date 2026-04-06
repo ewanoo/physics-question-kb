@@ -1,0 +1,17 @@
+{
+  "id": "12a30b54-ca40-4fe7-832b-143a426cb907",
+  "question_text": "The gravitational force between two objects depends on their masses and the distance between them. If two objects are moved twice as far apart, what happens to the gravitational force between them?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "inverse square law",
+    "distance"
+  ],
+  "options": null,
+  "correct_answer": "The gravitational force becomes 1/4 of its original value (it decreases by a factor of 4).",
+  "explanation": "Gravitational force follows the inverse square law: if distance doubles, force becomes 1/(2\u00b2) = 1/4 of the original. This is why gravity gets much weaker at large distances.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

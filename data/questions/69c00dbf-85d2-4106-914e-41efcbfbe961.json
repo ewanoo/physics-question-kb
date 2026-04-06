@@ -1,0 +1,18 @@
+{
+  "id": "69c00dbf-85d2-4106-914e-41efcbfbe961",
+  "question_text": "A car tyre has a higher coefficient of friction on wet tarmac than on icy roads. Explain why this matters for road safety and what happens when a driver brakes hard on ice compared to wet tarmac.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "coefficient",
+    "safety",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Higher friction on wet tarmac means there is more grip between the tyre and road, allowing the brakes to be more effective at slowing the car. On ice, with lower friction, the brakes are less effective and the car may skid because the friction force is not strong enough to decelerate the car as quickly.",
+  "explanation": "Coefficient of friction determines how much friction acts between surfaces. When braking, the friction force must be large enough to slow the car down without the wheels sliding. Ice has very low friction, so even hard braking cannot generate enough friction force to stop safely.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

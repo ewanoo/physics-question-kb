@@ -1,0 +1,38 @@
+{
+  "id": "71bad034-b3c7-40f1-81f9-aeba27d7fb02",
+  "question_text": "Which of these best describes how sound travels?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "waves",
+    "propagation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "As a series of vibrating particles in a medium",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "As light waves through empty space",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "As invisible rays that travel in straight lines",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Instantaneously from source to ear",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Sound is a longitudinal wave that travels by making particles in a medium (like air or water) vibrate back and forth. These vibrations transfer the sound energy outwards.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

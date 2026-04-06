@@ -1,0 +1,18 @@
+{
+  "id": "32689176-781c-4157-9300-cdb528bc1363",
+  "question_text": "A metal cube has a side length of 2 cm and a mass of 64 g. Calculate the density of the metal.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "calculation",
+    "cube",
+    "volume"
+  ],
+  "options": null,
+  "correct_answer": "8 g/cm\u00b3",
+  "explanation": "First, calculate the volume: 2 cm \u00d7 2 cm \u00d7 2 cm = 8 cm\u00b3. Then divide mass by volume: 64 g \u00f7 8 cm\u00b3 = 8 g/cm\u00b3.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

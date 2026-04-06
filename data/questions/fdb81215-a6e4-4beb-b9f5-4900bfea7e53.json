@@ -1,0 +1,39 @@
+{
+  "id": "fdb81215-a6e4-4beb-b9f5-4900bfea7e53",
+  "question_text": "What is the definition of density?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "definition",
+    "density",
+    "mass",
+    "volume"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The mass of an object divided by its volume",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The weight of an object divided by its height",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The volume of an object divided by its mass",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The temperature of a substance",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Density is a measure of how much mass is packed into a certain volume. It tells us how tightly packed the particles of a substance are.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

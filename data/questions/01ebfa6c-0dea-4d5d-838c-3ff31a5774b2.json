@@ -1,0 +1,17 @@
+{
+  "id": "01ebfa6c-0dea-4d5d-838c-3ff31a5774b2",
+  "question_text": "Explain what happens to the particles in ice when it melts into water. How do the particles' positions and movements change?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "melting",
+    "particles",
+    "state change"
+  ],
+  "options": null,
+  "correct_answer": "In ice, particles are arranged in a fixed lattice and vibrate in place. When melted, particles break free and move randomly around, allowing the liquid to flow. The particles are closer together than in gas but have more freedom of movement than in solid.",
+  "explanation": "Melting is a phase change where particles gain enough energy to overcome forces holding them in fixed positions. They can now move freely, which is why liquid water can flow unlike solid ice.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

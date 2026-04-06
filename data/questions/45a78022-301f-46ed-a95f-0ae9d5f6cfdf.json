@@ -1,0 +1,38 @@
+{
+  "id": "45a78022-301f-46ed-a95f-0ae9d5f6cfdf",
+  "question_text": "What is gravity?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "force",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that pushes objects up into the air",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A force that pulls objects towards the Earth (and other massive objects)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed at which objects fall",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The weight of an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravity is a force of attraction between all objects with mass. Earth's gravity pulls objects downward towards its centre, giving them weight.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

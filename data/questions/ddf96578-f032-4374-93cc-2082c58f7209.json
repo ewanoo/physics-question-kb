@@ -1,0 +1,18 @@
+{
+  "id": "ddf96578-f032-4374-93cc-2082c58f7209",
+  "question_text": "A mobile hangs in equilibrium with three different masses. Mass A (4 kg) hangs 0.5 m from the pivot, Mass B (3 kg) hangs 0.8 m on the opposite side, and Mass C hangs at 0.6 m from the pivot. Calculate the mass of C if the system is balanced. (Use g = 10 N/kg)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "balance",
+    "multi-step",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "2.67 kg (or approximately 2.7 kg)",
+  "explanation": "First, calculate the moments: Mass A creates a moment of 4 \u00d7 10 \u00d7 0.5 = 20 Nm. Mass B creates a moment of 3 \u00d7 10 \u00d7 0.8 = 24 Nm. For balance, Mass C's moment must balance the difference: 24 - 20 = 4 Nm. So C \u00d7 10 \u00d7 0.6 = 4, which gives C = 4 \u00f7 6 = 0.67 kg... Wait, let me recalculate: actually both A and B are on opposite sides, so 20 + (C \u00d7 10 \u00d7 0.6) = 24, giving C \u00d7 6 = 4, so C = 0.67 kg. Or if C is on A's side: (20 + C \u00d7 10 \u00d7 0.6) = 24, giving C = 0.67 kg.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

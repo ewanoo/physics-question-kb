@@ -1,0 +1,18 @@
+{
+  "id": "d278814a-8bd3-4ca3-b9df-ac60f3e90af5",
+  "question_text": "A book rests on a table. Describe all the forces acting on the book and explain whether the book is in equilibrium.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "forces",
+    "equilibrium",
+    "weight",
+    "normal force"
+  ],
+  "options": null,
+  "correct_answer": "Two forces act on the book: the weight (gravitational force) acts downward, and the normal force acts upward from the table. Yes, the book is in equilibrium because these forces are equal and opposite, so the net force is zero.",
+  "explanation": "An object is in equilibrium when all forces on it are balanced. The book doesn't accelerate because the upward push from the table exactly equals the downward pull of gravity.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

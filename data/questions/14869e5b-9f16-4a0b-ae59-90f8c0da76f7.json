@@ -1,0 +1,38 @@
+{
+  "id": "14869e5b-9f16-4a0b-ae59-90f8c0da76f7",
+  "question_text": "What is the Moon?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon",
+    "Earth",
+    "satellite"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A planet orbiting the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Earth's natural satellite",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A comet that visits Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A small star near Earth",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The Moon is Earth's natural satellite, which means it orbits around Earth. It is much smaller than Earth and does not produce its own light; it reflects light from the Sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

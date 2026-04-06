@@ -1,0 +1,18 @@
+{
+  "id": "2b4bef7a-8573-4ce2-ab77-883d7dbf3621",
+  "question_text": "A spring has a spring constant of 50 N/m. Calculate the extension when a 10 N force is applied to it.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's Law",
+    "spring constant",
+    "extension",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.2 m or 20 cm",
+  "explanation": "Using F = ke, where F is force (10 N), k is spring constant (50 N/m), and e is extension. Rearranging: e = F/k = 10/50 = 0.2 m.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

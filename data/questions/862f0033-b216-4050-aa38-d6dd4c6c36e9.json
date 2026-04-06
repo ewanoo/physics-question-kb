@@ -1,0 +1,18 @@
+{
+  "id": "862f0033-b216-4050-aa38-d6dd4c6c36e9",
+  "question_text": "Three objects have the following properties:\nObject X: mass = 10 kg, volume = 2 m\u00b3\nObject Y: mass = 30 kg, volume = 3 m\u00b3\nObject Z: mass = 5 kg, volume = 1 m\u00b3\n\nWhich object is the densest?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density",
+    "comparison",
+    "calculation",
+    "multiple objects"
+  ],
+  "options": null,
+  "correct_answer": "Object Z (density = 5 kg/m\u00b3)",
+  "explanation": "Calculate density for each: X = 10\u00f72 = 5 kg/m\u00b3, Y = 30\u00f73 = 10 kg/m\u00b3, Z = 5\u00f71 = 5 kg/m\u00b3. Object Y has the highest density at 10 kg/m\u00b3, making it the densest.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

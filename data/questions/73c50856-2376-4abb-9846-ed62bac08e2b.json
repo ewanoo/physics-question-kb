@@ -1,0 +1,18 @@
+{
+  "id": "73c50856-2376-4abb-9846-ed62bac08e2b",
+  "question_text": "Two springs are placed side by side (in parallel). Spring A has a constant of 100 N/m and Spring B has a constant of 150 N/m. When a 50 N force is applied to both springs together, what is the total extension?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "springs",
+    "parallel",
+    "spring constant",
+    "extension"
+  ],
+  "options": null,
+  "correct_answer": "0.2 m or 20 cm",
+  "explanation": "When springs are in parallel, the force is shared between them. Spring A extends by: 50/100 = 0.5 m. Spring B extends by: 50/150 = 0.33 m. Since they move together, the total extension equals the smaller extension: 0.2 m. Actually, for parallel springs, the effective spring constant is 100 + 150 = 250 N/m, so extension = 50/250 = 0.2 m.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

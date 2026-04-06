@@ -1,0 +1,37 @@
+{
+  "id": "5e2329e3-a940-44b9-b3d1-868e87240566",
+  "question_text": "Which of the following is an example of a contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact force",
+    "types of forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Normal force (pushing from a surface)",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Electrostatic force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Contact forces are forces that act when two objects touch. Normal force is the pushing force a surface exerts when something presses on it. Magnetic and gravitational forces don't require contact.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

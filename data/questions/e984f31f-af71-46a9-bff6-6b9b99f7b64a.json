@@ -1,0 +1,37 @@
+{
+  "id": "e984f31f-af71-46a9-bff6-6b9b99f7b64a",
+  "question_text": "Which of these is NOT a state of matter?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "states of matter",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Solid",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gas",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Energy",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": "D",
+  "explanation": "The three states of matter are solid, liquid, and gas. Energy is not a state of matter; it is something that can be transferred between objects.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "47c501f1-5ad7-46b3-9547-48cdcbb74655",
+  "question_text": "What is melting?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "state change",
+    "solid to liquid"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "When a liquid turns into a gas",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "When a solid turns into a liquid by heating",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "When a gas turns into a liquid",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "When a substance breaks apart",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Melting is the process where a solid is heated and changes into a liquid. Ice melting into water is a common example.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

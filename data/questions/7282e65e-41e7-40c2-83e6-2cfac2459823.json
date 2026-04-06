@@ -1,0 +1,17 @@
+{
+  "id": "7282e65e-41e7-40c2-83e6-2cfac2459823",
+  "question_text": "Why can you hear someone calling from another room even if you cannot see them?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "sound",
+    "propagation",
+    "diffraction"
+  ],
+  "options": null,
+  "correct_answer": "Sound waves can diffract (bend) around obstacles and through doorways. This allows sound to travel around corners and barriers, reaching your ear even if there's no direct line of sight to the source.",
+  "explanation": "Sound waves have relatively long wavelengths compared to visible light, so they diffract easily around obstacles. Light does not bend as much around corners, which is why you can't see someone if they're blocked from view.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}
