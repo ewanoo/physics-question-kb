@@ -1,0 +1,18 @@
+{
+  "id": "3b82871b-2bee-4c3b-83a7-621a2edfd91b",
+  "question_text": "What is gravitational potential energy?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "potential energy",
+    "energy stores",
+    "gravity",
+    "definition"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy is the energy stored in an object due to its position above the ground. The higher an object is, the more gravitational potential energy it has.",
+  "explanation": "Objects at height have stored energy because of their position in Earth's gravitational field. This energy can be converted to kinetic energy if the object falls.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

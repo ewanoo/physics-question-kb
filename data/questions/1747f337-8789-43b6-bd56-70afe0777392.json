@@ -1,0 +1,18 @@
+{
+  "id": "1747f337-8789-43b6-bd56-70afe0777392",
+  "question_text": "A student pushes a box across a floor with a force of 50 N, and the box experiences a friction force of 30 N. The box has a mass of 10 kg. What is the pressure exerted by the box on the floor?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure",
+    "force",
+    "area",
+    "weight"
+  ],
+  "options": null,
+  "correct_answer": "The weight (normal force) is F = mg = 10 \u00d7 10 = 100 N. Without knowing the contact area, we cannot calculate pressure. However, if the contact area is 0.5 m\u00b2, pressure = 100 \u00f7 0.5 = 200 Pa.",
+  "explanation": "Pressure is force divided by area (P = F/A). The normal force on the floor equals the box's weight (100 N). To find pressure, we need the contact area between the box and floor.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

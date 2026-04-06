@@ -1,0 +1,38 @@
+{
+  "id": "4b9b0aac-94f1-497c-8417-8c5994f74449",
+  "question_text": "A book is resting on a table. Which of the following is true about the forces acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "objects at rest",
+    "Newton's laws"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight force is greater than the normal force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces are balanced and the book is in equilibrium",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "There is only one force acting on the book",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The normal force is much smaller than the weight",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When an object is at rest on a surface, the upward normal force from the table exactly balances the downward weight force. These balanced forces mean the object remains stationary.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

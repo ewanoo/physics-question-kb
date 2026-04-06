@@ -1,0 +1,18 @@
+{
+  "id": "09a4bcbc-586e-4ad3-a28d-be16c456ea38",
+  "question_text": "A liquid is heated from 20\u00b0C to 80\u00b0C and its volume increases by 5%. Using the particle model, explain why the volume increases and why the liquid does not expand as much as a gas would in the same situation.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "thermal expansion",
+    "particle spacing",
+    "density",
+    "states of matter comparison"
+  ],
+  "options": null,
+  "correct_answer": "The particles gain thermal energy and vibrate more, pushing slightly apart and increasing volume. Liquids expand less than gases because liquid particles are already close together with strong intermolecular forces holding them, whereas gas particles are far apart with weak forces.",
+  "explanation": "Heating increases particle movement. In liquids, particles are already closely packed with strong attractions between them, so they can only move apart slightly. In gases, particles are far apart with weak attractions, so heating causes much greater expansion.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

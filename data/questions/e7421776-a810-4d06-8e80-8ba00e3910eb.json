@@ -1,0 +1,18 @@
+{
+  "id": "e7421776-a810-4d06-8e80-8ba00e3910eb",
+  "question_text": "A 2 kg block is sliding across a rough surface with an initial velocity of 10 m/s. The friction force is 8 N. Calculate the acceleration of the block and determine whether it will eventually stop.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "Newton's second law",
+    "unbalanced forces",
+    "friction",
+    "kinematics"
+  ],
+  "options": null,
+  "correct_answer": "Acceleration = -4 m/s\u00b2 (deceleration). Yes, the block will eventually stop because friction is causing a negative acceleration.",
+  "explanation": "Using F = ma, the friction force of 8 N causes an acceleration of 8 \u00f7 2 = -4 m/s\u00b2. The negative acceleration means the block is slowing down. Eventually, its velocity will reach zero and it will stop.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

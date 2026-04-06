@@ -1,0 +1,18 @@
+{
+  "id": "1d7096e2-27f3-49d1-a038-0a973f35bb35",
+  "question_text": "A hydroelectric power station generates electricity using water falling from a reservoir. Identify the energy transformations involved and explain why hydroelectric power is considered renewable.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "energy transformation",
+    "hydroelectric power",
+    "sustainability"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy (in elevated water) \u2192 kinetic energy (falling water) \u2192 electrical energy (through turbines and generators). Hydroelectric power is renewable because the water cycle continuously replenishes the water in the reservoir through rain and evaporation.",
+  "explanation": "Falling water has kinetic energy that drives turbines connected to generators to produce electricity. The water cycle naturally refills reservoirs, making it renewable as long as rain continues.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

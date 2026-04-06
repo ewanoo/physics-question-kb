@@ -1,0 +1,38 @@
+{
+  "id": "ba0b37aa-080e-4191-bd84-114eae6bae29",
+  "question_text": "Which of the following is a renewable energy resource?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable energy",
+    "energy sources",
+    "sustainability"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Natural gas",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Solar power",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Oil",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Solar power is renewable because the Sun continuously produces energy that we can harness. Coal, natural gas, and oil are fossil fuels that take millions of years to form and will eventually run out.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

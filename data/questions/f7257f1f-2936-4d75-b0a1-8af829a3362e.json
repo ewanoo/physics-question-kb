@@ -1,0 +1,18 @@
+{
+  "id": "f7257f1f-2936-4d75-b0a1-8af829a3362e",
+  "question_text": "A sharp pin has a point with an area of 0.001 mm\u00b2. A person pushes the pin with a force of 10 N. A flat rubber pad has an area of 100 cm\u00b2 and exerts the same 10 N force. Calculate the pressure from both the pin and the pad, and explain why the pin is more dangerous despite using the same force.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure calculation",
+    "force concentration",
+    "safety",
+    "applications of pressure"
+  ],
+  "options": null,
+  "correct_answer": "Pin pressure: 10 N \u00f7 0.000001 m\u00b2 = 10,000,000 Pa (10 MPa). Pad pressure: 10 N \u00f7 0.01 m\u00b2 = 1000 Pa. The pin creates 10,000 times greater pressure, which can puncture skin and tissue.",
+  "explanation": "Pressure depends on both force and area. The same force concentrated on a tiny point (pin) creates enormous pressure, while the same force spread over a large area (pad) creates much lower pressure. High pressure can break through materials; low pressure cannot.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

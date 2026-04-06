@@ -1,0 +1,19 @@
+{
+  "id": "dda9eb03-877d-4f69-9aa1-c77b288fc793",
+  "question_text": "A student has three unmarked bars: one is a permanent magnet, one is made of iron, and one is made of copper. The student places each bar near a compass and observes the compass needle's response. Then the student picks up each bar and uses it to pick up paper clips. Finally, the student removes the magnetic field source and observes what happens to the paper clips. Explain which bar is the permanent magnet and which is the iron bar, using evidence from all three observations.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "induced magnetism",
+    "magnetic properties",
+    "iron",
+    "magnetic materials"
+  ],
+  "options": null,
+  "correct_answer": "The permanent magnet always deflects the compass and picks up paper clips that remain attached even when the field is removed. The iron bar picks up paper clips near a magnetic field but drops them when the field is removed (induced magnetism). The copper bar does neither. The iron bar shows induced magnetism; the permanent magnet is ferromagnetic with its own field.",
+  "explanation": "Permanent magnets have their own magnetic field that persists. Iron becomes magnetic only when near another magnet (induced magnetism) and loses it when the field is removed. Copper is non-magnetic. The permanent magnet's persistent field distinguishes it from the temporarily magnetized iron.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

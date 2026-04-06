@@ -1,0 +1,39 @@
+{
+  "id": "8e4b6afa-03aa-4e8c-af5e-7f6359ef88f2",
+  "question_text": "A solid metal block is heated. What happens to the movement of particles inside the block?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "thermal energy",
+    "particle motion",
+    "heat",
+    "internal energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The particles stop moving",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The particles vibrate more vigorously around fixed positions",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The particles move to the edges of the block",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The particles change colour",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When a solid is heated, the thermal energy increases, causing the particles to vibrate more rapidly around their fixed positions. This increased vibration is what we observe as an increase in temperature.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

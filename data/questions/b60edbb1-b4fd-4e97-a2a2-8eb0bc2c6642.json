@@ -1,0 +1,18 @@
+{
+  "id": "b60edbb1-b4fd-4e97-a2a2-8eb0bc2c6642",
+  "question_text": "The Moon orbits Earth approximately every 28 days. What provides the force that keeps the Moon in orbit?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "gravity",
+    "orbits",
+    "centripetal force",
+    "Moon"
+  ],
+  "options": null,
+  "correct_answer": "Gravity (or gravitational force) from Earth pulls the Moon towards Earth, providing the centripetal force needed to keep it in orbit.",
+  "explanation": "Earth's gravity continuously pulls on the Moon, preventing it from moving in a straight line. This gravitational force acts as the centripetal force, causing the Moon to follow a circular orbit around Earth.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "472c3e6f-5210-418e-acee-3196dcc84031",
+  "question_text": "What are the three states of matter?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "particle model",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "Solid, liquid, and gas",
+  "explanation": "The three states of matter are solid (fixed shape and volume), liquid (fixed volume but takes the shape of its container), and gas (no fixed shape or volume).",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

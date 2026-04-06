@@ -1,0 +1,18 @@
+{
+  "id": "574dc680-1f9e-4ebf-89e6-542002d185af",
+  "question_text": "A cyclist travels 15 km in 30 minutes on a flat, straight road. Calculate the average speed of the cyclist in m/s and identify whether this speed is constant or changing throughout the journey.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "speed calculation",
+    "average speed",
+    "kinematics",
+    "unit conversion"
+  ],
+  "options": null,
+  "correct_answer": "Average speed = distance \u00f7 time = 15 km \u00f7 0.5 hours = 30 km/h = 30 \u00d7 (1000/3600) = 8.33 m/s. We cannot determine if speed is constant or changing from average speed alone; the cyclist may have accelerated, decelerated, or maintained constant speed.",
+  "explanation": "Average speed is total distance divided by total time. However, average speed tells us nothing about what happened during the journey\u2014the cyclist's instantaneous speed could have varied throughout.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

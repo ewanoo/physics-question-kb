@@ -1,0 +1,40 @@
+{
+  "id": "e9ae3588-6a2f-4356-b198-b4043755b2a4",
+  "question_text": "Two identical plastic combs are rubbed with a cloth. When one comb is brought near small pieces of paper, the paper pieces jump towards the comb. When the second comb is brought near the same pieces of paper after both combs have been left sitting for an hour, the paper pieces do not jump. What is responsible for the difference in behaviour?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "static electricity",
+    "charge",
+    "friction",
+    "electrons",
+    "discharge"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The second comb was rubbed with a different cloth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The charge on the second comb leaked away to the air and surroundings over time",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The paper pieces were used up by the first comb",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The second comb became magnetized instead of charged",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When you rub a comb, it becomes charged with static electricity. However, this charge gradually leaks away into the air and through the comb's surroundings. After an hour, the charge has dissipated, so the second comb no longer attracts paper.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

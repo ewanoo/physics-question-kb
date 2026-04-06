@@ -1,0 +1,18 @@
+{
+  "id": "cb3237b9-8262-4f91-b828-34acffa57925",
+  "question_text": "What is a magnetic field?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetism",
+    "magnetic field",
+    "definition",
+    "invisible force"
+  ],
+  "options": null,
+  "correct_answer": "A magnetic field is the region around a magnet where magnetic forces can be detected. It is an invisible force field that exerts forces on magnetic materials and other magnets.",
+  "explanation": "A magnetic field surrounds every magnet and extends into the space around it. It represents the area where the magnet can push or pull on other magnetic objects without touching them directly.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

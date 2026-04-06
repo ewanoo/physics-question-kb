@@ -1,0 +1,18 @@
+{
+  "id": "f20cc724-9473-4438-a8a4-ec21d451872f",
+  "question_text": "Mars is smaller and further from the Sun than Earth. A satellite orbiting Mars at the same distance from Mars's surface as the Moon is from Earth would experience different gravitational forces. Explain why the orbital period would be different, and calculate which satellite would have a longer orbital period if the gravitational field strength at Mars's surface is 3.7 N/kg compared to Earth's 10 N/kg.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital mechanics",
+    "gravity",
+    "Kepler's laws",
+    "comparative planetology"
+  ],
+  "options": null,
+  "correct_answer": "The satellite orbiting Mars would have a longer orbital period. Mars's weaker gravity (3.7 N/kg vs 10 N/kg) means weaker gravitational pull, resulting in slower orbital speeds and longer periods. The ratio suggests Mars's satellite would have a period approximately \u221a(10/3.7) \u2248 1.64 times longer.",
+  "explanation": "Orbital period depends on gravitational strength and orbital radius. Since Mars has weaker gravity, satellites orbit slower, taking longer to complete orbits. The relationship follows Kepler's third law, where weaker gravity at the same distance produces longer periods.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

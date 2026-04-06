@@ -1,0 +1,19 @@
+{
+  "id": "f04612b0-bd65-463f-89c7-ea970aa86d0c",
+  "question_text": "An electric heater rated at 2000 W is switched on for 30 minutes. Calculate the energy transferred to the surroundings in joules and in kilowatt-hours.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "electricity",
+    "time",
+    "unit conversion"
+  ],
+  "options": null,
+  "correct_answer": "Time = 30 minutes = 1800 seconds. Energy = Power \u00d7 Time = 2000 \u00d7 1800 = 3,600,000 J (or 3.6 MJ). In kWh: 2 kW \u00d7 0.5 hours = 1 kWh.",
+  "explanation": "Energy is calculated by multiplying power by time. With power in watts and time in seconds, the answer is in joules. To convert to kilowatt-hours, use kilowatts and hours.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

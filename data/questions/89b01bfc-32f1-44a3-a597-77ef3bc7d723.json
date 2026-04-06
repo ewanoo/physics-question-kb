@@ -1,0 +1,18 @@
+{
+  "id": "89b01bfc-32f1-44a3-a597-77ef3bc7d723",
+  "question_text": "A ball is dropped from a height of 20 m. At what point in its fall does it have the greatest amount of mechanical energy?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "mechanical energy",
+    "conservation of energy",
+    "potential energy",
+    "kinetic energy"
+  ],
+  "options": null,
+  "correct_answer": "At the starting point (height of 20 m), the ball has the greatest mechanical energy, which is entirely gravitational potential energy.",
+  "explanation": "Mechanical energy is the sum of kinetic and potential energy. At the top, the ball is stationary (no kinetic energy) but has maximum potential energy. As it falls, potential energy converts to kinetic energy, but the total mechanical energy stays constant.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

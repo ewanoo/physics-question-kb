@@ -1,0 +1,39 @@
+{
+  "id": "f73c9157-2f5b-45c5-a74c-e9f4f4754bb2",
+  "question_text": "Which of the following best describes the shape of Earth's orbit around the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbits",
+    "solar system",
+    "Earth",
+    "astronomy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Perfectly circular",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Slightly elliptical",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Spiral-shaped",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Triangular",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Earth's orbit is slightly elliptical, meaning it is almost circular but not perfectly round. The Sun is at one focus of the ellipse, which is why Earth is slightly closer to the Sun at some times of year than others.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}
