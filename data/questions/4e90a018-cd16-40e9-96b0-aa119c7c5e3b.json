@@ -1,0 +1,23 @@
+{
+  "question_text": "A box is being pulled along the ground by a rope at an angle. The rope exerts a tension force of 60 N on the box. At the same time, friction from the ground acts with a force of 20 N opposing the motion, and air resistance exerts 5 N against the direction of movement. Draw a free-body diagram (or describe all forces), then calculate the resultant force on the box in the direction of motion.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.types",
+  "tags": [
+    "free-body diagrams",
+    "resultant force",
+    "tension",
+    "friction",
+    "air resistance",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Free-body diagram should show: tension 60 N acting along direction of motion (or at an angle if specified), friction 20 N opposing motion, and air resistance 5 N opposing motion. Resultant force in direction of motion = 60 N - 20 N - 5 N = 35 N.",
+  "explanation": "To find the resultant force, you must identify all forces acting in the direction of motion (adding those that help, subtracting those that oppose). The tension pulls the box forward (60 N), while both friction and air resistance are contact and non-contact forces that resist motion, so they must be subtracted. A proper free-body diagram would show all forces with arrows indicating their directions and magnitudes.",
+  "quality_score": 4,
+  "id": "4e90a018-cd16-40e9-96b0-aa119c7c5e3b",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:48.059308"
+}

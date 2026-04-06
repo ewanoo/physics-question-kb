@@ -1,0 +1,42 @@
+{
+  "question_text": "A student uses a crowbar to lift a heavy rock. The crowbar is a lever with the pivot (fulcrum) near the rock. Which statement correctly describes what happens to the effort force needed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "levers",
+    "effort",
+    "load",
+    "everyday_application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The effort force needed is larger than the load force because the lever always increases the force.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The effort force needed is smaller than the load force because the effort distance from the pivot is much larger than the load distance.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The effort force needed is the same as the load force because force cannot change.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The effort force needed is smaller than the load force because levers reduce all forces by half.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A lever works by the principle of moments: effort force \u00d7 effort distance = load force \u00d7 load distance. When the effort distance is much larger than the load distance, a smaller effort force can balance a larger load force. This is why a crowbar makes lifting heavy objects easier.",
+  "quality_score": 4,
+  "id": "be0fac37-48f3-48fe-a865-3b744b25fb21",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:32.983616"
+}

@@ -1,0 +1,42 @@
+{
+  "question_text": "An electric bell uses an electromagnet that switches on and off. When the electromagnet switches off, a spring pushes the metal arm back. Why is it important that the electromagnet can be switched off quickly?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "switching",
+    "applications",
+    "electric bell"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "So the bell can ring continuously and produce a loud ringing sound",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "So the electromagnet doesn't get too hot and break",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "So the battery lasts longer and doesn't run out of charge",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "So the electromagnet becomes a permanent magnet instead of temporary",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When the electromagnet switches off, the spring pulls the arm back, which breaks the circuit and switches the electromagnet off again. This on-off cycle repeats rapidly, making the bell hammer strike the bell repeatedly and create a ringing sound. Without quick switching, the arm would just stay pulled once and the bell would only ring once.",
+  "quality_score": 4,
+  "id": "18ed1d1d-2478-492b-86fd-b9f34e2f7c42",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:06.208479"
+}

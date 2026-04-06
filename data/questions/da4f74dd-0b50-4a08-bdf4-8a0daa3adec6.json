@@ -1,0 +1,41 @@
+{
+  "question_text": "A spring is stretched beyond its elastic limit and then released. Which statement describes what happens to the spring?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.springs",
+  "tags": [
+    "elastic limit",
+    "definition",
+    "spring behaviour"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The spring returns to its original length because all springs are elastic.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The spring does not return to its original length because it has been permanently deformed.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The spring shrinks to a shorter length than it was originally.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The spring returns to its original length, but only after several hours.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Once a spring is stretched beyond its elastic limit, the material is permanently damaged and cannot return to its original shape. The elastic limit is the point where a spring stops being able to recover fully. Options A, C, and D all incorrectly suggest the spring will either recover or behave in ways that don't match what actually happens beyond the elastic limit.",
+  "quality_score": 4,
+  "id": "da4f74dd-0b50-4a08-bdf4-8a0daa3adec6",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:40.697487"
+}

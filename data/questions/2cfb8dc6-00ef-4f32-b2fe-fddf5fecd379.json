@@ -1,0 +1,21 @@
+{
+  "question_text": "In Australia (Southern Hemisphere), December is the summer season. Explain why the UK has winter at the same time, and calculate the total difference in day length between a UK winter day (8 hours of sunlight) and an Australian summer day (16 hours of sunlight) on the winter solstice.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.seasons",
+  "tags": [
+    "opposite seasons",
+    "axial tilt",
+    "Southern hemisphere",
+    "day length difference"
+  ],
+  "options": null,
+  "correct_answer": "Explanation: On 21 December, Earth's Southern Hemisphere is tilted towards the Sun (summer there) while the Northern Hemisphere is tilted away (winter in UK). The difference in day length = 16 hours - 8 hours = 8 hours longer in Australia.",
+  "explanation": "This question combines two skills: (1) explaining why hemispheres have opposite seasons (tilt direction), and (2) a simple one-step subtraction to find the difference in day length. It reinforces that axial tilt is the cause and shows the quantitative effect on hours of daylight.",
+  "quality_score": 4,
+  "id": "2cfb8dc6-00ef-4f32-b2fe-fddf5fecd379",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:29.819460"
+}

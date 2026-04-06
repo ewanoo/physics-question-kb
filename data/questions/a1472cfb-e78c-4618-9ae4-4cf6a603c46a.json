@@ -1,0 +1,41 @@
+{
+  "question_text": "Why does the same side of the Moon always face Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon_rotation",
+    "synchronous_rotation",
+    "orbital_mechanics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate at all",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon rotates at the same speed as it orbits Earth, so it is in synchronous rotation",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth's gravity has stopped the Moon from rotating",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon rotates much faster than it orbits, so it spins around quickly",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The Moon takes 27.3 days to orbit Earth and also takes 27.3 days to rotate once on its axis\u2014this is called synchronous rotation. Because these periods match perfectly, the same face always points towards us.",
+  "quality_score": 4,
+  "id": "a1472cfb-e78c-4618-9ae4-4cf6a603c46a",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:12.252176"
+}

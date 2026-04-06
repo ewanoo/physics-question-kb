@@ -1,0 +1,22 @@
+{
+  "question_text": "On 21 June in the Northern Hemisphere, it is the summer solstice. Why is this day the hottest time of year in the UK, rather than when Earth is closest to the Sun in early January?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "axial tilt",
+    "solstice",
+    "energy input",
+    "day length",
+    "misconception"
+  ],
+  "options": null,
+  "correct_answer": "On 21 June, the Northern Hemisphere is tilted towards the Sun. This causes two effects: (1) the Sun's rays hit the surface more directly (more concentrated energy per square metre), and (2) days are much longer, so the Sun shines for more hours. Together, these deliver far more energy than in January when Earth is closer but the Northern Hemisphere is tilted away, giving shorter days and indirect sunlight.",
+  "explanation": "This question tests whether students understand that seasons are caused by axial tilt and its effects (day length + angle of sunlight), NOT by distance from the Sun. Many students incorrectly think closest = hottest. The hard aspect is requiring them to explain TWO mechanisms (directness of rays AND day length) to fully answer why tilt matters more than distance.",
+  "quality_score": 4,
+  "id": "fe67f245-d145-4fe4-9a80-33057cc77df2",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:29.819076"
+}

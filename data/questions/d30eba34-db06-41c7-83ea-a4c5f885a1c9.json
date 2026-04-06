@@ -1,0 +1,20 @@
+{
+  "question_text": "A resistor has a resistance of 5 ohms and a current of 2 amps flows through it. Using Ohm's law (V = I \u00d7 R), calculate the voltage across the resistor.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "voltage calculation",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "10 volts (or 10 V)",
+  "explanation": "Using Ohm's law V = I \u00d7 R, we substitute the values: V = 2 A \u00d7 5 \u03a9 = 10 V. Voltage is the 'push' that makes current flow, and it depends on both the current and the resistance it passes through.",
+  "quality_score": 4,
+  "id": "d30eba34-db06-41c7-83ea-a4c5f885a1c9",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:28:57.684591"
+}

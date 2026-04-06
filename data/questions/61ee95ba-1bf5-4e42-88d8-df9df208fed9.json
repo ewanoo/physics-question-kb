@@ -1,0 +1,41 @@
+{
+  "question_text": "A student measures a metal block using a balance and a measuring cylinder. The mass is 48 g and the volume is 16 cm\u00b3. Which calculation shows the correct density of the metal block?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "formula application",
+    "mass volume"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "density = 48 + 16 = 64 g/cm\u00b3",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "density = 48 \u00f7 16 = 3 g/cm\u00b3",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "density = 16 \u00f7 48 = 0.33 g/cm\u00b3",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "density = 48 \u00d7 16 = 768 g/cm\u00b3",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Density is calculated using the formula: density = mass \u00f7 volume. So density = 48 \u00f7 16 = 3 g/cm\u00b3. Option C uses division in the wrong order (volume \u00f7 mass), and options A and D use addition and multiplication, which are incorrect operations for this formula.",
+  "quality_score": 4,
+  "id": "61ee95ba-1bf5-4e42-88d8-df9df208fed9",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:05.260886"
+}

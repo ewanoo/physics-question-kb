@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following circuit symbols represents a fuse?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "circuit symbols",
+    "safety devices",
+    "fuses"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A circle with a cross inside it",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A rectangle with a line through it",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Two parallel lines close together",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A circle with an arrow through it",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A fuse is drawn as a rectangle with a diagonal line through it in circuit diagrams. The other symbols represent: a bulb (A), a capacitor (C), and an ammeter (D). This is a straightforward recall of standard circuit symbols taught in KS3.",
+  "quality_score": 4,
+  "id": "658cd20b-0be7-4ea6-87fb-4af8eeb26e1f",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:28:50.689352"
+}

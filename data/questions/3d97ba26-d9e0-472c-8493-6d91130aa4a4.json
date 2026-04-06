@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following is the best definition of friction?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "definition",
+    "contact force",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A force that pushes objects forward when they move",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A contact force that opposes motion between two surfaces in contact",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A force that only acts on rough surfaces, not smooth ones",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A force that increases the speed of moving objects",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction is a contact force that always opposes motion. It acts on all surfaces in contact (rough and smooth), though rough surfaces produce more friction than smooth ones. Options A and D describe forces that help motion, not oppose it, and option C incorrectly suggests friction only acts on rough surfaces.",
+  "quality_score": 4,
+  "id": "3d97ba26-d9e0-472c-8493-6d91130aa4a4",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:24.127591"
+}

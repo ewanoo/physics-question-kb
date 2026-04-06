@@ -1,0 +1,22 @@
+{
+  "question_text": "A student stretches two different springs by the same force. Spring A has a spring constant of 200 N/m and Spring B has a spring constant of 100 N/m. The student notices that Spring B stretches more than Spring A. (a) Explain why Spring B stretches more even though the same force was applied to both springs. (b) If a force of 10 N stretches Spring B by 0.1 m, calculate the spring constant of Spring B and verify that this matches the given value.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "stiffness",
+    "Hooke's Law",
+    "comparison",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "(a) Spring B has a smaller spring constant (100 N/m compared to 200 N/m), which means it is less stiff and stretches more easily. The spring constant shows how stiff a spring is: a smaller k value means the spring is softer and will extend more for the same force. (b) Using F = ke, we can rearrange to find k = F/e. Therefore k = 10 N \u00f7 0.1 m = 100 N/m, which matches the given value and confirms the relationship.",
+  "explanation": "This question tests understanding of what spring constant represents (stiffness, not just a number in a formula) and requires students to apply Hooke's Law in two ways: understanding the relationship inversely and then rearranging the equation to calculate k. Part (a) requires conceptual reasoning about stiffness, while part (b) requires algebraic manipulation and verification. This is a realistic scenario where students must connect the abstract concept of spring constant to observable behaviour.",
+  "quality_score": 4,
+  "id": "74f5d5ce-0feb-440b-8ad0-dc05571dc85b",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:40.697806"
+}

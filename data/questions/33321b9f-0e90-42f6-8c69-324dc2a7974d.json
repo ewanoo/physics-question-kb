@@ -1,0 +1,20 @@
+{
+  "question_text": "A spring with a spring constant of 50 N/m is stretched by 0.2 m. Calculate the force applied to the spring using Hooke's Law (F = ke).",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "Hooke's Law",
+    "spring constant",
+    "force calculation"
+  ],
+  "options": null,
+  "correct_answer": "10 N",
+  "explanation": "Using Hooke's Law: F = ke, where k = 50 N/m and e = 0.2 m. Therefore F = 50 \u00d7 0.2 = 10 N. This is a straightforward substitution into the formula, which is the standard way to find the force needed to stretch a spring by a known amount.",
+  "quality_score": 4,
+  "id": "33321b9f-0e90-42f6-8c69-324dc2a7974d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:40.697727"
+}

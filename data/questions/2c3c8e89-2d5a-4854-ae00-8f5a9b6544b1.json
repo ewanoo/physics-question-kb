@@ -1,0 +1,21 @@
+{
+  "question_text": "A student compares two electromagnets. Electromagnet X has 50 turns of wire, a current of 2 amps, and a steel core. Electromagnet Y has 100 turns of wire, a current of 1 amp, and no core. Explain which electromagnet will be stronger and identify the two most important factors that make the difference.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet strength",
+    "comparing electromagnets",
+    "design factors",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Electromagnet X will be stronger. The two most important factors are: (1) it has a steel/iron core which greatly increases magnetic field strength, while Y has no core; (2) it has a higher current (2 amps vs 1 amp) which also increases field strength. Although Y has more turns (100 vs 50), the lack of a core and lower current make X stronger overall.",
+  "explanation": "This question requires students to evaluate multiple variables affecting electromagnet strength and make a reasoned comparison. The iron/steel core is one of the most significant factors (often more important than number of turns alone), and higher current also increases strength. Students must weigh up the competing factors\u2014Y's advantage in turns is outweighed by X's advantages in core material and current. This develops critical thinking about electromagnet design.",
+  "quality_score": 4,
+  "id": "2c3c8e89-2d5a-4854-ae00-8f5a9b6544b1",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:06.208578"
+}

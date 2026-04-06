@@ -1,0 +1,41 @@
+{
+  "question_text": "A student drops two identical steel balls from the same height at the same time. One ball has a mass of 100g and the other has a mass of 500g. Ignoring air resistance, which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "falling objects",
+    "mass independence"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The 500g ball falls faster because it has more mass.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both balls fall at the same rate and hit the ground at the same time.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The 100g ball falls faster because it is lighter.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The 500g ball takes twice as long to fall because it is heavier.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "All objects fall at the same rate when air resistance is ignored, regardless of their mass. This is because although heavier objects have more gravitational force acting on them, they also have more inertia (resistance to acceleration), and these effects exactly cancel out. Both balls experience the same gravitational field strength and therefore accelerate at the same rate.",
+  "quality_score": 4,
+  "id": "bc4c71a3-b1d4-4fa3-90a7-5f56137fbacc",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:21.192377"
+}

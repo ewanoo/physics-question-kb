@@ -1,0 +1,21 @@
+{
+  "question_text": "A student has a mass of 50 kg. Calculate their weight on Earth, where the gravitational field strength is 10 N/kg. Then explain the difference between mass and weight.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "weight",
+    "mass",
+    "gravitational pull",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Weight = mass x gravitational field strength = 50 kg x 10 N/kg = 500 N. Mass is a measure of how much material is in an object, measured in kilograms (kg), and stays the same everywhere. Weight is the gravitational force pulling down on an object, measured in newtons (N), and changes depending on the gravitational field strength of the planet.",
+  "explanation": "The formula for weight is weight = mass x gravitational field strength. Mass is an intrinsic property of an object that doesn't change, but weight is a force that depends on gravity, so it would be different on the Moon (which has weaker gravity) compared to Earth.",
+  "quality_score": 4,
+  "id": "636b8530-3877-46da-9cb7-3e1245980681",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:48.059198"
+}

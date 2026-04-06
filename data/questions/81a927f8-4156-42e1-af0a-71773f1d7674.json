@@ -1,0 +1,20 @@
+{
+  "question_text": "A space probe has a mass of 850 kg. On Earth, the gravitational field strength is 10 N/kg. On the Moon, the gravitational field strength is 1.6 N/kg. Calculate the weight of the space probe on Earth.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "weight calculation",
+    "W=mg",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "8500 N (or 8.5 kN)",
+  "explanation": "Weight is calculated using the equation weight = mass \u00d7 gravitational field strength (W = mg). On Earth: W = 850 kg \u00d7 10 N/kg = 8500 N. The weight of the space probe on Earth is 8500 newtons. Note that the mass of the probe stays 850 kg everywhere, but its weight would be different on the Moon (1360 N) because the gravitational field strength is weaker there.",
+  "quality_score": 4,
+  "id": "81a927f8-4156-42e1-af0a-71773f1d7674",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:21.192617"
+}

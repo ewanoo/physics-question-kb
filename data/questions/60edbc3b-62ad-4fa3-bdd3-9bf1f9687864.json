@@ -1,0 +1,21 @@
+{
+  "question_text": "A student investigates how weight changes on different planets. The table shows the mass of an object and the gravitational field strength on three planets:\n\nPlanet | Mass (kg) | g (N/kg) | Weight (N)\nEarth | 6 | 10 | ?\nMars | 6 | 3.7 | ?\nJupiter | 6 | 25 | ?\n\n(a) Calculate the weight of the 6 kg object on each planet.\n(b) The student claims: \"Objects weigh more on Jupiter than on Earth because Jupiter is further away from the Sun.\" Evaluate this claim using your calculations and your knowledge of gravity.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "tags": [
+    "weight calculation",
+    "gravitational field strength variation",
+    "planetary comparison",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "(a) Earth: 60 N; Mars: 22.2 N; Jupiter: 150 N\n(b) The student's claim is incorrect. While the object does weigh more on Jupiter (150 N) than on Earth (60 N), the reason is not because Jupiter is further from the Sun. Weight depends on the gravitational field strength, which depends on the planet's mass and the distance from its centre. Jupiter has a much larger mass than Earth, which creates a stronger gravitational field (25 N/kg compared to 10 N/kg). Distance from the Sun is not the reason for weight differences between planets.",
+  "explanation": "Part (a) requires applying the formula W = mg three times: Earth: 6 \u00d7 10 = 60 N; Mars: 6 \u00d7 3.7 = 22.2 N; Jupiter: 6 \u00d7 25 = 150 N. Part (b) tests understanding that gravitational field strength varies between planets due to their mass and size, not their distance from the Sun. The student has confused orbital distance with gravitational properties. This is a common misconception. Jupiter's much stronger gravity (g = 25 N/kg) shows it has a very strong gravitational field, which is why objects weigh more there despite the same mass.",
+  "quality_score": 4,
+  "id": "60edbc3b-62ad-4fa3-bdd3-9bf1f9687864",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:21.192706"
+}

@@ -1,0 +1,42 @@
+{
+  "question_text": "Which of the following correctly describes what happens on the spring equinox (around 21 March) in the UK?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "equinox",
+    "day length",
+    "equal day and night",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The day is the longest of the year because the Earth is tilted most directly towards the Sun.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Day and night are approximately equal in length (12 hours each).",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The Southern Hemisphere also experiences spring and the same weather as the UK.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Sun is at its closest point to Earth, causing warmer temperatures.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "On an equinox, the Sun is directly above the equator, so all parts of Earth experience equal day and night. Option A confuses equinox with solstice. Option C ignores that opposite hemispheres have opposite seasons. Option D incorrectly links distance to seasons.",
+  "quality_score": 4,
+  "id": "0b616034-393b-48aa-a26b-5b44ac1bb768",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:29.819332"
+}

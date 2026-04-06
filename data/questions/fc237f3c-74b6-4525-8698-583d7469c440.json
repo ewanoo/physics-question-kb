@@ -1,0 +1,21 @@
+{
+  "question_text": "Three liquids are poured into a measuring cylinder: liquid A (density 0.8 g/cm\u00b3), liquid B (density 1.2 g/cm\u00b3), and liquid C (density 1.0 g/cm\u00b3). Assuming the liquids do not mix, explain which liquid will be at the top, which in the middle, and which at the bottom. Then explain why a object with density 0.9 g/cm\u00b3 would float in this mixture.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.density",
+  "tags": [
+    "density ordering",
+    "comparing densities",
+    "floating principle",
+    "complex reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Liquid A (0.8 g/cm\u00b3) will be at the top, liquid C (1.0 g/cm\u00b3) in the middle, and liquid B (1.2 g/cm\u00b3) at the bottom. Liquids arrange by density with the least dense on top. An object with density 0.9 g/cm\u00b3 would float because it is less dense than the overall mixture - it is less dense than liquids B and C, so it would rest on top of liquid C (or sink through A and rest on C depending on arrangement).",
+  "explanation": "This tests understanding that materials arrange themselves in order of density, least dense on top. The object with density 0.9 g/cm\u00b3 is denser than liquid A but less dense than liquids B and C, so it would sink through A but float on the boundary between A and C. This requires students to compare multiple densities and apply the floating/sinking principle to a more complex scenario.",
+  "quality_score": 4,
+  "id": "fc237f3c-74b6-4525-8698-583d7469c440",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:05.260987"
+}

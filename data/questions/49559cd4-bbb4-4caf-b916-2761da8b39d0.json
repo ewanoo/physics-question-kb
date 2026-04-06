@@ -1,0 +1,42 @@
+{
+  "question_text": "A book is resting on a table. Which of the following correctly identifies the two contact forces acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "normal reaction",
+    "friction",
+    "definitions"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity and magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Normal reaction from the table pushing up, and friction from the table acting horizontally",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Weight and air resistance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Tension and electrostatic force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Contact forces are forces that act when two surfaces touch. The normal reaction is the push from the table surface acting perpendicular to it, and friction acts along the surface. Gravity, magnetic, and electrostatic forces are non-contact forces (they act at a distance).",
+  "quality_score": 4,
+  "id": "49559cd4-bbb4-4caf-b916-2761da8b39d0",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:48.058929"
+}

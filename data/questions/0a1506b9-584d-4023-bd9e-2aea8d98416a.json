@@ -1,0 +1,41 @@
+{
+  "question_text": "In a parallel circuit with three identical bulbs connected to a 6V battery, what is the voltage across each bulb?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "voltage",
+    "calculation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "2V (because 6V divided by 3 bulbs)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "6V (because all branches have the same voltage)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "18V (because voltages add up in parallel)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "3V (because the voltage splits equally)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a parallel circuit, the voltage across each branch is the same as the battery voltage (6V). This is a key difference from series circuits where voltages add up. Students often confuse this with series circuits or mistakenly think voltage divides like current does.",
+  "quality_score": 4,
+  "id": "0a1506b9-584d-4023-bd9e-2aea8d98416a",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:28:50.689681"
+}

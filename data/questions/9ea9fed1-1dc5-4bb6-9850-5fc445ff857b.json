@@ -1,0 +1,20 @@
+{
+  "question_text": "A circuit contains a battery and two different resistors. Resistor A has a resistance of 10 ohms and Resistor B has a resistance of 20 ohms. Both resistors are connected to the same 12-volt battery in separate identical circuits. (a) Calculate the current through Resistor A using Ohm's law. (b) Calculate the current through Resistor B. (c) Explain which resistor has more current flowing through it and why.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "comparing resistance and current",
+    "inverse relationship"
+  ],
+  "options": null,
+  "correct_answer": "(a) Current through Resistor A = 1.2 amps (V = I \u00d7 R, so I = V \u00f7 R = 12 \u00f7 10 = 1.2 A). (b) Current through Resistor B = 0.6 amps (I = 12 \u00f7 20 = 0.6 A). (c) Resistor A has more current flowing through it because it has lower resistance. As resistance increases, current decreases when voltage stays the same\u2014they are inversely related.",
+  "explanation": "This question tests understanding of Ohm's law in a comparative context. Students must apply the formula twice, then reason about the inverse relationship between resistance and current. The key insight is that higher resistance opposes current more strongly, so less current flows. This reinforces that resistance is a 'barrier' to current flow.",
+  "quality_score": 4,
+  "id": "9ea9fed1-1dc5-4bb6-9850-5fc445ff857b",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:28:57.684690"
+}

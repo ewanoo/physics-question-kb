@@ -1,0 +1,21 @@
+{
+  "question_text": "A student heats 100 grams of water in a beaker. The water reaches its boiling point of 100\u00b0C. The student continues heating for another 5 minutes, but the temperature does NOT increase beyond 100\u00b0C. Explain why the temperature stays at 100\u00b0C even though heat energy is still being added.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "boiling",
+    "latent heat",
+    "energy",
+    "boiling point"
+  ],
+  "options": null,
+  "correct_answer": "The heat energy being added is used to break the bonds between particles and change the water from liquid to gas (evaporation/boiling), rather than increasing the temperature. This energy is called latent heat. The temperature only increases once all the water has boiled away.",
+  "explanation": "At the boiling point, any heat energy supplied goes into changing the state of matter (latent heat of vaporisation), not into increasing kinetic energy and temperature. This is a key concept: during a change of state, temperature remains constant even when heat is added. Once the change of state is complete, further heating will increase the temperature again.",
+  "quality_score": 4,
+  "id": "acbbc804-d438-4ffe-823c-5873abafba4f",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:57.865294"
+}

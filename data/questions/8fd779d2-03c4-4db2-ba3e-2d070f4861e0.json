@@ -1,0 +1,20 @@
+{
+  "question_text": "A piece of wood has a density of 0.7 g/cm\u00b3. Will the wood float or sink in water? Explain your answer in terms of density.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.density",
+  "tags": [
+    "density comparison",
+    "floating sinking",
+    "water density"
+  ],
+  "options": null,
+  "correct_answer": "The wood will float. Water has a density of 1 g/cm\u00b3, and since the wood's density (0.7 g/cm\u00b3) is less than water's density, it is less dense and will float on the surface.",
+  "explanation": "Objects less dense than water (density < 1 g/cm\u00b3) will float, while objects denser than water (density > 1 g/cm\u00b3) will sink. The wood is less dense so its particles are more spread out, making it buoyant enough to stay on top of the water.",
+  "quality_score": 4,
+  "id": "8fd779d2-03c4-4db2-ba3e-2d070f4861e0",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:05.260675"
+}

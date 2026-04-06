@@ -1,0 +1,20 @@
+{
+  "question_text": "A seesaw is balanced with a 40 N load sitting 2 metres from the pivot on the left side. A child applies an effort force on the right side, 4 metres from the pivot, to keep the seesaw balanced. Calculate the effort force needed.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "principle_of_moments",
+    "balanced_lever",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "20 N",
+  "explanation": "Using the principle of moments for a balanced lever: load force \u00d7 load distance = effort force \u00d7 effort distance. Rearranging: effort force = (load force \u00d7 load distance) \u00f7 effort distance = (40 \u00d7 2) \u00f7 4 = 80 \u00f7 4 = 20 N. The child needs to push with 20 N of force.",
+  "quality_score": 4,
+  "id": "3df20fd5-8c09-4ae1-a248-2833bb8b6f5e",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:32.983851"
+}

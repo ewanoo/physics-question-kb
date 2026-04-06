@@ -1,0 +1,21 @@
+{
+  "question_text": "A scientist is comparing the energy values of three different foods: a chocolate bar (1800 kJ per 100g), peanut butter (2400 kJ per 100g), and chicken breast (700 kJ per 100g). A student says 'peanut butter gives you the most energy, so athletes should only eat peanut butter.' Explain why this conclusion is too simple and what other factors an athlete should consider when choosing foods for energy.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "comparing energy values",
+    "food choice",
+    "athlete nutrition",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Although peanut butter has the highest energy per 100g, athletes need to consider: (1) different macronutrients - fats give more energy per gram than carbohydrates or proteins, but athletes also need balanced nutrition from all three; (2) the type of energy release - carbohydrates are digested quickly for immediate energy during exercise, while fats release energy slowly; (3) the actual mass of food eaten - eating only peanut butter would be impractical and unpleasant; (4) other nutritional needs like vitamins, minerals and fibre which support health and performance. Therefore, a varied diet with appropriate portions is more important than just choosing the highest energy food.",
+  "explanation": "This question tests understanding that energy value alone does not determine whether a food is good for an athlete. Students must recognise that macronutrient composition, digestion speed, practicality of eating, and overall nutrition are all important factors. The comparison also requires them to understand why different foods have different energy densities (fats store more energy per gram than carbohydrates or proteins) and how this relates to metabolic needs during athletic performance.",
+  "quality_score": 4,
+  "id": "21275d46-fb51-45e5-a1d5-d38eca20da23",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:14.439866"
+}

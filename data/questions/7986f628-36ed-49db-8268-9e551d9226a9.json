@@ -1,0 +1,41 @@
+{
+  "question_text": "A student makes an electromagnet by wrapping wire around an iron nail and connecting it to a battery. What happens to the strength of the magnetic field when the student increases the number of turns of wire around the nail?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "magnetic field strength",
+    "turns"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The magnetic field gets weaker because more wire means more resistance",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The magnetic field gets stronger because more turns of wire create a stronger magnetic field",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The magnetic field stays the same because the current hasn't changed",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The magnetic field gets weaker because the wire is stretched over more turns",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "More turns of wire means the magnetic field lines add together, making the overall magnetic field stronger. This is one of the key ways to increase electromagnet strength, along with increasing current and using an iron core.",
+  "quality_score": 4,
+  "id": "7986f628-36ed-49db-8268-9e551d9226a9",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:06.208255"
+}

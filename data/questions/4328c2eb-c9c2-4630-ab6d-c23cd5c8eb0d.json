@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following is the best description of what happens to chemical energy stored in food when we eat it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "chemical energy",
+    "food energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The chemical energy is destroyed and replaced with heat energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The chemical energy stored in the food is released and transferred to cells in our body to use for movement, warmth and growth",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The food's chemical energy stays in the food and does not change when digested",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The chemical energy is converted directly into electrical energy that powers our muscles",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When we eat food, our body breaks down the chemical bonds in carbohydrates, fats and proteins, releasing the stored chemical energy. This energy is then used by our cells for all body processes including movement, maintaining body temperature, and growth. Energy is transferred, not destroyed or created.",
+  "quality_score": 4,
+  "id": "4328c2eb-c9c2-4630-ab6d-c23cd5c8eb0d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:14.439527"
+}

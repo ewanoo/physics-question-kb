@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following describes what happens to the particles when ice melts into water?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "particle model",
+    "state change"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The particles break apart completely and form a gas",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The particles gain energy and move more freely, but stay bonded to nearby particles",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The particles lose energy and move closer together",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The number of particles in the ice decreases",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "During melting, particles gain thermal energy, which allows them to move more freely and overcome some of the forces holding them in fixed positions. However, they remain attracted to nearby particles, which is why the substance is still a liquid (not a gas). The total number of particles stays the same because melting is a physical change.",
+  "quality_score": 4,
+  "id": "d0644293-a424-4777-9f3d-3b32a9a06e00",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:57.865009"
+}

@@ -1,0 +1,20 @@
+{
+  "question_text": "The Moon is approximately 384,000 km from Earth. If a spacecraft travels at a constant speed of 8,000 km per day, how many days would it take to reach the Moon?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "distance",
+    "calculation",
+    "speed"
+  ],
+  "options": null,
+  "correct_answer": "48 days",
+  "explanation": "Use the equation: time = distance \u00f7 speed. Dividing 384,000 km by 8,000 km per day gives 48 days. This shows that even though the Moon seems close, it is actually very far away and takes significant time to reach.",
+  "quality_score": 4,
+  "id": "ddd67fd6-850e-4795-b816-7042c7e5e116",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:30:12.252396"
+}

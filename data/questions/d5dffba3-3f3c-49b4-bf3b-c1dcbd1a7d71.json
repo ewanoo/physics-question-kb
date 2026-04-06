@@ -1,0 +1,42 @@
+{
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "reducing friction",
+    "applications",
+    "lubrication",
+    "reasoning"
+  ],
+  "question_text": "A car manufacturer wants to reduce the friction in an engine to help the car use less fuel and perform better. Which method would be most effective at reducing friction inside the engine?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Making the engine parts from rough, textured metal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Using engine oil to lubricate the moving parts",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Increasing the temperature of the engine to make parts move faster",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Making engine parts larger so there is less contact between them",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Lubrication with oil is a standard method to reduce friction between moving parts because it creates a smooth layer between surfaces. Rough materials (A) would increase friction. Increasing temperature (C) does not reduce friction, and making parts larger (D) would not reliably reduce friction or contact area. This applies the concept that smooth surfaces and lubrication reduce friction.",
+  "quality_score": 4,
+  "id": "d5dffba3-3f3c-49b4-bf3b-c1dcbd1a7d71",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:24.127852"
+}

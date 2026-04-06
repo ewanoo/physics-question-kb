@@ -1,0 +1,20 @@
+{
+  "question_text": "A food label shows that one portion of cereal contains 1500 kJ of energy. If an athlete eats 3 portions of this cereal for breakfast, how much energy in kilojoules do they consume?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "food labels",
+    "energy calculation",
+    "kilojoules"
+  ],
+  "options": null,
+  "correct_answer": "4500 kJ",
+  "explanation": "To find the total energy, multiply the energy per portion by the number of portions: 1500 kJ \u00d7 3 = 4500 kJ. This is a straightforward application of using food label information to calculate total energy intake, which helps us understand why athletes need to eat larger quantities of food to fuel their high metabolic rate.",
+  "quality_score": 4,
+  "id": "8bcfb567-0a55-4646-8e94-18e6debbe9ac",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:14.439783"
+}

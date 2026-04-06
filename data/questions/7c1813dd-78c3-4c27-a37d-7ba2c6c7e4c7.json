@@ -1,0 +1,21 @@
+{
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "air resistance",
+    "drag",
+    "comparing friction",
+    "multi-step reasoning"
+  ],
+  "question_text": "A skydiver falls at different speeds at different times during their descent. When falling at 40 m/s with their body stretched out, air resistance is 800 N. When falling at 20 m/s in a more streamlined position (diving headfirst), air resistance is 150 N. Explain why air resistance is not simply proportional to speed, and describe what this tells us about how streamlining affects drag.",
+  "options": null,
+  "correct_answer": "Air resistance is not proportional to speed because at 40 m/s with a stretched-out body, the air resistance (800 N) is much more than four times the resistance at 20 m/s (150 N). If it were proportional, 40 m/s should produce 4 times the drag of 20 m/s (which would be 600 N), but it's higher. This shows that air resistance increases more rapidly as speed increases. Additionally, comparing the two scenarios shows that streamlining (diving position) significantly reduces drag even at lower speeds - the 20 m/s streamlined position has much less resistance (150 N) than the 40 m/s stretched position (800 N). This demonstrates that shape and streamlining are important factors in reducing air resistance, not just speed alone.",
+  "explanation": "This question requires students to extract data, compare ratios, recognise that drag increases non-linearly with speed (actually proportional to speed squared at higher speeds), and evaluate the effectiveness of streamlining. Students must reason across multiple pieces of information: the relationship between speed and resistance, and the independent effect of body position. The answer demonstrates understanding that drag depends on both speed and shape/surface area, and that streamlining is an effective practical method for reducing friction with air.",
+  "quality_score": 4,
+  "id": "7c1813dd-78c3-4c27-a37d-7ba2c6c7e4c7",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:24.127982"
+}

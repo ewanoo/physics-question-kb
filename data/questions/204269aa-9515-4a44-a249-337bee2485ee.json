@@ -1,0 +1,22 @@
+{
+  "question_text": "Wet clothes hanging on a washing line dry on a cold winter's day, even though the temperature is well below the boiling point of water (100\u00b0C). The water does not visibly boil, yet it disappears. (a) Name the change of state that is occurring. (b) Explain, using particle theory, why this change of state can happen even at temperatures below the boiling point. (c) Suggest one way you could speed up this process.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "evaporation",
+    "sublimation",
+    "particle model",
+    "kinetic energy",
+    "boiling point"
+  ],
+  "options": null,
+  "correct_answer": "(a) Evaporation (or boiling is NOT correct here). (b) Even at temperatures below 100\u00b0C, some particles at the surface of the water have enough kinetic energy to escape and become a gas. The average temperature of the water is below boiling point, but individual particles have a range of energies; some faster particles can break free. (c) Any one of: hang the clothes in sunlight (increases temperature/kinetic energy), hang in a windy place (moving air carries away water vapour), hang in a dry place (lower humidity allows more evaporation).",
+  "explanation": "Evaporation occurs at the surface of a liquid at any temperature, unlike boiling which happens throughout the liquid at a specific temperature. Particles have a range of kinetic energies (Maxwell-Boltzmann distribution concept, simplified): some move fast enough to escape even below boiling point. Factors that increase evaporation are those that increase particle kinetic energy (heat) or remove water vapour from above the surface (air movement, low humidity).",
+  "quality_score": 4,
+  "id": "204269aa-9515-4a44-a249-337bee2485ee",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T06:29:57.865382"
+}
