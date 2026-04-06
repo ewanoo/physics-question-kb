@@ -325,6 +325,19 @@
 - Total questions: 2,897 (up from 2,807)
 - All 99 difficulty/subtopic slots now have ≥27 questions each (minimum unchanged but coverage improved)
 
+### Session 31 (agent — 2026-04-06)
+- Rebuilt DB from 3,001 committed question JSON files (all 99 slots at 29-33)
+- Identified 30 slots at exactly 29 questions (minimum)
+- Generated **61 new questions** in 2 batches targeting all weakest slots:
+  - Batch 1 (35 q): electricity.static/easy, energy.conservation/hard, energy.efficiency/hard,
+    energy.food/easy+hard, energy.resources/easy+medium+hard, forces.friction/easy+hard,
+    forces.gravity/hard, forces.pressure/easy+medium+hard
+  - Batch 2 (26 q): forces.moments/hard, forces.speed/easy+hard, forces.springs/easy+hard,
+    forces.types/easy+hard, matter.density/hard+medium, space.seasons/hard+medium,
+    space.solar_system/easy
+- Total questions: 3,062 (JSON files)
+- All 99 difficulty/subtopic slots now have ≥30 questions each
+
 ### Session 30 (agent — 2026-04-06)
 - Rebuilt DB from 2,937 committed question JSON files (all 99 slots at 28-32)
 - Identified 12 slots at exactly 28 questions (minimum) and 8 slots at 29
@@ -340,13 +353,13 @@
 - Total questions: 3,001 (crossed 3,000 milestone!)
 - All 99 difficulty/subtopic slots now have ≥29 questions each
 
-## Statistics (Session 30 — CURRENT)
-- **Total questions (JSON files)**: 3,001
+## Statistics (Session 31 — CURRENT)
+- **Total questions (JSON files)**: 3,062
 - **Tests passing**: 57 / 57
 - **Sources represented**: 3 (claude_generator, ks3_textbook, oak_national)
-- **By difficulty**: easy ~1000, medium ~1002, hard ~999 (all >= 50)
-- **Min questions per subtopic**: ~87 (various)
-- **Min questions per difficulty+subtopic slot**: ~29
+- **By difficulty**: easy ~1020, medium ~1022, hard ~1020 (all >= 50)
+- **Min questions per subtopic**: ~88 (various)
+- **Min questions per difficulty+subtopic slot**: ~30
 - **Mean quality score**: ~4.70
 
 ## Scraper Status
