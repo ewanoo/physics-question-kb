@@ -1,0 +1,18 @@
+{
+  "question_text": "A kettle has a power rating of 2400 W. It takes 3 minutes to boil water from cold. Calculate the total energy transferred by the kettle, and then explain why the actual energy used to heat the water is less than this value.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "efficiency",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "432,000 J (or 432 kJ); energy is wasted heating the kettle itself, the surroundings, and as sound",
+  "explanation": "Energy = Power \u00d7 Time; 2400 W \u00d7 180 s = 432,000 J. However, not all this energy goes into heating the water because some is absorbed by the kettle material, lost to the air, and converted to sound\u2014this is why real heating devices are not 100% efficient.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d47679a6-68dd-4356-821e-8809b94e38ec"
+}

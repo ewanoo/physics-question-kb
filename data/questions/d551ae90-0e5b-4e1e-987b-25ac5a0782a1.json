@@ -1,0 +1,18 @@
+{
+  "question_text": "Why does the Moon always show the same face to the Earth?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "moon",
+    "tidal_locking",
+    "rotation",
+    "orbit"
+  ],
+  "options": null,
+  "correct_answer": "The Moon is tidally locked because its rotation period equals its orbital period around Earth (both about 27 days). This means the same side always faces Earth.",
+  "explanation": "The Moon spins on its axis at exactly the same rate it orbits the Earth, a phenomenon called tidal locking. This happens because Earth's gravity has gradually slowed the Moon's rotation over billions of years until it matches the orbital period, so we only ever see one side of the Moon from Earth.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d551ae90-0e5b-4e1e-987b-25ac5a0782a1"
+}

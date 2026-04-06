@@ -1,0 +1,18 @@
+{
+  "question_text": "A student sets up an electromagnet by wrapping 50 coils of wire around an iron core and connecting it to a 6V battery through a switch. When the switch is closed, the electromagnet picks up 12 steel paperclips. The student then wraps 100 coils around the same iron core, connects it to the same 6V battery, and tries again. Predict how many paperclips the electromagnet will pick up, and explain your reasoning.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "coil turns",
+    "magnetic strength",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 24 paperclips. Doubling the number of coils doubles the magnetic field strength (the magnetic force is proportional to the number of coils), so the electromagnet should pick up roughly twice as many paperclips.",
+  "explanation": "The strength of an electromagnet depends on both the current flowing through it and the number of coils. Since the voltage and resistance remain the same, the current stays constant, but doubling the coils doubles the total magnetic field effect. Therefore, the electromagnet should attract approximately twice as many paperclips.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "09b35932-0a19-4ea5-a736-36a5c6ae60b2"
+}

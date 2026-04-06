@@ -1,0 +1,18 @@
+{
+  "question_text": "A circuit contains a 12V battery, a switch, a variable resistor, and an electromagnet. When the variable resistor is set to 2\u03a9, the electromagnet picks up 20 iron nails. The student increases the resistance to 6\u03a9. Using Ohm's law (V = IR), calculate the current at 6\u03a9 and explain why the electromagnet will now pick up fewer nails.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "Ohm's law",
+    "current",
+    "electromagnet strength",
+    "resistance"
+  ],
+  "options": null,
+  "correct_answer": "At 6\u03a9, the current is 2A (12V \u00f7 6\u03a9 = 2A). At 2\u03a9, the current was 6A (12V \u00f7 2\u03a9 = 6A). The current has decreased by a factor of 3, so the magnetic field strength decreases, and fewer nails are picked up because electromagnet strength depends on current through the coil.",
+  "explanation": "Using Ohm's law, increasing the resistance from 2\u03a9 to 6\u03a9 reduces the current from 6A to 2A. Since the strength of an electromagnet is directly proportional to the current flowing through it, reducing the current weakens the magnetic field, resulting in fewer iron nails being attracted.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4f89d846-812d-4fdf-85fb-8392a8d29ffc"
+}

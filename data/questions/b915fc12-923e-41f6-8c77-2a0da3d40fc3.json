@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following will make an electromagnet stronger?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "strength",
+    "factors"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Using fewer coils of wire",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Using a higher electric current",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Using a plastic core instead of iron",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Disconnecting the power supply",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A higher electric current creates a stronger magnetic field around the coil. More coils, a larger current, and an iron core all make electromagnets stronger, while non-magnetic materials and no power make them weaker.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b915fc12-923e-41f6-8c77-2a0da3d40fc3"
+}

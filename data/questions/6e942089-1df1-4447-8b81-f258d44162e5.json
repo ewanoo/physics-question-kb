@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes what happens in a series circuit when one component fails?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "circuit failure",
+    "current flow"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "All other components continue to work normally",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The entire circuit stops working because the path is broken",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Only the components next to the failed one stop working",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The current flows backwards through the circuit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a series circuit, all components are connected in a single loop. If one component breaks, the circuit is no longer complete, so current cannot flow anywhere. This means all components stop working. This is different from a parallel circuit, where other branches can still work.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6e942089-1df1-4447-8b81-f258d44162e5"
+}

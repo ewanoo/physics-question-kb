@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of a non-contact force?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "non-contact forces",
+    "classification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Friction between a ball and the ground",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The gravitational pull of the Earth on the Moon",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A push from your hand on a door",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Air resistance on a falling feather",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Non-contact forces act at a distance without the objects touching. Gravity is a non-contact force that pulls objects together. Options A, C, and D are all contact forces that require objects to be touching or in direct contact with a medium.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6d3641e2-8d2b-4f99-b40a-a3a49e10b5fd"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "The Earth orbits the Sun once every 365 days. Mercury orbits the Sun once every 88 days. Which statement best explains why Mercury takes less time to orbit the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital_period",
+    "distance_from_sun",
+    "planet_motion"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Mercury is much closer to the Sun, so it has a shorter orbital path and moves faster",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Mercury is smaller than Earth, so it doesn't need as much time to orbit",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Mercury orbits faster because it is hotter than Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Mercury has no moons, which makes it orbit the Sun more quickly",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Mercury orbits much closer to the Sun than Earth, giving it a much shorter orbital path. Even though Mercury also moves faster due to the Sun's stronger gravity at that distance, the combination of a shorter path and faster speed means Mercury completes its orbit in just 88 days.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "631a1e27-38d0-4a78-af86-eb1ea9dc8e1c"
+}

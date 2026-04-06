@@ -1,0 +1,39 @@
+{
+  "question_text": "A permanent bar magnet and an electromagnet are placed side by side, both attracting a steel ball bearing. The electromagnet is switched off, and the magnet is dropped into a deep hole. Which statement best explains what happens?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "permanent magnets",
+    "electromagnets",
+    "magnetic fields",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The permanent magnet will fall faster than the electromagnet because it always produces a magnetic field.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The electromagnet will fall faster because it no longer produces any magnetic force once switched off, whereas the permanent magnet continues to attract the steel ball bearing.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both magnets will fall at the same speed because magnetic fields have no effect on falling objects.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The permanent magnet will fall slower because switching off the electromagnet creates a downward force.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Once the electromagnet is switched off, it produces no magnetic field and cannot interact with the steel ball bearing, so it falls freely. The permanent magnet continues to produce a magnetic field and creates an upward magnetic force on the steel ball bearing, slowing its descent slightly. Therefore, the electromagnet falls faster.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b277a1fd-1d8f-4778-81ba-3db2b7f8e52a"
+}

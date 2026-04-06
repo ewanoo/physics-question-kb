@@ -1,0 +1,17 @@
+{
+  "question_text": "A spring is compressed and then released, launching a ball across a table. Describe the energy store that the compressed spring has, and explain what happens to this energy when the spring is released.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic potential energy",
+    "energy transfer",
+    "springs"
+  ],
+  "options": null,
+  "correct_answer": "The compressed spring has elastic potential energy stored in it. When released, this energy is transferred to the kinetic energy store of the ball, causing it to move across the table.",
+  "explanation": "A compressed or stretched spring stores energy in its elastic potential energy store because its shape has been changed. When the spring is released, this stored energy is converted into kinetic energy, which causes the ball to move. Some energy may also be lost to heat and sound during the transfer.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "338b62cf-7eae-4fb2-8242-5324e4f7374b"
+}

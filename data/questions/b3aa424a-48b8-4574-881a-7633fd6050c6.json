@@ -1,0 +1,17 @@
+{
+  "question_text": "Name one difference between a permanent magnet and an electromagnet.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "permanent magnet",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "An electromagnet only works when electric current flows through it, whereas a permanent magnet is always magnetic. (Accept: An electromagnet can be switched on and off, or a permanent magnet does not need electricity.)",
+  "explanation": "Electromagnets are temporary magnets that depend on electricity to create their magnetic field, so they can be turned on and off. Permanent magnets always produce a magnetic field without needing any power source.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "b3aa424a-48b8-4574-881a-7633fd6050c6"
+}

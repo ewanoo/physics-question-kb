@@ -1,0 +1,17 @@
+{
+  "question_text": "In the Northern Hemisphere, which month marks the start of summer?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "summer solstice",
+    "Northern Hemisphere"
+  ],
+  "options": null,
+  "correct_answer": "June",
+  "explanation": "Summer in the Northern Hemisphere begins in June (around 20-21 June), which is called the summer solstice. This is when the North Pole is tilted most directly towards the Sun, giving the longest day of the year.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1fadc557-3e8f-4203-b984-dced60efdf00"
+}

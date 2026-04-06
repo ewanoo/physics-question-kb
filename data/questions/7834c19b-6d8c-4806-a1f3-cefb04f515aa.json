@@ -1,0 +1,38 @@
+{
+  "question_text": "What causes the seasons on Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.seasons",
+  "tags": [
+    "seasons",
+    "Earth's tilt",
+    "axial tilt"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The tilt of Earth's axis as it orbits the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Earth moving closer to and further from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Changes in the size of the Sun throughout the year",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon's gravity pulling on Earth's atmosphere",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Earth's axis is tilted at about 23.5 degrees. As Earth orbits the Sun, different parts of Earth receive more or less direct sunlight, creating seasons. The hemisphere tilted towards the Sun experiences summer, while the hemisphere tilted away experiences winter.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7834c19b-6d8c-4806-a1f3-cefb04f515aa"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Two identical resistors are connected in series to a 6V battery. If the current flowing through the circuit is 0.3A, what is the total resistance of the two resistors combined?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohm's law",
+    "series circuits",
+    "total resistance"
+  ],
+  "options": null,
+  "correct_answer": "20\u03a9 (or 20 ohms)",
+  "explanation": "Using V = I \u00d7 R, we rearrange to R = V \u00f7 I. The total resistance = 6V \u00f7 0.3A = 20\u03a9. In a series circuit, resistances add together, so each resistor has a resistance of 10\u03a9.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4644ba52-c543-410b-867f-76831dff83ae"
+}

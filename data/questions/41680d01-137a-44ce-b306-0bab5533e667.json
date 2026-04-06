@@ -1,0 +1,18 @@
+{
+  "question_text": "Two identical light bulbs are available: bulb X rated 60 W and bulb Y rated 100 W. Both are connected to the same 230 V mains supply and left on for 24 hours. Which bulb transfers more total energy, and by how much?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "comparison",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Bulb Y transfers more energy; the difference is 34,560,000 J (or 34.56 MJ or 9.6 kWh)",
+  "explanation": "Energy transferred = Power \u00d7 Time. Bulb X: 60 \u00d7 86,400 s = 5,184,000 J; Bulb Y: 100 \u00d7 86,400 s = 8,640,000 J. The higher power rating means bulb Y transfers more energy in the same time, even though both operate at the same voltage.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "41680d01-137a-44ce-b306-0bab5533e667"
+}

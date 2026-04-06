@@ -1,0 +1,17 @@
+{
+  "question_text": "A student eats a chocolate bar containing 2000 kJ of energy. If the student's body is 25% efficient at converting food energy into useful work, how much useful energy can the body obtain from the chocolate bar?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "efficiency",
+    "energy transfer",
+    "food energy"
+  ],
+  "options": null,
+  "correct_answer": "500 kJ",
+  "explanation": "Useful energy = total energy \u00d7 efficiency. Useful energy = 2000 kJ \u00d7 0.25 = 500 kJ. The remaining 1500 kJ is lost as heat, which is why we feel warm after eating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2980af7b-8e6c-4faa-bf37-bfbf08dd4bf6"
+}

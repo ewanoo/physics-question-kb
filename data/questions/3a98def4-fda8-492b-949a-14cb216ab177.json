@@ -1,0 +1,18 @@
+{
+  "question_text": "A student measures the diameter of the Moon as 3,474 km using a telescope. Calculate the radius of the Moon in km.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "moon",
+    "diameter",
+    "radius",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "1,737 km",
+  "explanation": "The radius of a sphere is half its diameter. To find the radius, divide the diameter by 2: 3,474 \u00f7 2 = 1,737 km. This is a straightforward application of the relationship between radius and diameter.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3a98def4-fda8-492b-949a-14cb216ab177"
+}

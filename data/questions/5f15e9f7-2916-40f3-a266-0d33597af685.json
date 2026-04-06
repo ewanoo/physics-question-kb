@@ -1,0 +1,38 @@
+{
+  "question_text": "A battery stores energy in its chemical energy store. When you connect the battery to a light bulb, energy is transferred. Which energy store does the light bulb's filament have the most energy in when it is glowing brightly?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transfer",
+    "chemical energy",
+    "thermal energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Chemical energy store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy store",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational potential energy store",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Elastic potential energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When electrical energy from the battery flows through the filament, it causes the filament to heat up and glow. The energy is transferred from the chemical store (battery) to the thermal energy store (hot filament). Gravitational and elastic stores are not relevant here.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5f15e9f7-2916-40f3-a266-0d33597af685"
+}

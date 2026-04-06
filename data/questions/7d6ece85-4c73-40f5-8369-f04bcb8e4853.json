@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes what happens to the chemical energy stored in food when it is digested and used by the body?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy transformation",
+    "digestion",
+    "chemical energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It is destroyed and disappears completely",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It is converted into heat energy and kinetic energy for movement, with some lost as heat",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It is converted only into kinetic energy with no energy losses",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It is converted into light energy that makes our skin glow",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Chemical energy in food is transferred into useful forms of energy: kinetic energy for movement and muscle contraction, and heat energy to maintain body temperature. Some energy is always lost as heat due to inefficiency, which is why the body is never 100% efficient.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7d6ece85-4c73-40f5-8369-f04bcb8e4853"
+}

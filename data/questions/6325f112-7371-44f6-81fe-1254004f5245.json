@@ -1,0 +1,18 @@
+{
+  "question_text": "A student compares two ways to heat a room: (1) an electric heater rated 2 kW running for 2 hours, and (2) a smaller heater rated 1.5 kW running for 3 hours. The student claims method 2 is more efficient. Evaluate this claim by calculating the energy transferred in each case.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power",
+    "energy",
+    "efficiency",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "Method 1: 14,400,000 J (14.4 MJ); Method 2: 16,200,000 J (16.2 MJ). The claim is incorrect\u2014method 2 transfers more energy overall, not less. However, efficiency refers to useful energy output per input, not total energy; both transfer all their electrical energy as heat so both are 100% efficient.",
+  "explanation": "Energy = Power \u00d7 Time. Method 1: 2000 W \u00d7 7200 s = 14.4 MJ; Method 2: 1500 W \u00d7 10,800 s = 16.2 MJ. The student's claim about efficiency is flawed because efficiency compares useful output to input energy\u2014both heaters convert electrical energy to heat with 100% efficiency, so neither is more efficient than the other.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6325f112-7371-44f6-81fe-1254004f5245"
+}

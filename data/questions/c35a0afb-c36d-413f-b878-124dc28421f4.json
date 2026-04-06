@@ -1,0 +1,17 @@
+{
+  "question_text": "A student lifts a 2 kg textbook from the floor to a shelf that is 1.5 m high. How much gravitational potential energy does the textbook gain? (Use g = 10 m/s\u00b2)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "calculation",
+    "energy transfer"
+  ],
+  "options": null,
+  "correct_answer": "30 J",
+  "explanation": "Gravitational potential energy is calculated using the formula: E_p = m \u00d7 g \u00d7 h. Here, E_p = 2 \u00d7 10 \u00d7 1.5 = 30 joules. This energy is stored in the textbook's gravitational potential energy store because it is now higher up.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c35a0afb-c36d-413f-b878-124dc28421f4"
+}

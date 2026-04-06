@@ -1,0 +1,17 @@
+{
+  "question_text": "A student pulls a wooden block across a rough floor with a force of 50 N. The friction force acting on the block is 20 N. Calculate the net force acting on the block.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "net force",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "30 N",
+  "explanation": "The net force is found by subtracting the friction force from the applied force. Net force = Applied force \u2212 Friction force = 50 N \u2212 20 N = 30 N. This net force causes the block to accelerate in the direction it is being pulled.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ade7a64a-b1b2-46a6-b70d-12cbc8f4314f"
+}

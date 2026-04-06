@@ -1,0 +1,38 @@
+{
+  "question_text": "A book is resting on a table. Which pair of forces are equal in size and opposite in direction?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "contact forces",
+    "Newton's third law",
+    "equilibrium"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The weight of the book and the normal force from the table",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The weight of the book and friction from the air",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The normal force from the table and air resistance",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The weight of the book and the force the book exerts on the table",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When an object is at rest, the upward normal force from the table balances the downward gravitational force (weight). These two contact and non-contact forces are equal and opposite, which is why the book doesn't accelerate. Option D describes Newton's third law pair, but those forces act on different objects.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9747203b-8b70-4bfd-b625-3f11129e5971"
+}

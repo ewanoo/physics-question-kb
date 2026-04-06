@@ -1,0 +1,17 @@
+{
+  "question_text": "A skateboarder is riding along a flat surface. Explain why the skateboarder will eventually come to a stop even if they stop pushing with their feet.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "explanation",
+    "real-world application"
+  ],
+  "options": null,
+  "correct_answer": "Friction between the skateboard wheels and the ground opposes the motion, causing the skateboarder to slow down and eventually stop.",
+  "explanation": "This question tests understanding that friction is an opposing force that acts whenever surfaces move past each other. Even without an applied force, friction from the road surface continuously acts against the skateboard's motion, removing energy until the skateboarder stops.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "93f72965-1624-4c8c-9849-7132ba8bca98"
+}

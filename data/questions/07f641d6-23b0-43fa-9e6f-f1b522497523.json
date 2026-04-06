@@ -1,0 +1,17 @@
+{
+  "question_text": "A student stretches a spring by 5 cm and measures the force needed as 25 N. What is the spring constant of this spring?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "Hooke's Law",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "500 N/m",
+  "explanation": "Convert extension to metres first: 5 cm = 0.05 m. Then use Hooke's Law rearranged: k = F \u00f7 e = 25 \u00f7 0.05 = 500 N/m. Remember to convert centimetres to metres before calculating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "07f641d6-23b0-43fa-9e6f-f1b522497523"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A magnetic force of 12 N pulls a piece of iron towards a magnet. There are no other horizontal forces acting. What is the net force on the iron?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.types",
+  "tags": [
+    "magnetic force",
+    "net force",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "12 N (towards the magnet)",
+  "explanation": "Net force is the overall effect of all forces combined. Since the magnetic force is the only horizontal force acting, the net force equals the magnetic force itself: 12 N in the direction of the magnet. This will cause the iron to accelerate towards the magnet.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "ccfb40a4-d382-4323-9f4d-bc5aa96213e6"
+}

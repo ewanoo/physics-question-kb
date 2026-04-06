@@ -1,0 +1,17 @@
+{
+  "question_text": "A banana contains 420 kJ of chemical energy. During a school day, a student uses this energy for concentration, movement, and maintaining body temperature. Name the three main forms of energy that the chemical energy from the banana is converted into.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy transformation",
+    "forms of energy",
+    "food energy"
+  ],
+  "options": null,
+  "correct_answer": "Kinetic energy (or movement energy), heat energy (or thermal energy), and chemical energy (or potential energy stored in cells/tissues)",
+  "explanation": "Food energy is transformed into kinetic energy for movement and muscle work, heat energy to keep the body warm, and some is stored as chemical energy in cells or converted to electrical energy for nerve signals. Any answer naming these three main forms is correct.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3afefd0b-9f87-4f71-862a-89acb6bcc334"
+}

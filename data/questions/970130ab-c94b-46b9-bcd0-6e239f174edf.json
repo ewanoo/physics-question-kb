@@ -1,0 +1,38 @@
+{
+  "question_text": "A book is sliding across a wooden table and gradually slows down. Which force is responsible for slowing the book down?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "sliding",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravity",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Friction between the book and table",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Air resistance only",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pushing force that started the book moving",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Friction is the force that opposes motion between two surfaces in contact. As the book slides across the table, friction acts opposite to the direction of motion, causing the book to slow down and eventually stop.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "970130ab-c94b-46b9-bcd0-6e239f174edf"
+}

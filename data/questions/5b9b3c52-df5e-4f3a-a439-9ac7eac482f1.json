@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes the relationship between voltage, current, and resistance in a circuit?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohm's law",
+    "circuit relationships",
+    "conceptual understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "If voltage increases and resistance stays the same, the current will decrease.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "If voltage increases and resistance stays the same, the current will increase.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Current and voltage are not related to each other in a circuit.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "If resistance increases, the current will increase even if voltage stays the same.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "According to Ohm's law (V = I \u00d7 R), current is directly proportional to voltage when resistance is constant. Increasing voltage pushes more charge through the circuit, increasing current. Options A and D incorrectly reverse this relationship, and option C ignores the fundamental link between voltage and current.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5b9b3c52-df5e-4f3a-a439-9ac7eac482f1"
+}

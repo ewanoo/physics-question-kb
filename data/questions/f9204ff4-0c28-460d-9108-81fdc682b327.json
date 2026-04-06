@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the name of the component used to control the flow of electric current in a circuit?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "components",
+    "circuit control",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "switch",
+  "explanation": "A switch is a device that can open or close a circuit to control whether current flows through it. When the switch is closed, the circuit is complete and current can flow. When it is open, the circuit is broken and no current flows.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f9204ff4-0c28-460d-9108-81fdc682b327"
+}

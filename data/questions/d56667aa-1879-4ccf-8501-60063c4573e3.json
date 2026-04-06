@@ -1,0 +1,17 @@
+{
+  "question_text": "A circuit contains a battery with a voltage of 12V and a single light bulb. The current flowing through the bulb is 0.5A. Using the equation V = I \u00d7 R, calculate the resistance of the light bulb.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "ohm's law",
+    "resistance calculation",
+    "rearranging equations"
+  ],
+  "options": null,
+  "correct_answer": "24\u03a9 (or 24 ohms)",
+  "explanation": "Using V = I \u00d7 R, we can rearrange to find R = V \u00f7 I. Substituting the values: R = 12V \u00f7 0.5A = 24\u03a9. This shows how resistance opposes the flow of current in a circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d56667aa-1879-4ccf-8501-60063c4573e3"
+}

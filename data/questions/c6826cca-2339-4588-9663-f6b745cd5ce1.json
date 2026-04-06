@@ -1,0 +1,38 @@
+{
+  "question_text": "Two springs are tested with the same force applied to each. Spring A stretches by 2 cm and Spring B stretches by 4 cm. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.springs",
+  "tags": [
+    "spring constant",
+    "comparing springs",
+    "stiffness"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Spring A is stiffer because it stretches less",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Spring B is stiffer because it stretches more",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both springs have the same spring constant",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Spring A is easier to stretch than Spring B",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A stiffer spring has a larger spring constant and stretches less under the same force. Since Spring A stretches only 2 cm compared to Spring B's 4 cm with the same force applied, Spring A must have a higher spring constant and be stiffer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c6826cca-2339-4588-9663-f6b745cd5ce1"
+}

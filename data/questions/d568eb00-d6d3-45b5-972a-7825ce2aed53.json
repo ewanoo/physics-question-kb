@@ -1,0 +1,17 @@
+{
+  "question_text": "Name the two types of electric current that can flow through a circuit.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "current types",
+    "AC DC",
+    "definitions"
+  ],
+  "options": null,
+  "correct_answer": "direct current (DC) and alternating current (AC)",
+  "explanation": "Direct current (DC) flows in one direction only and is produced by batteries. Alternating current (AC) constantly changes direction and is what comes from mains electricity in homes. Year 8 students learn to distinguish between these two types of current.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "d568eb00-d6d3-45b5-972a-7825ce2aed53"
+}
