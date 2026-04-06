@@ -1,0 +1,41 @@
+{
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "speed of light",
+    "calculation",
+    "vacuum"
+  ],
+  "question_text": "All electromagnetic waves travel at 3 \u00d7 10^8 m/s in a vacuum. If a radio wave has a frequency of 6 \u00d7 10^6 Hz, what is its wavelength? (Use: wave speed = frequency \u00d7 wavelength)",
+  "options": [
+    {
+      "label": "A",
+      "text": "50 m",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "2 m",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "18 \u00d7 10^14 m",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "0.02 m",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Rearranging the equation: wavelength = wave speed \u00f7 frequency = (3 \u00d7 10^8) \u00f7 (6 \u00d7 10^6) = 50 m. This is a realistic radio wave wavelength and tests the ability to use the wave equation with standard form numbers.",
+  "quality_score": 4,
+  "id": "3b13a7e6-3aa3-4a66-b7b8-6ebc1f8f4e77",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:05.706232"
+}

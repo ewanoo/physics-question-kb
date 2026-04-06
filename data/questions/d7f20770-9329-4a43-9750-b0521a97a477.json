@@ -1,0 +1,21 @@
+{
+  "question_text": "A hospital uses X-rays to take images of broken bones. Why are X-rays suitable for this medical use, and what precaution must be taken when using them?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "application",
+    "danger",
+    "X-rays",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "X-rays are suitable because they can pass through soft tissues but are absorbed by dense materials like bone, creating a clear image. However, X-rays are ionising radiation and can damage living cells and DNA, potentially causing cancer. Therefore, exposure must be limited and protective lead aprons must be worn to shield healthy tissue.",
+  "explanation": "This is hard because it requires students to balance two opposing ideas: X-rays are useful because they penetrate tissues, but this same property makes them dangerous. Students must evaluate why they're used despite the risk, and identify appropriate safety measures. It tests critical thinking about the practical application and hazards of EM radiation.",
+  "quality_score": 4,
+  "id": "d7f20770-9329-4a43-9750-b0521a97a477",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:05.706496"
+}

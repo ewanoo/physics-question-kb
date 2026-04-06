@@ -1,0 +1,41 @@
+{
+  "question_text": "A cyclist travels at an average speed of 8 m/s. Which of the following best describes what this means?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "interpretation",
+    "understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The cyclist travels exactly 8 metres every second without slowing down",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The cyclist travels 8 metres every second on average, but may speed up or slow down",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The cyclist's maximum speed is 8 m/s",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The cyclist travels for 8 seconds total",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Average speed is the total distance divided by total time. It doesn't mean the object travels at exactly that speed every moment\u2014the cyclist may have pedalled faster at some points and slower at others, but on average covered 8 metres per second.",
+  "quality_score": 4,
+  "id": "d7381c42-b6cf-4532-9b34-fdb48bdfe598",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:55.907530"
+}

@@ -1,0 +1,41 @@
+{
+  "question_text": "What is the definition of a moment in physics?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "definition",
+    "moment",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The amount of force applied to an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The turning effect of a force about a pivot, calculated as force multiplied by perpendicular distance from the pivot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed at which an object rotates around a point",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The total weight of an object",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A moment is specifically the turning effect produced by a force. It depends on both how large the force is and how far away from the pivot it acts. The larger either of these values, the larger the moment.",
+  "quality_score": 4,
+  "id": "cfa0f099-c0e1-4dc5-a519-086795712030",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:47.131937"
+}

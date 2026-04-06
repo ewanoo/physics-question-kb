@@ -1,0 +1,20 @@
+{
+  "question_text": "A microwave oven uses microwaves to heat food. Explain why microwaves are suitable for this purpose, and describe what happens to the energy of the microwaves.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "application",
+    "energy transfer",
+    "microwaves"
+  ],
+  "options": null,
+  "correct_answer": "Microwaves are suitable because they have the right amount of energy to make water and other molecules in food vibrate/rotate. As the molecules vibrate, their kinetic energy increases, which heats up the food. The electromagnetic energy of the waves is converted into thermal (heat) energy.",
+  "explanation": "This tests understanding of how electromagnetic waves interact with matter. Microwaves are specifically absorbed by polar molecules like water, causing them to vibrate and generate heat\u2014this is a real application that shows energy conversion in action.",
+  "quality_score": 4,
+  "id": "c9a3d6bb-4848-4ab4-bd1e-48060ec87306",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:05.706122"
+}

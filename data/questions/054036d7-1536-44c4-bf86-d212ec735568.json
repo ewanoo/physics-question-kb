@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following is the best example of the principle of moments being used in a real tool?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "principle of moments",
+    "levers",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A long spoon stirring a thick sauce because the handle is short",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A crowbar lifting a lid by applying effort close to the pivot and placing the load far from the pivot",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A hammer striking a nail by hitting it with minimum force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A wheelbarrow with the load placed as close as possible to the wheel",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A crowbar is a perfect lever that uses the principle of moments: by placing the effort (applied force) close to the pivot and the load far from the pivot, we create a large moment even with a small force, making it easy to lift heavy objects. The other options don't demonstrate this principle effectively.",
+  "quality_score": 4,
+  "id": "054036d7-1536-44c4-bf86-d212ec735568",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:47.132266"
+}

@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following is a correct definition of wavelength?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The maximum distance a wave moves up or down from its rest position",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The distance between two consecutive peaks (or troughs) of a wave",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The number of complete waves passing a point each second",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which a wave travels through a medium",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Wavelength is the distance between two consecutive peaks (or troughs) in a wave. It's measured in metres and is often represented by the Greek letter lambda (\u03bb). The other options describe amplitude, frequency, and wave speed respectively.",
+  "quality_score": 4,
+  "id": "a1be790b-ca95-47f8-a37e-408840d9c702",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:15.462251"
+}

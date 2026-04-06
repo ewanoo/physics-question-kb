@@ -1,0 +1,22 @@
+{
+  "question_text": "A skydiver falls through the air. At the moment the parachute opens, the air resistance suddenly becomes much larger than the skydiver's weight. Explain what happens to the skydiver's motion immediately after the parachute opens, and why.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "terminal velocity",
+    "unbalanced forces",
+    "acceleration",
+    "parachute",
+    "air resistance"
+  ],
+  "options": null,
+  "correct_answer": "The skydiver decelerates (slows down). This is because air resistance is now greater than weight, so the forces are unbalanced with a resultant force acting upwards. This unbalanced force causes the skydiver to accelerate upwards (or decelerate in their downward motion), reducing their speed.",
+  "explanation": "When the parachute opens, air resistance suddenly increases and becomes larger than the weight force. Since the forces are now unbalanced, there is a resultant force upwards, which causes a deceleration in the downward direction. The skydiver slows down until air resistance decreases (as speed reduces) until it equals weight again, at which point a new, lower terminal velocity is reached.",
+  "quality_score": 4,
+  "id": "f7a6df04-8e16-4fa2-93a0-7ade027755dc",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:27.845421"
+}

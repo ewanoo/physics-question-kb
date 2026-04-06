@@ -1,0 +1,20 @@
+{
+  "question_text": "A child sits 2 metres from a seesaw pivot. A force of 300 N pushes down on their side. Calculate the moment produced about the pivot.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.moments",
+  "tags": [
+    "calculation",
+    "moment",
+    "seesaw"
+  ],
+  "options": null,
+  "correct_answer": "600 N m (or 600 newton-metres)",
+  "explanation": "Using the equation moment = force \u00d7 perpendicular distance from pivot, we get: moment = 300 N \u00d7 2 m = 600 N m. This tells us how much turning effect the child's weight creates around the pivot point.",
+  "quality_score": 4,
+  "id": "7cbb455c-f1b8-481d-8504-f7f6201e5611",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:47.132168"
+}

@@ -1,0 +1,21 @@
+{
+  "question_text": "A 10 kg object has a weight of 100 N on Planet X. Explain what this tells you about the gravitational field strength on Planet X, and determine whether gravity is stronger or weaker there compared to Earth.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravitational field strength",
+    "comparison",
+    "rearranging formula",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The gravitational field strength on Planet X is 10 N/kg (calculated using g = W \u00f7 m = 100 N \u00f7 10 kg = 10 N/kg). This is the same as Earth's gravitational field strength, so gravity is equally strong on Planet X as it is on Earth.",
+  "explanation": "To find gravitational field strength, we rearrange the formula: g = W \u00f7 m. Students must divide weight by mass, then compare the result to Earth's value of 10 N/kg. This requires understanding that g is not just a number but can vary between planets, and that the weight-mass relationship reveals it.",
+  "quality_score": 4,
+  "id": "9919af90-e5b5-4ead-bc30-44c0033f6dd4",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:36.469932"
+}

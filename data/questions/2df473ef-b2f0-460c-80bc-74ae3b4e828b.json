@@ -1,0 +1,21 @@
+{
+  "question_text": "What is the difference between mass and weight?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.gravity",
+  "tags": [
+    "mass",
+    "weight",
+    "definition",
+    "conceptual"
+  ],
+  "options": null,
+  "correct_answer": "Mass is the amount of matter in an object and stays the same everywhere. Weight is the force of gravity pulling on an object and changes depending on the gravitational field strength.",
+  "explanation": "Mass is a property of the object itself (measured in kg), while weight is the gravitational force acting on that mass (measured in Newtons). This is a key distinction in Year 8 physics.",
+  "quality_score": 4,
+  "id": "2df473ef-b2f0-460c-80bc-74ae3b4e828b",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:36.469408"
+}

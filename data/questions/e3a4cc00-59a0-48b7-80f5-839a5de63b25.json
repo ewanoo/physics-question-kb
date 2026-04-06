@@ -1,0 +1,20 @@
+{
+  "question_text": "An ink droplet in an inkjet printer needs to be deflected onto the paper in a specific location. The droplet is given a negative charge. Explain how the printer uses static electricity to control where the droplet lands.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "uses of static electricity",
+    "inkjet printers",
+    "attracting/repelling charges"
+  ],
+  "options": null,
+  "correct_answer": "The printer uses charged plates or electrodes on either side of the droplet. One plate is positively charged and one is negatively charged. The negatively charged droplet is attracted to the positive plate and repelled by the negative plate, which deflects it to the correct position on the paper.",
+  "explanation": "This is a practical application of static electricity\u2014opposite charges attract and like charges repel. By controlling which plates are charged, the printer can steer each droplet to create an image.",
+  "quality_score": 4,
+  "id": "e3a4cc00-59a0-48b7-80f5-839a5de63b25",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:03.976682"
+}

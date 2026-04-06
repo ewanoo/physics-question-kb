@@ -1,0 +1,21 @@
+{
+  "question_text": "A sound wave has a frequency of 100 Hz and a wavelength of 3.4 metres. Calculate the speed of this sound wave using the equation: wave speed = frequency \u00d7 wavelength.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave_speed",
+    "frequency",
+    "wavelength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "340 m/s (or 340 metres per second)",
+  "explanation": "Using wave speed = frequency \u00d7 wavelength, we calculate: 100 Hz \u00d7 3.4 m = 340 m/s. This is actually the speed of sound in air at room temperature, which is a useful reference value to remember.",
+  "quality_score": 4,
+  "id": "7b99097c-4788-41b5-a6ec-2e120262bc9f",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:15.462553"
+}

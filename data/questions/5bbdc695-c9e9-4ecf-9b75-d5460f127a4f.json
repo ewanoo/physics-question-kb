@@ -1,0 +1,20 @@
+{
+  "question_text": "Describe what happens to the frequency of a water wave if you increase the number of times you dip your hand up and down in the water each second. Explain your answer.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "understanding",
+    "cause_and_effect"
+  ],
+  "options": null,
+  "correct_answer": "The frequency increases. Frequency is the number of complete waves produced per second, so if you dip your hand more times per second, you create more waves per second, which means the frequency increases.",
+  "explanation": "Frequency directly depends on how many vibrations or oscillations occur in one second. By dipping your hand more frequently, you are producing more wave cycles per second, so the frequency of the wave increases. This is a direct, proportional relationship.",
+  "quality_score": 4,
+  "id": "5bbdc695-c9e9-4ecf-9b75-d5460f127a4f",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:15.462991"
+}

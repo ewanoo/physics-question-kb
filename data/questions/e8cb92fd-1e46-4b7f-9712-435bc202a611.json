@@ -1,0 +1,19 @@
+{
+  "question_text": "A kettle has an efficiency of 90%. If 2000 J of electrical energy is supplied to the kettle, how much useful energy is used to heat the water?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "formula application"
+  ],
+  "options": null,
+  "correct_answer": "1800 J",
+  "explanation": "Using efficiency = (useful energy output / total energy input) x 100%, we can rearrange to find: useful energy output = (efficiency / 100) x total energy input = (90 / 100) x 2000 = 0.9 x 2000 = 1800 J. The remaining 200 J is lost as wasted heat.",
+  "quality_score": 5,
+  "id": "e8cb92fd-1e46-4b7f-9712-435bc202a611",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:15.050536"
+}

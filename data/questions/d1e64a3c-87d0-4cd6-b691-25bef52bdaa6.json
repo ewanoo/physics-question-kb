@@ -1,0 +1,21 @@
+{
+  "question_text": "A Sankey diagram for a light bulb shows 100 J of electrical energy input. The arrow for light output is 15 J and the arrow for heat output is 85 J. Calculate the efficiency of this bulb and then explain why you would not choose this type of bulb for a room where you want to save energy.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "Sankey diagram",
+    "efficiency calculation",
+    "evaluation",
+    "energy waste"
+  ],
+  "options": null,
+  "correct_answer": "Efficiency = (15 / 100) x 100% = 15%. This is a very inefficient bulb (likely a traditional filament bulb). You would not choose it because 85% of the energy is wasted as heat rather than converted to useful light, meaning higher electricity bills and unnecessary heating of the room.",
+  "explanation": "This question requires students to: (1) identify useful energy output from a Sankey diagram (15 J of light); (2) apply the efficiency formula correctly; (3) interpret the result and evaluate why this is poor; and (4) connect this to real-world decision-making about energy efficiency. The multi-step reasoning and evaluation make it harder.",
+  "quality_score": 5,
+  "id": "d1e64a3c-87d0-4cd6-b691-25bef52bdaa6",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:15.051191"
+}

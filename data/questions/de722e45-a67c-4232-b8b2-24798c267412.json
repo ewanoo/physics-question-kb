@@ -1,0 +1,42 @@
+{
+  "question_text": "Which of the following correctly describes what happens to an astronaut's weight when they travel from Earth to the Moon?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight",
+    "gravitational field",
+    "comparison",
+    "Moon vs Earth"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Their weight decreases because the Moon has a weaker gravitational field than Earth.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Their weight stays the same because mass never changes.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Their weight increases because they are further from the centre of the Earth.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Their weight disappears because there is no gravity on the Moon.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Weight depends on gravitational field strength (W = m \u00d7 g). The Moon's gravitational field is much weaker than Earth's (about 1.6 N/kg compared to 10 N/kg), so an astronaut's weight would be much less. Their mass stays constant, but weight changes.",
+  "quality_score": 4,
+  "id": "de722e45-a67c-4232-b8b2-24798c267412",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:36.469663"
+}

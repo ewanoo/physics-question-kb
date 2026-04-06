@@ -1,0 +1,21 @@
+{
+  "question_text": "Ultraviolet (UV) radiation from the Sun can damage human skin and cause skin cancer. Explain why UV radiation is more dangerous than visible light, even though both are electromagnetic waves.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "danger",
+    "energy",
+    "wavelength",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "UV radiation has a shorter wavelength and higher frequency than visible light, which means it carries more energy per photon. This higher energy allows UV waves to break chemical bonds in skin cells (DNA damage), causing mutations that can lead to cancer. Visible light does not carry enough energy to cause this damage.",
+  "explanation": "This requires students to connect wavelength/frequency to energy, and then link that to biological harm. It's hard because it requires multi-step reasoning: shorter wavelength \u2192 higher frequency \u2192 more energy \u2192 greater ability to damage cells. Students must evaluate the difference between the two types of waves.",
+  "quality_score": 4,
+  "id": "4669cf31-400d-46e8-b98b-e56988c4c213",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:05.706326"
+}

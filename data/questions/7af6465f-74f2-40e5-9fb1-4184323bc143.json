@@ -1,0 +1,42 @@
+{
+  "question_text": "Light waves are transverse waves, whereas sound waves are longitudinal. Which statement correctly explains what this means?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "transverse",
+    "longitudinal",
+    "wave_types",
+    "understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Light travels faster than sound, so it must be transverse",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "In transverse waves, particles vibrate up and down perpendicular to the wave direction; in longitudinal waves, particles vibrate back and forth parallel to the wave direction",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Transverse waves can only travel through empty space, while longitudinal waves need a medium",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Light waves have higher amplitude than sound waves, making them transverse",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "The key difference is the direction of particle vibration compared to the direction of energy travel. In transverse waves (like light), particles move perpendicular to the wave direction. In longitudinal waves (like sound), particles move parallel to the wave direction, creating compressions and rarefactions.",
+  "quality_score": 4,
+  "id": "7af6465f-74f2-40e5-9fb1-4184323bc143",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:15.462664"
+}

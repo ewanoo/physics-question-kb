@@ -1,0 +1,22 @@
+{
+  "question_text": "A student observes two different water waves. Wave A has a frequency of 2 Hz and a wavelength of 0.5 m. Wave B has a frequency of 4 Hz and a wavelength of 0.25 m. Using the wave speed equation (wave speed = frequency \u00d7 wavelength), calculate the speed of both waves and explain what your results tell you about the relationship between these two waves.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.properties",
+  "tags": [
+    "wave_speed",
+    "frequency",
+    "wavelength",
+    "comparison",
+    "analysis"
+  ],
+  "options": null,
+  "correct_answer": "Wave A: 2 Hz \u00d7 0.5 m = 1 m/s. Wave B: 4 Hz \u00d7 0.25 m = 1 m/s. Both waves travel at the same speed. This shows that even though Wave B has double the frequency and half the wavelength of Wave A, they travel at the same speed because the increase in frequency is exactly compensated by the decrease in wavelength.",
+  "explanation": "This problem requires two calculations and then comparative analysis. The key insight is that wave speed = frequency \u00d7 wavelength is an inverse relationship: if frequency doubles, wavelength halves (and vice versa) to maintain constant wave speed in the same medium. This demonstrates that wave speed depends on the medium, not on frequency or wavelength individually.",
+  "quality_score": 4,
+  "id": "73054add-192b-4b66-9479-6c778da731ae",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:23:15.463076"
+}

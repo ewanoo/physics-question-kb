@@ -1,0 +1,21 @@
+{
+  "question_text": "A car is travelling at 20 m/s on a wet road. The driver sees a hazard and must brake. Explain why the stopping distance is longer on a wet road than on a dry road, and describe how this affects the safety calculation for the driver.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "stopping distance",
+    "friction",
+    "safety",
+    "extended reasoning"
+  ],
+  "options": null,
+  "correct_answer": "On a wet road, there is less friction between the tyres and the road surface. This means the braking force is reduced, so the car takes longer to stop and travels further before coming to a complete stop. Drivers must leave a larger gap between their car and the one in front on wet roads, or travel at a lower speed, to ensure they have enough distance to stop safely.",
+  "explanation": "This question requires students to understand the relationship between friction, braking force, stopping distance, and safe driving. A strong answer connects the physics concept (friction reduces stopping power) to the practical safety implication (need longer stopping distances). This tests reasoning beyond simple recall or calculation.",
+  "quality_score": 5,
+  "id": "e670bf0f-6552-48a2-9499-35141d3d64bc",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:55.907700"
+}

@@ -1,0 +1,41 @@
+{
+  "question_text": "Two identical plastic rods are rubbed with cloth. Rod A is rubbed with wool and gains a negative charge of 8 units. Rod B is rubbed with silk and gains a positive charge of 8 units. What will happen when the two rods are brought close together?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "attracting/repelling charges",
+    "opposite charges",
+    "charging by friction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The rods will repel each other strongly",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The rods will attract each other strongly",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The rods will neither attract nor repel",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The rods will become neutral and stick together",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Opposite charges attract each other. Rod A has a negative charge and Rod B has a positive charge, so they will experience an attractive force. The equal magnitude of charge means the force will be strong.",
+  "quality_score": 4,
+  "id": "97062a2c-c0e9-4181-b2cd-a4d42fb10b3a",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T01:22:03.976844"
+}
