@@ -1,0 +1,18 @@
+{
+  "question_text": "The Moon takes approximately 28 days to orbit Earth. During this time, it completes one full cycle of lunar phases. Explain why we see different lunar phases.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar phases",
+    "Moon orbit",
+    "sunlight"
+  ],
+  "options": null,
+  "correct_answer": "The lunar phases occur because as the Moon orbits Earth, the angle between the Sun, Earth, and Moon changes, so the amount of the Moon's sunlit side visible from Earth changes.",
+  "explanation": "Lunar phases depend on how much of the Moon's illuminated side faces Earth. As the Moon moves around Earth, its position relative to the Sun changes, creating the cycle of phases from new moon to full moon.",
+  "quality_score": 5,
+  "id": "19276504-c429-481e-b73a-28763dabd49d",
+  "source_name": "claude_generator",
+  "source_url": null
+}

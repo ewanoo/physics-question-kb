@@ -1,0 +1,17 @@
+{
+  "question_text": "Calculate the weight of a 50 kg astronaut on Earth where g = 10 N/kg.",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "weight calculation",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "Weight is calculated using W = m \u00d7 g. So 50 kg \u00d7 10 N/kg = 500 N. This is a straightforward one-step calculation using the weight formula.",
+  "quality_score": 5,
+  "id": "f86f1e77-95a3-4548-8c58-b0a7eec55279",
+  "source_name": "claude_generator",
+  "source_url": null
+}

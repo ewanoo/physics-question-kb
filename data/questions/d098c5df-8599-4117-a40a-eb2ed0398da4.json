@@ -1,0 +1,39 @@
+{
+  "question_text": "What is the name of the natural satellite that orbits Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon",
+    "orbit",
+    "satellite"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Sun",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Venus",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Asteroid",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The Moon is Earth's only natural satellite. It orbits Earth and is much smaller than Earth.",
+  "quality_score": 4,
+  "id": "d098c5df-8599-4117-a40a-eb2ed0398da4",
+  "source_name": "claude_generator",
+  "source_url": null
+}

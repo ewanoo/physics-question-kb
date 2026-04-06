@@ -1,0 +1,19 @@
+{
+  "question_text": "A red filter transmits 80% of red light and a blue filter transmits 90% of blue light. If you place both filters in front of a white light source, what colour(s) will pass through and roughly what percentage of the original white light will emerge?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "transmission",
+    "percentage calculations",
+    "light absorption"
+  ],
+  "options": null,
+  "correct_answer": "Red light will pass through (80% of the red component of white light), approximately 13-15% of the original white light will emerge. (Red is about 1/3 of white light, so 1/3 \u00d7 80% \u2248 27% of red light, but the blue filter blocks blue light, so very little light emerges overall.)",
+  "explanation": "White light contains roughly equal amounts of red, green and blue. The red filter lets 80% of red through but blocks green and blue. The blue filter lets 90% of blue through but blocks red and green. Since both filters are in series, only red light can pass the red filter, but the blue filter will block most remaining light. The calculation involves understanding that filters work sequentially and that white light must pass through both filters.",
+  "quality_score": 4,
+  "id": "66832503-0559-478b-a17a-9da127a90eb1",
+  "source_name": "claude_generator",
+  "source_url": null
+}

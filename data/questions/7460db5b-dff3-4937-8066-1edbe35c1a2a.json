@@ -1,0 +1,39 @@
+{
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "question_text": "A space probe is sent to explore a newly discovered planet. Scientists measure that an object falls 20 m in 4 seconds from rest on the planet's surface. What is the gravitational field strength of this planet? (Use s = ut + \u00bdgt\u00b2, where u = 0)",
+  "tags": [
+    "gravitational field calculation",
+    "falling objects",
+    "kinematics"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "2.5 N/kg",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "5 N/kg",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "10 N/kg",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "20 N/kg",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Using s = \u00bdgt\u00b2: 20 = \u00bd \u00d7 g \u00d7 4\u00b2 \u2192 20 = \u00bd \u00d7 g \u00d7 16 \u2192 20 = 8g \u2192 g = 2.5 N/kg. This is a two-step calculation requiring rearrangement of the kinematic equation.",
+  "quality_score": 5,
+  "id": "7460db5b-dff3-4937-8066-1edbe35c1a2a",
+  "source_name": "claude_generator",
+  "source_url": null
+}

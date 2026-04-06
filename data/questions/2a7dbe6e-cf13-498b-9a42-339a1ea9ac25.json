@@ -1,0 +1,18 @@
+{
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "question_text": "A 70 kg astronaut stands on a planet where g = 12 N/kg. They then travel to an orbiting space station where g = 0 N/kg. Calculate the change in their weight and explain what causes this change.",
+  "tags": [
+    "weight change",
+    "gravitational field variation",
+    "orbits"
+  ],
+  "options": null,
+  "correct_answer": "Weight on planet = 840 N; weight on station = 0 N; change = 840 N decrease. This occurs because the space station is in free fall around the planet, so there is no gravitational field effect at that location in the falling reference frame.",
+  "explanation": "On the planet: W = 70 \u00d7 12 = 840 N. On the space station: W = 70 \u00d7 0 = 0 N (free fall). The station orbits in free fall, creating an apparent weightlessness even though gravity still acts to keep it in orbit.",
+  "quality_score": 5,
+  "id": "2a7dbe6e-cf13-498b-9a42-339a1ea9ac25",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "question_text": "A student shines white light through a blue filter onto a red object. Explain why the object will appear black, not red.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "absorption",
+    "reflection",
+    "combined effects"
+  ],
+  "options": null,
+  "correct_answer": "The blue filter only allows blue light through. The red object absorbs blue light and only reflects red light. Since no red light reaches the object, it cannot reflect any visible light, so it appears black.",
+  "explanation": "This requires understanding two concepts: (1) the filter removes all colours except blue, and (2) the object only reflects red but absorbs blue. Since the object receives only blue light but reflects only red, no light is reflected, making it black.",
+  "quality_score": 5,
+  "id": "a0e8da4d-133d-42fb-b047-3f5acb40f0eb",
+  "source_name": "claude_generator",
+  "source_url": null
+}

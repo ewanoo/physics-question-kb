@@ -1,0 +1,18 @@
+{
+  "question_text": "A green filter is placed over a light source that is emitting red light. Explain what happens.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour filters",
+    "light absorption",
+    "practical reasoning"
+  ],
+  "options": null,
+  "correct_answer": "No light (or very little light) will pass through because the green filter absorbs red light and only transmits green light",
+  "explanation": "A green filter only allows green light to pass through. Since the source is producing red light, the filter absorbs all of it, so no visible light emerges. This demonstrates how filters work by absorbing unwanted colours.",
+  "quality_score": 5,
+  "id": "2c9ed589-2d17-420e-9ce3-0376498ad833",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "What are the three primary colours of light?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "primary colours",
+    "light",
+    "additive mixing"
+  ],
+  "options": null,
+  "correct_answer": "Red, green and blue (RGB)",
+  "explanation": "These three colours of light can be mixed together in different combinations to create all other colours. This is called additive colour mixing and is used in screens and displays.",
+  "quality_score": 5,
+  "id": "0e095789-4cb7-49d4-8b1d-ea105a9c1b58",
+  "source_name": "claude_generator",
+  "source_url": null
+}

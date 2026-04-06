@@ -1,0 +1,18 @@
+{
+  "question_text": "A student observes that high tide occurs at the same location on Earth about every 24 hours 50 minutes, not every 24 hours. Explain why the time of high tide is delayed by about 50 minutes each day.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tides",
+    "Moon orbit",
+    "Earth rotation"
+  ],
+  "options": null,
+  "correct_answer": "The Moon takes about 29.5 days to complete one orbit around Earth, so it is in a slightly different position each day. Earth rotates faster than the Moon orbits, so it takes extra time (about 50 minutes) for Earth to rotate to the point where the Moon is directly overhead again.",
+  "explanation": "The Moon orbits Earth once every 29.5 days, but Earth rotates once every 24 hours. Because the Moon moves in its orbit during a 24-hour period, a location on Earth must rotate slightly past one full rotation to face the Moon again, causing high tide to occur about 50 minutes later each day.",
+  "quality_score": 5,
+  "id": "1238a444-a481-44d0-9579-a19b6951b469",
+  "source_name": "claude_generator",
+  "source_url": null
+}

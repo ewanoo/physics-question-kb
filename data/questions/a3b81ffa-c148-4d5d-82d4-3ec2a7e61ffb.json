@@ -1,0 +1,18 @@
+{
+  "question_text": "The Moon always shows the same face to Earth (this is called tidal locking). Using your knowledge of gravity and orbital mechanics, explain why only one side of the Moon faces Earth, and predict what would happen to a satellite orbiting very close to Earth's surface.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "tidal locking",
+    "gravity",
+    "orbital mechanics"
+  ],
+  "options": null,
+  "correct_answer": "The Moon is tidally locked because Earth's gravity pulls more strongly on the near side of the Moon than the far side, creating a torque that stopped the Moon's rotation relative to Earth billions of years ago. A satellite very close to Earth's surface would also become tidally locked if it orbited for long enough, always showing the same face to Earth.",
+  "explanation": "Tidal locking happens when gravitational forces from a larger body cause a smaller body to always face the same direction. The difference in gravitational pull across the Moon's diameter caused it to gradually stop spinning relative to Earth, until eventually it rotated at the same rate it orbited.",
+  "quality_score": 5,
+  "id": "a3b81ffa-c148-4d5d-82d4-3ec2a7e61ffb",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "Approximately how far is the Moon from Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "distance",
+    "Moon",
+    "Earth"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "384,000 kilometres",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "38,400 kilometres",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "3,840,000 kilometres",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "150 million kilometres",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "The average distance from Earth to the Moon is about 384,000 km. This is roughly 30 times the diameter of Earth.",
+  "quality_score": 4,
+  "id": "69957f0b-0576-41b0-9b7b-9cd5f58e263b",
+  "source_name": "claude_generator",
+  "source_url": null
+}

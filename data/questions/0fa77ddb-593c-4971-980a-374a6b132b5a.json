@@ -1,0 +1,18 @@
+{
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "question_text": "A satellite has a mass of 500 kg. It orbits in a region where the gravitational field strength is 3 N/kg. Calculate the gravitational force acting on the satellite.",
+  "tags": [
+    "gravitational force",
+    "satellites",
+    "orbits"
+  ],
+  "options": null,
+  "correct_answer": "1500 N",
+  "explanation": "The gravitational force is the weight of the satellite in that gravitational field: F = m \u00d7 g = 500 kg \u00d7 3 N/kg = 1500 N. This force keeps the satellite in orbit.",
+  "quality_score": 5,
+  "id": "0fa77ddb-593c-4971-980a-374a6b132b5a",
+  "source_name": "claude_generator",
+  "source_url": null
+}

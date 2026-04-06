@@ -1,0 +1,18 @@
+{
+  "question_text": "A piece of fabric appears red under white light. Under what colour of light would it appear black?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "colour absorption",
+    "reflection",
+    "filtering"
+  ],
+  "options": null,
+  "correct_answer": "Cyan light (or blue and green light together, but not red light)",
+  "explanation": "Red fabric reflects red light and absorbs all other colours. If only cyan light (blue and green) shines on it with no red light, there is no red light to be reflected, so the fabric appears black because no visible light is reflected.",
+  "quality_score": 4,
+  "id": "696a8e95-ff54-46b4-b971-cf731d6f8677",
+  "source_name": "claude_generator",
+  "source_url": null
+}

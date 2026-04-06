@@ -1,0 +1,39 @@
+{
+  "question_text": "Which lunar phase occurs when the Moon is directly between Earth and the Sun?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "lunar phases",
+    "new moon",
+    "alignment"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "New Moon",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Full Moon",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Half Moon",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Crescent Moon",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "During a new moon, the Moon is positioned between Earth and Sun, so the sunlit side faces away from Earth and we cannot see it. This is why it appears invisible.",
+  "quality_score": 5,
+  "id": "49d33083-a437-46be-b4d6-4eb483d05b1b",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "When red light and green light are mixed together, what colour of light is produced?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "additive colour mixing",
+    "primary colours",
+    "light"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Yellow",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Cyan",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Magenta",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Brown",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "In additive colour mixing (mixing coloured light), red and green combine to make yellow light. This happens because the light from both colours reaches your eye at the same time.",
+  "quality_score": 5,
+  "id": "8d0369ea-7d49-4c07-9224-7aef11e8ee2c",
+  "source_name": "claude_generator",
+  "source_url": null
+}

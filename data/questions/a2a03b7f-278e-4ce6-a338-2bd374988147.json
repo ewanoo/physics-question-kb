@@ -1,0 +1,18 @@
+{
+  "question_text": "Name two features visible on the Moon's surface.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "Moon surface",
+    "features",
+    "craters"
+  ],
+  "options": null,
+  "correct_answer": "Any two from: craters, mountains, valleys, dark areas (maria), highlands (terrae)",
+  "explanation": "The Moon's surface has many distinctive features created by asteroid impacts and volcanic activity. Craters and mountains are among the most obvious.",
+  "quality_score": 4,
+  "id": "a2a03b7f-278e-4ce6-a338-2bd374988147",
+  "source_name": "claude_generator",
+  "source_url": null
+}

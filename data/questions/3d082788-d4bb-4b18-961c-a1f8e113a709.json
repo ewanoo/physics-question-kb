@@ -1,0 +1,18 @@
+{
+  "question_text": "Three coloured lights (red, green and blue) are shone onto a white surface so that all three beams overlap in the centre. What colour will the overlapping region appear to be?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "additive colour mixing",
+    "primary colours",
+    "light combination"
+  ],
+  "options": null,
+  "correct_answer": "White",
+  "explanation": "When all three primary colours of light (red, green and blue) are mixed together in equal amounts, they produce white light. This is the basis of additive colour mixing used in screens, TVs and projectors.",
+  "quality_score": 5,
+  "id": "3d082788-d4bb-4b18-961c-a1f8e113a709",
+  "source_name": "claude_generator",
+  "source_url": null
+}

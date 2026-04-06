@@ -1,0 +1,18 @@
+{
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.gravity",
+  "question_text": "Two satellites, A and B, orbit the same planet. Satellite A is twice as far from the planet's centre as satellite B. Both have the same mass. Compare the gravitational forces acting on each satellite and explain your answer.",
+  "tags": [
+    "orbits",
+    "inverse square law",
+    "gravitational force"
+  ],
+  "options": null,
+  "correct_answer": "Satellite B experiences four times greater gravitational force than satellite A. Gravitational force follows an inverse square law\u2014if distance doubles, force decreases by a factor of 2\u00b2 = 4.",
+  "explanation": "The gravitational force depends on distance from the planet's centre. Since gravity follows an inverse square law (F \u221d 1/r\u00b2), when satellite A is twice as far, its gravitational force is 1/4 that of satellite B.",
+  "quality_score": 5,
+  "id": "714910f9-f688-4a7e-a104-2a81d65757fa",
+  "source_name": "claude_generator",
+  "source_url": null
+}

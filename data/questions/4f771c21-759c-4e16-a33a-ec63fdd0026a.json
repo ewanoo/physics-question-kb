@@ -1,0 +1,39 @@
+{
+  "question_text": "Which pair of colours, when mixed together as light, will produce white light?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "additive colour mixing",
+    "complementary colours",
+    "light"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red and cyan",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Blue and yellow",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Red and green",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Green and magenta",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Red and cyan are complementary colours. When complementary colours of light are mixed together, they produce white light. Cyan is made from blue and green light combined.",
+  "quality_score": 4,
+  "id": "4f771c21-759c-4e16-a33a-ec63fdd0026a",
+  "source_name": "claude_generator",
+  "source_url": null
+}

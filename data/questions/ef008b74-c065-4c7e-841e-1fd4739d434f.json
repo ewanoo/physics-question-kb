@@ -1,0 +1,18 @@
+{
+  "question_text": "Why do astronauts appear weightless when orbiting Earth?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "tags": [
+    "orbits",
+    "weightlessness",
+    "free fall"
+  ],
+  "options": null,
+  "correct_answer": "Astronauts are in free fall around Earth. Both they and their spacecraft are falling towards Earth at the same rate, so there is no normal force pushing up on them, making them feel weightless.",
+  "explanation": "The spacecraft and astronauts are constantly falling towards Earth due to gravity, but they're moving fast enough horizontally that they keep missing Earth. Since everything falls together, astronauts don't feel pushed against the floor.",
+  "quality_score": 5,
+  "id": "ef008b74-c065-4c7e-841e-1fd4739d434f",
+  "source_name": "claude_generator",
+  "source_url": null
+}

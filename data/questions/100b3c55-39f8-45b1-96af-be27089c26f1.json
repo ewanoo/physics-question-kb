@@ -1,0 +1,18 @@
+{
+  "question_text": "The Moon's gravitational force affects Earth's tides, but Earth's gravitational force also affects the Moon. Describe what is happening to the Moon's orbit due to Earth's gravity, and calculate approximately how much the Moon moves away from Earth each year (given that it moves about 3.8 cm per year).",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.earth_moon",
+  "tags": [
+    "gravity",
+    "Moon orbit",
+    "orbital mechanics"
+  ],
+  "options": null,
+  "correct_answer": "The Moon is gradually moving away from Earth at about 3.8 cm per year. Over 100 years, it would move 380 cm (3.8 metres). Earth's gravity keeps the Moon in orbit, but the tidal interaction causes the Moon to slowly spiral outward.",
+  "explanation": "Earth's gravity holds the Moon in orbit, but tidal friction gradually transfers energy from Earth's rotation to the Moon's orbit, causing the Moon to slowly drift away. At 3.8 cm/year, over a human lifetime (80 years) the Moon moves about 304 cm (just over 3 metres) farther away.",
+  "quality_score": 5,
+  "id": "100b3c55-39f8-45b1-96af-be27089c26f1",
+  "source_name": "claude_generator",
+  "source_url": null
+}

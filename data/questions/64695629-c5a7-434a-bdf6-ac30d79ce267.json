@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following statements about gravitational fields is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravitational field",
+    "gravity",
+    "planets"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A gravitational field only exists around planets with life on them.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All objects with mass have a gravitational field around them.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational fields push objects away from each other.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gravitational fields are only found in space, not on Earth.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Every object with mass creates a gravitational field that pulls other objects towards it. The bigger and more massive the object, the stronger its gravitational field.",
+  "quality_score": 5,
+  "id": "64695629-c5a7-434a-bdf6-ac30d79ce267",
+  "source_name": "claude_generator",
+  "source_url": null
+}

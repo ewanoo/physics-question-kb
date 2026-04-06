@@ -1,0 +1,40 @@
+{
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.gravity",
+  "question_text": "The Moon's gravitational field strength is about 1.6 N/kg compared to Earth's 10 N/kg. A 60 kg astronaut travels to the Moon. What will happen to their mass and weight?",
+  "tags": [
+    "Moon gravity",
+    "mass",
+    "weight",
+    "gravitational field"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Their mass stays 60 kg; their weight decreases to 96 N.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Their mass decreases to 10 kg; their weight stays 600 N.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both their mass and weight stay the same as on Earth.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Their mass increases; their weight decreases.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Mass never changes, so it stays 60 kg. Weight changes with gravity: W = m \u00d7 g = 60 \u00d7 1.6 = 96 N on the Moon, compared to 600 N on Earth.",
+  "quality_score": 5,
+  "id": "dd5e87a1-c670-4774-bebe-ed758e542298",
+  "source_name": "claude_generator",
+  "source_url": null
+}

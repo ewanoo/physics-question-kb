@@ -1,0 +1,19 @@
+{
+  "question_text": "Tides are mainly caused by the Moon's gravitational pull on Earth's oceans. If the Moon were twice as far away from Earth, what would happen to the strength of the Moon's gravitational force?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "gravity",
+    "tides",
+    "distance",
+    "Moon"
+  ],
+  "options": null,
+  "correct_answer": "The gravitational force would decrease to one-quarter (1/4) of its original strength, because gravitational force decreases with the square of distance.",
+  "explanation": "Gravity follows an inverse square law: if distance doubles, the gravitational force becomes 1/(2\u00b2) = 1/4 of the original. This is why the Moon's position significantly affects Earth's tides.",
+  "quality_score": 5,
+  "id": "33d757d5-0f42-4a8d-b73a-b6df2be57aea",
+  "source_name": "claude_generator",
+  "source_url": null
+}

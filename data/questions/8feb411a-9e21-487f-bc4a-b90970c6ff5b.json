@@ -1,0 +1,40 @@
+{
+  "question_text": "Spring tides occur when the Sun and Moon are aligned on the same side of Earth. What is the main reason these tides are higher than usual?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.earth_moon",
+  "tags": [
+    "spring tides",
+    "gravitational force",
+    "Sun",
+    "Moon"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun and Moon's gravitational forces combine to pull more strongly on Earth's oceans",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The Earth moves closer to the Sun during spring",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The Moon's orbit brings it very close to Earth",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The temperature of the oceans increases in spring",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Spring tides occur when the gravitational pulls of the Sun and Moon act in the same direction, creating a stronger combined pull on Earth's oceans. This happens twice per month during full and new moon phases.",
+  "quality_score": 5,
+  "id": "8feb411a-9e21-487f-bc4a-b90970c6ff5b",
+  "source_name": "claude_generator",
+  "source_url": null
+}
