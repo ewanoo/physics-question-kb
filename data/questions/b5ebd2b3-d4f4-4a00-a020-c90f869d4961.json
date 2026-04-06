@@ -1,0 +1,18 @@
+{
+  "question_text": "A candle burns and releases heat and light. Is this a reversible or irreversible change, and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "irreversible",
+    "chemical change",
+    "combustion"
+  ],
+  "options": null,
+  "correct_answer": "This is an irreversible change because the wax is broken down into new substances (carbon dioxide and water) that cannot be recombined back into wax.",
+  "explanation": "Burning is a chemical change that creates new substances. Although energy is released, the original material cannot be recovered, making it irreversible. Students should recognise that combustion reactions are always irreversible chemical changes.",
+  "quality_score": 5,
+  "id": "b5ebd2b3-d4f4-4a00-a020-c90f869d4961",
+  "source_name": "claude_generator",
+  "source_url": null
+}

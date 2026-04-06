@@ -1,0 +1,39 @@
+{
+  "question_text": "Which statement best explains why a pencil appears bent when placed in a glass of water?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "optical illusion",
+    "light bending"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Light is absorbed by the water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Light rays bend when passing from water to air, making the pencil appear to be in a different position",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The water is cold and makes the pencil contract",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pencil is actually bent but straightens again when removed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Refraction occurs at the water-air boundary. Light from the pencil bends as it leaves the water, causing our brain to perceive the pencil as being bent or displaced from its actual position.",
+  "quality_score": 5,
+  "id": "bbcf09d5-1c87-40bf-818c-da94600a1ea6",
+  "source_name": "claude_generator",
+  "source_url": null
+}

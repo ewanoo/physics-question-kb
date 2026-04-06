@@ -1,0 +1,20 @@
+{
+  "question_text": "Compare burning wood with melting wax in terms of reversibility and energy changes.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "reversible",
+    "irreversible",
+    "energy",
+    "combustion",
+    "melting"
+  ],
+  "options": null,
+  "correct_answer": "Burning wood is irreversible and releases a large amount of energy as new substances (ash, carbon dioxide) form. Melting wax is reversible; it requires energy to melt but releases the same amount of energy when it refreezes. The key difference is that burning creates new substances while melting does not.",
+  "explanation": "This comparison tests understanding that irreversible changes (like combustion) release or absorb large amounts of energy and form new substances, while reversible changes involve energy transfer but can be undone because no new substances form. Students should recognize that energy transfer does not determine reversibility\u2014the formation of new substances does.",
+  "quality_score": 5,
+  "id": "31484fc4-2a44-4852-a5f2-36705651200e",
+  "source_name": "claude_generator",
+  "source_url": null
+}

@@ -1,0 +1,18 @@
+{
+  "question_type": "short_answer",
+  "question_text": "Explain why a sound wave with a large amplitude will be louder than a sound wave with the same frequency but a small amplitude.",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "amplitude",
+    "loudness",
+    "explanation"
+  ],
+  "options": null,
+  "correct_answer": "A larger amplitude means the sound wave has greater displacement or energy. This greater energy carries more sound power to the ear, which the brain perceives as louder. Frequency does not affect loudness, only pitch.",
+  "explanation": "Amplitude determines the energy transferred by the wave. Larger amplitude = more energy = greater effect on the ear's eardrum = louder perceived sound. The same frequency ensures both waves have the same pitch, so only loudness differs.",
+  "quality_score": 5,
+  "id": "279a373f-6384-4cde-9594-43b46c9232ab",
+  "source_name": "claude_generator",
+  "source_url": null
+}

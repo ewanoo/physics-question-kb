@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following is an irreversible change?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "irreversible change",
+    "chemical change",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Freezing water into ice",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Cooking an egg",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Melting chocolate",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Dissolving salt in water",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Cooking an egg is irreversible because new substances are formed and you cannot turn a cooked egg back into a raw one. The other options are all reversible physical changes where the original substance can be recovered.",
+  "quality_score": 5,
+  "id": "826fbae7-9b8e-4632-9706-cf0f52a036c3",
+  "source_name": "claude_generator",
+  "source_url": null
+}

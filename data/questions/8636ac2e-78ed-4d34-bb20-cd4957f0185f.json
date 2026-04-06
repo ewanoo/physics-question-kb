@@ -1,0 +1,39 @@
+{
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "refractive index",
+    "speed of light"
+  ],
+  "question_text": "Which of the following materials would cause light to refract the most (bend the most) when entering from air?",
+  "options": [
+    {
+      "label": "A",
+      "text": "Water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Glass",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Diamond",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Plastic",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Diamond has the highest refractive index of these materials, meaning light slows down the most and bends the most when entering it from air. This is why diamonds sparkle so brightly.",
+  "quality_score": 4,
+  "id": "8636ac2e-78ed-4d34-bb20-cd4957f0185f",
+  "source_name": "claude_generator",
+  "source_url": null
+}

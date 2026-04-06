@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following is a physical change?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "physical change",
+    "definition",
+    "reversible"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice melting into water",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Wood burning in a fire",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Milk turning sour",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Rust forming on iron",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Ice melting is a physical change because the water molecules remain the same\u2014only the state changes from solid to liquid. Burning, souring, and rusting are all chemical changes that create new substances.",
+  "quality_score": 5,
+  "id": "689e546c-24d2-4eda-ab50-b865ad95a3de",
+  "source_name": "claude_generator",
+  "source_url": null
+}

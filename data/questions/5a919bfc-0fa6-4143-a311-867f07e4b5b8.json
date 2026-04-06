@@ -1,0 +1,18 @@
+{
+  "question_text": "What is a reversible change?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.changes",
+  "tags": [
+    "reversible change",
+    "definition",
+    "physical"
+  ],
+  "options": null,
+  "correct_answer": "A reversible change is a change that can be undone or reversed to get back to the original substance/state.",
+  "explanation": "Reversible changes do not create new substances; the original material can be recovered. Examples include melting, freezing, evaporating, and dissolving. The key difference from irreversible changes is that no new substances are formed.",
+  "quality_score": 5,
+  "id": "5a919bfc-0fa6-4143-a311-867f07e4b5b8",
+  "source_name": "claude_generator",
+  "source_url": null
+}

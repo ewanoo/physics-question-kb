@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following best describes what amplitude measures in a sound wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "amplitude",
+    "definition",
+    "loudness"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "How high or low the sound is",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How loud or quiet the sound is",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "How fast the sound travels",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "How long the sound lasts",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Amplitude measures the maximum displacement of the wave and determines loudness\u2014larger amplitude means louder sound. Pitch (high or low) is determined by frequency, not amplitude.",
+  "quality_score": 5,
+  "id": "f7383ac5-50c9-4874-804c-250f1c7d7441",
+  "source_name": "claude_generator",
+  "source_url": null
+}

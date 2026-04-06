@@ -1,0 +1,18 @@
+{
+  "question_text": "A student heats copper carbonate and observes it turns from green to black. After cooling, adding dilute acid produces bubbles. Explain why this proves the change was irreversible, using the results as evidence.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "irreversible chemical change",
+    "decomposition",
+    "evidence"
+  ],
+  "options": null,
+  "correct_answer": "The green copper carbonate decomposed into black copper oxide and carbon dioxide gas. The bubbles (carbon dioxide) when acid is added prove that new substances formed. Because the original green copper carbonate cannot be recovered, the change is irreversible.",
+  "explanation": "This question requires students to interpret observations and connect them to particle behaviour. The colour change indicates a new substance formed, and the acid test proves carbon dioxide was created during heating\u2014showing irreversible decomposition occurred. Students must use the evidence of gas production to justify their reasoning about irreversibility.",
+  "quality_score": 5,
+  "id": "6485207e-b248-4373-8782-00a4e4897e53",
+  "source_name": "claude_generator",
+  "source_url": null
+}

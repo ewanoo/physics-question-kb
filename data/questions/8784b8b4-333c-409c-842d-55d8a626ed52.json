@@ -1,0 +1,18 @@
+{
+  "question_text": "A student uses a convex lens to create a real image of a candle on a screen. If the candle is moved farther from the lens, what happens to the image on the screen?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "convex lens",
+    "real image",
+    "image formation"
+  ],
+  "options": null,
+  "correct_answer": "The image moves closer to the lens and becomes smaller.",
+  "explanation": "As the object moves farther from a convex lens, the image distance from the lens decreases and the magnification decreases, so the image becomes smaller and moves toward the lens. This follows from the lens equation and the properties of converging lenses.",
+  "quality_score": 4,
+  "id": "8784b8b4-333c-409c-842d-55d8a626ed52",
+  "source_name": "claude_generator",
+  "source_url": null
+}

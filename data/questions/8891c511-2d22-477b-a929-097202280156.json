@@ -1,0 +1,39 @@
+{
+  "question_text": "Ultrasound is used in medical scanning. Which of the following statements about ultrasound is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "ultrasound",
+    "application",
+    "frequency"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ultrasound has a frequency lower than 20 Hz",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ultrasound has a frequency higher than 20,000 Hz",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ultrasound can be heard by human ears",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Ultrasound has a lower speed than normal sound waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Ultrasound is defined as sound with a frequency above 20,000 Hz, which is beyond the range of human hearing (typically 20 Hz to 20,000 Hz). It travels at the same speed as normal sound in a given medium.",
+  "quality_score": 5,
+  "id": "8891c511-2d22-477b-a929-097202280156",
+  "source_name": "claude_generator",
+  "source_url": null
+}

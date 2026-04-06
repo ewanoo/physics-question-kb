@@ -1,0 +1,18 @@
+{
+  "question_type": "calculation",
+  "question_text": "A dolphin emits an ultrasound wave with a frequency of 150,000 Hz. The speed of sound in water is 1500 m/s. Calculate the wavelength of the ultrasound using the wave equation.",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "ultrasound",
+    "wavelength",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "0.01 m (or 1 cm)",
+  "explanation": "Using v = f \u00d7 \u03bb, rearrange to \u03bb = v \u00f7 f = 1500 \u00f7 150,000 = 0.01 m. This demonstrates that ultrasound has very short wavelengths, which is why it is useful for detailed medical imaging.",
+  "quality_score": 5,
+  "id": "aa8d43b9-5c09-47d7-96ef-ecfe3b4fa3c8",
+  "source_name": "claude_generator",
+  "source_url": null
+}

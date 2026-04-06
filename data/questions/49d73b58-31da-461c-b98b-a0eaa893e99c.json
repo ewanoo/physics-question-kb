@@ -1,0 +1,18 @@
+{
+  "question_text": "A concave mirror is used to focus sunlight. Explain why the light rays converge at the focal point.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "concave mirror",
+    "reflection",
+    "focal point"
+  ],
+  "options": null,
+  "correct_answer": "The curved surface of the concave mirror reflects parallel light rays inward toward a single point (the focal point) because each ray hits the mirror at a different angle and reflects according to the law of reflection.",
+  "explanation": "A concave mirror curves inward like a bowl. Each incoming ray reflects at the angle determined by its position on the curve, and these reflections converge at the focal point, concentrating the light's energy.",
+  "quality_score": 5,
+  "id": "49d73b58-31da-461c-b98b-a0eaa893e99c",
+  "source_name": "claude_generator",
+  "source_url": null
+}

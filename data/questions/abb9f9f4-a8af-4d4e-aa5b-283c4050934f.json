@@ -1,0 +1,18 @@
+{
+  "question_text": "A beaker of water is heated from 20\u00b0C to 100\u00b0C. Calculate the temperature change.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "energy",
+    "temperature",
+    "heating"
+  ],
+  "options": null,
+  "correct_answer": "80\u00b0C",
+  "explanation": "Temperature change is calculated by subtracting the initial temperature from the final temperature: 100\u00b0C \u2212 20\u00b0C = 80\u00b0C. This shows how much energy was transferred to the water as heat.",
+  "quality_score": 4,
+  "id": "abb9f9f4-a8af-4d4e-aa5b-283c4050934f",
+  "source_name": "claude_generator",
+  "source_url": null
+}

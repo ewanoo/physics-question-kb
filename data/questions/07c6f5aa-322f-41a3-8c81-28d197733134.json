@@ -1,0 +1,18 @@
+{
+  "question_text": "A light ray travelling through glass hits the glass-air boundary at an angle of incidence of 50\u00b0. The critical angle for this glass-air boundary is 42\u00b0. What happens to the light ray?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "total internal reflection",
+    "critical angle",
+    "optical density"
+  ],
+  "options": null,
+  "correct_answer": "The light undergoes total internal reflection and does not escape into the air; it is completely reflected back into the glass.",
+  "explanation": "When the angle of incidence (50\u00b0) exceeds the critical angle (42\u00b0), total internal reflection occurs. All light is reflected back into the denser medium (glass), and none refracts into the air. This is used in optical fibres and prisms.",
+  "quality_score": 5,
+  "id": "07c6f5aa-322f-41a3-8c81-28d197733134",
+  "source_name": "claude_generator",
+  "source_url": null
+}

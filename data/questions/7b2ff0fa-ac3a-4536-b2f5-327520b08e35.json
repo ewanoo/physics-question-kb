@@ -1,0 +1,19 @@
+{
+  "question_text": "A student dissolves sugar in hot water. After the water cools, crystals reappear. Is this reversible or irreversible? Justify your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "reversible change",
+    "dissolving",
+    "crystallisation",
+    "physical change"
+  ],
+  "options": null,
+  "correct_answer": "This is a reversible change because the sugar can be recovered in its original form. When water evaporates, the sugar particles are no longer dissolved and reform as crystals.",
+  "explanation": "Although a new mixture is formed when sugar dissolves, this is a physical change\u2014no new substances are created. The sugar molecules remain unchanged and can be separated from water by evaporation, proving reversibility. This distinguishes physical changes (reversible) from true chemical changes.",
+  "quality_score": 5,
+  "id": "7b2ff0fa-ac3a-4536-b2f5-327520b08e35",
+  "source_name": "claude_generator",
+  "source_url": null
+}

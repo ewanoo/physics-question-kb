@@ -1,0 +1,18 @@
+{
+  "question_text": "What is the name of the line drawn perpendicular to a mirror surface used in ray diagrams?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "reflection",
+    "mirrors",
+    "ray diagrams"
+  ],
+  "options": null,
+  "correct_answer": "Normal",
+  "explanation": "The normal is an imaginary line perpendicular to the mirror surface. It is used as a reference line to measure angles of incidence and reflection in ray diagrams.",
+  "quality_score": 5,
+  "id": "afe828d4-500c-4713-afd5-1395296b632a",
+  "source_name": "claude_generator",
+  "source_url": null
+}

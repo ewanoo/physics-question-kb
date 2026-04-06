@@ -1,0 +1,39 @@
+{
+  "question_text": "A ray of light enters a rectangular glass block from air at point A on the top surface, travels through the glass, and exits at point B on the bottom surface. The ray bends toward the normal when entering the glass. Comparing the direction of the ray inside the glass to the direction it would have if there were no refraction, the ray inside the glass is:",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "Snell's law",
+    "ray paths"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Parallel to the original direction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "At a smaller angle to the normal (closer to vertical)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "At a larger angle to the normal (more horizontal)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Perpendicular to the surface",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Bending toward the normal means the angle to the normal decreases. Inside the glass, the refracted ray travels at a smaller angle to the normal than the incident ray in air, so it is closer to the vertical direction.",
+  "quality_score": 4,
+  "id": "d8344ad3-5c3a-4595-87b8-48b1f1294d23",
+  "source_name": "claude_generator",
+  "source_url": null
+}

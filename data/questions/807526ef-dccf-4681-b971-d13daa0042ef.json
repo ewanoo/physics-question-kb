@@ -1,0 +1,39 @@
+{
+  "question_text": "What is the name of the number of sound waves that pass a point in one second?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "definition",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Frequency",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Pitch",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Amplitude",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Wavelength",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Frequency is defined as the number of waves passing a point per second, measured in Hertz (Hz). Pitch is how high or low a sound seems, which depends on frequency, but frequency is the precise term for the number of waves per second.",
+  "quality_score": 5,
+  "id": "807526ef-dccf-4681-b971-d13daa0042ef",
+  "source_name": "claude_generator",
+  "source_url": null
+}

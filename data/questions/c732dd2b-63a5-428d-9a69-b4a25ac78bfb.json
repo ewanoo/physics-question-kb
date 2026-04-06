@@ -1,0 +1,18 @@
+{
+  "question_text": "A tuning fork vibrates 512 times per second. What is its frequency, and what is the name of the unit used to measure it?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "frequency",
+    "units",
+    "application"
+  ],
+  "options": null,
+  "correct_answer": "Frequency = 512 Hz (Hertz)",
+  "explanation": "If the tuning fork vibrates 512 times per second, this is the frequency. The unit for frequency is Hertz (Hz), where 1 Hz = 1 vibration per second.",
+  "quality_score": 5,
+  "id": "c732dd2b-63a5-428d-9a69-b4a25ac78bfb",
+  "source_name": "claude_generator",
+  "source_url": null
+}

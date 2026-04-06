@@ -1,0 +1,18 @@
+{
+  "question_text": "Describe what a convex lens does to light rays.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "lenses",
+    "converging",
+    "light rays"
+  ],
+  "options": null,
+  "correct_answer": "A convex lens converges (brings together) light rays, making them meet at a focal point.",
+  "explanation": "Convex lenses are thicker in the middle and curve outward. They bend parallel light rays inward so they meet at a point called the focus.",
+  "quality_score": 5,
+  "id": "7118630c-1eb4-4d8c-aaa6-768080394bda",
+  "source_name": "claude_generator",
+  "source_url": null
+}

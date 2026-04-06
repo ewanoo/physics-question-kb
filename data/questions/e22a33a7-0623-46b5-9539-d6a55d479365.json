@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following best describes what happens during a reversible chemical change?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.changes",
+  "tags": [
+    "reversible",
+    "chemical change",
+    "energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "New substances are formed and can be converted back to the original",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Only the appearance changes but the particles stay the same",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The material is destroyed and cannot be recovered",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The state of matter changes from solid to liquid",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "A reversible chemical change, like dissolving sugar in water, forms new combinations of particles that can be reversed (by evaporating the water) to recover the original substance. This is rare but important to distinguish from irreversible changes.",
+  "quality_score": 4,
+  "id": "e22a33a7-0623-46b5-9539-d6a55d479365",
+  "source_name": "claude_generator",
+  "source_url": null
+}

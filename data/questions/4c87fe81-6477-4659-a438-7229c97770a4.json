@@ -1,0 +1,39 @@
+{
+  "question_text": "When light passes from air into glass, what happens to its speed?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "speed of light",
+    "optical density"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "It increases",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "It decreases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "It stays the same",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "It becomes zero",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Glass is optically denser than air, so light slows down when entering it from air. This is why refraction occurs at the boundary between the two materials.",
+  "quality_score": 5,
+  "id": "4c87fe81-6477-4659-a438-7229c97770a4",
+  "source_name": "claude_generator",
+  "source_url": null
+}

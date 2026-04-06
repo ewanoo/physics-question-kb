@@ -1,0 +1,18 @@
+{
+  "question_text": "Two sound waves are compared: Wave X has a frequency of 256 Hz and Wave Y has a frequency of 512 Hz. Which wave has a higher pitch, and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.sound",
+  "tags": [
+    "pitch",
+    "frequency",
+    "relationship"
+  ],
+  "options": null,
+  "correct_answer": "Wave Y has a higher pitch because it has a higher frequency. Pitch increases with frequency.",
+  "explanation": "Pitch is directly related to frequency\u2014higher frequency produces a higher pitch sound. Since Wave Y (512 Hz) has double the frequency of Wave X (256 Hz), it will sound much higher in pitch.",
+  "quality_score": 5,
+  "id": "1108b138-ccb8-4e62-b6b9-3c667e9f6093",
+  "source_name": "claude_generator",
+  "source_url": null
+}
