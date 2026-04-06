@@ -1,0 +1,18 @@
+{
+  "question_text": "A radio station broadcasts at a frequency of 100 MHz. Using the equation c = f\u03bb, where c = 3 \u00d7 10\u2078 m/s, calculate the wavelength of the radio waves in metres.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "frequency",
+    "wavelength",
+    "radio waves",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "3 m (or 3.0 m)",
+  "explanation": "Rearrange c = f\u03bb to get \u03bb = c/f. Convert 100 MHz to 100 \u00d7 10\u2076 Hz = 1 \u00d7 10\u2078 Hz. Then \u03bb = (3 \u00d7 10\u2078) / (1 \u00d7 10\u2078) = 3 m.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ef515892-21bf-4aca-b857-88d97305a66e"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "When a light wave passes from air into glass, the wave slows down. What happens to the wavelength of the light as it enters the glass?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "refraction",
+    "wavelength",
+    "wave speed"
+  ],
+  "options": null,
+  "correct_answer": "The wavelength decreases (gets shorter)",
+  "explanation": "When light enters glass, its speed decreases but its frequency stays the same. Since v = f\u03bb and v decreases while f remains constant, the wavelength \u03bb must also decrease. This is a key concept in understanding refraction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8bba9b21-743c-4355-9e9c-714e38437d04"
+}

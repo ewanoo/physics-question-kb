@@ -1,0 +1,17 @@
+{
+  "question_text": "A rope wave has a period of 0.5 seconds. What is the frequency of this wave?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "period",
+    "relationship"
+  ],
+  "options": null,
+  "correct_answer": "2 Hz",
+  "explanation": "Frequency and period are inverses of each other: f = 1/T. With T = 0.5 s, the frequency is f = 1/0.5 = 2 Hz. This demonstrates the simple inverse relationship between these two quantities.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9a42b570-5b9e-487a-a29f-4c66f74c6dcc"
+}

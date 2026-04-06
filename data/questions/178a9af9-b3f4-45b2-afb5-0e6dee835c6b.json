@@ -1,0 +1,17 @@
+{
+  "question_text": "A car accelerates uniformly from rest. Its speed after 4 seconds is 12 m/s. Using this information, calculate: (a) the acceleration, and (b) the distance travelled during this 4-second period.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "acceleration calculations",
+    "kinematic equations",
+    "multi-step problem"
+  ],
+  "options": null,
+  "correct_answer": "(a) Acceleration = 12 \u00f7 4 = 3 m/s\u00b2. (b) Distance = \u00bd \u00d7 3 \u00d7 4\u00b2 = \u00bd \u00d7 3 \u00d7 16 = 24 m (or using s = \u00bd(u+v)t = \u00bd(0+12) \u00d7 4 = 24 m).",
+  "explanation": "Acceleration is the change in speed over time: a = v \u00f7 t = 12 \u00f7 4 = 3 m/s\u00b2. Distance during uniform acceleration can be found using s = \u00bdat\u00b2 or s = \u00bd(u+v)t, both giving 24 m.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "178a9af9-b3f4-45b2-afb5-0e6dee835c6b"
+}

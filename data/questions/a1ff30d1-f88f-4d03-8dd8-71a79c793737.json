@@ -1,0 +1,17 @@
+{
+  "question_text": "A student eats a banana that contains 400 kJ of chemical energy. Her body uses some of this energy to run at constant speed on a treadmill. Name two stores to which this chemical energy is transferred during and after exercise.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical store",
+    "energy transfer",
+    "thermal store"
+  ],
+  "options": null,
+  "correct_answer": "Any two of: kinetic store (movement), thermal store (body heat/sweating), gravitational potential store (if lifting against gravity). Most answers will include kinetic and thermal stores.",
+  "explanation": "Chemical energy from food is transferred to kinetic energy (movement) and thermal energy (heat produced by muscles and body). Some may also be stored as gravitational potential if running uphill.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "a1ff30d1-f88f-4d03-8dd8-71a79c793737"
+}

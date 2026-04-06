@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes the difference between transverse and longitudinal waves?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "transverse waves",
+    "longitudinal waves",
+    "wave types"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Transverse waves vibrate parallel to the direction of travel, while longitudinal waves vibrate perpendicular to it",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Transverse waves vibrate perpendicular to the direction of travel, while longitudinal waves vibrate parallel to it",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Transverse waves move faster than longitudinal waves in all materials",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Longitudinal waves always have a longer wavelength than transverse waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Transverse waves (like light and water waves) have particles moving up and down while the wave travels horizontally. Longitudinal waves (like sound) have particles vibrating back and forth along the direction the wave travels. Option B correctly distinguishes these two wave types.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "90e412b8-3302-4d11-93a7-7e81da127de7"
+}

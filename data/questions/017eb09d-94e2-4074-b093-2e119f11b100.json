@@ -1,0 +1,17 @@
+{
+  "question_text": "A car travels 120 km in the first 2 hours, then 80 km in the next 1.5 hours. A student calculates the average speed as (120 + 80) \u00f7 (2 + 1.5) = 57.1 m/s. Identify the error in this calculation and explain what the correct average speed should be in m/s.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "average speed",
+    "unit conversion",
+    "distance-time"
+  ],
+  "options": null,
+  "correct_answer": "The error is that the answer is in km/h, not m/s. The student forgot to convert: 57.1 km/h \u00f7 3.6 = approximately 15.9 m/s (or accept 15.8-16 m/s).",
+  "explanation": "Average speed is total distance divided by total time, which the student calculated correctly as 57.1 km/h. However, they incorrectly stated this as m/s without converting; 1 m/s = 3.6 km/h, so dividing by 3.6 gives the correct answer in m/s.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "017eb09d-94e2-4074-b093-2e119f11b100"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A nuclear power station transfers energy from the nuclear store to produce electricity. Name one other energy store that the power station transfers energy to during this process, and explain why this happens.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "nuclear store",
+    "thermal store",
+    "energy dissipation"
+  ],
+  "options": null,
+  "correct_answer": "Thermal store (or heat). This happens because not all nuclear energy is converted to electrical energy; some is lost as waste heat through cooling systems/cooling towers due to inefficiency.",
+  "explanation": "No energy conversion process is 100% efficient. In a nuclear power station, some of the energy released by nuclear reactions is inevitably dissipated as heat (thermal energy) rather than being converted to electricity.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "93593d33-9c8e-4afe-92de-1a59bde3348b"
+}

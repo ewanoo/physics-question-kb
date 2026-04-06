@@ -1,0 +1,38 @@
+{
+  "question_text": "A train travels past a stationary observer. From the observer's perspective, the train's instantaneous speed is 20 m/s. A passenger on the train throws a ball forward at 5 m/s. What is the ball's speed relative to the stationary observer?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "relative speed",
+    "reference frames",
+    "instantaneous speed"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "5 m/s",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "15 m/s",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "25 m/s",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "20 m/s",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Relative speed is found by adding velocities in the same direction. The ball moves at 5 m/s relative to the train, which is moving at 20 m/s relative to the observer, so the ball's speed relative to the observer is 20 + 5 = 25 m/s.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f64eab46-3842-4ef0-8ca6-cd3f708f0166"
+}

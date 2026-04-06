@@ -1,0 +1,18 @@
+{
+  "question_text": "A household appliance transfers 2.16 MJ of energy in 15 minutes. What is its power rating in watts, and how long would it take to transfer 1 kWh of energy at this power?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "unit conversion",
+    "energy transfer",
+    "time calculation"
+  ],
+  "options": null,
+  "correct_answer": "Power = 2.16 \u00d7 10\u2076 J \u00f7 900 s = 2400 W. To transfer 1 kWh (3.6 \u00d7 10\u2076 J): Time = 3.6 \u00d7 10\u2076 J \u00f7 2400 W = 1500 s = 25 minutes.",
+  "explanation": "This requires converting between joules and megajoules, calculating power using P = E/t, then rearranging to find time when energy is given in kilowatt-hours. It integrates multiple calculation steps and unit conversions appropriate for hard difficulty.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "238ff705-ebb7-4629-90a6-9d9690342790"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A wave has an amplitude of 5 cm and a wavelength of 20 cm. If the wave speed is 40 cm/s, what is its frequency?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed equation",
+    "frequency",
+    "amplitude"
+  ],
+  "options": null,
+  "correct_answer": "2 Hz",
+  "explanation": "Using v = f\u03bb, we rearrange to f = v/\u03bb = 40/20 = 2 Hz. The amplitude of 5 cm is extra information that is not needed\u2014this tests whether students can identify the relevant quantities. The frequency is independent of amplitude.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "7967d75f-51dd-4ce7-81b0-402a6b5aa00d"
+}

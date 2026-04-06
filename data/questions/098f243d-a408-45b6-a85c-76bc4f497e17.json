@@ -1,0 +1,39 @@
+{
+  "question_text": "Two devices perform the same task: Device X has a power of 1.2 kW and Device Y has a power of 800 W. If both devices are equally efficient at doing the task, which statement best explains the relationship between their power and the time they need to complete the work?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power relationship",
+    "time",
+    "efficiency",
+    "comparative reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Device X needs less time because it has higher power; the ratio of times is 800:1200 or 2:3.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Device Y needs less time because it has lower power and is therefore more efficient.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Both devices need the same time because they complete the same task.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Device X needs more time because higher power means it works more slowly to save energy.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "If both devices are equally efficient and do the same task (transfer the same energy), the device with higher power will finish in less time. Since P = E/t, higher power means shorter time for the same energy. Device X's time to Device Y's time = 800:1200 = 2:3, so Device X takes 2/3 of the time Device Y takes.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "098f243d-a408-45b6-a85c-76bc4f497e17"
+}

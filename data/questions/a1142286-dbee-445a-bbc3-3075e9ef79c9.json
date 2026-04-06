@@ -1,0 +1,17 @@
+{
+  "question_text": "A distance-time graph for a runner shows a straight line from (0, 0) to (10, 100), then a horizontal line from (10, 100) to (15, 100). Another runner's graph shows a straight line from (0, 0) to (15, 150). Compare the average speeds of both runners and explain which runner was faster during the first 10 seconds.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "distance-time graphs",
+    "average speed",
+    "compare scenarios"
+  ],
+  "options": null,
+  "correct_answer": "Runner 1: average speed = 100 \u00f7 15 = 6.67 m/s. Runner 2: average speed = 150 \u00f7 15 = 10 m/s. During the first 10 seconds, Runner 1 had a speed of 10 m/s (100 m \u00f7 10 s) and Runner 2 had a speed of 10 m/s (150 m \u00f7 15 s, so 10 m/s for entire journey). Runner 1 was as fast or faster in the first 10 seconds.",
+  "explanation": "The first runner travels 100 m in 10 seconds (speed = 10 m/s), then stops. The second runner travels 150 m in 15 seconds uniformly (speed = 10 m/s throughout). Both travelled at the same instantaneous speed for the first 10 seconds, but Runner 1's average speed over the full 15 seconds is lower because they stopped.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a1142286-dbee-445a-bbc3-3075e9ef79c9"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A roller coaster car at the top of a hill has 15,000 J of gravitational potential energy. At the bottom of the hill, it has 12,000 J of kinetic energy. Calculate the energy that has been dissipated due to friction and air resistance.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential",
+    "kinetic",
+    "dissipation",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "3,000 J (or 3 kJ)",
+  "explanation": "The energy dissipated equals the initial gravitational potential energy minus the final kinetic energy: 15,000 J \u2212 12,000 J = 3,000 J. This energy is lost as heat and sound due to friction and air resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1df1ea08-cc25-43f2-af43-4376da95fc91"
+}

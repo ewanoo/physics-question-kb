@@ -1,0 +1,38 @@
+{
+  "question_text": "A wind turbine converts wind energy into electrical energy. Which energy store does the moving air possess?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic store",
+    "renewable energy",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Thermal store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Kinetic store",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Chemical store",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Elastic store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Moving air has kinetic energy because it is in motion. The turbine blades are pushed by this moving air, converting the kinetic energy into rotational motion and eventually electrical energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3c8b4cfc-5779-47c9-85a2-8e57ab2071e3"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A kettle has a power rating of 2.4 kW and takes 5 minutes to boil water. A microwave has a power rating of 800 W and takes 8 minutes to heat the same amount of water. Calculate the total energy transferred by both appliances and explain which is more efficient in terms of energy used per unit time.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "energy transfer",
+    "comparing appliances",
+    "time"
+  ],
+  "options": null,
+  "correct_answer": "Kettle: 2400 W \u00d7 300 s = 720,000 J (or 720 kJ). Microwave: 800 W \u00d7 480 s = 384,000 J (or 384 kJ). The microwave uses less total energy, so it is more efficient for heating this amount of water.",
+  "explanation": "The kettle transfers more energy (720 kJ) than the microwave (384 kJ) because although it has higher power, the question asks about total energy and efficiency. The microwave uses less total energy despite taking longer, making it more efficient for this task.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ffb91872-752b-4f47-8f62-ac67966cda94"
+}

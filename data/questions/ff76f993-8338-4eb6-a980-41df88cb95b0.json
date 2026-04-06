@@ -1,0 +1,37 @@
+{
+  "question_text": "Which of the following is the best example of energy being stored in a chemical store?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical store",
+    "energy sources"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A moving car travelling at constant speed",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A battery inside a torch before it is switched on",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A hot cup of tea cooling down on a table",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A book resting on a high shelf",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A battery contains chemical energy that can be released when the circuit is closed. The moving car has kinetic energy, the hot tea has thermal energy, and the book has gravitational potential energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ff76f993-8338-4eb6-a980-41df88cb95b0"
+}

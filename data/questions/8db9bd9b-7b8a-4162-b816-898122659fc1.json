@@ -1,0 +1,18 @@
+{
+  "question_text": "Explain why X-rays are dangerous to human tissue but radio waves are not, even though both are electromagnetic waves.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "X-rays",
+    "radio waves",
+    "danger",
+    "ionization"
+  ],
+  "options": null,
+  "correct_answer": "X-rays have much higher frequency/shorter wavelength and carry more energy, allowing them to ionize atoms in cells and damage DNA. Radio waves have lower energy and cannot ionize biological tissue.",
+  "explanation": "Higher frequency electromagnetic waves carry more energy per photon. X-rays have enough energy to knock electrons off atoms (ionization), which can damage living cells and cause cancer. Radio waves lack this energy and pass through tissue safely.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8db9bd9b-7b8a-4162-b816-898122659fc1"
+}

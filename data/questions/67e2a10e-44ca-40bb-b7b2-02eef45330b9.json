@@ -1,0 +1,17 @@
+{
+  "question_text": "Two cyclists start from the same point. Cyclist A travels at a constant 6 m/s for 300 seconds. Cyclist B accelerates uniformly from rest at 0.04 m/s\u00b2. Which cyclist travels further, and by how many metres?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "acceleration",
+    "distance calculation",
+    "compare scenarios"
+  ],
+  "options": null,
+  "correct_answer": "Cyclist A travels 1800 m. Cyclist B travels 1800 m (using s = \u00bdat\u00b2, s = \u00bd \u00d7 0.04 \u00d7 300\u00b2 = 1800 m). They travel the same distance.",
+  "explanation": "For Cyclist A, distance = speed \u00d7 time = 6 \u00d7 300 = 1800 m. For Cyclist B, use the equation s = \u00bdat\u00b2 with a = 0.04 m/s\u00b2 and t = 300 s, giving s = 1800 m, so they are equal.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "67e2a10e-44ca-40bb-b7b2-02eef45330b9"
+}

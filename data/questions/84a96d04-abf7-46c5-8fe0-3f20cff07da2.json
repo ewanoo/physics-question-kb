@@ -1,0 +1,18 @@
+{
+  "question_text": "Ultraviolet radiation from the Sun can cause skin damage and skin cancer. Describe one way that the human body protects itself from UV radiation.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "ultraviolet",
+    "danger",
+    "protection",
+    "biology"
+  ],
+  "options": null,
+  "correct_answer": "The skin produces melanin, which absorbs ultraviolet radiation and protects deeper skin layers from damage.",
+  "explanation": "Melanin is a pigment produced by skin cells that absorbs UV radiation and converts it into harmless heat, preventing it from reaching deeper skin layers where it could cause DNA damage. This is why skin tans when exposed to sun.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "84a96d04-abf7-46c5-8fe0-3f20cff07da2"
+}

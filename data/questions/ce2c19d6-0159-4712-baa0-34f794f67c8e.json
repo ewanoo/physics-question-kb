@@ -1,0 +1,18 @@
+{
+  "question_text": "A school is considering replacing old 100 W light bulbs with new 15 W LED bulbs in classrooms. If lights are on for 8 hours per day, 5 days per week, and electricity costs 28p per kWh, calculate the annual saving for 50 bulbs over one year.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "cost calculation",
+    "energy saving",
+    "practical application"
+  ],
+  "options": null,
+  "correct_answer": "Old bulbs: 50 \u00d7 100 W = 5000 W = 5 kW. Weekly energy = 5 kW \u00d7 40 h = 200 kWh. Annual energy = 200 \u00d7 52 = 10,400 kWh. Cost = 10,400 \u00d7 \u00a30.28 = \u00a32,912. New bulbs: 50 \u00d7 15 W = 750 W = 0.75 kW. Weekly energy = 0.75 kW \u00d7 40 h = 30 kWh. Annual energy = 30 \u00d7 52 = 1,560 kWh. Cost = 1,560 \u00d7 \u00a30.28 = \u00a3436.80. Annual saving = \u00a32,912 - \u00a3436.80 = \u00a32,475.20.",
+  "explanation": "This multi-step problem requires calculating total power, converting to kilowatts, finding weekly and annual energy usage, converting to cost, and finding the difference. It models a realistic scenario that demonstrates why reducing power consumption saves money.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ce2c19d6-0159-4712-baa0-34f794f67c8e"
+}

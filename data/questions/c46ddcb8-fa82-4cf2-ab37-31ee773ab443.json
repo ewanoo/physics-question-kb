@@ -1,0 +1,18 @@
+{
+  "question_text": "A hospital uses gamma rays to sterilize medical equipment. Explain why gamma rays are suitable for this application despite being dangerous to living tissue.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "gamma rays",
+    "applications",
+    "ionization",
+    "sterilization"
+  ],
+  "options": null,
+  "correct_answer": "Gamma rays have very high energy and can ionize and kill bacteria/microorganisms on the equipment. When the equipment is not in use, the brief exposure to gamma rays sterilizes it without harm to patients using sterile equipment later.",
+  "explanation": "Gamma rays' high energy makes them excellent at killing microorganisms by ionizing their DNA. Since the sterilization happens before the equipment is used on patients, the danger is minimized while gaining the benefit of guaranteed sterile instruments.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "c46ddcb8-fa82-4cf2-ab37-31ee773ab443"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "A gym has two options for heating water: Option A uses a 9 kW electric heater, Option B uses a 6 kW heater that runs for twice as long. The electricity cost is \u00a30.25 per kWh. Calculate the energy and cost for both options and recommend which is better for a single use scenario (heating a fixed amount of water).",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "cost comparison",
+    "energy calculation",
+    "decision making"
+  ],
+  "options": null,
+  "correct_answer": "Let Option A run for time t. Option A: Energy = 9 kW \u00d7 t = 9t kWh, Cost = 9t \u00d7 \u00a30.25 = \u00a32.25t. Option B: Energy = 6 kW \u00d7 2t = 12t kWh, Cost = 12t \u00d7 \u00a30.25 = \u00a33.00t. Option A is more efficient and cheaper because it uses less total energy to heat the same amount of water (Option A assumes fixed heating task).",
+  "explanation": "Although Option B transfers more total energy because it runs for twice as long, this is wasteful for heating a fixed amount of water. Option A uses less energy and is therefore cheaper and better for a single heating task. This demonstrates that higher power with shorter time is often more efficient for fixed-outcome tasks.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "665dc051-47df-4e36-845b-200a5860b890"
+}

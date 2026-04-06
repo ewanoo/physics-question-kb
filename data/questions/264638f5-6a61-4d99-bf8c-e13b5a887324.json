@@ -1,0 +1,38 @@
+{
+  "question_text": "A student drops a rubber ball from a height of 2 metres. Just before it hits the ground, most of the energy has been transferred from which store to which store?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential",
+    "kinetic",
+    "energy transfer"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "From kinetic store to gravitational potential store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "From gravitational potential store to kinetic store",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "From elastic store to thermal store",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "From chemical store to kinetic store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As the ball falls, it loses height, so gravitational potential energy decreases. At the same time, the ball speeds up, so kinetic energy increases. The energy is transferred from the gravitational potential store to the kinetic store.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "264638f5-6a61-4d99-bf8c-e13b5a887324"
+}

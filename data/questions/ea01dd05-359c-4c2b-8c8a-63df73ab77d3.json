@@ -1,0 +1,17 @@
+{
+  "question_text": "A stretched spring stores 48 J of energy in its elastic store. When released, the spring pushes a block across a rough surface. The block slides 6 metres before stopping. Explain why the spring's elastic energy does not equal the kinetic energy the block gains.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic store",
+    "energy dissipation",
+    "friction"
+  ],
+  "options": null,
+  "correct_answer": "Some energy is dissipated (wasted) due to friction as the block slides across the rough surface, so not all the elastic energy becomes kinetic energy.",
+  "explanation": "In real systems, friction and air resistance cause energy to be transferred to the thermal store (heat), which is why the block doesn't travel indefinitely. This is called energy dissipation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ea01dd05-359c-4c2b-8c8a-63df73ab77d3"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Microwave ovens use electromagnetic radiation with a frequency of 2.45 GHz to heat food. Which statement correctly describes the relationship between the frequency and wavelength of these microwaves?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "microwaves",
+    "frequency-wavelength relationship",
+    "applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Higher frequency means longer wavelength",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Frequency and wavelength are inversely proportional",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Frequency and wavelength are directly proportional",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Wavelength has no relationship to frequency",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "According to c = f\u03bb, when frequency increases, wavelength must decrease (and vice versa) to keep the speed of light constant. This is an inverse relationship.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "027c0e4c-3cbd-4184-abd3-3ddd57a0286c"
+}

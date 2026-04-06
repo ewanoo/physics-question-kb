@@ -1,0 +1,17 @@
+{
+  "question_text": "A radio station broadcasts on a frequency of 100 MHz. Radio waves travel at 3 \u00d7 10\u2078 m/s. What is the wavelength of the radio wave?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "wave speed equation",
+    "frequency",
+    "wavelength"
+  ],
+  "options": null,
+  "correct_answer": "3 m",
+  "explanation": "First convert frequency: 100 MHz = 100 \u00d7 10\u2076 Hz = 1 \u00d7 10\u2078 Hz. Using \u03bb = v/f = (3 \u00d7 10\u2078)/(1 \u00d7 10\u2078) = 3 m. This requires applying the wave equation with scientific notation.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1d597eed-bdea-4a59-8ef2-e178a646cbd0"
+}

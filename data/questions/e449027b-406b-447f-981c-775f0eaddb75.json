@@ -1,0 +1,38 @@
+{
+  "question_text": "A thermal camera detects infrared radiation from warm objects. Which one of the following best explains why the camera can see a person in complete darkness?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "infrared",
+    "thermal radiation",
+    "applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Infrared light is brighter than visible light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Warm objects emit infrared radiation even when there is no visible light",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Infrared waves can reflect off the ground to create images",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The camera converts darkness into visible light using electricity",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "All warm objects continuously emit infrared radiation as part of their thermal energy. A thermal camera detects this infrared radiation rather than visible light, so it works in complete darkness.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e449027b-406b-447f-981c-775f0eaddb75"
+}

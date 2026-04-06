@@ -1,0 +1,38 @@
+{
+  "question_text": "Which statement correctly describes diffraction of waves?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.properties",
+  "tags": [
+    "diffraction",
+    "wave behaviour",
+    "obstacles"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Diffraction occurs when waves bounce off a barrier and change direction",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Diffraction occurs when waves bend around obstacles or through narrow gaps",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Diffraction is when waves change speed as they travel through different materials",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Diffraction only happens with sound waves, not with light or water waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Diffraction is the bending of waves around obstacles or through narrow openings, and it occurs with all types of waves. Option B correctly defines this phenomenon; option A describes reflection, and option C describes refraction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1f5c298b-2f29-47ac-aae5-773c476abf55"
+}

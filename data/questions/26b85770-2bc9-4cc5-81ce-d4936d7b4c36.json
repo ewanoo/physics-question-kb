@@ -1,0 +1,18 @@
+{
+  "question_text": "A student claims that a 500 W microwave will always transfer more energy than a 1500 W oven if left running. Evaluate this claim with a calculation showing specific scenarios where this statement would be true or false.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power comparison",
+    "energy transfer",
+    "time relationships",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The claim is false. The microwave transfers more energy only if it runs for more than 3 times longer. Example: Microwave for 20 mins = 500 W \u00d7 1200 s = 600,000 J. Oven for 5 mins = 1500 W \u00d7 300 s = 450,000 J. So the microwave wins. But oven for 10 mins = 1500 W \u00d7 600 s = 900,000 J, which is more than the microwave.",
+  "explanation": "This question requires students to recognise that power is not the only factor determining total energy transferred; time is equally important. The relationship P = E/t (or E = P \u00d7 t) shows that a lower-powered appliance can transfer more total energy if it runs for significantly longer.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "26b85770-2bc9-4cc5-81ce-d4936d7b4c36"
+}

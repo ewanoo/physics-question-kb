@@ -1,0 +1,17 @@
+{
+  "question_text": "A speed-time graph shows a vehicle accelerating from 0 to 25 m/s over 10 seconds, then maintaining constant speed for 15 seconds, then decelerating uniformly to rest in 5 seconds. What is the total distance travelled?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.speed",
+  "tags": [
+    "speed-time graphs",
+    "acceleration",
+    "area under graph"
+  ],
+  "options": null,
+  "correct_answer": "625 metres (or 625 m). Breaking into sections: acceleration section = \u00bd \u00d7 10 \u00d7 25 = 125 m; constant speed = 25 \u00d7 15 = 375 m; deceleration = \u00bd \u00d7 5 \u00d7 25 = 62.5 m; total = 562.5 m.",
+  "explanation": "The distance under a speed-time graph is found by calculating the area of each section: the two triangles (acceleration and deceleration) and the rectangle (constant speed). Adding 125 + 375 + 62.5 gives the total distance of 562.5 m.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "586196af-76c9-4b02-9291-4a170bc2c525"
+}

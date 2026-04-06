@@ -1,0 +1,39 @@
+{
+  "question_text": "An electric heater rated at 3 kW runs for 4 hours. A laptop charger rated at 65 W runs for 24 hours continuously. Which statement correctly compares the energy transferred and the cost implications if electricity costs 30p per kWh?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "energy calculation",
+    "cost",
+    "kWh"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The heater transfers more energy (12 kWh) and costs \u00a33.60, while the laptop charger transfers 1.56 kWh costing \u00a30.47, so the heater is always more expensive to run.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The laptop charger transfers more energy because it runs for 24 hours compared to the heater's 4 hours.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The heater and laptop charger transfer the same amount of energy because they both provide useful energy to devices.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The heater costs \u00a33.60 and the laptop charger costs \u00a34.68, so the laptop charger is more expensive overall.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Heater energy = 3 kW \u00d7 4 h = 12 kWh (cost: 12 \u00d7 \u00a30.30 = \u00a33.60). Laptop charger energy = 0.065 kW \u00d7 24 h = 1.56 kWh (cost: 1.56 \u00d7 \u00a30.30 = \u00a30.47). The heater transfers significantly more energy and costs much more despite running for only 4 hours because its power rating is much higher.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "901ab183-2693-4ae9-a47b-d05290446df9"
+}
