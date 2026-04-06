@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements about the solar system is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "planets",
+    "structure",
+    "solar_system"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Sun orbits around all the planets in the solar system",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "All planets in the solar system orbit around the Sun",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Planets orbit in straight lines around the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The solar system has 12 planets",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "All eight planets in our solar system orbit the Sun due to gravity. The Sun is at the centre of the solar system and is by far the largest object, so its gravity keeps all planets in elliptical orbits around it.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "786f5522-6a50-47d2-a223-ecaac8d91d09"
+}

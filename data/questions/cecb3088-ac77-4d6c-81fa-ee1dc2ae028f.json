@@ -1,0 +1,16 @@
+{
+  "question_text": "A student eats a chocolate bar containing 2000 kJ of energy. During the day, she uses 8000 kJ of energy for activities like running, thinking, and maintaining body temperature. She also loses 500 kJ as heat to her surroundings. Calculate the net change in energy stored in her body, and explain what this tells us about energy conservation.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy_transfer",
+    "energy_conservation",
+    "food_energy"
+  ],
+  "correct_answer": "Net change = 2000 - 8000 - 500 = -6500 kJ (energy decrease of 6500 kJ). This shows energy is conserved: energy from food is used for activities and released as heat, so total energy input must equal total energy output and change in stored energy.",
+  "explanation": "To find net energy change, we add up all energy inputs (food = 2000 kJ) and subtract all energy outputs (activities = 8000 kJ, heat loss = 500 kJ). The negative answer shows her body stored energy decreased by 6500 kJ, meaning she used more energy than she consumed. Energy is conserved because the food energy went into activities and heat\u2014nothing was lost, just transferred.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cecb3088-ac77-4d6c-81fa-ee1dc2ae028f"
+}

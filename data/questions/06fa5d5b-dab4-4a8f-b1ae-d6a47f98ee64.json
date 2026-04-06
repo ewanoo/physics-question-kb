@@ -1,0 +1,17 @@
+{
+  "question_text": "A student applies a force to a door handle that is 0.8 m from the door's hinge. Another student applies the same force at a point only 0.2 m from the hinge. Which student will find it easier to open the door?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "moment",
+    "distance from pivot",
+    "application"
+  ],
+  "options": [],
+  "correct_answer": "The student applying force 0.8 m from the hinge (the first student)",
+  "explanation": "The further away from the pivot (hinge) a force is applied, the larger the moment produced. A larger moment makes it easier to turn or rotate an object, so the student at 0.8 m will have a bigger turning effect and find it easier to open the door.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "06fa5d5b-dab4-4a8f-b1ae-d6a47f98ee64"
+}

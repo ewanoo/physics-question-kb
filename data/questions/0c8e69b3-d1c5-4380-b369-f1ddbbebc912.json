@@ -1,0 +1,17 @@
+{
+  "question_text": "A 100g chocolate bar contains 2000 kJ of chemical energy. A student burns the same chocolate bar in a calorimeter, and it releases 1800 kJ of heat energy. Explain the 200 kJ difference and discuss why the human body would extract a different amount of energy from eating this chocolate compared to burning it in a calorimeter.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy_release",
+    "combustion",
+    "digestion",
+    "efficiency"
+  ],
+  "correct_answer": "The 200 kJ difference could be due to incomplete combustion, energy lost as light/sound, or measurement error. Humans extract different energy because: (1) the human digestive system doesn't release all chemical energy at once like combustion does; (2) some energy is lost in digestion and absorption; (3) some food energy passes through the body undigested; (4) humans use energy with varying efficiency depending on the type of food and individual metabolism. Typically, humans extract 85-95% of the potential chemical energy from food.",
+  "explanation": "When food burns completely in a calorimeter, it releases maximum energy as heat. In the body, digestion is a controlled process where enzymes gradually break down food, and not all energy is captured for use\u2014some is wasted in the digestive process itself and some food material is not fully broken down. Additionally, humans use energy less efficiently than a calorimeter (which converts all energy to heat), so they extract slightly less usable energy from food.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0c8e69b3-d1c5-4380-b369-f1ddbbebc912"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "On 21 June (Northern Hemisphere summer solstice), the sun is directly overhead at the Tropic of Cancer (23.5\u00b0N). On 21 December (Northern Hemisphere winter solstice), the sun is directly overhead at the Tropic of Capricorn (23.5\u00b0S). Calculate the angle through which Earth must rotate (in degrees) between these two dates to move the point of maximum solar intensity from 23.5\u00b0N to 23.5\u00b0S.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "tropics",
+    "axial_tilt",
+    "orbital_mechanics",
+    "calculation"
+  ],
+  "correct_answer": "47\u00b0. The sun moves from 23.5\u00b0N to 23.5\u00b0S, which is a change of 47\u00b0 in latitude (23.5\u00b0 + 23.5\u00b0 = 47\u00b0).",
+  "explanation": "The point of maximum solar intensity moves from 23.5\u00b0 North to 23.5\u00b0 South of the equator between the summer and winter solstices. This is a total angular change of 23.5\u00b0 + 23.5\u00b0 = 47\u00b0. This happens because Earth's axial tilt ranges the Sun's direct rays between these two latitudes as Earth orbits.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "ea3bf20d-c780-40f9-b2ad-01e9e9ecdc97"
+}

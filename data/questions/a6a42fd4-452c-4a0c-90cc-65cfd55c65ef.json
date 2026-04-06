@@ -1,0 +1,17 @@
+{
+  "question_text": "How long does it take the Moon to orbit the Earth?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon",
+    "orbit",
+    "period"
+  ],
+  "options": [],
+  "correct_answer": "approximately 28 days (or 29.5 days)",
+  "explanation": "The Moon takes about 28 days (more precisely 29.5 days) to complete one full orbit around the Earth. This orbital period is also called a lunar month.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a6a42fd4-452c-4a0c-90cc-65cfd55c65ef"
+}

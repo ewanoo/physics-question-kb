@@ -1,0 +1,37 @@
+{
+  "question_text": "Which of the following devices converts energy with the highest efficiency?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "energy conversion",
+    "real-world efficiency"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A traditional incandescent light bulb (about 5% efficient)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An electric motor (about 85% efficient)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A fossil fuel power station (about 35% efficient)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A kettle heating water (about 60% efficient)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Electric motors convert electrical energy to kinetic (movement) energy very efficiently, at around 85%. This is much higher than incandescent bulbs which waste most energy as heat, power stations which lose heat, and kettles which lose heat through the surrounding air.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f6ad9c18-be41-4156-90de-765e0c522db7"
+}

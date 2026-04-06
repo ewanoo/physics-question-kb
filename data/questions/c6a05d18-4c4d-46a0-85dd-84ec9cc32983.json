@@ -1,0 +1,17 @@
+{
+  "question_text": "A student heats 50g of ice at -10\u00b0C until it becomes steam at 120\u00b0C. Explain why the temperature stops rising during the melting phase, even though the ice is still being heated. What is the name of the energy required to cause this change of state?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "melting",
+    "latent heat",
+    "energy",
+    "temperature"
+  ],
+  "correct_answer": "During melting, all the heat energy goes into breaking the bonds between particles rather than increasing their kinetic energy, so temperature remains constant. This energy is called latent heat (or specific latent heat of fusion).",
+  "explanation": "During a change of state like melting, the temperature stays constant because the added energy breaks intermolecular bonds rather than making particles move faster. The energy needed for this is called latent heat, which is a key concept in understanding matter changes.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c6a05d18-4c4d-46a0-85dd-84ec9cc32983"
+}

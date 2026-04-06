@@ -1,0 +1,37 @@
+{
+  "question_text": "Which state of matter has particles that are tightly packed together and vibrate in fixed positions?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "particle arrangement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gas",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Liquid",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Solid",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Plasma",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "In a solid, particles are held in fixed positions by strong forces between them and can only vibrate. This is why solids have a definite shape and volume, unlike liquids and gases where particles can move more freely.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2cbca30f-7a7b-4c95-b859-4276393f55ac"
+}

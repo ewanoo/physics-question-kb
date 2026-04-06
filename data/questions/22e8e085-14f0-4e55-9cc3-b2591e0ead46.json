@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following is an example of a moment in everyday life?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.moments",
+  "tags": [
+    "example",
+    "everyday application",
+    "lever"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A book falling straight down to the ground",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Using a spanner to tighten a bolt",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A car accelerating in a straight line",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Water flowing from a tap",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Using a spanner to tighten a bolt involves applying a force at a distance from the pivot (the bolt's centre), creating a turning moment. This rotates the bolt, demonstrating moments in a practical, everyday example.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "22e8e085-14f0-4e55-9cc3-b2591e0ead46"
+}

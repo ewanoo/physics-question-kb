@@ -1,0 +1,18 @@
+{
+  "question_text": "Two identical tuning forks vibrate: one at 256 Hz and one at 260 Hz. When sounded together, a person hears a 'beating' effect where the sound gets louder and quieter repeatedly. Calculate how many beats per second the listener hears, and explain what causes this effect.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "beats",
+    "frequency",
+    "interference",
+    "superposition"
+  ],
+  "options": [],
+  "correct_answer": "4 beats per second. The beat frequency equals the difference in frequencies: 260 - 256 = 4 Hz.",
+  "explanation": "When two sound waves of slightly different frequencies are played together, they interfere constructively and destructively. When in phase, the waves add and sound gets louder; when out of phase, they cancel and sound gets quieter. This cycle repeats at a rate equal to the difference in frequencies (4 Hz means 4 loud-quiet cycles per second).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "24429cb0-e253-4b56-a0be-90ff05711647"
+}

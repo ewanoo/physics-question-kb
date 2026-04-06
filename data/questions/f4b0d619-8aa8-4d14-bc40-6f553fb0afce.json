@@ -1,0 +1,38 @@
+{
+  "question_text": "Why does the Moon always show the same face towards Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.earth_moon",
+  "tags": [
+    "moon",
+    "rotation",
+    "tidal_locking"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The Moon does not rotate at all",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The Moon rotates at the same rate as it orbits Earth, so the same side always faces us",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Earth's gravity prevents the Moon from rotating",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Moon is too far away for us to see it rotate",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The Moon is tidally locked to Earth, meaning it rotates on its axis at exactly the same rate it orbits Earth. This causes the same side (the near side) to always face towards us, while we never see the far side.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f4b0d619-8aa8-4d14-bc40-6f553fb0afce"
+}

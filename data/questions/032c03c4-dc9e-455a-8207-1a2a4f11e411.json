@@ -1,0 +1,16 @@
+{
+  "question_text": "A light bulb transfers 60 J of electrical energy into 15 J of light energy and 45 J of heat energy. What is the efficiency of the light bulb?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "energy transfer"
+  ],
+  "options": [],
+  "correct_answer": "25%",
+  "explanation": "Efficiency is calculated as (useful energy output \u00f7 total energy input) \u00d7 100. The useful energy is the light (15 J) and total input is 60 J, so efficiency = (15 \u00f7 60) \u00d7 100 = 25%. The heat is wasted energy and is not included in the useful output for a light bulb.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "032c03c4-dc9e-455a-8207-1a2a4f11e411"
+}

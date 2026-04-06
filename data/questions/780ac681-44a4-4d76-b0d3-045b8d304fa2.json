@@ -1,0 +1,17 @@
+{
+  "question_text": "A beaker contains 200g of water at 25\u00b0C. You add 100g of water at 95\u00b0C to the beaker. Without any heat loss to surroundings, calculate the approximate final temperature of the mixture. (Assume specific heat capacity of water is 4.2 J/g\u00b0C and both quantities of water have the same specific heat capacity.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "thermal equilibrium",
+    "heat transfer",
+    "specific heat capacity",
+    "temperature"
+  ],
+  "correct_answer": "Approximately 48\u00b0C (or 48-49\u00b0C as acceptable range)",
+  "explanation": "Heat lost by hot water = heat gained by cold water. Using Q = mc\u0394T: 100 \u00d7 4.2 \u00d7 (95 - T) = 200 \u00d7 4.2 \u00d7 (T - 25). Solving: 9500 - 100T = 200T - 5000, so 14500 = 300T, giving T \u2248 48\u00b0C. This shows thermal equilibrium where the final temperature is closer to the larger mass of cooler water.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "780ac681-44a4-4d76-b0d3-045b8d304fa2"
+}

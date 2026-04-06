@@ -1,0 +1,18 @@
+{
+  "question_text": "A student investigates how sound travels through different materials. She produces a sound with frequency 440 Hz in air (speed of sound = 330 m/s) and the same sound in water (speed of sound = 1500 m/s). What is the ratio of the wavelength in water to the wavelength in air?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "wavelength",
+    "frequency",
+    "speed",
+    "different_media"
+  ],
+  "options": [],
+  "correct_answer": "4.5 or 4.55 (accept 4.5 to 4.6)",
+  "explanation": "Using the wave equation v = f \u00d7 \u03bb, we can rearrange to \u03bb = v/f. In air: \u03bb = 330/440 = 0.75 m. In water: \u03bb = 1500/440 = 3.41 m. The ratio is 3.41/0.75 = 4.55. This shows that wavelength increases when sound travels into a denser medium because frequency stays constant but speed increases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1b2cbbc5-2c2e-4529-a221-d5489a1ae7d8"
+}

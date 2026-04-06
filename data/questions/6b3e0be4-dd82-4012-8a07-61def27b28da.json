@@ -1,0 +1,16 @@
+{
+  "question_text": "Describe how particles are arranged and move in a gas.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "matter.particles",
+  "tags": [
+    "states of matter",
+    "particle motion",
+    "gas"
+  ],
+  "correct_answer": "Particles in a gas are far apart and move quickly in random directions",
+  "explanation": "Gas particles are spread out with large spaces between them and move randomly at high speed. This is why gases have no fixed shape or volume and fill any container they are placed in. The random motion of gas particles also explains pressure.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6b3e0be4-dd82-4012-8a07-61def27b28da"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Two students, Alex and Jordan, each eat an identical 2000 kJ meal. Alex then sits reading for 2 hours (using 300 kJ), while Jordan runs for 1 hour (using 2500 kJ). Which statement best explains what happens to the remaining energy from their meals?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy_transfer",
+    "metabolic_rate",
+    "heat_loss"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Alex's remaining energy (1700 kJ) is stored as fat in his body, while Jordan's energy deficit (-500 kJ) means he loses body mass.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Both students store the same amount of energy as fat because they ate the same meal, regardless of their activity level.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Jordan uses more energy so he needs to eat more food immediately to replace the -500 kJ deficit or he will stop functioning.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The energy not used for activity in both cases is completely lost as heat and cannot be stored in the body.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Alex uses only 300 kJ, so 1700 kJ remains and is stored (mainly as body fat). Jordan uses 2500 kJ but only consumed 2000 kJ, creating a deficit of 500 kJ that must come from stored body energy (like fat reserves), causing a net loss of body mass. This demonstrates how energy balance determines whether we gain or lose mass.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9fd9f4fe-d282-4157-a54c-25ec3202fe32"
+}

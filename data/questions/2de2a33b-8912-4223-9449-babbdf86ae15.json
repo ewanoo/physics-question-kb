@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following best describes why objects in space appear to float?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "weightlessness",
+    "gravity",
+    "space"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "There is no gravity in space at all",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravity is pulling on them so they are in continuous free fall",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "They have no mass in space",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A special force pushes them upwards",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Astronauts and objects in spacecraft appear to float because they are falling towards Earth at the same rate as the spacecraft. Both are pulled by gravity equally, creating the sensation of weightlessness.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "2de2a33b-8912-4223-9449-babbdf86ae15"
+}

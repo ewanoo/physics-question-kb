@@ -1,0 +1,16 @@
+{
+  "question_text": "A piece of dry ice (solid carbon dioxide) at -78\u00b0C is placed in an open container at room temperature (20\u00b0C). It disappears completely without melting into liquid first. The container shows no liquid CO\u2082 at any point. Explain this observation and name the process that is occurring.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "sublimation",
+    "phase_change",
+    "dry_ice"
+  ],
+  "correct_answer": "The process is called sublimation. Dry ice has a very low temperature and a structure where carbon dioxide molecules are held together as a solid. At room temperature and normal atmospheric pressure, the heat energy is sufficient to cause the solid to change directly into a gas without passing through the liquid state. This happens because the conditions (temperature and pressure) are below the triple point of CO\u2082.",
+  "explanation": "Sublimation occurs when a solid changes directly into a gas without becoming a liquid. For dry ice, the atmospheric pressure is too low for liquid CO\u2082 to exist, so the solid particles gain enough energy from room temperature to escape directly as gas molecules.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7c493888-52e5-4d89-9b76-5d80eb94a39a"
+}

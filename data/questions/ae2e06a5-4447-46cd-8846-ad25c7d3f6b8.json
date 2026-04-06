@@ -1,0 +1,16 @@
+{
+  "question_text": "Earth is tilted at 23.5\u00b0 to its orbital plane. Explain why this tilt causes seasons in the Northern Hemisphere, and predict what would happen to seasons if Earth's tilt increased to 45\u00b0.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.seasons",
+  "tags": [
+    "axial_tilt",
+    "seasons",
+    "extended_reasoning"
+  ],
+  "correct_answer": "The 23.5\u00b0 tilt causes the Northern Hemisphere to receive more direct sunlight and longer days in summer when tilted towards the Sun, and less direct sunlight with shorter days in winter when tilted away. If the tilt increased to 45\u00b0, the seasonal differences would be more extreme, with much hotter summers and colder winters, and the areas receiving sunlight at extreme angles would experience more dramatic changes in day length.",
+  "explanation": "The tilt angle determines how directly the Sun's rays hit Earth and how many hours of daylight occur. A larger tilt would increase these differences, making seasons more extreme. Students should recognize that tilt directly controls both light intensity (angle of incidence) and day length duration.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ae2e06a5-4447-46cd-8846-ad25c7d3f6b8"
+}

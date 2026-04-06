@@ -1,0 +1,16 @@
+{
+  "question_text": "A student heats ice at 0\u00b0C. During the first 5 minutes, the temperature remains at 0\u00b0C even though heat energy is being added. After 5 minutes, the temperature starts to increase. Explain why the temperature does not change during the first 5 minutes and what is happening to the ice during this time.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "phase_change",
+    "latent_heat",
+    "melting"
+  ],
+  "correct_answer": "During the first 5 minutes, the heat energy is being used to break the bonds holding the ice particles in a fixed structure (latent heat of fusion), rather than increasing the kinetic energy of the particles. Once all the ice has melted into liquid water, further heat energy increases the temperature of the water by increasing particle movement.",
+  "explanation": "At the melting point, all added heat energy goes into changing the state (solid to liquid) rather than raising temperature. This is because particles in a solid are held in fixed positions by strong forces, and energy must first overcome these forces before the temperature can increase.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ceabb264-3687-4bed-8d31-bcc8957a64d4"
+}

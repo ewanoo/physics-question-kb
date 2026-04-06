@@ -1,0 +1,38 @@
+{
+  "question_text": "A negatively charged rod is brought near to a neutral (uncharged) piece of paper. What happens and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "induction",
+    "attraction",
+    "charged objects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The paper is repelled because it is neutral",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The paper is attracted because the negative charges in the paper are repelled away, leaving positive charges closer to the rod",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The paper is attracted because it becomes negatively charged",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Nothing happens because the paper is neutral",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When a charged object approaches a neutral object, the charges in the neutral object rearrange (induction). The negative rod repels electrons in the paper away, leaving positive charges at the near surface, which attract the negative rod.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a8a89a10-2e1b-4c1d-a3c2-dda0b218ed7b"
+}

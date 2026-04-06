@@ -1,0 +1,17 @@
+{
+  "question_text": "A washing machine uses 2400 J of electrical energy and wastes 600 J as heat and sound. Calculate the efficiency of the washing machine and explain which energy transfer is considered 'useful' in this case.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency calculation",
+    "useful energy",
+    "wasted energy"
+  ],
+  "options": [],
+  "correct_answer": "Efficiency = 75%. The useful energy transfer is the mechanical energy used to wash the clothes (1800 J), while the heat and sound (600 J) are wasted.",
+  "explanation": "Efficiency = (useful energy \u00f7 total energy) \u00d7 100. The useful energy is 2400 - 600 = 1800 J (the work done washing clothes), so efficiency = (1800 \u00f7 2400) \u00d7 100 = 75%. The heat and sound are unwanted energy losses that don't help with washing, so they count as wasted energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "6a35e41e-79fe-42de-a7ef-7b7eee51eed3"
+}

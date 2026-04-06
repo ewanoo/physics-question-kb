@@ -1,0 +1,38 @@
+{
+  "question_text": "The Moon orbits the Earth and takes approximately 28 days to complete one full orbit. Which force keeps the Moon in its orbit around the Earth?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "gravity",
+    "orbits",
+    "forces"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Gravitational force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Friction force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Elastic force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravity is the force that keeps planets and moons in orbit. The Earth's gravity pulls on the Moon, preventing it from flying off into space while the Moon's motion keeps it in a stable orbit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0a22b1ba-890c-49a7-b89a-408241a9f87f"
+}

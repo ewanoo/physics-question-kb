@@ -1,0 +1,16 @@
+{
+  "question_text": "What is the name of the force that keeps planets in orbit around the Sun?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "gravity",
+    "definition",
+    "planets"
+  ],
+  "correct_answer": "Gravity (or gravitational force)",
+  "explanation": "Gravity is the invisible force that attracts objects with mass towards each other. It keeps planets orbiting the Sun and is responsible for holding the entire solar system together.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d9bacd16-a521-4c34-80ee-67aa7a0ac387"
+}

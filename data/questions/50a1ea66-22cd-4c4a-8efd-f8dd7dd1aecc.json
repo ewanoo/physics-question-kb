@@ -1,0 +1,39 @@
+{
+  "question_text": "A loudspeaker produces sound at two different frequencies: 100 Hz and 1000 Hz. The speed of sound is 330 m/s. Which statement best explains why the 100 Hz sound travels further around corners than the 1000 Hz sound?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "waves.sound",
+  "tags": [
+    "diffraction",
+    "frequency",
+    "wavelength",
+    "obstacle"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The 100 Hz sound has a longer wavelength so it diffracts more when passing around obstacles.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The 100 Hz sound has lower frequency so it moves slower through air.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The 1000 Hz sound has a shorter wavelength so it has more energy and is absorbed by obstacles.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The 100 Hz sound is louder so it can penetrate barriers better than the 1000 Hz sound.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Diffraction occurs when waves bend around obstacles; longer wavelengths diffract more noticeably than shorter ones. The 100 Hz sound has wavelength 330/100 = 3.3 m, while 1000 Hz has wavelength 330/1000 = 0.33 m, so the 100 Hz sound bends around corners much more easily.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "50a1ea66-22cd-4c4a-8efd-f8dd7dd1aecc"
+}

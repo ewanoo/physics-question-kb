@@ -1,0 +1,16 @@
+{
+  "question_text": "A student rubs a balloon on her hair and it becomes negatively charged. Explain what has happened to the electrons during this process.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "charge transfer",
+    "electrons",
+    "rubbing"
+  ],
+  "correct_answer": "Electrons have been transferred from the hair to the balloon. The balloon gained extra electrons, making it negatively charged, while the hair lost electrons and became positively charged.",
+  "explanation": "When materials are rubbed together, electrons can be transferred from one material to another. The balloon gained electrons (making it negative) while the hair lost electrons (making it positive). This is charge transfer by friction.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5df9b2df-3d58-4563-8b00-22dc280e44c5"
+}

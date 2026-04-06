@@ -1,0 +1,17 @@
+{
+  "question_text": "Mercury is 58 million kilometres from the Sun, and Neptune is 4,500 million kilometres from the Sun. Calculate how many times further Neptune is from the Sun compared to Mercury. (Give your answer to the nearest whole number.)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "space.solar_system",
+  "tags": [
+    "distance",
+    "planets",
+    "calculation"
+  ],
+  "options": [],
+  "correct_answer": "78",
+  "explanation": "To find how many times further Neptune is, divide Neptune's distance by Mercury's distance: 4,500 \u00f7 58 = 77.6, which rounds to 78. This shows that Neptune is roughly 78 times further from the Sun than Mercury.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fe37e09f-d4b2-4e0d-9194-411cc2a68595"
+}

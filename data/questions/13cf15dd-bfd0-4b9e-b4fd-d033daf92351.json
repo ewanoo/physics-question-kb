@@ -1,0 +1,39 @@
+{
+  "question_text": "A metal block is heated from 20\u00b0C to 80\u00b0C, causing it to expand. If the block's volume increases by 2%, which statement best explains what happens to the density of the metal block?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.changes",
+  "tags": [
+    "thermal expansion",
+    "density",
+    "volume",
+    "mass"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The density increases because the block gets hotter",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The density decreases because the mass stays the same but the volume increases",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The density remains unchanged because density does not depend on temperature",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The density increases because the particles move faster when heated",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When a material is heated, it expands but its mass stays the same. Since density = mass \u00f7 volume, and the volume increases while mass remains constant, the density must decrease. This is why hot materials are less dense than cold materials.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "13cf15dd-bfd0-4b9e-b4fd-d033daf92351"
+}

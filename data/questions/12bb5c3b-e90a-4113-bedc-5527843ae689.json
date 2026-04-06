@@ -1,0 +1,16 @@
+{
+  "question_text": "A student rubs a cloth on a glass rod 20 times and measures the force of repulsion between the rod and a second identical charged rod as 8 N. If the student rubs the cloth on the glass rod 40 times, predict the force of repulsion. Explain your reasoning.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.static",
+  "tags": [
+    "electrostatic force",
+    "charge accumulation",
+    "proportionality"
+  ],
+  "correct_answer": "The force would be approximately 32 N (or 4 times greater). Rubbing twice as many times transfers twice as much charge, and since electrostatic force is proportional to the product of charges, doubling both charges gives 2 \u00d7 2 = 4 times the force.",
+  "explanation": "Each rub transfers charge to the rod. Doubling the number of rubs doubles the charge on the rod. Since F \u221d Q\u2081 \u00d7 Q\u2082, if both charges double, the force increases by a factor of 2 \u00d7 2 = 4. Therefore 8 N \u00d7 4 = 32 N.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "12bb5c3b-e90a-4113-bedc-5527843ae689"
+}

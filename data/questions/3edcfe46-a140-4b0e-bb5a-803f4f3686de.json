@@ -1,0 +1,16 @@
+{
+  "question_text": "What does the Moon orbit around, and what force keeps it in orbit?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "space.gravity",
+  "tags": [
+    "moon",
+    "orbit",
+    "gravity"
+  ],
+  "correct_answer": "The Moon orbits around the Earth, and gravity keeps it in orbit",
+  "explanation": "The Moon is held in orbit around the Earth by the force of gravity. This same gravitational force also causes the Moon to pull on Earth's oceans, creating tides.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "3edcfe46-a140-4b0e-bb5a-803f4f3686de"
+}

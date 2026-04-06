@@ -1,0 +1,39 @@
+{
+  "question_text": "A sealed container holds water at 20\u00b0C. The container is then heated to 100\u00b0C and the water boils. However, if the same sealed container is heated to 120\u00b0C, no more water boils\u2014instead, the pressure inside increases significantly. Which statement best explains why this happens?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "boiling",
+    "pressure",
+    "phase_change",
+    "sealed_systems"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The water is too hot to boil anymore, so it stays as liquid and pressure increases instead.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The boiling point increases with pressure in a sealed container. At high pressure, water cannot escape as steam, so pressure builds up rather than the water boiling away.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "All the water has already boiled at 100\u00b0C, so there is nothing left to boil at 120\u00b0C.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Water molecules move too fast at 120\u00b0C to form steam bubbles.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In a sealed container, as pressure increases, the boiling point of water rises above 100\u00b0C. Since the water cannot escape as steam, the pressure builds up instead. This is why pressure cookers work\u2014higher pressure allows water to stay liquid at temperatures above 100\u00b0C.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "33a7e038-b50b-4310-a350-c71c461d5202"
+}
