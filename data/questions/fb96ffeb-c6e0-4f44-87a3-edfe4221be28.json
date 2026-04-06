@@ -1,0 +1,38 @@
+{
+  "question_text": "A ball is thrown upwards into the air. Which energy store increases as the ball rises higher?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "height",
+    "position"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy store",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gravitational potential energy store",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Chemical energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "As the ball rises higher, its gravitational potential energy increases because it is getting further from the Earth. Gravitational potential energy depends on how high an object is above the ground.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "fb96ffeb-c6e0-4f44-87a3-edfe4221be28"
+}

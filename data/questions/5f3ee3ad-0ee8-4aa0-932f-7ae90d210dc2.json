@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the wavelength of a wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "wavelength",
+    "wave pattern",
+    "distance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The time taken for one complete oscillation",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The distance between two consecutive points that are in phase, such as crest to crest",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed at which the wave is moving",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The height of the wave from the bottom to the top",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Wavelength is the distance from one repeating point on a wave to the next identical point\u2014commonly measured from crest to crest or trough to trough. It tells us how spread out the wave is.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5f3ee3ad-0ee8-4aa0-932f-7ae90d210dc2"
+}

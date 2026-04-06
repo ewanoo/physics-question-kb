@@ -1,0 +1,17 @@
+{
+  "question_text": "Two identical balls are dropped from the same height. Ball A lands on a hard concrete surface and bounces to 60% of its original height. Ball B lands on soft foam and doesn't bounce at all, staying on the surface. For each ball, identify which energy stores are involved in the collision and explain why Ball B transfers more energy to the thermal store of its surroundings.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transfer",
+    "collisions",
+    "thermal energy"
+  ],
+  "options": null,
+  "correct_answer": "Ball A: gravitational potential \u2192 kinetic (before impact), then kinetic \u2192 gravitational potential + thermal (after bounce, with some energy lost). Ball B: gravitational potential \u2192 kinetic (before impact), then kinetic \u2192 thermal (after impact, no bounce). Ball B transfers more energy to thermal because all its kinetic energy is converted to heat/deformation in the foam, whereas Ball A retains some as gravitational potential energy when it bounces.",
+  "explanation": "When objects collide, kinetic energy can be converted to thermal energy, sound energy, or other stores. Ball A bounces back, so some kinetic energy is converted back to gravitational potential energy. Ball B doesn't bounce, so nearly all its kinetic energy becomes thermal energy in the foam and ball, making it feel warm.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "35f38f7b-4979-4035-9e2b-de5b8949dc70"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Neptune is approximately 30 times farther from the Sun than Earth. If Earth takes 365 days to orbit the Sun, estimate how many years Neptune takes to complete one orbit. (Hint: use Kepler's Third Law concept that orbital period increases with distance)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital period",
+    "distance",
+    "Kepler's laws",
+    "Neptune"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 165 years",
+  "explanation": "Using the relationship that orbital period squared is proportional to orbital distance cubed, if Neptune is 30 times farther, we calculate: \u221a(30\u00b3) \u2248 \u221a27000 \u2248 164 years. This matches Neptune's actual orbital period of 165 years, showing how gravitational effects and distance determine how long planets take to orbit.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "9e721c8e-a311-40ef-b22e-f0220ef01418"
+}

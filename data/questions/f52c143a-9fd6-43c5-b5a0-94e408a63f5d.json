@@ -1,0 +1,17 @@
+{
+  "question_text": "What type of electromagnetic wave is used to cook food in a microwave oven?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "microwaves",
+    "uses of EM waves",
+    "everyday applications"
+  ],
+  "options": null,
+  "correct_answer": "Microwaves",
+  "explanation": "Microwaves are a type of electromagnetic wave with wavelengths between about 1 mm and 30 cm. They are absorbed by water molecules in food, causing them to vibrate and generate heat, which cooks the food.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f52c143a-9fd6-43c5-b5a0-94e408a63f5d"
+}

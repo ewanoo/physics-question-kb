@@ -1,0 +1,18 @@
+{
+  "question_text": "Compare and evaluate the following claim: 'Pluto is no longer called a planet because it is too small and too far from the Sun.' Use your understanding of orbital mechanics and planetary properties to explain whether distance is the main reason or if other factors are more important.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "Pluto",
+    "planetary classification",
+    "orbital properties",
+    "mass"
+  ],
+  "options": null,
+  "correct_answer": "Distance alone is not the main reason. Pluto was reclassified as a 'dwarf planet' primarily because it hasn't cleared its orbital path of other debris (hasn't gravitationally dominated its orbit), unlike the eight major planets. Its small mass means weak gravity, so it cannot clear asteroids and comets from its orbit. While distance is a factor, the inability to gravitationally control its orbital region is the key criterion.",
+  "explanation": "The International Astronomical Union (IAU) defines a planet as an object that orbits the Sun, is massive enough to be round, and has cleared its orbital neighborhood. Pluto fails the third criterion because its gravity is too weak to clear the Kuiper Belt around it. Distance matters because outer objects are harder to clear, but it's really about gravitational dominance, not distance itself.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d0da44e1-a8d9-4165-990e-52d0c58c9283"
+}

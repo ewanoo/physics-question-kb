@@ -1,0 +1,18 @@
+{
+  "question_text": "Earth's Moon orbits at a distance of approximately 384,000 km and takes 27.3 days to complete one orbit. If a hypothetical moon orbited Earth at half this distance, how long would its orbital period be? Show your working.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "orbital mechanics",
+    "Kepler's third law",
+    "Moon",
+    "orbital period"
+  ],
+  "options": null,
+  "correct_answer": "Approximately 9.7 days (or 193 hours)",
+  "explanation": "Using Kepler's Third Law: T\u2081\u00b2/T\u2082\u00b2 = r\u2081\u00b3/r\u2082\u00b3. If r\u2082 = 0.5 \u00d7 r\u2081, then T\u2082\u00b2 = T\u2081\u00b2 \u00d7 (0.5)\u00b3 = T\u2081\u00b2 \u00d7 0.125, so T\u2082 = T\u2081 \u00d7 \u221a0.125 \u2248 T\u2081 \u00d7 0.354. Therefore T\u2082 \u2248 27.3 \u00d7 0.354 \u2248 9.7 days. This shows that closer orbits have much shorter periods because the moon experiences stronger gravitational pull and travels a shorter path.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ba3e6b33-6396-4970-9cd8-e218231e15cb"
+}

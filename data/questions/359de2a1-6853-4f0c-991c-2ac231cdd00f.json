@@ -1,0 +1,17 @@
+{
+  "question_text": "A motor transfers 9000 joules of energy in 30 seconds. What is its power output in watts?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "motors",
+    "energy transfer rate"
+  ],
+  "options": null,
+  "correct_answer": "300 W",
+  "explanation": "Using Power = Energy \u00f7 Time, we get Power = 9000 J \u00f7 30 s = 300 W. The motor delivers 300 watts of power, meaning it transfers 300 joules of energy every second.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "359de2a1-6853-4f0c-991c-2ac231cdd00f"
+}

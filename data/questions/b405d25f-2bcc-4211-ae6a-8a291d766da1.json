@@ -1,0 +1,18 @@
+{
+  "question_text": "Describe the difference between a transverse wave and a longitudinal wave.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "transverse",
+    "longitudinal",
+    "wave types",
+    "oscillation direction"
+  ],
+  "options": null,
+  "correct_answer": "In a transverse wave, particles vibrate perpendicular (at right angles) to the direction the wave travels. In a longitudinal wave, particles vibrate parallel (in the same direction) as the wave travels.",
+  "explanation": "Transverse waves like light and water waves have particles moving up and down while the wave moves sideways. Longitudinal waves like sound have particles squeezing and stretching in the same direction as the wave moves.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b405d25f-2bcc-4211-ae6a-8a291d766da1"
+}

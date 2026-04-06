@@ -1,0 +1,18 @@
+{
+  "question_text": "A sound wave has a frequency of 500 Hz. How many complete waves pass through a point in 2 seconds?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "frequency",
+    "calculation",
+    "number of waves",
+    "time period"
+  ],
+  "options": null,
+  "correct_answer": "1000 waves (or 1000 complete oscillations)",
+  "explanation": "Frequency is the number of waves passing a point per second. If 500 waves pass per second, then in 2 seconds: 500 \u00d7 2 = 1000 waves. You multiply the frequency by the time.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "349c1e4e-77a7-4b88-bcf1-ee2a8932c056"
+}

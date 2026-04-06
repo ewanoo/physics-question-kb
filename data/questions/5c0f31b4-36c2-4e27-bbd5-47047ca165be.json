@@ -1,0 +1,38 @@
+{
+  "question_text": "Which electromagnetic wave has the highest frequency?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "frequency",
+    "electromagnetic spectrum",
+    "gamma rays"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Radio waves",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Visible light",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gamma rays",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Infrared radiation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gamma rays have the shortest wavelengths in the electromagnetic spectrum, which means they have the highest frequencies. Frequency and wavelength are inversely related\u2014as wavelength decreases, frequency increases.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5c0f31b4-36c2-4e27-bbd5-47047ca165be"
+}

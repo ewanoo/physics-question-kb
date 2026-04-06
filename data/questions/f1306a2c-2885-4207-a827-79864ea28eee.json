@@ -1,0 +1,38 @@
+{
+  "question_text": "Two hairdryers are compared: Hairdryer A has a power rating of 1,200 W and Hairdryer B has a power rating of 1,500 W. Both are used for 10 minutes. Which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "comparing power",
+    "energy consumption",
+    "appliance ratings"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Both hairdryers use the same amount of energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Hairdryer A uses more energy because it has a lower power rating",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Hairdryer B uses more energy because it has a higher power rating",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "We cannot compare the energy without knowing the voltage",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since both hairdryers are used for the same time (10 minutes), the one with the higher power rating will use more energy. Hairdryer B (1,500 W) uses more energy than Hairdryer A (1,200 W). Energy depends on both power and time: the higher the power, the more energy used in the same time period.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f1306a2c-2885-4207-a827-79864ea28eee"
+}

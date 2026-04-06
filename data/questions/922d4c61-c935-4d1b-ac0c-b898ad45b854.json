@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the amplitude of a wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "amplitude",
+    "wave definition",
+    "displacement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The maximum distance the wave travels from its starting point",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The maximum displacement of a particle from its rest position",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The distance between two consecutive wave crests",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The number of complete waves passing a point per second",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Amplitude is how far a particle moves up or down from its resting position when a wave passes through it. It measures the size or strength of the wave. The other options describe wavelength or frequency instead.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "922d4c61-c935-4d1b-ac0c-b898ad45b854"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following appliances would typically have the highest power rating?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power ratings",
+    "household appliances",
+    "comparing power"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A mobile phone charger (5 W)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "An electric kettle (2,500 W)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A laptop computer (65 W)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A LED light bulb (10 W)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An electric kettle has the highest power rating because it needs to heat a large amount of water quickly. The other appliances use much less power: a phone charger only needs 5 W, a laptop around 65 W, and a modern LED bulb just 10 W.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1445a4db-3e28-42cf-87c6-4e4b5f311040"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A microwave oven has a power rating of 900 W. How much energy does it use in 2 minutes?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "P=E/t",
+    "microwave appliance"
+  ],
+  "options": null,
+  "correct_answer": "108,000 J or 108 kJ",
+  "explanation": "Power is energy divided by time, so energy = power \u00d7 time. First convert 2 minutes to 120 seconds. Then multiply: 900 W \u00d7 120 s = 108,000 J. Remember to always convert time to seconds when calculating energy in joules.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4bb914b8-92e7-464e-8fa1-1a44dec4185f"
+}

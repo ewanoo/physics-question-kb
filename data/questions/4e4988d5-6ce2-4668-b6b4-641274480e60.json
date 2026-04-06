@@ -1,0 +1,17 @@
+{
+  "question_text": "Name the type of electromagnetic wave that is used in medical imaging to see inside the human body and can be dangerous in high doses.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "X-rays",
+    "medical applications",
+    "ionizing radiation"
+  ],
+  "options": null,
+  "correct_answer": "X-rays",
+  "explanation": "X-rays are electromagnetic waves with very short wavelengths that can pass through soft tissue but are stopped by dense materials like bone. They are used in medical imaging but must be used carefully because they are ionizing radiation and can damage cells in high doses.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4e4988d5-6ce2-4668-b6b4-641274480e60"
+}

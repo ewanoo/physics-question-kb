@@ -1,0 +1,17 @@
+{
+  "question_text": "What is the SI unit of power?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power units",
+    "watts",
+    "SI units"
+  ],
+  "options": null,
+  "correct_answer": "Watts (W) or joules per second (J/s)",
+  "explanation": "The SI unit of power is the watt (W), named after James Watt. One watt equals one joule of energy transferred in one second (1 W = 1 J/s). This unit is used for all power measurements in physics.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3bc7f303-c346-434e-89cb-04cdcefbf652"
+}

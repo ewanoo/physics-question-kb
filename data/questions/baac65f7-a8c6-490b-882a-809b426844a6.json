@@ -1,0 +1,18 @@
+{
+  "question_text": "A planet has a radius twice that of Earth and a mass 8 times greater. Calculate how the gravitational field strength (gravity) on this planet's surface compares to Earth's. (Take Earth's gravity as 10 N/kg)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "gravitational field strength",
+    "planetary properties",
+    "mass",
+    "radius"
+  ],
+  "options": null,
+  "correct_answer": "20 N/kg (twice Earth's gravity)",
+  "explanation": "Gravitational field strength g = GM/r\u00b2. With mass 8 times greater and radius 2 times greater: g = 8M/(2r)\u00b2 = 8M/4r\u00b2 = 2 \u00d7 (GM/r\u00b2). This means the planet's gravity is 2 \u00d7 10 = 20 N/kg, showing that both mass and radius significantly affect how strongly a planet pulls objects toward its surface.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "baac65f7-a8c6-490b-882a-809b426844a6"
+}

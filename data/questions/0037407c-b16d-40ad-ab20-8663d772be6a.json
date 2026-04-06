@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements about ultraviolet (UV) radiation is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.em_spectrum",
+  "tags": [
+    "ultraviolet",
+    "properties of EM waves",
+    "harmful effects"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "UV radiation has a longer wavelength than visible light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "UV radiation is visible to the human eye",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "UV radiation has a shorter wavelength than visible light and can damage skin",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "UV radiation is used to cook food in ovens",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Ultraviolet radiation has shorter wavelengths and higher frequencies than visible light, making it invisible to our eyes. UV radiation can penetrate the skin and cause damage to cells, leading to sunburn and potentially skin cancer if exposure is too high.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0037407c-b16d-40ad-ab20-8663d772be6a"
+}

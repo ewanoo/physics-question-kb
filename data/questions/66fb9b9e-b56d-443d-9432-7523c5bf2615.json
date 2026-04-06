@@ -1,0 +1,38 @@
+{
+  "question_text": "Which type of energy store does a moving car have?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "kinetic energy",
+    "moving objects",
+    "energy stores"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy store",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy store",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Gravitational energy store",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Chemical energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A moving car has kinetic energy because it is in motion. Kinetic energy is the energy stored in any object that is moving. The faster it moves, the more kinetic energy it has.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "66fb9b9e-b56d-443d-9432-7523c5bf2615"
+}

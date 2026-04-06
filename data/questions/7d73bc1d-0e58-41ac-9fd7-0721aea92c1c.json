@@ -1,0 +1,17 @@
+{
+  "question_text": "Name the type of energy store found in food and petrol.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "chemical energy",
+    "food",
+    "fuels"
+  ],
+  "options": null,
+  "correct_answer": "Chemical energy store",
+  "explanation": "Food and petrol contain chemical energy. This energy is released when food is eaten and digested, or when petrol is burned. Chemical energy is stored in the bonds between atoms and molecules.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "7d73bc1d-0e58-41ac-9fd7-0721aea92c1c"
+}

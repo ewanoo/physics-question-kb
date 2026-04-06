@@ -1,0 +1,38 @@
+{
+  "question_text": "A kettle heats water. Which energy store of the water increases?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "thermal energy",
+    "heating",
+    "temperature"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy store",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Thermal energy store",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational energy store",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Elastic energy store",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When the kettle heats the water, the thermal energy store of the water increases. Thermal energy is related to temperature. The hotter something is, the more thermal energy it has stored.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "97e86341-4509-4152-8cdf-6fd6704c6d49"
+}

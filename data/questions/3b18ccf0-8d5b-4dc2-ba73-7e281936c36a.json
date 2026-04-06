@@ -1,0 +1,38 @@
+{
+  "question_text": "A student compares three scenarios for lifting a 5 kg box 2 metres up a slope. Scenario 1: Using an electric motor (90% efficient). Scenario 2: Using a hand crank with pulleys (60% efficient). Scenario 3: Carrying it up manually (40% efficient). For each scenario, the gravitational potential energy gained is 100 J. Which scenario requires the most input energy from an energy store, and why do the efficiencies differ?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "efficiency comparison",
+    "gravitational potential",
+    "energy stores"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Scenario 1 requires most input energy because motors are more powerful and waste more energy overall.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Scenario 3 requires most input energy (250 J) because the manual system is least efficient; more chemical energy from muscles is wasted as thermal energy and sound.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Scenario 2 requires most input energy because pulleys create friction and reduce efficiency.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "All scenarios require the same input energy because the gravitational potential energy gained is identical in each case.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Efficiency tells us what fraction of input energy becomes useful energy. To find input energy, divide useful energy by efficiency: 100 J \u00f7 0.40 = 250 J (manual), 100 J \u00f7 0.60 = 167 J (pulley), 100 J \u00f7 0.90 = 111 J (motor). The least efficient system wastes the most energy as heat, so the chemical energy store in muscles must supply 250 J even though only 100 J becomes gravitational potential energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3b18ccf0-8d5b-4dc2-ba73-7e281936c36a"
+}

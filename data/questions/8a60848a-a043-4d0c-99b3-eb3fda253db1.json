@@ -1,0 +1,38 @@
+{
+  "question_text": "A kettle has a power rating of 2000 W. Which statement about the kettle is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.power",
+  "tags": [
+    "power rating",
+    "energy transfer",
+    "everyday appliances"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The kettle transfers 2000 joules of energy every second",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The kettle uses 2000 joules of energy in total",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "The kettle transfers energy 2000 times faster than other kettles",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The kettle's temperature increases by 2000 degrees",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "A power rating of 2000 W means the kettle transfers 2000 joules of electrical energy into heat energy every second. Power is always measured as energy per unit time, so option A correctly interprets the power rating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8a60848a-a043-4d0c-99b3-eb3fda253db1"
+}

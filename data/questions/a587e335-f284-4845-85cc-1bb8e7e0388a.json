@@ -1,0 +1,17 @@
+{
+  "question_text": "A student builds an energy chain for a wind turbine generating electricity to charge a mobile phone battery. The wind turbine has a kinetic energy store of 50,000 J. After energy is transferred through the system, the phone's chemical energy store increases by 8,000 J. Calculate the percentage efficiency of the entire system and explain where the 'missing' energy has gone.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "efficiency",
+    "energy chains",
+    "energy loss"
+  ],
+  "options": null,
+  "correct_answer": "16% efficiency; the missing energy (42,000 J) has been transferred to thermal energy stores due to friction in the turbine, electrical resistance in wires, and heat in the charging circuit.",
+  "explanation": "Efficiency is calculated as (useful energy out \u00f7 total energy in) \u00d7 100. Here that's (8,000 \u00f7 50,000) \u00d7 100 = 16%. The remaining 84% of energy is dissipated as heat through various processes\u2014this is why real energy systems are never 100% efficient.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a587e335-f284-4845-85cc-1bb8e7e0388a"
+}

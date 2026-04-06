@@ -1,0 +1,39 @@
+{
+  "question_text": "Which statement best explains why Venus experiences much stronger gravitational pull from the Sun than Earth does, despite both orbiting the same star?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "space.solar_system",
+  "tags": [
+    "gravitational force",
+    "distance",
+    "inverse square law",
+    "Venus"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Venus has a much larger mass than Earth",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Venus is closer to the Sun, so gravitational force is stronger because force decreases with the square of distance",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Venus orbits faster, which increases the Sun's pull on it",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The Sun's gravity weakens as it gets older, affecting outer planets more",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Gravitational force follows the inverse square law: as distance decreases, force increases dramatically. Venus orbits at 108 million km from the Sun while Earth orbits at 150 million km. The closer Venus is, the much stronger the gravitational pull it experiences, which is why it orbits faster and has a shorter year.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "1defece7-e629-4c95-9e55-d4f17bef76ec"
+}

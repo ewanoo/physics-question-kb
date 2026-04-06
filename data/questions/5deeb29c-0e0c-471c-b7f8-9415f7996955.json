@@ -1,0 +1,17 @@
+{
+  "question_text": "Define what is meant by elastic potential energy.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.stores",
+  "tags": [
+    "elastic energy",
+    "springs",
+    "deformation"
+  ],
+  "options": null,
+  "correct_answer": "Energy stored in an object when it is stretched, compressed or bent and has the ability to return to its original shape.",
+  "explanation": "Elastic potential energy is stored in objects like springs, rubber bands, or bent rulers. When you stretch or compress them, they store energy. When released, this energy is released and the object returns to its original shape.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5deeb29c-0e0c-471c-b7f8-9415f7996955"
+}

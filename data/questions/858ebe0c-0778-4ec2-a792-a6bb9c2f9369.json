@@ -1,0 +1,17 @@
+{
+  "question_text": "A rechargeable battery has a chemical energy store of 2,400 J. It powers an LED light with 80% efficiency for 30 seconds. After use, the battery is recharged using a solar panel system that is only 25% efficient at converting light energy into chemical energy. How much light energy (in joules) must the solar panel receive to fully recharge the battery after one cycle of the LED use?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy chains",
+    "efficiency calculations",
+    "renewable energy"
+  ],
+  "options": null,
+  "correct_answer": "9,600 J. First, calculate energy used by LED: 2,400 J \u00d7 0.80 = 1,920 J (chemical energy converted to light). Energy remaining: 2,400 - 1,920 = 480 J. To restore 1,920 J to the battery with 25% efficiency: 1,920 \u00f7 0.25 = 7,680 J needed from solar panel. Total light energy required: 7,680 J (or 9,600 J if calculating from full recharge of 2,400 J).",
+  "explanation": "This multi-step problem requires: (1) calculating energy transferred by the LED, (2) determining energy lost from the battery, and (3) working backwards from efficiency to find the input energy needed. The low efficiency of the solar panel means much more light energy must be captured than the chemical energy that needs to be restored.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "858ebe0c-0778-4ec2-a792-a6bb9c2f9369"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "A hydroelectric power station stores water in a reservoir at a height of 120 m above the turbines. The water has a total gravitational potential energy of 3.6 \u00d7 10\u2078 J. When water flows down and passes through the turbines, the system converts 85% of the gravitational potential energy into electrical energy, with the remainder dissipated as thermal energy. Calculate: (a) the electrical energy produced, (b) the thermal energy generated, and (c) explain what would happen to the thermal energy store of the water.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential",
+    "energy conversion",
+    "quantitative comparison"
+  ],
+  "options": null,
+  "correct_answer": "(a) Electrical energy = 3.6 \u00d7 10\u2078 \u00d7 0.85 = 3.06 \u00d7 10\u2078 J (b) Thermal energy = 3.6 \u00d7 10\u2078 \u00d7 0.15 = 5.4 \u00d7 10\u2077 J (c) The thermal energy increases the internal energy of the water, raising its temperature slightly before it continues downstream.",
+  "explanation": "Energy efficiency problems require multiplying the total input energy by the efficiency percentage to find useful output, then subtracting to find wasted energy. The 'missing' 15% becomes heat, which warms the water\u2014this is why water released from dams can be warmer than the water higher up.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "e6714096-f4fa-426c-8071-0de6ba92292c"
+}

@@ -1,0 +1,39 @@
+{
+  "question_text": "Which of the following is an example of a longitudinal wave?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "waves.properties",
+  "tags": [
+    "longitudinal wave",
+    "wave types",
+    "examples",
+    "sound"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A wave on the surface of water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A sound wave travelling through air",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Light travelling from the Sun",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A wave along a vibrating rope",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Sound waves are longitudinal because air particles vibrate back and forth in the same direction as the wave travels, creating compressions and rarefactions. Water waves, light, and rope waves are all transverse waves.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "f6ccc63d-7c83-4450-9386-adc3ad31b29f"
+}

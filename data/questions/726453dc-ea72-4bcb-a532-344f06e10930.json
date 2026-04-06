@@ -1,0 +1,17 @@
+{
+  "question_text": "A light bulb transfers 3,600 J of energy in 30 seconds. Calculate the power of the light bulb.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.power",
+  "tags": [
+    "power calculation",
+    "P=E/t",
+    "light bulb"
+  ],
+  "options": null,
+  "correct_answer": "120 W",
+  "explanation": "Use the formula P = E/t. Divide the energy by the time: 3,600 J \u00f7 30 s = 120 W. Power tells us how much energy is transferred per second, so dividing total energy by total time gives us the power rating.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "726453dc-ea72-4bcb-a532-344f06e10930"
+}
