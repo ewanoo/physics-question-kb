@@ -1,0 +1,18 @@
+{
+  "id": "2f49d6db-f7ac-4eca-9c40-c9576596e376",
+  "question_text": "A circuit has a current of 2A flowing through it when connected to a 6V battery. What happens to the current if the voltage is increased to 12V (assuming the resistance stays the same)?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "voltage",
+    "relationship",
+    "Ohm's law"
+  ],
+  "options": null,
+  "correct_answer": "The current doubles to 4A. When voltage increases and resistance stays the same, current increases proportionally.",
+  "explanation": "According to Ohm's law (I = V/R), if voltage doubles and resistance remains constant, the current will also double. So 2A becomes 4A when voltage goes from 6V to 12V.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

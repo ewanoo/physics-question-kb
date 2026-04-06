@@ -1,0 +1,19 @@
+{
+  "id": "bbe7a284-c734-4907-858d-5dc74146c3eb",
+  "question_text": "A student designs a relay switch using an electromagnet. When the electromagnet is switched on, it attracts a metal arm which closes a second circuit containing a lamp. Explain why electromagnets are better than permanent magnets for this application.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "relay",
+    "control",
+    "applications",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Electromagnets are better because they can be turned on and off by controlling the electric current, allowing automatic control of the switch. Permanent magnets cannot be switched on or off, making them unsuitable for this application.",
+  "explanation": "Electromagnets provide controllable magnetic fields - they only create magnetism when current flows. This allows the relay to switch on and off automatically as the input current changes. Permanent magnets are always magnetic and cannot be controlled this way, making them impractical for relay switches.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

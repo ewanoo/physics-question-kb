@@ -1,0 +1,18 @@
+{
+  "id": "df3d6eab-5a50-4b09-af55-b36295ac51a8",
+  "question_text": "A student compares two devices: Device X converts 1000J of input energy into 900J of useful energy, while Device Y converts 1000J of input energy into 700J of useful energy. Calculate the efficiency of both devices and explain which is better and why efficiency matters in real applications.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "comparison",
+    "calculation",
+    "applications"
+  ],
+  "options": null,
+  "correct_answer": "Device X: 90% efficiency. Device Y: 70% efficiency. Device X is better because it wastes less energy (100J vs 300J). Efficiency matters because it reduces operating costs and environmental impact by minimizing wasted energy.",
+  "explanation": "Device X converts 90% of input to useful output (900J/1000J = 0.90 = 90%), while Device Y is only 70% efficient (700J/1000J = 0.70 = 70%). More efficient devices save money on electricity bills and reduce the need for cooling systems to remove waste heat, making them better for both economics and the environment.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

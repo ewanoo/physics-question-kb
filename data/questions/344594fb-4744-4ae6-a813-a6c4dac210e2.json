@@ -1,0 +1,38 @@
+{
+  "id": "344594fb-4744-4ae6-a813-a6c4dac210e2",
+  "question_text": "What is the main function of an electromagnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "function",
+    "magnetic field"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "To store electrical energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "To create a magnetic field when current flows through a coil",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "To measure voltage in a circuit",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "To reduce current in a circuit",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "An electromagnet consists of a coil of wire wrapped around an iron core. When electric current flows through the coil, it creates a magnetic field. This is different from a permanent magnet because the magnetic field only exists when current flows.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

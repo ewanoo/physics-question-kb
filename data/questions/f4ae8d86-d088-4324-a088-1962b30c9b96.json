@@ -1,0 +1,18 @@
+{
+  "id": "f4ae8d86-d088-4324-a088-1962b30c9b96",
+  "question_text": "In a circuit experiment, a student connects a variable resistor (rheostat) in series with a lamp. As the resistance of the rheostat increases, what happens to the current and brightness of the lamp, and why?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "resistance",
+    "current",
+    "variable resistor",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Both current and brightness decrease because increasing resistance in the circuit reduces the current flowing through it (I = V/R). Less current means less power and dimmer light.",
+  "explanation": "As resistance increases, using Ohm's law (I = V/R), the current must decrease if voltage stays constant. The lamp's brightness depends on the current flowing through it, so less current produces a dimmer light and less power dissipation.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

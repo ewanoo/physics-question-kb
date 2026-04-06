@@ -1,0 +1,19 @@
+{
+  "id": "311bc799-3938-4799-af51-24177801685b",
+  "question_text": "Explain the difference between how animals obtain energy from food and how plants obtain energy. In your answer, discuss what forms of energy are involved.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "plants",
+    "animals",
+    "photosynthesis",
+    "respiration"
+  ],
+  "options": null,
+  "correct_answer": "Plants obtain energy from the sun (light energy) through photosynthesis, converting it into chemical energy stored in glucose. Animals obtain chemical energy by eating food (plants or other animals) and breaking down the chemical bonds through respiration, releasing the stored energy for movement and heat.",
+  "explanation": "Plants are producers - they convert solar (light) energy into chemical energy stored in organic molecules. Animals are consumers - they eat food and use respiration to convert that stored chemical energy into forms they can use. The original energy source for most food chains is always the sun.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

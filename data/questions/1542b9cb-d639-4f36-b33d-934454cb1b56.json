@@ -1,0 +1,17 @@
+{
+  "id": "1542b9cb-d639-4f36-b33d-934454cb1b56",
+  "question_text": "A student conducts an experiment where she shines light through different materials and measures the refraction angles. She finds that Material A has a refractive index of 1.3, Material B has a refractive index of 1.5, and Material C has a refractive index of 1.6. She then observes that when the same ray of light passes through each material at the same incident angle, it bends the most in Material C. Evaluate whether her observation is consistent with the refractive index values and explain the physics behind it.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "refractive index",
+    "optical density"
+  ],
+  "options": null,
+  "correct_answer": "Yes, the observation is consistent. Material C has the highest refractive index (1.6), meaning it is the optically densest material and will slow light down the most, causing the greatest bending towards the normal.",
+  "explanation": "Refractive index directly relates to how much a material slows down light. A higher refractive index means light is slowed more, which causes greater bending towards the normal. Since Material C (n=1.6) has the highest refractive index, light bends the most in it. The order of bending should be C > B > A, matching the order of their refractive indices.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

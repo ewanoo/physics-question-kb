@@ -1,0 +1,17 @@
+{
+  "id": "06e09430-ef06-4ea4-8e35-c1fba4de08d2",
+  "question_text": "A circuit has a battery with an EMF of 12 V and three resistors in series with resistances of 2 \u03a9, 3 \u03a9, and 5 \u03a9. Calculate the total resistance in the circuit and then determine the current flowing through it.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "electricity.circuits",
+  "tags": [
+    "resistance",
+    "series circuits",
+    "Ohm's law"
+  ],
+  "options": null,
+  "correct_answer": "Total resistance = 10 \u03a9; Current = 1.2 A",
+  "explanation": "For resistors in series, add them together: 2 + 3 + 5 = 10 \u03a9. Using Ohm's law (V = IR), we can rearrange to find current: I = V/R = 12/10 = 1.2 A. This current flows through all parts of the series circuit.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

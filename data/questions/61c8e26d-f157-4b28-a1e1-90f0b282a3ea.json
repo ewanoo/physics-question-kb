@@ -1,0 +1,17 @@
+{
+  "id": "61c8e26d-f157-4b28-a1e1-90f0b282a3ea",
+  "question_text": "A ray of light is travelling through air and hits a block of transparent plastic at an angle of 30\u00b0 to the normal. The light ray bends towards the normal and the refracted angle becomes 20\u00b0. What does this tell us about the optical density of plastic compared to air?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "optical density",
+    "angles"
+  ],
+  "options": null,
+  "correct_answer": "Plastic is optically denser than air. When light bends towards the normal, it enters a denser medium, and its speed decreases.",
+  "explanation": "When light bends towards the normal, it means the light is slowing down as it enters the material. This happens when light enters a material that is optically denser than the one it came from. Since light bends towards the normal when entering plastic from air, plastic must be optically denser.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

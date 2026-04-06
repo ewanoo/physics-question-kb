@@ -1,0 +1,17 @@
+{
+  "id": "d4964d5e-3a4f-4e83-9c9b-42f03d15fe1c",
+  "question_text": "A student observes that when white light passes through a prism, red light bends less than violet light. What does this tell us about the relationship between wavelength and how much light bends?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "refraction",
+    "wavelength",
+    "prism"
+  ],
+  "options": null,
+  "correct_answer": "Longer wavelengths (like red) bend less than shorter wavelengths (like violet). Light with shorter wavelengths bends more when passing through a material.",
+  "explanation": "Since red light has a longer wavelength and bends less, while violet light has a shorter wavelength and bends more, we can conclude that shorter wavelengths are bent more by the prism. This property causes white light to separate into a spectrum.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

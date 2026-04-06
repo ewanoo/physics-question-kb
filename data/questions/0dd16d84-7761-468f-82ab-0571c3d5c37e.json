@@ -1,0 +1,19 @@
+{
+  "id": "0dd16d84-7761-468f-82ab-0571c3d5c37e",
+  "question_text": "A student eats 2000 kJ of food energy per day. Of this, 1500 kJ is used for cellular respiration (which produces heat), 300 kJ is stored as body mass, and the rest is wasted. Calculate what percentage of the food energy becomes body mass, what percentage becomes heat, and what percentage is wasted. Then explain why humans are considered inefficient at converting food energy to body mass compared to plants.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "efficiency",
+    "calculation",
+    "body mass",
+    "heat loss"
+  ],
+  "options": null,
+  "correct_answer": "Body mass: 15% (300/2000 \u00d7 100), Heat: 75% (1500/2000 \u00d7 100), Wasted: 10% (200/2000 \u00d7 100). Humans are inefficient because animals must maintain body temperature and perform many life functions, losing much energy as heat. Plants store more energy as biomass because they don't need to maintain constant temperature.",
+  "explanation": "Only 300 kJ out of 2000 kJ becomes usable body mass (15% efficiency), while 1500 kJ is lost as heat during respiration. This is why humans are less efficient than plants at energy storage - animals must constantly burn energy for movement, warmth, and metabolism, whereas plants can direct more solar energy into growth and biomass without these demands.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "59623f83-3928-4595-88ec-774e19850ba3",
+  "question_text": "What do we call the chemical energy stored in food?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "chemical energy",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Potential energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Thermal energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Nuclear energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The chemical energy stored in food is a form of potential energy. When we eat food, our bodies break down the chemical bonds, releasing this potential energy for movement, heat, and other bodily functions.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

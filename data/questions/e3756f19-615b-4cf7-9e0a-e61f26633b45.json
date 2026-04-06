@@ -1,0 +1,17 @@
+{
+  "id": "e3756f19-615b-4cf7-9e0a-e61f26633b45",
+  "question_text": "A student builds a circuit with a 6V battery and wants to design it so that the current flowing through it is exactly 2 A. The student has various resistors available. What total resistance must the circuit have, and explain why using multiple resistors in series would be a sensible approach.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "Ohm's law",
+    "resistance design",
+    "circuit planning"
+  ],
+  "options": null,
+  "correct_answer": "The total resistance must be 3 \u03a9. Using Ohm's law: R = V/I = 6/2 = 3 \u03a9. Series resistors are sensible because if a single 3 \u03a9 resistor isn't available, multiple resistors (like 1 \u03a9 + 2 \u03a9, or 1.5 \u03a9 + 1.5 \u03a9) can be added together to achieve exactly 3 \u03a9.",
+  "explanation": "Using Ohm's law (R = V/I), we calculate that 3 \u03a9 is needed. In practice, resistors come in standard values, so using series circuits allows combining different resistors to achieve the exact resistance needed. For example, a 1 \u03a9 and 2 \u03a9 resistor in series give 3 \u03a9 total.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

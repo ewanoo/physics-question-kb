@@ -1,0 +1,18 @@
+{
+  "id": "5c0dd7f2-9b12-47eb-a49c-4ffe1066dcd4",
+  "question_text": "A student makes an electromagnet by wrapping wire around an iron nail and connecting it to a battery. What two changes could the student make to make the electromagnet stronger?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "strength",
+    "factors",
+    "design"
+  ],
+  "options": null,
+  "correct_answer": "Increase the current flowing through the coil (use a higher voltage battery or reduce resistance) and/or increase the number of turns (wrap more coils of wire around the nail).",
+  "explanation": "An electromagnet's strength depends on the current and the number of coils. More coils create a stronger magnetic field, and higher current produces a stronger field. Both factors increase the overall magnetic strength of the electromagnet.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

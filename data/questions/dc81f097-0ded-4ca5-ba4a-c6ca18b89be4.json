@@ -1,0 +1,17 @@
+{
+  "id": "dc81f097-0ded-4ca5-ba4a-c6ca18b89be4",
+  "question_text": "In a simple circuit with a battery, wire, and light bulb, what provides the energy to make the current flow?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "energy",
+    "battery",
+    "current"
+  ],
+  "options": null,
+  "correct_answer": "The battery",
+  "explanation": "A battery stores chemical energy and converts it into electrical energy. This electrical energy pushes electrons around the circuit, creating a current that lights the bulb. Without the battery, there would be no energy source to move the electrons.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "6c136a3e-3c4a-4f05-b72f-79e2e7b48285",
+  "question_text": "Name the colour of light that has the shortest wavelength in the visible spectrum.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.colour",
+  "tags": [
+    "wavelength",
+    "visible spectrum",
+    "colour"
+  ],
+  "options": null,
+  "correct_answer": "Violet",
+  "explanation": "Violet light has the shortest wavelength of all the colours we can see. This is why it appears on the inner edge of a rainbow, opposite to red.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

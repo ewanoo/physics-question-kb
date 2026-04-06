@@ -1,0 +1,38 @@
+{
+  "id": "8d90b0e6-fd3d-4679-b0de-766a4b1bc504",
+  "question_text": "What is the basic unit of electric current?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.circuits",
+  "tags": [
+    "current",
+    "units",
+    "electricity"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Volt",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Watt",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Ampere",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Ohm",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "The ampere (or amp) is the unit of electric current, which measures the flow of electric charge. Volts measure potential difference, watts measure power, and ohms measure resistance.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

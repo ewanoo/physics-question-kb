@@ -1,0 +1,17 @@
+{
+  "id": "f9ff8e83-2a87-40d2-ad48-9492b08ca9e2",
+  "question_text": "Light travels at 3.0 \u00d7 10\u2078 m/s in a vacuum but slows to 2.0 \u00d7 10\u2078 m/s when passing through glass. Calculate the refractive index of the glass.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "refractive index",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "1.5",
+  "explanation": "The refractive index is calculated using the formula: n = c/v, where c is the speed of light in a vacuum and v is the speed of light in the material. So n = (3.0 \u00d7 10\u2078) / (2.0 \u00d7 10\u2078) = 1.5. This means glass has a refractive index of 1.5.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

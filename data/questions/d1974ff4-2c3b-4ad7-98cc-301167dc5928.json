@@ -1,0 +1,17 @@
+{
+  "id": "d1974ff4-2c3b-4ad7-98cc-301167dc5928",
+  "question_text": "A scientist is investigating how different colours of light travel through various materials. She measures that red light (wavelength 700 nm) travels at 2.0 \u00d7 10\u2078 m/s through glass, while violet light (wavelength 400 nm) travels at 1.9 \u00d7 10\u2078 m/s through the same glass. Explain why the speeds are different and what this demonstrates about light refraction.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "refraction",
+    "speed of light",
+    "dispersion"
+  ],
+  "options": null,
+  "correct_answer": "Different colours of light have different speeds in materials because violet light has a shorter wavelength and interacts more strongly with the material's particles. This difference in speeds causes different colours to bend by different amounts, which is called dispersion.",
+  "explanation": "Materials interact differently with different wavelengths of light. Violet light, with its shorter wavelength, is slowed down more than red light as it passes through glass. This difference in speed causes the colours to separate when white light passes through a prism or raindrop, creating a rainbow effect.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

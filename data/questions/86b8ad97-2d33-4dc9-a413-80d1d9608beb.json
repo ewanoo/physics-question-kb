@@ -1,0 +1,17 @@
+{
+  "id": "86b8ad97-2d33-4dc9-a413-80d1d9608beb",
+  "question_text": "What is the name of the effect where light bends when it passes from one material to another?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "waves.light",
+  "tags": [
+    "refraction",
+    "light behaviour",
+    "materials"
+  ],
+  "options": null,
+  "correct_answer": "Refraction",
+  "explanation": "Refraction is the bending of light as it passes between materials with different optical densities, such as from air into water or glass. This is why objects underwater appear to be in a different position than they actually are.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

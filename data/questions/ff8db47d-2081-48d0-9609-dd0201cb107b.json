@@ -1,0 +1,17 @@
+{
+  "id": "ff8db47d-2081-48d0-9609-dd0201cb107b",
+  "question_text": "A music teacher and a physicist are debating whether the colour spectrum and the sound frequency spectrum are truly analogous. The teacher notes that in music, doubling the frequency (an octave) produces a sound that humans perceive as twice as 'high'. Considering how humans perceive colour, explain whether colour perception works the same way as sound perception with frequency.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "waves.colour",
+  "tags": [
+    "perception",
+    "frequency",
+    "human senses"
+  ],
+  "options": null,
+  "correct_answer": "No, colour perception does not work the same way. Doubling a light frequency doesn't produce a colour humans perceive as twice as 'intense' or 'high'. Colour perception depends on which wavelengths our cone cells in the eye are sensitive to, not on frequency ratios like sound perception does.",
+  "explanation": "Human ears perceive sound logarithmically, so doubling frequency sounds twice as high. But human eyes respond to specific wavelengths triggering different cone cells, creating distinct colours rather than a continuous scale. Two colours with one frequency double the other don't appear to have any special relationship\u2014they're just different colours.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

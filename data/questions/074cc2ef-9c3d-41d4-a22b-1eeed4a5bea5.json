@@ -1,0 +1,38 @@
+{
+  "id": "074cc2ef-9c3d-41d4-a22b-1eeed4a5bea5",
+  "question_text": "What does energy efficiency measure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "definition",
+    "useful energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of energy used by a device",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "How much useful energy is produced compared to total energy input",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The speed at which energy is used",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The cost of operating a device",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Efficiency is the ratio of useful energy output to total energy input. A high efficiency means more of the input energy is converted to useful work, while a low efficiency means more energy is wasted as heat or other forms.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

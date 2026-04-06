@@ -1,0 +1,17 @@
+{
+  "id": "bc064800-86d1-4aba-83ac-98a00146e4a5",
+  "question_text": "A light wave has a frequency of 5.0 \u00d7 10\u00b9\u2074 Hz. Using the relationship between frequency and colour, which colour is this light most likely to be? (Hint: Red light has a frequency around 4.3 \u00d7 10\u00b9\u2074 Hz and violet light around 7.5 \u00d7 10\u00b9\u2074 Hz)",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "frequency",
+    "colour",
+    "electromagnetic spectrum"
+  ],
+  "options": null,
+  "correct_answer": "Orange (or red-orange)",
+  "explanation": "The frequency of 5.0 \u00d7 10\u00b9\u2074 Hz falls between red (4.3 \u00d7 10\u00b9\u2074 Hz) and violet (7.5 \u00d7 10\u00b9\u2074 Hz). It is closer to red, so the light would appear orange or red-orange. Higher frequency means shorter wavelength and colour shifts towards violet.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

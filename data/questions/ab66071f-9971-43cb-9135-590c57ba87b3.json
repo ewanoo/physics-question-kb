@@ -1,0 +1,18 @@
+{
+  "id": "ab66071f-9971-43cb-9135-590c57ba87b3",
+  "question_text": "A motor has an efficiency of 80%. If 500J of electrical energy is supplied to the motor, how much useful mechanical energy does it produce?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "motor",
+    "calculation",
+    "useful energy"
+  ],
+  "options": null,
+  "correct_answer": "Useful energy = 400J. This is calculated as: efficiency \u00d7 total energy input = 0.80 \u00d7 500J = 400J",
+  "explanation": "If a motor is 80% efficient, it means 80% of the input energy becomes useful work (mechanical energy), while 20% is wasted as heat and friction. So 80% of 500J = 400J of useful mechanical energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

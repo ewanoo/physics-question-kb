@@ -1,0 +1,19 @@
+{
+  "id": "bf6b6839-9b3c-4213-b045-117c08bcb127",
+  "question_text": "Two electromagnets are made with identical iron cores and the same wire. Electromagnet A has 50 coils and carries 2A of current. Electromagnet B has 100 coils and carries 1A of current. Which electromagnet is stronger and why?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "electricity.electromagnets",
+  "tags": [
+    "electromagnet",
+    "strength",
+    "comparison",
+    "coils",
+    "current"
+  ],
+  "options": null,
+  "correct_answer": "Electromagnet B is stronger because it has more coils (100 vs 50). Although it has lower current (1A vs 2A), the doubling of coils has a greater effect on magnetic strength than halving the current.",
+  "explanation": "Electromagnet strength depends on both current and number of coils. Electromagnet B's 100 coils at 1A creates a stronger field than A's 50 coils at 2A because doubling the number of turns doubles the magnetic field strength, while the current is only halved.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

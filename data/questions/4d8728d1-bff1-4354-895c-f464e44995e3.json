@@ -1,0 +1,18 @@
+{
+  "id": "4d8728d1-bff1-4354-895c-f464e44995e3",
+  "question_text": "A teenager consumes a chocolate bar containing 1000 kJ of chemical energy. The teenager uses 300 kJ of this energy for physical activity and the rest is converted to heat. How much heat energy is produced by the teenager's body from eating this chocolate bar?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "calculation",
+    "energy conversion",
+    "heat"
+  ],
+  "options": null,
+  "correct_answer": "700 kJ of heat energy is produced. This is calculated as: total energy (1000 kJ) - useful activity energy (300 kJ) = 700 kJ of heat",
+  "explanation": "When food is consumed, not all the chemical energy goes into doing useful work (like moving muscles). The remaining energy is released as heat to maintain body temperature. In this case, 700 kJ out of 1000 kJ becomes heat energy.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}

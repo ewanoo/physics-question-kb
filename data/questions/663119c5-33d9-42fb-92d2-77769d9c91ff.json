@@ -1,0 +1,18 @@
+{
+  "id": "663119c5-33d9-42fb-92d2-77769d9c91ff",
+  "question_text": "A student sets up a circuit with a power supply, ammeter, and light bulb. When the ammeter reads 0.5A and the voltage across the bulb is 4V, calculate the resistance of the light bulb. Then explain what would happen to the current if a second identical bulb was added in series.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "Ohm's law",
+    "resistance",
+    "series circuits",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "Resistance = 8\u03a9. When a second identical bulb is added in series, total resistance becomes 16\u03a9, so current decreases to 0.25A.",
+  "explanation": "Using R = V/I: R = 4V \u00f7 0.5A = 8\u03a9. In series, resistances add (8\u03a9 + 8\u03a9 = 16\u03a9). With the same 4V supply: new current = 4V \u00f7 16\u03a9 = 0.25A. Adding resistors in series increases total resistance and decreases current.",
+  "quality_score": 5,
+  "source_name": "claude_generator"
+}
