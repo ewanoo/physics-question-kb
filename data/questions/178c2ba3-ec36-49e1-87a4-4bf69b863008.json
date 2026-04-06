@@ -1,0 +1,16 @@
+{
+  "question_text": "A simple circuit has a current of 2 A flowing through it. How much charge flows through the circuit in 5 seconds? (Use: Charge = Current \u00d7 Time)",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "charge",
+    "calculation"
+  ],
+  "correct_answer": "10 coulombs (C)",
+  "explanation": "Using the formula Charge = Current \u00d7 Time: Charge = 2 A \u00d7 5 s = 10 coulombs. This shows that a larger current or longer time means more charge flows through the circuit.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "178c2ba3-ec36-49e1-87a4-4bf69b863008"
+}

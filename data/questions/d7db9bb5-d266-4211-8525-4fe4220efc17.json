@@ -1,0 +1,38 @@
+{
+  "question_text": "Which of the following statements best explains why a piece of cork floats on water?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density comparison",
+    "floating",
+    "applications"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Cork is made of a lighter material than water",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Cork has a lower density than water, so it floats",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Cork floats because it is less heavy than water",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Cork floats because water pushes it upwards",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Objects float when their density is lower than the fluid they're in. Cork floats on water because cork's density (about 0.24 g/cm\u00b3) is less than water's density (1 g/cm\u00b3). Option B correctly applies the density concept to explain floating.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "d7db9bb5-d266-4211-8525-4fe4220efc17"
+}

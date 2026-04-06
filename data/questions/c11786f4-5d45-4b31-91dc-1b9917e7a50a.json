@@ -1,0 +1,16 @@
+{
+  "question_text": "A tug-of-war rope has 500 N of force pulling from the left and 500 N of force pulling from the right. Describe the motion of the rope.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "tug of war",
+    "net force"
+  ],
+  "correct_answer": "The rope does not move / The rope remains stationary / The rope stays still",
+  "explanation": "Since the forces pulling from both sides are equal in size (500 N each) but opposite in direction, the forces are balanced. A balanced net force of zero means the rope will not accelerate or move; it will stay in the same position.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "c11786f4-5d45-4b31-91dc-1b9917e7a50a"
+}

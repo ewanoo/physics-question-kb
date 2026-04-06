@@ -1,0 +1,15 @@
+{
+  "question_text": "Name two surfaces that would create a lot of friction when rubbed together.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "friction",
+    "rough surfaces"
+  ],
+  "correct_answer": "Any two of: sandpaper, concrete, rubber, carpet, wood, brick, or other rough surfaces (accept sensible answers)",
+  "explanation": "Rough surfaces have bumps and irregularities that catch against each other, creating high friction. Smooth surfaces like ice or glass create very little friction because there are fewer irregularities to interact.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "8908f3c2-b812-4141-8c7b-9460e0cfce17"
+}

@@ -1,0 +1,19 @@
+{
+  "question_text": "A student builds a circuit with a 12V power supply, a 4\u03a9 resistor, and a 2\u03a9 resistor connected in series. They then add a third 3\u03a9 resistor in parallel with the 2\u03a9 resistor. Calculate the total current flowing from the power supply.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "parallel circuits",
+    "current",
+    "resistance",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "2.4A",
+  "explanation": "First, find the equivalent resistance of the 2\u03a9 and 3\u03a9 resistors in parallel: 1/R = 1/2 + 1/3 = 5/6, so R = 1.2\u03a9. Then add the 4\u03a9 resistor in series: total resistance = 4 + 1.2 = 5.2\u03a9. Finally, use Ohm's law: I = V/R = 12/5.2 = 2.31A (or approximately 2.4A).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "3a468dcd-4add-4095-b937-8d21670cba68"
+}

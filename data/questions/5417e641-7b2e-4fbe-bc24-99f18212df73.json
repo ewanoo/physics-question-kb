@@ -1,0 +1,18 @@
+{
+  "question_text": "A compressed spring has 200 J of elastic potential energy stored in it. When released, it launches a 2 kg ball horizontally across a frictionless surface. The ball then travels up a ramp. Assuming no energy losses, what is the maximum gravitational potential energy the ball could have when it comes to rest on the ramp?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy transformation",
+    "elastic potential energy",
+    "energy conservation",
+    "multi-step"
+  ],
+  "options": [],
+  "correct_answer": "200 J",
+  "explanation": "The spring's elastic potential energy (200 J) is completely converted to kinetic energy as the ball launches. As the ball travels up the frictionless ramp with no energy losses, all of this kinetic energy is converted into gravitational potential energy. Therefore, maximum gravitational potential energy = 200 J.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5417e641-7b2e-4fbe-bc24-99f18212df73"
+}

@@ -1,0 +1,40 @@
+{
+  "question_text": "In a circuit, a lamp and a motor are connected in parallel across a 6V power supply. The lamp has a resistance of 12\u03a9 and draws a current of 0.5A. The motor draws a current of 1.2A. Which statement best explains why the motor draws more current than the lamp despite being connected to the same voltage?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "parallel circuits",
+    "current",
+    "resistance",
+    "voltage",
+    "evaluation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The motor is a larger device so it needs more current to operate.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The motor has a lower resistance than the lamp, so more current flows through it according to Ohm's law (I = V/R).",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The motor is connected closer to the power supply so it receives more voltage.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The lamp consumes some of the voltage, leaving less for the motor.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "In parallel circuits, all components experience the same voltage. Since the motor draws more current at the same voltage, it must have lower resistance. Using Ohm's law (I = V/R), if V is constant, a smaller R means a larger I.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "ee29eb14-21ee-43c5-8eda-25a130e38d31"
+}

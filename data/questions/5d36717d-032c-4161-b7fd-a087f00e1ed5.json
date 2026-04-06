@@ -1,0 +1,16 @@
+{
+  "question_text": "What happens to a moving car when the driving force is equal to the friction force acting against it?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "motion",
+    "constant velocity"
+  ],
+  "correct_answer": "The car continues to move at a constant (steady) speed / The car's velocity does not change",
+  "explanation": "When the driving force and friction force are balanced (equal in size but opposite in direction), the net force is zero. This means there is no acceleration, so the car maintains its current speed without speeding up or slowing down.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5d36717d-032c-4161-b7fd-a087f00e1ed5"
+}

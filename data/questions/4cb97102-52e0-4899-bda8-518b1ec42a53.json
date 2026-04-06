@@ -1,0 +1,17 @@
+{
+  "question_text": "A wire carrying an electric current is wrapped around an iron nail 20 times. The current is then increased. What happens to the magnetic field?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "current",
+    "magnetic field strength"
+  ],
+  "options": [],
+  "correct_answer": "The magnetic field becomes stronger",
+  "explanation": "Increasing the current through an electromagnet makes its magnetic field stronger. The electromagnet will be able to attract more metal objects and attract them with greater force. This is because the moving electric charges create a more powerful magnetic field.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "4cb97102-52e0-4899-bda8-518b1ec42a53"
+}

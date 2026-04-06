@@ -1,0 +1,16 @@
+{
+  "question_text": "A metal sphere has a volume of 50 cm\u00b3 and a density of 8 g/cm\u00b3. What is the mass of the sphere?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "mass",
+    "rearranging formula"
+  ],
+  "correct_answer": "400 g",
+  "explanation": "Using the density formula rearranged: mass = density \u00d7 volume. Here, 8 g/cm\u00b3 \u00d7 50 cm\u00b3 = 400 g. This requires applying the density formula in a different form, making it a one-step application question.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "17325581-ad3b-482c-9c3b-8a81df4ec21d"
+}

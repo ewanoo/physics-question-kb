@@ -1,0 +1,16 @@
+{
+  "question_text": "What does voltage measure in an electrical circuit?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "voltage",
+    "definition",
+    "recall"
+  ],
+  "correct_answer": "Voltage measures the potential difference (or electrical potential energy per unit charge) between two points in a circuit.",
+  "explanation": "Voltage is the 'push' that drives electric charge through a circuit. It represents how much energy each unit of charge has available to do work, measured in volts (V).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "56716074-ff0d-4b5d-81f1-971c80acb8fb"
+}

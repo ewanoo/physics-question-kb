@@ -1,0 +1,38 @@
+{
+  "question_text": "What is the SI unit used to measure electric current?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.current_voltage",
+  "tags": [
+    "current",
+    "units",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Volt (V)",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Ampere (A)",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Ohm (\u03a9)",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Watt (W)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The ampere (A) is the SI unit for electric current, which measures the flow of charge through a circuit. Voltage is measured in volts, resistance in ohms, and power in watts.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a6b4dbc2-1bd6-4d9f-b2cf-a359436ed0d5"
+}

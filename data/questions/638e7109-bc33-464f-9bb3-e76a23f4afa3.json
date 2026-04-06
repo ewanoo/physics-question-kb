@@ -1,0 +1,38 @@
+{
+  "question_text": "What is produced when an electric current flows through a wire?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "electromagnets",
+    "magnetic field",
+    "current"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Heat only",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A magnetic field",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Light only",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Sound waves",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When electric current flows through a wire, it creates a magnetic field around the wire. This is the principle behind electromagnets. The stronger the current, the stronger the magnetic field produced.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "638e7109-bc33-464f-9bb3-e76a23f4afa3"
+}

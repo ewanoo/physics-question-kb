@@ -1,0 +1,18 @@
+{
+  "question_text": "A student drops a ball from a height of 10 m. At the moment of release, the ball has gravitational potential energy of 50 J. After falling 5 m, the ball has gravitational potential energy of 25 J. Assuming no air resistance, calculate the kinetic energy of the ball after it has fallen 5 m.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "energy conservation",
+    "gravitational potential energy",
+    "kinetic energy",
+    "multi-step calculation"
+  ],
+  "options": [],
+  "correct_answer": "25 J",
+  "explanation": "Using conservation of energy: total energy at start = total energy during fall. Initial energy = 50 J (all gravitational potential energy). At 5 m height, gravitational potential energy = 25 J. Since energy is conserved and no energy is lost to air resistance, the 'missing' 25 J must have been converted to kinetic energy (50 J - 25 J = 25 J).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b89bddc5-ca95-441b-a233-ac51f46b3887"
+}

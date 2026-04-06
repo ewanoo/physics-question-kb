@@ -1,0 +1,38 @@
+{
+  "question_text": "A light wave has a wavelength of 500 nm. Which colour of visible light does this correspond to?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "wavelength",
+    "visible spectrum",
+    "colour identification"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Red light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Green light",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Violet light",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Orange light",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Green light has a wavelength of approximately 500\u2013560 nm, so 500 nm falls in the green region of the visible spectrum. Red light has longer wavelengths (around 620\u2013750 nm), and violet light has shorter wavelengths (around 380\u2013450 nm).",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "49638584-c1d8-4840-adbc-de3cc59ec51b"
+}

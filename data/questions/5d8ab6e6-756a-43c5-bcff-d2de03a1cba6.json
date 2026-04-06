@@ -1,0 +1,39 @@
+{
+  "question_text": "A student investigates four objects at different heights. Which scenario describes the object with the most gravitational potential energy stored?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.stores",
+  "tags": [
+    "gravitational potential energy",
+    "mass",
+    "height",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "A 5 kg object at a height of 8 m",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A 10 kg object at a height of 6 m",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "A 8 kg object at a height of 7 m",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "A 6 kg object at a height of 9 m",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Gravitational potential energy depends on both mass and height (GPE = mgh). Option B: 10 \u00d7 6 = 60 (relative units); Option A: 5 \u00d7 8 = 40; Option C: 8 \u00d7 7 = 56; Option D: 6 \u00d7 9 = 54. Option B has the highest value when mass and height are multiplied together.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "5d8ab6e6-756a-43c5-bcff-d2de03a1cba6"
+}

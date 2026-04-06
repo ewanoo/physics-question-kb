@@ -1,0 +1,17 @@
+{
+  "question_text": "Which type of force is the pull that keeps you on the ground?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "gravitational force",
+    "weight",
+    "non-contact forces",
+    "recall"
+  ],
+  "correct_answer": "Gravitational force (or gravity/weight)",
+  "explanation": "Gravitational force is a non-contact force that pulls objects towards Earth. It acts at a distance and is responsible for your weight, keeping you on the ground without anything physically touching you.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "b967d6f8-410d-4f14-8a55-3473425c015c"
+}

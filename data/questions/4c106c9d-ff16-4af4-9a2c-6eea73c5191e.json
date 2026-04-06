@@ -1,0 +1,37 @@
+{
+  "question_type": "multiple_choice",
+  "question_text": "Which of the following would reduce friction between a moving object and a surface?",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "reducing friction",
+    "practical application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Making the surface rougher",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Adding oil or lubricant between the surfaces",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Increasing the weight of the object",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Pressing the surfaces together harder",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Lubricants like oil create a slippery layer between surfaces, reducing the contact between bumps and irregularities, which decreases friction. This is why we oil door hinges and use grease on bicycle chains.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4c106c9d-ff16-4af4-9a2c-6eea73c5191e"
+}

@@ -1,0 +1,17 @@
+{
+  "question_text": "Calculate the frequency of yellow light with a wavelength of 600 nm. (Use the equation: wave speed = frequency \u00d7 wavelength. The speed of light is 3 \u00d7 10\u2078 m/s. Give your answer in scientific notation.)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "waves.colour",
+  "tags": [
+    "frequency calculation",
+    "wavelength",
+    "wave equation",
+    "speed of light"
+  ],
+  "correct_answer": "5 \u00d7 10\u00b9\u2074 Hz",
+  "explanation": "First, convert the wavelength to metres: 600 nm = 600 \u00d7 10\u207b\u2079 m = 6 \u00d7 10\u207b\u2077 m. Then rearrange the wave equation to find frequency: frequency = wave speed \u00f7 wavelength = (3 \u00d7 10\u2078) \u00f7 (6 \u00d7 10\u207b\u2077) = 5 \u00d7 10\u00b9\u2074 Hz. Yellow light has a frequency in this range, which is between red and green light frequencies.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "0515ec6e-7545-41a3-9611-4dad33fac8f1"
+}

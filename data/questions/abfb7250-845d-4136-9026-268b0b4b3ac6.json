@@ -1,0 +1,19 @@
+{
+  "question_text": "A student has three identical 6\u03a9 resistors. She wants to create a circuit where the total resistance is 4\u03a9. Describe how she should arrange the resistors (series, parallel, or a combination) and calculate the total resistance to verify your answer.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.circuits",
+  "tags": [
+    "series circuits",
+    "parallel circuits",
+    "resistance",
+    "combination circuits",
+    "problem-solving"
+  ],
+  "options": null,
+  "correct_answer": "Connect two 6\u03a9 resistors in parallel (giving 3\u03a9), then connect this combination in series with the third 6\u03a9 resistor. Total resistance = 3\u03a9 + 6\u03a9 = 9\u03a9. OR: Connect one 6\u03a9 resistor in series with two 6\u03a9 resistors in parallel. This gives 6 + (6\u00d76)/(6+6) = 6 + 3 = 9\u03a9. [Note: It is not possible to make exactly 4\u03a9 with three identical 6\u03a9 resistors]",
+  "explanation": "To achieve 4\u03a9 from three 6\u03a9 resistors requires solving 1/R_total = combinations of series (addition) and parallel (1/R = 1/R\u2081 + 1/R\u2082) formulas. This is challenging because no standard arrangement of three identical 6\u03a9 resistors yields exactly 4\u03a9\u2014the closest achievable values are 2\u03a9 (all parallel), 9\u03a9 (two parallel in series with one), or 18\u03a9 (all series). This question evaluates whether students understand the limits of circuit design.",
+  "quality_score": 4,
+  "source_name": "claude_generator",
+  "id": "abfb7250-845d-4136-9026-268b0b4b3ac6"
+}

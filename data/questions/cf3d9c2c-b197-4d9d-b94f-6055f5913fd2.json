@@ -1,0 +1,15 @@
+{
+  "question_text": "When a torch is switched on, the chemical energy in the battery is converted into two forms of energy. Name these two forms.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy transformation",
+    "practical application"
+  ],
+  "correct_answer": "Light energy (or electromagnetic radiation) and heat energy (or thermal energy)",
+  "explanation": "A torch converts chemical energy from the battery into light energy (which we see) and heat energy (which makes the bulb warm). This demonstrates energy transformation and conservation\u2014the chemical energy doesn't disappear, it just changes into other useful forms.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "cf3d9c2c-b197-4d9d-b94f-6055f5913fd2"
+}

@@ -1,0 +1,38 @@
+{
+  "question_text": "A book is resting on a table and is not moving. What can you say about the forces acting on the book?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "stationary objects",
+    "Newton's first law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "There are no forces acting on the book at all",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The forces acting on the book are balanced",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The downward force is much larger than the upward force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is only a downward force acting on the book",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When an object is stationary (not moving), the forces acting on it must be balanced. This means the upward support force from the table exactly equals the downward weight of the book, so there is no net force and the book stays at rest.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "4a8b0ffc-b0a7-4c0d-b869-be1a9fc5febd"
+}

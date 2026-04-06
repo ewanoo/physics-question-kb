@@ -1,0 +1,17 @@
+{
+  "question_text": "Name two different types of forces that can act on an object.",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.types",
+  "tags": [
+    "force types",
+    "contact forces",
+    "non-contact forces",
+    "recall"
+  ],
+  "correct_answer": "Any two of: contact force, non-contact force, friction, tension, normal force, gravitational force, magnetic force, or elastic force",
+  "explanation": "There are many types of forces. Contact forces require objects to touch (like friction or tension), while non-contact forces work at a distance (like gravity or magnetism). Any two valid force types from different categories or the same category are acceptable answers.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "beefb76b-9fb4-4235-844e-6997d5cc196d"
+}

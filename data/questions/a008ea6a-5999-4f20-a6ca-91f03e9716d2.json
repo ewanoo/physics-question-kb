@@ -1,0 +1,16 @@
+{
+  "question_text": "A block of wood has a mass of 60 g and a volume of 100 cm\u00b3. Calculate the density of the wood.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.density",
+  "tags": [
+    "density calculation",
+    "mass",
+    "volume"
+  ],
+  "correct_answer": "0.6 g/cm\u00b3",
+  "explanation": "Density is calculated using the formula: density = mass \u00f7 volume. Here, 60 g \u00f7 100 cm\u00b3 = 0.6 g/cm\u00b3. This is a straightforward one-step calculation applying the density formula.",
+  "quality_score": 5,
+  "source_name": "claude_generator",
+  "id": "a008ea6a-5999-4f20-a6ca-91f03e9716d2"
+}
