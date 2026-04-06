@@ -1,0 +1,37 @@
+{
+  "id": "e23e351b-8f16-44bf-814c-ca7834fd925c",
+  "question_text": "What is the name of the force between two charged objects?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "definition",
+    "electrostatic force"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Magnetic force",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Electrostatic force",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Gravitational force",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Friction force",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "The electrostatic force is the force that acts between two charged objects. It can be either attractive (opposite charges) or repulsive (same charges).",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

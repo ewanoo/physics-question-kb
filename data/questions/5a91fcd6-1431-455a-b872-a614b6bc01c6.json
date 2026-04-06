@@ -1,0 +1,17 @@
+{
+  "id": "5a91fcd6-1431-455a-b872-a614b6bc01c6",
+  "question_text": "A coal power station burns 500 kg of coal per hour and releases 15,000 MJ of energy per hour. Calculate the energy released per kilogram of coal burned.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "non-renewable",
+    "fossil-fuels",
+    "energy-density"
+  ],
+  "options": null,
+  "correct_answer": "30 MJ/kg",
+  "explanation": "Energy per kilogram = Total energy \u00f7 Total mass. E = 15,000 MJ \u00f7 500 kg = 30 MJ/kg. This tells us the energy density of coal, which is useful for comparing different fuels.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

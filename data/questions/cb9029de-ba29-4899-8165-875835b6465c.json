@@ -1,0 +1,18 @@
+{
+  "id": "cb9029de-ba29-4899-8165-875835b6465c",
+  "question_text": "The Moon's gravitational field strength is about 1.6 N/kg, compared to Earth's 10 N/kg. Explain why an astronaut weighs less on the Moon than on Earth, even though their mass stays the same.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "weight",
+    "mass",
+    "gravitational field strength"
+  ],
+  "options": null,
+  "correct_answer": "Weight depends on the gravitational field strength, not mass. Since the Moon has a weaker gravitational field (1.6 N/kg), it pulls with less force on the astronaut's mass. Weight = mass \u00d7 gravitational field strength, so a weaker field produces less weight.",
+  "explanation": "Weight is calculated using W = m \u00d7 g. Mass (m) never changes, but gravitational field strength (g) is weaker on the Moon. Therefore weight is directly proportional to gravitational field strength\u2014a weaker field means less weight.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

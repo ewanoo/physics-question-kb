@@ -1,0 +1,18 @@
+{
+  "id": "d8a23689-4eb3-44c2-a6b2-612098ef9f67",
+  "question_text": "A student investigates how friction changes with different surfaces. She pulls a wooden block across three surfaces (concrete, carpet, and ice) using a force meter, measuring the friction force needed to keep the block moving at constant speed. The block has the same mass each time and moves the same distance. Explain why the friction force is different on each surface and predict which surface would show the largest friction force.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.friction",
+  "tags": [
+    "investigation",
+    "rough surfaces",
+    "comparison",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "Friction differs because the surfaces have different textures/roughness. Carpet has the most friction because it is the roughest surface with the most bumps and irregularities that interlock with the block. Ice has the least friction because it is very smooth and slippery.",
+  "explanation": "Different surfaces have different textures. Rougher surfaces create more friction because the irregularities on the two surfaces catch and interlock with each other, creating more resistance. Carpet is much rougher than concrete, which is much rougher than ice. This is why it's easier to slide on ice than on a carpeted floor.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

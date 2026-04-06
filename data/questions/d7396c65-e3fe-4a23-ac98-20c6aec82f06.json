@@ -1,0 +1,19 @@
+{
+  "id": "d7396c65-e3fe-4a23-ac98-20c6aec82f06",
+  "question_text": "A student drops a 2 kg mass from a height of 5 metres. Calculate the gravitational potential energy lost by the mass. (Use g = 10 m/s\u00b2). What can you say about the kinetic energy gained by the mass just before it hits the ground?",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy_conservation",
+    "gravitational_potential_energy",
+    "kinetic_energy",
+    "calculation",
+    "energy_transfer"
+  ],
+  "options": null,
+  "correct_answer": "Gravitational potential energy lost = 100 J. The kinetic energy gained by the mass just before it hits the ground is also 100 J (equal to the potential energy lost), because energy is conserved and transferred from potential to kinetic form.",
+  "explanation": "Using the formula E_p = mgh, we get 2 \u00d7 10 \u00d7 5 = 100 J of potential energy lost. By conservation of energy, this energy is converted into kinetic energy. Just before hitting the ground (ignoring air resistance), all the potential energy has been transferred to kinetic energy, so E_k = 100 J. This demonstrates the principle that total mechanical energy is conserved when no external forces like friction do work on the system.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

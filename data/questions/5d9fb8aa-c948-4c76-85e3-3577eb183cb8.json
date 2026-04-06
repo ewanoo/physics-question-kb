@@ -1,0 +1,17 @@
+{
+  "id": "5d9fb8aa-c948-4c76-85e3-3577eb183cb8",
+  "question_text": "A wind turbine generates 2000 kW of power. How much energy (in kWh) does it produce in 8 hours?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "wind",
+    "energy-calculation"
+  ],
+  "options": null,
+  "correct_answer": "16,000 kWh",
+  "explanation": "Energy = Power \u00d7 Time. E = 2000 kW \u00d7 8 hours = 16,000 kWh. This calculation shows how much energy a wind turbine can generate over a full working day.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

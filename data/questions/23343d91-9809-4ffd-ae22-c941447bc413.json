@@ -1,0 +1,16 @@
+{
+  "id": "23343d91-9809-4ffd-ae22-c941447bc413",
+  "question_text": "When you rub a balloon on your hair, the balloon becomes negatively charged. What does this tell you about what has happened?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "charge transfer",
+    "electrons"
+  ],
+  "options": null,
+  "correct_answer": "Electrons have moved from the hair to the balloon",
+  "explanation": "When objects are rubbed together, electrons can be transferred from one object to another. Since the balloon became negatively charged, it must have gained electrons (negative charge) from the hair.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

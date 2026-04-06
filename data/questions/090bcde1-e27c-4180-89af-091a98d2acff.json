@@ -1,0 +1,17 @@
+{
+  "id": "090bcde1-e27c-4180-89af-091a98d2acff",
+  "question_text": "Compare the advantages and disadvantages of using solar energy instead of coal for electricity generation. Name at least one advantage and one disadvantage.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "evaluation",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Advantages: renewable, doesn't produce pollution/greenhouse gases, no fuel costs. Disadvantages: depends on weather/sunlight, expensive initial setup, requires large areas, doesn't work at night",
+  "explanation": "Solar energy is sustainable and clean, but it is intermittent (unreliable) and has high upfront costs. Coal is reliable and cheap to run, but it is non-renewable and produces greenhouse gases. A good answer balances both perspectives.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

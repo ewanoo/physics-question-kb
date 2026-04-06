@@ -1,0 +1,38 @@
+{
+  "id": "76347c81-de75-4f8e-bec2-ed02dd9d602f",
+  "question_text": "Which of the following devices converts energy most efficiently?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy conversion",
+    "comparison"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "An incandescent light bulb that converts 95% of energy to heat and only 5% to light",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "A diesel engine that converts 35% of fuel energy into useful mechanical work",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "An electric motor that converts 85% of electrical energy into useful mechanical work",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "A solar panel that converts 50% of solar energy into electrical energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "The electric motor has the highest efficiency at 85%. This is a hard question because it requires comparing four different real-world devices and understanding that higher efficiency means more useful energy output relative to total input. Students must evaluate which percentage represents the best conversion of input to useful output.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

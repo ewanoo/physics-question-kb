@@ -1,0 +1,38 @@
+{
+  "id": "3315bd81-8898-41e5-a301-2430f72d5e24",
+  "question_text": "What is the main energy store in food?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "food energy",
+    "chemical energy",
+    "definition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Gravitational potential energy",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Chemical energy",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Kinetic energy",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Elastic potential energy",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Food stores energy in chemical bonds within molecules like carbohydrates, proteins, and fats. When we digest and use food, this chemical energy is released and can be converted into other forms like heat and movement.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

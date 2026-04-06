@@ -1,0 +1,37 @@
+{
+  "id": "93c28369-0e0e-4237-af3d-4c4b5639f886",
+  "question_text": "Which of the following would increase the pressure exerted by a standing person on the ground?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure_factors",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Standing on both feet instead of one foot",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Wearing flat shoes instead of high heels",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Wearing high heels instead of flat shoes",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Lying down on the ground",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "High heels reduce the contact area between the shoe and the ground compared to flat shoes. Since the person's weight (force) stays the same but the area decreases, the pressure increases significantly.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

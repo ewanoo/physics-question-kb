@@ -1,0 +1,19 @@
+{
+  "id": "ce7a5fe7-15ed-4faa-8670-4d95a97642ce",
+  "question_text": "A pendulum swings back and forth. At the highest point of the swing, the pendulum has maximum gravitational potential energy. What happens to this energy as the pendulum swings down to the lowest point, and why does the pendulum eventually stop swinging?",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy_conservation",
+    "gravitational_potential_energy",
+    "kinetic_energy",
+    "energy_dissipation",
+    "friction"
+  ],
+  "options": null,
+  "correct_answer": "As the pendulum swings down, gravitational potential energy is converted into kinetic energy. The pendulum eventually stops swinging because some energy is lost to friction (at the pivot) and air resistance, which convert mechanical energy into heat energy. This energy is dissipated into the surroundings.",
+  "explanation": "At the highest point, all energy is potential. As it swings down, potential energy converts to kinetic energy (maximum at the bottom). In an ideal system with no friction, the pendulum would swing forever. However, in reality, friction and air resistance do negative work on the system, removing mechanical energy and converting it to thermal energy (heat), so the pendulum gradually loses energy and stops.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

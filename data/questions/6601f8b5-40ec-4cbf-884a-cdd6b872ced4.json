@@ -1,0 +1,37 @@
+{
+  "id": "6601f8b5-40ec-4cbf-884a-cdd6b872ced4",
+  "question_text": "Two identical plastic rods are both rubbed with cloth. When brought close together, they repel each other. Which statement explains why?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "like charges repel",
+    "charge interaction"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They have opposite charges so they push apart",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They have the same type of charge so they repel each other",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "One rod is positive and one is negative",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The cloth between them causes them to push apart",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "When two identical objects are rubbed with the same material, they gain the same type of charge. Objects with the same charge repel each other because like charges always push apart.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

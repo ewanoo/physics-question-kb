@@ -1,0 +1,17 @@
+{
+  "id": "c683e9d2-636c-441b-a317-d0cd715f2d81",
+  "question_text": "A motor receives 1000 J of electrical energy. It converts 700 J into useful mechanical work and 300 J into wasted heat. The motor is then upgraded so that it only wastes 200 J as heat. Calculate the increase in efficiency.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "multi-step calculation",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "10% or 0.1",
+  "explanation": "Original efficiency: (700 \u00f7 1000) \u00d7 100 = 70%. New efficiency: (800 \u00f7 1000) \u00d7 100 = 80%. The increase is 80% \u2212 70% = 10%. This is hard because it requires calculating two efficiencies and then finding the difference between them, plus understanding that reducing waste increases useful output.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

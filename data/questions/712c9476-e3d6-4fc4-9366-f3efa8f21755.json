@@ -1,0 +1,17 @@
+{
+  "id": "712c9476-e3d6-4fc4-9366-f3efa8f21755",
+  "question_text": "A student rubs a rod with a cloth and it gains a charge of +8 coulombs. How many coulombs of positive charge were transferred?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "electricity.static",
+  "tags": [
+    "charge",
+    "transfer",
+    "coulombs"
+  ],
+  "options": null,
+  "correct_answer": "8 coulombs",
+  "explanation": "The charge on the rod (+8 coulombs) represents the amount of charge that was transferred to it during rubbing. A positive charge on the rod means positive charge was gained (or electrons were lost).",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

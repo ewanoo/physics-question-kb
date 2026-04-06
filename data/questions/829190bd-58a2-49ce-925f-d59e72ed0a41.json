@@ -1,0 +1,39 @@
+{
+  "id": "829190bd-58a2-49ce-925f-d59e72ed0a41",
+  "question_text": "A student drops two objects from the same height: a heavy steel ball and a light plastic ball. Ignoring air resistance, which statement is correct?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "gravity",
+    "acceleration",
+    "free fall",
+    "misconception"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The steel ball falls faster because it is heavier.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Both balls fall at the same rate because gravitational acceleration is the same for all objects.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The plastic ball falls faster because it experiences less gravity.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The steel ball falls faster at first, but they reach the same speed eventually.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "All objects fall at the same acceleration (10 m/s\u00b2) due to gravity, regardless of mass, when air resistance is ignored. This is because although heavier objects experience a stronger gravitational force, they also have more inertia, which exactly balances out. Both balls hit the ground at the same time.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

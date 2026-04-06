@@ -1,0 +1,17 @@
+{
+  "id": "1aa9e021-8343-406d-bff6-bb47bd1d6a4e",
+  "question_text": "A banana contains 420 kJ of energy. A student eats the banana and uses 180 kJ of energy to play football. How much energy from the banana is not used for playing football?",
+  "question_type": "calculation",
+  "difficulty": "easy",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "food energy",
+    "subtraction"
+  ],
+  "options": null,
+  "correct_answer": "240 kJ",
+  "explanation": "Energy not used = Total energy in food \u2212 Energy used for activity = 420 kJ \u2212 180 kJ = 240 kJ. This remaining energy is used for other body processes like breathing, keeping warm, and growth.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

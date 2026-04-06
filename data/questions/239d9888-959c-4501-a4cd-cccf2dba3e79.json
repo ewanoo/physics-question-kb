@@ -1,0 +1,18 @@
+{
+  "id": "239d9888-959c-4501-a4cd-cccf2dba3e79",
+  "question_text": "Describe how the chemical energy stored in food is transferred when a person eats an apple and then runs.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.food",
+  "tags": [
+    "energy transfer",
+    "food energy",
+    "digestion",
+    "movement"
+  ],
+  "options": null,
+  "correct_answer": "The chemical energy in the apple is broken down during digestion into simpler molecules. These molecules are absorbed and used by cells to produce ATP, which provides energy for muscle contraction. This converts the stored chemical energy into kinetic energy (movement) and heat energy.",
+  "explanation": "This requires students to understand the chain of energy transfer from food to the body's cells to movement. The key is recognising that digestion releases the chemical energy, which is then used by muscles to create motion.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

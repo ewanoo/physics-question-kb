@@ -1,0 +1,37 @@
+{
+  "id": "d324e83f-aa0b-4f70-9823-bbb0f388dc8c",
+  "question_text": "What is pressure defined as?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "pressure"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The total amount of force acting on an object",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The force acting per unit area",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The weight of an object divided by its volume",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The speed at which a force is applied",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "B",
+  "explanation": "Pressure is defined as the force applied spread over a certain area. The smaller the area a force is spread over, the greater the pressure.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

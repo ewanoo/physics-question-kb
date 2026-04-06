@@ -1,0 +1,16 @@
+{
+  "id": "36db8af3-7296-493a-91c7-f292b1bbb211",
+  "question_text": "What is friction?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "definition",
+    "recall"
+  ],
+  "options": null,
+  "correct_answer": "A force that opposes motion between two surfaces in contact (or a similar definition emphasising resistance to movement)",
+  "explanation": "Friction is a force that acts against the direction of movement when two surfaces rub together. It always tries to slow things down or stop them from moving.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

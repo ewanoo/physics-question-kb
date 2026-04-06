@@ -1,0 +1,17 @@
+{
+  "id": "9924878a-a628-456f-97dd-ce656b355a8c",
+  "question_text": "A student with a mass of 50 kg is standing on Earth (g = 10 N/kg). Calculate the student's weight in newtons, and then explain what would happen to this value if the student moved to Jupiter, where g = 25 N/kg.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.gravity",
+  "tags": [
+    "weight calculation",
+    "gravitational field strength",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "On Earth: weight = 50 \u00d7 10 = 500 N. On Jupiter: weight = 50 \u00d7 25 = 1250 N. The student's weight would increase to 1250 N because Jupiter has a stronger gravitational field. The student's mass remains 50 kg, but the gravitational force pulling on that mass is much greater.",
+  "explanation": "Use the formula weight = mass \u00d7 gravitational field strength. Earth's calculation is straightforward: 500 N. Jupiter's stronger gravity (2.5 times stronger) means the same mass experiences 2.5 times the gravitational force, resulting in much greater weight. Mass never changes between planets, but weight always depends on local gravity.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "9811d004-cb7d-4310-8849-7ff815bad3fd",
+  "question_text": "A skateboarder rides down a slope and then up a ramp on the other side. Assuming no energy is lost to friction or air resistance, explain why the skateboarder cannot reach the same height on the other side as the starting height.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy_conservation",
+    "gravitational_potential_energy",
+    "kinetic_energy",
+    "real_world_application"
+  ],
+  "options": null,
+  "correct_answer": "The skateboarder cannot reach the same height because some of the gravitational potential energy is converted into kinetic energy as they travel across the ground/between the slopes. Even without friction, kinetic energy is 'lost' from potential energy, so there is less potential energy available to convert back to height on the other side.",
+  "explanation": "This is a trick question that tests understanding of energy conservation in real scenarios. Even without friction, the skateboarder's kinetic energy at the bottom means not all the original potential energy is available to be converted back into height. In reality, friction would make this effect even more pronounced, as energy would be dissipated as heat.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

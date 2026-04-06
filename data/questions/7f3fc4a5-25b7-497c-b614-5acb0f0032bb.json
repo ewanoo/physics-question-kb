@@ -1,0 +1,17 @@
+{
+  "id": "7f3fc4a5-25b7-497c-b614-5acb0f0032bb",
+  "question_text": "A kettle transfers 2000 J of electrical energy to water. Of this, 1800 J increases the water's internal energy (making it hotter) and 200 J is lost to the surroundings as heat through the kettle's sides and lid. Explain why the efficiency is not 100% even though most of the energy is used to heat the water.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "energy.efficiency",
+  "tags": [
+    "efficiency",
+    "energy loss",
+    "reasoning"
+  ],
+  "options": null,
+  "correct_answer": "The 200 J lost to the surroundings is wasted energy that does not heat the water. Only the energy that reaches the water (1800 J) counts as useful, so efficiency is (1800 \u00f7 2000) \u00d7 100 = 90%. Efficiency cannot be 100% because some energy is always wasted.",
+  "explanation": "This is hard because it requires understanding that 'useful' energy output must be clearly defined\u2014only the energy heating the water counts as useful, not all the energy transferred. Students must recognise that wasted energy always reduces efficiency below 100%, and apply the efficiency formula.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

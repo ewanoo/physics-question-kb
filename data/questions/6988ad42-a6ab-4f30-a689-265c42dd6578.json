@@ -1,0 +1,37 @@
+{
+  "id": "6988ad42-a6ab-4f30-a689-265c42dd6578",
+  "question_text": "Which of the following surfaces would produce the most friction when a block slides across it?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "forces.friction",
+  "tags": [
+    "rough surfaces",
+    "application"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Ice",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Polished marble",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Sandpaper",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Waxed wood",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "C",
+  "explanation": "Sandpaper has a very rough surface with many bumps and irregularities. Rough surfaces create more friction because there is more contact and interlocking between the surfaces. Ice and polished marble are smooth, so they create very little friction.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

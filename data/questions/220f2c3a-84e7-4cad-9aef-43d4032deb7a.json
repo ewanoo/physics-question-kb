@@ -1,0 +1,17 @@
+{
+  "id": "220f2c3a-84e7-4cad-9aef-43d4032deb7a",
+  "question_text": "A car of mass 1000 kg is moving at constant velocity along a horizontal road. The friction force acting on the car is 500 N. Calculate the driving force that the engine must provide.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.friction",
+  "tags": [
+    "balanced forces",
+    "Newton's first law",
+    "constant velocity"
+  ],
+  "options": null,
+  "correct_answer": "500 N",
+  "explanation": "When the car moves at constant velocity, the net force must be zero (Newton's first law). This means the driving force must equal the friction force. Since friction is 500 N, the engine must provide 500 N to maintain constant speed.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

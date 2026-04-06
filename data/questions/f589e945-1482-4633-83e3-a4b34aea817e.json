@@ -1,0 +1,16 @@
+{
+  "id": "f589e945-1482-4633-83e3-a4b34aea817e",
+  "question_text": "Why does a sharp knife cut through food more easily than a blunt knife?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure_application",
+    "real_world"
+  ],
+  "options": null,
+  "correct_answer": "A sharp knife has a smaller contact area, so the same force creates greater pressure, making it easier to cut.",
+  "explanation": "Even though both knives apply the same force, the sharp knife concentrates that force over a much smaller area (the thin edge), creating higher pressure. High pressure is more effective at cutting through materials.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

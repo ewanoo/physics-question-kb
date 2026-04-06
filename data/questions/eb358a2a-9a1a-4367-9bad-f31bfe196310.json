@@ -1,0 +1,16 @@
+{
+  "id": "eb358a2a-9a1a-4367-9bad-f31bfe196310",
+  "question_text": "What is meant by a 'non-renewable energy resource'?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "definitions",
+    "non-renewable"
+  ],
+  "options": null,
+  "correct_answer": "An energy resource that cannot be replaced once it is used up, or takes millions of years to form",
+  "explanation": "Non-renewable resources like fossil fuels (coal, oil, gas) formed over millions of years and we use them faster than nature can replace them. Once they run out, they won't be available for future generations.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

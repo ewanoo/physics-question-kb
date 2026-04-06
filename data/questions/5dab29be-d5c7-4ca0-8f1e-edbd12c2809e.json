@@ -1,0 +1,18 @@
+{
+  "id": "5dab29be-d5c7-4ca0-8f1e-edbd12c2809e",
+  "question_text": "A student's daily food intake contains 8,400 kJ of energy. The student uses 3,500 kJ for exercise, 2,100 kJ for keeping their body warm, and 1,400 kJ for growth and repair. The rest is stored as fat. Calculate how much energy is stored as fat per day, and explain why storing excess food energy as fat is useful for the body.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "energy.food",
+  "tags": [
+    "energy balance",
+    "food energy",
+    "storage",
+    "metabolism"
+  ],
+  "options": null,
+  "correct_answer": "1,400 kJ is stored as fat. Fat stores energy efficiently because it provides more than twice the energy per gram compared to carbohydrates or proteins (about 38 kJ/g vs 17 kJ/g), making it a compact, concentrated energy reserve that the body can draw on during periods of low food intake.",
+  "explanation": "Energy stored as fat = 8,400 \u2212 (3,500 + 2,100 + 1,400) = 8,400 \u2212 7,000 = 1,400 kJ. This harder question requires students to understand energy balance, perform multi-step calculations, and evaluate why the body stores energy in this form rather than others.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

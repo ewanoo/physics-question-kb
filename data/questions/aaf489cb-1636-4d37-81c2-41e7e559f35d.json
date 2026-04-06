@@ -1,0 +1,39 @@
+{
+  "id": "aaf489cb-1636-4d37-81c2-41e7e559f35d",
+  "question_text": "A ball is dropped from a cliff. As it falls, gravitational potential energy is converted into kinetic energy. Which statement best explains why the total mechanical energy stays constant during the fall (ignoring air resistance)?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.conservation",
+  "tags": [
+    "energy_conservation",
+    "gravitational_potential_energy",
+    "kinetic_energy",
+    "mechanical_energy"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The ball loses gravitational potential energy, but this energy is completely converted to kinetic energy, so total energy remains constant",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "The gravitational potential energy and kinetic energy both increase equally as the ball falls",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Air resistance adds energy to the ball, replacing the potential energy that is lost",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The ball's weight stays the same, so its total energy must stay constant",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": "A",
+  "explanation": "Energy conservation states that energy cannot be created or destroyed, only transferred between forms. As the ball falls and loses height, its gravitational potential energy decreases, but this energy is transferred into kinetic energy (energy of movement). The sum of these two energies remains constant because no energy is lost from the system (when air resistance is ignored).",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

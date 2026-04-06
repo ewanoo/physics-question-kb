@@ -1,0 +1,16 @@
+{
+  "id": "47a376e6-b845-4f4a-b81f-2cac2869dc17",
+  "question_text": "A box with a weight of 500 N is placed on the ground. The contact area between the box and the ground is 2 m\u00b2. Calculate the pressure exerted by the box on the ground.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure_calculation",
+    "formula"
+  ],
+  "options": null,
+  "correct_answer": "250 Pa",
+  "explanation": "Use the formula pressure = force \u00f7 area. Pressure = 500 N \u00f7 2 m\u00b2 = 250 Pa (pascals). This shows how the same weight spread over a larger area creates less pressure.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

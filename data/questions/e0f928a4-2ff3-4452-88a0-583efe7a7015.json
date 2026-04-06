@@ -1,0 +1,17 @@
+{
+  "id": "e0f928a4-2ff3-4452-88a0-583efe7a7015",
+  "question_text": "A student is designing a bridge and needs to decide whether to use wide or narrow support pillars. Explain which design would be better and why, considering both the strength of the materials and practical engineering concerns.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "engineering_application",
+    "evaluation",
+    "pressure_effects"
+  ],
+  "options": null,
+  "correct_answer": "Wide support pillars would be better because they spread the weight of the bridge over a larger area, reducing pressure on the ground and on the pillar material itself. This means the materials experience less stress and are less likely to fail.",
+  "explanation": "Wider pillars reduce pressure (force \u00f7 area), which means lower stress in the materials and less risk of the ground being compressed or crushed. Narrow pillars would concentrate the load, creating dangerously high pressures that could cause the bridge or ground to fail.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "98f4d0c6-a12c-4062-a781-d759bcb89232",
+  "question_text": "A hydraulic system uses pressure to lift a car. A force of 100 N is applied to a piston with an area of 0.5 m\u00b2. This creates pressure that is transmitted through fluid to a larger piston with an area of 5 m\u00b2. Calculate the force exerted by the larger piston.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulics",
+    "pressure_transmission",
+    "multi_step"
+  ],
+  "options": null,
+  "correct_answer": "1000 N",
+  "explanation": "First, find the pressure from the small piston: 100 N \u00f7 0.5 m\u00b2 = 200 Pa. This pressure is transmitted through the fluid to the large piston. Then calculate the force: 200 Pa \u00d7 5 m\u00b2 = 1000 N. Hydraulic systems multiply force by using different sized pistons.",
+  "quality_score": 4,
+  "source_name": "claude_generator"
+}
