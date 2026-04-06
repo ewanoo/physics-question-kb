@@ -1,0 +1,20 @@
+{
+  "question_text": "When a drop of food colouring is placed in a beaker of water, the colour gradually spreads throughout the entire beaker without being stirred. Which process explains this spreading, and why does it happen faster in hot water than in cold water?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "matter.particles",
+  "tags": [
+    "diffusion",
+    "particle movement",
+    "temperature effect"
+  ],
+  "options": null,
+  "correct_answer": "This is diffusion. Food colouring particles spread from an area of high concentration to areas of low concentration as the particles move randomly. It happens faster in hot water because particles move faster at higher temperatures, so they spread and mix more quickly.",
+  "explanation": "Diffusion is the spreading of particles from where they are concentrated to where they are less concentrated. It occurs because particles are constantly moving randomly in all directions. Heat increases the kinetic energy of particles, making them move faster and collide more frequently, so diffusion occurs faster at higher temperatures. This is why sugar dissolves faster in hot tea than in cold water.",
+  "quality_score": 4,
+  "id": "e5dbf8e3-aa56-4821-a679-c7bea1092b6d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:02.760503"
+}

@@ -1,0 +1,21 @@
+{
+  "question_text": "A compass needle is a small bar magnet with a north-seeking pole that points towards the Earth's magnetic north pole. A student places the compass 2 metres away from a large permanent bar magnet with its south pole pointing east. Predict and explain what will happen to the compass needle.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "Earth's magnetic field",
+    "compass",
+    "magnetic field interaction",
+    "prediction"
+  ],
+  "options": null,
+  "correct_answer": "The compass needle will rotate to point towards the bar magnet's south pole (towards the east). The bar magnet's magnetic field is much stronger than Earth's magnetic field over this short distance, so the compass needle's north-seeking pole will be attracted to the south pole of the bar magnet, overriding Earth's magnetic influence.",
+  "explanation": "Although a compass is normally aligned by Earth's magnetic field, a stronger local magnetic field can override this. Since the north-seeking pole of a compass is attracted to a south pole, and the bar magnet's south pole is pointing east, the compass needle will rotate eastward. This demonstrates that magnetic fields from different sources can interact, with the stronger field dominating. At greater distances, Earth's magnetic field would reassert its influence on the compass.",
+  "quality_score": 4,
+  "id": "0dbec25c-99f0-4125-8999-cd6f88606022",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:14.028297"
+}

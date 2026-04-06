@@ -1,0 +1,21 @@
+{
+  "question_text": "A student compares three substances: A (a piece of wood), B (water in a beaker), and C (air in a balloon). The student applies 100 J of heat energy to each substance for the same length of time. Predict which substance will show the smallest temperature increase. Explain your answer in terms of particle movement and latent heat.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "matter.states",
+  "tags": [
+    "specific heat capacity",
+    "latent heat",
+    "particle model",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Water (B) will show the smallest temperature increase. Water has a high specific heat capacity, meaning it requires a lot of energy to increase its temperature. Additionally, some of the heat energy will be used for evaporation (latent heat) rather than just increasing temperature. Wood and air require less energy per degree of temperature change, so they will heat up more quickly.",
+  "explanation": "This question tests understanding of specific heat capacity (even though not named explicitly) and latent heat. Water absorbs a lot of energy without a large temperature rise because: (1) it has strong forces between particles that require energy to overcome, and (2) some energy goes into evaporation rather than increasing particle movement. This is a challenging question because it requires comparing multiple concepts and reasoning about energy distribution.",
+  "quality_score": 5,
+  "id": "df2c9efc-c0bc-4bc9-8a8f-defed74147da",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:40.175618"
+}

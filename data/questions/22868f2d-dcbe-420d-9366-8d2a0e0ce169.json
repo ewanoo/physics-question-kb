@@ -1,0 +1,40 @@
+{
+  "question_text": "A puddle of water disappears on a sunny day. Which change of state has occurred?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "evaporation",
+    "changes of state"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Freezing",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Condensation",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Evaporation",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Sublimation",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Evaporation is when a liquid changes into a gas. The water gains heat energy from the sun, and particles gain enough energy to escape from the liquid and move freely as a gas (water vapour). This is different from boiling because it happens below the boiling point.",
+  "quality_score": 5,
+  "id": "22868f2d-dcbe-420d-9366-8d2a0e0ce169",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:40.175543"
+}

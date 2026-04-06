@@ -1,0 +1,21 @@
+{
+  "question_text": "A hot air balloon floats stationary in the air. A student draws a free-body diagram showing two forces: an upward arrow labeled 'upthrust' and a downward arrow labeled 'weight'. Explain why the balloon floats without moving up or down, and what must be true about the sizes of these two forces.",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "upthrust",
+    "floating",
+    "free-body diagrams"
+  ],
+  "options": null,
+  "correct_answer": "The balloon floats because the forces are balanced\u2014the upthrust from the surrounding air equals the weight of the balloon. Since the resultant force is zero, the balloon is stationary and does not accelerate upwards or downwards.",
+  "explanation": "Floating objects have balanced forces. The upthrust (buoyant force from the displaced air) must equal the weight (gravitational force pulling down) for the object to remain in equilibrium and not accelerate.",
+  "quality_score": 4,
+  "id": "04282833-7b2c-45c8-be12-50f3aaa2ca33",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:51.256142"
+}

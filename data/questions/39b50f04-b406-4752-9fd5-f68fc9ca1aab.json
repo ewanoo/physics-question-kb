@@ -1,0 +1,41 @@
+{
+  "question_text": "A student compresses air inside a syringe by pushing the plunger down. According to the particle model of gases, what happens to the gas particles and the pressure?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "particle_model",
+    "pressure_definition",
+    "volume_pressure_relationship"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The particles move slower and the pressure decreases.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The particles are forced closer together and collide with the walls more often, so pressure increases.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The particles escape from the syringe, so there are fewer collisions and pressure decreases.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The particles move faster but spread out more, so pressure stays the same.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "When you compress a gas into a smaller volume, the particles are squeezed into a smaller space. This means they collide with the walls more frequently, which increases the pressure. The particle model helps us understand that pressure comes from particle collisions.",
+  "quality_score": 4,
+  "id": "39b50f04-b406-4752-9fd5-f68fc9ca1aab",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:27.640893"
+}

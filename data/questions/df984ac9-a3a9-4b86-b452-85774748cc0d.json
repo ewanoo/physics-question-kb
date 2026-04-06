@@ -1,0 +1,41 @@
+{
+  "question_text": "Which statement correctly describes the arrangement and movement of particles in a solid?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "matter.states",
+  "tags": [
+    "particle model",
+    "solids",
+    "properties"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Particles are arranged randomly and move freely throughout the solid.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Particles are arranged in a fixed pattern and vibrate in fixed positions.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Particles are loosely packed and slide past one another.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Particles have no forces between them and move at high speed.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "In a solid, particles are held in fixed positions by strong forces between them, so they can only vibrate (shake) in place. They cannot move freely like in gases or slide past each other like in liquids. This is why solids have a fixed shape and volume.",
+  "quality_score": 5,
+  "id": "df984ac9-a3a9-4b86-b452-85774748cc0d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:40.175174"
+}

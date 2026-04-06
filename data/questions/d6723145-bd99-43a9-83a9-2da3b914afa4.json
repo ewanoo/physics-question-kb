@@ -1,0 +1,41 @@
+{
+  "question_text": "Which statement correctly describes how magnetic field lines are drawn around a bar magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic field lines",
+    "field patterns",
+    "understanding"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "They point from the south pole to the north pole inside the magnet and from north to south outside",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "They point from the north pole to the south pole inside the magnet and from south to north outside",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "They point from the north pole to the south pole both inside and outside the magnet",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "They point in circles around the magnet with no clear direction",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Magnetic field lines always flow from the north pole to the south pole, both inside the magnet and outside. This consistent direction helps us understand how magnets interact with each other and with other magnetic materials. The lines never cross and are closer together where the field is stronger.",
+  "quality_score": 4,
+  "id": "d6723145-bd99-43a9-83a9-2da3b914afa4",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:14.028179"
+}

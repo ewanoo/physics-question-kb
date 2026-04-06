@@ -1,0 +1,41 @@
+{
+  "question_text": "A diver at a depth of 20 m experiences a water pressure of 200,000 Pa (excluding atmospheric pressure). Another diver at a depth of 40 m is twice as deep. Which of the following is true about the pressure experienced by the second diver?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "liquid pressure",
+    "depth relationship",
+    "proportional reasoning"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The pressure will be 100,000 Pa because pressure decreases with depth.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The pressure will be approximately 400,000 Pa because pressure is directly proportional to depth.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The pressure will be 200,000 Pa because the depth is the same for both divers.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure will be 800,000 Pa because pressure increases with the square of the depth.",
+      "is_correct": true
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Since pressure in a liquid is directly proportional to depth (P = \u03c1gh), when depth doubles from 20 m to 40 m, pressure also doubles from 200,000 Pa to approximately 400,000 Pa. This tests whether students understand the linear relationship between depth and pressure, not a squared or inverse relationship. Distractors test common misconceptions about how pressure varies with depth.",
+  "quality_score": 4,
+  "id": "e32c1e0c-df19-48a3-8eac-6d74664eb41d",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:38.847326"
+}

@@ -1,0 +1,20 @@
+{
+  "question_text": "Calculate the pressure exerted by a force of 60 newtons acting over an area of 3 square metres. Use the formula pressure = force / area.",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "pressure_formula",
+    "calculation",
+    "force_area"
+  ],
+  "options": null,
+  "correct_answer": "20 pascals (Pa) or 20 N/m\u00b2",
+  "explanation": "Using the formula pressure = force / area, we divide 60 N by 3 m\u00b2 to get 20 Pa. This shows how pressure depends on both the force applied and the area it acts over; the same force spread over a larger area creates less pressure.",
+  "quality_score": 4,
+  "id": "b2f367ea-f1b5-4691-982b-d0703fbc5691",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:27.641239"
+}

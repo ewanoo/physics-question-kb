@@ -1,0 +1,21 @@
+{
+  "question_text": "A block of wood has a mass of 240 g and a volume of 400 cm\u00b3. A block of steel with the same volume has a mass of 3200 g. Calculate the density of each material (in g/cm\u00b3) and explain why steel is denser than wood in terms of particle arrangement.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "density",
+    "particle packing",
+    "calculation",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "Wood: density = 240 \u00f7 400 = 0.6 g/cm\u00b3. Steel: density = 3200 \u00f7 400 = 8 g/cm\u00b3. Steel is denser because its particles are packed much more tightly together in the same volume, so more mass fits into the same space.",
+  "explanation": "Density is calculated as mass divided by volume. Steel has 8 g/cm\u00b3 compared to wood's 0.6 g/cm\u00b3, which means steel particles are more closely packed. Even though both materials are solids with particles in fixed arrangements, steel particles are held more tightly together, allowing much more mass to occupy the same volume. This demonstrates how density depends on particle packing density, not just the type of material.",
+  "quality_score": 4,
+  "id": "d6c3b66e-0f6b-4c4f-88b6-062e4602b354",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:02.760370"
+}

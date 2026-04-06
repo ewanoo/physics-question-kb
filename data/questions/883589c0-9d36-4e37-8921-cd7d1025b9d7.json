@@ -1,0 +1,42 @@
+{
+  "question_text": "Two sealed containers are identical in size. Container A contains only oxygen gas molecules, and Container B contains only helium gas atoms. Both containers are at the same temperature. Which container has particles moving faster on average, and why?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "matter.particles",
+  "tags": [
+    "particle movement",
+    "gases",
+    "temperature",
+    "particle mass"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Container A (oxygen) because oxygen molecules are larger.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Container B (helium) because helium atoms are lighter and move faster at the same temperature.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Both containers have particles moving at exactly the same speed because they are at the same temperature.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Container A (oxygen) because gas molecules move faster than individual atoms.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Although both containers are at the same temperature, the lighter helium atoms move faster on average than heavier oxygen molecules. This is because temperature represents average kinetic energy (KE = \u00bdmv\u00b2), so lighter particles must move faster to have the same total kinetic energy as heavier ones. This is why lighter gases like helium diffuse faster than heavier gases.",
+  "quality_score": 4,
+  "id": "883589c0-9d36-4e37-8921-cd7d1025b9d7",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:02.760578"
+}

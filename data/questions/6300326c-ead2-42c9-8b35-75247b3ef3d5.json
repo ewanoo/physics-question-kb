@@ -1,0 +1,20 @@
+{
+  "question_text": "A hydraulic lift uses a small piston with an area of 0.01 m\u00b2 and a large piston with an area of 0.5 m\u00b2. If a force of 1000 N is applied to the small piston, what force is exerted by the large piston? (Assume the pressure is transmitted equally through the incompressible fluid.)",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.pressure",
+  "tags": [
+    "hydraulic systems",
+    "pressure transmission",
+    "multi-step"
+  ],
+  "options": null,
+  "correct_answer": "50,000 N. Step 1: Calculate pressure at small piston = force / area = 1000 / 0.01 = 100,000 Pa. Step 2: This pressure is transmitted equally through the fluid, so pressure at large piston = 100,000 Pa. Step 3: Force at large piston = pressure \u00d7 area = 100,000 \u00d7 0.5 = 50,000 N.",
+  "explanation": "This question requires understanding that pressure is transmitted equally through an incompressible fluid in a hydraulic system, then using P = F/A in reverse to find force. Students must complete multiple steps and understand why a small force on a small area can produce a large force on a large area\u2014a key principle of hydraulic systems.",
+  "quality_score": 4,
+  "id": "6300326c-ead2-42c9-8b35-75247b3ef3d5",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:38.847189"
+}

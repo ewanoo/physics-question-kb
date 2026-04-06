@@ -1,0 +1,42 @@
+{
+  "question_text": "A car travels along a straight, flat road at a constant speed of 20 m/s. The driving force from the engine is 5000 N. What can you conclude about the friction and air resistance forces acting on the car?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.balanced",
+  "tags": [
+    "balanced forces",
+    "resultant force",
+    "constant velocity",
+    "Newton's first law"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The friction and air resistance are less than 5000 N, so the car continues to accelerate",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "The friction and air resistance together equal 5000 N, so the resultant force is zero and the car maintains constant speed",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The friction and air resistance together are greater than 5000 N, so the car is slowing down",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "There is no friction or air resistance because the car is moving at constant speed",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "An object moving at constant velocity has zero acceleration, which means the resultant force must be zero. Therefore, the driving force (5000 N forward) must be balanced by the total resistance forces (friction and air resistance combined) acting backward.",
+  "quality_score": 4,
+  "id": "1bd42e03-7904-46be-8075-d13a279b9dc2",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:51.256069"
+}

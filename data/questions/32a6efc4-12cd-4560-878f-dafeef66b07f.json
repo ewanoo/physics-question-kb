@@ -1,0 +1,41 @@
+{
+  "question_text": "Why does pressure in a liquid increase as you go deeper underwater?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "liquid pressure",
+    "depth",
+    "explanation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "The deeper you go, the colder the water becomes, which increases pressure.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "There is more water above you pushing down, so the weight of the water exerts greater pressure.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "The water molecules move faster at greater depths, creating more pressure.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "The pressure increases because the area of the ocean floor gets smaller at depth.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Liquid pressure increases with depth because the weight of all the water above pushes down on the water below. This is captured in the formula P = \u03c1gh, where the pressure depends on the depth (h). Temperature and molecular speed do not cause the increase; it is the weight of the water column above that matters.",
+  "quality_score": 4,
+  "id": "32a6efc4-12cd-4560-878f-dafeef66b07f",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:38.847253"
+}

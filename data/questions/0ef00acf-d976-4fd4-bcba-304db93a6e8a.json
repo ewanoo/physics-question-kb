@@ -1,0 +1,21 @@
+{
+  "question_text": "A kettle of boiling water is left on the stove at 100\u00b0C. Heat is continuously supplied, but the temperature remains at 100\u00b0C for several minutes. Calculate how much energy is needed to completely evaporate 0.5 kg of water if the latent heat of vaporisation of water is 2,260,000 J/kg. (Use the equation: energy = mass \u00d7 latent heat)",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "matter.states",
+  "tags": [
+    "evaporation",
+    "boiling",
+    "latent heat",
+    "calculation"
+  ],
+  "options": null,
+  "correct_answer": "Energy = mass \u00d7 latent heat = 0.5 \u00d7 2,260,000 = 1,130,000 J (or 1.13 million joules, or 1.13 MJ)",
+  "explanation": "During boiling, heat energy is used to turn liquid into gas (latent heat of vaporisation) rather than to increase temperature. We use the latent heat equation to find the total energy needed. Multiplying 0.5 kg by 2,260,000 J/kg gives 1,130,000 J. This shows why it takes a long time for water to completely evaporate at 100\u00b0C\u2014a lot of energy is needed even though the temperature doesn't change.",
+  "quality_score": 5,
+  "id": "0ef00acf-d976-4fd4-bcba-304db93a6e8a",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:40.175676"
+}

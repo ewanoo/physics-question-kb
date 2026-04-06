@@ -1,0 +1,41 @@
+{
+  "question_text": "At sea level, atmospheric pressure is about 101,000 Pa. A small box with a lid has an area of 0.5 square metres on its top surface. Which of the following best estimates the total force exerted by atmospheric pressure on the top of the box?",
+  "question_type": "multiple_choice",
+  "difficulty": "medium",
+  "topic": "matter.gas_pressure",
+  "tags": [
+    "atmospheric_pressure",
+    "pressure_formula",
+    "force_calculation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "About 50,500 newtons.",
+      "is_correct": true
+    },
+    {
+      "label": "B",
+      "text": "About 202,000 newtons.",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "About 10,100 newtons.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "About 505 newtons.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Rearranging pressure = force / area to force = pressure \u00d7 area, we get force = 101,000 Pa \u00d7 0.5 m\u00b2 = 50,500 N. This shows that atmospheric pressure exerts enormous forces on surfaces, even though we don't feel it in everyday life because pressure acts equally in all directions.",
+  "quality_score": 4,
+  "id": "3ccc8b26-d774-4f7d-ba03-98f12a6417b2",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:27.641490"
+}

@@ -1,0 +1,21 @@
+{
+  "question_text": "A skydiver falls through the air and eventually reaches terminal velocity, at which point they stop accelerating and fall at a constant speed. At terminal velocity, the air resistance force is 800 N. Using the concept of balanced forces, what must the weight of the skydiver and their equipment be, and explain how air resistance changed as the skydiver fell from the plane until reaching terminal velocity.",
+  "question_type": "calculation",
+  "difficulty": "hard",
+  "topic": "forces.balanced",
+  "tags": [
+    "terminal velocity",
+    "balanced forces",
+    "air resistance",
+    "Newton's first law"
+  ],
+  "options": null,
+  "correct_answer": "The weight of the skydiver and equipment must be 800 N. As the skydiver fell, air resistance increased from nearly zero (at the start) to 800 N (at terminal velocity). Once air resistance equaled the weight, the forces became balanced, the resultant force became zero, and acceleration stopped.",
+  "explanation": "At terminal velocity, the skydiver no longer accelerates, so the forces must be balanced. This means air resistance = weight = 800 N. During the fall, increasing speed caused air resistance to increase, gradually reducing the downward resultant force until it reached zero at terminal velocity.",
+  "quality_score": 4,
+  "id": "46dea1e9-d7e8-4203-9a87-e4cf975655ed",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:06:51.256207"
+}

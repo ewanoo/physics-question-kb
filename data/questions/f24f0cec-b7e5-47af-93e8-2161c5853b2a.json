@@ -1,0 +1,20 @@
+{
+  "question_text": "Why is nuclear waste a significant disadvantage of nuclear power as an energy resource?",
+  "question_type": "short_answer",
+  "difficulty": "medium",
+  "topic": "energy.resources",
+  "tags": [
+    "nuclear energy",
+    "radioactive waste",
+    "disadvantages"
+  ],
+  "options": null,
+  "correct_answer": "Nuclear waste is radioactive and dangerous for thousands of years. It is difficult and expensive to store safely, and there is no permanent solution for disposing of it. If it leaks, it can contaminate water supplies and harm living organisms.",
+  "explanation": "Nuclear fission in power stations produces radioactive waste that emits radiation for a very long time (some isotopes have half-lives of thousands of years). This waste must be stored in secure, isolated locations, which is costly and technically challenging. Unlike fossil fuel waste (which is mostly CO2 in the air), radioactive waste poses a direct health hazard if it escapes containment.",
+  "quality_score": 4,
+  "id": "f24f0cec-b7e5-47af-93e8-2161c5853b2a",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:27.020295"
+}

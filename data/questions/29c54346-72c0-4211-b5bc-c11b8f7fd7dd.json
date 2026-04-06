@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following is a renewable energy resource?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable",
+    "energy sources",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Coal",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Natural gas",
+      "is_correct": false
+    },
+    {
+      "label": "C",
+      "text": "Solar energy",
+      "is_correct": true
+    },
+    {
+      "label": "D",
+      "text": "Nuclear fuel (uranium)",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Solar energy is renewable because the Sun will continue to provide energy for billions of years and it naturally replenishes. Coal, natural gas, and uranium are non-renewable because we use them up faster than nature can replace them.",
+  "quality_score": 5,
+  "id": "29c54346-72c0-4211-b5bc-c11b8f7fd7dd",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:27.019992"
+}

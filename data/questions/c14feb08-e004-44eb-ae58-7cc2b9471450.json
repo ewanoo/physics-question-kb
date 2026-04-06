@@ -1,0 +1,41 @@
+{
+  "question_text": "Which of the following metals would be attracted to a permanent magnet?",
+  "question_type": "multiple_choice",
+  "difficulty": "easy",
+  "topic": "electricity.magnets",
+  "tags": [
+    "magnetic materials",
+    "permanent magnets",
+    "recall"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Copper",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Iron",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Aluminium",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Gold",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Iron is one of the metals that is strongly attracted to magnets. Copper, aluminium, and gold are non-magnetic metals and are not attracted to permanent magnets. Other magnetic metals include steel, nickel, and cobalt.",
+  "quality_score": 4,
+  "id": "c14feb08-e004-44eb-ae58-7cc2b9471450",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:14.027846"
+}

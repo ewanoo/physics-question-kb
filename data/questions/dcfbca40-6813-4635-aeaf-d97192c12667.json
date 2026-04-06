@@ -1,0 +1,20 @@
+{
+  "question_text": "A woman wearing high heels exerts a force of 600 N on the ground. A man wearing flat shoes exerts the same force of 600 N on the ground. The woman's heels have a total contact area of 0.001 m\u00b2, while the man's shoes have a total contact area of 0.04 m\u00b2. Which person exerts more pressure on the ground, and why?",
+  "question_type": "calculation",
+  "difficulty": "medium",
+  "topic": "forces.pressure",
+  "tags": [
+    "pressure formula",
+    "real-world application",
+    "comparison"
+  ],
+  "options": null,
+  "correct_answer": "The woman exerts more pressure. Using pressure = force / area: Woman's pressure = 600 / 0.001 = 600,000 Pa; Man's pressure = 600 / 0.04 = 15,000 Pa. The woman's pressure is much greater because although the force is the same, her contact area is much smaller.",
+  "explanation": "This question tests the relationship between force, area and pressure. Students must calculate pressure for both people using P = F/A and then compare the results. The key insight is that the same force over a smaller area creates much larger pressure, which is why high heels can damage floors more easily than flat shoes.",
+  "quality_score": 4,
+  "id": "dcfbca40-6813-4635-aeaf-d97192c12667",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:38.846890"
+}

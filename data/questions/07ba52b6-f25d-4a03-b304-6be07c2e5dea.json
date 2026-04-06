@@ -1,0 +1,42 @@
+{
+  "question_text": "A country is choosing between building a new hydroelectric power station or a new coal power station. Which statement best explains why hydroelectric power is better for long-term energy security?",
+  "question_type": "multiple_choice",
+  "difficulty": "hard",
+  "topic": "energy.resources",
+  "tags": [
+    "renewable vs non-renewable",
+    "energy security",
+    "evaluation",
+    "hydroelectric"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "text": "Hydroelectric power is cheaper to build than coal power stations.",
+      "is_correct": false
+    },
+    {
+      "label": "B",
+      "text": "Water is a renewable resource that will not run out, whereas coal reserves are finite and will eventually be depleted.",
+      "is_correct": true
+    },
+    {
+      "label": "C",
+      "text": "Hydroelectric power stations produce no pollution and coal stations pollute the air.",
+      "is_correct": false
+    },
+    {
+      "label": "D",
+      "text": "Hydroelectric power can generate electricity 24 hours a day, while coal power stations can only work during the day.",
+      "is_correct": false
+    }
+  ],
+  "correct_answer": null,
+  "explanation": "Energy security means having reliable, long-term access to energy. Although option C is true, it addresses environmental impact, not security. Option D is incorrect (coal can run day and night). Option A is debatable and not the main security issue. Option B is correct because hydroelectric uses water\u2014a renewable resource\u2014so supply is guaranteed for the foreseeable future, whereas coal is non-renewable and will eventually run out, threatening future energy security.",
+  "quality_score": 4,
+  "id": "07ba52b6-f25d-4a03-b304-6be07c2e5dea",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:27.020345"
+}

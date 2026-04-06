@@ -1,0 +1,20 @@
+{
+  "question_text": "What is pressure, and what are its units in the SI system?",
+  "question_type": "short_answer",
+  "difficulty": "easy",
+  "topic": "forces.pressure",
+  "tags": [
+    "definition",
+    "units",
+    "SI"
+  ],
+  "options": null,
+  "correct_answer": "Pressure is the force acting perpendicular to a surface divided by the area of that surface. Its SI units are pascals (Pa) or newtons per square metre (N/m\u00b2).",
+  "explanation": "This is a fundamental definition question that checks basic knowledge of what pressure is and how it is measured. Students should understand that pressure combines both force and area, and be able to recall the correct SI unit.",
+  "quality_score": 4,
+  "id": "5c019c2b-9703-461e-baea-890c08cb8294",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:38.847118"
+}

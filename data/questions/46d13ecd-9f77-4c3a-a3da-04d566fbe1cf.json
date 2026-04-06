@@ -1,0 +1,20 @@
+{
+  "question_text": "A steel nail is repeatedly struck with a hammer while it is positioned along the north-south direction near a strong permanent magnet. Explain why the nail becomes magnetised and describe whether this is an example of a permanent or temporary magnet.",
+  "question_type": "short_answer",
+  "difficulty": "hard",
+  "topic": "electricity.magnets",
+  "tags": [
+    "induced magnetism",
+    "permanent vs temporary magnets",
+    "evaluation"
+  ],
+  "options": null,
+  "correct_answer": "The nail becomes magnetised because the magnetic field from the permanent magnet aligns the iron domains in the steel. The repeated striking with the hammer helps fix this alignment. This is induced magnetism, and the nail becomes a temporary magnet because once removed from the magnetic field, it will gradually lose its magnetism. However, the repeated mechanical shock may cause some permanent magnetisation to remain.",
+  "explanation": "Induced magnetism occurs when a magnetic material like steel is placed in a strong magnetic field\u2014the field aligns the domains (tiny regions of magnetisation) within the metal. The hammering helps lock this alignment in place by rearranging the atomic structure. This creates a temporary magnet that will weaken over time as thermal energy causes the domains to become disorganised again. This is different from permanent magnets, where the alignment is much more stable and long-lasting.",
+  "quality_score": 4,
+  "id": "46d13ecd-9f77-4c3a-a3da-04d566fbe1cf",
+  "source_name": "claude_generator",
+  "year_group": "year8",
+  "curriculum": "ks3",
+  "scraped_at": "2026-04-06T05:07:14.028246"
+}
